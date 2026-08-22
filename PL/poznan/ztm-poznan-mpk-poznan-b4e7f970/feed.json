@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Poznan / MPK Poznan",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": "Poznan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/poznan.zip",
+    "mdb_id": "pl-poznan",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

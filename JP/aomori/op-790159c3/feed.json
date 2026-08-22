@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "蓬田村",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yomogitavillage/feeds/yomogita-communitybus/files/feed.zip",
+    "mdb_id": "jp-yomogitavillage-yomogita-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

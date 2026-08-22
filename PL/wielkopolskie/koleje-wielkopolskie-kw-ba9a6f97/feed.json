@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Wielkopolskie (KW)",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-kw.zip",
+    "mdb_id": "pl-pkp-kw",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

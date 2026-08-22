@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Troms fylkestrafikk",
+    "country": "NO",
+    "subdivision": "Troms",
+    "city": "Tromsø"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_tro-aggregated-gtfs.zip",
+    "mdb_id": "no-troms-fylkestrafikk",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

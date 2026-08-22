@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Comune di Milano",
+    "country": "IT",
+    "subdivision": "Lombardia",
+    "city": "Milan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.comune.milano.it/dataset/ae3f3db9-de61-45b7-94e7-9395c0e3ef53/resource/6251f156-4c74-4a0b-904e-01bcb701a686/download/gtfs.zip",
+    "mdb_id": "it-comune-di-milano-ds929-gtfs-zip",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

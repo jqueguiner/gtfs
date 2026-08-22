@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三豊市",
+    "country": "JP",
+    "subdivision": "Kagawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mitoyocity/feeds/mitoyocommunitybus/files/feed.zip",
+    "mdb_id": "jp-mitoyocity-mitoyocommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

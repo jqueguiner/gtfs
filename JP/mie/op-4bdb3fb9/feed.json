@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊野市",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumanocity/feeds/shuyubus/files/feed.zip",
+    "mdb_id": "jp-kumanocity-shuyubus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

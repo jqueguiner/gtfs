@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "草軽交通株式会社",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kusakarukotsu/feeds/kusakarubus/files/feed.zip",
+    "mdb_id": "jp-kusakarukotsu-kusakarubus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

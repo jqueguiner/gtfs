@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lodzka Kolej Aglomeracyjna (LKA)",
+    "country": "PL",
+    "subdivision": "Lodzkie",
+    "city": "Lodz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/lodz-lka.zip",
+    "mdb_id": "pl-lodz-lka",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南国市",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nangokucity/feeds/GTFS-Nankokucity_Bus/files/feed.zip",
+    "mdb_id": "jp-nangokucity-gtfs-nankokucity-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "須恵町",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/suetown/feeds/SueTownCommunityBus/files/feed.zip",
+    "mdb_id": "jp-suetown-suetowncommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "公益財団法人高知県観光コンベンション協会",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-kanko-convention/feeds/GTFS-KVCA_MY-YUbus/files/feed.zip",
+    "mdb_id": "jp-kochi-kanko-convention-gtfs-kvca-my-yubus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

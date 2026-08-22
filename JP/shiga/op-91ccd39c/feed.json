@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "栗東市",
+    "country": "JP",
+    "subdivision": "Shiga",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/rittocity/feeds/rittoukurichanbus/files/feed.zip",
+    "mdb_id": "jp-rittocity-rittoukurichanbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

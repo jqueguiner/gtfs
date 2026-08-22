@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社タケヤ交通",
+    "country": "JP",
+    "subdivision": "Miyagi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takeyakoutu/feeds/takeyakotsu/files/feed.zip",
+    "mdb_id": "jp-takeyakoutu-takeyakotsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

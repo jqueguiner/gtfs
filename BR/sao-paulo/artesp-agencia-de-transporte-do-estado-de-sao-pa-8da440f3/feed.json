@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ARTESP (Agência de Transporte do Estado de São Paulo)",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dadosabertos.artesp.sp.gov.br/dataset/92e8bb31-df66-4700-ad9a-42a48f04fb7f/resource/4c0f3a81-b587-4ead-ab10-4584c02614e0/download/artesp_gtfs.zip",
+    "mdb_id": "br-artesp-agencia-de-transporte-do-estado-de-sao-paulo-artesp-gtfs-all-sp-regul",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

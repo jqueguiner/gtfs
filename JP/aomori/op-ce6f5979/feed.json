@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "下北交通株式会社",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimoko/feeds/shimokitakotsu/files/feed.zip",
+    "mdb_id": "jp-shimoko-shimokitakotsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

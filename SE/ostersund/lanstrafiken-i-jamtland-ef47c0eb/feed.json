@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lanstrafiken i Jamtland",
+    "country": "SE",
+    "subdivision": "Jamtland",
+    "city": "Ostersund"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/jamtland/jamtland.zip?key={apikey}",
+    "mdb_id": "se-jamtland",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

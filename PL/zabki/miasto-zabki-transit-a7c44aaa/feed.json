@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miasto Zabki transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Zabki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-zabki.zip",
+    "mdb_id": "pl-warsaw-zabki",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

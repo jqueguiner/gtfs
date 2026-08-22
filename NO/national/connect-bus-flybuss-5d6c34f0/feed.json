@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Connect Bus Flybuss",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_nbu-aggregated-gtfs.zip",
+    "mdb_id": "no-connect-bus-flybuss",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

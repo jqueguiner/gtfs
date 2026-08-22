@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Komia Liikenne",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.kamugtfs.fi/feeds/harman-liikenne-oy/seinajoen-kaupunkiliikenne/latest.zip",
+    "mdb_id": "fi-app-kamugtfs-fi-feeds-harman-liikenne-oy-seinajoen-kaupunkiliikenne-latest-zip",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ÖBB-Personenverkehr / EVU (nationwide rail)",
+    "country": "AT",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27321/file",
+    "mdb_id": "at-gtfs-evu-2026",
+    "license": "Data License Mobilitätsverbünde Österreich"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

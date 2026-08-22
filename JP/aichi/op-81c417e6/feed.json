@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "瀬戸市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus/files/feed.zip",
+    "mdb_id": "jp-setocity-setocitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

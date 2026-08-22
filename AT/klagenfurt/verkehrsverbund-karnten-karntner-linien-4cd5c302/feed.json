@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Kärnten (Kärntner Linien)",
+    "country": "AT",
+    "subdivision": "Carinthia",
+    "city": "Klagenfurt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27312/file",
+    "mdb_id": "at-gtfs-kaerntnerlinien-2026",
+    "license": "Data License Mobilitätsverbünde Österreich"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

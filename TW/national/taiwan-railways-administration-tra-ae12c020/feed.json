@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Taiwan Railways Administration (TRA)",
+    "country": "TW",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TRA",
+    "mdb_id": "tw-tdx-rail-tra",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

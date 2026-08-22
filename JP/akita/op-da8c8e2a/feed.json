@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "羽後交通株式会社",
+    "country": "JP",
+    "subdivision": "Akita",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ugokotsu/feeds/ugokotsu_honjo/files/feed.zip",
+    "mdb_id": "jp-ugokotsu-ugokotsu-honjo",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

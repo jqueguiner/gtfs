@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Comune di Messina",
+    "country": "IT",
+    "subdivision": "Sicilia",
+    "city": "Messina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.atmmessinaspa.it/GTFS/GTFS_ATM_SPA.zip",
+    "mdb_id": "it-comune-di-messina-gtfs-atm-spa",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

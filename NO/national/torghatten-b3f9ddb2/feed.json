@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Torghatten",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_tts-aggregated-gtfs.zip",
+    "mdb_id": "no-torghatten",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

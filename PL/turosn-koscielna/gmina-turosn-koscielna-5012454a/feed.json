@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Turosn Koscielna",
+    "country": "PL",
+    "subdivision": "Podlaskie",
+    "city": "Turosn Koscielna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/bialystok-turosn.zip",
+    "mdb_id": "pl-bialystok-turosn",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

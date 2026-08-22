@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Malopolskie (KML)",
+    "country": "PL",
+    "subdivision": "Malopolskie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-kml.zip",
+    "mdb_id": "pl-pkp-kml",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

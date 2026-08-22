@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kochi Metro Rail Ltd (KMRL)",
+    "country": "IN",
+    "subdivision": "Kerala",
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kochimetro.org/opendata/KMRLOpenData.zip",
+    "mdb_id": "in-kmrl-kochi",
+    "license": "Free non-exclusive, attribution required (KMRL Open Data)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

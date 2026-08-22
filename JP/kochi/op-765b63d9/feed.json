@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高知県航空利用促進協議会",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochiap/feeds/GTFS-KochIAP_AirportShare/files/feed.zip",
+    "mdb_id": "jp-kochiap-gtfs-kochiap-airportshare",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

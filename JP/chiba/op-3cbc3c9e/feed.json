@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ちばレインボーバス株式会社",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chiba-rainbow-bus/feeds/chibarainbowbus/files/feed.zip",
+    "mdb_id": "jp-chiba-rainbow-bus-chibarainbowbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

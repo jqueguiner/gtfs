@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Snelandia",
+    "country": "NO",
+    "subdivision": "Finnmark",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_fin-aggregated-gtfs.zip",
+    "mdb_id": "no-snelandia",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

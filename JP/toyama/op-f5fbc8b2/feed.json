@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "黒部市",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kurobecity/feeds/shinkansenikuji-ishida-aimoto-minibus/files/feed.zip",
+    "mdb_id": "jp-kurobecity-shinkansenikuji-ishida-aimoto-minibus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

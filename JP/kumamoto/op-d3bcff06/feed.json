@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本電鉄",
+    "country": "JP",
+    "subdivision": "Kumamoto",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumamotodentetsu/feeds/kumamotodentetsu-bus/files/feed.zip",
+    "mdb_id": "jp-kumamotodentetsu-kumamotodentetsu-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

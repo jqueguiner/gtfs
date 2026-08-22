@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊谷市",
+    "country": "JP",
+    "subdivision": "Saitama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumagayacity/feeds/yuuyuubus/files/feed.zip",
+    "mdb_id": "jp-kumagayacity-yuuyuubus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tampereen seudun joukkoliikenne",
+    "country": "FI",
+    "subdivision": "Pirkanmaa",
+    "city": "Tampere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ekstrat.tampere.fi/ekstrat/ptdata/tamperefeed.zip",
+    "mdb_id": "fi-ekstrat-tampere-fi-ekstrat-ptdata-tamperefeed-zip",
+    "license": "Tampere City Open Data License"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

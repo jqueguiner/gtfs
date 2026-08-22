@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KTDB — Korea Transport DataBase (MOLIT), community mirror",
+    "country": "KR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://huggingface.co/datasets/Digital-Twin-Urban-Mobility/GTFS-Korea/resolve/main/GTFS_Korea.zip",
+    "mdb_id": "kr-ktdb-nationwide-gtfs",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

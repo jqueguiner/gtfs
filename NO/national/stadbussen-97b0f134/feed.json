@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stadbussen",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_stb-aggregated-gtfs.zip",
+    "mdb_id": "no-stadbussen",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

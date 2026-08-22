@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Taipei Rapid Transit — Maokong Gondola",
+    "country": "TW",
+    "subdivision": "Taipei",
+    "city": "Taipei"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TRTCMG",
+    "mdb_id": "tw-tdx-rail-trtcmg",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

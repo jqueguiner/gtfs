@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PKP Intercity",
+    "country": "PL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-ic.zip",
+    "mdb_id": "pl-pkp-ic",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

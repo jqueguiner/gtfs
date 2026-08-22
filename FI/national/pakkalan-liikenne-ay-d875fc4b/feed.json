@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pakkalan Liikenne Ay",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://minfoapi.matkahuolto.fi/gtfs/378/gtfs.zip",
+    "mdb_id": "fi-minfoapi-matkahuolto-fi-gtfs-378-gtfs-zip",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

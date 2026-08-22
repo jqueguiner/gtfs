@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "stops.lt",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://stops.lt/LVA/lva/gtfs.zip",
+    "mdb_id": "lv-stops-lt-lva-lva-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

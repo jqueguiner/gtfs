@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "行方市",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/namegatacity/feeds/bus-namegata-ibaraki-jp/files/feed.zip",
+    "mdb_id": "jp-namegatacity-bus-namegata-ibaraki-jp",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

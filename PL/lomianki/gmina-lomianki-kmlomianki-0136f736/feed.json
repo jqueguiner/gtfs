@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Lomianki (KMLomianki)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Lomianki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-lomianki.zip",
+    "mdb_id": "pl-warsaw-lomianki",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

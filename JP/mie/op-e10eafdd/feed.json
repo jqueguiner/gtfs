@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "多気町",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takitown/feeds/choeibus/files/feed.zip",
+    "mdb_id": "jp-takitown-choeibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

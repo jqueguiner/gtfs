@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社高知駅前観光",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-ekimae-kanko/feeds/GTFS-Ekimae_Airportbus/files/feed.zip",
+    "mdb_id": "jp-kochi-ekimae-kanko-gtfs-ekimae-airportbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

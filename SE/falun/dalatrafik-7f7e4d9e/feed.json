@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dalatrafik",
+    "country": "SE",
+    "subdivision": "Dalarna",
+    "city": "Falun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/dt/dt.zip?key={apikey}",
+    "mdb_id": "se-dt",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

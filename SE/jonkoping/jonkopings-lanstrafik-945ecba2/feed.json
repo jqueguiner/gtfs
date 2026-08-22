@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jonkopings Lanstrafik",
+    "country": "SE",
+    "subdivision": "Jonkopings lan",
+    "city": "Jonkoping"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/jlt/jlt.zip?key={apikey}",
+    "mdb_id": "se-jlt",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

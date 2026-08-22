@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Gorzow Wielkopolski",
+    "country": "PL",
+    "subdivision": "Lubuskie",
+    "city": "Gorzow Wielkopolski"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/gorzow.zip",
+    "mdb_id": "pl-gorzow",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitano de Lisboa",
+    "country": "PT",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dados.gov.pt/s/resources/gfts-do-metropolitano-de-lisboa/20260114-115938/gtfs.zip",
+    "mdb_id": "pt-gtfs-do-metropolitano-de-lisboa",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "田川市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tagawacity/feeds/TagawaCityCommunityBus/files/feed.zip",
+    "mdb_id": "jp-tagawacity-tagawacitycommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

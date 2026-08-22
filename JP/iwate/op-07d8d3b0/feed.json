@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "花巻市",
+    "country": "JP",
+    "subdivision": "Iwate",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hanamakicity/feeds/hanamaki/files/feed.zip",
+    "mdb_id": "jp-hanamakicity-hanamaki",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

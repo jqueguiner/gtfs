@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koiviston Auto Porvoo Oy",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://minfoapi.matkahuolto.fi/gtfs/7015/gtfs.zip",
+    "mdb_id": "fi-minfoapi-matkahuolto-fi-gtfs-7015-gtfs-zip",
+    "license": "https://www.matkahuolto.fi/matkahuollon-avoimet-rajapinnat"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

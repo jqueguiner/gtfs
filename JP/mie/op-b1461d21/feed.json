@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "川越町",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kawagoetown/feeds/fureaibus/files/feed.zip",
+    "mdb_id": "jp-kawagoetown-fureaibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fjord Tours",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_fjt-aggregated-gtfs.zip",
+    "mdb_id": "no-fjord-tours",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Walshs Coaches",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_walsh_exec.zip",
+    "mdb_id": "ie-walshs-coaches",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

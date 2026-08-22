@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "八戸市",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hachinohecity/feeds/hachinohe-nango/files/feed.zip",
+    "mdb_id": "jp-hachinohecity-hachinohe-nango",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

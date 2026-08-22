@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "築上町",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chikujotown/feeds/ChikujoTownCommunityBus/files/feed.zip",
+    "mdb_id": "jp-chikujotown-chikujotowncommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

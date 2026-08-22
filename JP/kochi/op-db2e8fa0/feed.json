@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "有限会社嶺北観光自動車",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/reihoku-kanko/feeds/GTFS-Reihokukanko_Localbus/files/feed.zip",
+    "mdb_id": "jp-reihoku-kanko-gtfs-reihokukanko-localbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

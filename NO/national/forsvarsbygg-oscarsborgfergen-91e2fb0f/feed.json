@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Forsvarsbygg (Oscarsborgfergen)",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_osc-aggregated-gtfs.zip",
+    "mdb_id": "no-forsvarsbygg-oscarsborgfergen",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

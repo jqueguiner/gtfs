@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTZ Rybnik",
+    "country": "PL",
+    "subdivision": "Slaskie",
+    "city": "Rybnik"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/rybnik.zip",
+    "mdb_id": "pl-rybnik",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

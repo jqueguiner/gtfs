@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PKS (Poznan agglomeration)",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": "Poznan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/poznan-pks.zip",
+    "mdb_id": "pl-poznan-pks",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

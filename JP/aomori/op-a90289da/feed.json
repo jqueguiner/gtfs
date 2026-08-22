@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "弘前市",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hirosakicity/feeds/kounan-tetsudou/files/feed.zip",
+    "mdb_id": "jp-hirosakicity-kounan-tetsudou",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

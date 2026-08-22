@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "赤穂市",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akocity/feeds/teijuurou/files/feed.zip",
+    "mdb_id": "jp-akocity-teijuurou",
+    "license": "CC BY 2.1 JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

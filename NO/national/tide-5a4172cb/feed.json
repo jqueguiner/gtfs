@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tide",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_tid-aggregated-gtfs.zip",
+    "mdb_id": "no-tide",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

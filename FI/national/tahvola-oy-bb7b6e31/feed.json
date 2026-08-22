@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tahvola Oy",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://minfoapi.matkahuolto.fi/gtfs/6876/gtfs.zip",
+    "mdb_id": "fi-minfoapi-matkahuolto-fi-gtfs-6876-gtfs-zip",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長野市",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/shiei_noriaibus/files/feed.zip",
+    "mdb_id": "jp-naganocity-shiei-noriaibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

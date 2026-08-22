@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高知県",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi_pref/feeds/GTFS-Kochipref_Ferry/files/feed.zip",
+    "mdb_id": "jp-kochi-pref-gtfs-kochipref-ferry",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

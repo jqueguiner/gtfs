@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "足利市",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ashikagacity/feeds/Ashikaga-route-bus/files/feed.zip",
+    "mdb_id": "jp-ashikagacity-ashikaga-route-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

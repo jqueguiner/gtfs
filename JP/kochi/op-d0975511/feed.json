@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北川村",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitagawavillage/feeds/GTFS-Kitagawavill_Bus/files/feed.zip",
+    "mdb_id": "jp-kitagawavillage-gtfs-kitagawavill-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

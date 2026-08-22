@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MF Øisang",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_ois-aggregated-gtfs.zip",
+    "mdb_id": "no-mf-oisang",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

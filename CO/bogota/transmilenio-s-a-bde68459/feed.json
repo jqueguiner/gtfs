@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransMilenio S.A.",
+    "country": "CO",
+    "subdivision": "Bogota D.C.",
+    "city": "Bogota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/gtfs-estaticos/GTFS_20260727.zip",
+    "mdb_id": "co-transmilenio-s-a",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

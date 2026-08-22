@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "君津市",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Local_buses_via_Kimitsu_City/files/feed.zip",
+    "mdb_id": "jp-kimitsucity-local-buses-via-kimitsu-city",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

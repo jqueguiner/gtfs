@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Visimarsrutai (Lithuanian NAP)",
+    "country": "LT",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.visimarsrutai.lt/gtfs/google_transit.zip",
+    "mdb_id": "lt-national-aggregate",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

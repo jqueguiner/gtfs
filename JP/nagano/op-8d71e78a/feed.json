@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "飯山市",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/iiyamacity/feeds/nanohanabus/files/feed.zip",
+    "mdb_id": "jp-iiyamacity-nanohanabus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

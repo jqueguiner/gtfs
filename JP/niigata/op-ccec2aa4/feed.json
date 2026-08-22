@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "燕市",
+    "country": "JP",
+    "subdivision": "Niigata",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsubamecity/feeds/tsubame_bus/files/feed.zip",
+    "mdb_id": "jp-tsubamecity-tsubame-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

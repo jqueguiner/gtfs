@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZKM Gdynia",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "city": "Gdynia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/tricity-gdynia.zip",
+    "mdb_id": "pl-tricity-gdynia",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "村上市",
+    "country": "JP",
+    "subdivision": "Niigata",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murakamicity/feeds/murakamisicommunitybus/files/feed.zip",
+    "mdb_id": "jp-murakamicity-murakamisicommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

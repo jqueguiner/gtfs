@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Radzymin transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Radzymin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-radzymin.zip",
+    "mdb_id": "pl-warsaw-radzymin",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

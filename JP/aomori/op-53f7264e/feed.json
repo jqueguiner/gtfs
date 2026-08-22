@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七戸町",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shichinohetown/feeds/shichinohe_community-bus/files/feed.zip",
+    "mdb_id": "jp-shichinohetown-shichinohe-community-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

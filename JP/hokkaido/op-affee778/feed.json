@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "上士幌町",
+    "country": "JP",
+    "subdivision": "Hokkaido",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamishihorotown/feeds/kamishihoro/files/feed.zip",
+    "mdb_id": "jp-kamishihorotown-kamishihoro",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

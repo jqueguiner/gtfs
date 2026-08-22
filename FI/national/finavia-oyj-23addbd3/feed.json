@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Finavia Oyj",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://koontikartta.navici.com/tiedostot/gtfs_finavia.zip",
+    "mdb_id": "fi-finavia-flights",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

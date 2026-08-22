@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中野市",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-nakanocity/feeds/fureaibus/files/feed.zip",
+    "mdb_id": "jp-nagano-nakanocity-fureaibus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

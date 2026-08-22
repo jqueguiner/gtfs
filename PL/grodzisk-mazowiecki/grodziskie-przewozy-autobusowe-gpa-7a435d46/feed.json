@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grodziskie Przewozy Autobusowe (GPA)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Grodzisk Mazowiecki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-gpa.zip",
+    "mdb_id": "pl-warsaw-gpa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

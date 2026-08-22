@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Agder kollektivtrafikk",
+    "country": "NO",
+    "subdivision": "Agder",
+    "city": "Kristiansand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_akt-aggregated-gtfs.zip",
+    "mdb_id": "no-agder-kollektivtrafikk",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

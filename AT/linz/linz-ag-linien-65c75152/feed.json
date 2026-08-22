@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Linz AG Linien",
+    "country": "AT",
+    "subdivision": "Upper Austria",
+    "city": "Linz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27269/file",
+    "mdb_id": "at-gtfs-esg-2026",
+    "license": "Data License Mobilitätsverbünde Österreich"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

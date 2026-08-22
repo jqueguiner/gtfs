@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Burkesbus",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_burkesbus.zip",
+    "mdb_id": "ie-burkesbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "四万十市",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimantocity/feeds/GTFS-Shimantocity_Bus/files/feed.zip",
+    "mdb_id": "jp-shimantocity-gtfs-shimantocity-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

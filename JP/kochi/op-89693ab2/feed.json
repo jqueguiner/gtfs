@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "安田町",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yasudatown/feeds/GTFS-Yasudatown_Bus/files/feed.zip",
+    "mdb_id": "jp-yasudatown-gtfs-yasudatown-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

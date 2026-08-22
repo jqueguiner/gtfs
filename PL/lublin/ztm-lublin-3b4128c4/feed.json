@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Lublin",
+    "country": "PL",
+    "subdivision": "Lubelskie",
+    "city": "Lublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/lublin.zip",
+    "mdb_id": "pl-lublin",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

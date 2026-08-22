@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "仙北市",
+    "country": "JP",
+    "subdivision": "Akita",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sembokucity/feeds/bus-city-semboku/files/feed.zip",
+    "mdb_id": "jp-sembokucity-bus-city-semboku",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

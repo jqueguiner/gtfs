@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南木曽町",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagisotown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-nagisotown-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

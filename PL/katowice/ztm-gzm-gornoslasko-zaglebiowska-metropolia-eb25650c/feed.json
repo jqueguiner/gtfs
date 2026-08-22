@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM GZM (Gornoslasko-Zaglebiowska Metropolia)",
+    "country": "PL",
+    "subdivision": "Slaskie",
+    "city": "Katowice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/gzm.zip",
+    "mdb_id": "pl-gzm",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

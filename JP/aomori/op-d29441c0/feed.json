@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "階上町",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hashikamitown/feeds/hashikamibus/files/feed.zip",
+    "mdb_id": "jp-hashikamitown-hashikamibus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

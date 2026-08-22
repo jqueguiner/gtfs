@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "野々市市",
+    "country": "JP",
+    "subdivision": "Ishikawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nonoichicity/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-nonoichicity-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

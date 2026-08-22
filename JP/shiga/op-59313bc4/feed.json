@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "甲賀市",
+    "country": "JP",
+    "subdivision": "Shiga",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kokacity/feeds/sinaicommunitybus/files/feed.zip",
+    "mdb_id": "jp-kokacity-sinaicommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "奥州市",
+    "country": "JP",
+    "subdivision": "Iwate",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/oshucity/feeds/bus-oshucity-iwate-jp/files/feed.zip",
+    "mdb_id": "jp-oshucity-bus-oshucity-iwate-jp",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

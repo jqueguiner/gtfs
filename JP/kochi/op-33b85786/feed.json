@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "芸西村",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/geiseivillage/feeds/GTFS-Geiseivill_Bus/files/feed.zip",
+    "mdb_id": "jp-geiseivillage-gtfs-geiseivill-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

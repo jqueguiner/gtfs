@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "那珂川町",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tochigi-nakagawatown/feeds/nakagawamaticommunitybus/files/feed.zip",
+    "mdb_id": "jp-tochigi-nakagawatown-nakagawamaticommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

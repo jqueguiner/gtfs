@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "あま市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/amacity/feeds/amashijunkaibasu/files/feed.zip",
+    "mdb_id": "jp-amacity-amashijunkaibasu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

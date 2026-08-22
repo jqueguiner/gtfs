@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NPO法人清里観光振興会",
+    "country": "JP",
+    "subdivision": "Yamanashi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kiyosato/feeds/kiyosato-picnicbus/files/feed.zip",
+    "mdb_id": "jp-kiyosato-kiyosato-picnicbus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "平戸市",
+    "country": "JP",
+    "subdivision": "Nagasaki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hiradocity/feeds/fureaibus/files/feed.zip",
+    "mdb_id": "jp-hiradocity-fureaibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

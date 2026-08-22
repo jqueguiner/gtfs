@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中津市",
+    "country": "JP",
+    "subdivision": "Oita",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatsucity/feeds/Kawaraguchi/files/feed.zip",
+    "mdb_id": "jp-nakatsucity-kawaraguchi",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

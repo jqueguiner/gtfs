@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "瀬戸内市",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitykankobus/files/feed.zip",
+    "mdb_id": "jp-setouchicity-setouchicitykankobus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

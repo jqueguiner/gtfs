@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Provincia Autonoma di Trento",
+    "country": "IT",
+    "subdivision": "Trentino-Alto Adige",
+    "city": "Trento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.trentino.it/dataset/6d5c2000-972e-4c21-aef6-fdbba94418a8/resource/44efc0bd-223a-49c7-b3b0-16128e32813c/download/tariffegtfsurbano.zip",
+    "mdb_id": "it-provincia-autonoma-di-trento-tariffegtfsurbano",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

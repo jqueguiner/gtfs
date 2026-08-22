@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Superintendência de Mobilidade",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "city": "Belo Horizonte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/mobilibus-uploads/gtfs/GTFSBHTRANSCON.zip",
+    "mdb_id": "br-gtfs-estatico-do-sistema-convencional-f0fa78dc",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

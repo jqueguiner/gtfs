@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三原村",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/miharavillage/feeds/GTFS-Miharavill_Bus/files/feed.zip",
+    "mdb_id": "jp-miharavillage-gtfs-miharavill-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

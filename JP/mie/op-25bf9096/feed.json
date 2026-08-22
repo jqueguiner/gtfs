@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "尾鷲市",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/owasecity/feeds/fureaibus/files/feed.zip",
+    "mdb_id": "jp-owasecity-fureaibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Minsk Mazowiecki transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Minsk Mazowiecki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-minsk.zip",
+    "mdb_id": "pl-warsaw-minsk",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

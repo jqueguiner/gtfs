@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "伊万里市",
+    "country": "JP",
+    "subdivision": "Saga",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/imaricity/feeds/imarinbus/files/feed.zip",
+    "mdb_id": "jp-imaricity-imarinbus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

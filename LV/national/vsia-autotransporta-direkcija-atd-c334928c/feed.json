@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VSIA Autotransporta direkcija (ATD)",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://atd.lv/sites/default/files/GTFS/gtfs-latvia-lv.zip",
+    "mdb_id": "lv-atd-lv-sites-default-files-gtfs-gtfs-latvia-lv-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

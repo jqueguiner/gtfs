@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鏡野町",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kagaminotown/feeds/kagaminotownbus/files/feed.zip",
+    "mdb_id": "jp-kagaminotown-kagaminotownbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

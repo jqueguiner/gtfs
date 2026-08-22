@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Kielce",
+    "country": "PL",
+    "subdivision": "Swietokrzyskie",
+    "city": "Kielce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/kielce.zip",
+    "mdb_id": "pl-kielce",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

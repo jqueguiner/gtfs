@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "外ヶ浜町",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sotogahamatown/feeds/sotogahama-townbus/files/feed.zip",
+    "mdb_id": "jp-sotogahamatown-sotogahama-townbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

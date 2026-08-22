@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OTP Namtang (Office of Transport and Traffic Policy and Planning)",
+    "country": "TH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://namtang-api.otp.go.th/download/namtang-gtfs.zip#agency=TC",
+    "mdb_id": "th-tc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

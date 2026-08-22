@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Metro Rail Corporation (DMRC)",
+    "country": "IN",
+    "subdivision": "Delhi",
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://otd.delhi.gov.in/data/staticDMRC/",
+    "mdb_id": "in-otd-delhi-dmrc",
+    "license": "opendata.iiitd.edu.in terms"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

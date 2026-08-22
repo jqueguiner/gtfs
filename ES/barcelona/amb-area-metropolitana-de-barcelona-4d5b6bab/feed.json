@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AMB - Area Metropolitana de Barcelona",
+    "country": "ES",
+    "subdivision": "Cataluna",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.amb.cat/Mobilitat/OpenData/google_transit.zip",
+    "mdb_id": "es-amb-area-metropolitana-de-barcelona-barcelona",
+    "license": "Open data (AMB)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

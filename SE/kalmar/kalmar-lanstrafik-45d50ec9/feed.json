@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kalmar Lanstrafik",
+    "country": "SE",
+    "subdivision": "Kalmar lan",
+    "city": "Kalmar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/klt/klt.zip?key={apikey}",
+    "mdb_id": "se-klt",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

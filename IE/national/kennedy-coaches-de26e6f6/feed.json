@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kennedy Coaches",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_kennedy_coaches.zip",
+    "mdb_id": "ie-kennedy-coaches",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

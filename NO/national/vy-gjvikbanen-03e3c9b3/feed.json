@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vy Gjøvikbanen",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_gjb-aggregated-gtfs.zip",
+    "mdb_id": "no-vy-gjovikbanen",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

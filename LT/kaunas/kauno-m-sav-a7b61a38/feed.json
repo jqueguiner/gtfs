@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kauno m. sav.",
+    "country": "LT",
+    "subdivision": null,
+    "city": "Kaunas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.visimarsrutai.lt/gtfs/KaunoM.zip",
+    "mdb_id": "lt-kauno-m-sav",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

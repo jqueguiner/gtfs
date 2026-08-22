@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "津エアポートライン",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsu-airportline/feeds/airportline/files/feed.zip",
+    "mdb_id": "jp-tsu-airportline-airportline",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

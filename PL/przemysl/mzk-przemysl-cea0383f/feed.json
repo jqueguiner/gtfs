@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Przemysl",
+    "country": "PL",
+    "subdivision": "Podkarpackie",
+    "city": "Przemysl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/przemysl.zip",
+    "mdb_id": "pl-przemysl",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

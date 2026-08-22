@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STIB-MIVB",
+    "country": "BE",
+    "subdivision": "Brussels-Capital",
+    "city": "Brussels"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata-api.stib-mivb.be/Files/1.0/Gtfs",
+    "mdb_id": "be-stib-mivb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

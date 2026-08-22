@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本都市バス",
+    "country": "JP",
+    "subdivision": "Kumamoto",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumamoto-toshibus/feeds/kumamoto-toshibus/files/feed.zip",
+    "mdb_id": "jp-kumamoto-toshibus-kumamoto-toshibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

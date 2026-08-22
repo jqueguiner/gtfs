@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東信観光バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toshinkanko-bus/feeds/rosenbus/files/feed.zip",
+    "mdb_id": "jp-toshinkanko-bus-rosenbus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

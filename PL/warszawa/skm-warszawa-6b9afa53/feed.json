@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SKM Warszawa",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Warszawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-skmw.zip",
+    "mdb_id": "pl-pkp-skmw",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

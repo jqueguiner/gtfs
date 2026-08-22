@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Goleniow transit",
+    "country": "PL",
+    "subdivision": "Zachodniopomorskie",
+    "city": "Goleniow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/szczecin-goleniow.zip",
+    "mdb_id": "pl-szczecin-goleniow",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

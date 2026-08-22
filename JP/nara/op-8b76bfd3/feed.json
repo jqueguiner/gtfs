@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "安堵町",
+    "country": "JP",
+    "subdivision": "Nara",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/andotown/feeds/andocombus/files/feed.zip",
+    "mdb_id": "jp-andotown-andocombus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

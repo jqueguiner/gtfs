@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vastmanlands Lokaltrafik (VL)",
+    "country": "SE",
+    "subdivision": "Vastmanland",
+    "city": "Vasteras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vastmanland/vastmanland.zip?key={apikey}",
+    "mdb_id": "se-vastmanland",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

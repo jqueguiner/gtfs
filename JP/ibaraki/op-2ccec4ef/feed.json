@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "大利根交通自動車株式会社",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otonekotu/feeds/otonekotubus/files/feed.zip",
+    "mdb_id": "jp-otonekotu-otonekotubus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

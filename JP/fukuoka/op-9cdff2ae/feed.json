@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "豊前市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/buzencity/feeds/BuzenCityBus/files/feed.zip",
+    "mdb_id": "jp-buzencity-buzencitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "神姫観光",
+    "country": "JP",
+    "subdivision": "Osaka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus/files/feed.zip",
+    "mdb_id": "jp-shinkikanko-limonbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

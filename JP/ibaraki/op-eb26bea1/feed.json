@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "結城市",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yukicity/feeds/junkaibus/files/feed.zip",
+    "mdb_id": "jp-yukicity-junkaibus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

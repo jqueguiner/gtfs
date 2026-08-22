@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jelgavas autobusu parks",
+    "country": "LV",
+    "subdivision": null,
+    "city": "Jelgava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.lvnap.lv/jap/gtfs-lv-jap.zip",
+    "mdb_id": "lv-data-lvnap-lv-jap-gtfs-lv-jap-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

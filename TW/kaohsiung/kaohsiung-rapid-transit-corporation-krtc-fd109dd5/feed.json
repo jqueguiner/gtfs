@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kaohsiung Rapid Transit Corporation (KRTC)",
+    "country": "TW",
+    "subdivision": "Kaohsiung",
+    "city": "Kaohsiung"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/KRTC",
+    "mdb_id": "tw-tdx-rail-krtc",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

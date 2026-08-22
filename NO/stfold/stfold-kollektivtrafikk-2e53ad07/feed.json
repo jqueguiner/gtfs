@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Østfold kollektivtrafikk",
+    "country": "NO",
+    "subdivision": "Østfold",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_ost-aggregated-gtfs.zip",
+    "mdb_id": "no-ostfold-kollektivtrafikk",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

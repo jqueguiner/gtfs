@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "池田町",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-ikedatown/feeds/IkedaTownBus/files/feed.zip",
+    "mdb_id": "jp-nagano-ikedatown-ikedatownbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

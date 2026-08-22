@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Taoyuan Metro Corporation (TYMC)",
+    "country": "TW",
+    "subdivision": "Taoyuan",
+    "city": "Taoyuan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TYMC",
+    "mdb_id": "tw-tdx-rail-tymc",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

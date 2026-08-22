@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vasttrafik",
+    "country": "SE",
+    "subdivision": "Vastra Gotaland",
+    "city": "Goteborg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vt/vt.zip?key={apikey}",
+    "mdb_id": "se-vt",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

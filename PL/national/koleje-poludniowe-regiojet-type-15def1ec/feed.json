@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Poludniowe / RegioJet-type",
+    "country": "PL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-rj.zip",
+    "mdb_id": "pl-pkp-rj",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

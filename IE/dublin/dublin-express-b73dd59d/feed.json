@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dublin Express",
+    "country": "IE",
+    "subdivision": null,
+    "city": "Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_dublin_express.zip",
+    "mdb_id": "ie-dublin-express",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

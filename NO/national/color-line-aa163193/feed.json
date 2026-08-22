@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Color Line",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_col-aggregated-gtfs.zip",
+    "mdb_id": "no-color-line",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "多治見市",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tajimicity/feeds/kikyobus/files/feed.zip",
+    "mdb_id": "jp-tajimicity-kikyobus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

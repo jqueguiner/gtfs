@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transport.tallinn.ee",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.tallinn.ee/data/gtfs.zip",
+    "mdb_id": "lv-transport-tallinn-ee-data-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

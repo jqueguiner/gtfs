@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NOR-WAY Bussekspress",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_nwy-aggregated-gtfs.zip",
+    "mdb_id": "no-nor-way-bussekspress",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "神戸市",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-satoyama/files/feed.zip",
+    "mdb_id": "jp-kobecity-kobe-satoyama",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

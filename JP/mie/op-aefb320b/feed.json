@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "伊賀市",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/igacity/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-igacity-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

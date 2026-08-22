@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DeWaterbus",
+    "country": "BE",
+    "subdivision": "Flanders",
+    "city": "Antwerp"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://addtransit.com/gtfsfile/85165/DeWaterbus.zip",
+    "mdb_id": "be-dewaterbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

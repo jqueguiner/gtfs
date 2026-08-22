@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Dabrowka transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Dabrowka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-dabrowka.zip",
+    "mdb_id": "pl-warsaw-dabrowka",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

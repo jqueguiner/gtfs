@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高知西南交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-seinan-kotsu/feeds/GTFS-Seinantraffic_Localbus/files/feed.zip",
+    "mdb_id": "jp-kochi-seinan-kotsu-gtfs-seinantraffic-localbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

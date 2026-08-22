@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oslo VIP Transporttjenester",
+    "country": "NO",
+    "subdivision": "Oslo",
+    "city": "Oslo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_vip-aggregated-gtfs.zip",
+    "mdb_id": "no-oslo-vip-transporttjenester",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

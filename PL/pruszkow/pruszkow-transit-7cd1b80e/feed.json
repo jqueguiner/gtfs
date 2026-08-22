@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pruszkow transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Pruszkow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-pruszkow.zip",
+    "mdb_id": "pl-warsaw-pruszkow",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TEC (Operateur de Transport de Wallonie)",
+    "country": "BE",
+    "subdivision": "Wallonia",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip",
+    "mdb_id": "be-tec-otw",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

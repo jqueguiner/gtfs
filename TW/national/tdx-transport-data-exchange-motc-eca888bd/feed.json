@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TDX — Transport Data eXchange (MOTC)",
+    "country": "TW",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static",
+    "mdb_id": "tw-tdx-national-gtfs",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

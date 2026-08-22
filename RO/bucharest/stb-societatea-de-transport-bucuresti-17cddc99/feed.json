@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STB (Societatea de Transport Bucuresti)",
+    "country": "RO",
+    "subdivision": "Bucuresti-Ilfov",
+    "city": "Bucharest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.tpbi.ro/regional/STB.zip",
+    "mdb_id": "ro-tpbi-stb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

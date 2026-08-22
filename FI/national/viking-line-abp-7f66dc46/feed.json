@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viking Line Abp",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fgwgtfsprod.blob.core.windows.net/gtfsout/latest_VIKINGLINE.zip",
+    "mdb_id": "fi-fgwgtfsprod-blob-core-windows-net-gtfsout-latest-vikingline-zip",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

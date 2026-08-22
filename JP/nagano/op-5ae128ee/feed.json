@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長電バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-exp/files/feed.zip",
+    "mdb_id": "jp-nagadenbus-nagadenbus-exp",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

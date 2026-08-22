@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Roma Capitale",
+    "country": "IT",
+    "subdivision": "Lazio",
+    "city": "Rome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.comune.roma.it/catalog/dataset/a7dadb4a-66ae-4eff-8ded-a102064702ba/resource/266d82e1-ba53-4510-8a81-370880c4678f/download/rome_static_gtfs.zip",
+    "mdb_id": "it-roma-capitale-rome-static-gtfs",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

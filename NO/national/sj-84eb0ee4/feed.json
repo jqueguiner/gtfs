@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SJ",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_sjv-aggregated-gtfs.zip",
+    "mdb_id": "no-sj",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "新見市",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/niimicity/feeds/niimishieibus/files/feed.zip",
+    "mdb_id": "jp-niimicity-niimishieibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

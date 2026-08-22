@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uudenmaan elinkeino-, liikenne- ja ympäristökeskus ",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://minfoapi.matkahuolto.fi/gtfs/7021/gtfs.zip",
+    "mdb_id": "fi-minfoapi-matkahuolto-fi-gtfs-7021-gtfs-zip",
+    "license": "https://www.matkahuolto.fi/matkahuollon-avoimet-rajapinnat"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

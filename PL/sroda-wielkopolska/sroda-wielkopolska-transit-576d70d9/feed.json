@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sroda Wielkopolska transit",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": "Sroda Wielkopolska"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/poznan-sroda.zip",
+    "mdb_id": "pl-poznan-sroda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

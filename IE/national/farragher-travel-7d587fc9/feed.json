@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Farragher Travel",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_farragher.zip",
+    "mdb_id": "ie-farragher-travel",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

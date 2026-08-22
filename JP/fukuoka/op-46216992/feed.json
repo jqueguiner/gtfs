@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "添田町",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/soedatown/feeds/soedamachibus/files/feed.zip",
+    "mdb_id": "jp-soedatown-soedamachibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

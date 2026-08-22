@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "静岡市",
+    "country": "JP",
+    "subdivision": "Shizuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/iryo-fukushi/files/feed.zip",
+    "mdb_id": "jp-shizuokacity-iryo-fukushi",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

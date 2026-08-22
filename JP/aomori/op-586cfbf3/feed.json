@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三沢市",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/misawacity/feeds/misawacity-mebus/files/feed.zip",
+    "mdb_id": "jp-misawacity-misawacity-mebus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

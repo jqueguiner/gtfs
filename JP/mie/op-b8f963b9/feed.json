@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "いなべ市",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inabecity/feeds/fukushibus/files/feed.zip",
+    "mdb_id": "jp-inabecity-fukushibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

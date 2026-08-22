@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "国立市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/kunikko/files/feed.zip",
+    "mdb_id": "jp-kunitachicity-kunikko",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

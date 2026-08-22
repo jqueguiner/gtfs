@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "白鳥交通",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shirotori-kotsu/feeds/shirotorikotsu/files/feed.zip",
+    "mdb_id": "jp-shirotori-kotsu-shirotorikotsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

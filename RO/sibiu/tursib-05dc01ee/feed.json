@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tursib",
+    "country": "RO",
+    "subdivision": "Sibiu",
+    "city": "Sibiu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tursib.ro/documents/gtfs/tursib.gtfs_2026-07-v4.6.zip",
+    "mdb_id": "ro-tursib-sibiu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

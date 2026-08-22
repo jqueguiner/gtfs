@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OTP Namtang (Office of Transport and Traffic Policy and Planning)",
+    "country": "TH",
+    "subdivision": "Nakhon Ratchasima",
+    "city": "Nakhon Ratchasima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://namtang-api.otp.go.th/download/namtang-gtfs.zip#agency=AKP",
+    "mdb_id": "th-akp",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

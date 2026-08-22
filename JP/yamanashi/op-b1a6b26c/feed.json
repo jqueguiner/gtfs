@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "韮崎市",
+    "country": "JP",
+    "subdivision": "Yamanashi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nirasakicity/feeds/shiminbus/files/feed.zip",
+    "mdb_id": "jp-nirasakicity-shiminbus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

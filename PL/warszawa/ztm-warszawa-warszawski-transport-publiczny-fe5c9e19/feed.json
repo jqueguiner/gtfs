@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Warszawa (Warszawski Transport Publiczny)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Warszawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw.zip",
+    "mdb_id": "pl-warsaw",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

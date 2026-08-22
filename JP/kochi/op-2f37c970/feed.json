@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "宿毛市",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sukumocity/feeds/GTFS-Sukumocity_Hanabus/files/feed.zip",
+    "mdb_id": "jp-sukumocity-gtfs-sukumocity-hanabus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

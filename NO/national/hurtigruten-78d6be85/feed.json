@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hurtigruten",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_hur-aggregated-gtfs.zip",
+    "mdb_id": "no-hurtigruten",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

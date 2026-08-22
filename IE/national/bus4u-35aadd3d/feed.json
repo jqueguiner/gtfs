@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bus4u",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_p_naughton.zip",
+    "mdb_id": "ie-bus4u",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

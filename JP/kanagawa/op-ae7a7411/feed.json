@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "茅ヶ崎市",
+    "country": "JP",
+    "subdivision": "Kanagawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chigasakicity/feeds/eboshigou/files/feed.zip",
+    "mdb_id": "jp-chigasakicity-eboshigou",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

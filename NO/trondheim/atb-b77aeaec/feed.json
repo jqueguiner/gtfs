@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AtB",
+    "country": "NO",
+    "subdivision": "Trøndelag",
+    "city": "Trondheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_atb-aggregated-gtfs.zip",
+    "mdb_id": "no-atb",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

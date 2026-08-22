@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "X-Trafik",
+    "country": "SE",
+    "subdivision": "Gavleborg",
+    "city": "Gavle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/xt/xt.zip?key={apikey}",
+    "mdb_id": "se-xt",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cork Cobh Connect",
+    "country": "IE",
+    "subdivision": null,
+    "city": "Cork"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_barrys.zip",
+    "mdb_id": "ie-cork-cobh-connect",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

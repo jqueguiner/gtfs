@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro do Porto",
+    "country": "PT",
+    "subdivision": "Porto",
+    "city": "Porto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.porto.digital/dataset/15f22603-a216-492a-ab1c-40b1d8aa2f08/resource/33c45455-2a97-481b-8295-bd410d2c31cb/download/horarios_gtfs_mdp_17_07_2026.zip",
+    "mdb_id": "pt-horarios-paragens-e-rotas-em-formato-gtfs",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

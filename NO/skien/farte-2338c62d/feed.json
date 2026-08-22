@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Farte",
+    "country": "NO",
+    "subdivision": "Telemark",
+    "city": "Skien"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_tel-aggregated-gtfs.zip",
+    "mdb_id": "no-farte",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

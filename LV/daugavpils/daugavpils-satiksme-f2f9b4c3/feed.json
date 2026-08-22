@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Daugavpils satiksme",
+    "country": "LV",
+    "subdivision": null,
+    "city": "Daugavpils"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://satiksme.daugavpils.lv/saraksti/GTFS.zip",
+    "mdb_id": "lv-satiksme-daugavpils-lv-saraksti-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

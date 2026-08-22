@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blekingetrafiken",
+    "country": "SE",
+    "subdivision": "Blekinge",
+    "city": "Karlskrona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/blekinge/blekinge.zip?key={apikey}",
+    "mdb_id": "se-blekinge",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

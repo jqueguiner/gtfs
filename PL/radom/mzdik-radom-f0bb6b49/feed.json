@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZDiK Radom",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Radom"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/radom.zip",
+    "mdb_id": "pl-radom",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fintraffic ",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rata.digitraffic.fi/api/v1/trains/gtfs-passenger-stops.zip",
+    "mdb_id": "fi-rata-digitraffic-fi-api-v1-trains-gtfs-passenger-stops-zip",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

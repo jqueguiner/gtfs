@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VR-Yhtyma Oyj",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rata.digitraffic.fi/api/v1/trains/gtfs-all.zip",
+    "mdb_id": "fi-vr-rail",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

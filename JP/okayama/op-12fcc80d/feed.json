@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "真庭市",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/maniwacity/feeds/maniwakun/files/feed.zip",
+    "mdb_id": "jp-maniwacity-maniwakun",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

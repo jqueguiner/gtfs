@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "龍ケ崎市",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ryugasakicity/feeds/Ryugasakishi-communitybus/files/feed.zip",
+    "mdb_id": "jp-ryugasakicity-ryugasakishi-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

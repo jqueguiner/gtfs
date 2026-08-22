@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PKS (Rzeszow agglomeration)",
+    "country": "PL",
+    "subdivision": "Podkarpackie",
+    "city": "Rzeszow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/rzeszow-pks.zip",
+    "mdb_id": "pl-rzeszow-pks",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

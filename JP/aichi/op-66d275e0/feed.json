@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "知多乗合（知多バス）",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chitabus/feeds/chitabus/files/feed.zip",
+    "mdb_id": "jp-chitabus-chitabus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

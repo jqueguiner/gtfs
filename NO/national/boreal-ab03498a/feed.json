@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Boreal",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_bor-aggregated-gtfs.zip",
+    "mdb_id": "no-boreal",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

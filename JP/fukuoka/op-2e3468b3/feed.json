@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "太宰府市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/dazaifucity/feeds/DazaifuCityCommunityBus/files/feed.zip",
+    "mdb_id": "jp-dazaifucity-dazaifucitycommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

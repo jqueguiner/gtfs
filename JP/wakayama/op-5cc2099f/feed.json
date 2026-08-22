@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "すさみ町",
+    "country": "JP",
+    "subdivision": "Wakayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/susamitown/feeds/Communitybus/files/feed.zip",
+    "mdb_id": "jp-susamitown-communitybus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

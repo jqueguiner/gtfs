@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "飯島町",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/iijimatown/feeds/iichanbus/files/feed.zip",
+    "mdb_id": "jp-iijimatown-iichanbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

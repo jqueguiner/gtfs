@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MPK Krakow",
+    "country": "PL",
+    "subdivision": "Malopolskie",
+    "city": "Krakow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/krakow-bus.zip",
+    "mdb_id": "pl-krakow-bus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

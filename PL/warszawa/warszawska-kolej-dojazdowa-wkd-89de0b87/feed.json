@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Warszawska Kolej Dojazdowa (WKD)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Warszawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-wkd.zip",
+    "mdb_id": "pl-pkp-wkd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CRTM - Consorcio Regional de Transportes de Madrid",
+    "country": "ES",
+    "subdivision": "Comunidad de Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/885399f83408473c8d815e40c5e702b7/data",
+    "mdb_id": "es-crtm-red-de-autobuses-interurbanos",
+    "license": "https://www.crtm.es/licencia-de-uso"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

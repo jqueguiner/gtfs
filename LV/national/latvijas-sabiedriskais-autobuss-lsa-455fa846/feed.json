@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Latvijas Sabiedriskais autobuss (LSA)",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://marsruti.lv/LSA/lsa/gtfs.zip",
+    "mdb_id": "lv-marsruti-lv-lsa-lsa-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

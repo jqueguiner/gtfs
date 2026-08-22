@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "岩宇地域公共交通活性化協議会",
+    "country": "JP",
+    "subdivision": "Hokkaido",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gan-wu/feeds/shiokazeline/files/feed.zip",
+    "mdb_id": "jp-gan-wu-shiokazeline",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

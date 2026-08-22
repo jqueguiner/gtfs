@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Cali S.A. (MIO)",
+    "country": "CO",
+    "subdivision": "Valle del Cauca",
+    "city": "Cali"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://190.216.202.38:90/gtfs/feed",
+    "mdb_id": "co-metro-cali-s-a-mio",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "和光市",
+    "country": "JP",
+    "subdivision": "Saitama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/wakocity/feeds/Wako-City-junkanbus/files/feed.zip",
+    "mdb_id": "jp-wakocity-wako-city-junkanbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

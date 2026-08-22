@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sormlandstrafiken",
+    "country": "SE",
+    "subdivision": "Sodermanland",
+    "city": "Nykoping"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/sormland/sormland.zip?key={apikey}",
+    "mdb_id": "se-sormland",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

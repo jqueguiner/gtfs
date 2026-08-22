@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "McGonagle Bus and Coach Ltd.",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_mcgonagle_ltd.zip",
+    "mdb_id": "ie-mcgonagle-bus-and-coach-ltd",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

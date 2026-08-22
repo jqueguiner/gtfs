@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "木曽岬町",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisosakitown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-kisosakitown-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

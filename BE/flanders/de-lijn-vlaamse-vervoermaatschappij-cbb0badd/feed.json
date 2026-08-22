@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "De Lijn (Vlaamse Vervoermaatschappij)",
+    "country": "BE",
+    "subdivision": "Flanders",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.delijn.be/gtfs/static/v3/gtfs_transit.zip",
+    "mdb_id": "be-de-lijn",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

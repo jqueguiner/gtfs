@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "八幡観光バス",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hachikanbus/feeds/hachimanbus/files/feed.zip",
+    "mdb_id": "jp-hachikanbus-hachimanbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

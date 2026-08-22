@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "明光バス株式会社",
+    "country": "JP",
+    "subdivision": "Wakayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/meikobus/feeds/meikobus/files/feed.zip",
+    "mdb_id": "jp-meikobus-meikobus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Integrated Multi-Modal Transit System (DIMTS) / DTC",
+    "country": "IN",
+    "subdivision": "Delhi",
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://otd.delhi.gov.in/data/static/",
+    "mdb_id": "in-otd-delhi-bus",
+    "license": "opendata.iiitd.edu.in terms"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

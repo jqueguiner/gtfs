@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Avinor",
+    "country": "NO",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_avi-aggregated-gtfs.zip",
+    "mdb_id": "no-avinor",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

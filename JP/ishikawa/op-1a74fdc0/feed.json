@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "小松市",
+    "country": "JP",
+    "subdivision": "Ishikawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/komatsucity/feeds/blue/files/feed.zip",
+    "mdb_id": "jp-komatsucity-blue",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Mazowieckie (KM)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-km.zip",
+    "mdb_id": "pl-pkp-km",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

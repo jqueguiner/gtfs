@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Varmlandstrafik",
+    "country": "SE",
+    "subdivision": "Varmland",
+    "city": "Karlstad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/varm/varm.zip?key={apikey}",
+    "mdb_id": "se-varm",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

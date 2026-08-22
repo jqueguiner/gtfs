@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lanstrafiken i Norrbotten",
+    "country": "SE",
+    "subdivision": "Norrbotten",
+    "city": "Lulea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/norrbotten/norrbotten.zip?key={apikey}",
+    "mdb_id": "se-norrbotten",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "八戸市交通部",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hachinohe/feeds/hachinohe-citybus/files/feed.zip",
+    "mdb_id": "jp-hachinohe-hachinohe-citybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

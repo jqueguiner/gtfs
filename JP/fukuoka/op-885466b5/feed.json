@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "宮若市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/miyawakacity/feeds/MiyawakaMunakataLine/files/feed.zip",
+    "mdb_id": "jp-miyawakacity-miyawakamunakataline",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

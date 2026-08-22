@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "八百津町",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yaotsutown/feeds/yaobus/files/feed.zip",
+    "mdb_id": "jp-yaotsutown-yaobus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

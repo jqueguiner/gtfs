@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stellenbosch minibus taxis (GoMetro / DT4A)",
+    "country": "ZA",
+    "subdivision": "Western Cape",
+    "city": "Stellenbosch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/Stellenbosch/-/raw/main/GTFS%20Datasets/Stellenbosch_GTFS_V3.zip",
+    "mdb_id": "za-stellenbosch-dt4a-stellenbosch-gtfs-v3",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

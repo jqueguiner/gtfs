@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "直方市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nogatacity/feeds/NogataCityCommunityBus/files/feed.zip",
+    "mdb_id": "jp-nogatacity-nogatacitycommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

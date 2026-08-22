@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vilniaus m. sav.",
+    "country": "LT",
+    "subdivision": null,
+    "city": "Vilnius"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.visimarsrutai.lt/gtfs/VilniausM.zip",
+    "mdb_id": "lt-vilniaus-m-sav",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

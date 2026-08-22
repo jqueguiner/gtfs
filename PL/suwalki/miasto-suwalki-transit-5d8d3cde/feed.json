@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miasto Suwalki transit",
+    "country": "PL",
+    "subdivision": "Podlaskie",
+    "city": "Suwalki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/suwalki.zip",
+    "mdb_id": "pl-suwalki",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

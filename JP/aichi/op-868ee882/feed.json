@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "新城市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinshirocity/feeds/sbus/files/feed.zip",
+    "mdb_id": "jp-shinshirocity-sbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

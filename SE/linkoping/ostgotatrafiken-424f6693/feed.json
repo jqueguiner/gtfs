@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ostgotatrafiken",
+    "country": "SE",
+    "subdivision": "Ostergotland",
+    "city": "Linkoping"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/otraf/otraf.zip?key={apikey}",
+    "mdb_id": "se-otraf",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

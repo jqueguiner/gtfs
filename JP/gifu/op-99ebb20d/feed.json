@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高山市",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takayamacity/feeds/takanego/files/feed.zip",
+    "mdb_id": "jp-takayamacity-takanego",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

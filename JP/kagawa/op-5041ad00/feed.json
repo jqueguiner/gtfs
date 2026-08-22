@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "西讃観光",
+    "country": "JP",
+    "subdivision": "Kagawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/seisan-kanko/feeds/seisankanko_limousine/files/feed.zip",
+    "mdb_id": "jp-seisan-kanko-seisankanko-limousine",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

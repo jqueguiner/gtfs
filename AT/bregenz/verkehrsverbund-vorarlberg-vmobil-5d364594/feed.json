@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Vorarlberg (VMOBIL)",
+    "country": "AT",
+    "subdivision": "Vorarlberg",
+    "city": "Bregenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27240/file",
+    "mdb_id": "at-gtfs-vmobil-2026",
+    "license": "Data License Mobilitätsverbünde Österreich"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

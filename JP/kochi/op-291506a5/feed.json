@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "室戸市",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murotocity/feeds/GTFS-Murotocity_Bus/files/feed.zip",
+    "mdb_id": "jp-murotocity-gtfs-murotocity-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

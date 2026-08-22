@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PID - Prazska integrovana doprava (ROPID / IDSK)",
+    "country": "CZ",
+    "subdivision": "Praha (Central Bohemia)",
+    "city": "Prague"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.pid.cz/PID_GTFS.zip",
+    "mdb_id": "cz-pid-praha",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

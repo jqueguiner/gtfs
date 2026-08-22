@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北相木村",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitaaikivillage/feeds/soneibus/files/feed.zip",
+    "mdb_id": "jp-kitaaikivillage-soneibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

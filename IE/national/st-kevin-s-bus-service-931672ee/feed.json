@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "St. Kevin's Bus Service",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_st_kevins.zip",
+    "mdb_id": "ie-st-kevin-s-bus-service",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

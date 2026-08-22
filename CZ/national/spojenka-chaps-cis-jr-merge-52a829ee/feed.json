@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Spojenka (CHAPS / CIS JR merge)",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-spojenka-nationwide",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

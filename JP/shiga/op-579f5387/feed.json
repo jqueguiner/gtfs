@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高島市",
+    "country": "JP",
+    "subdivision": "Shiga",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takashimacity/feeds/takasimasicommunitybus/files/feed.zip",
+    "mdb_id": "jp-takashimacity-takasimasicommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

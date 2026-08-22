@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SJ AB",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/sj/sj.zip?key={apikey}",
+    "mdb_id": "se-sj",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

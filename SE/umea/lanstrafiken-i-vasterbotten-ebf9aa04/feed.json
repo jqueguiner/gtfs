@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lanstrafiken i Vasterbotten",
+    "country": "SE",
+    "subdivision": "Vasterbotten",
+    "city": "Umea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vasterbotten/vasterbotten.zip?key={apikey}",
+    "mdb_id": "se-vasterbotten",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "飯能市",
+    "country": "JP",
+    "subdivision": "Saitama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-minamikoma/files/feed.zip",
+    "mdb_id": "jp-hannocity-odekakemuma-minamikoma",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

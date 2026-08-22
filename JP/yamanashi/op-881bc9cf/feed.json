@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "身延町",
+    "country": "JP",
+    "subdivision": "Yamanashi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minobutown/feeds/iitomimotosukosen/files/feed.zip",
+    "mdb_id": "jp-minobutown-iitomimotosukosen",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Warszawskie promy (ZTM ferries)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Warszawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-ferries.zip",
+    "mdb_id": "pl-warsaw-ferries",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

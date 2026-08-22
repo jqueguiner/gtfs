@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "佐川町",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sakawatown/feeds/GTFS-Sakawatown_Bus/files/feed.zip",
+    "mdb_id": "jp-sakawatown-gtfs-sakawatown-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

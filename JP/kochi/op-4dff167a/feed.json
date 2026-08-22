@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社県交北部交通",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/khkhokubu-kotsu/feeds/GTFS-Hokubutraffic_Localbus/files/feed.zip",
+    "mdb_id": "jp-khkhokubu-kotsu-gtfs-hokubutraffic-localbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

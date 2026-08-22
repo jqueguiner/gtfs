@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "松戸市",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo/files/feed.zip",
+    "mdb_id": "jp-matsudocity-matsudo",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

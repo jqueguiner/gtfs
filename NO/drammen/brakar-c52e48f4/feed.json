@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brakar",
+    "country": "NO",
+    "subdivision": "Buskerud",
+    "city": "Drammen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_bra-aggregated-gtfs.zip",
+    "mdb_id": "no-brakar",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

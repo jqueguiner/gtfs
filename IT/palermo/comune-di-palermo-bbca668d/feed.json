@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Comune di Palermo",
+    "country": "IT",
+    "subdivision": "Sicilia",
+    "city": "Palermo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/_20122024075520.zip",
+    "mdb_id": "it-comune-di-palermo-20122024075520",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

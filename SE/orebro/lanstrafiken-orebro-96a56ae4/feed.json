@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lanstrafiken Orebro",
+    "country": "SE",
+    "subdivision": "Orebro lan",
+    "city": "Orebro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/orebro/orebro.zip?key={apikey}",
+    "mdb_id": "se-orebro",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

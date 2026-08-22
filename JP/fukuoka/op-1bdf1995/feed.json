@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "柳川市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yanagawacity/feeds/YanagawaCityCommunityBus/files/feed.zip",
+    "mdb_id": "jp-yanagawacity-yanagawacitycommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

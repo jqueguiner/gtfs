@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東近江市",
+    "country": "JP",
+    "subdivision": "Shiga",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/higashiomicity/feeds/higasiohmisicommunitybus/files/feed.zip",
+    "mdb_id": "jp-higashiomicity-higasiohmisicommunitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "五所川原市",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/goshogawaracity/feeds/goshogawara-communitybus/files/feed.zip",
+    "mdb_id": "jp-goshogawaracity-goshogawara-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

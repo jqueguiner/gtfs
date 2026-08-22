@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中紀バス",
+    "country": "JP",
+    "subdivision": "Wakayama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chukibus/feeds/chukibus/files/feed.zip",
+    "mdb_id": "jp-chukibus-chukibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

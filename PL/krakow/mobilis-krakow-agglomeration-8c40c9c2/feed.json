@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mobilis (Krakow agglomeration)",
+    "country": "PL",
+    "subdivision": "Malopolskie",
+    "city": "Krakow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/krakow-mobilis.zip",
+    "mdb_id": "pl-krakow-mobilis",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

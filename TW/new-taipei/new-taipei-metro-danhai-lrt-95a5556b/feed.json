@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "New Taipei Metro — Danhai LRT",
+    "country": "TW",
+    "subdivision": "New Taipei",
+    "city": "New Taipei"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/NTDLRT",
+    "mdb_id": "tw-tdx-rail-ntdlrt",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

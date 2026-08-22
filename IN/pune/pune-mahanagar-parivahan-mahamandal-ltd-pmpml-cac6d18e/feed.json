@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pune Mahanagar Parivahan Mahamandal Ltd (PMPML)",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "city": "Pune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/croyla/pmpml-gtfs/main/pmpml_gtfs.zip",
+    "mdb_id": "in-pmpml-pune",
+    "license": "MIT"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

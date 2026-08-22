@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TMB - Transports Metropolitans de Barcelona",
+    "country": "ES",
+    "subdivision": "Cataluna",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tmb.cat/v1/static/datasets/gtfs.zip",
+    "mdb_id": "es-tmb-transports-metropolitans-de-barcelona-barcelona",
+    "license": "TMB open data (registration required)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

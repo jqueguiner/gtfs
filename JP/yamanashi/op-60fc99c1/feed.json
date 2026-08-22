@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "小菅村",
+    "country": "JP",
+    "subdivision": "Yamanashi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kosugevillage/feeds/kosugesoneibus/files/feed.zip",
+    "mdb_id": "jp-kosugevillage-kosugesoneibus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

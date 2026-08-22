@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "深浦町",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukauratown/feeds/fukaura-town-communitybus/files/feed.zip",
+    "mdb_id": "jp-fukauratown-fukaura-town-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

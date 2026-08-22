@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MRC les Moulins",
+    "country": "CA",
+    "subdivision": "Québec",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transitfeeds.com/p/agence-metropolitaine-de-transport/142/latest/download",
+    "mdb_id": "ca-quebec-mrc-les-moulins-gtfs-1180",
+    "license": null
+  },
+  "bbox": [
+    -73.842682,
+    45.5542,
+    -73.498242,
+    45.80231
+  ],
+  "source": "mobility-database",
+  "status": "active"
+}

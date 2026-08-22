@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JR東日本盛岡支社",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/jr-east-morioka/feeds/JR-east_tsugaruline/files/feed.zip",
+    "mdb_id": "jp-jr-east-morioka-jr-east-tsugaruline",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

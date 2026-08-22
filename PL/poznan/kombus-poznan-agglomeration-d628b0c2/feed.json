@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kombus (Poznan agglomeration)",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": "Poznan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/poznan-kombus.zip",
+    "mdb_id": "pl-poznan-kombus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

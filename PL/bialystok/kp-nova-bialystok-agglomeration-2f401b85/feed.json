@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KP Nova (Bialystok agglomeration)",
+    "country": "PL",
+    "subdivision": "Podlaskie",
+    "city": "Bialystok"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/bialystok-nova.zip",
+    "mdb_id": "pl-bialystok-nova",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

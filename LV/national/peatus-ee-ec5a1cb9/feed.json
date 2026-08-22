@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "peatus.ee",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://peatus.ee/gtfs/gtfs.zip",
+    "mdb_id": "lv-peatus-ee-gtfs-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

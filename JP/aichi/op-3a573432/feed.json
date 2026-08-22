@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北設楽郡公共交通活性化協議会",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitashitara/feeds/odekakehokusetsu/files/feed.zip",
+    "mdb_id": "jp-kitashitara-odekakehokusetsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

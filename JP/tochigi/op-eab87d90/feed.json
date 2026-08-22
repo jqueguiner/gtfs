@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "大田原市",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otawaracity/feeds/Ohtawaracitybus/files/feed.zip",
+    "mdb_id": "jp-otawaracity-ohtawaracitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

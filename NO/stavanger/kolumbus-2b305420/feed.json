@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kolumbus",
+    "country": "NO",
+    "subdivision": "Rogaland",
+    "city": "Stavanger"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_kol-aggregated-gtfs.zip",
+    "mdb_id": "no-kolumbus",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

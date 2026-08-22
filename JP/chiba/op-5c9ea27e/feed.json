@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "四街道市",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yotsukaidocity/feeds/yoppii/files/feed.zip",
+    "mdb_id": "jp-yotsukaidocity-yoppii",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

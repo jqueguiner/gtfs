@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "内灘町",
+    "country": "JP",
+    "subdivision": "Ishikawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uchinadatown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-uchinadatown-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

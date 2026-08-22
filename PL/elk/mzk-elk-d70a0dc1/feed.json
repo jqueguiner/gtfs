@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Elk",
+    "country": "PL",
+    "subdivision": "Warminsko-Mazurskie",
+    "city": "Elk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/elk.zip",
+    "mdb_id": "pl-elk",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

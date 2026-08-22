@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "十和田観光電鉄株式会社",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/towadakankodentetsu/feeds/toutetsu/files/feed.zip",
+    "mdb_id": "jp-towadakankodentetsu-toutetsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

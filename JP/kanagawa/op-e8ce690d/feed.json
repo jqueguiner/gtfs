@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "寒川町",
+    "country": "JP",
+    "subdivision": "Kanagawa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/samukawatown/feeds/mokusei-go_eastroute/files/feed.zip",
+    "mdb_id": "jp-samukawatown-mokusei-go-eastroute",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

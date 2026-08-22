@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東海市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokaicity/feeds/tokai-ranranbus/files/feed.zip",
+    "mdb_id": "jp-tokaicity-tokai-ranranbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

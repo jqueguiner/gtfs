@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Din Tur (Kollektivtrafikmyndigheten Vasternorrland)",
+    "country": "SE",
+    "subdivision": "Vasternorrland",
+    "city": "Sundsvall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/dintur/dintur.zip?key={apikey}",
+    "mdb_id": "se-dintur",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

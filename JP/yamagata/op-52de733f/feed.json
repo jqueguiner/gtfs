@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "戸沢村",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tozawavillage/feeds/tozawavillagebus/files/feed.zip",
+    "mdb_id": "jp-tozawavillage-tozawavillagebus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

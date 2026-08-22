@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gmina Otwock transit",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Otwock"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/warsaw-otwock.zip",
+    "mdb_id": "pl-warsaw-otwock",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

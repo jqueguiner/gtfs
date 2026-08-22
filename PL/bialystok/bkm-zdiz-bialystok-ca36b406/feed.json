@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BKM / ZDiZ Bialystok",
+    "country": "PL",
+    "subdivision": "Podlaskie",
+    "city": "Bialystok"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/bialystok.zip",
+    "mdb_id": "pl-bialystok",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

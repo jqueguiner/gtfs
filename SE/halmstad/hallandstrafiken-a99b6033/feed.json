@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hallandstrafiken",
+    "country": "SE",
+    "subdivision": "Halland",
+    "city": "Halmstad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/halland/halland.zip?key={apikey}",
+    "mdb_id": "se-halland",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

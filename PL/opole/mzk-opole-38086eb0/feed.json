@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Opole",
+    "country": "PL",
+    "subdivision": "Opolskie",
+    "city": "Opole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/opole.zip",
+    "mdb_id": "pl-opole",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

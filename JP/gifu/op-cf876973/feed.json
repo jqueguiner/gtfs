@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "岐阜市",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gifucity/feeds/communitybus/files/feed.zip",
+    "mdb_id": "jp-gifucity-communitybus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

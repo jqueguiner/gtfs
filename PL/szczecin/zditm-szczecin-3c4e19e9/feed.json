@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZDiTM Szczecin",
+    "country": "PL",
+    "subdivision": "Zachodniopomorskie",
+    "city": "Szczecin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/szczecin.zip",
+    "mdb_id": "pl-szczecin",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

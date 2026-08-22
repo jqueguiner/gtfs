@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SKM Trojmiasto",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "city": "Gdansk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/pkp-skmt.zip",
+    "mdb_id": "pl-pkp-skmt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

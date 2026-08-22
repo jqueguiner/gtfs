@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "新常磐交通株式会社",
+    "country": "JP",
+    "subdivision": "Fukushima",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinjobankotsu/feeds/SHINJOBANKOTSU/files/feed.zip",
+    "mdb_id": "jp-shinjobankotsu-shinjobankotsu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

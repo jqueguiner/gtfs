@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "archivos gtfs",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.files.opendatalapalma.es/google_transit.zip",
+    "mdb_id": "es-files-google-transit",
+    "license": "Open data (datos.gob.es / DCAT-AP-ES)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OTP Namtang (Office of Transport and Traffic Policy and Planning)",
+    "country": "TH",
+    "subdivision": "Bangkok",
+    "city": "Bangkok"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://namtang-api.otp.go.th/download/namtang-gtfs.zip#agency=TSB",
+    "mdb_id": "th-tsb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

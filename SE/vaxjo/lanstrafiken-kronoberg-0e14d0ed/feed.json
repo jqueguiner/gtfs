@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lanstrafiken Kronoberg",
+    "country": "SE",
+    "subdivision": "Kronoberg",
+    "city": "Vaxjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/krono/krono.zip?key={apikey}",
+    "mdb_id": "se-krono",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "軽井沢町",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/karuizawatown/feeds/junkan-bus/files/feed.zip",
+    "mdb_id": "jp-karuizawatown-junkan-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

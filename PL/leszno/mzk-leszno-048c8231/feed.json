@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Leszno",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": "Leszno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/leszno.zip",
+    "mdb_id": "pl-leszno",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bengaluru Metropolitan Transport Corporation (BMTC)",
+    "country": "IN",
+    "subdivision": "Karnataka",
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/Vonter/bmtc-gtfs/master/gtfs/bmtc.zip",
+    "mdb_id": "in-bmtc-bengaluru",
+    "license": "MIT"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "上田市",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uedacity/feeds/uedashigaitizyunkanbus/files/feed.zip",
+    "mdb_id": "jp-uedacity-uedashigaitizyunkanbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

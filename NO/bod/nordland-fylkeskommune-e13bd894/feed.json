@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nordland fylkeskommune",
+    "country": "NO",
+    "subdivision": "Nordland",
+    "city": "Bodø"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_nor-aggregated-gtfs.zip",
+    "mdb_id": "no-nordland-fylkeskommune",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

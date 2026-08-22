@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Madigan's Bus Hire",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_catherine_madigan.zip",
+    "mdb_id": "ie-madigan-s-bus-hire",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

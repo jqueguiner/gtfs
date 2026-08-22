@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Itinerarios y horarios de los servicios de transporte público interurbano en autobús",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dadesobertes.gva.es/dataset/2f380ffd-b389-4ff4-9f7c-be92b30fbf28/resource/3c8a2e6b-5b5e-49f5-872f-5f33fcd52547/download/gtfs.zip",
+    "mdb_id": "es-dadesobertes-gtfs",
+    "license": "Open data (datos.gob.es / DCAT-AP-ES)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

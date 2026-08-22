@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Latvijas Sabiedriskais autobuss (LSA) — Pieriga",
+    "country": "LV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://marsruti.lv/pieriga/gtfs.zip",
+    "mdb_id": "lv-marsruti-lv-pieriga-gtfs-zip",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "木曽広域連合",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisokoikirengo/feeds/kiso-bus/files/feed.zip",
+    "mdb_id": "jp-kisokoikirengo-kiso-bus",
+    "license": "CC BY 2.1 JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

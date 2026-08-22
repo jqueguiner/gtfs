@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Upplands Lokaltrafik (UL)",
+    "country": "SE",
+    "subdivision": "Uppsala lan",
+    "city": "Uppsala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/ul/ul.zip?key={apikey}",
+    "mdb_id": "se-ul",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

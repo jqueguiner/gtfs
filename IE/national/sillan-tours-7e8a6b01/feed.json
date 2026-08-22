@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sillan Tours",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_sillan_tours.zip",
+    "mdb_id": "ie-sillan-tours",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

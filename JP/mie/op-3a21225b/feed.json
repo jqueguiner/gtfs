@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "紀宝町",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kihotown/feeds/chominbus/files/feed.zip",
+    "mdb_id": "jp-kihotown-chominbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

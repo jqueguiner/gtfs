@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fram",
+    "country": "NO",
+    "subdivision": "Møre og Romsdal",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_mor-aggregated-gtfs.zip",
+    "mdb_id": "no-fram",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

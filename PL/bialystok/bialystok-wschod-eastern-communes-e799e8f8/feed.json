@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bialystok Wschod (eastern communes)",
+    "country": "PL",
+    "subdivision": "Podlaskie",
+    "city": "Bialystok"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.zbiorkom.live/gtfs/bialystok-wschod.zip",
+    "mdb_id": "pl-bialystok-wschod",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

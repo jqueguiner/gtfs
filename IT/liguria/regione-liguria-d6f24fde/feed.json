@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regione Liguria",
+    "country": "IT",
+    "subdivision": "Liguria",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://srvcarto.regione.liguria.it/dtuff/download_statico/opendata/trasporti/GTFS/GTFS-IT-ITC3-RT-20250915-20260614_6.zip",
+    "mdb_id": "it-regione-liguria-gtfs-it-itc3-rt-20250915-20260614-6",
+    "license": "Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北九州市",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/higashitani/files/feed.zip",
+    "mdb_id": "jp-kitakyushucity-higashitani",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

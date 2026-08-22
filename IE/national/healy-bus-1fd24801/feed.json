@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Healy Bus",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_healy_bus.zip",
+    "mdb_id": "ie-healy-bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

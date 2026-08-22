@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Foyle Metro",
+    "country": "IE",
+    "subdivision": "Northern Ireland",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_NI.zip",
+    "mdb_id": "ie-foyle-metro",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

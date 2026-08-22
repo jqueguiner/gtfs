@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ålesund Turvogn Service",
+    "country": "NO",
+    "subdivision": "Møre og Romsdal",
+    "city": "Ålesund"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_atu-aggregated-gtfs.zip",
+    "mdb_id": "no-alesund-turvogn-service",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

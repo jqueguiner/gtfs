@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "荒川区",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/arakawacity/feeds/sakura/files/feed.zip",
+    "mdb_id": "jp-arakawacity-sakura",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

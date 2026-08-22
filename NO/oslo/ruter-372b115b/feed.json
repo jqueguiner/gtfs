@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ruter",
+    "country": "NO",
+    "subdivision": "Oslo og Akershus",
+    "city": "Oslo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_rut-aggregated-gtfs.zip",
+    "mdb_id": "no-ruter",
+    "license": "NLOD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "本宮市",
+    "country": "JP",
+    "subdivision": "Fukushima",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/motomiyacity/feeds/motomiyashibus/files/feed.zip",
+    "mdb_id": "jp-motomiyacity-motomiyashibus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

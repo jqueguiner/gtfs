@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Doherty's Travel",
+    "country": "IE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_dohertys.zip",
+    "mdb_id": "ie-doherty-s-travel",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

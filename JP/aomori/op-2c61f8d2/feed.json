@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "平内町",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hiranaitown/feeds/hiranaitownbus/files/feed.zip",
+    "mdb_id": "jp-hiranaitown-hiranaitownbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

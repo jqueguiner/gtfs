@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OTP Namtang (Office of Transport and Traffic Policy and Planning)",
+    "country": "TH",
+    "subdivision": "Surin",
+    "city": "Surin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://namtang-api.otp.go.th/download/namtang-gtfs.zip#agency=SS",
+    "mdb_id": "th-ss",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

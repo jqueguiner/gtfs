@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Taichung Rapid Transit Corporation (TMRT)",
+    "country": "TW",
+    "subdivision": "Taichung",
+    "city": "Taichung"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TMRT",
+    "mdb_id": "tw-tdx-rail-tmrt",
+    "license": "Open Government Data License, version 1.0 (Taiwan)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Storstockholms Lokaltrafik (SL)",
+    "country": "SE",
+    "subdivision": "Stockholms lan",
+    "city": "Stockholm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/sl/sl.zip?key={apikey}",
+    "mdb_id": "se-sl",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
