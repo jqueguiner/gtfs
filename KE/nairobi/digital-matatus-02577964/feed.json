@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Digital Matatus",
+    "country": "KE",
+    "subdivision": null,
+    "city": "Nairobi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.digitalmatatus.com/data/GTFS_FEED_2015.zip",
+    "mdb_id": "ke-dork-digital-matatus-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maryland MTA",
+    "country": "US",
+    "subdivision": null,
+    "city": "Baltimore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mta.maryland.gov/_googletransit/latest/google_transit.zip",
+    "mdb_id": "us-dork-maryland-mta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

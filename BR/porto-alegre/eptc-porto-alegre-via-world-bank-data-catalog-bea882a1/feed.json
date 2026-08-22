@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EPTC Porto Alegre (via World Bank Data Catalog)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Porto Alegre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published/0038243/1/DR0046590/gtfs_porto_alegre_2020.zip",
+    "mdb_id": "br-dork-eptc-porto-alegre-via-world-bank-dat",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

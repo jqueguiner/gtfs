@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "水巻町",
+    "country": "JP",
+    "subdivision": null,
+    "city": "Fukuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mizumakitown/feeds/MizumakiTownBus/files/feed.zip?rid=current",
+    "mdb_id": "jp-dork-x-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

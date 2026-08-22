@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pierce Transit (via Sound Transit)",
+    "country": "US",
+    "subdivision": null,
+    "city": "Pierce County, WA"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.soundtransit.org/GTFS-PT/gtfs.zip",
+    "mdb_id": "us-dork-pierce-transit-via-sound-transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Marin Transit",
+    "country": "US",
+    "subdivision": null,
+    "city": "Marin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://marintransit.org/data/google_transit.zip",
+    "mdb_id": "us-dork-marin-transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

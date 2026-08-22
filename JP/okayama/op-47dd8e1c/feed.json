@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "瀬戸内市",
+    "country": "JP",
+    "subdivision": null,
+    "city": "Okayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/setouchicity/feeds/setouchicitykankobus/files/feed.zip?rid=current",
+    "mdb_id": "jp-dork-x",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

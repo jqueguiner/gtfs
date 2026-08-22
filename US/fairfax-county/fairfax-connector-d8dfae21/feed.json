@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fairfax Connector",
+    "country": "US",
+    "subdivision": null,
+    "city": "Fairfax County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fairfaxcounty.gov/connector/sites/connector/files/assets/connector_gtfs.zip",
+    "mdb_id": "us-dork-fairfax-connector",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

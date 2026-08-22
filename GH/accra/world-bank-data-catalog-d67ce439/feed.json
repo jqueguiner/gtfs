@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "World Bank Data Catalog",
+    "country": "GH",
+    "subdivision": null,
+    "city": "Accra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published/0038230/1/DR0046573/gtfs-accra-ghana-2016.zip",
+    "mdb_id": "gh-dork-world-bank-data-catalog",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

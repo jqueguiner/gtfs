@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kitsap Transit (OneBusAway Puget Sound)",
+    "country": "US",
+    "subdivision": null,
+    "city": "Kitsap County, WA"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/20_gtfs.zip",
+    "mdb_id": "us-dork-kitsap-transit-onebusaway-puget-soun",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

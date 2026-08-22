@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SEMOVI (via World Bank Data Catalog)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Mexico City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published/0038247/1/DR0046595/gtfs_semovi_cdmx.zip",
+    "mdb_id": "mx-dork-semovi-via-world-bank-data-catalog",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "芸陽バス (Geiyo Bus)",
+    "country": "JP",
+    "subdivision": null,
+    "city": "Hiroshima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.geiyo.co.jp/upload/files/gtfs/GTFS-JPgeiyobus.zip",
+    "mdb_id": "jp-dork-geiyo-bus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

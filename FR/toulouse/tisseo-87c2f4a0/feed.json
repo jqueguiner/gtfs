@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tisséo",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Toulouse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/tisseo-gtfs/alternative_exports/utf_8tisseo_gtfs_v2_zip",
+    "mdb_id": "fr-dork-tisseo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

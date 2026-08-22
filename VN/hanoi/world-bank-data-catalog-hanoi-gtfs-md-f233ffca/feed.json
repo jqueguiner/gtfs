@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "World Bank Data Catalog (Hanoi GTFS MD)",
+    "country": "VN",
+    "subdivision": null,
+    "city": "Hanoi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046583/hanoi_gtfs_md.zip",
+    "mdb_id": "vn-dork-world-bank-data-catalog-hanoi-gtfs-m",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

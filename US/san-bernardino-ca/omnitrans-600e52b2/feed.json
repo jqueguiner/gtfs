@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Omnitrans",
+    "country": "US",
+    "subdivision": null,
+    "city": "San Bernardino, CA"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://omnitrans.org/google/google_transit.zip",
+    "mdb_id": "us-dork-omnitrans",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

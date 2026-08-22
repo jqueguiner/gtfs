@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MyCiTi",
+    "country": "ZA",
+    "subdivision": null,
+    "city": "Cape Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.s3.amazonaws.com/myciti_20131022_0552.zip",
+    "mdb_id": "za-dork-myciti",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}

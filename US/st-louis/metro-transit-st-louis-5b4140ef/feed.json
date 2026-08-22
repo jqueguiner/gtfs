@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Transit St. Louis",
+    "country": "US",
+    "subdivision": null,
+    "city": "St. Louis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.metrostlouis.org/Transit/google_transit.zip",
+    "mdb_id": "us-dork-metro-transit-st-louis",
+    "license": null
+  },
+  "bbox": null,
+  "source": "web-dork",
+  "status": "active"
+}
