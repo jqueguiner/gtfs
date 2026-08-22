@@ -119,10 +119,18 @@ def main():
         flag = "".join(chr(0x1F1E6 + ord(x) - 65) for x in cc) if len(cc) == 2 and cc.isalpha() else ""
         lines.append(f"| {flag} {name} | {v['feeds']} | {len(v['cities'])} | {len(v['agencies'])} |")
     lines.append("\n## How it works\n")
-    lines.append("`scripts/ingest_mdb.py` pulls the Mobility Database, `scripts/scrape_france.py` adds every "
-                 "French feed from transport.data.gouv.fr, `scripts/llm_normalize.py` turns non-GTFS sources "
-                 "(PDF/HTML/CSV) into GTFS, `scripts/build_repo.py` regenerates this tree + table. "
-                 "See `CONTRIBUTING.md` to add your network.\n")
+    lines.append("Feeds are merged from multiple open registries + national access points, then placed to "
+                 "country/city by geohash or a stop coordinate:\n")
+    lines.append("- `scripts/ingest_mdb.py` — Mobility Database catalog\n"
+                 "- `scripts/scrape_transitland.py` — Transitland Atlas (Interline), ~4000 feeds, superset of MDB\n"
+                 "- `scripts/scrape_france.py` — transport.data.gouv.fr (FR national aggregator)\n"
+                 "- `scripts/scrape_<cc>.py` — per-country National Access Points (EU-mandated NAPs etc.)\n"
+                 "- `scripts/resolve_unplaced.py` — download GTFS, read a stop lat/lon, reverse-geocode any feed "
+                 "still missing a country\n"
+                 "- `scripts/llm_normalize.py` — non-GTFS sources (PDF/HTML/CSV) → GTFS via an LLM\n"
+                 "- `scripts/build_repo.py` — regenerates this tree, `catalog.csv`, and the table above\n")
+    lines.append("\n`XX` = feeds whose country couldn't be determined yet (unreachable feed / no stops). "
+                 "CI reruns weekly (`.github/workflows/refresh.yml`). See `CONTRIBUTING.md` to add a network.\n")
     open(os.path.join(ROOT, "README.md"), "w").write("\n".join(lines))
     print(f"built {tot_f} feeds, {tot_ci} cities, {len(per_country)} countries")
     print("FR:", per_country.get("FR"), "US feeds:", per_country["US"]["feeds"])

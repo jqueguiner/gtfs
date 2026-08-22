@@ -12,12 +12,22 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
+      - name: Install deps
+        run: pip install reverse_geocoder
       - name: Pull Mobility Database
         env:
           MDB_REFRESH_TOKEN: ${{ secrets.MDB_REFRESH_TOKEN }}
-        run: python3 scripts/ingest_mdb.py
+        run: python3 scripts/ingest_mdb.py || true
+      - name: Transitland Atlas
+        run: |
+          git clone --depth 1 https://github.com/transitland/transitland-atlas.git /tmp/transitland-atlas
+          python3 scripts/scrape_transitland.py /tmp/transitland-atlas || true
       - name: Scrape France (transport.data.gouv.fr)
         run: python3 scripts/scrape_france.py || true
+      - name: Per-country National Access Points
+        run: for s in scripts/scrape_*.py; do case "$s" in *france*|*transitland*) ;; *) python3 "$s" || true;; esac; done
+      - name: Resolve unplaced feeds via stops.txt
+        run: python3 scripts/resolve_unplaced.py 400 || true
       - name: Rebuild tree + coverage table
         run: python3 scripts/build_repo.py
       - name: Commit if changed

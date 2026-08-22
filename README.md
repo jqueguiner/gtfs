@@ -106,4 +106,15 @@ Every public-transport operator we can find, organised **country → city → op
 
 ## How it works
 
-`scripts/ingest_mdb.py` pulls the Mobility Database, `scripts/scrape_france.py` adds every French feed from transport.data.gouv.fr, `scripts/llm_normalize.py` turns non-GTFS sources (PDF/HTML/CSV) into GTFS, `scripts/build_repo.py` regenerates this tree + table. See `CONTRIBUTING.md` to add your network.
+Feeds are merged from multiple open registries + national access points, then placed to country/city by geohash or a stop coordinate:
+
+- `scripts/ingest_mdb.py` — Mobility Database catalog
+- `scripts/scrape_transitland.py` — Transitland Atlas (Interline), ~4000 feeds, superset of MDB
+- `scripts/scrape_france.py` — transport.data.gouv.fr (FR national aggregator)
+- `scripts/scrape_<cc>.py` — per-country National Access Points (EU-mandated NAPs etc.)
+- `scripts/resolve_unplaced.py` — download GTFS, read a stop lat/lon, reverse-geocode any feed still missing a country
+- `scripts/llm_normalize.py` — non-GTFS sources (PDF/HTML/CSV) → GTFS via an LLM
+- `scripts/build_repo.py` — regenerates this tree, `catalog.csv`, and the table above
+
+
+`XX` = feeds whose country couldn't be determined yet (unreachable feed / no stops). CI reruns weekly (`.github/workflows/refresh.yml`). See `CONTRIBUTING.md` to add a network.
