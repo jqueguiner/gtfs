@@ -9,7 +9,7 @@ Every public-transport operator we can find, organised **country → city → op
 <COUNTRY>/<city>/<operator>/feed.json
 ```
 
-`feed.json` = agency + GTFS url + license + bbox (the exchange format). Flat index: `catalog.csv`.
+`feed.json` = agency + GTFS url + license + bbox (the exchange format). Each operator folder also ships a `fetch.sh` that downloads *that* operator's GTFS to `gtfs.zip` (validates `stops.txt`). `./fetch_all.sh [COUNTRY]` runs them all. Flat index: `catalog.csv`.
 
 ## Coverage
 
