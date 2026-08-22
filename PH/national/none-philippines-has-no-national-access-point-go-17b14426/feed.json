@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "None — Philippines has no National Access Point / government open-transit portal",
+    "country": "PH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/sakayph/gtfs/archive/refs/heads/master.zip",
+    "mdb_id": "ph-national-bulk",
+    "license": null
+  },
+  "bbox": null,
+  "source": "nap-bulk",
+  "status": "active"
+}
