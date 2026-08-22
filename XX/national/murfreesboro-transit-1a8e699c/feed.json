@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Murfreesboro~Transit",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://murfreesborotransit.tripsparkhost.com/gtfs/google_transit.zip",
+    "mdb_id": "f-murfreesboro~transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

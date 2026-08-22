@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Charlottesvilleareatransit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Charlottesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/catpublic.etaspot.net/gtfs.zip",
+    "mdb_id": "f-dqb0q-charlottesvilleareatransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

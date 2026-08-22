@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kaiser~Permanente~East~Bay~Shuttle",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kp-eastbay-shuttle.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-kaiser~permanente~east~bay~shuttle",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

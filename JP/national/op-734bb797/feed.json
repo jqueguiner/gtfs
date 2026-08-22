@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "川崎鶴見臨港バス株式会社",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/KawasakiTsurumiRinkoBus/allrinko.zip?date=current",
+    "mdb_id": "f-kawasakitsurumirinkobus~allrinko~jp",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

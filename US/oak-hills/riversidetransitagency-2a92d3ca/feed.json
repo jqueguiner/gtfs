@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Riversidetransitagency",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Oak Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.riversidetransit.com/google_transit.zip",
+    "mdb_id": "f-9qh-riversidetransitagency",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

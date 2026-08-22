@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Hekinan~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city.hekinan.lg.jp/material/files/group/3/GTFS.zip",
+    "mdb_id": "f-gtfs~hekinan~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

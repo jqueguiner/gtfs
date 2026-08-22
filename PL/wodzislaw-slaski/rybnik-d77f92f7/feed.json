@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rybnik",
+    "country": "PL",
+    "subdivision": "Silesian Voivodeship",
+    "city": "Wodzislaw Slaski"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.rybnik.pl/download/attachment/629/gtfs_01082026.zip",
+    "mdb_id": "f-u2vh-rybnik",
+    "license": "https://bip.km.rybnik.pl/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

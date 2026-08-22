@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Igacity~Communitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/igacity/feeds/communitybus/files/feed.zip?uid=ccda5a7c-873f-4d10-9907-821447395a52",
+    "mdb_id": "f-igacity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

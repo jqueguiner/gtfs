@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cityofwhitehorse~Transit",
+    "country": "CA",
+    "subdivision": "Yukon",
+    "city": "Whitehorse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://whitehorse.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-bfzc-cityofwhitehorse~transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

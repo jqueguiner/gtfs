@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cherriots",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cherriots.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "f-9rb-cherriots",
+    "license": "https://www.cherriots.org/datalicense/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

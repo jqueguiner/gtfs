@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Aibus~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city.abiko.chiba.jp/shisei/opendata/GTFS-JP.files/gtfs_Aibus.zip",
+    "mdb_id": "f-gtfs~aibus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

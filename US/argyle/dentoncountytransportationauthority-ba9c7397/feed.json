@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dentoncountytransportationauthority",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Argyle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/dcta_denton_tx_us.zip",
+    "mdb_id": "f-9vfu-dentoncountytransportationauthority",
+    "license": "https://www.dcta.net/resources/open-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

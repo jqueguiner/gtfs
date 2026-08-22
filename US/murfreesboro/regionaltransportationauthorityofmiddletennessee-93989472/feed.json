@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regionaltransportationauthorityofmiddletennessee~Nashville",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Murfreesboro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.wegotransit.com/GoogleExport/Google_Transit.zip",
+    "mdb_id": "f-dn6-regionaltransportationauthorityofmiddletennessee~nashville",
+    "license": "https://www.nashvillemta.org/Nashville-MTA-Developer-Data-Request.asp"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

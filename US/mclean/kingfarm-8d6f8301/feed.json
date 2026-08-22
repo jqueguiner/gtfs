@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kingfarm",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "McLean"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kingfarm.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dqcj-kingfarm",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

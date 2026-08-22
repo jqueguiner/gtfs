@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communitytransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Darrington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.communitytransit.org/docs/default-source/open-data/gtfs/current.zip?sfvrsn=1968d0e2_118",
+    "mdb_id": "f-c29-communitytransit",
+    "license": "https://www.communitytransit.org/opendata"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

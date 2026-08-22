@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Masoncitypublictransit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Clear Lake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/masoncity-ia-us/masoncity-ia-us.zip",
+    "mdb_id": "f-9ztt-masoncitypublictransit",
+    "license": "https://iowa-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

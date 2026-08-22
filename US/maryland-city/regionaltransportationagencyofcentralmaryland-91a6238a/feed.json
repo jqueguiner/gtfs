@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regionaltransportationagencyofcentralmaryland",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Maryland City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/centralmarylandrta-md-us/centralmarylandrta-md-us.zip",
+    "mdb_id": "f-dqcq-regionaltransportationagencyofcentralmaryland",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maryland Transit Administration",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Nags Head"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.mta.maryland.gov/gtfs/metro",
+    "mdb_id": "f-dq-mtamaryland~subwaylink",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

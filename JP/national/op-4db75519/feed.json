@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中央区役所",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/TokyoChuoCity/Alldata.zip?date=current",
+    "mdb_id": "f-tokyochuocity~alldata~jp",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

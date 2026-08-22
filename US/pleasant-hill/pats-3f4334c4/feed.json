@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pats",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Pleasant Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Person%20County_145/PATS.zip",
+    "mdb_id": "f-dnr-pats",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

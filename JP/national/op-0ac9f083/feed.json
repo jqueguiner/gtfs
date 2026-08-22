@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "京福バス株式会社",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=current",
+    "mdb_id": "f-keifukubus~keifuku~rosen~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

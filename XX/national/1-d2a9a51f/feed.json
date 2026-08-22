@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "群馬バス~1",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=latest",
+    "mdb_id": "f-群馬バス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transit~Orange~Ny~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/TransitOrange_-_Newburgh_Area_Transit.zip",
+    "mdb_id": "f-transit~orange~ny~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

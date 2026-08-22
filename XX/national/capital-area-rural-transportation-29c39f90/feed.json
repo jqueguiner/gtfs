@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital~Area~Rural~Transportation",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.ridecarts.com/realtime/google_transit.zip",
+    "mdb_id": "f-capital~area~rural~transportation",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

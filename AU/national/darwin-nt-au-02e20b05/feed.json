@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Darwin~Nt~Au",
+    "country": "AU",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip",
+    "mdb_id": "f-darwin~nt~au",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

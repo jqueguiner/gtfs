@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Icats",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Statesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Iredell%20County_97/ICATS.zip",
+    "mdb_id": "f-dnq-icats",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

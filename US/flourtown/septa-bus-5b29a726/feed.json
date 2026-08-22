@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Septa~Bus",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Flourtown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/septadev/GTFS/releases/latest/download/gtfs_public.zip#google_bus.zip",
+    "mdb_id": "f-dr4-septa~bus",
+    "license": "http://www3.septa.org/developer/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "丸文松島汽船",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/MarubunKisen/AllLines.zip?date=current",
+    "mdb_id": "f-marubunkisen~alllines~jp",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Newark~Airtrain~Nj",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip",
+    "mdb_id": "f-newark~airtrain~nj",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

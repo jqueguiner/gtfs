@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand~Abidjan",
+    "country": "CI",
+    "subdivision": "Lagunes",
+    "city": "Abidjan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/abidjan/raw/master/Donn%C3%A9es/abidjan.zip",
+    "mdb_id": "f-ebvn-grand~abidjan",
+    "license": "https://opendatacommons.org/licenses/odbl/index.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

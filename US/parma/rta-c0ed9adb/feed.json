@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rta",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Parma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip",
+    "mdb_id": "f-dpmg-rta",
+    "license": "http://www.riderta.com/developers"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

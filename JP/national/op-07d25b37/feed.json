@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "関越交通株式会社",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/Kan_etsuTransportation/AllLines.zip?date=current",
+    "mdb_id": "f-kan~etsutransportation~alllines~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

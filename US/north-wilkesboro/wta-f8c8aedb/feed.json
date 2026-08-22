@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wta",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "North Wilkesboro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Wilkes%20Transportation%20Authority_193/WTA.zip",
+    "mdb_id": "f-dnqm-wta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

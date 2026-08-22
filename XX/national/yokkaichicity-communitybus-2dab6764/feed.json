@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yokkaichicity~Communitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yokkaichicity/feeds/communitybus/files/feed.zip?uid=ea4da502-5bd1-456d-8275-d638eccfb5d2",
+    "mdb_id": "f-yokkaichicity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

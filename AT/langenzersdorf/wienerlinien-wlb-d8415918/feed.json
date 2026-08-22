@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wienerlinien~Wlb",
+    "country": "AT",
+    "subdivision": "Lower Austria",
+    "city": "Langenzersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.wienerlinien.at/ogd_realtime/doku/ogd/gtfs/gtfs.zip",
+    "mdb_id": "f-u2ed-wienerlinien~wlb",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

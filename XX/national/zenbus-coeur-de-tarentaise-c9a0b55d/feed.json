@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Coeur~De~Tarentaise",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=coeur-de-tarentaise",
+    "mdb_id": "f-zenbus~coeur~de~tarentaise",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

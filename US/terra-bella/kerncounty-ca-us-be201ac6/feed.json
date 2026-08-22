@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kerncounty~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Terra Bella"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip",
+    "mdb_id": "f-9q7-kerncounty~ca~us",
+    "license": "https://kerntransit.org/developers-gtfs/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

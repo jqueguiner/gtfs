@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA New York City Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rrgtfsfeeds.s3.amazonaws.com/gtfs_supplemented.zip",
+    "mdb_id": "f-dr5r-mtanewyorkcitytransit",
+    "license": "https://www.mta.info/developers/terms-and-conditions"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

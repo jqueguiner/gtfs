@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Haywoodtransit",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Seymour"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Haywood%20County_Mountain%20Projects_87/Mountain%20Project.zip",
+    "mdb_id": "f-dnk-haywoodtransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

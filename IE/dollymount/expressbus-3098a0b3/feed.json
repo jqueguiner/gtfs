@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Expressbus",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "Dollymount"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Express_Bus.zip",
+    "mdb_id": "f-gc7x-expressbus",
+    "license": "https://data.gov.ie/licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

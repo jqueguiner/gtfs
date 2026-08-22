@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maconcountync",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Franklin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Macon%20County_113/MaconCounty.zip",
+    "mdb_id": "f-dnk8-maconcountync",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yorktown~Va~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/historicyorktowntrolley.etaspot.net/gtfs.zip",
+    "mdb_id": "f-yorktown~va~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

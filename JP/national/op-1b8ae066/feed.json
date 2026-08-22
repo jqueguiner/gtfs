@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三宅村",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/MiyakeVill/AllLine.zip?date=current",
+    "mdb_id": "f-miyakevill~allline~jp",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

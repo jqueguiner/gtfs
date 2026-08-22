@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Setocity~Setocitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus/files/feed.zip?uid=a0b66f19-7fb2-4fd9-9a49-2aceab6da000",
+    "mdb_id": "f-setocity~setocitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

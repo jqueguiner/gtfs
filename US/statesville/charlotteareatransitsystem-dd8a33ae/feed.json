@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Charlotteareatransitsystem",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Statesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrealtime.ridetransit.org/GTFSStatic/api/GTFSDownload/GTFS.zip",
+    "mdb_id": "f-dnq-charlotteareatransitsystem",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

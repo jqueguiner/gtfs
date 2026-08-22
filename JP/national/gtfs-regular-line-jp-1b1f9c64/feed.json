@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Regular~Line~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.takubus.com/app/download/10941479479/GTFS_regular_line.zip",
+    "mdb_id": "f-gtfs~regular~line~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

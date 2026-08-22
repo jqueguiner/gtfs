@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southeasternregionaltransitauthority",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Swansea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip",
+    "mdb_id": "f-drmm-southeasternregionaltransitauthority",
+    "license": "https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

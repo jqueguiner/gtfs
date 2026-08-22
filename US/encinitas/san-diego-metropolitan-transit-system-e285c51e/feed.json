@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Diego Metropolitan Transit System",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Encinitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.sdmts.com/google_transit_files/google_transit.zip",
+    "mdb_id": "f-9mu-mts",
+    "license": "https://www.sdmts.com/business-center-developers/terms-and-conditions"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

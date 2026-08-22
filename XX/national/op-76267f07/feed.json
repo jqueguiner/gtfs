@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "恵那市自主運行バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/enacity/feeds/communitybus/files/feed.zip",
+    "mdb_id": "f-恵那市自主運行バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

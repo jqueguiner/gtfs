@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Multnomah County Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Aloha"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/multnomahcounty-or-us/multnomahcounty-or-us.zip",
+    "mdb_id": "f-c20d-multnomahcounty~or~us",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

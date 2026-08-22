@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yurok~Ca~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.dds.dot.ca.gov/gtfs_files/YurokGTFS.zip",
+    "mdb_id": "f-yurok~ca~us",
+    "license": "https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rtp~Me~Us",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Raymond"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rtp-me-us/rtp-me-us.zip",
+    "mdb_id": "f-drvc-rtp~me~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

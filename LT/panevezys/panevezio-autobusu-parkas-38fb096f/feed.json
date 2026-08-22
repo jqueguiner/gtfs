@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Panevėžio autobusų parkas",
+    "country": "LT",
+    "subdivision": "Panevezys",
+    "city": "Panevezys"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/panevezys/panevezys/gtfs.zip",
+    "mdb_id": "f-u9cm-panevėžioautobusųparkas",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

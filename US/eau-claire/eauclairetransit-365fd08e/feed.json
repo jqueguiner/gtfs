@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eauclairetransit",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Eau Claire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ect.cadavl.com/ECT/GTFS/GTFS_ECT.zip",
+    "mdb_id": "f-9zyy-eauclairetransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cedarrapidstransit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Ely"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cedarrapids-ia-us/cedarrapids-ia-us.zip",
+    "mdb_id": "f-9zqy-cedarrapidstransit",
+    "license": "https://iowa-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

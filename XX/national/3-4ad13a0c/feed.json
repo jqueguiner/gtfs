@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東大和市コミュニティバスちょこバス~3",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CCBY4.zip?date=latest",
+    "mdb_id": "f-東大和市コミュニティバスちょこバス~3",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

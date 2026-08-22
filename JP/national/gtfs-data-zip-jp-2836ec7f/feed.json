@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Data~Zip~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city.suzaka.nagano.jp/opendata/file/gtfs_data.zip",
+    "mdb_id": "f-gtfs~data~zip~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "T3Transit",
+    "country": "CA",
+    "subdivision": "Prince Edward Island",
+    "city": "Charlottetown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://t3.thebus.ca/gtfs/gtfs.zip",
+    "mdb_id": "f-f85p5-t3transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

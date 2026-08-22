@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chittendoncounty~Vt~Us",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Barre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip",
+    "mdb_id": "f-dru-chittendoncounty~vt~us",
+    "license": "https://vermont-gtfs.org/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

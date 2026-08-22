@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uniongaptransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Union Gap"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/uniongap-wa-us/uniongap-wa-us.zip",
+    "mdb_id": "f-c262f-uniongaptransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

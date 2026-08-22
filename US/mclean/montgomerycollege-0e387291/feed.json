@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Montgomerycollege",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "McLean"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://montgomerycollege.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dqcj-montgomerycollege",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

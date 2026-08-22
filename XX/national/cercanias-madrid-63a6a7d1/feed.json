@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cercanías~Madrid",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1163",
+    "mdb_id": "f-cercanías~madrid",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

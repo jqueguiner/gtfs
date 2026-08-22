@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Middletown~Ny~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/TransitOrange_-_Middletown_Area_Transit.zip",
+    "mdb_id": "f-middletown~ny~us",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

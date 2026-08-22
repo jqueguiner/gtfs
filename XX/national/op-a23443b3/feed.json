@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "佐賀県内バス路線",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.sagabus.info/saga-2023-07-01.zip",
+    "mdb_id": "f-佐賀県内バス路線",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

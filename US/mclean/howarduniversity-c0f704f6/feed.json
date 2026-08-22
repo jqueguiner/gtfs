@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Howarduniversity",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "McLean"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://howarduniversity.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dqcj-howarduniversity",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

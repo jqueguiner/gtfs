@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Great",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Spring Hope"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/great.etaspot.net/gtfs.zip",
+    "mdb_id": "f-dq2-great",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

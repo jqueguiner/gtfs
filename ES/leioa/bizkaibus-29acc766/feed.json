@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bizkaibus",
+    "country": "ES",
+    "subdivision": "Basque Country",
+    "city": "Leioa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1262",
+    "mdb_id": "f-ezty-bizkaibus",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

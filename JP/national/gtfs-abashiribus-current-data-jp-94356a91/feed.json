@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Abashiribus~Current~Data~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.abashiribus.com/open_data/gtfs_abashiribus_current_data.zip",
+    "mdb_id": "f-gtfs~abashiribus~current~data~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

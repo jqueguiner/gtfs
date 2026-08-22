@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Startransit~Tx~Us",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Combine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/startransit-tx-us/startransit-tx-us.zip",
+    "mdb_id": "f-9vg3-startransit~tx~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

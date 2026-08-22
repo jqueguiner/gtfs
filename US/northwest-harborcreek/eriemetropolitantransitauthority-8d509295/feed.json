@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eriemetropolitantransitauthority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Northwest Harborcreek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://emta.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "f-dprp-eriemetropolitantransitauthority",
+    "license": "https://ride-the-e.com/developerlicenseagreement/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Tokushimabus~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.pref.tokushima.lg.jp/dataset/2646/resource/7704/GTFS_tokushimabus.zip",
+    "mdb_id": "f-gtfs~tokushimabus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

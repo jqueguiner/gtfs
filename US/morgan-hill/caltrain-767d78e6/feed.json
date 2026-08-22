@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Caltrain",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Morgan Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/caltrain-ca-us/caltrain-ca-us.zip",
+    "mdb_id": "f-9q9-caltrain",
+    "license": "http://www.caltrain.com/developer.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yosemite~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Le Grand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/yosemite-ca-us/yosemite-ca-us.zip",
+    "mdb_id": "f-9qd-yosemite~ca~us",
+    "license": "https://yarts.com/yarts-gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

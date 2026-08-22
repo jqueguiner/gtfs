@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Connecticut Department of Transportation (ConnDOT)",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Moodus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.cttransit.com/sites/default/files/2026-07/googlect_transit.zip",
+    "mdb_id": "f-drk-cttransit~hartford",
+    "license": "https://www.cttransit.com/about/developers/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

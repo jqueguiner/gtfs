@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ungheni~Public~Transport",
+    "country": "MU",
+    "subdivision": "Rodrigues",
+    "city": "Baie aux Huitres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/UngheniTransport/gtfs/raw/main/ungheni_gtfs.zip",
+    "mdb_id": "f-md-ungheni~public~transport",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

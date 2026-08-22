@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Adirondack~Trailways~Adt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-ADT.zip",
+    "mdb_id": "f-adirondack~trailways~adt",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

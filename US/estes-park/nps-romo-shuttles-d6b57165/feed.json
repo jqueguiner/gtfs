@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nps~Romo~Shuttles",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Estes Park"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rockymountainnationalpark-co-us/rockymountainnationalpark-co-us.zip",
+    "mdb_id": "f-9xhv-nps~romo~shuttles",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

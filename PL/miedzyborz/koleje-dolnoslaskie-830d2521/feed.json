@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Dolnośląskie",
+    "country": "PL",
+    "subdivision": "Lower Silesian Voivodeship",
+    "city": "Miedzyborz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kd.kiedyprzyjedzie.pl/gtfs/kd_transitland/google_transit.zip",
+    "mdb_id": "f-u3h-koleje~dolnoslaskie",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

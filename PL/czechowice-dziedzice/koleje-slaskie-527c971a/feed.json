@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje~Slaskie",
+    "country": "PL",
+    "subdivision": "Silesian Voivodeship",
+    "city": "Czechowice-Dziedzice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://koleje-ks.pl/gtfs/2025-2026.zip",
+    "mdb_id": "f-u2v-koleje~slaskie",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

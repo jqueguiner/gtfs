@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Montgomerytransit~Al~Us",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Montgomery"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/montgomerytransit-al-us/montgomerytransit-al-us.zip",
+    "mdb_id": "f-djf8-montgomerytransit~al~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

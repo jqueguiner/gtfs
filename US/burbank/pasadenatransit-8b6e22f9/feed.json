@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pasadenatransit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Burbank"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.pasadenatransit.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "f-9q5f-pasadenatransit",
+    "license": "https://www.cityofpasadena.net/pasadena-transit/real-time-applications/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

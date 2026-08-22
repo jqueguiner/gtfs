@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yakimatransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Kittitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://yakima.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "f-c26-yakimatransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

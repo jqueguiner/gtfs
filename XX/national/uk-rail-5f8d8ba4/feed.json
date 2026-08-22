@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uk~Rail",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/uk-rail.zip",
+    "mdb_id": "f-uk~rail",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

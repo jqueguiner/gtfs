@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sagestage",
+    "country": "US",
+    "subdivision": "Nevada",
+    "city": "Winnemucca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sagestage-ca-us/sagestage-ca-us.zip",
+    "mdb_id": "f-9r-sagestage",
+    "license": "http://sagestage.com/gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

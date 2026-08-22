@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Commute.org Shuttles",
+    "country": "US",
+    "subdivision": "California",
+    "city": "North Fair Oaks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/commute-ca-us/commute-ca-us.zip",
+    "mdb_id": "f-9q9j-commute~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Suntran",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Huachuca City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://GTFS-RT.suntran.com/TMGTFSRealTimeWebService/Static/SunTranGTFS.zip",
+    "mdb_id": "f-9t9-suntran",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

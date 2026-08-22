@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport~For~London",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/uk-tfl.zip",
+    "mdb_id": "f-transport~for~london",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

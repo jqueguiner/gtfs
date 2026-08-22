@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "横須賀市~ハマちゃんバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yokosukacity/feeds/hamachanbus/files/feed.zip",
+    "mdb_id": "f-横須賀市~ハマちゃんバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

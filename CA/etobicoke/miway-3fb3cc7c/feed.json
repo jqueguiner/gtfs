@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MiWay",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Etobicoke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.miapp.ca/GTFS/google_transit.zip?#",
+    "mdb_id": "f-dpz2-miway",
+    "license": "http://www5.mississauga.ca/research_catalogue/CityofMississauga_TermsofUse.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

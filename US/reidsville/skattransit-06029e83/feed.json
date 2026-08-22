@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Skattransit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Reidsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Rockingham%20County%20Council%20on%20Aging_157/SKAT.zip",
+    "mdb_id": "f-dnrq-skattransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

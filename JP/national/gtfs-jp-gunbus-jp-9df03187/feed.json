@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Jp~Gunbus~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gunbus.co.jp/GTFS/GTFS-JP_gunbus.zip",
+    "mdb_id": "f-gtfs~jp~gunbus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

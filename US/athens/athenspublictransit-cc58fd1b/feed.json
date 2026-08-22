@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Athenspublictransit",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Athens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/athenstransit/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-dnvx-athenspublictransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

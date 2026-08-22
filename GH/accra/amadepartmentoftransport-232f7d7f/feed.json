@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amadepartmentoftransport",
+    "country": "GH",
+    "subdivision": "Greater Accra",
+    "city": "Accra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/accra/raw/master/GTFS/GTFS_Accra.zip",
+    "mdb_id": "f-ebzz-amadepartmentoftransport",
+    "license": "https://opendatacommons.org/licenses/odbl/index.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

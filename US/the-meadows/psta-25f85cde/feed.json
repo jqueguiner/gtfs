@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Psta",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "The Meadows"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://psta.net/latest/google_ferry.zip",
+    "mdb_id": "f-dhv-psta",
+    "license": "https://ftis.org/FTDEDisclaimer.aspx"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Laketransit~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Cloverdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/laketransit-ca-us/laketransit-ca-us.zip",
+    "mdb_id": "f-9qb-laketransit~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

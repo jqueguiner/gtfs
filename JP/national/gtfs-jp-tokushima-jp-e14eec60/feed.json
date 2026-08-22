@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Jp~Tokushima~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.city.tokushima.tokushima.jp/shisei/open-data/living/gtfs-jp.files/GTFS-JP.zip",
+    "mdb_id": "f-gtfs~jp~tokushima~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

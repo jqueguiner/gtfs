@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "清瀬市",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip?date=current",
+    "mdb_id": "f-kiyosecity~kiyobus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

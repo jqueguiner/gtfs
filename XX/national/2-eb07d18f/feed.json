@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "永井バス永井運輸~2",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NagaiTransportation/AllLines.zip?date=latest",
+    "mdb_id": "f-永井バス永井運輸~2",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

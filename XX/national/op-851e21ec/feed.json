@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "白山市コミュニティバスめぐーる",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hakusancity/feeds/hakusan_bus_meguru/files/feed.zip",
+    "mdb_id": "f-白山市コミュニティバスめぐーる",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mitchellcountync",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Spruce Pine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Mitchell%20County%20Transportation%20Authority_121/MitchellCounty.zip",
+    "mdb_id": "f-dnms-mitchellcountync",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

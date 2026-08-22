@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Countyconnection",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orinda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://cccta.org/GTFS/google_transit.zip",
+    "mdb_id": "f-9q9p-countyconnection",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

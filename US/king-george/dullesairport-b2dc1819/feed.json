@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dullesairport",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "King George"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dullesairport.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dqc1-dullesairport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

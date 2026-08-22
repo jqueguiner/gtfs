@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Marta",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Lula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://itsmarta.com/google_transit_feed/google_transit.zip",
+    "mdb_id": "f-dnh-marta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

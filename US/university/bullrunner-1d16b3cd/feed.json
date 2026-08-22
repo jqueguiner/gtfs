@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bullrunner",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "University"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/usf/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-dhvrs-bullrunner",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

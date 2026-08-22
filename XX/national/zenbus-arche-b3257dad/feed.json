@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Arche",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=lr11-arche",
+    "mdb_id": "f-zenbus~arche",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

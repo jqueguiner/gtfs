@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mission Bay TMA",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Francisco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/missionbaytma-ca-us/missionbaytma-ca-us.zip",
+    "mdb_id": "f-9q8yy-missionbaytma~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

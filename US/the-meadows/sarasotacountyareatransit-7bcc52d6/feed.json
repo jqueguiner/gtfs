@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sarasotacountyareatransit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "The Meadows"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://breezerider.tripsparkhost.com/static/google_transit.zip",
+    "mdb_id": "f-dhv-sarasotacountyareatransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

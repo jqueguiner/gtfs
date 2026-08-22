@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sonoma County Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Cloverdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip",
+    "mdb_id": "f-9qb-sonomacounty~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

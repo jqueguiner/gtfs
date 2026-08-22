@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Septa~Rail",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Flourtown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/septadev/GTFS/releases/latest/download/gtfs_public.zip#google_rail.zip",
+    "mdb_id": "f-dr4-septa~rail",
+    "license": "http://www3.septa.org/developer/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

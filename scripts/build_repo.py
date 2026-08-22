@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the country/city/agency tree + catalog.csv + README table from a
 Mobility-Database dump (scripts/ingest_mdb.py writes data/feeds_full.json)."""
-import json, os, re, csv, sys, unicodedata
+import json, os, re, csv, sys, unicodedata, hashlib
 from collections import defaultdict, Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -42,10 +42,14 @@ def main():
     per_country = defaultdict(lambda: {"feeds": 0, "cities": set(), "agencies": set()})
     for f in feeds:
         cc = (f["cc"] or "XX").upper()
+        if not re.fullmatch(r"[A-Z]{2}", cc):
+            cc = "XX"
         city = f["city"] or f["subdiv"] or "national"
         agency = f["provider"] or f["name"] or f["id"]
-        cslug = slug(city, "national")[:40]
-        aslug = (slug(agency, f["id"])[:55] + "-" + f["id"].replace("mdb-", ""))
+        cslug = (slug(city, "")[:40] or "unknown")
+        # ascii base + short hash of the source id => always ascii, bounded, unique
+        uid = hashlib.md5(str(f["id"]).encode("utf-8")).hexdigest()[:8]
+        aslug = (slug(agency, "")[:48] or "op") + "-" + uid
         d = os.path.join(ROOT, cc, cslug, aslug)
         os.makedirs(d, exist_ok=True)
         manifest = {

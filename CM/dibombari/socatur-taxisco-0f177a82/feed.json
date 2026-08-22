@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Socatur~Taxisco",
+    "country": "CM",
+    "subdivision": "Littoral",
+    "city": "Dibombari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/douala/-/raw/master/GTFS-SYSTRA/GTFS-SYSTRA.zip",
+    "mdb_id": "f-s0wz-socatur~taxisco",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

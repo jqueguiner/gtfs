@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Karts",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Spring Hope"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Kerr%20Area%20Transportation%20Authority_185/KARTS.zip",
+    "mdb_id": "f-dq2-karts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

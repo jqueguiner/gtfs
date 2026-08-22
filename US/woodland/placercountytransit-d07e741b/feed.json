@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Placercountytransit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Woodland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/placercounty-ca-us/placercounty-ca-us.zip",
+    "mdb_id": "f-9qc-placercountytransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

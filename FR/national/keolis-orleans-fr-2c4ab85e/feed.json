@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Keolis~Orleans~Fr",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://chouette.enroute.mobi/api/v1/datas/keolis_orleans.gtfs.zip",
+    "mdb_id": "f-keolis~orleans~fr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

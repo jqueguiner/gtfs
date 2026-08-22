@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sembokucity~Bus~City~Semboku",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sembokucity/feeds/bus-city-semboku/files/feed.zip?uid=c550be29-f0f3-45ed-b13f-d58ecbf8c6cb",
+    "mdb_id": "f-sembokucity~bus~city~semboku",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

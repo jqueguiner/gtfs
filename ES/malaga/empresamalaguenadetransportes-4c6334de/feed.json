@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Empresamalagueñadetransportes",
+    "country": "ES",
+    "subdivision": "Andalusia",
+    "city": "Malaga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1494",
+    "mdb_id": "f-eysb-empresamalagueñadetransportes",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

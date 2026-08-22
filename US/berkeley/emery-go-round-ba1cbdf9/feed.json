@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Emery Go-Round",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Berkeley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=EM",
+    "mdb_id": "f-9q9p3-emerygoround",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Switzerland",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Fayl-Billot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.opentransportdata.swiss/en/dataset/timetable-2026-gtfs2020/permalink",
+    "mdb_id": "f-u0-switzerland",
+    "license": "https://opentransportdata.swiss/en/terms-of-use/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

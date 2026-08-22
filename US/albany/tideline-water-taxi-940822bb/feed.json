@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tideline Water Taxi",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Albany"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/tidelinewatertaxi-ca-us/tidelinewatertaxi-ca-us.zip",
+    "mdb_id": "f-9q8zr-tidelinewatertaxi~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

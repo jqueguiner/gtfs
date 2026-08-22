@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Interurbano~De~Tenerife",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1331",
+    "mdb_id": "f-autobús~interurbano~de~tenerife",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

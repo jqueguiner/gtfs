@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "仙台市交通局",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip?date=current",
+    "mdb_id": "f-sendaimunicipal~bus~realtime~information~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

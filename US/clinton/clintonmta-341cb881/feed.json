@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Clintonmta",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Clinton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/clintonmta-ia-us/clintonmta-ia-us.zip",
+    "mdb_id": "f-9zry5-clintonmta",
+    "license": "https://iowa-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tokyometro~Data~Tokyometro~Train~Gtfs~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/TokyoMetro/data/TokyoMetro-Train-GTFS.zip",
+    "mdb_id": "f-tokyometro~data~tokyometro~train~gtfs~jp",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

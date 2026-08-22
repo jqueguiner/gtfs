@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Geiseivillage~Gtfs~Geiseivill~Bus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/geiseivillage/feeds/GTFS-Geiseivill_Bus/files/feed.zip?uid=b1697790-bb03-4a36-abcf-4e7633b4d956",
+    "mdb_id": "f-geiseivillage~gtfs~geiseivill~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

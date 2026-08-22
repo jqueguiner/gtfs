@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orlando~Airport~People~Mover",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/orlando-airport-people-mover.zip",
+    "mdb_id": "f-orlando~airport~people~mover",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

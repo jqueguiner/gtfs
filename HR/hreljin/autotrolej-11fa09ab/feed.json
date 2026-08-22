@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autotrolej",
+    "country": "HR",
+    "subdivision": "Primorsko-Goranska",
+    "city": "Hreljin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gt.autotrolej.hr/google-transit.zip",
+    "mdb_id": "f-u243-autotrolej",
+    "license": "https://data.gov.hr/otvorena-dozvola"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

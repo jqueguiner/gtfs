@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alleganycountytransit",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Frostburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://atcgtfsdownload.itcurves.us/DownloadGtfs",
+    "mdb_id": "f-dppc-alleganycountytransit",
+    "license": "https://github.com/mobilityequity/maryland-local-gtfs/blob/master/README.md"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

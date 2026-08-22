@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metrotasmania",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "city": "New Norfolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transport.tas.gov.au/__data/assets/file/0011/557615/GTFS_240425_Tasmania_post.zip",
+    "mdb_id": "f-r22-metrotasmania",
+    "license": "https://www.transport.tas.gov.au/public_transport/gtfs-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

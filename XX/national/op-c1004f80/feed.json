@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "香美町~町民バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hyogo-kamitown/feeds/kamichominbus/files/feed.zip",
+    "mdb_id": "f-香美町~町民バス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

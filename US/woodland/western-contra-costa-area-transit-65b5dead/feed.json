@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Western Contra Costa Area Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Woodland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/westcat-ca-us/westcat-ca-us.zip",
+    "mdb_id": "f-9qc-westcat~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

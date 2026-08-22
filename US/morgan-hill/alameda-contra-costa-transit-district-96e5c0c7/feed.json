@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alameda-Contra Costa Transit District",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Morgan Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.actransit.org/transit/gtfs/download?token=2512B81107A09D2DC44895CDDC650D47",
+    "mdb_id": "f-9q9-actransit",
+    "license": "CC-BY-3.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

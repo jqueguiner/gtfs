@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cumberland~County~Nj",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/Cumberland_Co_bus_data.zip",
+    "mdb_id": "f-cumberland~county~nj",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

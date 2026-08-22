@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Francisco Bay Ferry",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orinda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=SB",
+    "mdb_id": "f-9q9p-sanfranciscobayferry",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

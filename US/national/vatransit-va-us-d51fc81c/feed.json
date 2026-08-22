@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vatransit~Va~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/vatransit-va-us/vatransit-va-us.zip",
+    "mdb_id": "f-vatransit~va~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Nakatsu~City~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city-nakatsu.jp/doc/2019072300060/file_contents/GTFS_Nakatsu_city.zip",
+    "mdb_id": "f-gtfs~nakatsu~city~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

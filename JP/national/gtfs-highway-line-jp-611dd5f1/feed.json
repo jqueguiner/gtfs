@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Highway~Line~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.takubus.com/app/download/11135470279/GTFS_highway_line.zip",
+    "mdb_id": "f-gtfs~highway~line~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

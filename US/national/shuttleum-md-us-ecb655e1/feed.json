@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shuttleum~Md~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feed.actionfigure.ai/university-of-maryland-shuttle-um.zip",
+    "mdb_id": "f-shuttleum~md~us",
+    "license": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

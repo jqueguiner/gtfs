@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jet",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "city": "Jonesboro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://letsgo.jonesboro.org/gtfs/google_transit.zip",
+    "mdb_id": "f-9yreb-jet",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

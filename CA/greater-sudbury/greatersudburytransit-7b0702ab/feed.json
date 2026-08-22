@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greatersudburytransit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Greater Sudbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sudbury.tmix.se/gtfs/gtfs.zip",
+    "mdb_id": "f-f0q2-greatersudburytransit",
+    "license": "http://www.greatersudbury.ca/inside-city-hall/open-data/licence/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

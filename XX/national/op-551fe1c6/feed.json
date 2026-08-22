@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "伊勢鉄道",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/isetetu/feeds/iserailway/files/feed.zip",
+    "mdb_id": "f-伊勢鉄道",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

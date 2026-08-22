@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "オクシリアイランドフェリー株式会社",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/OkushiriIslandFerry/Okushiri_Esashi_Ferry_Route.zip?date=current",
+    "mdb_id": "f-okushiriislandferry~okushiri~esashi~ferry~route~jp",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

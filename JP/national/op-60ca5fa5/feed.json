@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東村山市",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip?date=current",
+    "mdb_id": "f-higashimurayamacity~alllines~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

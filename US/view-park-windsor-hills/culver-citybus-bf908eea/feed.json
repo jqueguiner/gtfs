@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Culver CityBus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "View Park-Windsor Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.culvercity.gov/files/assets/public/v/9/documents/information-technology/maps/gtfsexport.zip",
+    "mdb_id": "f-9q5c-culvercitybus",
+    "license": "https://www.culvercity.gov/City-Hall/Departments/IT/Download-GIS-Data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

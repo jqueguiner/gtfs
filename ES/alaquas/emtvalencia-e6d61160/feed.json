@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Emtvalencia",
+    "country": "ES",
+    "subdivision": "Valencia",
+    "city": "Alaquas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1166",
+    "mdb_id": "f-ezp8-emtvalencia",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

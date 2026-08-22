@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valleyride",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Boise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/gtfs.zip",
+    "mdb_id": "f-9rv2-valleyride",
+    "license": "CC-BY-3.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

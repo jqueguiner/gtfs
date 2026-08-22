@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "のみバス",
+    "country": "JP",
+    "subdivision": "Ishikawa",
+    "city": "Matsuto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.city.nomi.ishikawa.jp/data/open/cnt/3/5145/1/GTFSnomi2018.zip",
+    "mdb_id": "f-xn3p-のみバス",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

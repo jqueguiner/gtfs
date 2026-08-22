@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Kd~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.kotoden.co.jp/publichtm/gtfs/gtfsdata/latest/gtfs_kd.zip",
+    "mdb_id": "f-gtfs~kd~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "羽後交通",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.akita-bus.or.jp/~akita-gtfs/ugo-bus-jp.zip",
+    "mdb_id": "f-羽後交通",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

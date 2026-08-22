@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Newburgh~Beacon~Shuttle~Ny",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Newburgh-Beacon_Bridge_Shuttle.zip",
+    "mdb_id": "f-newburgh~beacon~shuttle~ny",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

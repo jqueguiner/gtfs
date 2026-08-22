@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cliffshuttles~Emoryuniversity",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Decatur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transloc.com/gtfs/emory.zip",
+    "mdb_id": "f-dnh01-cliffshuttles~emoryuniversity",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

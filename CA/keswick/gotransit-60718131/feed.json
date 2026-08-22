@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gotransit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Keswick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://assets.metrolinx.com/raw/upload/v1683228856/Documents/Metrolinx/Open%20Data/GO-GTFS.zip",
+    "mdb_id": "f-dpz-gotransit",
+    "license": "https://assets.metrolinx.com/image/upload/v1663237565/Documents/Metrolinx/Open-Government-Licence-Ontario-Metrolinx.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

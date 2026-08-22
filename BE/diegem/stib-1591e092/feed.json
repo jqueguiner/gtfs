@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stib",
+    "country": "BE",
+    "subdivision": "Flanders",
+    "city": "Diegem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/gtfs/feed/stibmivb/static",
+    "mdb_id": "f-u151-stib",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "尾花沢市路線バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/obanazawacity/feeds/ObanazawaCity/files/feed.zip",
+    "mdb_id": "f-尾花沢市路線バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

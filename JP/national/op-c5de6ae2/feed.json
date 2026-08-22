@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "国立市道路交通課",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/KunitachiCity/kunitachi_city_aoyagikko.zip?date=current",
+    "mdb_id": "f-kunitachicity~kunitachi~city~aoyagikko~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

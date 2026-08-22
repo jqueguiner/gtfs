@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Santa Rosa CityBus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Rosa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://santarosa.syncromatics.com/gtfs",
+    "mdb_id": "f-9qbdx-santarosacitybus",
+    "license": "https://www.srcity.org/1713/GTSF-Open-Source-Data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

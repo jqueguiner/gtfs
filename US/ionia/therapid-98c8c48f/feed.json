@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Therapid",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ionia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://connect.ridetherapid.org/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "f-dpe-therapid",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

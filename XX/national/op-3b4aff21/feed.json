@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七宗町営バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hichisotown/feeds/choeibus/files/feed.zip",
+    "mdb_id": "f-七宗町営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Thebus~Vt~Us",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Chesterfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/thebus-vt-us/thebus-vt-us.zip",
+    "mdb_id": "f-drs-thebus~vt~us",
+    "license": "https://vermont-gtfs.org/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

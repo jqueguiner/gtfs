@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kolumbus",
+    "country": "NO",
+    "subdivision": "Rogaland",
+    "city": "Hauge i Dalane"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.rkt.no/gt/google_transit.zip",
+    "mdb_id": "f-u4k-kolumbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

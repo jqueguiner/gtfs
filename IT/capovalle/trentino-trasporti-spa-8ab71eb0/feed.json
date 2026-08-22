@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trentino Trasporti SpA",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "city": "Capovalle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.trentinotrasporti.it/opendata/google_transit_extraurbano_tte.zip",
+    "mdb_id": "f-u0p-trentinotrasportieserciziospa",
+    "license": "CC-BY-2.5"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

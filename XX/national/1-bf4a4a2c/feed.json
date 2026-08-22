@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東村山市コミュニティバス~グリーンバス~1",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip?date=latest",
+    "mdb_id": "f-東村山市コミュニティバス~グリーンバス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

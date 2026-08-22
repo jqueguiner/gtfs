@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Victorville~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Oak Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transloc.com/gtfs/vvta.zip",
+    "mdb_id": "f-9qh-victorville~ca~us",
+    "license": "CC-BY-3.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

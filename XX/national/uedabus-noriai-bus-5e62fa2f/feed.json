@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uedabus~Noriai~Bus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uedabus/feeds/noriai_bus/files/feed.zip?uid=aa1638a9-b166-46a9-9f4f-fa50ebe120f1",
+    "mdb_id": "f-uedabus~noriai~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

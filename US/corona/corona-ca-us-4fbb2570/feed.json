@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Corona~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Corona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/corona-ca-us/corona-ca-us.zip",
+    "mdb_id": "f-9qh2s-corona~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

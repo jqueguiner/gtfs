@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Town~Of~Monroe~Ny~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/TransitOrange_-_Town_of_Monroe.zip",
+    "mdb_id": "f-town~of~monroe~ny~us",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

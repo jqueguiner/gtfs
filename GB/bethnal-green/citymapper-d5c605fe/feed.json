@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Citymapper",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bethnal Green"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.citymapper.com/uk-london/gtfs.zip",
+    "mdb_id": "f-gcpvn-citymapper",
+    "license": "https://opendatacommons.org/licenses/pddl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consorcio Regional de Transportes de Madrid",
+    "country": "ES",
+    "subdivision": "Madrid",
+    "city": "Villaconejos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1135",
+    "mdb_id": "f-ezj-informaciónoficial~consorcioregionaldetransportesdemadrid",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

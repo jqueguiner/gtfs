@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eppleyairfield",
+    "country": "US",
+    "subdivision": "Kansas",
+    "city": "Hill City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eppleyairfield.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-9z0b-eppleyairfield",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rochester~Mn~Us~Paratransit",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rochester-mn-us/rochester-mn-us--flex-v2.zip",
+    "mdb_id": "f-rochester~mn~us~paratransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

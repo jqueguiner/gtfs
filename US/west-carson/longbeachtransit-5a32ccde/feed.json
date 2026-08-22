@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Longbeachtransit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "West Carson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14866/google_transit.zip",
+    "mdb_id": "f-9q5b-longbeachtransit",
+    "license": "https://ridelbt.com/gtfs-feed/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

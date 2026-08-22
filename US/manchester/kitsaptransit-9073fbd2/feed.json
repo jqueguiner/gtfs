@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kitsaptransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Manchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pride.kitsaptransit.com/gtfs/google_transit.zip",
+    "mdb_id": "f-c22y-kitsaptransit",
+    "license": "https://www.kitsaptransit.com/terms-and-conditions#developer"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

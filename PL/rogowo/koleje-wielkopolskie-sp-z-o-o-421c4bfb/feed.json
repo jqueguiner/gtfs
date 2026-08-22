@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Wielkopolskie Sp. z o.o.",
+    "country": "PL",
+    "subdivision": "Kujawsko-Pomorskie",
+    "city": "Rogowo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://ws.kolejewlkp.pl:83/gtfs_kw.zip",
+    "mdb_id": "f-u3k-koleje~wielkopolskie",
+    "license": "https://bip.koleje-wielkopolskie.com.pl/informacje-publiczne/zasady-udostepniania-informacji-publicznych/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Knoxvilleareatransit",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Knoxville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://knoxville.syncromatics.com/gtfs",
+    "mdb_id": "f-dnkk-knoxvilleareatransit",
+    "license": "https://www.knoxvilletn.gov/government/opendata/knoxville_area_transit_kat_gtfs_feed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

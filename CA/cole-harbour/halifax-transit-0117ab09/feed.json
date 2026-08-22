@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Halifax Transit",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "city": "Cole Harbour"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.halifax.ca/static/google_transit.zip",
+    "mdb_id": "f-dxfy-halifaxtransit~hrm",
+    "license": "https://data-hrm.hub.arcgis.com/pages/open-data-licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

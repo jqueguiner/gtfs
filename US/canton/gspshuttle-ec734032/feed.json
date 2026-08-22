@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gspshuttle",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Canton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gspshuttle.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dnm4-gspshuttle",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

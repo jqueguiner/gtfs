@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Siouxareametro~Sd~Us",
+    "country": "US",
+    "subdivision": "South Dakota",
+    "city": "Tea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/siouxareametro.etaspot.net/gtfs.zip",
+    "mdb_id": "f-9zep-siouxareametro~sd~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

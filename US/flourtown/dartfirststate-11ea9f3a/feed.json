@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dartfirststate",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Flourtown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip",
+    "mdb_id": "f-dr4-dartfirststate",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

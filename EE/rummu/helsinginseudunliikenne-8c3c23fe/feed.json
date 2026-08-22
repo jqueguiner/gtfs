@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Helsinginseudunliikenne",
+    "country": "EE",
+    "subdivision": "Harju",
+    "city": "Rummu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://infopalvelut.storage.hsldev.com/gtfs/hsl.zip",
+    "mdb_id": "f-ud9-helsinginseudunliikenne",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

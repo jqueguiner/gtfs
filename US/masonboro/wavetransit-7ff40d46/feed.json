@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wavetransit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Masonboro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wave.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "f-dq0d-wavetransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

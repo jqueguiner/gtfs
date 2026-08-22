@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Theride",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Sitka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transit.sitka.land/the-ride/transit_feed.zip",
+    "mdb_id": "f-bfpu-theride",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

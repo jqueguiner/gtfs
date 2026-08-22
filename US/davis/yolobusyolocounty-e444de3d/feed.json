@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yolobusyolocounty",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Davis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.yctd.org/realtime/google_transit.zip",
+    "mdb_id": "f-9qc7-yolobusyolocounty",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wrta",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Leicester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.wrta.cadavl.com/WRTA/GTFS/GTFS_WRTA.zip",
+    "mdb_id": "f-drsb-wrta",
+    "license": "https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

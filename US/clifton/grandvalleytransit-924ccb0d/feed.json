@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grandvalleytransit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Clifton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://emap.mesacounty.us/datadownload/Google_Transit_Feed/google_transit.zip",
+    "mdb_id": "f-9wfy-grandvalleytransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

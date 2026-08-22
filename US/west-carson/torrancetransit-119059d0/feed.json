@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Torrancetransit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "West Carson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transit.torranceca.gov/gtfs_feed",
+    "mdb_id": "f-9q5b-torrancetransit",
+    "license": "https://transit.torranceca.gov/home/showpublisheddocument/6052/636308096437370000"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

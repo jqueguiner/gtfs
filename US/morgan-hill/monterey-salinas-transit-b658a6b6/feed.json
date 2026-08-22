@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Monterey-Salinas Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Morgan Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mst.org/google/google_transit.zip",
+    "mdb_id": "f-9q9-monterey~salinastransit",
+    "license": "https://mst.org/about-mst/developer-resources/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

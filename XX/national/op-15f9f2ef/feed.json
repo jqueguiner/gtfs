@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "富山地鉄バス富山地方鉄道",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chitetsu/feeds/chitetsubus/files/feed.zip",
+    "mdb_id": "f-富山地鉄バス富山地方鉄道",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

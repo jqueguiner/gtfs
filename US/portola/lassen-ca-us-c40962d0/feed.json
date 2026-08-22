@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lassen~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Portola"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/lassen-ca-us/lassen-ca-us.zip",
+    "mdb_id": "f-9r4-lassen~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

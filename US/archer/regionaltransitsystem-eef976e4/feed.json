@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regionaltransitsystem",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Archer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://go-rts.com/wp-content/uploads/2026/01/RTSGTFS_Spring2026_V6.zip",
+    "mdb_id": "f-djm2-regionaltransitsystem",
+    "license": "http://go-rts.com/rts-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

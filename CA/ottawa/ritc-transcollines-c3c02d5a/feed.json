@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ritc~Transcollines",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Ottawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca-fares.zip",
+    "mdb_id": "f-f244-ritc~transcollines",
+    "license": "https://github.com/transcollines/GTFS/blob/master/LICENCE.MD"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

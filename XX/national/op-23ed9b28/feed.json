@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "両備バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://loc.bus-vision.jp/gtfs/ryobi/gtfsFeed",
+    "mdb_id": "f-両備バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

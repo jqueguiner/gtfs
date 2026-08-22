@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "稲城市",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/InagiCity/ibas_A_course.zip?date=current",
+    "mdb_id": "f-inagicity~ibas~a~course~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

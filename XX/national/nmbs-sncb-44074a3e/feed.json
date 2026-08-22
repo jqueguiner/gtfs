@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nmbs~Sncb",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/static",
+    "mdb_id": "f-u-nmbs~sncb",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sakaide~City~Bus~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city.sakaide.lg.jp/uploaded/library/sakaide_city_bus.zip",
+    "mdb_id": "f-sakaide~city~bus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

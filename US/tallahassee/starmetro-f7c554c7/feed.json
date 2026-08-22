@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Starmetro",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Tallahassee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.talgov.com/Uploads/Public/documents/starmetro/GTFS.zip",
+    "mdb_id": "f-djkj-starmetro",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

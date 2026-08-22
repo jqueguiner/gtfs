@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ati",
+    "country": "PR",
+    "subdivision": "Canovanas",
+    "city": "Canovanas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://docs.pr.gov/files/ATI/DATOS_ABIERTOS/GTFS/PRITA_GTFS.zip",
+    "mdb_id": "f-de30-ati",
+    "license": "https://www.ati.pr.gov/relaciones-comunidad?tab=DatosAbiertos#datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Union City Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Union City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=UC",
+    "mdb_id": "f-9q9jy-unioncitytransit",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

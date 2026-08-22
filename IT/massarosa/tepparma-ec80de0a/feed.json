@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tepparma",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Massarosa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://temporeale.cl.tep.pr.it/temporeale/gtfs.zip",
+    "mdb_id": "f-spz3-tepparma",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

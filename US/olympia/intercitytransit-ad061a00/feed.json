@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Intercitytransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Olympia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://its.rideralerts.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "f-c22e-intercitytransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

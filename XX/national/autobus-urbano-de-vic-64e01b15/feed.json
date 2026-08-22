@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Urbano~De~Vic",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2162",
+    "mdb_id": "f-autobús~urbano~de~vic",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

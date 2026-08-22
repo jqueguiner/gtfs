@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Western~Maine~Transportation",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wmtsbus.org/wp-content/uploads/2026/03/WMTS_GTFS_3.10.26.zip",
+    "mdb_id": "f-western~maine~transportation",
+    "license": "https://wmtsbus.org/gtfs/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

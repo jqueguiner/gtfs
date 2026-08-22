@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Westchestercountybee~Linesystem",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Brinckerhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip",
+    "mdb_id": "f-dr7-westchestercountybee~linesystem",
+    "license": "https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

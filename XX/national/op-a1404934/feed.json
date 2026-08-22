@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七ヶ浜町民バスぐるりんこ",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/ShichigahamaTown/All_Gururinko.zip?date=current",
+    "mdb_id": "f-七ヶ浜町民バスぐるりんこ",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

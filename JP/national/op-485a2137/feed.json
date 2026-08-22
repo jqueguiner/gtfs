@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七ヶ浜町",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/ShichigahamaTown/All_Gururinko.zip?date=current",
+    "mdb_id": "f-shichigahamatown~all~gururinko~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

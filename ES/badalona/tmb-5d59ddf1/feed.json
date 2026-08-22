@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tmb",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Badalona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tmb.cat/v1/static/datasets/gtfs.zip?app_id=4687fa4e",
+    "mdb_id": "f-sp3e-tmb",
+    "license": "https://developer.tmb.cat/data/gtfs"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

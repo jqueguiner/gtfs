@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Edwardmoore",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "Castlecomer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/google_transit_edmoore.zip",
+    "mdb_id": "f-gc6u-edwardmoore",
+    "license": "https://data.gov.ie/licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

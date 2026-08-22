@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cdta",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Country Knolls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.cdta.org/schedules/google_transit.zip",
+    "mdb_id": "f-dre-cdta",
+    "license": "https://www.cdta.org/developer-license-agreement/169"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "徳島市~応神ふれあいバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokushimacity/feeds/oujinfureaibus/files/feed.zip",
+    "mdb_id": "f-徳島市~応神ふれあいバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

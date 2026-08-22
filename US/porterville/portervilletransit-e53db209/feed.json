@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Portervilletransit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Porterville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://porterville.tripshot.com/v1/gtfs.zip",
+    "mdb_id": "f-9q7m-portervilletransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

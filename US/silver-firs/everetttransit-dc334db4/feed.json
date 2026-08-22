@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Everetttransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Silver Firs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://everett.mapstrat.com/current/google_transit.zip",
+    "mdb_id": "f-c290-everetttransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

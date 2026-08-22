@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pvta",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Moodus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.pvta.com/g_trans/google_transit.zip",
+    "mdb_id": "f-drk-pvta",
+    "license": "https://www.mass.gov/doc/developers-license-agreement-11132009/download"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

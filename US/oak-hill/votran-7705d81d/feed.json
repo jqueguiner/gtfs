@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Votran",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Oak Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimevotran.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "f-djn-votran",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saga~Current~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.sagabus.info/saga-current.zip",
+    "mdb_id": "f-saga~current~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

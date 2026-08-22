@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bigbear~Ca~Us",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Big Bear Lake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/mountain_transit_ca.zip",
+    "mdb_id": "f-9qhf-bigbear~ca~us",
+    "license": "https://www.mountaintransit.org/developers-gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

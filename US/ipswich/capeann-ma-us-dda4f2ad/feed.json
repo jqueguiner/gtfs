@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capeann~Ma~Us",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Ipswich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip",
+    "mdb_id": "f-drtd-capeann~ma~us",
+    "license": "https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

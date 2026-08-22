@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Upexpress",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Etobicoke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://assets.metrolinx.com/raw/upload/v1682367798/Documents/Metrolinx/Open%20Data/UP-GTFS.zip",
+    "mdb_id": "f-dpz2-upexpress",
+    "license": "https://assets.metrolinx.com/image/upload/v1663237565/Documents/Metrolinx/Open-Government-Licence-Ontario-Metrolinx.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

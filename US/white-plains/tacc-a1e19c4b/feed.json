@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tacc",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "White Plains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Transportation%20Administration%20of%20Cleveland%20County_45/TACC.zip",
+    "mdb_id": "f-dnq0-tacc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

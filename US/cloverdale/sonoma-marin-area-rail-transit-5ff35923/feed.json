@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sonoma Marin Area Rail Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Cloverdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/smart-ca-us/smart-ca-us.zip",
+    "mdb_id": "f-smart~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

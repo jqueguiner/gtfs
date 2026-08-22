@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Freddiemac",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Montross"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://freddiemac.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dqc2-freddiemac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

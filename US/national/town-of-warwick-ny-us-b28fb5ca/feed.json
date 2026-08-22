@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Town~Of~Warwick~Ny~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Town_of_Warwick.zip",
+    "mdb_id": "f-town~of~warwick~ny~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

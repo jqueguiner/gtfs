@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/point-or-us/point-or-us.zip",
+    "mdb_id": "f-point~or-us",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

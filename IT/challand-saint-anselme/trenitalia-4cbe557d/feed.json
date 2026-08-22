@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trenitalia",
+    "country": "IT",
+    "subdivision": "Aosta Valley",
+    "city": "Challand-Saint-Anselme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.smartdatanet.it/api/ServizioProgrammatoDelTrasportoPubblicoRegionePiemonteTreniRegionali_5188/attachment/5187/1/GTFS_RAIL_IT_PIE.zip",
+    "mdb_id": "f-u0j-trenitalia",
+    "license": "CC-BY-2.5"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

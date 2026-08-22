@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Michiganflyer~Mi~Us",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Grand Blanc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/michiganflyer-mi-us/michiganflyer-mi-us.zip",
+    "mdb_id": "f-dps-michiganflyer~mi~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

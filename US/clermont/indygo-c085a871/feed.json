@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Indygo",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Clermont"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.indygo.net/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "f-dp4d-indygo",
+    "license": "http://www.indygo.net/about-indygo/indygo-developer-content-area/indygo-gtfs-terms-of-use/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

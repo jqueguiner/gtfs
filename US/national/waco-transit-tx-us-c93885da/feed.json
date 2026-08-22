@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Waco~Transit~Tx~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wacotransit.transloc.com/secure/admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-waco~transit~tx~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

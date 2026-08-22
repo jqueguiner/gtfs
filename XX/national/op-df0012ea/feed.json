@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "秋田市~マイタウン~バス中心市街地循環バスぐるる",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/AkitaCity/AkitaCityBus.zip?date=current",
+    "mdb_id": "f-秋田市~マイタウン~バス中心市街地循環バスぐるる",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

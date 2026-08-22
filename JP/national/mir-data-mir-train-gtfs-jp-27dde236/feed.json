@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mir~Data~Mir~Train~Gtfs~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/MIR/data/MIR-Train-GTFS.zip",
+    "mdb_id": "f-mir~data~mir~train~gtfs~jp",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

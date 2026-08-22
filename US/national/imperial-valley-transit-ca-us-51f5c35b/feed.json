@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Imperial~Valley~Transit~Ca~Us",
+    "country": "US",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://schedule.ivtransit.com/gtfs/data.zip",
+    "mdb_id": "f-imperial~valley~transit~ca~us",
+    "license": "https://www.ivtransit.com/gtfs"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

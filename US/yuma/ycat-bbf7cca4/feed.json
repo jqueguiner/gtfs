@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ycat",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Yuma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11462/ycatfeed1.zip",
+    "mdb_id": "f-9my-ycat",
+    "license": "http://www.ycipta.org/gtfs.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

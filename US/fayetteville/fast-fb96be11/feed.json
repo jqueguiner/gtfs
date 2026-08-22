@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fast",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Fayetteville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fast.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dnpz-fast",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

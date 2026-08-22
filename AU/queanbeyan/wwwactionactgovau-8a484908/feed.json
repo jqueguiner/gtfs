@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wwwactionactgovau",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "city": "Queanbeyan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.api.act.gov.au/gtfs/data/gtfs/v2/google_transit.zip",
+    "mdb_id": "f-r3dp-wwwactionactgovau",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Charlescountyvango",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Hughesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://charlescounty.tripshot.com/v1/gtfs/feed/VanGO",
+    "mdb_id": "f-dqc7-charlescountyvango",
+    "license": "http://www.mdtrip.org/commuter-tools/developer-resources/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

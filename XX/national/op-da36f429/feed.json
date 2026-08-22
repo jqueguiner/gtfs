@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "宍粟市~しーたんバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shisocity/feeds/shitanbus/files/feed.zip",
+    "mdb_id": "f-宍粟市~しーたんバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ncdotferries",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Harkers Island"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/NC%20Ferries_6/NC_Ferry.zip",
+    "mdb_id": "f-dq1-ncdotferries",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

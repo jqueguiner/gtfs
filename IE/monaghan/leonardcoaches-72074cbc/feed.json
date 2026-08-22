@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Leonardcoaches",
+    "country": "IE",
+    "subdivision": "Ulster",
+    "city": "Monaghan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/google_transit_leonard.zip",
+    "mdb_id": "f-gceh9-leonardcoaches",
+    "license": "https://data.gov.ie/licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

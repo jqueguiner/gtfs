@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nairobi~Saccos",
+    "country": "KE",
+    "subdivision": "Kirinyaga",
+    "city": "Sagana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/nairobi/-/raw/master/Data/GTFS.zip",
+    "mdb_id": "f-kzf-nairobi~saccos",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

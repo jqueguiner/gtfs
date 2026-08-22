@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Harfordtransitlink",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Aberdeen Proving Ground"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/harford/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-dr1b-harfordtransitlink",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

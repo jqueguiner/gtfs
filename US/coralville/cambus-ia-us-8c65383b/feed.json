@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cambus~Ia~Us",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Coralville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip",
+    "mdb_id": "f-9zqvh-cambus~ia~us",
+    "license": "https://iowa-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Socitdetransportdemontral",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal-Ouest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip",
+    "mdb_id": "f-f25d-socitdetransportdemontral",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

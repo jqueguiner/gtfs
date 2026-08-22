@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Scats",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "McColl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Scotland%20County%20Area%20Transit%20System_165/SCATS.zip",
+    "mdb_id": "f-dnpm-scats",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

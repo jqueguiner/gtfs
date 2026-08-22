@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Auburn~University",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/auburn.etaspot.net/gtfs.zip",
+    "mdb_id": "f-auburn~university",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

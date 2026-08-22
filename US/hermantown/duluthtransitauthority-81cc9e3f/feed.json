@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Duluthtransitauthority",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Hermantown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://duluthtransit.com/gtf/google_transit.zip",
+    "mdb_id": "f-cbq6-duluthtransitauthority",
+    "license": "https://www.duluthtransit.com/home/doing-business/developer-resources/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

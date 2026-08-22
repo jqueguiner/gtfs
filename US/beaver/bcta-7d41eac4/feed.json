@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bcta",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Beaver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bcta.rideralerts.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "f-dpnz-bcta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

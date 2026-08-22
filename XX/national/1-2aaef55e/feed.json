@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "青森市営バス~1",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/AomoriCity/AllLines.zip?date=latest",
+    "mdb_id": "f-青森市営バス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

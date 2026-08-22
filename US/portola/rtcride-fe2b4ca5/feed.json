@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rtcride",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Portola"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rtc-nv-us/rtc-nv-us.zip",
+    "mdb_id": "f-9r4-rtcride",
+    "license": "https://www.rtcwashoe.com/terms-of-use/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mitransporte~Jalisco~Mx",
+    "country": "MX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datos.jalisco.gob.mx/sites/default/files/rutas_mi_transporte_amg_jalisco_07.12.2021.zip",
+    "mdb_id": "f-mitransporte~jalisco~mx",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

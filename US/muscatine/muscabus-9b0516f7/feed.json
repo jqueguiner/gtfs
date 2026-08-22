@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Muscabus",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Muscatine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/muscabus-ia-us/muscabus-ia-us.zip",
+    "mdb_id": "f-9zr78-muscabus",
+    "license": "https://iowa-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

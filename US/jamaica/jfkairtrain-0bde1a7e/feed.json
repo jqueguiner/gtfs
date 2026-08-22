@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jfkairtrain",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Jamaica"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/AirTrain_JFK.zip",
+    "mdb_id": "f-dr5x2-jfkairtrain",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

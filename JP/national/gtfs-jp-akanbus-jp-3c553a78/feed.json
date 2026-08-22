@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gtfs~Jp~Akanbus~Jp",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.akanbus.co.jp/gtfs/GTFS-JP-akanbus.zip",
+    "mdb_id": "f-gtfs~jp~akanbus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

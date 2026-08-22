@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "瑞穂町",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/MizuhoTown/Mizuho_Area.zip?date=current",
+    "mdb_id": "f-mizuhotown~mizuho~area~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

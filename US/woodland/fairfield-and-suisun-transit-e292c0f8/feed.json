@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fairfield and Suisun Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Woodland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/fairfield-ca-us/fairfield-ca-us.zip",
+    "mdb_id": "f-9qc-fairfield~ca~us",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

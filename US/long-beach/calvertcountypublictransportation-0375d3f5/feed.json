@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Calvertcountypublictransportation",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Long Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gis.calvertcountymd.gov/GTFS/Calvert_GTFS.zip",
+    "mdb_id": "f-dqce-calvertcountypublictransportation",
+    "license": "https://github.com/mobilityequity/maryland-local-gtfs/blob/master/README.md"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

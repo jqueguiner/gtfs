@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Петербургский метрополитен",
+    "country": "RU",
+    "subdivision": "St.-Petersburg",
+    "city": "Dachnoye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://transport.orgp.spb.ru/Portal/transport/internalapi/gtfs/feed.zip",
+    "mdb_id": "f-udt-петербургский~метрополитен",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

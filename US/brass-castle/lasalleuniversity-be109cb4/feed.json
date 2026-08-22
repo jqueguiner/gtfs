@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lasalleuniversity",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Brass Castle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lasalle.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-dr4x-lasalleuniversity",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

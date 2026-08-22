@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitantransportcorporation",
+    "country": "IN",
+    "subdivision": "Tamil Nadu",
+    "city": "George Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/mtc_chennai.zip",
+    "mdb_id": "f-tf34-metropolitantransportcorporation",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
