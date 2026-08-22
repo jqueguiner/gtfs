@@ -32,7 +32,7 @@ python3 scripts/build_repo.py || true
 SUBJECT=$(python3 scripts/report_delta.py)
 # email via a100 (Resend env + mailer live there)
 scp -q /tmp/gtfs_delta.html a100:/tmp/gtfs_delta.html \
-  && ssh a100 "python3 /data/addresses/agent/mailer.py \"$SUBJECT\" /tmp/gtfs_delta.html jlq@gladia.io" || true
+  && ssh a100 "python3 /data/addresses/agent/mailer.py \"$SUBJECT\" /tmp/gtfs_delta.html jl@gladia.io" || true
 
 # commit + push if the catalog changed
 if ! git diff --quiet; then
