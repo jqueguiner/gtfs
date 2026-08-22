@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nagitown~Nagibus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagitown/feeds/nagibus/files/feed.zip?uid=c2482ce6-94f3-49ad-8a85-2a26923adba0",
+    "mdb_id": "f-nagitown~nagibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

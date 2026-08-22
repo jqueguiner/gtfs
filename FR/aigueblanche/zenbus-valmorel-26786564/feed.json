@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Valmorel",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Aigueblanche"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=valmorel",
+    "mdb_id": "f-zenbus~valmorel",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

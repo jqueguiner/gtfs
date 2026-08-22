@@ -2,14 +2,14 @@
   "agency": {
     "name": "Zenbus",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Auvergne-Rhône-Alpes",
     "city": "Huez"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=alpe-huez",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c3fa69f0-f8b1-4324-be67-be72baf80ceb",
     "mdb_id": "tdg-78387",
-    "license": "odc-odbl"
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
   },
   "bbox": null,
   "source": "mobility-database",

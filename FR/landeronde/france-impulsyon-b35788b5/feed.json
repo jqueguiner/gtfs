@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "France~Impulsyon",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Landeronde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/impulsyon/exports/medias.zip",
+    "mdb_id": "f-gbqc-france~impulsyon",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

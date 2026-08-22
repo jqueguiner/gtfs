@@ -2,14 +2,14 @@
   "agency": {
     "name": "Zenbus",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "New Aquitaine",
     "city": "Sarlat-la-Canéda"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=Sarlat",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f1119940-adc5-4d2e-af7d-5535e50da539",
     "mdb_id": "tdg-79992",
-    "license": "odc-odbl"
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
   },
   "bbox": null,
   "source": "mobility-database",

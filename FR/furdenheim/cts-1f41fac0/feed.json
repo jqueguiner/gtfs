@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cts",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Furdenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.cts-strasbourg.eu/google_transit.zip",
+    "mdb_id": "f-u0tk-cts",
+    "license": "https://transport.data.gouv.fr/datasets/donnees-theoriques-gtfs-et-temps-reel-siri-lite-du-reseau-cts"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

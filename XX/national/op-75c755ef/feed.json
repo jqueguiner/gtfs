@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鮭川村村営バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sakegawavillage/feeds/SakegawaVillage/files/feed.zip",
+    "mdb_id": "f-鮭川村村営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

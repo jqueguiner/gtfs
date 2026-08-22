@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kinokawacity~Kinokawa~Bus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kinokawacity/feeds/kinokawa_bus/files/feed.zip?uid=2a7d6e89-fb4f-4a4c-9110-65fc67c04d09",
+    "mdb_id": "f-kinokawacity~kinokawa~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

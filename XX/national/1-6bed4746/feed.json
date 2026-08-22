@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "立川市~くるりんバス~1",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TachikawaCity/kururin_bus_alllines.zip?date=latest",
+    "mdb_id": "f-立川市~くるりんバス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

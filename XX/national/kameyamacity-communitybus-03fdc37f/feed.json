@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kameyamacity~Communitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kameyamacity/feeds/communitybus/files/feed.zip?uid=531ef578-6a60-48f1-9f47-f7e66e5138da",
+    "mdb_id": "f-kameyamacity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

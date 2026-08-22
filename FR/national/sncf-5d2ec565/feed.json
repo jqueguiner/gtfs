@@ -7,11 +7,16 @@
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://eu.ftp.opendatasoft.com/sncf/plandata/Export_OpenData_SNCF_GTFS_NewTripId.zip",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9ae758ec-cd7a-40cd-a890-bb3963224942",
     "mdb_id": "tdg-83582",
-    "license": "odc-odbl"
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
   },
-  "bbox": null,
+  "bbox": {
+    "minimum_latitude": 41.378961,
+    "maximum_latitude": 52.5488,
+    "minimum_longitude": -4.480306,
+    "maximum_longitude": 13.391
+  },
   "source": "mobility-database",
   "status": "active"
 }

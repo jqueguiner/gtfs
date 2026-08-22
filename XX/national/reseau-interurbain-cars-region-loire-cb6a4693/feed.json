@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Reseau~Interurbain~Cars~Region~Loire",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CARS_REGION_LOIRE&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "f-reseau~interurbain~cars~region~loire",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

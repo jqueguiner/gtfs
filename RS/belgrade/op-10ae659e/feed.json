@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Градска управа града Београда",
+    "country": "RS",
+    "subdivision": "Grad Beograd",
+    "city": "Belgrade"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.rs/s/resources/gradski-javni-prevoz-u-beogradu-gtfs/20251031-111721/bgprev-belgrade-rs-2-.zip",
+    "mdb_id": "rs-gradski-javni-prevoz-u-beogradu-gtfs",
+    "license": "Serbian Open Data Licence (sodl)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

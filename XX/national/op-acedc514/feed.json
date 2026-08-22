@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "豊田市~地域バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus/files/feed.zip",
+    "mdb_id": "f-豊田市~地域バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

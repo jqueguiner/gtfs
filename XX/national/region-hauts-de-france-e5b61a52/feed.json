@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sig.hautsdefrance.fr/ext/opendata/Transport/GTFS/80/RHDF_GTFS_COM_80.zip",
+    "mdb_id": "f-hauts~de~france~somme",
+    "license": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-80-somme"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

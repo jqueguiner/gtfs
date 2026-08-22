@@ -2,14 +2,14 @@
   "agency": {
     "name": "Communauté de Communes Haute-Tarentaise",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "Auvergne-Rhône-Alpes",
     "city": "Val-d'Isère"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=valdisere",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d6c3eae8-fab6-4ff2-adc2-32bb2d213dd7",
     "mdb_id": "tdg-83629",
-    "license": "lov2"
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
   },
   "bbox": null,
   "source": "mobility-database",

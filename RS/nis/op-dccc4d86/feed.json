@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Град Ниш",
+    "country": "RS",
+    "subdivision": "Nisavski okrug",
+    "city": "Nis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.rs/s/resources/javni-prevoz-i-gtfs/20260121-081857/gtfs-nis-2026.zip",
+    "mdb_id": "rs-javni-prevoz-i-gtfs",
+    "license": "Serbian Open Data Licence (sodl)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

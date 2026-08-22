@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Ritmo",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Schweighouse-sur-Moder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=haguenau",
+    "mdb_id": "f-zenbus~ritmo",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

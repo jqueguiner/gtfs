@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lagunabeachtransit",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lagunabeach.tripshot.com/v1/gtfs.zip",
+    "mdb_id": "f-lagunabeachtransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

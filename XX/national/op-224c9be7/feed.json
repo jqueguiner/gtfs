@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鳥羽市~市営定期船",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tobacity/feeds/teikisen/files/feed.zip",
+    "mdb_id": "f-鳥羽市~市営定期船",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

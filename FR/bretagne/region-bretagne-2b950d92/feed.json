@@ -7,11 +7,16 @@
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.korrigo.bzh/ftp/OPENDATA/KORRIGOBRET.gtfs.zip",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8c7b32d0-6481-4bb8-b903-c50a04c72fec",
     "mdb_id": "tdg-81559",
-    "license": "odc-odbl"
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
   },
-  "bbox": null,
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 50.636577,
+    "minimum_longitude": -5.06261,
+    "maximum_longitude": 3.089958
+  },
   "source": "mobility-database",
   "status": "active"
 }

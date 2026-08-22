@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mobilites~M~Mco",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilites-m.fr/api/gtfs/MCO",
+    "mdb_id": "f-mobilites~m~mco",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Val~D~Isere",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Val-d'Isere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=valdisere",
+    "mdb_id": "f-zenbus~val~d~isere",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

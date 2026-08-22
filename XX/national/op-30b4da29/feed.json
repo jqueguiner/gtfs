@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "豊岡市~市営バスイナカー",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyookacity/feeds/inacar/files/feed.zip",
+    "mdb_id": "f-豊岡市~市営バスイナカー",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

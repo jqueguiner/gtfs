@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société nationale des chemins de fer français Voyageurs",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Cote d'Azur",
+    "city": "Aix-en-Provence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/static/mamp?apiKey=60327e505a214c77303f52206f11483069257343",
+    "mdb_id": "f-spez-paysdaixmobilite",
+    "license": "https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Licence_Ouverte.pdf"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

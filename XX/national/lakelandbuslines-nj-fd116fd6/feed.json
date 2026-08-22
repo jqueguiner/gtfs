@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lakelandbuslines~Nj",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/LakelandBusLines_bus_data.zip",
+    "mdb_id": "f-lakelandbuslines~nj",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

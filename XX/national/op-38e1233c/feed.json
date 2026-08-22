@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長井市営バス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagaicity/feeds/NagaiCity/files/feed.zip",
+    "mdb_id": "f-長井市営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

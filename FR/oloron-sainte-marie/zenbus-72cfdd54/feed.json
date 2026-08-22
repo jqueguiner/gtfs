@@ -2,14 +2,14 @@
   "agency": {
     "name": "Zenbus",
     "country": "FR",
-    "subdivision": null,
+    "subdivision": "New Aquitaine",
     "city": "Oloron-Sainte-Marie"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=oloron",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/10bb8fff-521d-4b27-a85e-79ae704f1ccc",
     "mdb_id": "tdg-34265",
-    "license": "odc-odbl"
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
   },
   "bbox": null,
   "source": "mobility-database",

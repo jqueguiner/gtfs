@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LPT",
+    "country": "CY",
+    "subdivision": "Larnaca",
+    "city": "Larnaca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C10_google_transit.zip&rel=True",
+    "mdb_id": "cy-lpt-10",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

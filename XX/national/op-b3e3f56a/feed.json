@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "養父市コミュニティバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yabucity/feeds/waiwai-sekimiya-yoka/files/feed.zip",
+    "mdb_id": "f-養父市コミュニティバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

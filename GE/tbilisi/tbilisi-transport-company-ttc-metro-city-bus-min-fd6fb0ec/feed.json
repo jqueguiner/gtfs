@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tbilisi Transport Company (TTC) - metro, city bus, minibus, ropeway",
+    "country": "GE",
+    "subdivision": "Tbilisi",
+    "city": "Tbilisi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/ge-tbilisi.gtfs.zip",
+    "mdb_id": "ge-tbilisi-transport-company",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mwasalat",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.mwasalat.om/data/gtfs/gtfs.zip",
+    "mdb_id": "f-mwasalat",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

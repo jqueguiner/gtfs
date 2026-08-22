@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kamocity~Kamonbus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamocity/feeds/kamonbus/files/feed.zip?uid=cf1b72a1-892d-4fa2-9d26-1b422834d17f",
+    "mdb_id": "f-kamocity~kamonbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

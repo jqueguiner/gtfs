@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Auch",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Auch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=auch-alliance",
+    "mdb_id": "f-zenbus~auch",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

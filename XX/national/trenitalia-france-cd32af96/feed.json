@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trenitalia France",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://thello.axelor.com/public/gtfs/gtfs.zip",
+    "mdb_id": "f-thello",
+    "license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

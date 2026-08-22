@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高砂市~じょうとんバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takasagocity/feeds/jotonbus/files/feed.zip",
+    "mdb_id": "f-高砂市~じょうとんバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

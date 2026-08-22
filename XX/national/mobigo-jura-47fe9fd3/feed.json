@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mobigo~Jura",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exs.mobigo2.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT39",
+    "mdb_id": "f-mobigo~jura",
+    "license": "https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

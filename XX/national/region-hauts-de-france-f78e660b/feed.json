@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geocatalogue.hautsdefrance.fr/gtfs/RHDF_GTFS_COM_SCO_60_P2.zip",
+    "mdb_id": "f-hauts~de~france~loise~2",
+    "license": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

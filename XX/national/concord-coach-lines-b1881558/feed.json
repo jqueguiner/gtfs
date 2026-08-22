@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Concord~Coach~Lines",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/maxtkc/concord-coach-gtfs/raw/refs/heads/main/concord_coach_gtfs.zip",
+    "mdb_id": "f-concord~coach~lines",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

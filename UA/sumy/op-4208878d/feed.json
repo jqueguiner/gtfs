@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Сумська міська рада",
+    "country": "UA",
+    "subdivision": "Sumy Oblast",
+    "city": "Sumy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gps.sumy.ua/gtfs/gtfs-vehicle-positions.proto",
+    "mdb_id": "ua-sumy-rt-gtfs-vehicle-positions-proto",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

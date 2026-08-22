@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Град Ужице",
+    "country": "RS",
+    "subdivision": "Zlatiborski okrug",
+    "city": "Uzice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.rs/s/resources/gtfs-uzhitse/20220705-083449/uzicerazvoj-uzice-rs.zip",
+    "mdb_id": "rs-gtfs-uzhitse",
+    "license": "Serbian Open Data Licence (sodl)"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

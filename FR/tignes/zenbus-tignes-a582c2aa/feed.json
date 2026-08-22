@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Tignes",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Tignes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=tignes",
+    "mdb_id": "f-zenbus~tignes",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

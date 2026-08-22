@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "酒田市~るんるんバス",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sakatacity/feeds/SakataCity/files/feed.zip",
+    "mdb_id": "f-酒田市~るんるんバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vzla",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transporte.cromstudio.com.ve/data/horarios.zip",
+    "mdb_id": "f-vzla",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

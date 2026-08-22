@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Buenosaires~Trenes",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/trenes-gtfs/trenes-gtfs.zip",
+    "mdb_id": "f-buenosaires~trenes",
+    "license": "CC-BY-2.5"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
