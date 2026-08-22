@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**7435 feeds · 3400 cities · 92 countries** · updated automatically.
+**7741 feeds · 3410 cities · 93 countries** · updated automatically.
 
 ## Layout
 ```
@@ -19,6 +19,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇫🇷 France | 1107 | 816 | 638 |
 | 🇯🇵 Japan | 2235 | 600 | 2235 |
 | 🇩🇪 Germany | 503 | 26 | 503 |
+| 🇸🇻 SV | 295 | 1 | 295 |
 | 🇽🇽 XX | 209 | 1 | 209 |
 | 🇨🇦 Canada | 166 | 133 | 166 |
 | 🇵🇱 Poland | 148 | 107 | 148 |
@@ -43,6 +44,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
 | 🇷🇸 Serbia | 14 | 10 | 14 |
 | 🇧🇷 Brazil | 14 | 11 | 14 |
+| 🇨🇾 Cyprus | 14 | 10 | 14 |
 | 🇳🇿 New Zealand | 13 | 10 | 13 |
 | 🇹🇼 Taiwan | 13 | 7 | 13 |
 | 🇧🇪 Belgium | 9 | 7 | 9 |
@@ -50,7 +52,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇨🇿 Czechia | 8 | 4 | 8 |
 | 🇺🇦 UA | 8 | 7 | 8 |
 | 🇸🇮 Slovenia | 7 | 6 | 7 |
-| 🇨🇾 Cyprus | 7 | 4 | 7 |
 | 🇨🇴 CO | 7 | 5 | 7 |
 | 🇸🇰 Slovakia | 6 | 5 | 6 |
 | 🇬🇷 Greece | 5 | 4 | 5 |
@@ -60,6 +61,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇨🇭 Switzerland | 4 | 3 | 4 |
 | 🇵🇭 Philippines | 4 | 3 | 4 |
 | 🇸🇬 Singapore | 4 | 2 | 4 |
+| 🇪🇬 EG | 4 | 3 | 4 |
 | 🇨🇱 Chile | 4 | 4 | 4 |
 | 🇲🇩 MD | 4 | 4 | 4 |
 | 🇦🇷 Argentina | 4 | 4 | 4 |
@@ -74,6 +76,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇲🇨 MC | 2 | 2 | 2 |
 | 🇦🇪 AE | 2 | 2 | 2 |
 | 🇨🇳 CN | 2 | 2 | 2 |
+| 🇨🇷 CR | 2 | 2 | 2 |
 | 🇲🇰 MK | 2 | 2 | 2 |
 | 🇮🇸 Iceland | 2 | 2 | 2 |
 | 🇷🇪 RE | 2 | 2 | 2 |
@@ -83,7 +86,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇧🇲 BM | 1 | 1 | 1 |
 | 🇦🇲 AM | 1 | 1 | 1 |
 | 🇭🇳 HN | 1 | 1 | 1 |
-| 🇨🇷 CR | 1 | 1 | 1 |
 | 🇸🇦 SA | 1 | 1 | 1 |
 | 🇳🇬 Nigeria | 1 | 1 | 1 |
 | 🇱🇰 LK | 1 | 1 | 1 |
@@ -92,7 +94,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇬🇱 GL | 1 | 1 | 1 |
 | 🇱🇦 LA | 1 | 1 | 1 |
 | 🇩🇰 Denmark | 1 | 1 | 1 |
-| 🇪🇬 EG | 1 | 1 | 1 |
 | 🇹🇳 TN | 1 | 1 | 1 |
 | 🇮🇩 Indonesia | 1 | 1 | 1 |
 | 🇧🇦 BA | 1 | 1 | 1 |

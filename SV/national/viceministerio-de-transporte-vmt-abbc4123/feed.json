@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viceministerio de Transporte (VMT)",
+    "country": "SV",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://services9.arcgis.com/4ZwMO9wShTnUDuWy/ArcGIS/rest/services/AB140X7/FeatureServer",
+    "mdb_id": "sv-ab140x7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
