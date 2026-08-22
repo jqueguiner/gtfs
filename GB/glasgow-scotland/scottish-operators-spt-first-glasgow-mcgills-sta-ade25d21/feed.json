@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Scottish operators (SPT, First Glasgow, McGills, Stagecoach) — via BODS scotland feed",
+    "country": "GB",
+    "subdivision": null,
+    "city": "Glasgow / Scotland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/scotland/",
+    "mdb_id": "gb-disc-12",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

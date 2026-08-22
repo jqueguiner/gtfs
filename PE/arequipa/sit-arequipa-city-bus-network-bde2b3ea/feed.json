@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SIT Arequipa (city bus network)",
+    "country": "PE",
+    "subdivision": null,
+    "city": "Arequipa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/trufi-association/trufi-arequipa/tree/main/GTFS-Peru-Arequipa/out/gtfs",
+    "mdb_id": "pe-disc-52",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

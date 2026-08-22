@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransMilenio S.A. (TransMilenio BRT + SITP buses)",
+    "country": "CO",
+    "subdivision": null,
+    "city": "Bogotá"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/gtfs-estaticos/GTFS-YYYY-MM-DD.zip",
+    "mdb_id": "co-disc-50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

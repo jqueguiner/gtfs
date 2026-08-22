@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**6903 feeds · 3354 cities · 91 countries** · updated automatically.
+**6966 feeds · 3395 cities · 92 countries** · updated automatically.
 
 ## Layout
 ```
@@ -15,71 +15,72 @@ Every public-transport operator we can find, organised **country → city → op
 
 | Country | Feeds | Cities | Operators |
 |---|--:|--:|--:|
-| 🇺🇸 United States | 1789 | 941 | 1789 |
-| 🇫🇷 France | 1106 | 815 | 637 |
+| 🇺🇸 United States | 1795 | 945 | 1795 |
+| 🇫🇷 France | 1107 | 816 | 638 |
 | 🇯🇵 Japan | 2235 | 600 | 2235 |
 | 🇽🇽 XX | 209 | 1 | 209 |
-| 🇨🇦 Canada | 164 | 133 | 164 |
+| 🇨🇦 Canada | 166 | 133 | 166 |
 | 🇵🇱 Poland | 148 | 107 | 148 |
-| 🇪🇸 Spain | 136 | 94 | 136 |
-| 🇮🇹 Italy | 124 | 93 | 124 |
+| 🇪🇸 Spain | 137 | 95 | 137 |
+| 🇮🇹 Italy | 127 | 95 | 127 |
 | 🇮🇪 Ireland | 112 | 26 | 112 |
 | 🇫🇮 Finland | 101 | 22 | 101 |
 | 🇸🇪 Sweden | 78 | 45 | 78 |
-| 🇱🇹 Lithuania | 73 | 30 | 73 |
+| 🇱🇹 Lithuania | 76 | 31 | 76 |
 | 🇳🇴 Norway | 58 | 24 | 58 |
-| 🇦🇺 Australia | 46 | 37 | 46 |
-| 🇬🇧 United Kingdom | 46 | 36 | 46 |
-| 🇵🇹 Portugal | 38 | 30 | 38 |
-| 🇩🇪 Germany | 38 | 25 | 38 |
-| 🇱🇻 Latvia | 35 | 10 | 35 |
+| 🇬🇧 United Kingdom | 53 | 42 | 53 |
+| 🇦🇺 Australia | 50 | 41 | 50 |
+| 🇩🇪 Germany | 40 | 26 | 40 |
+| 🇵🇹 Portugal | 39 | 31 | 39 |
+| 🇱🇻 Latvia | 37 | 10 | 37 |
 | 🇹🇭 Thailand | 32 | 13 | 32 |
 | 🇪🇪 Estonia | 28 | 19 | 28 |
+| 🇭🇺 Hungary | 24 | 18 | 24 |
 | 🇦🇹 Austria | 23 | 13 | 23 |
+| 🇷🇴 Romania | 21 | 17 | 21 |
 | 🇹🇷 Turkey | 21 | 19 | 21 |
-| 🇷🇴 Romania | 20 | 16 | 20 |
-| 🇮🇳 India | 17 | 14 | 17 |
+| 🇮🇳 India | 18 | 14 | 18 |
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
-| 🇧🇷 Brazil | 13 | 10 | 13 |
+| 🇧🇷 Brazil | 14 | 11 | 14 |
+| 🇳🇿 New Zealand | 13 | 10 | 13 |
 | 🇹🇼 Taiwan | 13 | 7 | 13 |
-| 🇳🇿 New Zealand | 12 | 10 | 12 |
-| 🇭🇺 Hungary | 11 | 11 | 11 |
 | 🇧🇪 Belgium | 9 | 7 | 9 |
 | 🇷🇸 Serbia | 8 | 5 | 8 |
+| 🇭🇷 Croatia | 8 | 6 | 8 |
 | 🇨🇿 Czechia | 8 | 4 | 8 |
 | 🇺🇦 UA | 8 | 7 | 8 |
-| 🇭🇷 Croatia | 7 | 6 | 7 |
+| 🇸🇮 Slovenia | 7 | 6 | 7 |
 | 🇨🇾 Cyprus | 7 | 4 | 7 |
-| 🇸🇮 Slovenia | 6 | 6 | 6 |
+| 🇨🇴 CO | 7 | 5 | 7 |
 | 🇸🇰 Slovakia | 6 | 5 | 6 |
-| 🇨🇴 CO | 6 | 5 | 6 |
-| 🇬🇷 Greece | 4 | 3 | 4 |
-| 🇧🇬 Bulgaria | 4 | 4 | 4 |
+| 🇬🇷 Greece | 5 | 4 | 5 |
+| 🇧🇬 Bulgaria | 5 | 5 | 5 |
+| 🇵🇪 PE | 4 | 4 | 4 |
 | 🇲🇽 Mexico | 4 | 4 | 4 |
 | 🇨🇭 Switzerland | 4 | 3 | 4 |
 | 🇵🇭 Philippines | 4 | 3 | 4 |
 | 🇸🇬 Singapore | 4 | 2 | 4 |
+| 🇨🇱 Chile | 4 | 4 | 4 |
 | 🇲🇩 MD | 4 | 4 | 4 |
+| 🇦🇷 Argentina | 4 | 4 | 4 |
+| 🇿🇦 South Africa | 3 | 3 | 3 |
 | 🇩🇿 DZ | 3 | 3 | 3 |
 | 🇬🇭 Ghana | 3 | 2 | 3 |
 | 🇦🇱 AL | 3 | 3 | 3 |
-| 🇨🇱 Chile | 3 | 3 | 3 |
 | 🇳🇱 Netherlands | 3 | 2 | 3 |
-| 🇦🇷 Argentina | 3 | 3 | 3 |
-| 🇵🇪 PE | 2 | 2 | 2 |
-| 🇿🇦 South Africa | 2 | 2 | 2 |
+| 🇲🇦 MA | 2 | 2 | 2 |
 | 🇺🇾 UY | 2 | 2 | 2 |
 | 🇲🇱 ML | 2 | 2 | 2 |
 | 🇲🇨 MC | 2 | 2 | 2 |
+| 🇦🇪 AE | 2 | 2 | 2 |
 | 🇨🇳 CN | 2 | 2 | 2 |
 | 🇲🇰 MK | 2 | 2 | 2 |
 | 🇮🇸 Iceland | 2 | 2 | 2 |
 | 🇷🇪 RE | 2 | 2 | 2 |
 | 🇷🇺 RU | 2 | 2 | 2 |
+| 🇰🇪 KE | 2 | 2 | 2 |
 | 🇪🇹 ET | 1 | 1 | 1 |
 | 🇧🇲 BM | 1 | 1 | 1 |
-| 🇲🇦 MA | 1 | 1 | 1 |
-| 🇦🇪 AE | 1 | 1 | 1 |
 | 🇦🇲 AM | 1 | 1 | 1 |
 | 🇭🇳 HN | 1 | 1 | 1 |
 | 🇨🇷 CR | 1 | 1 | 1 |
@@ -101,11 +102,11 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇨🇮 CI | 1 | 1 | 1 |
 | 🇷🇼 RW | 1 | 1 | 1 |
 | 🇨🇩 CD | 1 | 1 | 1 |
-| 🇰🇪 KE | 1 | 1 | 1 |
 | 🇨🇲 CM | 1 | 1 | 1 |
 | 🇻🇪 VE | 1 | 1 | 1 |
 | 🇵🇷 PR | 1 | 1 | 1 |
 | 🇰🇷 South Korea | 1 | 1 | 1 |
+| 🇻🇳 VN | 1 | 1 | 1 |
 
 ## How it works
 

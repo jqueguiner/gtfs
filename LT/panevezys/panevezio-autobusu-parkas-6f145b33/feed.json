@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Panevezio autobusu parkas",
+    "country": "LT",
+    "subdivision": null,
+    "city": "Panevezys"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://stops.lt/panevezys/gtfs_realtime.pb",
+    "mdb_id": "lt-disc-35",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

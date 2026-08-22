@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DART (Dallas Area Rapid Transit)",
+    "country": "US",
+    "subdivision": null,
+    "city": "Dallas / Fort Worth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.dart.org/transitdata/latest/google_transit.zip",
+    "mdb_id": "us-disc-42",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

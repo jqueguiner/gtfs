@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DELFI GTFS official / community mirror",
+    "country": "DE",
+    "subdivision": null,
+    "city": "Nationwide (all Germany)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scraped.data.public-transport.earth/de/gtfs.zip",
+    "mdb_id": "de-disc-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

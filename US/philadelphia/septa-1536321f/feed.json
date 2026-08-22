@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SEPTA",
+    "country": "US",
+    "subdivision": null,
+    "city": "Philadelphia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/septadev/GTFS/releases/latest/download/gtfs_public.zip",
+    "mdb_id": "us-disc-40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

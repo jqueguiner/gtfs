@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MyCiTi BRT (City of Cape Town)",
+    "country": "ZA",
+    "subdivision": null,
+    "city": "Cape Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.s3.amazonaws.com/myciti_20131022_0552.zip",
+    "mdb_id": "za-disc-60",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

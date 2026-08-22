@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nexus Tyne & Wear Metro + North East buses — via BODS north_east feed",
+    "country": "GB",
+    "subdivision": null,
+    "city": "Newcastle / Tyne and Wear"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/north_east/",
+    "mdb_id": "gb-disc-15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}
