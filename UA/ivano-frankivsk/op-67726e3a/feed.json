@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Управління транспорту та зв'язку Івано-Франківської міської ради",
+    "country": "UA",
+    "subdivision": "Ivano-Frankivsk Oblast",
+    "city": "Ivano-Frankivsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/iv-frankivsk/gtfs/vehicle_position",
+    "mdb_id": "ua-ivano-frankivsk-rt-vehicleposition",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Київська міська державна адміністрація",
+    "country": "UA",
+    "subdivision": "Kyiv",
+    "city": "Kyiv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://193.23.225.214:732/api/realtime",
+    "mdb_id": "ua-kyiv-rt-vehicleposition-tripupdates-alerts",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

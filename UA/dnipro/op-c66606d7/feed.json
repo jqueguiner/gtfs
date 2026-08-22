@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Дніпровська міська рада",
+    "country": "UA",
+    "subdivision": "Dnipropetrovsk Oblast",
+    "city": "Dnipro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://46.4.68.233:23450/api/gps-data",
+    "mdb_id": "ua-dnipro-rt-vehicle-position",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

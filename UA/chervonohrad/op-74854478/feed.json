@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Шептицька міська рада",
+    "country": "UA",
+    "subdivision": "Lviv Oblast",
+    "city": "Chervonohrad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://public.easyway.info/gps/chervonograd.json",
+    "mdb_id": "ua-chervonohrad-rt-vehicle-position",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

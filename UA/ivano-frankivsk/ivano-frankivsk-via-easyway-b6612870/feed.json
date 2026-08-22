@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ivano-Frankivsk via EasyWay",
+    "country": "UA",
+    "subdivision": "Ivano-Frankivsk Oblast",
+    "city": "Ivano-Frankivsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/iv-frankivsk/gtfs/static.zip",
+    "mdb_id": "ua-iv-frankivsk-easyway-static",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

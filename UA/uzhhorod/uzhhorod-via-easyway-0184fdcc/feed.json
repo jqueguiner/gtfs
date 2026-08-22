@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uzhhorod via EasyWay",
+    "country": "UA",
+    "subdivision": "Zakarpattia Oblast",
+    "city": "Uzhhorod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://track.ua-gis.com/gtfs/uzhhorod/static.zip",
+    "mdb_id": "ua-uzhhorod-easyway-static",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Рівненська міська рада",
+    "country": "UA",
+    "subdivision": "Rivne Oblast",
+    "city": "Rivne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/rivne/gtfs/static.zip",
+    "mdb_id": "ua-rivne-gtfs-static",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

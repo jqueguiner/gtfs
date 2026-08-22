@@ -98,6 +98,7 @@ BG,Plovdiv,Trakia Tech (Plovdiv Municipality Google Transit partner),https://tra
 BG,Vazrajdane,Urban Mobility Center - Sofia Traffic,https://gtfs.sofiatraffic.bg/api/v1/static,mdb-2848,https://www.sofiatraffic.bg/bg/info-center/gtfs-danni,active
 BG,national,Bdz~Bg,https://jbb.ghsq.de/gtfs/bg-bdz.gtfs.zip,f-bdz~bg,ODbL-1.0,active
 BM,national,Bermuda Department of Public Transportation,https://data.trilliumtransit.com/gtfs/bermuda-bm/bermuda-bm.zip,tld-6684,,active
+BO,Cochabamba,Trufi Association (community OSM-derived GTFS for the informal trufi/micro network),https://raw.githubusercontent.com/trufi-association/trufi-app/main/assets/routing/cochabamba.gtfs.zip,bo-w3-6,,active
 BO,Pedro Domingo Murillo,Mi Teleférico,https://datosbolivia.github.io/gtfs/mi-teleferico.zip,mdb-3491,https://spdx.org/licenses/CC-BY-4.0.html,active
 BR,Almirante Tamandare,Piedade~Campo~Largo,http://www.transpiedade.com.br/GTFS/GTFS.zip,f-6gkz-piedade~campo~largo,,active
 BR,Belo Horizonte,Superintendência de Mobilidade,https://s3.amazonaws.com/mobilibus-uploads/gtfs/GTFSBHTRANS.zip,br-gtfs-44705af6,CC-BY-4.0,active
@@ -2261,6 +2262,7 @@ GB,West Berkshire,Newbury & District,https://data.discoverpassenger.com/operator
 GB,West Sussex,Metrobus,https://data.discoverpassenger.com/operator/metrobus/dataset/current/download/gtfs,mdb-1942,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Wiltshire,Salisbury Reds,https://data.discoverpassenger.com/operator/salisburyreds/dataset/current/download/gtfs,mdb-1950,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,national,BODS UK aggregate feed,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,mdb-2014,https://data.bus-data.dft.gov.uk/guidance/requirements/,active
+GE,Tbilisi,"Tbilisi Transport Company (TTC) — metro, city bus, minibus, ropeway",https://jbb.ghsq.de/gtfs/ge-tbilisi.gtfs.zip,ge-w3-3,,active
 GH,Accra,Accratrotro,https://github.com/AFDLab4Dev/AccraMobility/raw/master/GTFS/GTFS_Accra.zip,f-ebzz-accratrotro,https://git.digitaltransport4africa.org/places/accra/blob/master/GTFS/README.md,active
 GH,Accra,Amadepartmentoftransport,https://gitlab.com/digitaltransport/data/africa/accra/raw/master/GTFS/GTFS_Accra.zip,f-ebzz-amadepartmentoftransport,https://opendatacommons.org/licenses/odbl/index.html,active
 GH,Kumasi,INGEROP,https://gitlab.com/digitaltransport/data/africa/kumasi/-/raw/master/GTFS-Kumasi.zip?inline=false,mdb-1814,,active
@@ -4802,6 +4804,7 @@ JP,national,鹿児島市船舶局,https://api.odpt.org/api/v4/files/odpt/Kagoshi
 KE,Nairobi,"Matatu / minibus network (Digital Matatus, aggregated informal paratransit)",https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/university-of-nairobi/535/20160505/gtfs.zip,ke-disc-61,,active
 KE,Sagana,Nairobi~Saccos,https://gitlab.com/digitaltransport/data/africa/nairobi/-/raw/master/Data/GTFS.zip,f-kzf-nairobi~saccos,,active
 KR,national,"KTDB — Korea Transport DataBase (MOLIT), community mirror",https://huggingface.co/datasets/Digital-Twin-Urban-Mobility/GTFS-Korea/resolve/main/GTFS_Korea.zip,kr-ktdb-nationwide-gtfs,,active
+KZ,Astana,Astana academic GTFS dataset (bus lines 10/12/46),https://zenodo.org/records/15769359,kz-w3-4,,active
 LA,Bachiangchaleunsouk District,Office of Transport and Traffic Policy and Planning,https://namtang-api.otp.go.th/download/namtang-gtfs.zip,mdb-1831,https://creativecommons.org/licenses/by/4.0/,active
 LK,Colombo District,Lanka Metro Transit,https://api.transit.seyone.dev/api/v1/gtfs/download?agency=LMT,mdb-3490,https://creativecommons.org/licenses/by/4.0/,active
 LT,Alytus,Alytaus m. sav.,https://www.visimarsrutai.lt/gtfs/AlytausM.zip,lt-alytaus-m-sav,CC-BY-4.0,active
@@ -4922,6 +4925,9 @@ MA,préfecture d'arrondissements de Casablanca-Anfa عمالة مقاطعات ا
 MC,Monaco-Ville,COMPAGNIE AUTOBUS DE MONACO,https://www.data.gouv.fr/api/1/datasets/r/2f510784-2957-48e3-b01c-b0e4f9938da7,tdg-83756,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 MC,Monte-Carlo,Région Provence-Alpes-Côte-d'Azur,https://www.data.gouv.fr/api/1/datasets/r/0a554ecc-a9b7-490c-a4ad-bbd8a0dc0ded,tdg-83990,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 MD,Biruinta,Romania~Interregionalcalatori~Regiotrans~Cfrcălători~Softrans~Trans,https://github.com/vasile/data.gov.ro-gtfs-exporter/archive/feature/dataset-2025.zip,f-u8-romania~interregionalcalatori~regiotrans~cfrcălători~softrans~trans,,active
+MD,Chisinau,I.M. Parcul Urban de Autobuze,https://codeload.github.com/roataway/gtfs-data/zip/refs/heads/master#i-m-parcul-urban-de-autobuze,md-i-m-parcul-urban-de-autobuze,,active
+MD,Chisinau,Regia Transport Electric Chisinau (RTEC),https://github.com/roataway/gtfs-data,md-w3-5,,active
+MD,Chisinau,Regia Transport Electric Chișinău,https://codeload.github.com/roataway/gtfs-data/zip/refs/heads/master#regia-transport-electric-chisinau,md-regia-transport-electric-chisinau,,active
 MD,Chișinău Municipality,"Regia Transport Electric Chișinău, Î.M. Parcul Urban de Autobuze",https://external.gtfs.ro/chisinau/CHISINAU.zip,mdb-2341,,active
 MD,Fălești District,Transport Public Ungheni,https://github.com/UngheniTransport/gtfs/raw/refs/heads/main/ungheni_gtfs.zip,mdb-3046,https://unghenitransport.md/index.php/retea-de-transport/open-data,active
 MD,national,Tutigerride~Md,https://www.tutigerride.com/gtfs,f-tutigerride~md,,active
@@ -5027,6 +5033,7 @@ NZ,Wellington City,Metlink,https://static.opendata.metlink.org.nz/v1/gtfs/full.z
 NZ,national,Baybus~Nz,https://faqs.baybus.co.nz/hc/en-nz/article_attachments/9375750637839,f-baybus~nz,CC-BY-4.0,active
 NZ,national,Boprc~Nz,https://data.trilliumtransit.com/gtfs/boprc-nz/boprc-nz.zip,f-boprc~nz,,active
 OM,As Suwayq,Mwasalat,https://avl.mwasalat.om/data/gtfs/gtfs.zip,f-mwasalat,CC-BY-4.0,active
+PA,"Panama City (Ciudad de Panama, incl. San Miguelito, Colon)",MiBus (Metrobus) — Mi Bus S.A.,https://github.com/merlos/panatrans-dataset,pa-w3-7,,active
 PE,Arequipa,SIT Arequipa (city bus network),https://github.com/trufi-association/trufi-arequipa/tree/main/GTFS-Peru-Arequipa/out/gtfs,pe-disc-52,,active
 PE,Chilca,Aeroexpreso,https://aeroexpreso.com.pe/gtfs,mdb-1985,,active
 PE,La Esperanza,TMT Trujillo - Gerencia de Transporte,https://raw.githubusercontent.com/trufi-association/Trujillo-OMUS/refs/heads/main/GTFS-Peru-Trujillo/out/gtfs.zip,mdb-2200,https://github.com/trufi-association/Trujillo-OMUS/blob/main/LICENSE,active
@@ -5721,12 +5728,23 @@ TW,Taoyuan,Taoyuan Metro Corporation (TYMC),https://tdx.transportdata.tw/api/gtf
 TW,national,TDX — Transport Data eXchange (MOTC),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static,tw-tdx-national-gtfs,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,national,Taiwan High Speed Rail Corporation (THSR),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/THSR,tw-tdx-rail-thsr,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,national,Taiwan Railways Administration (TRA),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TRA,tw-tdx-rail-tra,"Open Government Data License, version 1.0 (Taiwan)",active
+UA,Chervonohrad,Шептицька міська рада,https://public.easyway.info/gps/chervonograd.json,ua-chervonohrad-rt-vehicle-position,CC-BY-4.0,active
+UA,Chornomorsk,Chornomorsk passenger road transport,https://data.gov.ua/dataset/032c23f0-dbe5-4b63-8c1f-03218758ae60/resource/d997fdbf-7a25-487b-ad47-ee5541d552be/download/chornomorsk-2019-09-05-10-24-50.zip,ua-w3-2,,active
+UA,Dnipro,Дніпровська міська рада,http://46.4.68.233:23450/api/gps-data,ua-dnipro-rt-vehicle-position,CC-BY-4.0,active
 UA,Drohobych Raion,Стрийська міська рада,https://track.ua-gis.com/gtfs/stryi/static.zip,mdb-2932,,active
+UA,Ivano-Frankivsk,Ivano-Frankivsk via EasyWay,https://city.dozor.tech/iv-frankivsk/gtfs/static.zip,ua-iv-frankivsk-easyway-static,CC-BY-4.0,active
+UA,Ivano-Frankivsk,Управління транспорту та зв'язку Івано-Франківської міської ради,https://city.dozor.tech/iv-frankivsk/gtfs/vehicle_position,ua-ivano-frankivsk-rt-vehicleposition,CC-BY-4.0,active
 UA,Kyiv,Kyiv,http://193.23.225.211:8002/export-gtfs-static,mdb-3230,https://creativecommons.org/licenses/by/4.0/,active
+UA,Kyiv,Київська міська державна адміністрація,http://193.23.225.214:732/api/realtime,ua-kyiv-rt-vehicleposition-tripupdates-alerts,CC-BY-4.0,active
 UA,L'viv,Lvivelectrotrans,http://track.ua-gis.com/gtfs/lviv/static.zip,f-u8c5-lvivavtodor,CC-BY-4.0,active
+UA,Lviv,Львівська міська рада,http://track.ua-gis.com/gtfs/lviv/vehicle_position,ua-lviv-rt-gtfs-realtime-vehicle-positions,CC-BY-4.0,active
 UA,Lviv Raion,Lvivavtodor,https://track.ua-gis.com/gtfs/lviv/static.zip,mdb-2374,https://opendata.city-adm.lviv.ua/ne/dataset/lviv-public-transport-gtfs-real-time/resource/eb31a65b-a22b-44b1-83ce-41add24ae652?inner_span=True,active
 UA,Mykolaiv Raion,VD-Express,https://vdexpress.net/api/gtfs/feed,mdb-3134,,active
+UA,Rivne,Рівненська міська рада,https://city.dozor.tech/rivne/gtfs/static.zip,ua-rivne-gtfs-static,CC-BY-4.0,active
+UA,Sumy,Sumy city electric/road transport,http://gps.sumy.ua/gtfs/gtfs-vehicle-positions.proto,ua-w3-1,,active
+UA,Uzhhorod,Uzhhorod via EasyWay,http://track.ua-gis.com/gtfs/uzhhorod/static.zip,ua-uzhhorod-easyway-static,CC-BY-4.0,active
 UA,Uzhhorod Raion,Ужгородська міська рада,https://track.ua-gis.com/gtfs/uzhhorod/static.zip,mdb-2931,,active
+UA,national,Чортківська міська рада,https://data.gov.ua/dataset/e84883c8-4414-4da8-bcb6-bfb7f4e87902/resource/e827527c-a680-40de-9a12-5b088b34b3a6/download/vehicleposition.json,ua-rt-vehicleposition-json,CC-BY-4.0,active
 UA,Бучанський район,КП Бучатранссервіс,https://gw.x24.digital/api/bu/gtfs/v1/download/static,mdb-2945,,active
 UA,Одеський район,Odesa,https://gw.x24.digital/api/od-all/gtfs/v1/download/static,mdb-2946,https://omr.gov.ua/ua/city/departments/dtks/open-data/,active
 US,Aberdeen,Pacific Transit,https://data.trilliumtransit.com/gtfs/pacifictransit-wa-us/pacifictransit-wa-us.zip,mdb-3112,,active

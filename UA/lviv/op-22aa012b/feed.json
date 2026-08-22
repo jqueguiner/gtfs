@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Львівська міська рада",
+    "country": "UA",
+    "subdivision": "Lviv Oblast",
+    "city": "Lviv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://track.ua-gis.com/gtfs/lviv/vehicle_position",
+    "mdb_id": "ua-lviv-rt-gtfs-realtime-vehicle-positions",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**7741 feeds · 3410 cities · 93 countries** · updated automatically.
+**7759 feeds · 3424 cities · 96 countries** · updated automatically.
 
 ## Layout
 ```
@@ -40,6 +40,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇦🇹 Austria | 23 | 13 | 23 |
 | 🇷🇴 Romania | 21 | 17 | 21 |
 | 🇹🇷 Turkey | 21 | 19 | 21 |
+| 🇺🇦 UA | 19 | 16 | 19 |
 | 🇮🇳 India | 18 | 14 | 18 |
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
 | 🇷🇸 Serbia | 14 | 10 | 14 |
@@ -50,8 +51,8 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇧🇪 Belgium | 9 | 7 | 9 |
 | 🇭🇷 Croatia | 8 | 6 | 8 |
 | 🇨🇿 Czechia | 8 | 4 | 8 |
-| 🇺🇦 UA | 8 | 7 | 8 |
 | 🇸🇮 Slovenia | 7 | 6 | 7 |
+| 🇲🇩 MD | 7 | 5 | 7 |
 | 🇨🇴 CO | 7 | 5 | 7 |
 | 🇸🇰 Slovakia | 6 | 5 | 6 |
 | 🇬🇷 Greece | 5 | 4 | 5 |
@@ -63,7 +64,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇸🇬 Singapore | 4 | 2 | 4 |
 | 🇪🇬 EG | 4 | 3 | 4 |
 | 🇨🇱 Chile | 4 | 4 | 4 |
-| 🇲🇩 MD | 4 | 4 | 4 |
 | 🇦🇷 Argentina | 4 | 4 | 4 |
 | 🇿🇦 South Africa | 3 | 3 | 3 |
 | 🇩🇿 DZ | 3 | 3 | 3 |
@@ -78,6 +78,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇨🇳 CN | 2 | 2 | 2 |
 | 🇨🇷 CR | 2 | 2 | 2 |
 | 🇲🇰 MK | 2 | 2 | 2 |
+| 🇧🇴 BO | 2 | 2 | 2 |
 | 🇮🇸 Iceland | 2 | 2 | 2 |
 | 🇷🇪 RE | 2 | 2 | 2 |
 | 🇷🇺 RU | 2 | 2 | 2 |
@@ -90,7 +91,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇳🇬 Nigeria | 1 | 1 | 1 |
 | 🇱🇰 LK | 1 | 1 | 1 |
 | 🇮🇱 Israel | 1 | 1 | 1 |
-| 🇧🇴 BO | 1 | 1 | 1 |
 | 🇬🇱 GL | 1 | 1 | 1 |
 | 🇱🇦 LA | 1 | 1 | 1 |
 | 🇩🇰 Denmark | 1 | 1 | 1 |
@@ -108,6 +108,9 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇵🇷 PR | 1 | 1 | 1 |
 | 🇰🇷 South Korea | 1 | 1 | 1 |
 | 🇻🇳 VN | 1 | 1 | 1 |
+| 🇬🇪 GE | 1 | 1 | 1 |
+| 🇰🇿 KZ | 1 | 1 | 1 |
+| 🇵🇦 PA | 1 | 1 | 1 |
 
 ## How it works
 
