@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Guadalupe~Flyer~Paratransit~Flex",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Maria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/guadalupeflyer-ca-us/guadalupeflyer-ca-us.zip",
+    "mdb_id": "f-guadalupe~flyer~paratransit~flex",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

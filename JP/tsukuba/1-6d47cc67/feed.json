@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "つくば市~筑波地区支線型バスつくばね号~1",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": "Tsukuba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsukubacity/feeds/TSUKUBANEGO/files/feed.zip",
+    "mdb_id": "f-つくば市~筑波地区支線型バスつくばね号~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

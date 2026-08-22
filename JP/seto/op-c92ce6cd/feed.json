@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "尾張旭市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Seto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/owariasahicity/feeds/communitybus/files/feed.zip?uid=fa10f378-b57c-4b81-9ecf-86be84b70886",
+    "mdb_id": "f-owariasahicity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

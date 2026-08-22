@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "寒河江市内循環バススマイル号",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Sagae"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sagaecity/feeds/SagaeCity/files/feed.zip",
+    "mdb_id": "f-寒河江市内循環バススマイル号",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

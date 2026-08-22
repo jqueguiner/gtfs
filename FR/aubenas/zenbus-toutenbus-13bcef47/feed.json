@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Toutenbus",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Aubenas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.infra-hubup.fr/toutenbus/current/revision/gtfs",
+    "mdb_id": "f-zenbus~toutenbus",
+    "license": "https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

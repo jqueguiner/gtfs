@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "海陽町営バス",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Muroto-misakicho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kaiyotown/feeds/kaiyotownbus/files/feed.zip",
+    "mdb_id": "f-海陽町営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

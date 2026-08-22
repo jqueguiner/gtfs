@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Matsudocity~Matsudo",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": "Matsudo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo/files/feed.zip?uid=9ac33576-ed4f-4afb-b75a-3f7fbae8aa48",
+    "mdb_id": "f-matsudocity~matsudo",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

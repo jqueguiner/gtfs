@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "秋北バス",
+    "country": "JP",
+    "subdivision": "Akita",
+    "city": "Takanosu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.akita-bus.or.jp/~akita-gtfs/bus-shuhokubus.zip",
+    "mdb_id": "f-秋北バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

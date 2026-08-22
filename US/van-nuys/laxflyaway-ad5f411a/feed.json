@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Laxflyaway",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Van Nuys"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://laxflyaway.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-laxflyaway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

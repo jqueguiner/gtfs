@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nagano~Ikedatown~Ikedatownbus",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": "Omachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-ikedatown/feeds/IkedaTownBus/files/feed.zip?uid=c6ef6367-38d8-4475-8a37-321efcccaed7",
+    "mdb_id": "f-nagano~ikedatown~ikedatownbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

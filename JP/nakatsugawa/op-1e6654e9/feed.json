@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "明知鉄道",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Nakatsugawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/aketetsu/feeds/akechirailway/files/feed.zip",
+    "mdb_id": "f-明知鉄道",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

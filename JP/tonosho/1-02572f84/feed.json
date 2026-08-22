@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "小豆島オリーブバス~1",
+    "country": "JP",
+    "subdivision": "Kagawa",
+    "city": "Tonosho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/ShodoshimaOliveBus/AllLines.zip?date=latest",
+    "mdb_id": "f-小豆島オリーブバス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

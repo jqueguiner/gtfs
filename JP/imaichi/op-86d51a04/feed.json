@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日光市営バス",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": "Imaichi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nikkocity/feeds/nikkocity/files/feed.zip",
+    "mdb_id": "f-日光市営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

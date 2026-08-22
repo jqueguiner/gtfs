@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "上越市~頸城区市営バス~大池線",
+    "country": "JP",
+    "subdivision": "Niigata",
+    "city": "Joetsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/joetsucity/feeds/oike-line/files/feed.zip",
+    "mdb_id": "f-上越市~頸城区市営バス~大池線",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

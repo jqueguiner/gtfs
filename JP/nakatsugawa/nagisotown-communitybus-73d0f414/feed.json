@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nagisotown~Communitybus",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Nakatsugawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagisotown/feeds/communitybus/files/feed.zip?uid=08f33826-ce3c-4217-bef1-d8783c1cf621",
+    "mdb_id": "f-nagisotown~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

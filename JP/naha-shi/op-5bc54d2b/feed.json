@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "やんばる急行バス",
+    "country": "JP",
+    "subdivision": "Okinawa",
+    "city": "Naha-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yanbaru-expressbus/feeds/yanbaru-express-bus/files/feed.zip",
+    "mdb_id": "f-やんばる急行バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Munakatacity~Munakatacitycommunitybus",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Nakama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityCommunityBus/files/feed.zip?uid=e83991e1-4933-4fd6-8255-1635d69c73ca",
+    "mdb_id": "f-munakatacity~munakatacitycommunitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

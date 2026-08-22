@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日本中央バス奥多野線~2",
+    "country": "JP",
+    "subdivision": "Gunma",
+    "city": "Fujioka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Okutano_Area.zip?date=latest",
+    "mdb_id": "f-日本中央バス奥多野線~2",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

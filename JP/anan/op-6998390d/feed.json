@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "那賀町営バス",
+    "country": "JP",
+    "subdivision": "Tokushima",
+    "city": "Anan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatown/feeds/nakatownbus/files/feed.zip",
+    "mdb_id": "f-那賀町営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Premieruch",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Black Forest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://premieruch.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-premieruch",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

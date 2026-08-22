@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "和気町営バスわけまろ号",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Tsuyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/waketown/feeds/wakechoueibasu/files/feed.zip",
+    "mdb_id": "f-和気町営バスわけまろ号",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日野町営バス",
+    "country": "JP",
+    "subdivision": "Tottori",
+    "city": "Yonago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://odp-pref-tottori.tori-info.co.jp/bus_data/13.zip",
+    "mdb_id": "f-日野町営バス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

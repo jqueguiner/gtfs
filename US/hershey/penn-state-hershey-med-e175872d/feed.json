@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Penn~State~Hershey~Med",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Hershey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pennstatehersheymed.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-penn~state~hershey~med",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

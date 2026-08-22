@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "備前市営バス",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Kariya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://loc.bus-vision.jp/gtfs_v2/bizen-city/gtfsFeed",
+    "mdb_id": "f-備前市営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

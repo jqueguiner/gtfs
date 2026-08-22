@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uofhdowntownshuttle",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Houston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://UOfHDowntownShuttle.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-uofhdowntownshuttle",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southjerseytransportationauthority",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Sicklerville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/SJTA_bus_data.zip",
+    "mdb_id": "f-southjerseytransportationauthority",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

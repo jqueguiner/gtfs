@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kochi~Seinan~Kotsu~Gtfs~Seinantraffic~Riverbus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Nakamura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-seinan-kotsu/feeds/GTFS-Seinantraffic_Riverbus/files/feed.zip?uid=8c1e0160-6730-4905-8f33-120324556aca",
+    "mdb_id": "f-kochi~seinan~kotsu~gtfs~seinantraffic~riverbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

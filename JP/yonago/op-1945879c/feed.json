@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南部町営ふれあいバス",
+    "country": "JP",
+    "subdivision": "Tottori",
+    "city": "Yonago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://odp-pref-tottori.tori-info.co.jp/bus_data/11.zip",
+    "mdb_id": "f-南部町営ふれあいバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

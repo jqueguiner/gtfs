@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Memphis~Area~Transit~Authority",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Memphis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.mata.cadavl.com/MATA/GTFS/GTFS_MATA.zip",
+    "mdb_id": "f-memphis~area~transit~authority",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

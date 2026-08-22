@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Selkirks~Pend~Oreille~Transit~Authority",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Ponderay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/spotbus/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-selkirks~pend~oreille~transit~authority",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

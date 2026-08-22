@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "朝日町~あさひまちバス",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Nyuzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyama-asahitown/feeds/asahimachibus/files/feed.zip",
+    "mdb_id": "f-朝日町~あさひまちバス",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Citura~Grand~Reims",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Rilly-la-Montagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.datagrandest.fr/metadata/fluo-grand-est/FR-200052264-T0031-0000/fluo-grand-est-rei-gtfs.zip",
+    "mdb_id": "f-citura~grand~reims",
+    "license": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-grand-reims-mobilites-communaute-urbaine-du-grand-reims"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

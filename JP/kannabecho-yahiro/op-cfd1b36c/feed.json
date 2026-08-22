@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "井笠バスカンパニー",
+    "country": "JP",
+    "subdivision": "Hiroshima",
+    "city": "Kannabecho-yahiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-vision.jp/gtfs_v2/ikasabus/gtfsFeed",
+    "mdb_id": "f-井笠バスカンパニー",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

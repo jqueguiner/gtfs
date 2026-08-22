@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greyhound",
+    "country": "HR",
+    "subdivision": "Splitsko-Dalmatinska",
+    "city": "Grubine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.gis.flix.tech/gtfs_generic_eu.zip",
+    "mdb_id": "f-u-flixbus",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

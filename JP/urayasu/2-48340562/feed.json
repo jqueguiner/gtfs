@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "京成トランジットバス~2",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Urayasu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KeiseiTransitBus/AllLines.zip?date=latest",
+    "mdb_id": "f-京成トランジットバス~2",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

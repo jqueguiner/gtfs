@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "真室川町路線バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Shinjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mamurogawatown/feeds/MamurogawaTown/files/feed.zip",
+    "mdb_id": "f-真室川町路線バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

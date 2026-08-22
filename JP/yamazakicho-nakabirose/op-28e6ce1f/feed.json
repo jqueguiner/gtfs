@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "佐用町~コミバス佐用",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Yamazakicho-nakabirose"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sayotown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "f-佐用町~コミバス佐用",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

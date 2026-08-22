@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中鉄バス",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Okayama-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://loc.bus-vision.jp/gtfs_v2/chutetsu/gtfsFeed",
+    "mdb_id": "f-中鉄バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

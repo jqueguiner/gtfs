@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mwasalat",
+    "country": "OM",
+    "subdivision": "Al Batinah",
+    "city": "As Suwayq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.mwasalat.om/data/gtfs/gtfs.zip",
+    "mdb_id": "f-mwasalat",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

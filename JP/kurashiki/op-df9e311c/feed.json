@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "早島町コミュニティバス",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Kurashiki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hayashimatown/feeds/hayashimatowncommunitybus/files/feed.zip",
+    "mdb_id": "f-早島町コミュニティバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "徳島バス",
+    "country": "JP",
+    "subdivision": "Tokushima",
+    "city": "Tokushima-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokubus/feeds/tokushimabus/files/feed.zip",
+    "mdb_id": "f-徳島バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

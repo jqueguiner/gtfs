@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hokushin~Bus~Ibaraaiaibus",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Ibara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hokushin-bus/feeds/ibaraaiaibus/files/feed.zip?uid=9b495d5d-cc91-4de7-a1ef-bd17f058d104",
+    "mdb_id": "f-hokushin~bus~ibaraaiaibus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

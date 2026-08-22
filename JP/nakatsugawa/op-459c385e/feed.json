@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北恵那バス北恵那交通",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Nakatsugawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitaena/feeds/kitaena/files/feed.zip",
+    "mdb_id": "f-北恵那バス北恵那交通",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shimanto~Kotsu~Gtfs~Shimantotraffic~Localbus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Susaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimanto-kotsu/feeds/GTFS-Shimantotraffic_Localbus/files/feed.zip?uid=df78bea7-f56d-4695-8809-1a22aad004df",
+    "mdb_id": "f-shimanto~kotsu~gtfs~shimantotraffic~localbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gerocity~Gerobus",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Gujo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gerocity/feeds/gerobus/files/feed.zip?uid=3fc699ac-104f-4d5f-a7f4-d8c692b8adb5",
+    "mdb_id": "f-gerocity~gerobus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

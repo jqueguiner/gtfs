@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saitamacity~Musashigou",
+    "country": "JP",
+    "subdivision": "Saitama",
+    "city": "Shiki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/musashigou/files/feed.zip?uid=ef368e2e-9319-4eb4-b6a4-08a1568172fc",
+    "mdb_id": "f-saitamacity~musashigou",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

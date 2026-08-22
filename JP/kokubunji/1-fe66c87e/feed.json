@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東京都国分寺市地域バスぶんバス~1",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kokubunji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip?date=latest",
+    "mdb_id": "f-東京都国分寺市地域バスぶんバス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

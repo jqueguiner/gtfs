@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "村山市~市営バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Obanazawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murayamacity/feeds/MurayamaCity/files/feed.zip",
+    "mdb_id": "f-村山市~市営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

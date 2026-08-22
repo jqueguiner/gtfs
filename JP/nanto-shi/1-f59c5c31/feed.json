@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "砺波市~砺波市営バス~1",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Nanto-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tonamicity/feeds/tonamishieibasu/files/feed.zip",
+    "mdb_id": "f-砺波市~砺波市営バス~1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

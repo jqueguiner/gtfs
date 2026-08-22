@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三宅村営バス~1",
+    "country": "JP",
+    "subdivision": "Shizuoka",
+    "city": "Shimoda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MiyakeVill/AllLine.zip?date=latest",
+    "mdb_id": "f-三宅村営バス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

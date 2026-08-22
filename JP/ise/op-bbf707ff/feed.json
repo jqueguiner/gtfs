@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三重交通",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Ise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancoise/files/feed.zip?uid=1478bbd8-0576-4212-aa05-2d08a8921823",
+    "mdb_id": "f-mie~kotsu~sancoise",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

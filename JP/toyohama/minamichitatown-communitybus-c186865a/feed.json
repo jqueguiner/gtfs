@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Minamichitatown~Communitybus",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Toyohama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamichitatown/feeds/communitybus/files/feed.zip?uid=53700fad-ff2e-4f6e-8fbb-c03b52b20ce6",
+    "mdb_id": "f-minamichitatown~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

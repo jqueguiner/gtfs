@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "加東市~社市街地乗合タクシー",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Yashiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/katocity/feeds/yashiroshigaichinoriaitaxi/files/feed.zip",
+    "mdb_id": "f-加東市~社市街地乗合タクシー",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

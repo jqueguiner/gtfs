@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "天童市~市営バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Tendo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tendocity/feeds/TendoCity/files/feed.zip",
+    "mdb_id": "f-天童市~市営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

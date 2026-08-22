@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "黒部市",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Nyuzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kurobecity/feeds/shinkansenikuji-ishida-aimoto-minibus/files/feed.zip?uid=d8a72cdd-25f9-4a9d-85de-445982759ff4",
+    "mdb_id": "f-kurobecity~shinkansenikuji~ishida~aimoto~minibus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

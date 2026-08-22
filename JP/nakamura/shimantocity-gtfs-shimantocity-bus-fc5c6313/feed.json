@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shimantocity~Gtfs~Shimantocity~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Nakamura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimantocity/feeds/GTFS-Shimantocity_Bus/files/feed.zip?uid=a9827e3b-2ac2-4847-92f1-82790eef3e3c",
+    "mdb_id": "f-shimantocity~gtfs~shimantocity~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

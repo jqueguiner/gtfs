@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "市川町コミュニティバス",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Nishiwaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ichikawatown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "f-市川町コミュニティバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

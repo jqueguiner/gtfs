@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yaotsutown~Yaobus",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Mitake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yaotsutown/feeds/yaobus/files/feed.zip?uid=045504b3-81de-464d-9134-8b08e6f12fc7",
+    "mdb_id": "f-yaotsutown~yaobus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

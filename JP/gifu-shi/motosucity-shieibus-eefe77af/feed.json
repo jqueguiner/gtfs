@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Motosucity~Shieibus",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Gifu-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/motosucity/feeds/shieibus/files/feed.zip?uid=bcabc476-d3f7-452a-8f31-5078569dc9fc",
+    "mdb_id": "f-motosucity~shieibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alternéo~Reunion",
+    "country": "RE",
+    "subdivision": "Reunion",
+    "city": "Saint-Pierre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80676/download",
+    "mdb_id": "f-alternéo~reunion",
+    "license": "https://transport.data.gouv.fr/datasets/donnees-du-reseau-alterneo"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

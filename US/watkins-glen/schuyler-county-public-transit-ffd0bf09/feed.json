@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Schuyler~County~Public~Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Watkins Glen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Schuyler_County_Transit.zip",
+    "mdb_id": "f-schuyler~county~public~transit",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

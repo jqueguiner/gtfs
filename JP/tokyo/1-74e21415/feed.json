@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "千代田区地域福祉交通風ぐるま~1",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tokyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip?date=latest",
+    "mdb_id": "f-千代田区地域福祉交通風ぐるま~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

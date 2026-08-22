@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Calplazashuttles",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://CalPlazaShuttles.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-calplazashuttles",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

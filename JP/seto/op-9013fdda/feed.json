@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日進市巡回バス~くるりんばす",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Seto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus/files/feed.zip",
+    "mdb_id": "f-日進市巡回バス~くるりんばす",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七ヶ浜町民バスぐるりんこ~1",
+    "country": "JP",
+    "subdivision": "Miyagi",
+    "city": "Shiogama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/ShichigahamaTown/All_Gururinko.zip?date=latest",
+    "mdb_id": "f-七ヶ浜町民バスぐるりんこ~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

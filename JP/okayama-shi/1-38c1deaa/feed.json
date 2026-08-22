@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "宇野バス宇野自動車~1",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Okayama-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/UnoBus/AllLines.zip?date=latest",
+    "mdb_id": "f-宇野バス宇野自動車~1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

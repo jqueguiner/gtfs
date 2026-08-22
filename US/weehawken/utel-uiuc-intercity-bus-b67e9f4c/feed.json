@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Utel~Uiuc~Intercity~Bus",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Weehawken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/UTEL-UIUC/intercity-bus-gtfs/raw/refs/heads/main/Merged_GTFS_Feed.zip",
+    "mdb_id": "f-utel~uiuc~intercity~bus",
+    "license": "https://github.com/UTEL-UIUC/intercity-bus-gtfs/blob/main/README.md"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

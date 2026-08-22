@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東大和市コミュニティバスちょこバス~1",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Higashimurayama-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip?date=latest",
+    "mdb_id": "f-東大和市コミュニティバスちょこバス~1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

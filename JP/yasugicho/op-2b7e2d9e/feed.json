@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日南町~巡回バス",
+    "country": "JP",
+    "subdivision": "Shimane",
+    "city": "Yasugicho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://odp-pref-tottori.tori-info.co.jp/bus_data/12.zip",
+    "mdb_id": "f-日南町~巡回バス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

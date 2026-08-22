@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東京都町田市~コミュニティバス市民バス~1",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Machida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=latest",
+    "mdb_id": "f-東京都町田市~コミュニティバス市民バス~1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

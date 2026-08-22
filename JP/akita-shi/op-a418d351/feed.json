@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "秋田中央交通",
+    "country": "JP",
+    "subdivision": "Akita",
+    "city": "Akita Shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.akita-bus.or.jp/~akita-gtfs/bus-akitachuoukotsu.zip",
+    "mdb_id": "f-秋田中央交通",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kimitsucity~Local~Buses~Via~Kimitsu~City",
+    "country": "JP",
+    "subdivision": "Chiba",
+    "city": "Kimitsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Local_buses_via_Kimitsu_City/files/feed.zip?uid=c4aa8a10-d0fd-466b-acfc-a39cd03a6ab0",
+    "mdb_id": "f-kimitsucity~local~buses~via~kimitsu~city",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

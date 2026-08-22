@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kiryas~Joel~Ny",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Kiryas Joel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/TransitOrange_-_Kiryas_Joel_Area_Transit.zip",
+    "mdb_id": "f-kiryas~joel~ny",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "常滑市",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Tokoname"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokonamecity/feeds/Gruun/files/feed.zip?uid=cf568b3b-6bf5-4ba2-bb5e-29410c7f4fdc",
+    "mdb_id": "f-tokonamecity~gruun",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

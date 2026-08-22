@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中日本ツアーバス",
+    "country": "JP",
+    "subdivision": "Ishikawa",
+    "city": "Kanazawa-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://loc.bus-vision.jp/gtfs_v2/cjt-bus/gtfsFeed",
+    "mdb_id": "f-中日本ツアーバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

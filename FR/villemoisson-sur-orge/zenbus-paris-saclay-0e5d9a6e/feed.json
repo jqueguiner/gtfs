@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Paris~Saclay",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Villemoisson-sur-Orge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=caee",
+    "mdb_id": "f-zenbus~paris~saclay",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "濃飛バス一般路線",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Takayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nouhibus/feeds/nouhibus/files/feed.zip",
+    "mdb_id": "f-濃飛バス一般路線",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

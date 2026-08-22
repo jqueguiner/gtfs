@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "徳島市~上八万コミュニティバス",
+    "country": "JP",
+    "subdivision": "Tokushima",
+    "city": "Tokushima-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokushimacity/feeds/kamihachimanbus/files/feed.zip",
+    "mdb_id": "f-徳島市~上八万コミュニティバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

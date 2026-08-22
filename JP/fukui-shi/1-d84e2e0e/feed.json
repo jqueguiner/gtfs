@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "京福バス~1",
+    "country": "JP",
+    "subdivision": "Fukui",
+    "city": "Fukui-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=latest",
+    "mdb_id": "f-京福バス~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

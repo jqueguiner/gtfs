@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "西日本ジェイアールバス~名金線",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Fukumitsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishinihonjrbus/feeds/meikinsen/files/feed.zip",
+    "mdb_id": "f-西日本ジェイアールバス~名金線",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

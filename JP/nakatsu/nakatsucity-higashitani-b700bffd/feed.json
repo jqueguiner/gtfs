@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nakatsucity~Higashitani",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Nakatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatsucity/feeds/Higashitani/files/feed.zip?uid=f39f074e-6b2e-4b12-be9c-08a85de16fdc",
+    "mdb_id": "f-nakatsucity~higashitani",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

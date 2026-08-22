@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fukutsucity~Minibus",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Nishifukuma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukutsucity/feeds/minibus/files/feed.zip?uid=ae30723a-c1aa-41a7-82b5-a44b73e79138",
+    "mdb_id": "f-fukutsucity~minibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

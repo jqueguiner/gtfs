@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中国ジェイアールバス",
+    "country": "JP",
+    "subdivision": "Hiroshima",
+    "city": "Takehara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/15/latest.zip",
+    "mdb_id": "f-中国ジェイアールバス",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Okayacity~Silkybus",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": "Okaya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/okayacity/feeds/silkybus/files/feed.zip?uid=078123ac-4ed9-40f5-9e2d-32f0698303f3",
+    "mdb_id": "f-okayacity~silkybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

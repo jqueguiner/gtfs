@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus~Tempobus",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Le Passage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=16i2434229",
+    "mdb_id": "f-zenbus~tempobus",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

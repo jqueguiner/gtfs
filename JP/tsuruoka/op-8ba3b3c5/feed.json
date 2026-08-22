@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "庄内町~町営バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Tsuruoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shonaitown/feeds/ShonaiTown/files/feed.zip",
+    "mdb_id": "f-庄内町~町営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

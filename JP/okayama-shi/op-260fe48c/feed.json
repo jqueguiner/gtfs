@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "岡電バス岡山電気軌道",
+    "country": "JP",
+    "subdivision": "Okayama",
+    "city": "Okayama-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://loc.bus-vision.jp/gtfs/okaden/gtfsFeed",
+    "mdb_id": "f-岡電バス岡山電気軌道",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

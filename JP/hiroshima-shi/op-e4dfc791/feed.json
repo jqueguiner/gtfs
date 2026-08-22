@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "広島交通~広交観光",
+    "country": "JP",
+    "subdivision": "Hiroshima",
+    "city": "Hiroshima-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ajt-mobusta-gtfs.mcapps.jp/static/10/latest.zip",
+    "mdb_id": "f-広島交通~広交観光",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

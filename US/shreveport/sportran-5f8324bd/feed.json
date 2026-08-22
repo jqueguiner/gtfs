@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sportran",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Shreveport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sportran.rideralerts.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "f-sportran",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Inzaicity~Rosenbus",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": "Ryugasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inzaicity/feeds/rosenbus/files/feed.zip?uid=18d6d465-505c-40d2-8c0d-f6c5569e5f85",
+    "mdb_id": "f-inzaicity~rosenbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "二宮町コミュニティバス",
+    "country": "JP",
+    "subdivision": "Kanagawa",
+    "city": "Ninomiya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ninomiyatown/feeds/Ninomiyatowncommunitybus/files/feed.zip",
+    "mdb_id": "f-二宮町コミュニティバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

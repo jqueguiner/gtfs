@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tajimicity~Kikyobus",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Tajimi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tajimicity/feeds/kikyobus/files/feed.zip?uid=ef30fae8-4eb4-4f48-9fd8-6cab7c7934d2",
+    "mdb_id": "f-tajimicity~kikyobus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

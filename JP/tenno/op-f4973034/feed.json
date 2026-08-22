@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "男鹿市内路線バス全路線",
+    "country": "JP",
+    "subdivision": "Akita",
+    "city": "Tenno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.city.oga.akita.jp/material/files/group/2/bus-ogacity.zip",
+    "mdb_id": "f-男鹿市内路線バス全路線",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

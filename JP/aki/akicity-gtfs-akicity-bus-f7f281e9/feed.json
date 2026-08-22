@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Akicity~Gtfs~Akicity~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Aki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akicity/feeds/GTFS-Akicity_Bus/files/feed.zip?uid=ea874304-32c6-4faf-847f-e0f5be30c43d",
+    "mdb_id": "f-akicity~gtfs~akicity~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "富山地鉄市内電車",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Toyama-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chitetsu/feeds/chitetsushinaidensha/files/feed.zip",
+    "mdb_id": "f-富山地鉄市内電車",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

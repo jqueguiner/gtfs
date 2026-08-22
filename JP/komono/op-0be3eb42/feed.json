@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "菰野町",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Komono"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/komonotown/feeds/communitybus/files/feed.zip?uid=87ca9e07-5644-41f6-aede-ea76a7ae226b",
+    "mdb_id": "f-komonotown~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

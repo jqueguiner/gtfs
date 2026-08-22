@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Parkmsyexpress",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Kenner"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://parkmsyexpress.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-parkmsyexpress",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

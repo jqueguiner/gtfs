@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "永井バス永井運輸~2",
+    "country": "JP",
+    "subdivision": "Gunma",
+    "city": "Maebashi-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NagaiTransportation/AllLines.zip?date=latest",
+    "mdb_id": "f-永井バス永井運輸~2",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

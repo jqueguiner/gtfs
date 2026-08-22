@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Motoyamatown~Gtfs~Motoyamatown~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Kochi-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/motoyamatown/feeds/GTFS-Motoyamatown_Bus/files/feed.zip?uid=f7801c00-dce1-4791-9d4e-d8a37510120c",
+    "mdb_id": "f-motoyamatown~gtfs~motoyamatown~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tointown~Communitybus",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Komono"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tointown/feeds/communitybus/files/feed.zip?uid=abdb0128-ec3a-4c8a-a0aa-51f0cd4843eb",
+    "mdb_id": "f-tointown~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

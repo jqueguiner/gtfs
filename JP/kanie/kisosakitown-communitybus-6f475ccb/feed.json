@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kisosakitown~Communitybus",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Kanie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisosakitown/feeds/communitybus/files/feed.zip?uid=deb1e25a-3d47-4928-b02d-a32c7b0ce1c3",
+    "mdb_id": "f-kisosakitown~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

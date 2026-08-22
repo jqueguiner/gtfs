@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "大江町営バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Sagae"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/oetown/feeds/Oetown/files/feed.zip",
+    "mdb_id": "f-大江町営バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

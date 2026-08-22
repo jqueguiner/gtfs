@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "国立市コミュニティバスくにっこ~1",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kokubunji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KunitachiCity/kunitachi_city_kunikko.zip?date=latest",
+    "mdb_id": "f-国立市コミュニティバスくにっこ~1",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "加越能バス~一般路線",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Takaoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kaetsunou/feeds/kaetsunouippan/files/feed.zip",
+    "mdb_id": "f-加越能バス~一般路線",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

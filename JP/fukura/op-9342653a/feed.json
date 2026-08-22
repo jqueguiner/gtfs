@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南あわじ市コミュニティバス~らん~らんバス",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Fukura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamiawajicity/feeds/lanrunbus/files/feed.zip",
+    "mdb_id": "f-南あわじ市コミュニティバス~らん~らんバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

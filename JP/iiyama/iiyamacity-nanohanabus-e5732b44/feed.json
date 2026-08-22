@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Iiyamacity~Nanohanabus",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": "Iiyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/iiyamacity/feeds/nanohanabus/files/feed.zip?uid=fe7538d4-1b04-4fe3-8d61-6a7667d4cea8",
+    "mdb_id": "f-iiyamacity~nanohanabus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

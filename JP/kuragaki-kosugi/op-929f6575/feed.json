@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "射水市~きときとバス",
+    "country": "JP",
+    "subdivision": "Toyama",
+    "city": "Kuragaki-kosugi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/imizucity/feeds/imizushi/files/feed.zip",
+    "mdb_id": "f-射水市~きときとバス",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

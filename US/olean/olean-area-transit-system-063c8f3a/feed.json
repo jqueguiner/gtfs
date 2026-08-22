@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Olean~Area~Transit~System",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Olean"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/oats/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-olean~area~transit~system",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

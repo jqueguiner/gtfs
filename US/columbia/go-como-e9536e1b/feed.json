@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Go~Como",
+    "country": "US",
+    "subdivision": "Missouri",
+    "city": "Columbia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/gocomotransit.etaspot.net/gtfs.zip",
+    "mdb_id": "f-go~como",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

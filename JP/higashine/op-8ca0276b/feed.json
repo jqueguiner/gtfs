@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "東根市~市民バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Higashine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/higashinecity/feeds/HigashineCity/files/feed.zip",
+    "mdb_id": "f-東根市~市民バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

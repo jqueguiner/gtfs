@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tagawacity~Tagawacitycommunitybus",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Kawasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tagawacity/feeds/TagawaCityCommunityBus/files/feed.zip?uid=fb47caf5-7c65-42c0-bba8-1b2d85c615b8",
+    "mdb_id": "f-tagawacity~tagawacitycommunitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
