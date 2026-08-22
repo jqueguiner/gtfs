@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geocatalogue.hautsdefrance.fr/gtfs/HDF_TER_GTFS_J___90_jours.zip",
+    "mdb_id": "tdg-83620",
+    "license": "notspecified"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

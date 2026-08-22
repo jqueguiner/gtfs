@@ -2,21 +2,16 @@
   "agency": {
     "name": "Communauté de Communes Chinon Vienne et Loire",
     "country": "FR",
-    "subdivision": "Centre-Loire Valley",
+    "subdivision": null,
     "city": "Chinon"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/af410692-57e7-44a3-b888-4efccdf77014",
+    "url": "https://static.data.gouv.fr/resources/reseau-cvlmobilite-plan-de-transport-theorique-la-navette-lete-a-chinon-format-gtfs/20260522-144310/lanavette-leteachinon-2026.zip",
     "mdb_id": "tdg-83189",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 47.161579,
-    "maximum_latitude": 47.17331386105464,
-    "minimum_longitude": 0.23358,
-    "maximum_longitude": 0.2568
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

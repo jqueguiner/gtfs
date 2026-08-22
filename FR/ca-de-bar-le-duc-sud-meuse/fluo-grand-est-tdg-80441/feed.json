@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de Bar-le-Duc - Sud Meuse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=TUB",
+    "mdb_id": "tdg-80441",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

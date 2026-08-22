@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Avignon",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Grand Avignon (COGA)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.maas-fr.cityway.fr/dataflow/offre-tc/download?provider=ORIZO&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "tdg-84115",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

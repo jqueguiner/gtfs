@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alliance Atlantique",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC de l'Ile de Noirmoutier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/noirmoutier-gratibus-gtfs-gtfs-rt/20260820-122338/noirmoutier-2026-v5-2-.zip",
+    "mdb_id": "tdg-81924",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

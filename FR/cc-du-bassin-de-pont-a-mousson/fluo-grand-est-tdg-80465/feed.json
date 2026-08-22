@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Bassin de Pont-à-Mousson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=LEBUS",
+    "mdb_id": "tdg-80465",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

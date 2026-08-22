@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Douarnenez Communauté"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.korrigo.bzh/ftp/OPENDATA/TUDBUS.gtfs.zip",
+    "mdb_id": "tdg-81927",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brest métropole",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Brest Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/bibus/exports/medias.zip",
+    "mdb_id": "tdg-43286",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

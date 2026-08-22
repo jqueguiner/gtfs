@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ecov",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Nantes Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/ecov-gtfs/nantes/gtfs_nantes.zip",
+    "mdb_id": "tdg-84096",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

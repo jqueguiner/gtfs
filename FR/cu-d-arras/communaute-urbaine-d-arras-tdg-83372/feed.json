@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté Urbaine d'Arras",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU d'Arras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseau-de-transport-artis/20250829-085009/gtfs-20250828-151217.zip",
+    "mdb_id": "tdg-83372",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

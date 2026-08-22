@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Pays de Saint-Omer",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Pays de Saint-Omer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/transports-en-commun-audomarois-1/20260430-132927/mouveo.zip",
+    "mdb_id": "tdg-83987",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

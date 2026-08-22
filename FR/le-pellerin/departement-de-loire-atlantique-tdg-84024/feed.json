@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Département de Loire-Atlantique",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Le Pellerin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.loire-atlantique.fr/api/v2/catalog/datasets/224400028_horaires-bacs-loire-en-loire-atlantique-gtfs/alternative_exports/gtfs_bac_loire2026_zip",
+    "mdb_id": "tdg-84024",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

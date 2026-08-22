@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes Cœur de Loire",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Coeur de Loire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/coeur-de-loire/gtfs/pub",
+    "mdb_id": "tdg-83859",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

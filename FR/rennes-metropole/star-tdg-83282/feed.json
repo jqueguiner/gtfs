@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STAR",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Rennes Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/star/gtfs/GTFS_STAR_BUS_METRO_A_VENIR.zip",
+    "mdb_id": "tdg-83282",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

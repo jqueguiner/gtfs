@@ -2,14 +2,14 @@
   "agency": {
     "name": "VITRE COMMUNAUTE",
     "country": "FR",
-    "subdivision": "CA Vitré Communauté",
-    "city": null
+    "subdivision": null,
+    "city": "CA Vitré Communauté"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/c7b620bf-e0c5-4f81-a34b-9c8d02c6e3a4",
+    "url": "https://static.data.gouv.fr/resources/reseau-urbain-ville-de-vitre/20250425-133101/20-gtfs-urbain-vitre-ete-2025.zip",
     "mdb_id": "tdg-83019",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

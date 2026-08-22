@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ametis",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Amiens Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/ametis/20260722-091043/gtfs-fusion-20260721-1000.zip",
+    "mdb_id": "tdg-80223",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

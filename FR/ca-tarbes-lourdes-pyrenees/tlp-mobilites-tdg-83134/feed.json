@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TLP Mobilités",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Tarbes-Lourdes-Pyrénées"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/horaires-theoriques-du-reseau-tarbes-lourdes-tlp-mobilites-gtfs/20260811-071513/gtfs-ktlp-zenbus-040826-161026.zip",
+    "mdb_id": "tdg-83134",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

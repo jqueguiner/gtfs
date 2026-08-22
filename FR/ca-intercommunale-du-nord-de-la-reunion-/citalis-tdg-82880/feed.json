@@ -2,14 +2,14 @@
   "agency": {
     "name": "CITALIS",
     "country": "FR",
-    "subdivision": "CA Intercommunale du Nord de la Réunion (CINOR)",
-    "city": null
+    "subdivision": null,
+    "city": "CA Intercommunale du Nord de la Réunion (CINOR)"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/fa444b8c-c1c6-4015-ac50-f748c12764d3",
+    "url": "https://static.data.gouv.fr/resources/citalis-telepherique-papang/20251229-113508/pap1-gtfs-2025-12-02-2028-03-01.zip",
     "mdb_id": "tdg-82880",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

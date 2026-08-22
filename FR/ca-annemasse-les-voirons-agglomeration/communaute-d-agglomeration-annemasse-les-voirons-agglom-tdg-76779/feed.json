@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Annemasse - les Voirons Agglomération",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Annemasse-Les Voirons-Agglomération"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/tp2a/exports/medias.zip",
+    "mdb_id": "tdg-76779",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

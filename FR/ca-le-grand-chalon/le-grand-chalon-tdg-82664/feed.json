@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Le Grand Chalon",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Le Grand Chalon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseauzoom-horaires-theoriques/20251229-092806/gtfs-20251217-143039-stac-gc.zip",
+    "mdb_id": "tdg-82664",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

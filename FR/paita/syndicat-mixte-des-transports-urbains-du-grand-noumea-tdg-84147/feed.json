@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte des Transports Urbains du grand Nouméa",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Païta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.taneo.nc/v1/gtfs/download",
+    "mdb_id": "tdg-84147",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

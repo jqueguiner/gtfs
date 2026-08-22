@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eurostar International Ltd.",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://integration-storage.dm.eurostar.com/gtfs-prod/gtfs_static_commercial_v2.zip",
+    "mdb_id": "tdg-82199",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

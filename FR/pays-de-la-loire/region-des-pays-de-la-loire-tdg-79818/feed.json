@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mobi-iti-pdl.okina.fr/static/mobiiti_technique/gtfs_global.zip",
+    "mdb_id": "tdg-79818",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

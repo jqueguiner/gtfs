@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Régie de transport Communauté de communes Spelunca-Liamone",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Spelunca-Liamone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=speluncaliamone",
+    "mdb_id": "tdg-84068",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

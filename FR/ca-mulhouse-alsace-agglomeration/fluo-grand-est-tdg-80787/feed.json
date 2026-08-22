@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Mulhouse Alsace Agglomération"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=SITRAM",
+    "mdb_id": "tdg-80787",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

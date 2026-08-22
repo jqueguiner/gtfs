@@ -1,22 +1,17 @@
 {
   "agency": {
-    "name": "SPL Estival/ Cirest",
+    "name": "SPL Estival/ Cirest ",
     "country": "FR",
-    "subdivision": "CA Intercommunale de la Réunion Est (CIREST)",
-    "city": null
+    "subdivision": null,
+    "city": "CA Intercommunale de la Réunion Est (CIREST)"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/3b659ebb-8c17-46f4-a8ac-78c4129a4a29",
+    "url": "https://static.data.gouv.fr/resources/jeu-de-donnee-spl-estival-2025/20260127-034956/gtfs-esti-2026.zip",
     "mdb_id": "tdg-83774",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": -21.220153,
-    "maximum_latitude": -20.913762,
-    "minimum_longitude": 55.450825,
-    "maximum_longitude": 55.826856
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

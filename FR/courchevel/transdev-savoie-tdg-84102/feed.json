@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transdev Savoie",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Courchevel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/skibus-courchevel-hiver/20260703-154441/gtfs-prod-03072026-1051-1.zip",
+    "mdb_id": "tdg-84102",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

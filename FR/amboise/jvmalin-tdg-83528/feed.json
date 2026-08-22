@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Amboise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fr.ftp.opendatasoft.com/centrevaldeloire/OKINAGTFS/GTFS_AO/AMBOISE.zip",
+    "mdb_id": "tdg-83528",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

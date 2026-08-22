@@ -7,16 +7,11 @@
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://transport.data.gouv.fr/resources/83635/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "url": "https://tsi.grandest2.cityway.fr/ftp/opendata/FLUO.gtfs.zip",
     "mdb_id": "tdg-83635",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 0.0,
-    "maximum_latitude": 50.138498,
-    "minimum_longitude": 0.0,
-    "maximum_longitude": 8.20103
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

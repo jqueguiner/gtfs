@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sailcoop",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Fouesnant"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://maxime-siret.github.io/gtfs-sailcoop/latest.zip",
+    "mdb_id": "tdg-83311",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

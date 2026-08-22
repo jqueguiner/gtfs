@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Open Data Rodez Agglomération",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Rodez Agglomération"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs/20260701-070738/gtfsrodezagglo.zip",
+    "mdb_id": "tdg-81175",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

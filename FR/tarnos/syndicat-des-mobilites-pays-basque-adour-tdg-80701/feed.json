@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Syndicat des Mobilités Pays Basque-Adour",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Tarnos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/static/txiktxak?apiKey=0f64273f070b7d4621002040646e180d374e5373",
+    "mdb_id": "tdg-80701",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

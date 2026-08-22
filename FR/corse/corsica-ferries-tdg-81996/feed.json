@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Corsica Ferries",
+    "country": "FR",
+    "subdivision": "Corse",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/programme-des-rotations-corsica-ferries/20251226-152616/gtfs-updated.zip",
+    "mdb_id": "tdg-81996",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

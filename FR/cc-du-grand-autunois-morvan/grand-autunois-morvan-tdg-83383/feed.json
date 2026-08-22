@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Autunois Morvan",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Grand Autunois Morvan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/arrets-lignes-regulieres-reseau-de-transport-urbain-a-autun/20251030-071946/ligne-a-autun-ca-roule.zip",
+    "mdb_id": "tdg-83383",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

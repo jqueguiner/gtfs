@@ -2,14 +2,14 @@
   "agency": {
     "name": "Alliance Atlantique",
     "country": "FR",
-    "subdivision": "New Aquitaine",
+    "subdivision": null,
     "city": "Parthenay"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/95654461-59d1-4a33-8830-f90d55e8a217",
+    "url": "https://api.pysae.com/api/v4/groups/parthenay/gtfs/6a742fe0fc2ef8d7d2bf4912",
     "mdb_id": "tdg-82619",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

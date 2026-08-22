@@ -2,21 +2,16 @@
   "agency": {
     "name": "SEMTO",
     "country": "FR",
-    "subdivision": "CA Territoire de la Côte Ouest (TCO)",
-    "city": null
+    "subdivision": null,
+    "city": "CA Territoire de la Côte Ouest (TCO)"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/c9c2f609-d0cd-4233-ad1b-cf86b9bf2dc8",
+    "url": "https://static.data.gouv.fr/resources/reseau-karouest/20260817-142540/gtfs-koa1808.zip",
     "mdb_id": "tdg-81116",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": -21.250535,
-    "maximum_latitude": -20.922835,
-    "minimum_longitude": 55.218778,
-    "maximum_longitude": 55.39446
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Keolis RIOM",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Riom Limagne et Volcans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/horaires-rlv-mobilites/20260819-074157/gtfs-19-08-2026-05-45.zip",
+    "mdb_id": "tdg-82547",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

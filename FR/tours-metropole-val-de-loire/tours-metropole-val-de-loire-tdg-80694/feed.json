@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tours Métropole Val de Loire",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Tours Métropole Val de Loire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.tours-metropole.fr/api/v2/catalog/datasets/horaires-temps-reel-gtfsrt-reseau-filbleu-tmvl/alternative_exports/filbleu_gtfszip",
+    "mdb_id": "tdg-80694",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL SA",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ssl.renfe.com/gtransit/Fichero_AV_INT/Renfe_AVE_Int.zip",
+    "mdb_id": "tdg-82386",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

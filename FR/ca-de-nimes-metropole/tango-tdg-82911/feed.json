@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tango",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de Nîmes Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt/20260812-135031/gtfs-production.zip",
+    "mdb_id": "tdg-82911",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

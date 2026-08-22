@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TCAT - Transports en Commun de l'Agglomération Troyenne",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Troyes Champagne Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/donnees-tcat-troyes-champagne-metropole-1/20260520-141045/gtfs.zip",
+    "mdb_id": "tdg-79747",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

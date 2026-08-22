@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau de transport en commun Le Havre Seine Métropole LiA",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU Le Havre Seine Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.transports-lia.fr/gtfs/GTFS.zip",
+    "mdb_id": "tdg-84037",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

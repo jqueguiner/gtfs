@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de la Région de Château-Thierry",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de la Région de Château-Thierry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/gtfs-reseau-fablio-lignes-regulieres/20260108-145743/gtfs-2026-fablio.zip",
+    "mdb_id": "tdg-83793",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ALEO",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Moulins Communauté"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/moulins/gtfs/pub",
+    "mdb_id": "tdg-83839",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

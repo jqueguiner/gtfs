@@ -2,21 +2,16 @@
   "agency": {
     "name": "Transdev • Centre-Val de Loire",
     "country": "FR",
-    "subdivision": "Centre-Loire Valley",
+    "subdivision": null,
     "city": "Nogent-le-Rotrou"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/5f1dfae0-7972-4caa-8a5d-e2d90a285585",
+    "url": "https://static.data.gouv.fr/resources/reseau-urbain-nosbus/20260720-151436/gtfs-nosbus-20260720-85-a-bord-hors-bord.zip",
     "mdb_id": "tdg-79576",
-    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+    "license": "odc-odbl"
   },
-  "bbox": {
-    "minimum_latitude": 48.311181,
-    "maximum_latitude": 48.331252,
-    "minimum_longitude": 0.798079,
-    "maximum_longitude": 0.842601
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

@@ -2,21 +2,16 @@
   "agency": {
     "name": "Loopi, Mobilité Touristique",
     "country": "FR",
-    "subdivision": "Auvergne-Rhône-Alpes",
+    "subdivision": null,
     "city": "Oz"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/179d2464-f007-4005-976e-a7fd98eabcfe",
+    "url": "https://static.data.gouv.fr/resources/telecabine-eau-dolle-express-allemond-oz/20260609-173342/telecabine-eau-dolle-express-allemondoz202620260609.zip",
     "mdb_id": "tdg-83994",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 45.126026,
-    "maximum_latitude": 45.12732,
-    "minimum_longitude": 6.038039,
-    "maximum_longitude": 6.072457
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

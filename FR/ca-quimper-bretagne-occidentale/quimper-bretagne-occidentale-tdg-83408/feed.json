@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Quimper Bretagne Occidentale",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Quimper Bretagne Occidentale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/qbo/exports/medias.zip",
+    "mdb_id": "tdg-83408",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

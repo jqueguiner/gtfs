@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de l'Auxerrois",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de l'Auxerrois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseau-de-transports-en-commun-de-la-communaute-dagglomeration-de-lauxerrois/20260706-062350/gtfs-mdma.zip",
+    "mdb_id": "tdg-78934",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

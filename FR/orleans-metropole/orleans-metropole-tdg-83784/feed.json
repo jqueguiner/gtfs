@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orléans Métropole",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Orléans Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.orleans-metropole.fr/api/v2/catalog/datasets/om-mobilite-tao-tad-gtfsflex/alternative_exports/gtfs_flex_tao_012026_062026_zip",
+    "mdb_id": "tdg-83784",
+    "license": "fr-lo"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

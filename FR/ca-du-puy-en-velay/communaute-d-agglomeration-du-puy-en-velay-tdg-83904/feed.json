@@ -2,14 +2,14 @@
   "agency": {
     "name": "Communauté d'Agglomération du Puy-en-Velay",
     "country": "FR",
-    "subdivision": "CA du Puy-en-Velay",
-    "city": null
+    "subdivision": null,
+    "city": "CA du Puy-en-Velay"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/72cb82e9-df44-40fc-9fea-4f93f8a527af",
+    "url": "https://geoportail.lepuyenvelay.fr/data/gtfs/tad/gtfs/",
     "mdb_id": "tdg-83904",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

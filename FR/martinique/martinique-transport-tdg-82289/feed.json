@@ -7,16 +7,11 @@
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/c14a1893-58a1-4e7b-830e-bd1f9daa863d",
+    "url": "https://static.data.gouv.fr/resources/gtfs-du-transport-scolaire-en-martinique/20250905-181503/gtfs-scolaire-mt.zip",
     "mdb_id": "tdg-82289",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 0.0,
-    "maximum_latitude": 14.87710593,
-    "minimum_longitude": -61.22878424,
-    "maximum_longitude": 0.0
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

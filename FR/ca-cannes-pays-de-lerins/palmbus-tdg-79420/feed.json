@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Palmbus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Cannes Pays de Lérins"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/horaires-theoriques-et-temps-reel-gtfs-gtfs-rt-du-reseau-palmbus-cannes-pays-de-lerins/20260730-072130/palmbus-cannes-fr.zip",
+    "mdb_id": "tdg-79420",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

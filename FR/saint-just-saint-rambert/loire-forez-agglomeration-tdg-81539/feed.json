@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LOIRE FOREZ AGGLOMERATION",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Saint-Just-Saint-Rambert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/navettes-de-loire-forez-agglomeration/20250909-134941/navettes-urbaines-lfa.zip",
+    "mdb_id": "tdg-81539",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

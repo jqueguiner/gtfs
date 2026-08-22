@@ -2,14 +2,14 @@
   "agency": {
     "name": "Métropole Toulon Provence Méditerranée",
     "country": "FR",
-    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "subdivision": null,
     "city": "Toulon"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/9bba0b17-2863-4ee1-a38a-c7a445f820d1",
+    "url": "https://static.data.gouv.fr/resources/telepherique-du-mont-faron/20260303-093935/gtfs-tel-f-to-a.zip",
     "mdb_id": "tdg-83739",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

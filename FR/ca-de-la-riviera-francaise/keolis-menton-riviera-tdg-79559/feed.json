@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Keolis Menton Riviera",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de la Riviera Française"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/horaires-reseau-zest/20260710-140010/gtfs-10072026-0806.zip",
+    "mdb_id": "tdg-79559",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

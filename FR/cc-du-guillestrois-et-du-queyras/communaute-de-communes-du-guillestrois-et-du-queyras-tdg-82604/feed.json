@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de communes du Guillestrois et du Queyras",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Guillestrois et du Queyras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseau-de-transports-collectifs-de-la-ccgq/20260817-083208/gtfsv1.7.4.zip",
+    "mdb_id": "tdg-82604",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

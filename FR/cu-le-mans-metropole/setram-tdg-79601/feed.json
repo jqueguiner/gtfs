@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SETRAM",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU Le Mans Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole/20260706-090730/gtfssetramlmm.zip",
+    "mdb_id": "tdg-79601",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

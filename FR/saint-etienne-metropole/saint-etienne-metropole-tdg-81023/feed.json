@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saint-Etienne Métropole",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Saint-Étienne Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-prod.saint-etienne-metropole.fr/Public/stas/api/gtfs.aspx",
+    "mdb_id": "tdg-81023",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

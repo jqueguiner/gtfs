@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Golfe de Saint-Tropez",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Cavalaire-sur-Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/cavalaire-h/gtfs/pub",
+    "mdb_id": "tdg-81870",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Île-de-France Mobilités",
+    "country": "FR",
+    "subdivision": "Île-de-France",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/stif/GTFS/IDFM-gtfs.zip",
+    "mdb_id": "tdg-80921",
+    "license": "mobility-licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

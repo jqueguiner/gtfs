@@ -23,9 +23,13 @@ def main():
     have = {(f.get("producer_url") or "").rstrip("/") for f in feeds}
     added = 0
     for d in get(API):
-        aom = d.get("aom") or {}
-        city = (aom.get("nom") or d.get("community_resources") and None
-                or (d.get("covered_area") or {}).get("name"))
+        areas = d.get("covered_area") or []          # [{type, nom, insee}]
+        areas = areas if isinstance(areas, list) else [areas]
+        by = {a.get("type"): a.get("nom") for a in areas if isinstance(a, dict)}
+        city = by.get("commune") or by.get("aom") or by.get("epci")
+        region = by.get("region")
+        publisher = (d.get("publisher") or {})
+        provider = publisher.get("name") if isinstance(publisher, dict) else None
         for res in d.get("resources", []):
             if res.get("format") != "GTFS":
                 continue
@@ -35,10 +39,10 @@ def main():
             have.add(url.rstrip("/"))
             feeds.append({
                 "id": f"tdg-{res.get('id')}",
-                "provider": d.get("organization") or d.get("title"),
+                "provider": provider or d.get("title"),
                 "name": d.get("title"),
                 "cc": "FR",
-                "subdiv": (d.get("covered_area") or {}).get("region") or None,
+                "subdiv": region,
                 "city": city,
                 "producer_url": url,
                 "hosted_url": None,

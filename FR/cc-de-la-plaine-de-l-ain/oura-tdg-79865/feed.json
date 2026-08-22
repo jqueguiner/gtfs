@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC de la Plaine de l'Ain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=TAM&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "tdg-79865",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

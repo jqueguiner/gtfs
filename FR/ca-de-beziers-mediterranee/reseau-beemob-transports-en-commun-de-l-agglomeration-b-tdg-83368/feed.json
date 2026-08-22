@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau beeMob - Transports en commun de l'Agglomération Béziers Méditerranée",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de Béziers-Méditerranée"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/rdbm/exports/gtfs-pour-le-pan.zip",
+    "mdb_id": "tdg-83368",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

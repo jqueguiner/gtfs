@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Sud Corse",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Sud Corse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pysae.com/api/v2/groups/porto-vecchio/gtfs/pub",
+    "mdb_id": "tdg-81252",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

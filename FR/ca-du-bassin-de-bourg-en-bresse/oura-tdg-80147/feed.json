@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Bassin de Bourg-en-Bresse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=RUBIS&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "tdg-80147",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

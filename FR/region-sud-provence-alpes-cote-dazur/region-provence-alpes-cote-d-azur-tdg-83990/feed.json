@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Provence-Alpes-Côte-d'Azur",
+    "country": "FR",
+    "subdivision": "Région Sud — Provence-Alpes-Côte d’Azur",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy-data.zou.maregionsud.fr/GTFS/GTFS_SIBR_zou_ferre_datasud.zip",
+    "mdb_id": "tdg-83990",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

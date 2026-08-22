@@ -2,14 +2,14 @@
   "agency": {
     "name": "SPL D'UN POINT A L'AUTRE",
     "country": "FR",
-    "subdivision": "Occitania",
+    "subdivision": null,
     "city": "Lavaur"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/9364a3b9-6cc7-4543-a927-b31056d07eac",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=lavaur",
     "mdb_id": "tdg-84087",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

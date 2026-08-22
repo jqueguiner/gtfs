@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transdev • Normandie",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Caux Seine Agglo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.pysae.com/api/v4/groups/caux-seine-agglo/gtfs/pub",
+    "mdb_id": "tdg-83783",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

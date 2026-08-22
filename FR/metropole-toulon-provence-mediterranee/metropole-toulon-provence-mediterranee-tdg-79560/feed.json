@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Métropole Toulon Provence Méditerranée",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Métropole Toulon-Provence-Méditerranée"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-west-1.amazonaws.com/files.orchestra.ratpdev.com/networks/rd-toulon/exports/gtfs-complet.zip",
+    "mdb_id": "tdg-79560",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

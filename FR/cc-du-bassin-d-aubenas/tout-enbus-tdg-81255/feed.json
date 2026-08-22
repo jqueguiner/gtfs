@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tout'enbus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Bassin d'Aubenas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/static/aubenas?apiKey=6527571c533049035b6a0d41252853243b1f2a68",
+    "mdb_id": "tdg-81255",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

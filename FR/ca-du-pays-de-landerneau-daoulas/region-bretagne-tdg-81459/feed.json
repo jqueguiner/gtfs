@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Pays de Landerneau-Daoulas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.korrigo.bzh/ftp/OPENDATA/ARBUS.gtfs.zip",
+    "mdb_id": "tdg-81459",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

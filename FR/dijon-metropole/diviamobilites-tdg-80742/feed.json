@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DiviaMobilités",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Dijon Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/gtfs-diviamobilites/20260804-205310/gtfs-diviamobilites-current.zip",
+    "mdb_id": "tdg-80742",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

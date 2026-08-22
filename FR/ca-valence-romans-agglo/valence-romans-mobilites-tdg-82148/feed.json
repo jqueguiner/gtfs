@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valence Romans Mobilités",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Valence Romans Agglo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/ce-jeu-de-donnees-contient-la-liste-des-arrets-des-horaires-et-des-parcours-theoriques-du-reseau-de-transport-urbain-et-interurbain-de-vrm/20260518-071358/gtfs-citea-20260517-20260628.zip",
+    "mdb_id": "tdg-82148",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

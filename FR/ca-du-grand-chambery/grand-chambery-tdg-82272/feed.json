@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Chambéry",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Grand Chambéry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mwe.mecatran.com/utw/ws/gtfsfeed/static/chambery?apiKey=223f2f102c1242570d3f0231326a271940774f72&type=gtfs_urbain",
+    "mdb_id": "tdg-82272",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

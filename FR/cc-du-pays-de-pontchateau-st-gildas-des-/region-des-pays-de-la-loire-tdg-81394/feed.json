@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Pays de Pontchâteau St-Gildas-des-Bois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/static/pdlFlex?apiKey=19496e1c0c0e42607d54444b2a191b61533b3634",
+    "mdb_id": "tdg-81394",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

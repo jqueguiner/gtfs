@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "COMMUNE DE COURCHEVEL",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Courchevel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/transport-urbain-par-cable-hiver-2025-26/20251211-092237/rmu-courchevel-20251210.zip",
+    "mdb_id": "tdg-83744",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

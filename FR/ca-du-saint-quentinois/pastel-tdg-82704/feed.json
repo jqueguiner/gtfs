@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PASTEL",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Saint-Quentinois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/bus-pastel-saint-quentin/20251230-130818/gtfs-20251204-171737-sqm.zip",
+    "mdb_id": "tdg-82704",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

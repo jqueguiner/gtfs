@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté Urbaine de Dunkerque / Réseau Dk Bus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU de Dunkerque"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/offre-de-transports-reseau-dk-bus-de-la-communaute-urbaine-de-dunkerque-gtfs/20260706-085929/gtfs-20260624-110758-dkbus.zip",
+    "mdb_id": "tdg-82683",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

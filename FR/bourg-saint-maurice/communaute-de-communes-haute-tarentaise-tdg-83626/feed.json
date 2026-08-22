@@ -2,21 +2,16 @@
   "agency": {
     "name": "Communauté de Communes Haute-Tarentaise",
     "country": "FR",
-    "subdivision": "Auvergne-Rhône-Alpes",
+    "subdivision": null,
     "city": "Bourg-Saint-Maurice"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://transport.data.gouv.fr/resources/83626/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "url": "https://static.data.gouv.fr/resources/navettes-bourg-saint-maurice/20260609-123248/gtfs-09-06-2026-08-00-laronde-intersaison.zip",
     "mdb_id": "tdg-83626",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 0.0,
-    "maximum_latitude": 45.62414194,
-    "minimum_longitude": 0.0,
-    "maximum_longitude": 6.835
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

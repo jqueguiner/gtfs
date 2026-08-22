@@ -2,21 +2,16 @@
   "agency": {
     "name": "Communauté d’Agglomération du Centre Littoral de Guyane",
     "country": "FR",
-    "subdivision": "CA du Centre Littoral",
-    "city": null
+    "subdivision": null,
+    "city": "CA du Centre Littoral"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/9e9cea88-cdf9-4f3d-ae17-f30c9512d276",
+    "url": "https://static.data.gouv.fr/resources/agence-agglobus/20250806-142142/agglobus-peri-urbain-25-agglo-bus-inter-gtfs-2025-07-23-07-58-11-2-.zip",
     "mdb_id": "tdg-81705",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
-  "bbox": {
-    "minimum_latitude": 4.498318,
-    "maximum_latitude": 5.0710991537198,
-    "minimum_longitude": -52.56675328128,
-    "maximum_longitude": -52.052472
-  },
+  "bbox": null,
   "source": "mobility-database",
   "status": "active"
 }

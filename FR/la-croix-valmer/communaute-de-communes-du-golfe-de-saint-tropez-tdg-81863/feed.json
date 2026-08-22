@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Golfe de Saint-Tropez",
+    "country": "FR",
+    "subdivision": null,
+    "city": "La Croix-Valmer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pysae.com/api/v2/groups/croix-valmer/gtfs/pub",
+    "mdb_id": "tdg-81863",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

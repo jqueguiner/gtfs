@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ARAVIS Bus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC des Vallées de Thônes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/aravis-bus-hiver-2025-2026/20260605-061348/export-gtfs-aravis-ete-2026.zip",
+    "mdb_id": "tdg-84055",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

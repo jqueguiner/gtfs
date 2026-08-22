@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Golfe de Saint-Tropez",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Ramatuelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/keolis-yr25/gtfs/pub",
+    "mdb_id": "tdg-81772",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

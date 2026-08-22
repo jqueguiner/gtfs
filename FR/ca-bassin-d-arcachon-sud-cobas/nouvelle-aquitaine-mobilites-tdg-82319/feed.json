@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Bassin d'Arcachon Sud (COBAS)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/cobas-aggregated-gtfs.zip",
+    "mdb_id": "tdg-82319",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

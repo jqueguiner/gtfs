@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Centre Corse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/gtfs-transport-via-corsica-corte-a-la-vallee-de-la-restonica-ligne-c13/20260727-120808/via-corsica-restonica.zip",
+    "mdb_id": "tdg-82998",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

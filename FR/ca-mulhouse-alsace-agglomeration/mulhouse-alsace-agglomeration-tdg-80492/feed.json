@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mulhouse Alsace Agglomération",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Mulhouse Alsace Agglomération"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/mulhouse/TRANSPORT_GTFS/SOLEA.GTFS_current.zip",
+    "mdb_id": "tdg-80492",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

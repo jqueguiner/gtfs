@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Arlysère"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=ARLYSERE&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "tdg-84135",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

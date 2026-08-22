@@ -2,14 +2,14 @@
   "agency": {
     "name": "Grand Bourg Agglomération",
     "country": "FR",
-    "subdivision": "CA du Bassin de Bourg-en-Bresse",
-    "city": null
+    "subdivision": null,
+    "city": "CA du Bassin de Bourg-en-Bresse"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://transport.data.gouv.fr/resources/83841/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "url": "https://saeiv-p01.navocap.com/NvpGTFS/74/api/static/getzip",
     "mdb_id": "tdg-83841",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

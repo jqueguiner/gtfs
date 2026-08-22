@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lulu en Bus (Ex. Lunéo)",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC du Territoire de Lunéville à Baccarat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.pysae.com/api/v2/groups/luneo/gtfs/pub",
+    "mdb_id": "tdg-83509",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

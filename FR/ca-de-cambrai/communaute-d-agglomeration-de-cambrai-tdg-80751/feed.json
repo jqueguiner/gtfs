@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de Cambrai",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de Cambrai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai/20260324-131607/rhdf-gtfs-cac-tuc-24-03-26.zip",
+    "mdb_id": "tdg-80751",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

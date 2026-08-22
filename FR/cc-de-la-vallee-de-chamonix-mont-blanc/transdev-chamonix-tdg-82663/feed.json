@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transdev Chamonix",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC de la Vallée de Chamonix-Mont-Blanc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/gtfs-reseau-chamonix-mobilite/20260810-082014/gtfs-automne-chx2026.2026.08.07.zip",
+    "mdb_id": "tdg-82663",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

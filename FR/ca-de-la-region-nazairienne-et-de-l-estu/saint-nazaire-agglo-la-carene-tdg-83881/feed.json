@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saint-Nazaire agglo - La CARENE",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de la Région Nazairienne et de l'Estuaire (CARENE)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/static/stran-merge?apiKey=2e6071036d276153761f0c090b4a45420e047612",
+    "mdb_id": "tdg-83881",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

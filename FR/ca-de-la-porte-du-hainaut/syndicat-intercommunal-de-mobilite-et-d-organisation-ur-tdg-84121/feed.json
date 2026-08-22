@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Syndicat Intercommunal de Mobilité et d'Organisation Urbaine du Valenciennois",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de la Porte du Hainaut"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/simouv-horaires-theoriques-format-gtfs-et-temps-reel-format-siri-transvilles-valenciennes/20260819-075543/google-transit.zip",
+    "mdb_id": "tdg-84121",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

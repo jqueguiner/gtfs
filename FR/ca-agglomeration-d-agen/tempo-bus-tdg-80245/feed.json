@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tempo Bus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Agglomération d'Agen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/agen-gtfs-urbain/20260705-124628/agen-gtfs-urbain-ete-2026-ubi.zip",
+    "mdb_id": "tdg-80245",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

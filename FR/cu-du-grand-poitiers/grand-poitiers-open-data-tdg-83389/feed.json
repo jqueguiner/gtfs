@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Poitiers Open Data",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU du Grand Poitiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.grandpoitiers.fr/data-fair/api/v1/datasets/offre-de-transport-du-reseau-vitalis/metadata-attachments/gtfs.zip",
+    "mdb_id": "tdg-83389",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

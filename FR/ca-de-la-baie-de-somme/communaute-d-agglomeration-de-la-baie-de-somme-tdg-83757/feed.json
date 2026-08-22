@@ -2,14 +2,14 @@
   "agency": {
     "name": "Communauté d'agglomération de la Baie de Somme",
     "country": "FR",
-    "subdivision": "CA de la Baie de Somme",
-    "city": null
+    "subdivision": null,
+    "city": "CA de la Baie de Somme"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/47ead4b7-dc95-41f0-916a-7411d9f6b79b",
+    "url": "https://static.data.gouv.fr/resources/regie-des-transports-baag-gtfs/20251217-131705/gtfs-baag-17122025.zip",
     "mdb_id": "tdg-83757",
-    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+    "license": "lov2"
   },
   "bbox": null,
   "source": "mobility-database",

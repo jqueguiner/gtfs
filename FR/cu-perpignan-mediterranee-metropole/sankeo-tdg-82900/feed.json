@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sankéo",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU Perpignan Méditerranée Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eur.mecatran.com/utw/ws/gtfsfeed/static/perpignan?apiKey=612f606b5e3b0a3e6e1f441a2c4a050f6a345b55",
+    "mdb_id": "tdg-82900",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

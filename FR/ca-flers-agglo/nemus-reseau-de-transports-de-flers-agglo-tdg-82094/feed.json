@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NEMUS (Réseau de transports de Flers Agglo)",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Flers Agglo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseau-nemus/20260722-100829/gtfs-au-100726.zip",
+    "mdb_id": "tdg-82094",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

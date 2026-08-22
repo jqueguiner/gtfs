@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ENVIA",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA d'Arles-Crau-Camargue-Montagnette"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/donnees-statiques-et-temps-reels-reseau-envia/20260729-064934/gtfs-envia-20260729.zip",
+    "mdb_id": "tdg-82662",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

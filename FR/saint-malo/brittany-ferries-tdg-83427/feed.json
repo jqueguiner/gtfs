@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brittany Ferries",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Saint-Malo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/horaires-des-traversees-brittany-ferries/20260819-213127/gtfs-brittanyferries.zip",
+    "mdb_id": "tdg-83427",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

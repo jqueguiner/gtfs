@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TADAO",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA de Lens - Liévin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://chouette.enroute.mobi/api/v1/datas/opendata/gtfs.zip",
+    "mdb_id": "tdg-83643",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
