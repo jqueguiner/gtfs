@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transports Metropolitans de Barcelona (TMB)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "l'Hospitalet de Llobregat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tmb.cat/v1/static/datasets/gtfs.zip?app_id=ca07cd5b",
+    "mdb_id": "mdb-2359",
+    "license": "https://developer.tmb.cat/"
+  },
+  "bbox": {
+    "minimum_latitude": 41.287565,
+    "maximum_latitude": 41.499727,
+    "minimum_longitude": 2.046171,
+    "maximum_longitude": 2.245194
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

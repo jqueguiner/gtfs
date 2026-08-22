@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "鹿児島市船舶局",
+    "country": "JP",
+    "subdivision": "Kagoshima Prefecture",
+    "city": "Kagoshima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KagoshimaCityMaritimeBureau/AllLines.zip?date=current",
+    "mdb_id": "odpt-KagoshimaCityMaritimeBureau-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 31.592185,
+    "maximum_latitude": 31.596531,
+    "minimum_longitude": 130.562779,
+    "maximum_longitude": 130.599858
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

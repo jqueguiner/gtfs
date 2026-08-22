@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Société nationale des chemins de fer belges (NMBS-SNCB)",
+    "country": "NL",
+    "subdivision": "North Brabant",
+    "city": "Breda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.irail.be/nmbs/gtfs/latest.zip",
+    "mdb_id": "mdb-686",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.683333,
+    "maximum_latitude": 53.4563,
+    "minimum_longitude": -0.12548,
+    "maximum_longitude": 16.37901
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

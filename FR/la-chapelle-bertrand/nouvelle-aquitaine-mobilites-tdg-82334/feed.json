@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "La Chapelle-Bertrand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/73b1b1ee-2b81-445f-8930-b95a2b28a81b",
+    "mdb_id": "tdg-82334",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.632252,
+    "maximum_latitude": 47.217964,
+    "minimum_longitude": -1.542367,
+    "maximum_longitude": 0.381524
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

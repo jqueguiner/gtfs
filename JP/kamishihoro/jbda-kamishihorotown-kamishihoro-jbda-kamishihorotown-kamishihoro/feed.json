@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上士幌町",
+    "country": "JP",
+    "subdivision": "Hokkaido Prefecture",
+    "city": "Kamishihoro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamishihorotown/feeds/kamishihoro/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamishihorotown-kamishihoro",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 43.2142386,
+    "maximum_latitude": 43.2396583,
+    "minimum_longitude": 143.2797147,
+    "maximum_longitude": 143.3010322
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

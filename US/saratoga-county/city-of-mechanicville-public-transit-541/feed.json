@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Mechanicville Public Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Saratoga County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/City_of_Mechanicville_Public_Transit.zip",
+    "mdb_id": "mdb-541",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.896694,
+    "maximum_latitude": 42.910148,
+    "minimum_longitude": -73.693199,
+    "maximum_longitude": -73.682921
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

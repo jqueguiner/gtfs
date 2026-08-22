@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Entur",
+    "country": "NO",
+    "subdivision": "Agder",
+    "city": "Agder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip",
+    "mdb_id": "mdb-1078",
+    "license": "https://developer.entur.org/stops-and-timetable-data"
+  },
+  "bbox": {
+    "minimum_latitude": 50.089361,
+    "maximum_latitude": 78.246751,
+    "minimum_longitude": 4.51278,
+    "maximum_longitude": 31.11253
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

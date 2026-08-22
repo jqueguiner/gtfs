@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stratford Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Stratford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-stratford.zip",
+    "mdb_id": "tld-4744",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

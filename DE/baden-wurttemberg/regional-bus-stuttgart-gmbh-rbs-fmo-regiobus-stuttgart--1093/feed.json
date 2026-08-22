@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regional Bus Stuttgart GmbH RBS, FMO, Regiobus Stuttgart, Friedrich Müller Omnibusunternehmen",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/rbs.zip",
+    "mdb_id": "mdb-1093",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

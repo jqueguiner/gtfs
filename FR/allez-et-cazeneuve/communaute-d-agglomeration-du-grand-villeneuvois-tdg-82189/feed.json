@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Grand Villeneuvois",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Allez-et-Cazeneuve"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9248b0d3-3675-491b-8990-8058f0fdbcb5",
+    "mdb_id": "tdg-82189",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.384154,
+    "maximum_latitude": 44.44297,
+    "minimum_longitude": 0.55616,
+    "maximum_longitude": 0.755789
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

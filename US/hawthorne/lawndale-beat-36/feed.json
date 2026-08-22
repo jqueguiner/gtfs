@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lawndale Beat",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Hawthorne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cityoflawndale-ca-us/cityoflawndale-ca-us.zip",
+    "mdb_id": "mdb-36",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

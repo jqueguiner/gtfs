@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大桑村",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Kiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/okuwavillage/feeds/kuwachan-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-okuwavillage-kuwachan-bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.66165,
+    "maximum_latitude": 35.8439912669287,
+    "minimum_longitude": 137.62024,
+    "maximum_longitude": 137.716210223881
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

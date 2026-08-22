@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Butler Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Butler Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://butlerivl.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4659",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

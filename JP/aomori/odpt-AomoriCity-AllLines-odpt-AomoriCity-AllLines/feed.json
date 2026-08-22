@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "青森市企業局交通部",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Aomori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/AomoriCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-AomoriCity-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 40.738089,
+    "maximum_latitude": 40.948587,
+    "minimum_longitude": 140.648288,
+    "maximum_longitude": 140.863932
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

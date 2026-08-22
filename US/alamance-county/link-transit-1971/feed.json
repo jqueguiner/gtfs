@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Link Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Alamance County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mylinktransit.org/gtfs",
+    "mdb_id": "mdb-1971",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

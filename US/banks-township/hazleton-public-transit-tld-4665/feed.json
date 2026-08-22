@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hazleton Public Transit",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Banks Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimehpts.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4665",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

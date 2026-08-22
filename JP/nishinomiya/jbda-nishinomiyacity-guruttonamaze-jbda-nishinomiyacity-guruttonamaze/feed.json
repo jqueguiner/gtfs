@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西宮市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Nishinomiya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/guruttonamaze/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nishinomiyacity-guruttonamaze",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.810923,
+    "maximum_latitude": 34.827891,
+    "minimum_longitude": 135.315883,
+    "maximum_longitude": 135.340302
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

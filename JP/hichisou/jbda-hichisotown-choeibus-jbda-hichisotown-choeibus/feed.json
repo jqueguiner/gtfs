@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "七宗町",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Hichisou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hichisotown/feeds/choeibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hichisotown-choeibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

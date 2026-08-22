@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Community Transit",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Willmar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cctbus-mn-us/cctbus-mn-us.zip",
+    "mdb_id": "mdb-2301",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Sainte-Lizaigne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/485e9781-ac86-44c7-8289-3a7df46abe9d",
+    "mdb_id": "tdg-83531",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.826035,
+    "maximum_latitude": 47.08519,
+    "minimum_longitude": 1.91983,
+    "maximum_longitude": 2.124172
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

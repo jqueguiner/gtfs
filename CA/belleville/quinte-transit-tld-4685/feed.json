@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Quinte Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Belleville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.quintetransit.ca/gtfs/google_transit.zip",
+    "mdb_id": "tld-4685",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.9483767168978,
+    "maximum_latitude": 44.162614,
+    "minimum_longitude": -77.6059955421684,
+    "maximum_longitude": -77.132365
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

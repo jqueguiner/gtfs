@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev • Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Plurien"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/148bf3a3-792f-44e2-9757-e0cc0d83afae",
+    "mdb_id": "tdg-79528",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.453294,
+    "maximum_latitude": 48.646639,
+    "minimum_longitude": -2.562996,
+    "maximum_longitude": -2.405022
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

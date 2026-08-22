@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Needles Area Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Needles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/needles-ca-us/needles-ca-us.zip",
+    "mdb_id": "mdb-583",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

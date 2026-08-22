@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shenango Valley Shuttle Service",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Mercer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://svss.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4663",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

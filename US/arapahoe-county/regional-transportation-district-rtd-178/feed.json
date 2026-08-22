@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Transportation District (RTD)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Arapahoe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rtd-denver.com/files/gtfs/google_transit.zip",
+    "mdb_id": "mdb-178",
+    "license": "https://www.rtd-denver.com/business-center/open-spatial-data/gtfs-license-agreement"
+  },
+  "bbox": {
+    "minimum_latitude": 39.456877,
+    "maximum_latitude": 40.206556,
+    "minimum_longitude": -105.525483,
+    "maximum_longitude": -104.669533
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

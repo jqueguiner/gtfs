@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rocky Mountain National Park",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Estes Park"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/romo/rocky-mountain-national-park-shuttle.zip",
+    "mdb_id": "mdb-3211",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

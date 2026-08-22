@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Grand Poitiers Open Data",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Poitiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/82146378-f019-4048-aa16-7328081b0369",
+    "mdb_id": "tdg-83389",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.312984,
+    "maximum_latitude": 46.74892,
+    "minimum_longitude": -0.012882,
+    "maximum_longitude": 0.71406
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Concord Kannapolis Area Transit (Rider Transit)",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Cabarrus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/concordKat/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2244",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

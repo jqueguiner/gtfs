@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Space Coast Area Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Brevard County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://321transit.com/wp-content/uploads/2024/04/gtfs_151.zip",
+    "mdb_id": "ntd-40063",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 27.950475692749023,
+    "maximum_latitude": 28.754623413085938,
+    "minimum_longitude": -80.87371063232422,
+    "maximum_longitude": -80.56696319580078
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

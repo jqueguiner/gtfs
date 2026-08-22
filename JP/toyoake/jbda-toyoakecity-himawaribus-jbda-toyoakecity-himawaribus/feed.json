@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "豊明市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Toyoake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyoakecity/feeds/himawaribus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyoakecity-himawaribus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.041063,
+    "maximum_latitude": 35.0724085,
+    "minimum_longitude": 136.97576,
+    "maximum_longitude": 137.018412
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

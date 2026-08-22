@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de Bastia",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Bastia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ddbec19b-ed75-42f8-9205-573519298632",
+    "mdb_id": "tdg-83962",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 9.488801,
+    "maximum_latitude": 42.808122,
+    "minimum_longitude": 9.412804,
+    "maximum_longitude": 42.808122
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

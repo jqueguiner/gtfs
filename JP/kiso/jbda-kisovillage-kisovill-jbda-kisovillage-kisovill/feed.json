@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "木祖村",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Kiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisovillage/feeds/kisovill/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kisovillage-kisovill",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.91479604,
+    "maximum_latitude": 35.99510678,
+    "minimum_longitude": 137.72963275,
+    "maximum_longitude": 137.78488
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

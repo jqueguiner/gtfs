@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "三好市",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Higashimiyoshi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokushima-miyoshicity/feeds/miyoshicitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokushima-miyoshicity-miyoshicitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.833757,
+    "maximum_latitude": 34.060214,
+    "minimum_longitude": 133.690118,
+    "maximum_longitude": 134.089851
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

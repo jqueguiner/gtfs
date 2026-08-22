@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "石狩湾新港地域公共交通サービス推進協議会",
+    "country": "JP",
+    "subdivision": "Hokkaido Prefecture",
+    "city": "Ishikari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ishikariwanshinko/feeds/on-demandtransit_itsumo/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ishikariwanshinko-on-demandtransit_itsumo",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 43.148,
+    "maximum_latitude": 43.404,
+    "minimum_longitude": 141.2932,
+    "maximum_longitude": 141.4435
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

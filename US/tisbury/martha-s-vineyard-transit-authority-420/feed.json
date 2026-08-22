@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Martha's Vineyard Transit Authority",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Tisbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/marthasvineyard-ma-us/marthasvineyard-ma-us.zip",
+    "mdb_id": "mdb-420",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.3235,
+    "maximum_latitude": 41.48053,
+    "minimum_longitude": -70.83645,
+    "maximum_longitude": -70.51051
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

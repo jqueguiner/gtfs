@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "HANSABUSS AS",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Rae vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/hiiumaa.zip",
+    "mdb_id": "mdb-3381",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

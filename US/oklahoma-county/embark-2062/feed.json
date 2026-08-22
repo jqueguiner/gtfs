@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Embark",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "city": "Oklahoma County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mna.mecatran.com/utw/ws/gtfsfeed/static/okc?apiKey=6a3b186a334d1e3e064f42782f6002520e60394c",
+    "mdb_id": "mdb-2062",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

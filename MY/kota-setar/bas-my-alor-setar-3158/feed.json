@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Alor Setar",
+    "country": "MY",
+    "subdivision": "Kedah",
+    "city": "Kota Setar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-alor-setar",
+    "mdb_id": "mdb-3158",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

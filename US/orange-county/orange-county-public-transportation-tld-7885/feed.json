@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orange County Public Transportation",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ocpt-nc-us/ocpt-nc-us.zip",
+    "mdb_id": "tld-7885",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

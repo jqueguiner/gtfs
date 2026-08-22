@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Bergerac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f5437c89-50b3-4d35-8d38-be8b9417f7a0",
+    "mdb_id": "tdg-82373",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Occitanie / Pyrénées Méditerranée",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d747fe79-2915-4cdd-8cc5-51a810baaca5",
+    "mdb_id": "tdg-81026",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 42.367208,
+    "maximum_latitude": 45.778791,
+    "minimum_longitude": -0.505901,
+    "maximum_longitude": 4.80963
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

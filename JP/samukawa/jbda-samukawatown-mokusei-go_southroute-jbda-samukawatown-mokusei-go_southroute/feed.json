@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "寒川町",
+    "country": "JP",
+    "subdivision": "Kanagawa Prefecture",
+    "city": "Samukawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/samukawatown/feeds/mokusei-go_southroute/files/feed.zip?rid=current",
+    "mdb_id": "jbda-samukawatown-mokusei-go_southroute",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.361279,
+    "maximum_latitude": 35.372075,
+    "minimum_longitude": 139.373728,
+    "maximum_longitude": 139.387804
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

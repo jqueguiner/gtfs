@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Mayenne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/220e0fb8-fe04-4d99-9fca-cc812eaadfc3",
+    "mdb_id": "tdg-12608",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

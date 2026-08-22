@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Annapolis Transit",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Anne Arundel County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/c307923d57ab4871aff79491b4a1bfd3/data",
+    "mdb_id": "mdb-2285",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.948299,
+    "maximum_latitude": 38.994644,
+    "minimum_longitude": -76.5570743435139,
+    "maximum_longitude": -76.484032093254
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

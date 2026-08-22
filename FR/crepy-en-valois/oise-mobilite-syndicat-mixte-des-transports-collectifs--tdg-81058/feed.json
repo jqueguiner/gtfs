@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Crépy-en-Valois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ad0a4757-eb8a-4c06-b459-51442466d5c4",
+    "mdb_id": "tdg-81058",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Transit",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Hennepin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://svc.metrotransit.org/mtgtfs/gtfs.zip",
+    "mdb_id": "mdb-205",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.707082,
+    "maximum_latitude": 45.32974,
+    "minimum_longitude": -93.73042,
+    "maximum_longitude": -92.805903
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

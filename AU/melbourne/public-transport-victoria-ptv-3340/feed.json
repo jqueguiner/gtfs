@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Public Transport Victoria (PTV)",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "city": "Melbourne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip",
+    "mdb_id": "mdb-3340",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

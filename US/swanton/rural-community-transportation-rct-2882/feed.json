@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rural Community Transportation (RCT)",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Swanton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ruralcommunity-vt-us/ruralcommunity-vt-us--flex-v2.zip",
+    "mdb_id": "mdb-2882",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

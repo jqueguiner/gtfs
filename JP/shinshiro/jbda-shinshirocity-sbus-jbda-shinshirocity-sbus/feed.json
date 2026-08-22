@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "新城市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Shinshiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinshirocity/feeds/sbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shinshirocity-sbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.854678,
+    "maximum_latitude": 35.05553,
+    "minimum_longitude": 137.42109,
+    "maximum_longitude": 137.68091
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

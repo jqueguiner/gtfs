@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Jefferson Transit Authority",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/jefferson_google_transit.zip",
+    "mdb_id": "mdb-838",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.459067,
+    "maximum_latitude": 48.136621,
+    "minimum_longitude": -124.422517,
+    "maximum_longitude": -122.4963456
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

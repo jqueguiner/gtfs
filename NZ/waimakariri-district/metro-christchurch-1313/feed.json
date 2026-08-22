@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Christchurch",
+    "country": "NZ",
+    "subdivision": "Canterbury",
+    "city": "Waimakariri District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apis.metroinfo.co.nz/rti/gtfs/v1/gtfs.zip",
+    "mdb_id": "mdb-1313",
+    "license": "https://www.metroinfo.co.nz/about/developer-resources#terms"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

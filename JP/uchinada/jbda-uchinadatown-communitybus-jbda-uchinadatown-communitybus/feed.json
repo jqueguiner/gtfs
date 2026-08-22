@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "内灘町",
+    "country": "JP",
+    "subdivision": "Ishikawa Prefecture",
+    "city": "Uchinada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uchinadatown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-uchinadatown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.629283,
+    "maximum_latitude": 36.69214,
+    "minimum_longitude": 136.624669,
+    "maximum_longitude": 136.67979
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

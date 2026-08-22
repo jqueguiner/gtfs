@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上松町",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Agematsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/agematsutown/feeds/agematu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-agematsutown-agematu",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.73346431,
+    "maximum_latitude": 35.8439912669287,
+    "minimum_longitude": 137.62216212,
+    "maximum_longitude": 137.7256
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

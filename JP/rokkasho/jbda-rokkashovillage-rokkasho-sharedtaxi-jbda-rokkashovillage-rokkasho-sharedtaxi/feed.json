@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "六ヶ所村",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Rokkasho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/rokkashovillage/feeds/rokkasho-sharedtaxi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-rokkashovillage-rokkasho-sharedtaxi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.720036,
+    "maximum_latitude": 40.966994,
+    "minimum_longitude": 141.154184,
+    "maximum_longitude": 141.374717
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

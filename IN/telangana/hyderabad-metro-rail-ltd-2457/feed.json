@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hyderabad Metro Rail Ltd.",
+    "country": "IN",
+    "subdivision": "Telangana",
+    "city": "Telangana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drive.usercontent.google.com/u/0/uc?id=15yr-YE_7BerxTDXCyVOWWkw4nyQlVUpb&export=download",
+    "mdb_id": "mdb-2457",
+    "license": "https://hmrl.co.in/open-data.html"
+  },
+  "bbox": {
+    "minimum_latitude": 17.34935,
+    "maximum_latitude": 17.4988974,
+    "minimum_longitude": 78.37241,
+    "maximum_longitude": 78.5604973
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

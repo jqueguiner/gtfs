@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bus Mont-Tremblant",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Mont-Tremblant"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=tcmt6w8qbuxm",
+    "mdb_id": "tld-4761",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

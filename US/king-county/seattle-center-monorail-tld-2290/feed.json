@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Seattle Center Monorail",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "King County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Seattle-Monorail-Services/gtfs/raw/refs/heads/main/96_gtfs.zip",
+    "mdb_id": "tld-2290",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

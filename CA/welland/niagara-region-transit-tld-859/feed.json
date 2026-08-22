@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Niagara Region Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Welland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://68.71.24.110/gtfs/GTFSExport.zip",
+    "mdb_id": "tld-859",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.885027,
+    "maximum_latitude": 43.252076,
+    "minimum_longitude": -79.286779,
+    "maximum_longitude": -78.909328
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

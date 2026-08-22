@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "名鉄海上観光船株式会社",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Minamichita"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/meikaijo/feeds/ship/files/feed.zip?rid=current",
+    "mdb_id": "jbda-meikaijo-ship",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

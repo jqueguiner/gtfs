@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": "Corse-du-Sud",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/edabe706-150e-4320-a0cc-b68eed217495",
+    "mdb_id": "tdg-82305",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

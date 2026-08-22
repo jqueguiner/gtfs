@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lehigh and Northampton Transportation Authority (LANTA)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Bethlehem Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimelanta.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "ntd-30010",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.527096,
+    "maximum_latitude": 40.884444,
+    "minimum_longitude": -75.894966,
+    "maximum_longitude": -75.204932
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

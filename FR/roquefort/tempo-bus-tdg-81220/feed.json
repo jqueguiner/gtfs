@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tempo Bus",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Roquefort"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a17ab630-01bf-44ad-b99c-1e48db8eb78e",
+    "mdb_id": "tdg-81220",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.063182,
+    "maximum_latitude": 44.266159,
+    "minimum_longitude": 0.483491,
+    "maximum_longitude": 0.78342
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

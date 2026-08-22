@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "高崎市",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Takasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TakasakiCity/yosiibus.zip?date=current",
+    "mdb_id": "odpt-TakasakiCity-yosiibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.21851,
+    "maximum_latitude": 36.2947,
+    "minimum_longitude": 138.94661,
+    "maximum_longitude": 139.077761428571
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

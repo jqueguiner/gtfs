@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tangipahoa Voluntary Council on Aging",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Tangipahoa Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11510/tangipahoa_gtfs.zip",
+    "mdb_id": "ntd-60196",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 30.423525741068,
+    "maximum_latitude": 30.63399,
+    "minimum_longitude": -90.5093701220895,
+    "maximum_longitude": -90.42336
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

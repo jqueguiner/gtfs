@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Irvine",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/irvine/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-6724",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

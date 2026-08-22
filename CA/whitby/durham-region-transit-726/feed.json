@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Durham Region Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Whitby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://maps.durham.ca/OpenDataGTFS/GTFS_Durham_TXT.zip",
+    "mdb_id": "mdb-726",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.774202,
+    "maximum_latitude": 44.43565000000001,
+    "minimum_longitude": -79.258755,
+    "maximum_longitude": -78.580493
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

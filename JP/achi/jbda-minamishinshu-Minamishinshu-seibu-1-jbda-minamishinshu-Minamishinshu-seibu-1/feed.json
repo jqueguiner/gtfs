@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南信州地域交通問題協議会（南信州広域連合）",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Achi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-seibu-1/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minamishinshu-Minamishinshu-seibu-1",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

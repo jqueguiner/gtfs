@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Waltti - Kotka",
+    "country": "FI",
+    "subdivision": "Kymenlaakso",
+    "city": "Hamina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tvv.fra1.digitaloceanspaces.com/217.zip",
+    "mdb_id": "mdb-1127",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 60.4300326528421,
+    "maximum_latitude": 60.7520662688808,
+    "minimum_longitude": 26.537010806207736,
+    "maximum_longitude": 27.364290066514044
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

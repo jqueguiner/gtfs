@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "いの町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Ino"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inotown/feeds/GTFS-Inotown_HongawaArea/files/feed.zip?rid=current",
+    "mdb_id": "jbda-inotown-GTFS-Inotown_HongawaArea",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.699158,
+    "maximum_latitude": 33.751644,
+    "minimum_longitude": 133.210857,
+    "maximum_longitude": 133.30888
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

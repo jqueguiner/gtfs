@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Rhein-Sieg (VRS)",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Cologne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://download.vrsinfo.de/gtfs/google_transit.zip",
+    "mdb_id": "mdb-778",
+    "license": "https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

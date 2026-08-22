@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GoBus AS",
+    "country": "EE",
+    "subdivision": "Jõgeva maakond",
+    "city": "Põltsamaa vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/polvamaa.zip",
+    "mdb_id": "mdb-3375",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

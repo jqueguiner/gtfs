@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Whatcom Transportation Authority",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Whatcom County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/whatcomtrans/publicwtadata/raw/master/GTFS/wta_gtfs_latest.zip",
+    "mdb_id": "mdb-284",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.418167,
+    "maximum_latitude": 48.999226,
+    "minimum_longitude": -122.787478,
+    "maximum_longitude": -122.13584
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

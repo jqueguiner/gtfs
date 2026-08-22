@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Whistler Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Whistler Resort Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=44",
+    "mdb_id": "mdb-2583",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

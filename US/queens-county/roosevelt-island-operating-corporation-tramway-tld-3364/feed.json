@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Roosevelt Island Operating Corporation Tramway",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Queens County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rooseveltisland-ny-us/rooseveltisland-ny-us.zip",
+    "mdb_id": "tld-3364",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.75289992278727,
+    "maximum_latitude": 40.768973369116,
+    "minimum_longitude": -73.964212,
+    "maximum_longitude": -73.93181632437457
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ruralTRANSIT",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Thurston County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/thurston-wa-us/thurston-wa-us.zip",
+    "mdb_id": "mdb-822",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

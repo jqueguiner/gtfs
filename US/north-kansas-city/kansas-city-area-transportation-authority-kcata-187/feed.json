@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kansas City Area Transportation Authority (KCATA)",
+    "country": "US",
+    "subdivision": "Missouri",
+    "city": "North Kansas City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.kc-metro.com/gtf/google_transit.zip",
+    "mdb_id": "mdb-187",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.881483,
+    "maximum_latitude": 39.312604,
+    "minimum_longitude": -94.830952,
+    "maximum_longitude": -94.402623
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

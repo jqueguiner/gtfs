@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Bend Public Transportation Corporation",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Saint Joseph County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/transpo/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-7019",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

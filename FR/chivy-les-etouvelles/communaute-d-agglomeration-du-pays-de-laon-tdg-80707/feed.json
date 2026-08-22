@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Pays de Laon",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Chivy-lès-Étouvelles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ab24abac-0a10-4695-9d4d-c0df885b1970",
+    "mdb_id": "tdg-80707",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.544747,
+    "maximum_latitude": 49.593508,
+    "minimum_longitude": 3.584078,
+    "maximum_longitude": 3.65777
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Lunel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0d9a808a-9a9b-4fa1-b04f-339bbf2cfeb1",
+    "mdb_id": "tdg-81969",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.10890188,
+    "maximum_latitude": 45.19286988,
+    "minimum_longitude": 3.69657105,
+    "maximum_longitude": 7.61023304
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greenlink",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Greenville County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.greenlink.cadavl.com/GTA/GTFS/GTFS_GTA.zip",
+    "mdb_id": "tld-490",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

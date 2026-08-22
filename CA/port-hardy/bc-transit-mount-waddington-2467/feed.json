@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Mount Waddington)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Port Hardy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=17",
+    "mdb_id": "mdb-2467",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

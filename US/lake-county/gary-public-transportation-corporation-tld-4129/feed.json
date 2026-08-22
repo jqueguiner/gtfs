@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gary Public Transportation Corporation",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Lake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gptc-gtfs.s3.us-east-2.amazonaws.com/gptc_gtfs.zip",
+    "mdb_id": "tld-4129",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.437552,
+    "maximum_latitude": 41.693551,
+    "minimum_longitude": -87.523248,
+    "maximum_longitude": -87.222509
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

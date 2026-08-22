@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GoBus AS",
+    "country": "EE",
+    "subdivision": "Pärnu maakond",
+    "city": "Häädemeeste vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/vorumaa.zip",
+    "mdb_id": "mdb-3376",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": {
+    "minimum_latitude": 0.2206108,
+    "maximum_latitude": 59.6539063,
+    "minimum_longitude": 21.8616849,
+    "maximum_longitude": 60.5537851
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

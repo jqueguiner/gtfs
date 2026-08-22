@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev Vierzon Mobilités • Le Vib",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Vierzon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/87091347-c7fa-4e63-8fb5-005891ece43b",
+    "mdb_id": "tdg-82554",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.199833,
+    "maximum_latitude": 47.240067,
+    "minimum_longitude": 2.038361,
+    "maximum_longitude": 2.109879
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

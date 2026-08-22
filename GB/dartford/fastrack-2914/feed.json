@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fastrack",
+    "country": "GB",
+    "subdivision": "Kent",
+    "city": "Dartford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.kent-fastrack.co.uk/open-data/network/current?format=gtfs",
+    "mdb_id": "mdb-2914",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

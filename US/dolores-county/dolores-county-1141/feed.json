@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dolores County",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Dolores County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/dolorescounty-co-us/dolorescounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-1141",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

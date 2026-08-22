@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VIA Metropolitan Transit",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Bexar County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.viainfo.net/BusService/google_transit.zip",
+    "mdb_id": "tld-217",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

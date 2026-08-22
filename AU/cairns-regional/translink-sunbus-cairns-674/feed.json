@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransLink Sunbus Cairns",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Cairns Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/CNS_GTFS.zip",
+    "mdb_id": "mdb-674",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/9850f8e5-f572-4de7-97c5-84d45526f9bd"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

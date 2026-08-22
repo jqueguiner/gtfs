@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "名古屋市住宅都市局",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Nagoya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NagoyaHousingCityPlanningBureau/NagoyaSRT_AllLines.zip?date=current",
+    "mdb_id": "odpt-NagoyaHousingCityPlanningBureau-NagoyaSRT_AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.16786,
+    "maximum_latitude": 35.17151,
+    "minimum_longitude": 136.88498,
+    "maximum_longitude": 136.90878
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

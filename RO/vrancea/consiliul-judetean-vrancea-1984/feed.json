@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Consiliul Judetean Vrancea",
+    "country": "RO",
+    "subdivision": "Vrancea",
+    "city": "Vrancea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cjvrancea.ro/gtfs.zip",
+    "mdb_id": "mdb-1984",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.42141,
+    "maximum_latitude": 46.195444,
+    "minimum_longitude": 26.495361,
+    "maximum_longitude": 27.500278
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

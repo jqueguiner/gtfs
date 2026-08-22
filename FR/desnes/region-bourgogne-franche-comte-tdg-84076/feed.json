@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Desnes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4001fba7-6078-4345-8859-f424b787c3a7",
+    "mdb_id": "tdg-84076",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Shreveport and Bossier City",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Caddo Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://sportranbus.com/gtfs",
+    "mdb_id": "mdb-1060",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 32.381981,
+    "maximum_latitude": 32.561997,
+    "minimum_longitude": -93.900225,
+    "maximum_longitude": -93.628643
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

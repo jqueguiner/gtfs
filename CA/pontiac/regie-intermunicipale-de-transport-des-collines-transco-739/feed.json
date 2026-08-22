@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Régie intermunicipale de transport des Collines (Transcollines)",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Pontiac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca.zip",
+    "mdb_id": "mdb-739",
+    "license": "https://github.com/transcollines/GTFS?tab=License-1-ov-file#readme"
+  },
+  "bbox": {
+    "minimum_latitude": 45.407263,
+    "maximum_latitude": 45.919647,
+    "minimum_longitude": -77.076469,
+    "maximum_longitude": -75.6176
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

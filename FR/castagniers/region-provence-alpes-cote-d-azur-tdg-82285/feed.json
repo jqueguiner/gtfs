@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Provence-Alpes-Côte-d'Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Castagniers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/1164d75b-4a9f-4c5a-b765-31d861b34fda",
+    "mdb_id": "tdg-82285",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 42.424701,
+    "maximum_latitude": 46.302572,
+    "minimum_longitude": 2.867807,
+    "maximum_longitude": 7.610233
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

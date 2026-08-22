@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "新庄市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Shinjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinjocity/feeds/ShinjoCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shinjocity-ShinjoCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.71013,
+    "maximum_latitude": 38.8485316,
+    "minimum_longitude": 140.2747387,
+    "maximum_longitude": 140.3956459
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

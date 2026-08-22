@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Los Angeles County Metropolitan Transportation Authority (LA Metro)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/LACMTA/gtfs_rail/raw/master/gtfs_rail.zip",
+    "mdb_id": "mdb-30",
+    "license": "https://developer.metro.net/terms-conditions/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

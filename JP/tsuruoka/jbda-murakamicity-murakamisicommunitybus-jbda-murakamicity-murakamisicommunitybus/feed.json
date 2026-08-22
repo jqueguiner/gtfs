@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "村上市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Tsuruoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murakamicity/feeds/murakamisicommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-murakamicity-murakamisicommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.163968,
+    "maximum_latitude": 38.5536,
+    "minimum_longitude": 139.4287898,
+    "maximum_longitude": 139.67472
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

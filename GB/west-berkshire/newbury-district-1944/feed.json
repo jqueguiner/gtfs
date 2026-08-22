@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Newbury & District",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "West Berkshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/kennections/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1944",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.264447366,
+    "maximum_latitude": 51.540181021,
+    "minimum_longitude": -1.543161231,
+    "maximum_longitude": -0.453076189
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

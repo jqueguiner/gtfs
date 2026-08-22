@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport for Ireland (TFI)",
+    "country": "GB",
+    "subdivision": "Northern Ireland",
+    "city": "Northern Ireland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_All.zip",
+    "mdb_id": "mdb-2364",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

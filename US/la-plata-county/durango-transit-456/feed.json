@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Durango Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "La Plata County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://durangogov.org/DocumentCenter/View/17688/Durango-Transit-GTFS-Data",
+    "mdb_id": "mdb-456",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.2230341203223,
+    "maximum_latitude": 37.322395,
+    "minimum_longitude": -107.913589921756,
+    "maximum_longitude": -107.820292927192
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

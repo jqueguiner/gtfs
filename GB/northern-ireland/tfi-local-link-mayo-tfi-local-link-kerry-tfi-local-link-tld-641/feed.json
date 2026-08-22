@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TFI Local Link Mayo, TFI Local Link Kerry, TFI Local Link Cork, TFI Local Link Galway, TFI Local Link Longford Westmeath Roscommon, TFI Local Link Cavan Monaghan, TFI Local Link Tipperary, TFI Local Link Waterford, TFI Local Link Louth Meath Fingal, TFI Local Link Carlow Kilkenny Wicklow, TFI Local Link Limerick Clare, TFI Local Link Donegal Sligo Leitrim, TFI Local Link Wexford, TFI Local Link Kildare South Dublin, TFI Local Link Laois Offaly",
+    "country": "GB",
+    "subdivision": "Northern Ireland",
+    "city": "Northern Ireland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Local_Link.zip",
+    "mdb_id": "tld-641",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

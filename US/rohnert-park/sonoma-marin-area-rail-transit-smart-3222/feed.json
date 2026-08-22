@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sonoma Marin Area Rail Transit (SMART)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Rohnert Park"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=SA",
+    "mdb_id": "mdb-3222",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 37.947804843,
+    "maximum_latitude": 38.549136,
+    "minimum_longitude": -122.818517736,
+    "maximum_longitude": -122.512482504
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "UL",
+    "country": "SE",
+    "subdivision": "Stockholm County",
+    "city": "Norrtälje kommun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/ul/ul.zip",
+    "mdb_id": "mdb-3238",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 58.898416,
+    "maximum_latitude": 60.686094,
+    "minimum_longitude": 16.552368,
+    "maximum_longitude": 18.698849
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

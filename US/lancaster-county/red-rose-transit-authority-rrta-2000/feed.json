@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Red Rose Transit Authority (RRTA)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Lancaster County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://busfinder.redrosetransit.com/Infopoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2000",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.9714978343,
+    "maximum_latitude": 40.18634,
+    "minimum_longitude": -76.642207,
+    "maximum_longitude": -75.9562961829
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

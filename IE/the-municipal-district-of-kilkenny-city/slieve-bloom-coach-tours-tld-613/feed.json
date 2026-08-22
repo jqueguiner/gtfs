@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Slieve Bloom Coach Tours",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "The Municipal District of Kilkenny City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Slieve_Bloom.zip",
+    "mdb_id": "tld-613",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 52.654113,
+    "maximum_latitude": 53.53297,
+    "minimum_longitude": -7.67734,
+    "maximum_longitude": -7.10794
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

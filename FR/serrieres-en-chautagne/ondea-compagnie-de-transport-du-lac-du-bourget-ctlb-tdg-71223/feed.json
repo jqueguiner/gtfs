@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ondéa - COMPAGNIE DE TRANSPORT DU LAC DU BOURGET-CTLB",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Serrières-en-Chautagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b4e8d98c-e17a-4fb0-857f-8cb618039b2a",
+    "mdb_id": "tdg-71223",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.570356,
+    "maximum_latitude": 45.959242,
+    "minimum_longitude": 5.7786679,
+    "maximum_longitude": 6.012444
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

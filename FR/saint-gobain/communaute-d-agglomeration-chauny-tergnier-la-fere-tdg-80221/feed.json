@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'agglomération Chauny-Tergnier-La Fère",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Saint-Gobain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6b80d2f2-ecd4-4b52-b481-c8b715ae8948",
+    "mdb_id": "tdg-80221",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.5690385,
+    "maximum_latitude": 49.70362931,
+    "minimum_longitude": 3.117612626,
+    "maximum_longitude": 3.493611136
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

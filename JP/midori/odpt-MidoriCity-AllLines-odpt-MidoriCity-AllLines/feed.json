@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "みどり市",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Midori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MidoriCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-MidoriCity-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.377852,
+    "maximum_latitude": 36.580596,
+    "minimum_longitude": 139.273039,
+    "maximum_longitude": 139.396553
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

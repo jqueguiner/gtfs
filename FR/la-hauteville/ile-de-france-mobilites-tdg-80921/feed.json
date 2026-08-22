@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Île-de-France Mobilités",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "La Hauteville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/413988ed-d340-467b-8be2-7b999fcd207a",
+    "mdb_id": "tdg-80921",
+    "license": "https://wiki.lafabriquedesmobilites.fr/wiki/Licence_Mobilit%C3%A9s"
+  },
+  "bbox": {
+    "minimum_latitude": 47.96107924372578,
+    "maximum_latitude": 49.45933264969961,
+    "minimum_longitude": 1.1498558322259895,
+    "maximum_longitude": 3.56066841732662
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

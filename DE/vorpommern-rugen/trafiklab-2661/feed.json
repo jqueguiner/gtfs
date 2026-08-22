@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TrafikLab",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Vorpommern-Rügen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.resrobot.se/gtfs/sweden.zip",
+    "mdb_id": "mdb-2661",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-sverige-2/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.057719,
+    "maximum_latitude": 68.441704,
+    "minimum_longitude": 2.380513,
+    "maximum_longitude": 24.145137
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

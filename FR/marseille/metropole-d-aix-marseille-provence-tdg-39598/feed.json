@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Marseille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/cde22673-d7e4-4cbd-837f-3c8bd9fb2f9b",
+    "mdb_id": "tdg-39598",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.267632,
+    "maximum_latitude": 43.426166,
+    "minimum_longitude": 5.504352,
+    "maximum_longitude": 5.727546
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

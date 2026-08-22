@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Integrated Transit System of the South Moravian Region (IDS JMK)",
+    "country": "SK",
+    "subdivision": "Western Slovakia",
+    "city": "District of Skalica"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/379d2e9a7907460c8ca7fda1f3e84328/data",
+    "mdb_id": "mdb-2155",
+    "license": "https://data.brno.cz/datasets/379d2e9a7907460c8ca7fda1f3e84328/about"
+  },
+  "bbox": {
+    "minimum_latitude": 48.668266,
+    "maximum_latitude": 49.65112,
+    "minimum_longitude": 15.546522,
+    "maximum_longitude": 17.629908
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

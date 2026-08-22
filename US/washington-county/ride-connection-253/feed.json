@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ride Connection",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Washington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/rideconnection-or-us/rideconnection-or-us.zip",
+    "mdb_id": "mdb-253",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

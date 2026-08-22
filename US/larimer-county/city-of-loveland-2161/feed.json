@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Loveland",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Larimer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cityofloveland-co-us/cityofloveland-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2161",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.413649,
+    "maximum_latitude": 40.413649,
+    "minimum_longitude": -105.084737,
+    "maximum_longitude": -105.084737
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

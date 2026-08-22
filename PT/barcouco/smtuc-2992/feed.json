@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SMTUC",
+    "country": "PT",
+    "subdivision": "Aveiro",
+    "city": "Barcouço"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dados.gov.pt/pt/datasets/r/bdae1dd0-74e5-4c52-8234-b7cb1cf5bee2",
+    "mdb_id": "mdb-2992",
+    "license": "https://dados.gov.pt/pt/datasets/gtfs-estaticos-servicos-municipalizados-de-transportes-urbanos-de-coimbra/"
+  },
+  "bbox": {
+    "minimum_latitude": 40.107873,
+    "maximum_latitude": 40.349247,
+    "minimum_longitude": -8.550869,
+    "maximum_longitude": -8.354062
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

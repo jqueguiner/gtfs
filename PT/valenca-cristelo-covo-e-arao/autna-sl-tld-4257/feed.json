@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "AUTNA SL",
+    "country": "PT",
+    "subdivision": "Viana do Castelo",
+    "city": "Valença, Cristelo Covo e Arão"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drive.google.com/uc?export=download&id=1gah1x10RyFu7gJPweBcCXPd9vcFJFQ7c",
+    "mdb_id": "tld-4257",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.15152,
+    "maximum_latitude": 42.234795,
+    "minimum_longitude": -8.818551,
+    "maximum_longitude": -8.582454
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

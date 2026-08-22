@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pahto Public Passage",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Yakima County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pahtopublicpassage-wa-us/pahtopublicpassage-wa-us.zip",
+    "mdb_id": "mdb-2331",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

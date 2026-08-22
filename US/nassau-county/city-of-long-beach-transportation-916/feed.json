@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Long Beach Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Nassau County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/City_of_Long_Beach.zip",
+    "mdb_id": "mdb-916",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.584023,
+    "maximum_latitude": 40.593176,
+    "minimum_longitude": -73.701188,
+    "maximum_longitude": -73.577753
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

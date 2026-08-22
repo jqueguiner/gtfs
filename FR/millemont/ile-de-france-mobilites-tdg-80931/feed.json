@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Île-de-France Mobilités",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Millemont"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d34a4b53-5d6d-41b5-9cd9-bb738637b7e9",
+    "mdb_id": "tdg-80931",
+    "license": "https://wiki.lafabriquedesmobilites.fr/wiki/Licence_Mobilit%C3%A9s"
+  },
+  "bbox": {
+    "minimum_latitude": 48.0067,
+    "maximum_latitude": 49.2855,
+    "minimum_longitude": 1.3474,
+    "maximum_longitude": 3.56067
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

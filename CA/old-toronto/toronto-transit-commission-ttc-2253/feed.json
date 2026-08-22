@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Toronto Transit Commission (TTC)",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Old Toronto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/bd4809dd-e289-4de8-bbde-c5c00dafbf4f/resource/28514055-d011-4ed7-8bb0-97961dfe2b66/download/SurfaceGTFS.zip",
+    "mdb_id": "mdb-2253",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.592111,
+    "maximum_latitude": 43.90975,
+    "minimum_longitude": -79.649908,
+    "maximum_longitude": -79.123111
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

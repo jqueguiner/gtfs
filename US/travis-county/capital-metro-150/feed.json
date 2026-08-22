@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Metro",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Travis County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.texas.gov/download/r4v4-vz24/application/zip",
+    "mdb_id": "mdb-150",
+    "license": "https://www.capmetro.org/metrolabs/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

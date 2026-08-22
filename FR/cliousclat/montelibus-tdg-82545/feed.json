@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Montélibus",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Cliousclat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/974cede8-3a14-4c7b-b94d-b2655c31932e",
+    "mdb_id": "tdg-82545",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.457462,
+    "maximum_latitude": 44.734587,
+    "minimum_longitude": 4.593658,
+    "maximum_longitude": 5.008778
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

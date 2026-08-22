@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lurraldebus Ekialdebus",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Astigarraga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1201",
+    "mdb_id": "mdb-2731",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.28029255164625,
+    "maximum_latitude": 43.38368016946583,
+    "minimum_longitude": -2.0092718996125347,
+    "maximum_longitude": -1.7858035573550135
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

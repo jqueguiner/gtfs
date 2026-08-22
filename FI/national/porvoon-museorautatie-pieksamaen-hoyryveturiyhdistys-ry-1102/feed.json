@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Porvoon Museorautatie, Pieksämäen Höyryveturiyhdistys ry",
+    "country": "FI",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rata.digitraffic.fi/api/v1/trains/gtfs-passenger.zip",
+    "mdb_id": "mdb-1102",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

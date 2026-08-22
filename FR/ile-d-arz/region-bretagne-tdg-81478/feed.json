@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Île-d'Arz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8a2c923c-d308-4391-801e-2369cdde7749",
+    "mdb_id": "tdg-81478",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

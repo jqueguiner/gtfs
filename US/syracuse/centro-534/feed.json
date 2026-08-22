@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Centro",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Syracuse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.centro.org/CentroGTFS/CentroGTFS.zip",
+    "mdb_id": "mdb-534",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.441332,
+    "maximum_latitude": 43.479595,
+    "minimum_longitude": -76.611471,
+    "maximum_longitude": -75.164526
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

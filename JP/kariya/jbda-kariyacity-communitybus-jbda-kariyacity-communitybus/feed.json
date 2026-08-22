@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "刈谷市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Kariya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kariyacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kariyacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.953765,
+    "maximum_latitude": 35.060542,
+    "minimum_longitude": 136.984662,
+    "maximum_longitude": 137.061507
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

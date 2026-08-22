@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Münchner Verkehrsgesellschaft (MVG)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Munich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mvg.de/static/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2333",
+    "license": "https://www.mvg.de/verbindungen/Fahrplandaten.html"
+  },
+  "bbox": {
+    "minimum_latitude": 48.04187397,
+    "maximum_latitude": 48.26468205,
+    "minimum_longitude": 11.33136696,
+    "maximum_longitude": 11.7220353
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

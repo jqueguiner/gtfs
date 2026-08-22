@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clean Air Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Barbara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/production/CleanAirExpressFaresv2.zip",
+    "mdb_id": "mdb-1872",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.4193842989326,
+    "maximum_latitude": 34.9019699004915,
+    "minimum_longitude": -120.459583997726,
+    "maximum_longitude": -119.685447220772
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

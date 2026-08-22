@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "安中市",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Annaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/annakacity/feeds/annakashi-rosenbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-annakacity-annakashi-rosenbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.2985554,
+    "maximum_latitude": 36.3620141,
+    "minimum_longitude": 138.7872241,
+    "maximum_longitude": 138.9338058
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

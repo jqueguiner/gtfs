@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ALTERNEO",
+    "country": "FR",
+    "subdivision": "CA CIVIS (Communauté Intercommunale des Villes Solidaires)",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80676/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80676",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

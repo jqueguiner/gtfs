@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Azienda del Consorzio Trasporti Veneziano (ACTV) Navigazione",
+    "country": "IT",
+    "subdivision": "Veneto",
+    "city": "Venice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://actv.avmspa.it/sites/default/files/attachments/opendata/navigazione/actv_nav.zip",
+    "mdb_id": "mdb-1063",
+    "license": "https://actv.avmspa.it/it/content/catalogo-dei-dati-metadati-e-banche-dati-actv"
+  },
+  "bbox": {
+    "minimum_latitude": 45.22369,
+    "maximum_latitude": 45.49509,
+    "minimum_longitude": 12.28028,
+    "maximum_longitude": 12.447123
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

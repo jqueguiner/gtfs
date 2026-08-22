@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regional Transportation Agency of Central Maryland (RTA)",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Howard County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/centralmarylandrta-md-us/centralmarylandrta-md-us.zip",
+    "mdb_id": "mdb-489",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

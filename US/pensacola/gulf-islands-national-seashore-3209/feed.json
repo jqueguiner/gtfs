@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gulf Islands National Seashore",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Pensacola"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/guis/guis-ferry-service-fl.zip",
+    "mdb_id": "mdb-3209",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 30.330299,
+    "maximum_latitude": 30.404776423603,
+    "minimum_longitude": -87.288916,
+    "maximum_longitude": -87.1414496700348
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

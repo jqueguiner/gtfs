@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "京成バス千葉ウエスト株式会社",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Ichikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KeiseiTransitBus/AllLines.zip?date=current",
+    "mdb_id": "odpt-KeiseiTransitBus-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.635399,
+    "maximum_latitude": 35.728658,
+    "minimum_longitude": 139.88383,
+    "maximum_longitude": 139.956302
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

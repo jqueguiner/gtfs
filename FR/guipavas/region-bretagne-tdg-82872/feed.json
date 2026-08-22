@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Guipavas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/073a6dbc-2bef-4088-afe4-68a29dd4e796",
+    "mdb_id": "tdg-82872",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

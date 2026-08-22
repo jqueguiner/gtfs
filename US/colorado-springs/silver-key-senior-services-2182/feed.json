@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Silver Key Senior Services",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Colorado Springs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/silverkey-co-us/silverkey-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2182",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

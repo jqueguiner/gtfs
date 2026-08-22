@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Albarracín Movilidad (Buses from the Albarracín mountain range to Teruel (C10))",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Teruel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2807",
+    "mdb_id": "mdb-2807",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

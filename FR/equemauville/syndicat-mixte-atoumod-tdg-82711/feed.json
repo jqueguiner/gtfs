@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Équemauville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/82711/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-82711",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.383285,
+    "maximum_latitude": 49.424779,
+    "minimum_longitude": 0.203247,
+    "maximum_longitude": 0.265582
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

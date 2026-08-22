@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "荒川区",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Arakawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/arakawacity/feeds/sakura/files/feed.zip?rid=current",
+    "mdb_id": "jbda-arakawacity-sakura",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7334964017327,
+    "maximum_latitude": 35.743620784371,
+    "minimum_longitude": 139.777873724969,
+    "maximum_longitude": 139.798597452789
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Àrea Metropolitana de Barcelona (AMB)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barberà del Vallès"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ambmobilitat.cat/OpenData/google_transit.zip",
+    "mdb_id": "mdb-892",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.26251865,
+    "maximum_latitude": 41.52735632,
+    "minimum_longitude": 1.8466579,
+    "maximum_longitude": 2.29566803
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

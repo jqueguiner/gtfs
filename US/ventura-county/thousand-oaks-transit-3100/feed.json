@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Thousand Oaks Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ventura County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/thousandoaks-ca-us/thousandoaks-ca-us.zip",
+    "mdb_id": "mdb-3100",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

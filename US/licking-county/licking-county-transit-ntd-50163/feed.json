@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Licking County Transit",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Licking County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transit.lickingcounty.gov/api/exports/gtfs",
+    "mdb_id": "ntd-50163",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

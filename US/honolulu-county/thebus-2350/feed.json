@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TheBus",
+    "country": "US",
+    "subdivision": "Hawaii",
+    "city": "Honolulu County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.thebus.org/transitdata/production/google_transit.zip",
+    "mdb_id": "mdb-2350",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 21.255957,
+    "maximum_latitude": 21.70332,
+    "minimum_longitude": -158.228463,
+    "maximum_longitude": -157.662429
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

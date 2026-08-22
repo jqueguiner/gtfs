@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Empresa Municipal de Transportes de Fuenlabrada (EMTF)",
+    "country": "ES",
+    "subdivision": "Community of Madrid",
+    "city": "Fuenlabrada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.control.optibus.co/opendata/v1/gtfs?uid=c-5cfcd2d1",
+    "mdb_id": "mdb-2400",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

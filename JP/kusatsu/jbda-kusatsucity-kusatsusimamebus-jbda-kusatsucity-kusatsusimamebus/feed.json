@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "草津市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Kusatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kusatsucity/feeds/kusatsusimamebus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kusatsucity-kusatsusimamebus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.97294519,
+    "maximum_latitude": 35.0588887612292,
+    "minimum_longitude": 135.916639957914,
+    "maximum_longitude": 135.9666837
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dublin Bus Nitelink",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Nitelink.zip",
+    "mdb_id": "tld-635",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 53.128801,
+    "maximum_latitude": 53.581822,
+    "minimum_longitude": -6.501078,
+    "maximum_longitude": -6.055804
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

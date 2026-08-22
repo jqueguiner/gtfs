@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Dommartin-lès-Toul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80463/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80463",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.6195479,
+    "maximum_latitude": 48.8405055,
+    "minimum_longitude": 5.7175131,
+    "maximum_longitude": 6.0312941
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

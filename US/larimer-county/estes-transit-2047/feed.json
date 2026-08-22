@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Estes Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Larimer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/estestransit-co-us/estestransit-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2047",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

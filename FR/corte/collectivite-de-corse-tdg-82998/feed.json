@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Corte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ba2f71b6-23ca-4b51-b319-bd9576933d94",
+    "mdb_id": "tdg-82998",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

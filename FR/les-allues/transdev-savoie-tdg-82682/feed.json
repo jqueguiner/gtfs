@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev Savoie",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Les Allues"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/092c3d95-d415-46c6-a07f-92d6e45453b1",
+    "mdb_id": "tdg-82682",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.370023,
+    "maximum_latitude": 45.428734,
+    "minimum_longitude": 6.553629,
+    "maximum_longitude": 6.5830958
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

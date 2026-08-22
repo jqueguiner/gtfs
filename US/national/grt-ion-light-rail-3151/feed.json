@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GRT ION Light Rail",
+    "country": "US",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webapps.regionofwaterloo.ca/api/grt-routes/api/staticfeeds/2",
+    "mdb_id": "mdb-3151",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

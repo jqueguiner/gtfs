@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "赤穂市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Ako"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akocity/feeds/yuranosuke/files/feed.zip?rid=current",
+    "mdb_id": "jbda-akocity-yuranosuke",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.72685,
+    "maximum_latitude": 34.848352,
+    "minimum_longitude": 134.324125,
+    "maximum_longitude": 134.455791
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

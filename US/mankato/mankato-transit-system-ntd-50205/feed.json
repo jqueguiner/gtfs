@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mankato Transit System",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Mankato"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://content.mankatomn.gov/transit/google_transit.zip",
+    "mdb_id": "ntd-50205",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

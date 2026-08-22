@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trans-Landes",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Biscarrosse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7e4a061d-60d8-498b-aee1-b4f23d942a0c",
+    "mdb_id": "tdg-83203",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.383747,
+    "maximum_latitude": 44.456054,
+    "minimum_longitude": -1.2511218,
+    "maximum_longitude": -1.1477709
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lake County Connection",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Lake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ridelakexpress.com/gtfs/gtfs.zip",
+    "mdb_id": "mdb-2255",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 28.346737,
+    "maximum_latitude": 28.961874,
+    "minimum_longitude": -81.9662767,
+    "maximum_longitude": -81.590085
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "加越能バス",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Nanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kaetsunou/feeds/kaetsunouippan/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kaetsunou-kaetsunouippan",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

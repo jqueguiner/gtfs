@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fullington Trailways",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Luzerne County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Fullington_Trailways.zip",
+    "mdb_id": "tld-4379",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.952915,
+    "maximum_latitude": 42.883265,
+    "minimum_longitude": -79.992859,
+    "maximum_longitude": -73.9905
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

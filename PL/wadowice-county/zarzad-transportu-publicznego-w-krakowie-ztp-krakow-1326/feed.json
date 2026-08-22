@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Publicznego w Krakowie (ZTP Kraków)",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Wadowice County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ztp.krakow.pl/GTFS_KRK_A.zip",
+    "mdb_id": "mdb-1326",
+    "license": "https://ztp.krakow.pl"
+  },
+  "bbox": {
+    "minimum_latitude": 49.90249,
+    "maximum_latitude": 50.24532,
+    "minimum_longitude": 19.58379,
+    "maximum_longitude": 20.35261
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

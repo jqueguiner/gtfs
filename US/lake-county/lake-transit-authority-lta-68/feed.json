@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lake Transit Authority (LTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Lake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/laketransit-ca-us/laketransit-ca-us.zip",
+    "mdb_id": "mdb-68",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

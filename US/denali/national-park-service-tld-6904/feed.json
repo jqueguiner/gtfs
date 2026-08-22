@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "National Park Service",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Denali"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/dena/dena-shuttle.zip",
+    "mdb_id": "tld-6904",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 63.715784,
+    "maximum_latitude": 63.739794,
+    "minimum_longitude": -149.291575,
+    "maximum_longitude": -148.893876
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

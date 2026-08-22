@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lower Columbia CAP (Community Action Program)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Cowlitz County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lowercolumbiacap-wa-us/lowercolumbiacap-wa-us.zip",
+    "mdb_id": "mdb-568",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.6906915250296,
+    "maximum_latitude": 46.283358015664014,
+    "minimum_longitude": -122.9345491047129,
+    "maximum_longitude": -122.66373300428032
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

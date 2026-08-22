@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "階上町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hashikami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hashikamitown/feeds/hashikamibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hashikamitown-hashikamibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.3913937798358,
+    "maximum_latitude": 40.4761158336157,
+    "minimum_longitude": 141.519864070644,
+    "maximum_longitude": 141.679433299838
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

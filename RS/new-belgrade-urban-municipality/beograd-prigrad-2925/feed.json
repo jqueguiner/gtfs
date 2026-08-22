@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Beograd Prigrad",
+    "country": "RS",
+    "subdivision": "City of Belgrade",
+    "city": "New Belgrade Urban Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.rs/sr/datasets/r/60f82229-16c7-4939-961b-2c24873d3e06",
+    "mdb_id": "mdb-2925",
+    "license": "https://data.gov.rs/sr/datasets/prigradski-javni-prevoz-u-u-beogradu-gtfs/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.2709773824,
+    "maximum_latitude": 44.8780724394,
+    "minimum_longitude": 19.988079,
+    "maximum_longitude": 20.8161014424
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

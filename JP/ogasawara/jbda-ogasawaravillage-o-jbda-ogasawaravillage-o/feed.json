@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "小笠原村",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Ogasawara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ogasawaravillage/feeds/o/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ogasawaravillage-o",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 27.060263,
+    "maximum_latitude": 27.100962,
+    "minimum_longitude": 142.189546,
+    "maximum_longitude": 142.207259
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

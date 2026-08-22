@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prowers Area Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Prowers County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/prowerscounty-co-us/prowerscounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2049",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

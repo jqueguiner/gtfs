@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "八重瀬町",
+    "country": "JP",
+    "subdivision": "Okinawa Prefecture",
+    "city": "Yaese"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yaesetown/feeds/yaese-town-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yaesetown-yaese-town-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 26.1136271,
+    "maximum_latitude": 26.1786485,
+    "minimum_longitude": 127.7004127,
+    "maximum_longitude": 127.7602764
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

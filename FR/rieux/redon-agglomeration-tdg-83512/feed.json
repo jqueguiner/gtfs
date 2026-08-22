@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "REDON Agglomération",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Rieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83512/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83512",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.6297489,
+    "maximum_latitude": 47.6945251,
+    "minimum_longitude": -2.1735779,
+    "maximum_longitude": -2.0003096
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

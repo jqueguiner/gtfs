@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "さいたま市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Saitama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/miyaharanakayoshigou/files/feed.zip?rid=current",
+    "mdb_id": "jbda-saitamacity-miyaharanakayoshigou",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.932901,
+    "maximum_latitude": 35.963853,
+    "minimum_longitude": 139.606519,
+    "maximum_longitude": 139.620295
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

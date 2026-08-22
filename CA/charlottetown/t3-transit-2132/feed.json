@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "T3 Transit",
+    "country": "CA",
+    "subdivision": "Prince Edward Island",
+    "city": "Charlottetown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/coachatlantic-pe-ca/coachatlantic-pe-ca.zip",
+    "mdb_id": "mdb-2132",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

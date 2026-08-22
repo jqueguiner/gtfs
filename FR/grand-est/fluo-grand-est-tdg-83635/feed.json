@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83635/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83635",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 50.138498,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 8.20103
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lulu en Bus (Ex. Lunéo)",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Chanteheux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/94b9beba-c897-46ca-98a4-a78bf320047a",
+    "mdb_id": "tdg-83509",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

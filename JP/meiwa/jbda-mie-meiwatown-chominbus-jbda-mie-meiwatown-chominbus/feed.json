@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "明和町",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Meiwa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mie-meiwatown/feeds/chominbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-mie-meiwatown-chominbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.5172666438939,
+    "maximum_latitude": 34.5862286499274,
+    "minimum_longitude": 136.605346020832,
+    "maximum_longitude": 136.659454
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

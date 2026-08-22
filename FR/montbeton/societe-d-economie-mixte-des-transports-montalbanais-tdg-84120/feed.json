@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Société d'économie Mixte des Transports Montalbanais",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Montbeton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b3f5eb5a-002b-4394-af78-83ba9da1dace",
+    "mdb_id": "tdg-84120",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.917671,
+    "maximum_latitude": 44.074894,
+    "minimum_longitude": 1.278213,
+    "maximum_longitude": 1.469691
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

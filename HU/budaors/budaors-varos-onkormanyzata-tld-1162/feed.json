@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Budaörs Város Önkormányzata",
+    "country": "HU",
+    "subdivision": "Pest",
+    "city": "Budaörs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://armadina-transit.fra1.digitaloceanspaces.com/budaors.zip",
+    "mdb_id": "tld-1162",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.435411,
+    "maximum_latitude": 47.467701,
+    "minimum_longitude": 18.918696,
+    "maximum_longitude": 18.980891
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

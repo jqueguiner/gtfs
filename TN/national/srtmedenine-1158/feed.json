@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SRTMedenine",
+    "country": "TN",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/srtmedenine/1204/20190801/gtfs.zip",
+    "mdb_id": "mdb-1158",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 32.010672,
+    "maximum_latitude": 34.722848,
+    "minimum_longitude": 9.983225,
+    "maximum_longitude": 11.5514679
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

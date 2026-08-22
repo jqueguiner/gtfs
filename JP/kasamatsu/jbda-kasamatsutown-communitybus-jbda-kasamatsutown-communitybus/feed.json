@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "笠松町",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Kasamatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kasamatsutown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kasamatsutown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.3462622625949,
+    "maximum_latitude": 35.3800646826496,
+    "minimum_longitude": 136.735119166118,
+    "maximum_longitude": 136.819315180627
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Concho Valley Transit District",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Fulton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/conchovt/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-5864",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西讃観光",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Zentsuji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/seisan-kanko/feeds/seisankanko_limousine/files/feed.zip?rid=current",
+    "mdb_id": "jbda-seisan-kanko-seisankanko_limousine",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.9796555418435,
+    "maximum_latitude": 34.268395,
+    "minimum_longitude": 133.541702944741,
+    "maximum_longitude": 134.01758
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

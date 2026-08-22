@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Automobilistico",
+    "country": "IT",
+    "subdivision": "Veneto",
+    "city": "Fossò"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://actv.avmspa.it/sites/default/files/attachments/opendata/automobilistico/actv_aut.zip",
+    "mdb_id": "mdb-1062",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

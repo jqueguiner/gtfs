@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "万葉線",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Takaoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/manyosen/feeds/manyosen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-manyosen-manyosen",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.7415838010496,
+    "maximum_latitude": 36.7890394785136,
+    "minimum_longitude": 137.013049,
+    "maximum_longitude": 137.111771964297
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

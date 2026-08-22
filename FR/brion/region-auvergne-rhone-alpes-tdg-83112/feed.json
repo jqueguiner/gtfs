@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Brion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c379471b-c554-4838-9c00-39d7ced7b53a",
+    "mdb_id": "tdg-83112",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

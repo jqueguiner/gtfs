@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "十和田観光電鉄株式会社",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Towada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/towadakankodentetsu/feeds/toutetsu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-towadakankodentetsu-toutetsu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.494243,
+    "maximum_latitude": 40.969311,
+    "minimum_longitude": 140.694875,
+    "maximum_longitude": 141.51329
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

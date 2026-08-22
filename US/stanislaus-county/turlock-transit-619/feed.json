@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Turlock Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Stanislaus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/turlock-ca-us/turlock-ca-us.zip",
+    "mdb_id": "mdb-619",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

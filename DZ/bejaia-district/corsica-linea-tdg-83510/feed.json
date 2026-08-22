@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CORSICA LINEA",
+    "country": "DZ",
+    "subdivision": "Bejaia",
+    "city": "Bejaia District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/13977931-86ae-4b7a-9598-d222333a5fbd",
+    "mdb_id": "tdg-83510",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 36.7524995535597,
+    "maximum_latitude": 43.4044930584768,
+    "minimum_longitude": 3.061988720729638,
+    "maximum_longitude": 10.297489
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

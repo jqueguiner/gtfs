@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Williamsburg Area Transit Authority",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "James City County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.wata.cadavl.com/WATA/GTFS/GTFS_WATA.zip",
+    "mdb_id": "mdb-2649",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

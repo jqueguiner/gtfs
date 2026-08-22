@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "美濃加茂市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Minokamo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minokamocity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minokamocity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.418015,
+    "maximum_latitude": 35.5401079,
+    "minimum_longitude": 136.965418,
+    "maximum_longitude": 137.079938472222
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Georgia Tech Stinger Bus",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "DeKalb County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus.gatech.edu/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "tld-478_1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

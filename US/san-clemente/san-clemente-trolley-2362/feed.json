@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "San Clemente Trolley",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Clemente"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sctrolley.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "mdb-2362",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.4053777091,
+    "maximum_latitude": 33.4562876419,
+    "minimum_longitude": -117.65951,
+    "maximum_longitude": -117.5977120714
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

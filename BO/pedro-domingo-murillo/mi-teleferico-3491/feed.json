@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mi Teleférico",
+    "country": "BO",
+    "subdivision": "La Paz",
+    "city": "Pedro Domingo Murillo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datosbolivia.github.io/gtfs/mi-teleferico.zip",
+    "mdb_id": "mdb-3491",
+    "license": "https://spdx.org/licenses/CC-BY-4.0.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

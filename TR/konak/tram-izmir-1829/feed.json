@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TRAM İZMİR",
+    "country": "TR",
+    "subdivision": "Izmir",
+    "city": "Konak"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tramizmir.com/gtfs/rail-tramizmir-gtfs.zip",
+    "mdb_id": "mdb-1829",
+    "license": "https://acikveri.bizizmir.com/dataset/toplu-ulasim-gtfs-verileri/resource/87cf8842-8d4b-4b09-b34f-5c8a4c9478e1"
+  },
+  "bbox": {
+    "minimum_latitude": 38.397748,
+    "maximum_latitude": 38.5071,
+    "minimum_longitude": 27.0302,
+    "maximum_longitude": 27.171507
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

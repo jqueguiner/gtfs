@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hamilton Street Railway",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Hamilton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.hamilton.ca/GTFS-Static/google_transit.zip",
+    "mdb_id": "mdb-2618",
+    "license": "https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions"
+  },
+  "bbox": {
+    "minimum_latitude": 43.156343,
+    "maximum_latitude": 43.337134,
+    "minimum_longitude": -80.031354,
+    "maximum_longitude": -79.63931
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

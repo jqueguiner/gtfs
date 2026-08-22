@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Campus Area Rapid Transit (CART)",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "city": "Norman"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.cartgps.com/gtfs",
+    "mdb_id": "mdb-182",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.182978,
+    "maximum_latitude": 35.209562,
+    "minimum_longitude": -97.451474,
+    "maximum_longitude": -97.435609
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

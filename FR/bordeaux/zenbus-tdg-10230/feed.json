@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Bordeaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4cb2f0a9-d3d8-402b-b0bb-afafb741e5f1",
+    "mdb_id": "tdg-10230",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

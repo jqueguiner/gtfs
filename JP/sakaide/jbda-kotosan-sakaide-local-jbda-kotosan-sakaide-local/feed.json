@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "琴参バス株式会社",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Sakaide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kotosan/feeds/sakaide-local/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kotosan-sakaide-local",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.2090300480715,
+    "maximum_latitude": 34.4660636906209,
+    "minimum_longitude": 133.801585926578,
+    "maximum_longitude": 133.931863312269
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

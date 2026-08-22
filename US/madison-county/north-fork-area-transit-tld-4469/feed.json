@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Fork Area Transit",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Madison County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/northfork/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4469",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

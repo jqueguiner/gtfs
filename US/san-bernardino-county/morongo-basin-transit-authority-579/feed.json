@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Morongo Basin Transit Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Bernardino County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/morongobasin-ca-us/morongobasin-ca-us.zip",
+    "mdb_id": "mdb-579",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

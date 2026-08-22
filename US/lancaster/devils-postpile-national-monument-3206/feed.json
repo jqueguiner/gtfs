@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Devils Postpile National Monument",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Lancaster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/depo/reds-meadow-shuttle.zip",
+    "mdb_id": "mdb-3206",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.696209,
+    "maximum_latitude": 39.5348679,
+    "minimum_longitude": -119.7755792,
+    "maximum_longitude": -117.8168317
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

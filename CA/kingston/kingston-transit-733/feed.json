@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kingston Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Kingston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.cityofkingston.ca/gtfs/gtfs.zip",
+    "mdb_id": "mdb-733",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.17952,
+    "maximum_latitude": 44.27897,
+    "minimum_longitude": -76.78815,
+    "maximum_longitude": -76.43906
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

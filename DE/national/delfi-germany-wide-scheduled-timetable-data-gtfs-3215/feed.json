@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "DELFI Germany-wide scheduled timetable data (GTFS)",
+    "country": "DE",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.opendata-oepnv.de/index.php?id=1384&tx_vrrkit_view%5Bsharing%5D=eyJkYXRhc2V0IjoiZGV1dHNjaGxhbmR3ZWl0ZS1zb2xsZmFocnBsYW5kYXRlbi1ndGZzIiwidXNlcklkIjo1MDM4fQ%3D%3D&tx_vrrkit_view%5Baction%5D=download&tx_vrrkit_view%5Bcontroller%5D=View",
+    "mdb_id": "mdb-3215",
+    "license": "http://www.opendefinition.org/licenses/cc-by"
+  },
+  "bbox": {
+    "minimum_latitude": 39.084388,
+    "maximum_latitude": 62.897936,
+    "minimum_longitude": -8.849014,
+    "maximum_longitude": 159.282178
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

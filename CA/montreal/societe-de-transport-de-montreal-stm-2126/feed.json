@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Société de transport de Montréal (STM)",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stm.info/sites/default/files/gtfs/gtfs_stm.zip",
+    "mdb_id": "mdb-2126",
+    "license": "https://www.stm.info/en/about/developers/terms-use"
+  },
+  "bbox": {
+    "minimum_latitude": 45.402668,
+    "maximum_latitude": 45.701116,
+    "minimum_longitude": -73.966098,
+    "maximum_longitude": -73.480581
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

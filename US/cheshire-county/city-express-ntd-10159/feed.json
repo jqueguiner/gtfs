@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City Express",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Cheshire County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.swrpc.org/wp-content/uploads/2024/03/HCS_GTFS.zip",
+    "mdb_id": "ntd-10159",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.9097752,
+    "maximum_latitude": 42.962833,
+    "minimum_longitude": -72.327253,
+    "maximum_longitude": -72.267388909
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

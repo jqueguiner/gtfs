@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TLP Mobilités",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Aureilhan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/84f7501c-de7b-46d9-8e0c-14c30d9fa58b",
+    "mdb_id": "tdg-83134",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.083811,
+    "maximum_latitude": 43.294371,
+    "minimum_longitude": -0.078158,
+    "maximum_longitude": 0.122453
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Gentioux-Pigerolles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b3f2f823-fe55-4265-9efe-605d8156dea2",
+    "mdb_id": "tdg-82330",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SNCF",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Maurecourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/1a1eb5ee-6895-4895-a18e-e87827fff0be",
+    "mdb_id": "tdg-67595",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.96107924372578,
+    "maximum_latitude": 49.42633975667528,
+    "minimum_longitude": 1.1498558322259895,
+    "maximum_longitude": 3.512704589147005
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

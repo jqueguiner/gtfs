@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Alexandria Transit Company (DASH)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Alexandria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://dashbus.com/google_transit.zip",
+    "mdb_id": "mdb-482",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.797661,
+    "maximum_latitude": 38.869044,
+    "minimum_longitude": -77.142937,
+    "maximum_longitude": -77.040534
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

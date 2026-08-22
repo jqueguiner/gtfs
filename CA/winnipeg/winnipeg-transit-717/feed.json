@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Winnipeg Transit",
+    "country": "CA",
+    "subdivision": "Manitoba",
+    "city": "Winnipeg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.winnipegtransit.com/google_transit.zip",
+    "mdb_id": "mdb-717",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.763940715545736,
+    "maximum_latitude": 49.96947367856984,
+    "minimum_longitude": -97.32098472682176,
+    "maximum_longitude": -96.96269333563112
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

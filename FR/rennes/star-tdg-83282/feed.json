@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STAR",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Rennes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ef4779c4-d066-40d8-b8d9-fb8c7eea8820",
+    "mdb_id": "tdg-83282",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

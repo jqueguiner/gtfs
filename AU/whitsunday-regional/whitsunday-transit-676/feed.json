@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Whitsunday Transit",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Whitsunday Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/WHT_GTFS.zip",
+    "mdb_id": "mdb-676",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -20.409842,
+    "maximum_latitude": -20.266979,
+    "minimum_longitude": 148.572569,
+    "maximum_longitude": 148.785562
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

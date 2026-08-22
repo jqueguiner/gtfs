@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société de transport de Laval",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Deux-Montagnes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stlaval.ca/datas/opendata/GTF_STL.zip",
+    "mdb_id": "mdb-3190",
+    "license": "https://stlaval.ca/a-propos/diffusion/donnees-ouvertes"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

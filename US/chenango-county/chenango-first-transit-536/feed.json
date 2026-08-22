@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chenango First Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Chenango County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Chenango_First_Transit.zip",
+    "mdb_id": "mdb-536",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.22937,
+    "maximum_latitude": 42.739524,
+    "minimum_longitude": -75.808468,
+    "maximum_longitude": -75.331977
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

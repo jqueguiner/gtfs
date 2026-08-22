@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BC Transit (Bulkley-Nechako | Prince George)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Prince George"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=22",
+    "mdb_id": "mdb-2510",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": {
+    "minimum_latitude": 53.81656,
+    "maximum_latitude": 54.78534,
+    "minimum_longitude": -127.16682,
+    "maximum_longitude": -122.73791
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

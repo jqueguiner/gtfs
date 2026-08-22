@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Camarillo Area Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Camarillo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/production/CamarilloGTFS.zip",
+    "mdb_id": "mdb-2234",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

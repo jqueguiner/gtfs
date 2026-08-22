@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Kingsport",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Kingsport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transloc.com/gtfs/kats.zip",
+    "mdb_id": "ntd-40080",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

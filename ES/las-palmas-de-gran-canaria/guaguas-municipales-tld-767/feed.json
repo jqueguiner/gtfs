@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Guaguas Municipales",
+    "country": "ES",
+    "subdivision": "Canary Islands",
+    "city": "Las Palmas de Gran Canaria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.guaguas.com/transit/google_transit.zip",
+    "mdb_id": "tld-767",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

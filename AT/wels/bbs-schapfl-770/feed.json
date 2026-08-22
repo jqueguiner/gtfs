@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BBS Schapfl",
+    "country": "AT",
+    "subdivision": "Upper Austria",
+    "city": "Wels"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/ding.zip",
+    "mdb_id": "mdb-770",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 55.66449,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 26.026709
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

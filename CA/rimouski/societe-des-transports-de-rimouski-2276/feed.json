@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société des transports de Rimouski",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Rimouski"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.donneesquebec.ca/recherche/dataset/d2d92b84-4361-42f0-81eb-3c395bc54597/resource/bd4021ba-d3ae-4d3b-b8fd-016405166761/download/gtfsrimouskibus.zip",
+    "mdb_id": "mdb-2276",
+    "license": "https://www.donneesquebec.ca/recherche/dataset/transport-collectif/resource/bd4021ba-d3ae-4d3b-b8fd-016405166761"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

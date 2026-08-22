@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SYTRAL Mobilités",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Neyron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/abebedc6-28cf-4e2e-9c64-db57a40156f8",
+    "mdb_id": "tdg-81943",
+    "license": "https://wiki.lafabriquedesmobilites.fr/wiki/Licence_Mobilit%C3%A9s"
+  },
+  "bbox": {
+    "minimum_latitude": 45.52056,
+    "maximum_latitude": 46.16879,
+    "minimum_longitude": 4.06207,
+    "maximum_longitude": 5.30457
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

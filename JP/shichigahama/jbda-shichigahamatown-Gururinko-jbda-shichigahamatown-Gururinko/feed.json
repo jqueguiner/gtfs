@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "七ヶ浜町",
+    "country": "JP",
+    "subdivision": "Miyagi Prefecture",
+    "city": "Shichigahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shichigahamatown/feeds/Gururinko/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shichigahamatown-Gururinko",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.2799470210836,
+    "maximum_latitude": 38.3194305298886,
+    "minimum_longitude": 141.006148243284,
+    "maximum_longitude": 141.082886612357
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

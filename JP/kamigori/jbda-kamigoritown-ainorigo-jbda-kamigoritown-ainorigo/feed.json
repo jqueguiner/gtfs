@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上郡町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kamigori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamigoritown/feeds/ainorigo/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamigoritown-ainorigo",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.835963,
+    "maximum_latitude": 34.937351,
+    "minimum_longitude": 134.313698,
+    "maximum_longitude": 134.442492
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

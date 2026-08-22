@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Vienne Condrieu Agglomération",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Seyssuel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e0831d78-5577-4cae-aa00-de5eeaf3ecb6",
+    "mdb_id": "tdg-52917",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.406183,
+    "maximum_latitude": 45.619851,
+    "minimum_longitude": 4.600544,
+    "maximum_longitude": 5.108024
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

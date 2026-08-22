@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Y-Buss",
+    "country": "SE",
+    "subdivision": "Västerbotten County",
+    "city": "Västerbotten County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/ybuss/ybuss.zip",
+    "mdb_id": "mdb-3293",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

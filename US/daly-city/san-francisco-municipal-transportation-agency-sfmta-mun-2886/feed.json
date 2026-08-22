@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "San Francisco Municipal Transportation Agency (SFMTA - Muni)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Daly City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://muni-gtfs.apps.sfmta.com/data/muni_gtfs-current.zip",
+    "mdb_id": "mdb-2886",
+    "license": "https://www.sfmta.com/reports/gtfs-transit-data"
+  },
+  "bbox": {
+    "minimum_latitude": 37.705879,
+    "maximum_latitude": 37.829848,
+    "minimum_longitude": -122.510792,
+    "maximum_longitude": -122.367027
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

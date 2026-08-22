@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau de transport en commun Le Havre Seine Métropole LiA",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Oudalle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2178bfa8-9fe0-4633-8223-8c151728ef28",
+    "mdb_id": "tdg-84037",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

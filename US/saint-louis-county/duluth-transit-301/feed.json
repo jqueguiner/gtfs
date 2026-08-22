@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Duluth Transit",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Saint Louis County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://duluthtransit.com/gtf/google_transit.zip",
+    "mdb_id": "mdb-301",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.656452,
+    "maximum_latitude": 46.855393,
+    "minimum_longitude": -92.226779,
+    "maximum_longitude": -92.00965
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

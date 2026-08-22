@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hampton Roads Transit (HRT)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Norfolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gohrt.com/gtfs/google_transit.zip",
+    "mdb_id": "mdb-473",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.709858,
+    "maximum_latitude": 37.286199,
+    "minimum_longitude": -76.708169,
+    "maximum_longitude": -75.970265
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

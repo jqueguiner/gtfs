@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Blackstone Area Bus Service",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Nottoway County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/blackstone-va-us/blackstone-va-us.zip",
+    "mdb_id": "mdb-235",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.7490050777501,
+    "maximum_latitude": 37.62745154369885,
+    "minimum_longitude": -78.55133422862777,
+    "maximum_longitude": -77.40530470942107
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

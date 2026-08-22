@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Fitz-James"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/960fa36a-d183-4140-ae64-462d92a06eb8",
+    "mdb_id": "tdg-81056",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.311383,
+    "maximum_latitude": 49.39839,
+    "minimum_longitude": 2.320981,
+    "maximum_longitude": 2.50993
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

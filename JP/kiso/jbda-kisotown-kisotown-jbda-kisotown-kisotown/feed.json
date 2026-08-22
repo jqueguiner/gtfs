@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "木曽町",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Kiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisotown/feeds/kisotown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kisotown-kisotown",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.8208415325561,
+    "maximum_latitude": 35.9406619062159,
+    "minimum_longitude": 137.521112,
+    "maximum_longitude": 137.73183187
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

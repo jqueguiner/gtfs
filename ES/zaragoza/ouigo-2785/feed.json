@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ouigo",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Zaragoza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1766",
+    "mdb_id": "mdb-2785",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

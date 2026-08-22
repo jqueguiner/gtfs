@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Charlottesville Area Transit (CAT)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Charlottesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apps.charlottesville.gov/publicfiles/GTFS.zip",
+    "mdb_id": "mdb-3493",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.98634719848633,
+    "maximum_latitude": 38.09883880615234,
+    "minimum_longitude": -78.52404022216797,
+    "maximum_longitude": -78.43753814697266
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

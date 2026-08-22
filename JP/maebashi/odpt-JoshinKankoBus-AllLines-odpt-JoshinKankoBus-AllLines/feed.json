@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "株式会社上信観光バス",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Maebashi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=current",
+    "mdb_id": "odpt-JoshinKankoBus-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.270446,
+    "maximum_latitude": 36.391008,
+    "minimum_longitude": 138.972899,
+    "maximum_longitude": 139.072678142857
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

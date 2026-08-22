@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "EMT Tarragona",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Tarragona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1694",
+    "mdb_id": "mdb-2777",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.10221833,
+    "maximum_latitude": 41.16638667,
+    "minimum_longitude": 1.178286667,
+    "maximum_longitude": 1.367106
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

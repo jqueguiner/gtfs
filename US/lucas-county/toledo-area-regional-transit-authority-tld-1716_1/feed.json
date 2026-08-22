@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Toledo Area Regional Transit Authority",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Lucas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/gtfs.zip",
+    "mdb_id": "tld-1716_1",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.54654312133789,
+    "maximum_latitude": 41.72891998291016,
+    "minimum_longitude": -83.71688842773438,
+    "maximum_longitude": -83.4601058959961
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

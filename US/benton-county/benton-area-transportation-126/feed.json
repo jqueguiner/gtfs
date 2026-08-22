@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Benton Area Transportation",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Benton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/benton-or-us/benton-or-us.zip",
+    "mdb_id": "mdb-126",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Santa Clarita Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clarita"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/LACMTA/gtfs_lax/-/archive/master/gtfs_lax-master.zip?path=santa_clarita",
+    "mdb_id": "mdb-812",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

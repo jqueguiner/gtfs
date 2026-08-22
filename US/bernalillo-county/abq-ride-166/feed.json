@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ABQ RIDE",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Bernalillo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.cabq.gov/transit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-166",
+    "license": "http://www.cabq.gov/abq-data/abq-data-disclaimer-1"
+  },
+  "bbox": {
+    "minimum_latitude": 34.951438,
+    "maximum_latitude": 35.206726,
+    "minimum_longitude": -106.754782,
+    "maximum_longitude": -106.489192
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

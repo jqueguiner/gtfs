@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "La Ciotat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/304e9bce-2f14-417f-a02e-3b3827de8d5f",
+    "mdb_id": "tdg-80736",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

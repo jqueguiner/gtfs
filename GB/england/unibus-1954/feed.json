@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Unibus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "England"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/unibus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1954",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.716683101,
+    "maximum_latitude": 51.070522622,
+    "minimum_longitude": -2.011841872,
+    "maximum_longitude": -1.732985319
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

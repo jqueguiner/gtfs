@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "京成バス千葉ウエスト株式会社",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Ichikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/keisei-transitbus/feeds/keiseitransitbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-keisei-transitbus-keiseitransitbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

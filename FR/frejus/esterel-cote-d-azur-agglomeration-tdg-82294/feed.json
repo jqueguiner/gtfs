@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Estérel Côte d'Azur Agglomération",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Fréjus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/11e73e58-edb0-4fab-a220-61a659cf6423",
+    "mdb_id": "tdg-82294",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.34137344,
+    "maximum_latitude": 43.53482056,
+    "minimum_longitude": 6.63325405,
+    "maximum_longitude": 6.93070889
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Fountain Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "El Paso County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cityoffountaintransit-co-us/cityoffountaintransit-co-us.zip",
+    "mdb_id": "mdb-309",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

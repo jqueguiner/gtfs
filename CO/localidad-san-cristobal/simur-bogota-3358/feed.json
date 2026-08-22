@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SIMUR Bogota",
+    "country": "CO",
+    "subdivision": "Bogota Capital District",
+    "city": "Localidad San Cristóbal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/gtfs-estaticos/GTFS-2026-04-29.zip",
+    "mdb_id": "mdb-3358",
+    "license": "http://www.simur.gov.co/gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 4.38691449475084,
+    "maximum_latitude": 4.819356886375242,
+    "minimum_longitude": -74.21922740950833,
+    "maximum_longitude": -74.00586129427845
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

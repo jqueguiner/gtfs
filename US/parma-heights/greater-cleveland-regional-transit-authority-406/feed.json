@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greater Cleveland Regional Transit Authority",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Parma Heights"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.riderta.com/sites/default/files/gtfs/latest/google_transit.zip",
+    "mdb_id": "mdb-406",
+    "license": "http://www.riderta.com/developers"
+  },
+  "bbox": {
+    "minimum_latitude": 41.283093,
+    "maximum_latitude": 41.637051,
+    "minimum_longitude": -81.96736,
+    "maximum_longitude": -81.437811
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

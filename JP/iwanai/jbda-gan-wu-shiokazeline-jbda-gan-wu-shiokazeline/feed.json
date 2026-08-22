@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "岩宇地域公共交通活性化協議会",
+    "country": "JP",
+    "subdivision": "Hokkaido Prefecture",
+    "city": "Iwanai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gan-wu/feeds/shiokazeline/files/feed.zip?rid=current",
+    "mdb_id": "jbda-gan-wu-shiokazeline",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 42.97436,
+    "maximum_latitude": 43.219862,
+    "minimum_longitude": 140.327177,
+    "maximum_longitude": 140.567549
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

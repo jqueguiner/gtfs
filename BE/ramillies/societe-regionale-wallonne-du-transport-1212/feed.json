@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société Régionale Wallonne du Transport",
+    "country": "BE",
+    "subdivision": "Wallonia",
+    "city": "Ramillies"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip",
+    "mdb_id": "mdb-1212",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

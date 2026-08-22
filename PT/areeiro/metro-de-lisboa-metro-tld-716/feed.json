@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro de Lisboa (Metro)",
+    "country": "PT",
+    "subdivision": "Lisbon",
+    "city": "Areeiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.metrolisboa.pt/google_transit/googleTransit.zip",
+    "mdb_id": "tld-716",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

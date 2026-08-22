@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau CARSUD",
+    "country": "FR",
+    "subdivision": "CA du Sud",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8f3642e3-9fc3-45ed-af46-8c532966ace3",
+    "mdb_id": "tdg-81183",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

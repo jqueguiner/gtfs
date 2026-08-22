@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Petersburg Area Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Petersburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/petersburg-va-us/petersburg-va-us.zip",
+    "mdb_id": "mdb-591",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

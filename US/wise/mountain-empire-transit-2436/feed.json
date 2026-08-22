@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mountain Empire Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Wise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/mountainempire-va-us/mountainempire-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2436",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Burlington Urban Service",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Des Moines County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/burlington-ia-us/burlington-ia-us.zip",
+    "mdb_id": "mdb-199",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.7746289,
+    "maximum_latitude": 40.8342948,
+    "minimum_longitude": -91.175124,
+    "maximum_longitude": -91.0985631
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

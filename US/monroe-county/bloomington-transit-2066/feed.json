@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bloomington Transit",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Monroe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/bloomingtontransit.etaspot.net/gtfs.zip",
+    "mdb_id": "mdb-2066",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

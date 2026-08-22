@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Saint-Aubin-de-Médoc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ba4be162-cc7f-4c7c-9d96-376a225e9045",
+    "mdb_id": "tdg-82338",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.283207,
+    "maximum_latitude": 45.566891,
+    "minimum_longitude": -1.254395,
+    "maximum_longitude": 0.075956
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

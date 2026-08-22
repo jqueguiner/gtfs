@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lowell Regional Transit Authority (LRTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Lowell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lowell-ma-us/lowell-ma-us.zip",
+    "mdb_id": "mdb-444",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

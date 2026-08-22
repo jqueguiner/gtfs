@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev CapAtlantique Mobilités • Lila Presqu'île",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Assérac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83762/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83762",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.238171,
+    "maximum_latitude": 47.512206,
+    "minimum_longitude": -2.550118,
+    "maximum_longitude": -2.1878
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

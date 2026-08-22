@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "仙北市",
+    "country": "JP",
+    "subdivision": "Akita Prefecture",
+    "city": "Semboku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sembokucity/feeds/bus-city-semboku/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sembokucity-bus-city-semboku",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 39.5575284,
+    "maximum_latitude": 39.7058106,
+    "minimum_longitude": 140.5156858,
+    "maximum_longitude": 140.7481576
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

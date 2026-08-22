@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "WestCAT",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Contra Costa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/westcat-ca-us/westcat-ca-us.zip",
+    "mdb_id": "mdb-78",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.788966,
+    "maximum_latitude": 38.05571565366719,
+    "minimum_longitude": -122.397233,
+    "maximum_longitude": -122.11445
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

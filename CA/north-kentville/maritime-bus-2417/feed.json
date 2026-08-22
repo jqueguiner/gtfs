@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maritime Bus",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "city": "North Kentville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/maritimebus-ca/maritimebus-ca.zip",
+    "mdb_id": "mdb-2417",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Athens Urban Transport Organization (OASA) - Rail Routes",
+    "country": "GR",
+    "subdivision": "Attica",
+    "city": "Municipality of Piraeus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.gr/dataset/4e897a75-975a-4ce7-af65-f32ea01f93b9/resource/5e3858ee-d9ba-48c2-9015-744ea160976d/download/stasy_gtfs.zip",
+    "mdb_id": "mdb-3221",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.84931867,
+    "maximum_latitude": 38.07368199,
+    "minimum_longitude": 23.639785851806,
+    "maximum_longitude": 23.94482
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester-Genesee Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Wyoming County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scheduledata.rgrta.com/Regionals/Wyoming.zip",
+    "mdb_id": "tld-7043",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.525665,
+    "maximum_latitude": 42.872115,
+    "minimum_longitude": -78.477957,
+    "maximum_longitude": -77.991807
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

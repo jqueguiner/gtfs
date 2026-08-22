@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Ormoy-le-Davien"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5338146c-d7d5-44fe-aa17-df21e170b7d5",
+    "mdb_id": "tdg-81823",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.0106574,
+    "maximum_latitude": 49.3112241,
+    "minimum_longitude": 2.5592559,
+    "maximum_longitude": 3.111058
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

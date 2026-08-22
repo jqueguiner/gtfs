@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lower Hudson Valley Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Westchester County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Hudson_Link.zip",
+    "mdb_id": "mdb-915",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 41.031132,
+    "maximum_latitude": 41.134678,
+    "minimum_longitude": -74.168376,
+    "maximum_longitude": -73.763481
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

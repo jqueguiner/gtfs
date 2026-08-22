@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Panevezio Autobusu Parkas",
+    "country": "LT",
+    "subdivision": "Panevezys County",
+    "city": "Panevėžio miesto savivaldybė"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stops.lt/panevezys/panevezys/gtfs.zip",
+    "mdb_id": "mdb-1043",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 55.70131,
+    "maximum_latitude": 55.77995,
+    "minimum_longitude": 24.283,
+    "maximum_longitude": 24.42731
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

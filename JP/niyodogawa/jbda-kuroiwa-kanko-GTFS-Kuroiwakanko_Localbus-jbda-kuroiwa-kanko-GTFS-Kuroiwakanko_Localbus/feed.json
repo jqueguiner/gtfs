@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "有限会社黒岩観光",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Niyodogawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kuroiwa-kanko/feeds/GTFS-Kuroiwakanko_Localbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kuroiwa-kanko-GTFS-Kuroiwakanko_Localbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.490921,
+    "maximum_latitude": 33.611393,
+    "minimum_longitude": 133.127627,
+    "maximum_longitude": 133.302106
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

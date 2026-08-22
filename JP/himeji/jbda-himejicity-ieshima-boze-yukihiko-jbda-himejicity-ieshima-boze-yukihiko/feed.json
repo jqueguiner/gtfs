@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "姫路市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Himeji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/himejicity/feeds/ieshima-boze-yukihiko/files/feed.zip?rid=current",
+    "mdb_id": "jbda-himejicity-ieshima-boze-yukihiko",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

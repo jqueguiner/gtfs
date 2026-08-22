@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Kota Bharu",
+    "country": "MY",
+    "subdivision": "Kelantan",
+    "city": "Kota Bharu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-kota-bharu",
+    "mdb_id": "mdb-3159",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

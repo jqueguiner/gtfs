@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "高岡市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Takaoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takaokacity/feeds/koueibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-takaokacity-koueibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.6858949063699,
+    "maximum_latitude": 36.7749772829889,
+    "minimum_longitude": 136.855099798327,
+    "maximum_longitude": 136.9578646
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

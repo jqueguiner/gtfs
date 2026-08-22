@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Muğla - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Muğla",
+    "city": "Menteşe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/mugla.zip",
+    "mdb_id": "mdb-3396",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 36.3354465,
+    "maximum_latitude": 37.5409921,
+    "minimum_longitude": 27.2365875,
+    "maximum_longitude": 29.7393514
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

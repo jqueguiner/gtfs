@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bent County Transportation",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Bent County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/bentcounty-co-us/bentcounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2157",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "君津市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Kisarazu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Local_buses_via_Kimitsu_City/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kimitsucity-Local_buses_via_Kimitsu_City",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

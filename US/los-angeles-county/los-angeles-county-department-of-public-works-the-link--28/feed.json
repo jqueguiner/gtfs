@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Los Angeles County Department of Public Works (the LINK and shuttles)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/dpwlacounty-ca-us/dpwlacounty-ca-us.zip",
+    "mdb_id": "mdb-28",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

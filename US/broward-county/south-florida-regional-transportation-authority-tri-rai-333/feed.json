@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "South Florida Regional Transportation Authority (Tri-Rail)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Broward County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.tri-rail.com/GTDF/Current/google_transit.zip",
+    "mdb_id": "mdb-333",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 25.7809696198,
+    "maximum_latitude": 26.7587432861,
+    "minimum_longitude": -80.2596206665,
+    "maximum_longitude": -80.062538147
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

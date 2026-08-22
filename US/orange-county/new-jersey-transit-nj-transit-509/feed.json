@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "New Jersey Transit (NJ Transit)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/rail_data.zip",
+    "mdb_id": "mdb-509",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": {
+    "minimum_latitude": 39.363299,
+    "maximum_latitude": 41.471784,
+    "minimum_longitude": -75.182327,
+    "maximum_longitude": -73.988331
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

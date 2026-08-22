@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "INGEROP",
+    "country": "GH",
+    "subdivision": "Ashanti",
+    "city": "Kumasi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/kumasi/-/raw/master/GTFS-Kumasi.zip?inline=false",
+    "mdb_id": "mdb-1814",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

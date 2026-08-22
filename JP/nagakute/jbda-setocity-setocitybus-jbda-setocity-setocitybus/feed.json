@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "瀬戸市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Nagakute"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/setocity/feeds/setocitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-setocity-setocitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.1761965379749,
+    "maximum_latitude": 35.2898992968974,
+    "minimum_longitude": 137.048163886315,
+    "maximum_longitude": 137.165998264743
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

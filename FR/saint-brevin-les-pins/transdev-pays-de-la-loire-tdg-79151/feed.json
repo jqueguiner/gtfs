@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev • Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Saint-Brevin-les-Pins"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b8d1007f-567e-48c4-9c40-bee205f1e688",
+    "mdb_id": "tdg-79151",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.20343,
+    "maximum_latitude": 47.268319,
+    "minimum_longitude": -2.175259,
+    "maximum_longitude": -2.042087
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "高砂市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Takasago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takasagocity/feeds/jotonbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-takasagocity-jotonbus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.752198,
+    "maximum_latitude": 34.807522,
+    "minimum_longitude": 134.770832,
+    "maximum_longitude": 134.815012
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

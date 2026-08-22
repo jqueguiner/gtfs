@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Freedom Transit",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Washington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://freedom.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4134",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

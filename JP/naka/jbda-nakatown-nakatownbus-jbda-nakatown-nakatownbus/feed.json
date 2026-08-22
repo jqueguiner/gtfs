@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "那賀町",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Naka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatown/feeds/nakatownbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nakatown-nakatownbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Empresa de Transportes e Transito de Belo Horizonte (BHTRANS)",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "city": "Região Metropolitana de Belo Horizonte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan.pbh.gov.br/dataset/af0c47bb-5a82-4ae1-874f-e45dea1397ff/resource/b2a9341e-4471-45cc-a8c0-11be805590bc/download/gtfsfiles.zip",
+    "mdb_id": "mdb-687",
+    "license": "https://dados.pbh.gov.br/dataset/feed-gtfs-estatico-do-sistema-suplementar"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

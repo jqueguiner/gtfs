@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NEMUS (Réseau de transports de Flers Agglo)",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Saint-Georges-des-Groseillers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7d399812-e018-4e35-b3ae-a5ba44c8ad91",
+    "mdb_id": "tdg-83782",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "あま市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Ama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/amacity/feeds/amashijunkaibasu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-amacity-amashijunkaibasu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.1423799103089,
+    "maximum_latitude": 35.2141797604388,
+    "minimum_longitude": 136.769295464372,
+    "maximum_longitude": 136.843313121015
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransLink North Stradbroke Island",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Redland City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/NSI_GTFS.zip",
+    "mdb_id": "mdb-652",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

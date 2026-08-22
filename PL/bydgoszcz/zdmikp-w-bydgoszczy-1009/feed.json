@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ZDMiKP w Bydgoszczy",
+    "country": "PL",
+    "subdivision": "Kuyavian-Pomeranian Voivodeship",
+    "city": "Bydgoszcz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/bydgoszcz.zip",
+    "mdb_id": "mdb-1009",
+    "license": "https://mkuran.pl/gtfs/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.951134547,
+    "maximum_latitude": 53.323854154,
+    "minimum_longitude": 17.795347646,
+    "maximum_longitude": 18.331733
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

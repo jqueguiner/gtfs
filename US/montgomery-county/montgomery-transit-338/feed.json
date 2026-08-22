@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Montgomery Transit",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Montgomery County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/montgomerytransit-al-us/montgomerytransit-al-us.zip",
+    "mdb_id": "mdb-338",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

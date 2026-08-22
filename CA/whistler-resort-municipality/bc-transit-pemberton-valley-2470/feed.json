@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Pemberton Valley)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Whistler Resort Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=50",
+    "mdb_id": "mdb-2470",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

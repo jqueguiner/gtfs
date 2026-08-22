@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ATP Nuoro",
+    "country": "IT",
+    "subdivision": "Sardinia",
+    "city": "Nùgoro/Nuoro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.atpnuoro.it/media/files/dati_atpnu.zip",
+    "mdb_id": "mdb-991",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.it"
+  },
+  "bbox": {
+    "minimum_latitude": 40.30734,
+    "maximum_latitude": 40.37074,
+    "minimum_longitude": 9.25938,
+    "maximum_longitude": 9.3863
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

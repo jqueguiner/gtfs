@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bullhead Area Transit System",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Bullhead City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/bullheadareatransit-az-us/bullheadareatransit-az-us.zip",
+    "mdb_id": "mdb-109",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

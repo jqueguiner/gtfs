@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Ashcroft-Cache Creek-Clinton Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Ashcroft"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=38",
+    "mdb_id": "mdb-2468",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

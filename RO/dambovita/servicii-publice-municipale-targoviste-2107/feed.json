@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Servicii Publice Municipale Târgoviște",
+    "country": "RO",
+    "subdivision": "Dâmbovița",
+    "city": "Dâmbovița"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.opendev.ro/GTFS-306.zip",
+    "mdb_id": "mdb-2107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

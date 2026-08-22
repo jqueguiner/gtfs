@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Fretigney-et-Velloreille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/28d3c8bf-97f7-40ed-be9f-00e737f74757",
+    "mdb_id": "tdg-83931",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

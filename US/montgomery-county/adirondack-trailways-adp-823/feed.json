@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Adirondack Trailways ADP",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Montgomery County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Trailways-ADP.zip",
+    "mdb_id": "mdb-823",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 40.75695,
+    "maximum_latitude": 43.104084,
+    "minimum_longitude": -76.169169,
+    "maximum_longitude": -73.75135
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

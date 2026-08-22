@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miller Transportation",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Summit County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/miller/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4466",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

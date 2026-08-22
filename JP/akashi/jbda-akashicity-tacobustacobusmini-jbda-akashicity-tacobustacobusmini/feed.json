@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "明石市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Akashi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akashicity/feeds/tacobustacobusmini/files/feed.zip?rid=current",
+    "mdb_id": "jbda-akashicity-tacobustacobusmini",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.660181,
+    "maximum_latitude": 34.719719,
+    "minimum_longitude": 134.876913,
+    "maximum_longitude": 134.970919
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

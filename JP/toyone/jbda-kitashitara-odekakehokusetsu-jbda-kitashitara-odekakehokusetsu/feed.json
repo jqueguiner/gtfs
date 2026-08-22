@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "北設楽郡公共交通活性化協議会",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Toyone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitashitara/feeds/odekakehokusetsu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kitashitara-odekakehokusetsu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.029128,
+    "maximum_latitude": 35.215876,
+    "minimum_longitude": 137.459013,
+    "maximum_longitude": 137.818272
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

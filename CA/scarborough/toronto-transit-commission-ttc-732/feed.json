@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Toronto Transit Commission (TTC)",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Scarborough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.toronto.ca/toronto.transit.commission/ttc-routes-and-schedules/OpenData_TTC_Schedules.zip",
+    "mdb_id": "mdb-732",
+    "license": "https://open.toronto.ca/dataset/ttc-routes-and-schedules/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.592111,
+    "maximum_latitude": 43.909707,
+    "minimum_longitude": -79.649908,
+    "maximum_longitude": -79.123111
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

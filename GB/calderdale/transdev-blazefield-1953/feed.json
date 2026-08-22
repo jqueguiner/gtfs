@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev Blazefield",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Calderdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/transdevblazefield/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1953",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 53.478094219,
+    "maximum_latitude": 54.53556265,
+    "minimum_longitude": -2.696345463,
+    "maximum_longitude": -0.405804228
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

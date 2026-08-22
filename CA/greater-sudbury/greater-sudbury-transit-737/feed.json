@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greater Sudbury Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Greater Sudbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.greatersudbury.ca/image/opendata/gtfs.zip",
+    "mdb_id": "mdb-737",
+    "license": "http://www.greatersudbury.ca/inside-city-hall/open-government/open-data/open-data-apps/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.39664,
+    "maximum_latitude": 46.71597,
+    "minimum_longitude": -81.20445,
+    "maximum_longitude": -80.84729
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

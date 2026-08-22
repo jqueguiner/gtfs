@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Warrington's Own Buses",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Warrington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/warrington/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1956",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 53.192635,
+    "maximum_latitude": 53.549016,
+    "minimum_longitude": -2.978378,
+    "maximum_longitude": -2.315821
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

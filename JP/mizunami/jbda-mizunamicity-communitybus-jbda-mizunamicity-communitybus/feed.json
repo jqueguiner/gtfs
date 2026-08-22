@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "瑞浪市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Mizunami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mizunamicity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-mizunamicity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.3425048452878,
+    "maximum_latitude": 35.460543238209,
+    "minimum_longitude": 137.200473546982,
+    "maximum_longitude": 137.344658374786
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

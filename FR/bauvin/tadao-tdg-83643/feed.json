@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TADAO",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Bauvin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/47a5e290-7883-4a40-bdcf-b693f64087b0",
+    "mdb_id": "tdg-83643",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

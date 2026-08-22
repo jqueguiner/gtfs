@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Laguna Beach Transit (LBT)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lagunabeach-ca-us/lagunabeach-ca-us.zip",
+    "mdb_id": "mdb-16",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.476315,
+    "maximum_latitude": 33.656395,
+    "minimum_longitude": -117.799868,
+    "maximum_longitude": -117.716808
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

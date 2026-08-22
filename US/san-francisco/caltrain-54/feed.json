@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Caltrain",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Francisco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/caltrain-ca-us/caltrain-ca-us.zip",
+    "mdb_id": "mdb-54",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

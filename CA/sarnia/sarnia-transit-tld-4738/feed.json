@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sarnia Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Sarnia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-sarnia.zip",
+    "mdb_id": "tld-4738",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

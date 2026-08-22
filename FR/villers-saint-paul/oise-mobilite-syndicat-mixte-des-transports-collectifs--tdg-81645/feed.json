@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Villers-Saint-Paul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/23f2f5ed-c21c-4e87-840b-22512fe7c5d7",
+    "mdb_id": "tdg-81645",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

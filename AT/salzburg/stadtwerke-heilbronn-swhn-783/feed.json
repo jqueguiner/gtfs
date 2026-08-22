@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Stadtwerke Heilbronn (SWHN)",
+    "country": "AT",
+    "subdivision": "Salzburg",
+    "city": "Salzburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/hnv.zip",
+    "mdb_id": "mdb-783",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 52.5076076,
+    "minimum_longitude": -1.6723306,
+    "maximum_longitude": 30.5198305
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

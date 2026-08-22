@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SL",
+    "country": "SE",
+    "subdivision": "Stockholm County",
+    "city": "Stockholm County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/sl/sl.zip",
+    "mdb_id": "mdb-3237",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 58.74385,
+    "maximum_latitude": 60.679478,
+    "minimum_longitude": 16.928996,
+    "maximum_longitude": 19.172317
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

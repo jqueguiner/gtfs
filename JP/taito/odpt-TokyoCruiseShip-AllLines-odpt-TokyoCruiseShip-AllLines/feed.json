@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東京都観光汽船株式会社",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Taito"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TokyoCruiseShip/AllLines.zip?date=current",
+    "mdb_id": "odpt-TokyoCruiseShip-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.62906,
+    "maximum_latitude": 35.710683,
+    "minimum_longitude": 139.760481,
+    "maximum_longitude": 139.798601
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ECO Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Eagle County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ecotransit-co-us/ecotransit-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2045",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

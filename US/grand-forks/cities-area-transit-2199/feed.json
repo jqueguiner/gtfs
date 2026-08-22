@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cities Area Transit",
+    "country": "US",
+    "subdivision": "North Dakota",
+    "city": "Grand Forks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cityofgrandforks-nd-us/cityofgrandforks-nd-us.zip",
+    "mdb_id": "mdb-2199",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

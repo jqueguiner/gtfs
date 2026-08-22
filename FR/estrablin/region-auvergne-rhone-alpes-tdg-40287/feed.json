@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Estrablin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/40ee9d6c-3bb9-409e-b670-986212de63f2",
+    "mdb_id": "tdg-40287",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.563572,
+    "maximum_latitude": 45.8833024,
+    "minimum_longitude": 4.758348,
+    "maximum_longitude": 6.277561
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

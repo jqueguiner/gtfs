@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上田市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Ueda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uedacity/feeds/uedashigaitizyunkanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-uedacity-uedashigaitizyunkanbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.3357183066523,
+    "maximum_latitude": 36.4222443007245,
+    "minimum_longitude": 138.146147167821,
+    "maximum_longitude": 138.307139248709
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

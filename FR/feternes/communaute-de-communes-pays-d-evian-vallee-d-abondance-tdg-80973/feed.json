@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de communes pays d'Evian - vallée d'Abondance",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Féternes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/429c8587-676a-4ed3-8279-e67403bc36f4",
+    "mdb_id": "tdg-80973",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.25470051216886,
+    "maximum_latitude": 46.407507086524895,
+    "minimum_longitude": 6.479778,
+    "maximum_longitude": 6.840646
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

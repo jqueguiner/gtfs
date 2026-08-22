@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Mobile",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Mobile County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimemobile.availtec.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "tld-6773",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

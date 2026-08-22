@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hamburger Verkehrsverbund GmbH (HVV)",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/f0073555-962c-4d55-870e-b94bb676ad9d/Upload__hvv_Rohdaten_GTFS_Fpl_20260408.ZIP",
+    "mdb_id": "mdb-3362",
+    "license": "https://www.govdata.de/dl-de/by-2-0"
+  },
+  "bbox": {
+    "minimum_latitude": 51.477177,
+    "maximum_latitude": 54.90696,
+    "minimum_longitude": 8.310824,
+    "maximum_longitude": 12.131079
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano San Gimignano",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Colle di Val d'Elsa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/eeeaddfe-abe1-4d7f-b2fb-ac6d36b380be/download/76-urbanosangimignano.gtfs",
+    "mdb_id": "tld-6977",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.404353097773,
+    "maximum_latitude": 43.4766507875264,
+    "minimum_longitude": 11.0166635742253,
+    "maximum_longitude": 11.0628927854617
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

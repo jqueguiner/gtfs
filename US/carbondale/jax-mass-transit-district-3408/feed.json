@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JAX Mass Transit District",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Carbondale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/JCMTD/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-3408",
+    "license": "https://proxy.busone.app/cotral/readme"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

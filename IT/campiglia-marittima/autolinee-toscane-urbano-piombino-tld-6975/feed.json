@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Piombino",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Campiglia Marittima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/38190106-dedd-4b44-ae3a-d59e40fe9f81/download/78-urbanopiombino.gtfs",
+    "mdb_id": "tld-6975",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.9212118794652,
+    "maximum_latitude": 43.0104736840763,
+    "minimum_longitude": 10.5008900038077,
+    "maximum_longitude": 10.69669580936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

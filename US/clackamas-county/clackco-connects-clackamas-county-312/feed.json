@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ClackCo Connects (Clackamas County)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/clackamascounty-or-us/clackamascounty-or-us.zip",
+    "mdb_id": "mdb-312",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.286106192825656,
+    "maximum_latitude": 45.43618452638,
+    "minimum_longitude": -122.62560819992412,
+    "maximum_longitude": -122.33389014867632
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

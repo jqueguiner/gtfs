@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Laketran",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Lake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lakecounty-oh-us/lakecounty-oh-us.zip",
+    "mdb_id": "mdb-410",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.4976879356913,
+    "maximum_latitude": 41.8418172245162,
+    "minimum_longitude": -81.7001491308301,
+    "maximum_longitude": -81.008756071851
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

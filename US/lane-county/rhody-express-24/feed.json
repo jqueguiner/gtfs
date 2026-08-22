@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rhody Express",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Lane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/rhodyexpress-or-us/rhodyexpress-or-us.zip",
+    "mdb_id": "mdb-24",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

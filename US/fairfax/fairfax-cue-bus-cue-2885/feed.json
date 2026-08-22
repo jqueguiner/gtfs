@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fairfax CUE Bus (CUE)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Fairfax"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fairfaxva.gov/files/assets/city/v/2/public-works/documents/schedules-and-maps/cue-gtfs.zip",
+    "mdb_id": "mdb-2885",
+    "license": "https://www.fairfaxva.gov/government/public-works/cue-bus-map-schedule#GTFS%20Schedule%20Data%20anchor"
+  },
+  "bbox": {
+    "minimum_latitude": 38.834623,
+    "maximum_latitude": 38.878837,
+    "minimum_longitude": -77.3328054577,
+    "maximum_longitude": -77.2623
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

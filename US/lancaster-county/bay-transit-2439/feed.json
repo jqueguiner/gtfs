@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bay Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Lancaster County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/baytransit-va-us/baytransit-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2439",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.26023,
+    "maximum_latitude": 38.272660203568805,
+    "minimum_longitude": -76.99542274197749,
+    "maximum_longitude": -76.35201312288186
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

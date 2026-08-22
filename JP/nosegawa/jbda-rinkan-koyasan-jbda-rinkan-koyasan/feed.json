@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南海りんかんバス株式会社",
+    "country": "JP",
+    "subdivision": "Nara Prefecture",
+    "city": "Nosegawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/rinkan/feeds/koyasan/files/feed.zip?rid=current",
+    "mdb_id": "jbda-rinkan-koyasan",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.061617,
+    "maximum_latitude": 34.227634,
+    "minimum_longitude": 135.564496,
+    "maximum_longitude": 135.663515
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

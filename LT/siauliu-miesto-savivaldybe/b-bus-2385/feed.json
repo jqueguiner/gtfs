@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "B-Bus",
+    "country": "LT",
+    "subdivision": "Siauliai County",
+    "city": "Šiaulių miesto savivaldybė"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/LVA/lva/gtfs.zip",
+    "mdb_id": "mdb-2385",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 54.56987,
+    "maximum_latitude": 56.22902,
+    "minimum_longitude": 21.06152,
+    "maximum_longitude": 24.71203
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

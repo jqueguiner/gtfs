@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Intercity Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Olympia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://its.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-266",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.93304,
+    "maximum_latitude": 47.161066,
+    "minimum_longitude": -122.977127,
+    "maximum_longitude": -122.483242
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "鹿児島市",
+    "country": "JP",
+    "subdivision": "Kagoshima Prefecture",
+    "city": "Kagoshima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kagoshimacity/feeds/aibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kagoshimacity-aibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 31.3035604,
+    "maximum_latitude": 31.76142,
+    "minimum_longitude": 130.4059999,
+    "maximum_longitude": 130.6123845
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

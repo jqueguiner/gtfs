@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Auckland Transport",
+    "country": "NZ",
+    "subdivision": "Auckland",
+    "city": "Auckland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.at.govt.nz/gtfs.zip",
+    "mdb_id": "mdb-1029",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -37.79121,
+    "maximum_latitude": -27.08417,
+    "minimum_longitude": 169.60151,
+    "maximum_longitude": 175.46803
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

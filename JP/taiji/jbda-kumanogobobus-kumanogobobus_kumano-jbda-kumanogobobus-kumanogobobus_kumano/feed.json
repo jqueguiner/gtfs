@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊野御坊南海バス株式会社",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Taiji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumanogobobus/feeds/kumanogobobus_kumano/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kumanogobobus-kumanogobobus_kumano",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

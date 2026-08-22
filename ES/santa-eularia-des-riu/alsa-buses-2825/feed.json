@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ALSA buses",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Santa Eulària des Riu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1133",
+    "mdb_id": "mdb-2825",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 27.83620795,
+    "maximum_latitude": 43.62931688,
+    "minimum_longitude": -15.66599595,
+    "maximum_longitude": 2.19505804
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

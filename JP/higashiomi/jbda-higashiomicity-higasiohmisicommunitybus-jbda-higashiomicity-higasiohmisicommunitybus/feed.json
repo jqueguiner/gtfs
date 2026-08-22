@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東近江市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Higashiomi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/higashiomicity/feeds/higasiohmisicommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-higashiomicity-higasiohmisicommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0451332689975,
+    "maximum_latitude": 35.2129645580955,
+    "minimum_longitude": 136.111127214643,
+    "maximum_longitude": 136.386554674989
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

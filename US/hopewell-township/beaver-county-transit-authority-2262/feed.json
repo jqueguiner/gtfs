@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Beaver County Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Hopewell Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bcta.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2262",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

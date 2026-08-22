@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Anaheim Regional Transportation",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Anaheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/test/TestFlex3.zip",
+    "mdb_id": "mdb-1819",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

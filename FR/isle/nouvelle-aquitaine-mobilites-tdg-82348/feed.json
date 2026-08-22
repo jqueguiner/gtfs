@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Isle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/99e0887d-4855-47f7-a03b-a8235dfc86b7",
+    "mdb_id": "tdg-82348",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.750645,
+    "maximum_latitude": 45.9702,
+    "minimum_longitude": 1.078107,
+    "maximum_longitude": 1.415737
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

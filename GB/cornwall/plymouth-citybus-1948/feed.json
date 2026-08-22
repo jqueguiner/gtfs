@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Plymouth Citybus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cornwall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/plymouthbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1948",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.320913866,
+    "maximum_latitude": 51.040667896,
+    "minimum_longitude": -4.52434858,
+    "maximum_longitude": -3.070870555
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

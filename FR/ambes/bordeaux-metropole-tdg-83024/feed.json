@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bordeaux Métropole",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Ambès"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/10b87ffe-e6bb-494d-93df-bb6019e223d9",
+    "mdb_id": "tdg-83024",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

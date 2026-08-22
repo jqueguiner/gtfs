@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本都市バス",
+    "country": "JP",
+    "subdivision": "Kumamoto Prefecture",
+    "city": "Kikuyou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumamoto-toshibus/feeds/kumamoto-toshibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kumamoto-toshibus-kumamoto-toshibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

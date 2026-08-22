@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gobierno del estado de México (Government of the State of Mexico)",
+    "country": "MX",
+    "subdivision": "Mexico",
+    "city": "Toluca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datos.movimex.gob.mx/gtfs/toluca.gtfs.zip",
+    "mdb_id": "mdb-2865",
+    "license": "https://www.openstreetmap.org/copyright"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bay Metropolitan Transit Authority",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Bay County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11684/BMTA_GTFS.zip",
+    "mdb_id": "ntd-50029",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.514454,
+    "maximum_latitude": 43.864652,
+    "minimum_longitude": -84.088468,
+    "maximum_longitude": -83.776896
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

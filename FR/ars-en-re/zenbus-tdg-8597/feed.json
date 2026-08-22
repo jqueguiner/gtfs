@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Ars-en-Ré"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f167d4d3-cd32-475b-a12f-0403534679e5",
+    "mdb_id": "tdg-8597",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Pescia",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Pescia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/51756e91-d2c4-4f7d-b26e-95210850d256/download/67-urbanopescia.gtfs",
+    "mdb_id": "tld-7000",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.8770202180879,
+    "maximum_latitude": 43.9050265571959,
+    "minimum_longitude": 10.6517730000821,
+    "maximum_longitude": 10.6986351028962
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

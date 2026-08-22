@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Burdur - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Burdur",
+    "city": "Burdur Merkez"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/burdur.zip",
+    "mdb_id": "mdb-3405",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 37.6644116,
+    "maximum_latitude": 37.78116,
+    "minimum_longitude": 30.1690266,
+    "maximum_longitude": 30.376535
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

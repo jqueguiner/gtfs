@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lake Charles Transit",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Calcasieu Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://america.usetransit.com/api/1/public/gtfs/31/gtfs.zip?token=0bcf57ebd588bd7749168808071d365973b45d1d8",
+    "mdb_id": "ntd-60023",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 30.168636,
+    "maximum_latitude": 30.270334,
+    "minimum_longitude": -93.249598,
+    "maximum_longitude": -93.154883
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

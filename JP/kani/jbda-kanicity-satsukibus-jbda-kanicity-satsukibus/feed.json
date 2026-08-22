@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "可児市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Kani"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kanicity/feeds/satsukibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kanicity-satsukibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.371359,
+    "maximum_latitude": 35.462432,
+    "minimum_longitude": 137.010664,
+    "maximum_longitude": 137.116085
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

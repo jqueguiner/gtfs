@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "University of Michigan Transit Services",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Washtenaw County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webapps.fo.umich.edu/transit_uploads/google_transit.zip",
+    "mdb_id": "mdb-2072",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

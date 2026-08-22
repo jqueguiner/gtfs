@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PKP Szybka Kolej Miejska (SKM)",
+    "country": "PL",
+    "subdivision": "Pomeranian Voivodeship",
+    "city": "Lębork County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.skm.pkp.pl/gtfs-mi-kpd.zip",
+    "mdb_id": "mdb-1290",
+    "license": "https://bip.skm.pkp.pl/c60/rozklad-jazdy"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

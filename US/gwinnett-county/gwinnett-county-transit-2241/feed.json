@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gwinnett County Transit",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Gwinnett County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimegwinnett.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2241",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.769789,
+    "maximum_latitude": 34.094463,
+    "minimum_longitude": -84.27971,
+    "maximum_longitude": -83.97707
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

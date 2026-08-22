@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Green Mountain Community Network (GMCN)",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Woodford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/greenmtncn-vt-us/greenmtncn-vt-us.zip",
+    "mdb_id": "mdb-539",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

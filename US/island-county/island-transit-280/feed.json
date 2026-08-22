@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Island Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Island County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/islandtransit-wa-us/islandtransit-wa-us.zip",
+    "mdb_id": "mdb-280",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.92328360255024,
+    "maximum_latitude": 48.463003,
+    "minimum_longitude": -122.767909,
+    "maximum_longitude": -122.196879
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

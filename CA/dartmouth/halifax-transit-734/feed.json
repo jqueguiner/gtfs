@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Halifax Transit",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "city": "Dartmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.halifax.ca/static/google_transit.zip",
+    "mdb_id": "mdb-734",
+    "license": "http://www.halifax.ca/opendata/OD_TermsOfUse.php"
+  },
+  "bbox": {
+    "minimum_latitude": 44.565098,
+    "maximum_latitude": 44.886253,
+    "minimum_longitude": -63.858243,
+    "maximum_longitude": -63.28321
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

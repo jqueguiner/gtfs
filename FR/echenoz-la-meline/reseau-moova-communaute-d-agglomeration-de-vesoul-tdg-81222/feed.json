@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Réseau moova - Communauté d'Agglomération de Vesoul",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Échenoz-la-Méline"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0d6e6c56-8926-49b3-87e2-13c6f57c136b",
+    "mdb_id": "tdg-81222",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.523861,
+    "maximum_latitude": 47.669773,
+    "minimum_longitude": 6.034618,
+    "maximum_longitude": 6.240636
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

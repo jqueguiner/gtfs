@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Épeigné-sur-Dême"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6c52238c-1c1e-4c5a-922b-8b66c0415a9e",
+    "mdb_id": "tdg-83530",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.373951,
+    "maximum_latitude": 48.867382,
+    "minimum_longitude": -0.083938,
+    "maximum_longitude": 3.085756
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

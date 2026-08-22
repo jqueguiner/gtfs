@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transtejo",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Alto do Seixalinho, Santo André e Verderena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.transporlis.pt/Portals/0/OpenData/gtfs/zip/4/gtfs_4.zip",
+    "mdb_id": "mdb-1038",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.64716,
+    "maximum_latitude": 38.70684,
+    "minimum_longitude": -9.23119084851572,
+    "maximum_longitude": -9.00558
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

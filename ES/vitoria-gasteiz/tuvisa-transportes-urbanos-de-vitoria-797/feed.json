@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TUVISA (Transportes Urbanos de Vitoria)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Vitoria-Gasteiz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.vitoria-gasteiz.org/we001/http/vgTransit/google_transit.zip",
+    "mdb_id": "mdb-797",
+    "license": "https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=app_j34_0021"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

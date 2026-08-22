@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Middletown Area Transit (MAT)",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Middletown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/ninetown-connecticut-us/ninetown-connecticut-us.zip",
+    "mdb_id": "mdb-551",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.26143113595336,
+    "maximum_latitude": 41.60872926547566,
+    "minimum_longitude": -72.80042806742782,
+    "maximum_longitude": -72.0934518
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

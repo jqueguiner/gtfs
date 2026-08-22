@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Linee Regionali",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Florence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/ae4594d4-d395-4651-a097-446e878e9005/download/90-lineeregionali.gtfs",
+    "mdb_id": "tld-6957",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.7558766354923,
+    "maximum_latitude": 43.930934820031,
+    "minimum_longitude": 10.4940542894378,
+    "maximum_longitude": 11.8811299793144
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

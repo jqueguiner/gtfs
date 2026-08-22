@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cots Alsina",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Cervera"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2009",
+    "mdb_id": "mdb-2805",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.5329258724336,
+    "maximum_latitude": 41.99363380254172,
+    "minimum_longitude": 1.1412201148766865,
+    "maximum_longitude": 1.5147081600488876
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

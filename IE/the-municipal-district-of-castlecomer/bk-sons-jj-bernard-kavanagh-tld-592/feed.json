@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BK & Sons, JJ/Bernard Kavanagh",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "The Municipal District of Castlecomer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Bernard_Kavanagh.zip",
+    "mdb_id": "tld-592",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 52.35425,
+    "maximum_latitude": 53.54366,
+    "minimum_longitude": -8.19884,
+    "maximum_longitude": -7.248567
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

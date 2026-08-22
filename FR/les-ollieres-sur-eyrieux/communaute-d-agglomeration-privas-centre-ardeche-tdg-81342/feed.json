@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Privas Centre Ardèche",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Les Ollières-sur-Eyrieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5120cc52-6cc0-46b7-83b0-4c5cfd8f920c",
+    "mdb_id": "tdg-81342",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.675495,
+    "maximum_latitude": 44.935616,
+    "minimum_longitude": 4.400513,
+    "maximum_longitude": 4.8345857
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

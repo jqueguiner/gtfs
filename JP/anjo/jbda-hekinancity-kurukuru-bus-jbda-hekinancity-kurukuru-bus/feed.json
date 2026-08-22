@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "碧南市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Anjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hekinancity/feeds/kurukuru-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hekinancity-kurukuru-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.8340024,
+    "maximum_latitude": 34.9347991,
+    "minimum_longitude": 136.9642201,
+    "maximum_longitude": 137.0343637
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

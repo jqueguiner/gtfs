@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TIB Transports of the Balearic Islands - CIME Consell Insular de Menorca (Menorca Island Bus)",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "es Castell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1363",
+    "mdb_id": "mdb-2763",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 39.813232,
+    "maximum_latitude": 40.05493,
+    "minimum_longitude": 3.7984617,
+    "maximum_longitude": 4.29915
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

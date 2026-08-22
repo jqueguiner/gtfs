@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Senior Resource Development Agency",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pueblo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/srda-co-us/srda-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2185",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "いなべ市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Inabe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inabecity/feeds/fukushibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-inabecity-fukushibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0746342,
+    "maximum_latitude": 35.226015,
+    "minimum_longitude": 136.4539163,
+    "maximum_longitude": 136.581296
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Country Roads Transit",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Upshur County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://countryroadstransit.com/wp-content/uploads/feedCRT.zip",
+    "mdb_id": "ntd-30122",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.890405,
+    "maximum_latitude": 38.999277,
+    "minimum_longitude": -80.236611,
+    "maximum_longitude": -79.843614
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

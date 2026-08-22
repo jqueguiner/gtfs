@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gloversville Transit System",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Fulton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Gloversville_Transit_System.zip",
+    "mdb_id": "mdb-2650",
+    "license": "https://www.ride-gts.com/"
+  },
+  "bbox": {
+    "minimum_latitude": 42.935495,
+    "maximum_latitude": 43.071231,
+    "minimum_longitude": -74.399364,
+    "maximum_longitude": -74.184569
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

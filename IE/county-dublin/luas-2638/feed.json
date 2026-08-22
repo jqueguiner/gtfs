@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "LUAS",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_LUAS.zip",
+    "mdb_id": "mdb-2638",
+    "license": "https://www.transportforireland.ie/transitData/PT_Data.html"
+  },
+  "bbox": {
+    "minimum_latitude": 53.24187177,
+    "maximum_latitude": 53.372272,
+    "minimum_longitude": -6.43779,
+    "maximum_longitude": -6.142724
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

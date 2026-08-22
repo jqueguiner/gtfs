@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lake Erie Transit",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Monroe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.lakeerietransit.com/gtfs/lake-erie-transit-gtfs.zip",
+    "mdb_id": "tld-6883",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.879539489746094,
+    "maximum_latitude": 41.97954559326172,
+    "minimum_longitude": -83.46924591064453,
+    "maximum_longitude": -83.36763000488281
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

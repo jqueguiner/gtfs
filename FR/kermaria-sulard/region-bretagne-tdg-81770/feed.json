@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Kermaria-Sulard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/905a57b4-eb87-4c31-86cc-9a86deff09e0",
+    "mdb_id": "tdg-81770",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.577213,
+    "maximum_latitude": 48.836352,
+    "minimum_longitude": -3.834531,
+    "maximum_longitude": -3.29545
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

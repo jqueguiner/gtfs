@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stanislaus Regional Transit (StaRT)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Stanislaus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://stanrta.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2273",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

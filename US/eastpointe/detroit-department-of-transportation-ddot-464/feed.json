@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Detroit Department of Transportation (DDOT)",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Eastpointe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip",
+    "mdb_id": "mdb-464",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.26179,
+    "maximum_latitude": 42.473734,
+    "minimum_longitude": -83.33294,
+    "maximum_longitude": -82.911558
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

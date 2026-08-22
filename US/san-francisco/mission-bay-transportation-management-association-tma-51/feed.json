@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mission Bay Transportation Management Association (TMA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Francisco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/missionbaytma-ca-us/missionbaytma-ca-us.zip",
+    "mdb_id": "mdb-51",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "PHLASH",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Philadelphia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/PhlashGTFS/GTFS/releases/latest/download/PHLASH_GTFS.zip",
+    "mdb_id": "mdb-2877",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.94866,
+    "maximum_latitude": 39.97881,
+    "minimum_longitude": -75.209924,
+    "maximum_longitude": -75.14394
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Baleària Ferry",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Alcúdia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1527",
+    "mdb_id": "mdb-2814",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 28.139391,
+    "maximum_latitude": 41.374301,
+    "minimum_longitude": -16.241201,
+    "maximum_longitude": 3.827007
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

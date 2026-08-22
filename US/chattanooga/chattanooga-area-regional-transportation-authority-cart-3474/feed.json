@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chattanooga Area Regional Transportation Authority (CARTA)",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Chattanooga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/gocarta/gtfs/refs/heads/master/gtfs_current.zip",
+    "mdb_id": "mdb-3474",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.984097,
+    "maximum_latitude": 35.13858,
+    "minimum_longitude": -85.33328,
+    "maximum_longitude": -85.127349
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

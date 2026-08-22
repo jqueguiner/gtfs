@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orillia Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Orillia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-orillia.zip",
+    "mdb_id": "tld-4683",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

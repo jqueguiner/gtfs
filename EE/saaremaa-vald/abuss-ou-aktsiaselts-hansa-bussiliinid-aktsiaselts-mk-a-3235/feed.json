@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ABuss OÜ, Aktsiaselts Hansa Bussiliinid, Aktsiaselts MK Autobuss, Alukvik OÜ, Arilix OÜ, AS Lux Express Estonia, Asunduse osaühing, ATG Bussiliinid OÜ, Atko Bussiliinid AS, ATKO Liinid OÜ, ATKO Transport OÜ, Ekspress-Auto L Osaühing, Ekspressbussiliinid osaühing, Elmar Purga FIE, ELRON, Estonian Lines OÜ, GoBus AS, HANSABUSS AS, Kalle Bussid OÜ, MEELIS HEEK, MK Reis-X OÜ, NAJA OÜ, Osaühing Bristol Takso, OSAÜHING FREMANTI, osaühing Tulisilm, OV Ida-Bus OÜ, OÜ Baltic Shuttle, PRESTO osaühing, Radix Transport OÜ, Rannu Rukkilill E.S.T. OÜ, Saaremaa vald, SEBE Aktsiaselts, Sirel Reisid OÜ, Taisto Express OÜ, Tallinna Linnatranspordi AS, TS Laevad OÜ, Tõnu Tours OÜ, Valgis osaühing",
+    "country": "EE",
+    "subdivision": "Saare maakond",
+    "city": "Saaremaa vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/estonia_unified_gtfs.zip",
+    "mdb_id": "mdb-3235",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": {
+    "minimum_latitude": 0.2206108,
+    "maximum_latitude": 59.6539063,
+    "minimum_longitude": 14.440728,
+    "maximum_longitude": 60.5537851
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

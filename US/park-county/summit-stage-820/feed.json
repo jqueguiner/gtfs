@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Summit Stage",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Park County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/summitstage-co-us/summitstage-co-us.zip",
+    "mdb_id": "mdb-820",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.221862,
+    "maximum_latitude": 39.65959312176014,
+    "minimum_longitude": -106.302381,
+    "maximum_longitude": -105.871945
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

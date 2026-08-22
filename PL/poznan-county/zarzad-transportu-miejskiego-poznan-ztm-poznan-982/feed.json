@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego Poznań (ZTM Poznań)",
+    "country": "PL",
+    "subdivision": "Greater Poland Voivodeship",
+    "city": "Poznań County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGTFSFile",
+    "mdb_id": "mdb-982",
+    "license": "https://www.ztm.poznan.pl/pl/dla-deweloperow/index"
+  },
+  "bbox": {
+    "minimum_latitude": 52.15166197,
+    "maximum_latitude": 52.58722581,
+    "minimum_longitude": 16.52571968,
+    "maximum_longitude": 17.2811525082
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

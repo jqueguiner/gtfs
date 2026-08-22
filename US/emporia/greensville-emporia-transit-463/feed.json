@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greensville Emporia Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Emporia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/get-va-us/get-va-us.zip",
+    "mdb_id": "mdb-463",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

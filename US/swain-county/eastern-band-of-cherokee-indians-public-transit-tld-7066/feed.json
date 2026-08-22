@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Eastern Band of Cherokee Indians Public Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Swain County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11723/ecbi_gtfs.zip",
+    "mdb_id": "tld-7066",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.4531916,
+    "maximum_latitude": 35.567974,
+    "minimum_longitude": -83.3930874,
+    "maximum_longitude": -83.167122
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

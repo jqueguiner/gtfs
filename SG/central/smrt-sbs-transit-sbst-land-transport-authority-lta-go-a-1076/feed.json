@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SMRT, SBS Transit (SBST), Land Transport Authority (LTA), Go Ahead Singapore (GAS), Tower Transit (TTS)",
+    "country": "SG",
+    "subdivision": "Central",
+    "city": "Central"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.rushowl.app/rushtrail-app/gtfs-feed/gtfs-feed-lta.zip",
+    "mdb_id": "mdb-1076",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 1.251427,
+    "maximum_latitude": 1.49390379286364,
+    "minimum_longitude": 103.61725,
+    "maximum_longitude": 104.0155981
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

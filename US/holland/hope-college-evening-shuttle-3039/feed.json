@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hope College Evening Shuttle",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Holland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hope-college-cit.github.io/shuttle/hope-shuttle-gtfs.zip",
+    "mdb_id": "mdb-3039",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.7839525,
+    "maximum_latitude": 42.7886239,
+    "minimum_longitude": -86.104446,
+    "maximum_longitude": -86.0974872
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

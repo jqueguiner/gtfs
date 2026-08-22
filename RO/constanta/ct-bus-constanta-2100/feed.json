@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CT BUS Constanța",
+    "country": "RO",
+    "subdivision": "Constanța",
+    "city": "Constanța"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/constanta/CONSTANTA.zip",
+    "mdb_id": "mdb-2100",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.131607,
+    "maximum_latitude": 44.264294,
+    "minimum_longitude": 28.576609,
+    "maximum_longitude": 28.664268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

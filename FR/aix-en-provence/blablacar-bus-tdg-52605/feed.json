@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BlaBlaCar Bus",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Aix-en-Provence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/fd54f81f-4389-4e73-be75-491133d011c3",
+    "mdb_id": "tdg-52605",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

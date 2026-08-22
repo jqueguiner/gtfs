@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Željeznički prevoz Crne Gore",
+    "country": "ME",
+    "subdivision": "Bar Municipality",
+    "city": "Polje"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/me-zpcg.gtfs.zip",
+    "mdb_id": "mdb-2377",
+    "license": "https://jbb.ghsq.de/kde/2024/02/25/Call-for-feeds-Make-your-region-available-in-our-open-transit-router.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

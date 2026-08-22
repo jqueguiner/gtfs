@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Coutras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c521df03-4d5c-4b38-afee-ef6c0f43a491",
+    "mdb_id": "tdg-82359",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.817921,
+    "maximum_latitude": 45.055965,
+    "minimum_longitude": -0.391955,
+    "maximum_longitude": 0.027227
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

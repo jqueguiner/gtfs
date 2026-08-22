@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rabbittransit",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Dauphin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.rabbittransit.org/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-223",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fort Bend County, Texas",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Houston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fortbendcountytx.gov/sites/default/files/document-central/document-central/public-transportation-documents/FortBendGTFS.Zip",
+    "mdb_id": "ntd-60103",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 29.521787,
+    "maximum_latitude": 29.75274,
+    "minimum_longitude": -95.809128,
+    "maximum_longitude": -95.390522
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

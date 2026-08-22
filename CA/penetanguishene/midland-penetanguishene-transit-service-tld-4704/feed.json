@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Midland Penetanguishene Transit Service",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Penetanguishene"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://midland.usetransit.com/api/1/public/gtfs/2/gtfs.zip?token=64186b9ee7bea60d7638268206162c0c9c1a3f49e",
+    "mdb_id": "tld-4704",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

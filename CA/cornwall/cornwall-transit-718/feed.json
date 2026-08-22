@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cornwall Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Cornwall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-cornwall.zip",
+    "mdb_id": "mdb-718",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

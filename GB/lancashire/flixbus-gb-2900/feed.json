@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Flixbus GB",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Lancashire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.gis.flix.tech/gtfs_generic_gb.zip",
+    "mdb_id": "mdb-2900",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

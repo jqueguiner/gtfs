@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TRENITALIA FRANCE",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "city": "Milan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bdecea2c-ebc9-4f22-812d-927e4a2e4bad",
+    "mdb_id": "tdg-81653",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.303283,
+    "maximum_latitude": 48.84472222,
+    "minimum_longitude": 2.37361111,
+    "maximum_longitude": 9.205479
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

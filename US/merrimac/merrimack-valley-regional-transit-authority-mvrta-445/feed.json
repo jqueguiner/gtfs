@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Merrimack Valley Regional Transit Authority (MVRTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Merrimac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/merrimackvalley-ma-us/merrimackvalley-ma-us.zip",
+    "mdb_id": "mdb-445",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.32720539487104,
+    "maximum_latitude": 42.9102540306502,
+    "minimum_longitude": -71.313978406335,
+    "maximum_longitude": -70.8103630809593
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Rail Transport Germany",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "city": "Monza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/rv_free/latest.zip",
+    "mdb_id": "mdb-1089",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.91107,
+    "maximum_latitude": 54.9334,
+    "minimum_longitude": 0.164691,
+    "maximum_longitude": 19.13306
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat des Mobilités Pays Basque-Adour",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Amorots-Succos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a6c39f5b-9e05-4dc6-be13-f2620ff73216",
+    "mdb_id": "tdg-80701",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.01850009,
+    "maximum_latitude": 43.576383,
+    "minimum_longitude": -1.814579,
+    "maximum_longitude": -0.860511
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Turistička agencija Li-Bus d.o.o. (Livnobus)",
+    "country": "BA",
+    "subdivision": "Federation of Bosnia and Herzegovina",
+    "city": "City of Mostar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://livnobus.com/gtfs/google-transit",
+    "mdb_id": "mdb-3427",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

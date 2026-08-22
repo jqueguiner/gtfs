@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chautauqua Area Regional Transit System (CARTS)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Chautauqua County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/CARTS_Chautauqua_Area_Regional_Transit_System_-_City_Routes.zip",
+    "mdb_id": "mdb-304",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.052686,
+    "maximum_latitude": 42.497036,
+    "minimum_longitude": -79.57648,
+    "maximum_longitude": -79.060006
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

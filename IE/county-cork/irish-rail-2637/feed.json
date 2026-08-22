@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Irish Rail",
+    "country": "IE",
+    "subdivision": "Munster",
+    "city": "County Cork"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Irish_Rail.zip",
+    "mdb_id": "mdb-2637",
+    "license": "https://www.transportforireland.ie/transitData/PT_Data.html"
+  },
+  "bbox": {
+    "minimum_latitude": 51.848734,
+    "maximum_latitude": 54.594684,
+    "minimum_longitude": -9.699159,
+    "maximum_longitude": -5.939831
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

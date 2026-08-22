@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de Cambrai",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Séranvillers-Forenville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d00d1684-6980-4f84-ac38-363b6f058a68",
+    "mdb_id": "tdg-80751",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

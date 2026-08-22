@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "People for People (Community Connector)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Lincoln County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pfp-wa-us/pfp-wa-us.zip",
+    "mdb_id": "mdb-271",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

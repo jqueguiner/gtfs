@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Chantepie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/69948a62-0bac-4081-8ae0-d71c4d5b751d",
+    "mdb_id": "tdg-81463",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

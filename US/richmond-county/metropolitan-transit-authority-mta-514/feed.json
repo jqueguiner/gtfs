@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metropolitan Transit Authority (MTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Richmond County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://web.mta.info/developers/data/nyct/bus/google_transit_staten_island.zip",
+    "mdb_id": "mdb-514",
+    "license": "http://web.mta.info/developers/developer-data-terms.html"
+  },
+  "bbox": {
+    "minimum_latitude": 40.502981,
+    "maximum_latitude": 40.766314,
+    "minimum_longitude": -74.252016,
+    "maximum_longitude": -73.968693
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

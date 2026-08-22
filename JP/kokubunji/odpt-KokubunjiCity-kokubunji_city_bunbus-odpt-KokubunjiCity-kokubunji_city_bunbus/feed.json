@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "国分寺市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kokubunji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip?date=current",
+    "mdb_id": "odpt-KokubunjiCity-kokubunji_city_bunbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.690035,
+    "maximum_latitude": 35.721926,
+    "minimum_longitude": 139.433427,
+    "maximum_longitude": 139.490918
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

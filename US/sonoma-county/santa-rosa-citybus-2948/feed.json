@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Santa Rosa CityBus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Sonoma County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=SR",
+    "mdb_id": "mdb-2948",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 38.401882,
+    "maximum_latitude": 38.480714,
+    "minimum_longitude": -122.769871,
+    "maximum_longitude": -122.5811514711
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

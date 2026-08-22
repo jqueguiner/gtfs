@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tahoe Transportation District",
+    "country": "US",
+    "subdivision": "Nevada",
+    "city": "Douglas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/tahoe-ca-us/tahoe-ca-us.zip",
+    "mdb_id": "mdb-897",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.89462,
+    "maximum_latitude": 39.251813,
+    "minimum_longitude": -120.010116,
+    "maximum_longitude": -119.739893
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chemung County (C-TRAN)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Chemung County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Chemung_C_TRAN.zip",
+    "mdb_id": "ntd-20005",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.980677,
+    "maximum_latitude": 42.447267,
+    "minimum_longitude": -77.07267,
+    "maximum_longitude": -76.227525
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

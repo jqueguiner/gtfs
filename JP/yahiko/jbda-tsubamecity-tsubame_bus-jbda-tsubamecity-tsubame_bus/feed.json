@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "燕市",
+    "country": "JP",
+    "subdivision": "Niigata Prefecture",
+    "city": "Yahiko"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsubamecity/feeds/tsubame_bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsubamecity-tsubame_bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.62668,
+    "maximum_latitude": 37.710485,
+    "minimum_longitude": 138.82002,
+    "maximum_longitude": 138.9571
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

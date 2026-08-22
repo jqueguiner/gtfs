@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Optymo - Belfort",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Bourogne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/797c424e-7d28-4e65-84f6-6677e47d8a6e",
+    "mdb_id": "tdg-79374",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.445607,
+    "maximum_latitude": 47.820923,
+    "minimum_longitude": 6.77158,
+    "maximum_longitude": 7.117168
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

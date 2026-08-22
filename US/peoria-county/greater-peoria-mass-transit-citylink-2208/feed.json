@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greater Peoria Mass Transit (CityLink)",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Peoria County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://clk.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2208",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.538532,
+    "maximum_latitude": 40.816821,
+    "minimum_longitude": -89.694888,
+    "maximum_longitude": -89.481697
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

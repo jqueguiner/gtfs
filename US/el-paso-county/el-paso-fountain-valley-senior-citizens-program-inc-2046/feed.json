@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "El Paso Fountain Valley Senior Citizens Program Inc",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "El Paso County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/elpaso-co-us/elpaso-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2046",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.82466,
+    "maximum_latitude": 38.82466,
+    "minimum_longitude": -104.525611,
+    "maximum_longitude": -104.525611
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

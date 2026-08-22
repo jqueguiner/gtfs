@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Béthisy-Saint-Pierre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d9ea4b4a-0717-4a7d-bd14-054afa192457",
+    "mdb_id": "tdg-81146",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.259934,
+    "maximum_latitude": 49.45354,
+    "minimum_longitude": 2.71893,
+    "maximum_longitude": 2.93163
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

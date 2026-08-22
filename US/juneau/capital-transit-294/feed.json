@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Transit",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Juneau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cityandboroughofjuneau-ak-us/cityandboroughofjuneau-ak-us.zip",
+    "mdb_id": "mdb-294",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

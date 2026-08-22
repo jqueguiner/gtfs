@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Advance Transit",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Lebanon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/advancetransit-vt-us/advancetransit-vt-us.zip",
+    "mdb_id": "mdb-631",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

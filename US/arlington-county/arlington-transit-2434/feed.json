@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Arlington Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Arlington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/arlington-va-us/arlington-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2434",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.864458,
+    "maximum_latitude": 38.864458,
+    "minimum_longitude": -77.099638,
+    "maximum_longitude": -77.099638
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

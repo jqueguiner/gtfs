@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JR東日本盛岡支社",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Sotogahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/jr-east-morioka/feeds/JReast_wandotaxi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-jr-east-morioka-JReast_wandotaxi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 41.03843,
+    "maximum_latitude": 41.25739,
+    "minimum_longitude": 140.34257,
+    "maximum_longitude": 140.64306
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

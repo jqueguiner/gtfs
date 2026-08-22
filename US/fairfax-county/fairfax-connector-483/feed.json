@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fairfax Connector",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Fairfax County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fairfaxcounty.gov/connector/sites/connector/files/Assets/connector_gtfs.zip",
+    "mdb_id": "mdb-483",
+    "license": "https://www.fairfaxcounty.gov/connector/bustracker/data"
+  },
+  "bbox": {
+    "minimum_latitude": 38.687795,
+    "maximum_latitude": 39.027003,
+    "minimum_longitude": -77.465336,
+    "maximum_longitude": -77.02373
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

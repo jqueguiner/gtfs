@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "New River Transit Authority",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Raleigh County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/beckley/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-6713",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

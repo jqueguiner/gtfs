@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "South Metro Area Regional Transit (SMART)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Wilsonville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mysmartbus.com/gtfs",
+    "mdb_id": "mdb-2706",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.937789,
+    "maximum_latitude": 45.437505,
+    "minimum_longitude": -123.03502,
+    "maximum_longitude": -122.56816
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

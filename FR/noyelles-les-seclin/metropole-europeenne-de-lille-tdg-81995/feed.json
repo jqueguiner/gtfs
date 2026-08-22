@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole Européenne de Lille",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Noyelles-lès-Seclin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c9e5dd3f-8eed-4ad7-aec2-915240599cf6",
+    "mdb_id": "tdg-81995",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 50.512395,
+    "maximum_latitude": 50.788235,
+    "minimum_longitude": 2.801548,
+    "maximum_longitude": 3.273467
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

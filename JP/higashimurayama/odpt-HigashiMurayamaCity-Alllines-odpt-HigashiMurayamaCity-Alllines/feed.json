@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東村山市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Higashimurayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiMurayamaCity/Alllines.zip?date=current",
+    "mdb_id": "odpt-HigashiMurayamaCity-Alllines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.748494,
+    "maximum_latitude": 35.777566,
+    "minimum_longitude": 139.448424,
+    "maximum_longitude": 139.492925
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

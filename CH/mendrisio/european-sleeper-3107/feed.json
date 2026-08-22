@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "European Sleeper",
+    "country": "CH",
+    "subdivision": "Ticino",
+    "city": "Mendrisio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/eu-es.gtfs.zip",
+    "mdb_id": "mdb-3107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

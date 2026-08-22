@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Delcomar",
+    "country": "IT",
+    "subdivision": "Sardinia",
+    "city": "U Pàize/Carloforte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.sardegnamobilita.it/opendata/dati_mare.zip",
+    "mdb_id": "mdb-1047",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.it"
+  },
+  "bbox": {
+    "minimum_latitude": 39.1114042,
+    "maximum_latitude": 41.2119799,
+    "minimum_longitude": 8.2940375,
+    "maximum_longitude": 9.4067082
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

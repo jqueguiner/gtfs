@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Grays Harbor Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Grays Harbor County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/graysharbor_google_transit.zip",
+    "mdb_id": "mdb-263",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.71725765,
+    "maximum_latitude": 47.474577,
+    "minimum_longitude": -124.293883,
+    "maximum_longitude": -122.90060878
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

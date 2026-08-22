@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oregon Department of Transportation",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clatsop County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://oregon-gtfs.trilliumtransit.com/gtfs_data/point-or-us/point-or-us.zip",
+    "mdb_id": "mdb-800",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": {
+    "minimum_latitude": 41.75382918824219,
+    "maximum_latitude": 46.19021,
+    "minimum_longitude": -124.49807801901277,
+    "maximum_longitude": -116.951137
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

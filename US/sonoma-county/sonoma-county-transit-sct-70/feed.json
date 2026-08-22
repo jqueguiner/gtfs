@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sonoma County Transit (SCT)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Sonoma County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip",
+    "mdb_id": "mdb-70",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

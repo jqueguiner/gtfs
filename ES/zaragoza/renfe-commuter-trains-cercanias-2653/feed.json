@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Renfe commuter trains (Cercanias)",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Zaragoza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ssl.renfe.com/ftransit/Fichero_CER_FOMENTO/fomento_transit.zip",
+    "mdb_id": "mdb-2653",
+    "license": "https://data.renfe.com/dataset/horarios-cercanias/resource/6f1523c6-a9e3-48e3-9ace-bb107a762be6"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

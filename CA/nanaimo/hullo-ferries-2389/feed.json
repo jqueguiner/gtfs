@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hullo Ferries",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Nanaimo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hullo.com/gtfs/gtfs-hullo.zip",
+    "mdb_id": "mdb-2389",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

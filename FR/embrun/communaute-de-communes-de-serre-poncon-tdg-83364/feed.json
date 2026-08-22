@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de communes de Serre-Ponçon",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Embrun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bb9234b1-3837-4765-b630-276dc8bdabea",
+    "mdb_id": "tdg-83364",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.546798,
+    "maximum_latitude": 44.587697,
+    "minimum_longitude": 6.478987,
+    "maximum_longitude": 6.507098
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

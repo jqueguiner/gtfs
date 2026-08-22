@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alliance Atlantique",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Lunay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c85977b8-7d18-439c-935c-935286503003",
+    "mdb_id": "tdg-82832",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

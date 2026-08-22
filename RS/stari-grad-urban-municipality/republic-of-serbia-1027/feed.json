@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Republic of Serbia",
+    "country": "RS",
+    "subdivision": "City of Belgrade",
+    "city": "Stari Grad Urban Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.rs/sr/datasets/r/729be9a1-7ed9-453d-9a3d-68fa30f07529",
+    "mdb_id": "mdb-1027",
+    "license": "https://data.gov.rs/sr/terms/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.3791319545,
+    "maximum_latitude": 45.066988,
+    "minimum_longitude": 20.10077,
+    "maximum_longitude": 20.7176543577
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

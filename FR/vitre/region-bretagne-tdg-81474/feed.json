@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Vitré"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b7a835d4-7a93-4d8b-87bd-c657800fc29f",
+    "mdb_id": "tdg-81474",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Västmanland",
+    "country": "SE",
+    "subdivision": "Västmanland County",
+    "city": "Västmanland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vastmanland/vastmanland.zip",
+    "mdb_id": "mdb-3251",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 59.352754,
+    "maximum_latitude": 60.169338,
+    "minimum_longitude": 15.528333,
+    "maximum_longitude": 16.863343
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

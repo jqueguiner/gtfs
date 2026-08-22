@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blackhawk and Central City Tramway",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Gilpin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/blackhawktramway-co-us/blackhawktramway-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2041",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

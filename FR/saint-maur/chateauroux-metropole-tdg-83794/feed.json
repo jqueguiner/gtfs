@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CHATEAUROUX METROPOLE",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Saint-Maur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bd5489c2-5f32-4b06-8d55-e5a6f4fd6a51",
+    "mdb_id": "tdg-83794",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.68166,
+    "maximum_latitude": 46.894806,
+    "minimum_longitude": 1.559362,
+    "maximum_longitude": 1.893637
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

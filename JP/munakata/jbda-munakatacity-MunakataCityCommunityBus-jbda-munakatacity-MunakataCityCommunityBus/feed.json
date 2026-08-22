@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "宗像市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Munakata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/munakatacity/feeds/MunakataCityCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-munakatacity-MunakataCityCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.77534002,
+    "maximum_latitude": 33.88643911,
+    "minimum_longitude": 130.4835245,
+    "maximum_longitude": 130.6294287
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

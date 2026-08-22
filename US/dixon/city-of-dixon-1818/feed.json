@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Dixon",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Dixon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/test/TestFlex2.zip",
+    "mdb_id": "mdb-1818",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

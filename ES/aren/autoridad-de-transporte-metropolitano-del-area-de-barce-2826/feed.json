@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autoridad de Transporte Metropolitano del Área de Barcelona (ATM) Buses and trains in Catalonia (full version)",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Arén"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2060",
+    "mdb_id": "mdb-2826",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

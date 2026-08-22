@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Loudoun County Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Loudoun County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.loudoun.gov/loudountransitgtfs",
+    "mdb_id": "mdb-1053",
+    "license": "http://virginia-gtfs.com/"
+  },
+  "bbox": {
+    "minimum_latitude": 38.64678,
+    "maximum_latitude": 39.411608,
+    "minimum_longitude": -77.63649,
+    "maximum_longitude": -77.008959
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

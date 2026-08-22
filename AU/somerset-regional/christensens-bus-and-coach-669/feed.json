@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Christensens Bus and Coach",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Somerset Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/KIL_GTFS.zip",
+    "mdb_id": "mdb-669",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VICHY COMMUNAUTE",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Abrest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c087ca61-f4db-44b2-bdc1-ec221c2bf762",
+    "mdb_id": "tdg-84137",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.078378,
+    "maximum_latitude": 46.366845,
+    "minimum_longitude": 2.588748,
+    "maximum_longitude": 3.473617
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

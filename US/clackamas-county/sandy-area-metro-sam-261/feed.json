@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sandy Area Metro (SAM)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/sandy-or-us/sandy-or-us.zip",
+    "mdb_id": "mdb-261",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

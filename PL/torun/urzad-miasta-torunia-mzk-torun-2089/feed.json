@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Urząd Miasta Torunia (MZK Toruń)",
+    "country": "PL",
+    "subdivision": "Kuyavian-Pomeranian Voivodeship",
+    "city": "Toruń"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/torun.zip",
+    "mdb_id": "mdb-2089",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.9263168359386,
+    "maximum_latitude": 53.134097,
+    "minimum_longitude": 18.3299133181572,
+    "maximum_longitude": 18.9227700233459
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

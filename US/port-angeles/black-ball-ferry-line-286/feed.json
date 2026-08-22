@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Black Ball Ferry Line",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Port Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/blackball_google_transit.zip",
+    "mdb_id": "mdb-286",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

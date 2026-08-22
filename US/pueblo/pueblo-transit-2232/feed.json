@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pueblo Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pueblo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pueblo-co-us/pueblo-co-us.zip",
+    "mdb_id": "mdb-2232",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

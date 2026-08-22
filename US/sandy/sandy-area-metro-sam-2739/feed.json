@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sandy Area Metro (SAM)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Sandy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/sandyor/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2739",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

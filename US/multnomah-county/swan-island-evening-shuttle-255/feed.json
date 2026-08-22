@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Swan Island Evening Shuttle",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Multnomah County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/swanisland-or-us/swanisland-or-us.zip",
+    "mdb_id": "mdb-255",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.4936652333765,
+    "maximum_latitude": 45.74247242391802,
+    "minimum_longitude": -122.87801267930496,
+    "maximum_longitude": -122.28771431940775
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

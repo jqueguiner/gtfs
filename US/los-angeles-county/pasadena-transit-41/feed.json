@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pasadena Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rt.pasadenatransit.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "mdb-41",
+    "license": "https://www.cityofpasadena.net/pasadena-transit/real-time-applications/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.10971,
+    "maximum_latitude": 34.197933,
+    "minimum_longitude": -118.19336,
+    "maximum_longitude": -118.068852
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

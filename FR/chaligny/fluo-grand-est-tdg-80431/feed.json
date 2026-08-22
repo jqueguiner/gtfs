@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Chaligny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80431/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80431",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.5996439,
+    "maximum_latitude": 48.7945759,
+    "minimum_longitude": 6.0767718,
+    "maximum_longitude": 6.352883
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

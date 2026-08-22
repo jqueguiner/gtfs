@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "中土佐町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Nakatosa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatosatown/feeds/GTFS-Nakatosatown_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nakatosatown-GTFS-Nakatosatown_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.270868,
+    "maximum_latitude": 33.419193,
+    "minimum_longitude": 133.107394,
+    "maximum_longitude": 133.250253
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Rosignano Marittimo",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Rosignano Marittimo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/71aa554d-4229-4fee-8d9d-533a15d5beae/download/65-urbanorosignanomarittimo.gtfs",
+    "mdb_id": "tld-6976",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.3265818012685,
+    "maximum_latitude": 43.485204348729,
+    "minimum_longitude": 10.3791960673548,
+    "maximum_longitude": 10.4768835034981
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

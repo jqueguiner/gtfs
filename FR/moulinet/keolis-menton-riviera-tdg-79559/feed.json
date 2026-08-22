@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Keolis Menton Riviera",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Moulinet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/72609821-2459-47fb-a63b-3dbbc0d96c92",
+    "mdb_id": "tdg-79559",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.731873,
+    "maximum_latitude": 44.115023,
+    "minimum_longitude": 7.39984,
+    "maximum_longitude": 7.665214
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

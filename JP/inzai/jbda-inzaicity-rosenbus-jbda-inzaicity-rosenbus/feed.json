@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "印西市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Inzai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inzaicity/feeds/rosenbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-inzaicity-rosenbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.725657,
+    "maximum_latitude": 35.83054,
+    "minimum_longitude": 140.154439,
+    "maximum_longitude": 140.230442
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "富山市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Toyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyamacity/feeds/horikawaminamicommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyamacity-horikawaminamicommunitybus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.657106,
+    "maximum_latitude": 36.67588,
+    "minimum_longitude": 137.212135,
+    "maximum_longitude": 137.238026
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

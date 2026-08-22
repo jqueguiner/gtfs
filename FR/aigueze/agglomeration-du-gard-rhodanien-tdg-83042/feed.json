@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "AGGLOMERATION DU GARD RHODANIEN",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Aiguèze"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3ba2db00-235a-4958-980e-5cdd20ce204e",
+    "mdb_id": "tdg-83042",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.974121,
+    "maximum_latitude": 44.379641,
+    "minimum_longitude": 4.4163322,
+    "maximum_longitude": 4.7553527
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

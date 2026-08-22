@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'agglomération Le Cotentin",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Cherbourg-en-Cotentin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2e97c9b3-a59f-42dd-9b9e-a232fa771f21",
+    "mdb_id": "tdg-79831",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.104003,
+    "maximum_latitude": 49.715702,
+    "minimum_longitude": -1.944424,
+    "maximum_longitude": -1.259287
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

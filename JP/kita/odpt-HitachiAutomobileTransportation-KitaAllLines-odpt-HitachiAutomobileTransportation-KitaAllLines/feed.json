@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "日立自動車交通株式会社",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kita"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/KitaAllLines.zip?date=current",
+    "mdb_id": "odpt-HitachiAutomobileTransportation-KitaAllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.734274,
+    "maximum_latitude": 35.793804,
+    "minimum_longitude": 139.6925,
+    "maximum_longitude": 139.759635
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

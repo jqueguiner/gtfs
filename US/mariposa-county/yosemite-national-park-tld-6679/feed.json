@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yosemite National Park",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Mariposa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/yose/mariposa-grove-shuttle-service.zip",
+    "mdb_id": "tld-6679",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

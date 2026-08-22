@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Ault"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/429d30fb-ba6e-4e90-ad82-6d589a98cbfd",
+    "mdb_id": "tdg-82277",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 50.43106,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 3.298251
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

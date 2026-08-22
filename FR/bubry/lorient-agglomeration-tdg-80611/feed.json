@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lorient Agglomération",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Bubry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c32dc40b-3538-4796-a6c6-fd239d6c1364",
+    "mdb_id": "tdg-80611",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.627059,
+    "maximum_latitude": 48.018682,
+    "minimum_longitude": -3.526621,
+    "maximum_longitude": -3.065159
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

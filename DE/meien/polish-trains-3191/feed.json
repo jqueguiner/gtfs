@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Polish Trains",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Meißen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/polish_trains.zip",
+    "mdb_id": "mdb-3191",
+    "license": "https://bip.plk-sa.pl/ponowne-wykorzystywanie"
+  },
+  "bbox": {
+    "minimum_latitude": 45.33013646601,
+    "maximum_latitude": 54.88603560527,
+    "minimum_longitude": 8.68647335887,
+    "maximum_longitude": 36.20335220218
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

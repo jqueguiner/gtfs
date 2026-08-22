@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TS Laevad OÜ",
+    "country": "EE",
+    "subdivision": "Saare maakond",
+    "city": "Muhu vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/tslaevad.zip",
+    "mdb_id": "mdb-3384",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": {
+    "minimum_latitude": 58.5731054,
+    "maximum_latitude": 58.9047595,
+    "minimum_longitude": 23.0461342,
+    "maximum_longitude": 23.5084146
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

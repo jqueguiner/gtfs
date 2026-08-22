@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "L'agglo Foix-Varilhes",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Foix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8c9dd4f7-f6a2-4760-915e-89e8f9666c5b",
+    "mdb_id": "tdg-25381",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 42.917216,
+    "maximum_latitude": 43.08017,
+    "minimum_longitude": 1.55832,
+    "maximum_longitude": 1.64832
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

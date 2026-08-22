@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Cauffry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2ca2ec9b-666a-4fc8-a348-6e7ec79e59a0",
+    "mdb_id": "tdg-83922",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

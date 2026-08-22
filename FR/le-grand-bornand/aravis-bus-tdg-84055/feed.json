@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ARAVIS Bus",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Le Grand-Bornand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ef75d2f7-770c-4644-ad07-fdea7eef99ca",
+    "mdb_id": "tdg-84055",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.78989808049695,
+    "maximum_latitude": 45.99219483479743,
+    "minimum_longitude": 6.214120249004376,
+    "maximum_longitude": 6.52039
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

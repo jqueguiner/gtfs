@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ann Arbor Area Transportation Authority (TheRide)",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Washtenaw County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.theride.org/sites/default/files/google/google_transit.zip",
+    "mdb_id": "mdb-415",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.189301,
+    "maximum_latitude": 42.317717,
+    "minimum_longitude": -83.843184,
+    "maximum_longitude": -83.553267
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

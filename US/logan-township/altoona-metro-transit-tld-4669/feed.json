@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Altoona Metro Transit",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Logan Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://amtran.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4669",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.428089,
+    "maximum_latitude": 40.680805,
+    "minimum_longitude": -78.424781,
+    "maximum_longitude": -78.236795
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

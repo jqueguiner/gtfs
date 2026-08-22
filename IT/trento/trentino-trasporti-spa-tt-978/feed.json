@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trentino Trasporti SpA (TT)",
+    "country": "IT",
+    "subdivision": "Trentino-Alto Adige/Südtirol",
+    "city": "Trento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip",
+    "mdb_id": "mdb-978",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.83687,
+    "maximum_latitude": 46.177635,
+    "minimum_longitude": 10.970128,
+    "maximum_longitude": 11.18477
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

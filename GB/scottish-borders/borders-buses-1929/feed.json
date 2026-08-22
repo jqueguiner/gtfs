@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Borders Buses",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Scottish Borders"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/bordersbuses/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1929",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 54.892709,
+    "maximum_latitude": 56.001482,
+    "minimum_longitude": -3.355792,
+    "maximum_longitude": -1.581299
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

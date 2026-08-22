@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GoCary",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Wake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gocary.org/_GTFS",
+    "mdb_id": "mdb-2277",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.714045,
+    "maximum_latitude": 35.83141,
+    "minimum_longitude": -78.896151,
+    "maximum_longitude": -78.705152
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

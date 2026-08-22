@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "DiviaMobilités",
+    "country": "FR",
+    "subdivision": "Bourgogne – Franche-Comté",
+    "city": "Dijon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e0dbd217-15cd-4e28-9459-211a27511a34",
+    "mdb_id": "tdg-80742",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.23035,
+    "maximum_latitude": 47.368587,
+    "minimum_longitude": 4.916306,
+    "maximum_longitude": 5.182949
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

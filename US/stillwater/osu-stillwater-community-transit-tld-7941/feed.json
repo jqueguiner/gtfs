@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OSU-Stillwater Community Transit",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "city": "Stillwater"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://okstate.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "tld-7941",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

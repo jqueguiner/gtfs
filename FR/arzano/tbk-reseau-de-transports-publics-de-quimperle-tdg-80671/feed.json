@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TBK - Réseau de transports publics de Quimperlé",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Arzano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e530ec1c-7432-4c3a-9908-e1c5fb44de3a",
+    "mdb_id": "tdg-80671",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.76648,
+    "maximum_latitude": 48.086078,
+    "minimum_longitude": -3.805557,
+    "maximum_longitude": -3.332212
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Miejski Zakład Komunikacji w Wejherowie (MZK Wejherowo)",
+    "country": "PL",
+    "subdivision": "Pomeranian Voivodeship",
+    "city": "Wejherowo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/wejherowo.zip",
+    "mdb_id": "mdb-2084",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 54.567562,
+    "maximum_latitude": 54.640766,
+    "minimum_longitude": 18.097869,
+    "maximum_longitude": 18.40336
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

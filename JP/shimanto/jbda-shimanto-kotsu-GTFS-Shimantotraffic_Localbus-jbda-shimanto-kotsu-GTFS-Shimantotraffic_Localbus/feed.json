@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社四万十交通",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Shimanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimanto-kotsu/feeds/GTFS-Shimantotraffic_Localbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shimanto-kotsu-GTFS-Shimantotraffic_Localbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

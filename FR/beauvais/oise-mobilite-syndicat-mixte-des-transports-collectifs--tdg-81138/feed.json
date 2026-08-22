@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Beauvais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/191ae476-2ce8-48d7-bed2-b9cb93f63364",
+    "mdb_id": "tdg-81138",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.340329,
+    "maximum_latitude": 49.609404,
+    "minimum_longitude": 1.952699,
+    "maximum_longitude": 2.33168
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

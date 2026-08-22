@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "新常磐交通株式会社",
+    "country": "JP",
+    "subdivision": "Fukushima Prefecture",
+    "city": "Iwaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinjobankotsu/feeds/SHINJOBANKOTSU/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shinjobankotsu-SHINJOBANKOTSU",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.879274,
+    "maximum_latitude": 37.509703,
+    "minimum_longitude": 140.616325,
+    "maximum_longitude": 141.034241
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

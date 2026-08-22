@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Centre Area Transportation Authority (CATABUS)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Centre County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://catabus.com/wp-content/uploads/google_transit.zip",
+    "mdb_id": "ntd-30054",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.761013,
+    "maximum_latitude": 40.8381401156,
+    "minimum_longitude": -77.925545,
+    "maximum_longitude": -77.80072
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

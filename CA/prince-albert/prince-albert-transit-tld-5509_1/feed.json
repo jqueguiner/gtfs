@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Prince Albert Transit",
+    "country": "CA",
+    "subdivision": "Saskatchewan",
+    "city": "Prince Albert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.citypa.ca/en/parking-streets-and-transportation/resources/Transit/2025-01-02-Google-Transit-GTFS.zip",
+    "mdb_id": "tld-5509_1",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 53.17601,
+    "maximum_latitude": 53.21066,
+    "minimum_longitude": -105.80245,
+    "maximum_longitude": -105.69901
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

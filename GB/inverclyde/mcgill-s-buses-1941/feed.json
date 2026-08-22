@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "McGill's Buses",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Inverclyde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/mcgills/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1941",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

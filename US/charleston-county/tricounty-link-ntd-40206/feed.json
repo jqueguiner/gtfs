@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TriCounty Link",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Charleston County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/tricountylink-sc-us/tricountylink-sc-us.zip",
+    "mdb_id": "ntd-40206",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 32.569305235571,
+    "maximum_latitude": 33.581350752655,
+    "minimum_longitude": -80.57393424893417,
+    "maximum_longitude": -79.4640023086412
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

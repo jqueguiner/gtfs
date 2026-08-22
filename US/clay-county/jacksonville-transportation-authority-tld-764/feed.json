@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Jacksonville Transportation Authority",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Clay County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ride.jtafla.com/gtfs-archive/gtfs.zip",
+    "mdb_id": "tld-764",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 29.6461,
+    "maximum_latitude": 30.624992,
+    "minimum_longitude": -82.3226,
+    "maximum_longitude": -81.337585
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

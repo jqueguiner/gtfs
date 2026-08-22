@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kalamazoo Metro Transit",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Kalamazoo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://trackmybus.kmetro.org/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-674",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.1647109985,
+    "maximum_latitude": 42.3328857422,
+    "minimum_longitude": -85.691495,
+    "maximum_longitude": -85.510246
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

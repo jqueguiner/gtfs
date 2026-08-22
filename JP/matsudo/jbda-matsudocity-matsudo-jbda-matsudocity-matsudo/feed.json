@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "松戸市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Matsudo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo/files/feed.zip?rid=current",
+    "mdb_id": "jbda-matsudocity-matsudo",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7989616157387,
+    "maximum_latitude": 35.8125026320257,
+    "minimum_longitude": 139.912000777153,
+    "maximum_longitude": 139.932891432531
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

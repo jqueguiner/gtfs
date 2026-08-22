@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Weir Bros, Pickering Motors, Tranzit",
+    "country": "NZ",
+    "subdivision": "Taranaki",
+    "city": "New Plymouth District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/trc-nz/trc-nz.zip",
+    "mdb_id": "tld-7899",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -39.75422610861657,
+    "maximum_latitude": -38.99143,
+    "minimum_longitude": 173.803529,
+    "maximum_longitude": 174.472289
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

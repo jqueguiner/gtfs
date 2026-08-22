@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Public Transport Germany",
+    "country": "FR",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/nv_free/latest.zip",
+    "mdb_id": "mdb-1090",
+    "license": "https://www.nvbw.de/open-data/lizenz"
+  },
+  "bbox": {
+    "minimum_latitude": 39.08439,
+    "maximum_latitude": 62.897938,
+    "minimum_longitude": 0.149493,
+    "maximum_longitude": 31.268496
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

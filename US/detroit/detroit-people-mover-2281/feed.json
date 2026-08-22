@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Detroit People Mover",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Detroit"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hosted-gtfs-feeds.s3.amazonaws.com/DPM/gtfs.zip",
+    "mdb_id": "mdb-2281",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tri Delta Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Contra Costa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rta.trideltatransit.com/rtt/public/resource/gtfs.zip",
+    "mdb_id": "ntd-90162",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

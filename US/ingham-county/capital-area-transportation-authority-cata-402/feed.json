@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Capital Area Transportation Authority (CATA)",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ingham County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://developers.cata.org/gtfsdownload.ashx?key=5b4690ed-0a69-4320-897b-7d92def4b96f&data=base",
+    "mdb_id": "mdb-402",
+    "license": "https://www.cata.org/Portals/0/CATAGTFSLicenseAgreement20150323.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.56702,
+    "maximum_latitude": 42.774609,
+    "minimum_longitude": -84.630668,
+    "maximum_longitude": -84.173988
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

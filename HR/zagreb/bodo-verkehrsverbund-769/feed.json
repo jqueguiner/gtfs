@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "bodo Verkehrsverbund",
+    "country": "HR",
+    "subdivision": "City of Zagreb",
+    "city": "Zagreb"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/bodo.zip",
+    "mdb_id": "mdb-769",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 45.070163,
+    "maximum_latitude": 52.5076076,
+    "minimum_longitude": 2.3805175,
+    "maximum_longitude": 21.2676592
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

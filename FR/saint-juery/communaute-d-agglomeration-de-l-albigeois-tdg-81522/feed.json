@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'agglomération de l'Albigeois",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Saint-Juéry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/79bc8313-3499-4bb3-a809-a8d80b44000a",
+    "mdb_id": "tdg-81522",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "La Chaize-le-Vicomte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c0bd9ff1-97f9-43f8-aca4-8e80d7728324",
+    "mdb_id": "tdg-79818",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 27.178301,
+    "maximum_latitude": 55.617901,
+    "minimum_longitude": -73.740799,
+    "maximum_longitude": 33.7994
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

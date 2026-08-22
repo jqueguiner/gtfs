@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Fuveau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ab931edc-0bc1-4c66-960a-dc546b46df03",
+    "mdb_id": "tdg-39601",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.37661804,
+    "maximum_latitude": 43.73099204,
+    "minimum_longitude": 5.1697581,
+    "maximum_longitude": 5.77678
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

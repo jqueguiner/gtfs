@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ASPO Olbia",
+    "country": "IT",
+    "subdivision": "Sardinia",
+    "city": "Olbia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.aspo.it/wp-content/uploads/open_data.zip",
+    "mdb_id": "mdb-2008",
+    "license": "https://www.sardegnamobilita.it/open-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

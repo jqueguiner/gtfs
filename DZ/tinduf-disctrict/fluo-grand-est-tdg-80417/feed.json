@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "DZ",
+    "subdivision": "Tinduf",
+    "city": "Tinduf Disctrict"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80417/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80417",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 49.0086243,
+    "minimum_longitude": -3.4045694519770127,
+    "maximum_longitude": 8.2010298
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

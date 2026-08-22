@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "NVBW - Nahverkehrsgesellschaft Baden-Württemberg mbH",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aschaffenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/bwgesamt.zip",
+    "mdb_id": "mdb-2393",
+    "license": "https://www.nvbw.de/open-data/lizenz"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 55.66449,
+    "minimum_longitude": -8.8490164,
+    "maximum_longitude": 30.5198305
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

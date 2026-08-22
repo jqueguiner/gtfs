@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "University of Georgia",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Athens-Clarke County Unified Government"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/uga/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-2276",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.894542,
+    "maximum_latitude": 33.9645,
+    "minimum_longitude": -83.4043,
+    "maximum_longitude": -83.340337113
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

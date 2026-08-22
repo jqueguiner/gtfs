@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Busturas",
+    "country": "LT",
+    "subdivision": "Kaunas County",
+    "city": "Gudžiūnų seniūnija"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stops.lt/siauliai/siauliai/gtfs.zip",
+    "mdb_id": "mdb-1834",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 54.6704,
+    "maximum_latitude": 56.00055,
+    "minimum_longitude": 21.07825,
+    "maximum_longitude": 25.28059
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

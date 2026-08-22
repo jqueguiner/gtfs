@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ariva",
+    "country": "SI",
+    "subdivision": "Jesenice",
+    "city": "Jesenice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://b2b.nap.si/data/b2b.gtfs.jesenice",
+    "mdb_id": "mdb-2942",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.sl"
+  },
+  "bbox": {
+    "minimum_latitude": 46.406663,
+    "maximum_latitude": 46.451381,
+    "minimum_longitude": 14.002296,
+    "maximum_longitude": 14.108123
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

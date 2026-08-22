@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "小松市",
+    "country": "JP",
+    "subdivision": "Ishikawa Prefecture",
+    "city": "Komatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/komatsucity/feeds/blue/files/feed.zip?rid=current",
+    "mdb_id": "jbda-komatsucity-blue",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

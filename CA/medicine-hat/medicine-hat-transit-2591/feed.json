@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Medicine Hat Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Medicine Hat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://medicinehat.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/",
+    "mdb_id": "mdb-2591",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

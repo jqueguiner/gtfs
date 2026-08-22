@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Inter-Island Ferry",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Unorganized Borough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/interisland-ak-us/interisland-ak-us.zip",
+    "mdb_id": "mdb-243",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

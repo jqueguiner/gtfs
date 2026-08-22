@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BAS.MY Johor Bahru",
+    "country": "MY",
+    "subdivision": "Johor",
+    "city": "Kota Tinggi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-johor",
+    "mdb_id": "mdb-3165",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 1.3511986661526,
+    "maximum_latitude": 1.72956,
+    "minimum_longitude": 103.3883,
+    "maximum_longitude": 103.95566
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

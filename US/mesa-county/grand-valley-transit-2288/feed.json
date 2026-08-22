@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Valley Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Mesa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/grandvalleytransit-co-us/grandvalleytransit-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2288",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Publicznego w Krakowie (ZTP Kraków)",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Krakow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ztp.krakow.pl/GTFS_KRK_M.zip",
+    "mdb_id": "mdb-2598",
+    "license": "https://ztp.krakow.pl/"
+  },
+  "bbox": {
+    "minimum_latitude": 49.97266,
+    "maximum_latitude": 50.1153,
+    "minimum_longitude": 19.79813,
+    "maximum_longitude": 20.16424
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

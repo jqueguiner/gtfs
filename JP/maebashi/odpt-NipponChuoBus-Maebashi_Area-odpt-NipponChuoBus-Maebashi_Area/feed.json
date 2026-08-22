@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "日本中央バス株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Maebashi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NipponChuoBus/Maebashi_Area.zip?date=current",
+    "mdb_id": "odpt-NipponChuoBus-Maebashi_Area",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.666565,
+    "maximum_latitude": 38.259454,
+    "minimum_longitude": 135.43274074064985,
+    "maximum_longitude": 140.884324
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

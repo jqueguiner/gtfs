@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Wave Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "New Hanover County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.wavetransit.com/gtransit/google_transit.zip",
+    "mdb_id": "mdb-1110",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.14164,
+    "maximum_latitude": 34.251655,
+    "minimum_longitude": -77.949537,
+    "maximum_longitude": -77.828802
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

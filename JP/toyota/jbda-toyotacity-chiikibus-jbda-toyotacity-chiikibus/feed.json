@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "豊田市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Toyota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/chiikibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyotacity-chiikibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.006138,
+    "maximum_latitude": 35.264786,
+    "minimum_longitude": 137.040756,
+    "maximum_longitude": 137.581238
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

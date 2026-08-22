@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "足利市",
+    "country": "JP",
+    "subdivision": "Tochigi Prefecture",
+    "city": "Ashikaga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ashikagacity/feeds/Ashikaga-route-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ashikagacity-Ashikaga-route-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.271583,
+    "maximum_latitude": 36.420153,
+    "minimum_longitude": 139.364052,
+    "maximum_longitude": 139.537494
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

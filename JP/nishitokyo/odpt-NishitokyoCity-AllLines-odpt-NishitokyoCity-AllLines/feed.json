@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西東京市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Nishitokyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NishitokyoCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-NishitokyoCity-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.711147,
+    "maximum_latitude": 35.7600080690924,
+    "minimum_longitude": 139.513488282961,
+    "maximum_longitude": 139.567461579503
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

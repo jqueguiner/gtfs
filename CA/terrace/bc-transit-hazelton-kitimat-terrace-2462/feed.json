@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BC Transit (Hazelton | Kitimat | Terrace)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Terrace"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=26",
+    "mdb_id": "mdb-2462",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": {
+    "minimum_latitude": 53.96613,
+    "maximum_latitude": 55.35218,
+    "minimum_longitude": -128.70983,
+    "maximum_longitude": -127.16697
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "OVapi",
+    "country": "DK",
+    "subdivision": "Region of Southern Denmark",
+    "city": "Region of Southern Denmark"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.ovapi.nl/gtfs-nl.zip",
+    "mdb_id": "mdb-1077",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 55.67276,
+    "minimum_longitude": -0.12515,
+    "maximum_longitude": 21.05204
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

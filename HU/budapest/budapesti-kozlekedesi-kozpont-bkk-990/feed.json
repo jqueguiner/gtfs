@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Budapesti Közlekedési Központ (BKK)",
+    "country": "HU",
+    "subdivision": "Budapest",
+    "city": "Budapest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://go.bkk.hu/api/static/v1/public-gtfs/budapest_gtfs.zip",
+    "mdb_id": "mdb-990",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.174786,
+    "maximum_latitude": 47.661056,
+    "minimum_longitude": 18.719305,
+    "maximum_longitude": 19.377499
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

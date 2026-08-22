@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "志摩市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Shima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimacity/feeds/agowanteikisen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shimacity-agowanteikisen",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.2632240162361,
+    "maximum_latitude": 34.3073919995513,
+    "minimum_longitude": 136.809788346291,
+    "maximum_longitude": 136.818875670433
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

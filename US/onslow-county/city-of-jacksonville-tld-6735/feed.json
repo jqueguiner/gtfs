@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Jacksonville",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Onslow County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/jacksonville/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-6735",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

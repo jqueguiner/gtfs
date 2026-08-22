@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Réseau beeMob - Transports en commun de l'Agglomération Béziers Méditerranée",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Sauvian"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c1581a3a-0b78-4944-905c-a8530206648a",
+    "mdb_id": "tdg-83368",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.22087383846543,
+    "maximum_latitude": 43.47077973282346,
+    "minimum_longitude": 3.1697804662704288,
+    "maximum_longitude": 3.3753045622529454
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

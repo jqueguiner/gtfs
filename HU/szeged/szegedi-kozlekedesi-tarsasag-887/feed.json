@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Szegedi Közlekedési Társaság",
+    "country": "HU",
+    "subdivision": "Csongrád-Csanád County",
+    "city": "Szeged"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.menetbrand.com/download/szeged",
+    "mdb_id": "mdb-887",
+    "license": "http://szegedimenetrend.hu/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.202172,
+    "maximum_latitude": 46.29045,
+    "minimum_longitude": 20.023927,
+    "maximum_longitude": 20.207838
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stanford Marguerite Shuttle (SMS)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transportation-forms.stanford.edu/google/google_transit.zip",
+    "mdb_id": "mdb-59",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

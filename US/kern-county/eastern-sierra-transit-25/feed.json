@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Sierra Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Kern County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/easternsierra-ca-us/easternsierra-ca-us.zip",
+    "mdb_id": "mdb-25",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

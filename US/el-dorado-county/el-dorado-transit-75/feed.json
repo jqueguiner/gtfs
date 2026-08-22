@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "El Dorado Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "El Dorado County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/eldoradotransit-ca-us/eldoradotransit-ca-us.zip",
+    "mdb_id": "mdb-75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

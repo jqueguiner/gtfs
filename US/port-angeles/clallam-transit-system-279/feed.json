@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clallam Transit System",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Port Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/clallam_google_transit.zip",
+    "mdb_id": "mdb-279",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.623688,
+    "maximum_latitude": 48.370108,
+    "minimum_longitude": -124.635302,
+    "maximum_longitude": -122.511536
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

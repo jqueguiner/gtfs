@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte du Bassin d'Alès - Réseau Ales'Y",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Alès"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b9a0f32e-4386-454c-8759-b82653fa861e",
+    "mdb_id": "tdg-75062",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.910552,
+    "maximum_latitude": 44.4008504,
+    "minimum_longitude": 3.826701068,
+    "maximum_longitude": 4.3545786
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

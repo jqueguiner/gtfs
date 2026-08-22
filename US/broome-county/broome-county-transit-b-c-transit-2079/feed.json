@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Broome County Transit (B.C. Transit)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Broome County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gobroomecounty.com/sites/default/files/dept/transit/BCT_GTFS.zip",
+    "mdb_id": "mdb-2079",
+    "license": "https://www.gobroomecounty.com/transit/gtfs"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

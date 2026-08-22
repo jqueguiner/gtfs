@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Västtrafik",
+    "country": "NO",
+    "subdivision": "Viken",
+    "city": "Viken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vt/vt.zip",
+    "mdb_id": "mdb-3248",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 57.103999,
+    "maximum_latitude": 59.394292,
+    "minimum_longitude": 11.00776,
+    "maximum_longitude": 15.224046
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

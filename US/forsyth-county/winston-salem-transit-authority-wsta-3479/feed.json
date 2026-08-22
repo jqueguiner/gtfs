@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Winston Salem Transit Authority (WSTA)",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Forsyth County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridewsta.com/gtfs",
+    "mdb_id": "mdb-3479",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "熊野御坊南海バス株式会社",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Mihama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumanogobobus/feeds/kumanogobobus_gobo/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kumanogobobus-kumanogobobus_gobo",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.81378,
+    "maximum_latitude": 34.046046,
+    "minimum_longitude": 135.065444,
+    "maximum_longitude": 135.370464
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

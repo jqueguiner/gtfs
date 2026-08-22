@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "San Joaquin Regional Transit District (RTD)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Joaquin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://sjrtd.com/RTD-GTFS/RTD-GTFS.zip",
+    "mdb_id": "mdb-886",
+    "license": "http://sanjoaquinrtd.com/preview/terms-of-use/"
+  },
+  "bbox": {
+    "minimum_latitude": 37.7027898,
+    "maximum_latitude": 38.5800621,
+    "minimum_longitude": -121.8978378,
+    "maximum_longitude": -120.994762
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clear Creek County Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Clear Creek County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/clearcreek-co-us/clearcreek-co-us.zip",
+    "mdb_id": "mdb-313",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.6804258147071,
+    "maximum_latitude": 39.766353,
+    "minimum_longitude": -105.896946092736,
+    "maximum_longitude": -105.328169
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sankéo",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Claira"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2afffa1f-aa4a-4fe4-9802-4b5f82bb96c6",
+    "mdb_id": "tdg-83735",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 42.616804817749134,
+    "maximum_latitude": 42.869746992834976,
+    "minimum_longitude": 2.61143947,
+    "maximum_longitude": 3.03958154
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

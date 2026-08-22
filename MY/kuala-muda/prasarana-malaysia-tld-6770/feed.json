@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prasarana Malaysia",
+    "country": "MY",
+    "subdivision": "Kedah",
+    "city": "Kuala Muda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-penang",
+    "mdb_id": "tld-6770",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

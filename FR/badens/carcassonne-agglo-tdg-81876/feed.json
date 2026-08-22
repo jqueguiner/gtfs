@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Carcassonne Agglo",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Badens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/941123b0-004e-4f48-81e7-8c62fb4f07aa",
+    "mdb_id": "tdg-81876",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.056488,
+    "maximum_latitude": 43.407738,
+    "minimum_longitude": 2.145236,
+    "maximum_longitude": 2.679861
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

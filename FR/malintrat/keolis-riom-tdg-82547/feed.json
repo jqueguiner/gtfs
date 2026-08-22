@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Keolis RIOM",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Malintrat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/90846819-b970-48db-967b-8eb7d2da3e2c",
+    "mdb_id": "tdg-82547",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 45.966011,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 3.265908
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

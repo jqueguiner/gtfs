@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "St Lawrence County Public Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Massena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/stlawrence/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2611",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

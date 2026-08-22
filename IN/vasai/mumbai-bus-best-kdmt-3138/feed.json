@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mumbai Bus (BEST, KDMT)",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "city": "Vasai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/croyla/mumbai-gtfs/raw/refs/heads/main/gtfs_compat.zip",
+    "mdb_id": "mdb-3138",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 18.900067,
+    "maximum_latitude": 19.489027,
+    "minimum_longitude": 72.759003,
+    "maximum_longitude": 73.18408
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

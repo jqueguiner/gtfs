@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saint Jean Sur Richelieu",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Saint-Jean-sur-Richelieu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=saint-jean-sur-richelieu",
+    "mdb_id": "tld-5630",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

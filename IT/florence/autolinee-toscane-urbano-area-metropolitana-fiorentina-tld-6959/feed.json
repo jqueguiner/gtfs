@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Area Metropolitana Fiorentina",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Florence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/20813d08-a8dd-48ad-9fd5-38ca16a2fd79/download/48-urbanoareametropolitanafiorentina.gtfs",
+    "mdb_id": "tld-6959",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.6687095448573,
+    "maximum_latitude": 43.9140659813961,
+    "minimum_longitude": 11.0123510159463,
+    "maximum_longitude": 11.3891814394904
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Sud Corse",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Porto-Vecchio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/74f0577f-f709-49db-9750-53c9341f6e50",
+    "mdb_id": "tdg-81252",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

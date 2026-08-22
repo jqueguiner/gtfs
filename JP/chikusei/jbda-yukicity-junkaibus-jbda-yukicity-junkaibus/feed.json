@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "結城市",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Chikusei"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yukicity/feeds/junkaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yukicity-junkaibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.20338,
+    "maximum_latitude": 36.31993236,
+    "minimum_longitude": 139.822093,
+    "maximum_longitude": 139.90534
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

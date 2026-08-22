@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Otago Regional Council (ORC)",
+    "country": "NZ",
+    "subdivision": "Otago",
+    "city": "Dunedin City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.orc.govt.nz/transit/google_transit.zip",
+    "mdb_id": "mdb-983",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": -45.9503128,
+    "maximum_latitude": -44.93829,
+    "minimum_longitude": 168.625274,
+    "maximum_longitude": 170.7242997
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

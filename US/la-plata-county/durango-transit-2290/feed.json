@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Durango Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "La Plata County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/durangotransit-co-us/durangotransit-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2290",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

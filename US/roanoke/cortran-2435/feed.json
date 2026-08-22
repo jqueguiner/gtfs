@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CORTRAN",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Roanoke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cortran-va-us/cortran-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2435",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

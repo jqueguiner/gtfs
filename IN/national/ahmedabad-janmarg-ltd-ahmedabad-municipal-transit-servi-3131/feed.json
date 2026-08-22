@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ahmedabad Janmarg Ltd, Ahmedabad Municipal Transit Services",
+    "country": "IN",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/croyla/amd-gtfs/raw/refs/heads/main/gtfs_compat.zip",
+    "mdb_id": "mdb-3131",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 22.822199,
+    "maximum_latitude": 23.33343,
+    "minimum_longitude": 72.283552,
+    "maximum_longitude": 72.83083
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

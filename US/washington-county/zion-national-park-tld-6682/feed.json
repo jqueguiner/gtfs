@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zion National Park",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "Washington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/zion/zion-canyon-shuttle.zip",
+    "mdb_id": "tld-6682",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.16652,
+    "maximum_latitude": 37.285214,
+    "minimum_longitude": -113.0134979,
+    "maximum_longitude": -112.939444
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

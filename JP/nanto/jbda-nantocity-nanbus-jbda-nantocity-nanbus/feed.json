@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南砺市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Nanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nantocity/feeds/nanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nantocity-nanbus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.351976,
+    "maximum_latitude": 36.612299,
+    "minimum_longitude": 136.798883,
+    "maximum_longitude": 137.138188
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

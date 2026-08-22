@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bay Area Rapid Transit (BART)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Alameda County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.bart.gov/dev/schedules/google_transit.zip",
+    "mdb_id": "mdb-53",
+    "license": "http://www.bart.gov/schedules/developers/developer-license-agreement"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

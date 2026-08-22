@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Intercom Bernay Terres de Normandie",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Bernay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9ffc26b2-d293-4ec5-9cf6-4690d542f019",
+    "mdb_id": "tdg-83775",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.068666,
+    "maximum_latitude": 49.10759733,
+    "minimum_longitude": 0.577306,
+    "maximum_longitude": 0.61574936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

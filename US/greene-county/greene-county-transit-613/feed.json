@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greene County Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Greene County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Greene_County_Transit.zip",
+    "mdb_id": "mdb-613",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.11024,
+    "maximum_latitude": 42.453165,
+    "minimum_longitude": -74.435418,
+    "maximum_longitude": -73.778373
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

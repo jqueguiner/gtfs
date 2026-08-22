@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "AMAT Palermo S.P.A.",
+    "country": "IT",
+    "subdivision": "Sicily",
+    "city": "Palermo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/amat_gtfs.zip",
+    "mdb_id": "mdb-2373",
+    "license": "https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1303"
+  },
+  "bbox": {
+    "minimum_latitude": 38.05077928,
+    "maximum_latitude": 38.21045333,
+    "minimum_longitude": 13.25067965,
+    "maximum_longitude": 13.43425332
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

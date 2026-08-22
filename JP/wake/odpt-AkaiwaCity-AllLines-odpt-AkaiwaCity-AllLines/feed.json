@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "赤磐市",
+    "country": "JP",
+    "subdivision": "Okayama Prefecture",
+    "city": "Wake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/AkaiwaCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-AkaiwaCity-AllLines",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.733056,
+    "maximum_latitude": 35.0269258387258,
+    "minimum_longitude": 133.981561,
+    "maximum_longitude": 134.160211086273
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

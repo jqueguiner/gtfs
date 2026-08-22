@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tri-Valley Transit",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Fayston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/trivalleytransit-vt-us/trivalleytransit-vt-us.zip",
+    "mdb_id": "mdb-852",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.58636158067012,
+    "maximum_latitude": 44.480722,
+    "minimum_longitude": -73.345019,
+    "maximum_longitude": -72.023504
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

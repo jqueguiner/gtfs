@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Colorado Mountain Express",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Eagle County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cme-co-us/cme-co-us.zip",
+    "mdb_id": "mdb-172",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

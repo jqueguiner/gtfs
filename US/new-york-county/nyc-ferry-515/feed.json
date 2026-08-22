@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NYC Ferry",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://nycferry.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "mdb-515",
+    "license": "https://www.ferry.nyc/developer-tools/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

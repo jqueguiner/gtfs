@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "本山町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Motoyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/motoyamatown/feeds/GTFS-Motoyamatown_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-motoyamatown-GTFS-Motoyamatown_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.740571,
+    "maximum_latitude": 33.78957,
+    "minimum_longitude": 133.578886,
+    "maximum_longitude": 133.63022
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Atomic City Transit",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Los Alamos County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/act_los_alamos_nm_us.zip",
+    "mdb_id": "mdb-1240",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.778407,
+    "maximum_latitude": 35.905342,
+    "minimum_longitude": -106.332453,
+    "maximum_longitude": -106.190867
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

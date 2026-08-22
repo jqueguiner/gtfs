@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Transit - City of Madison",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Dane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://transitdata.cityofmadison.com/GTFS/mmt_gtfs.zip",
+    "mdb_id": "mdb-394",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.986706,
+    "maximum_latitude": 43.198851,
+    "minimum_longitude": -89.563863,
+    "maximum_longitude": -89.206498
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

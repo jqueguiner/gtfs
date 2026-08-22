@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "福岡市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Fukuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukuokacity/feeds/ImajukuMeinohamaLine/files/feed.zip?rid=current",
+    "mdb_id": "jbda-fukuokacity-ImajukuMeinohamaLine",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.55358090749456,
+    "maximum_latitude": 33.59090307233578,
+    "minimum_longitude": 130.27357594908383,
+    "maximum_longitude": 130.3247062435965
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

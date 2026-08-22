@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Easy Ride Transportation",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "City and County of Broomfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/broomfield-co-us/broomfield-co-us--flex-v2.zip",
+    "mdb_id": "mdb-1195",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

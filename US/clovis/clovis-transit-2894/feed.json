@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Clovis Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Clovis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/clovis/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2894",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of San Luis Obispo Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Luis Obispo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/urb/ws/feed/c2l0ZT1zbG90cmFuc2l0O2NsaWVudD1zZWxmO2V4cGlyZT07dHlwZT1ndGZzO2tleT0zZTMwMzM1OTRiMTE2NzA0N2IxNjQwNjA0ZjQwMGMzMzdiM2E1MTQ0",
+    "mdb_id": "mdb-44",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.23933972,
+    "maximum_latitude": 35.302551,
+    "minimum_longitude": -120.70909948,
+    "maximum_longitude": -120.63319399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

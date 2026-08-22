@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "有限会社嶺北観光自動車",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Motoyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/reihoku-kanko/feeds/GTFS-Reihokukanko_Localbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-reihoku-kanko-GTFS-Reihokukanko_Localbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

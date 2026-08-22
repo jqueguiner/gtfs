@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Adana - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Adana",
+    "city": "Seyhan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/adana.zip",
+    "mdb_id": "mdb-3407",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 36.409507,
+    "maximum_latitude": 37.6283297,
+    "minimum_longitude": 34.800878,
+    "maximum_longitude": 36.0718125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

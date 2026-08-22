@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Carry-le-Rouet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/05c200aa-798d-4660-bae7-3bf77e551c4c",
+    "mdb_id": "tdg-39596",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.32993829,
+    "maximum_latitude": 43.40785839,
+    "minimum_longitude": 5.09493533,
+    "maximum_longitude": 5.243303
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "滑川市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Namerikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/namerikawacity/feeds/norumycar/files/feed.zip?rid=current",
+    "mdb_id": "jbda-namerikawacity-norumycar",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.7203093654,
+    "maximum_latitude": 36.798777,
+    "minimum_longitude": 137.317022902,
+    "maximum_longitude": 137.436759480143
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

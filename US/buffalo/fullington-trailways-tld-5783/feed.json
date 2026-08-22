@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fullington Trailways",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Buffalo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-FAB.zip",
+    "mdb_id": "tld-5783",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.9507,
+    "maximum_latitude": 42.883058,
+    "minimum_longitude": -79.9959,
+    "maximum_longitude": -73.990313
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Winter Park Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Grand County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/winterpark-co-us/winterpark-co-us.zip",
+    "mdb_id": "mdb-175",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

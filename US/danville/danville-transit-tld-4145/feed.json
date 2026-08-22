@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Danville Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Danville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/danville-va-us/danville-va-us.zip",
+    "mdb_id": "tld-4145",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.54474376535521,
+    "maximum_latitude": 36.6379640767576,
+    "minimum_longitude": -79.46209253087035,
+    "maximum_longitude": -79.3075059
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

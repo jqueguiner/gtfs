@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "A Onda - Mobilidade Urbana",
+    "country": "PT",
+    "subdivision": "Faro",
+    "city": "Luz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp",
+    "mdb_id": "tld-4316",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.073534,
+    "maximum_latitude": 37.17412,
+    "minimum_longitude": -8.77565,
+    "maximum_longitude": -8.647466
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

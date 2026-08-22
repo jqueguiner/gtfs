@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Keretapi Tanah Melayu Berhad",
+    "country": "MY",
+    "subdivision": "Kuala Lumpur",
+    "city": "Kuala Lumpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/ktmb",
+    "mdb_id": "tld-6758",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "日立自動車交通株式会社",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Chuo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip?date=current",
+    "mdb_id": "odpt-HitachiAutomobileTransportation-Chiyoda_ALLLINES",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.681963,
+    "maximum_latitude": 35.704414,
+    "minimum_longitude": 139.731687,
+    "maximum_longitude": 139.779926
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

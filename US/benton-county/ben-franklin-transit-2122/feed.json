@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ben Franklin Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Benton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.bft.org/Static/google_transit.zip",
+    "mdb_id": "mdb-2122",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.176783,
+    "maximum_latitude": 46.350986,
+    "minimum_longitude": -119.788989,
+    "maximum_longitude": -119.044622
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

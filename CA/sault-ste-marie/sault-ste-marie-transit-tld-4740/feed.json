@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sault Ste. Marie Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Sault Ste. Marie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-saultstemarie.zip",
+    "mdb_id": "tld-4740",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

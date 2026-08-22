@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "米沢市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Yonezawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yonezawacity/feeds/Yonezawa/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yonezawacity-Yonezawa",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.863098,
+    "maximum_latitude": 37.923415,
+    "minimum_longitude": 140.090186,
+    "maximum_longitude": 140.231997
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

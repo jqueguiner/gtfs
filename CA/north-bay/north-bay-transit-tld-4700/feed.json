@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Bay Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "North Bay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://northbay.tmix.se/gtfs/gtfs.zip",
+    "mdb_id": "tld-4700",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

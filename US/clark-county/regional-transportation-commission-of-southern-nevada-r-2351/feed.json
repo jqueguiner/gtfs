@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Transportation Commission of Southern Nevada (RTC)",
+    "country": "US",
+    "subdivision": "Nevada",
+    "city": "Clark County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://developer.rtcsnv.com/transitData/google_transit.zip",
+    "mdb_id": "mdb-2351",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.960432,
+    "maximum_latitude": 36.314247,
+    "minimum_longitude": -115.331538,
+    "maximum_longitude": -114.825897
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

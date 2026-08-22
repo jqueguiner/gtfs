@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Office of Transport and Traffic Policy and Planning",
+    "country": "LA",
+    "subdivision": "Champasak Province",
+    "city": "Bachiangchaleunsouk District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://namtang-api.otp.go.th/download/namtang-gtfs.zip",
+    "mdb_id": "mdb-1831",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

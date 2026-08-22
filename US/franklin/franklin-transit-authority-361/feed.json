@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Franklin Transit Authority",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Franklin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/tma-tn-us/tma-tn-us.zip",
+    "mdb_id": "mdb-361",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "佐用町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Sayo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sayotown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sayotown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.922281,
+    "maximum_latitude": 35.10774,
+    "minimum_longitude": 134.352694,
+    "maximum_longitude": 134.449334
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

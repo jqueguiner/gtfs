@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oise Mobilité - Syndicat mixte des transports collectifs de l'Oise",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Venette"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3a98dcdb-ca6e-40fc-8da9-09ab7f5661c9",
+    "mdb_id": "tdg-81066",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.380721,
+    "maximum_latitude": 49.447317,
+    "minimum_longitude": 2.758564,
+    "maximum_longitude": 2.886814
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

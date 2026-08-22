@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Adams County",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Adams County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/adamscounty-co-us/adamscounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2156",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.869592,
+    "maximum_latitude": 39.869592,
+    "minimum_longitude": -104.33786,
+    "maximum_longitude": -104.33786
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

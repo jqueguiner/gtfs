@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Red Apple Transit",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "San Juan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/redappletransit-nm-us/redappletransit-nm-us.zip",
+    "mdb_id": "mdb-160",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.7009555,
+    "maximum_latitude": 36.8269741,
+    "minimum_longitude": -108.3599403,
+    "maximum_longitude": -107.9791283
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

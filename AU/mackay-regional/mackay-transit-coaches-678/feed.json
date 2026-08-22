@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mackay Transit Coaches",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Mackay Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/MKY_GTFS.zip",
+    "mdb_id": "mdb-678",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/03426b3e-1ea6-4878-bd9b-cfaef7ca2b1d?truncate=30&inner_span=True"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

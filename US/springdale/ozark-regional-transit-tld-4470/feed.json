@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ozark Regional Transit",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "city": "Springdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ozark/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4470",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

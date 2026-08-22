@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南信州地域交通問題協議会（南信州広域連合）",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Iida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-Shinnan-1/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minamishinshu-Minamishinshu-Shinnan-1",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.3210886,
+    "maximum_latitude": 35.5362503,
+    "minimum_longitude": 137.7092774,
+    "maximum_longitude": 137.9918502
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

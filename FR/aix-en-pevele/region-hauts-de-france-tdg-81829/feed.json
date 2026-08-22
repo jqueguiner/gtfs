@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Aix-en-Pévèle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/58babea3-fc7a-4e2d-be16-69936f10e81c",
+    "mdb_id": "tdg-81829",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 50.325690223799256,
+    "maximum_latitude": 50.78144267341874,
+    "minimum_longitude": 2.718225717544556,
+    "maximum_longitude": 3.4433045983314514
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

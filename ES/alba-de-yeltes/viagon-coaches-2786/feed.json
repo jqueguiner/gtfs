@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Viagón Coaches",
+    "country": "ES",
+    "subdivision": "Castile and León",
+    "city": "Alba de Yeltes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2073",
+    "mdb_id": "mdb-2786",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 40.0,
+    "maximum_latitude": 41.21844444444445,
+    "minimum_longitude": -6.6902782,
+    "maximum_longitude": -5.0
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

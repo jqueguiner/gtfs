@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - ExtraUrbano Prato",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Quarrata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/19fba624-b87c-477b-b79d-5ad94af05875/download/25-extraurbanoprato.gtfs",
+    "mdb_id": "tld-6989",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.7694452452595,
+    "maximum_latitude": 44.1431022024602,
+    "minimum_longitude": 10.976792981091,
+    "maximum_longitude": 11.2084835415348
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

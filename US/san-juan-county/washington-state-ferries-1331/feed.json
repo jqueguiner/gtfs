@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Washington State Ferries",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "San Juan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/95_gtfs.zip",
+    "mdb_id": "mdb-1331",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

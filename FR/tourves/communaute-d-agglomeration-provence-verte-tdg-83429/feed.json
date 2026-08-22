@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Provence Verte",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Tourves"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9e2f1dd8-cbf4-4e56-b022-b350561a1cb9",
+    "mdb_id": "tdg-83429",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.251528,
+    "maximum_latitude": 43.537131,
+    "minimum_longitude": 5.71157,
+    "maximum_longitude": 6.259883
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

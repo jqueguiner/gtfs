@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Edmonton Transit System",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Beverly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.edmonton.ca/TMGTFSRealTimeWebService/GTFS/GTFS.zip",
+    "mdb_id": "mdb-714",
+    "license": "https://data.strathcona.ca/Transportation/Transit-Bus-Schedule-GTFS-Data-Feed-Zip-File/2ek5-rxs5/data?no_mobile=true"
+  },
+  "bbox": {
+    "minimum_latitude": 53.250444,
+    "maximum_latitude": 53.714491,
+    "minimum_longitude": -113.934863,
+    "maximum_longitude": -113.203377
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

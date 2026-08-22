@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Santa Ynez Valley Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Barbara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/syvt_google_transit.zip",
+    "mdb_id": "mdb-813",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

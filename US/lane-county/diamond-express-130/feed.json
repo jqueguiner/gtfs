@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Diamond Express",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Lane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/diamondexpress-or-us/diamondexpress-or-us.zip",
+    "mdb_id": "mdb-130",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

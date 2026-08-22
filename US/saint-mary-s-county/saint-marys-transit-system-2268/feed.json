@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Saint Maryʼs Transit System",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Saint Mary's County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://stmgis.stmarysmd.com/Downloads/GTFS/StMarys_GTFS_5_31_22.zip",
+    "mdb_id": "mdb-2268",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.1088829040527,
+    "maximum_latitude": 38.4995613098144,
+    "minimum_longitude": -76.8316574096679,
+    "maximum_longitude": -76.366455078125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

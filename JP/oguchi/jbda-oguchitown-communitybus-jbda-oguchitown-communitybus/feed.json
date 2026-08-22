@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大口町",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Oguchi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/oguchitown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-oguchitown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.307115,
+    "maximum_latitude": 35.350095,
+    "minimum_longitude": 136.872434,
+    "maximum_longitude": 136.934519
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

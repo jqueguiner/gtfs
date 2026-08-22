@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ShowMeBus",
+    "country": "AL",
+    "subdivision": "Shkodër County",
+    "city": "Rrethinat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://showmebus.com/google-transit/gtfs.zip",
+    "mdb_id": "mdb-3483",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.0475006,
+    "maximum_latitude": 59.3322407,
+    "minimum_longitude": 2.1828439,
+    "maximum_longitude": 28.8946009
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Boston Harbor Island National Recreation Area",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Boston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/boha/cathleen-stone-island-ferry.zip",
+    "mdb_id": "mdb-3416",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.31922,
+    "maximum_latitude": 42.3432532,
+    "minimum_longitude": -71.0366207,
+    "maximum_longitude": -71.01011
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

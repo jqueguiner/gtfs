@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regional Transportation Authority of Pima County",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Pima County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sunshuttle.tripshot.com/v1/gtfs.zip?regionId=CA558DDC-D7F2-4B48-9CAC-DEEA1134F820",
+    "mdb_id": "ntd-91122",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

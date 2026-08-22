@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Red Metropolitana de Movilida, EFE Trenes de Chile, Bus de Acercamiento Aeropuerto, Metro de Santiago",
+    "country": "CL",
+    "subdivision": "Santiago Metropolitan Region",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.dtpm.cl/descargas/gtfs/GTFS_20260704.zip",
+    "mdb_id": "mdb-3357",
+    "license": "https://www.dtpm.cl/index.php/gtfs-vigente"
+  },
+  "bbox": {
+    "minimum_latitude": -34.170505,
+    "maximum_latitude": -33.304088203611,
+    "minimum_longitude": -70.89368384477334,
+    "maximum_longitude": -70.49364834615584
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

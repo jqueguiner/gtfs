@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Moventis Sarfa (Sarfa buses)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Bordils"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1576",
+    "mdb_id": "mdb-2764",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.28773734350437,
+    "maximum_latitude": 42.42680486070743,
+    "minimum_longitude": 2.0079303655206786,
+    "maximum_longitude": 3.272957454231231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

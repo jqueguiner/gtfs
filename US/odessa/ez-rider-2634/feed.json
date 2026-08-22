@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "EZ Rider",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Odessa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nebula.wsimg.com/40f314b8788fcc32949e0fe528a3c625?AccessKeyId=9E919CD400BCF69A0E80",
+    "mdb_id": "mdb-2634",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 31.8296668163,
+    "maximum_latitude": 32.0382219188,
+    "minimum_longitude": -102.4115131367,
+    "maximum_longitude": -102.0538321951
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

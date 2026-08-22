@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "中山町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Nakayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakayamatown/feeds/NakayamaTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nakayamatown-NakayamaTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

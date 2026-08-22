@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "IDS BK Regional Buses",
+    "country": "SK",
+    "subdivision": "Region of Bratislava",
+    "city": "Bratislava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/ids-bk_regional.zip",
+    "mdb_id": "mdb-2919",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.991871,
+    "maximum_latitude": 48.615593,
+    "minimum_longitude": 16.839756,
+    "maximum_longitude": 17.592781
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

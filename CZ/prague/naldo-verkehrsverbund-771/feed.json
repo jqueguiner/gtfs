@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "naldo Verkehrsverbund",
+    "country": "CZ",
+    "subdivision": "Hlavní město Praha",
+    "city": "Prague"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/naldo.zip",
+    "mdb_id": "mdb-771",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 52.5076076,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 14.4404451
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

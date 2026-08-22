@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Hobbs",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Lea County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11543/hobbs_gtfs.zip",
+    "mdb_id": "ntd-60190",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 32.692549,
+    "maximum_latitude": 32.7746409,
+    "minimum_longitude": -103.1892843,
+    "maximum_longitude": -103.112643
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

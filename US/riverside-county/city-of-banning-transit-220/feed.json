@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Banning Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Riverside County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/banning-ca-us/banning-ca-us.zip",
+    "mdb_id": "mdb-220",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

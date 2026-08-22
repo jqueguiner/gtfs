@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chiltern Railways",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "London Borough of Haringey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/association-of-train-operating-companies/284/20210423/gtfs.zip",
+    "mdb_id": "mdb-1311",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 58.59018,
+    "minimum_longitude": -5.83908,
+    "maximum_longitude": 1.74971
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

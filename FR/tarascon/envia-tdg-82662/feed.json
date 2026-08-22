@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ENVIA",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Tarascon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/52216d2f-072e-4b7d-af0c-15d8d4e98b09",
+    "mdb_id": "tdg-82662",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.351049,
+    "maximum_latitude": 43.865587,
+    "minimum_longitude": 4.365837,
+    "maximum_longitude": 4.824023
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

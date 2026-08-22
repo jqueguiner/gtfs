@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "高知東部交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Aki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-tobu-kotsu/feeds/GTFS-Tobutraffic_Localbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-tobu-kotsu-GTFS-Tobutraffic_Localbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.245658,
+    "maximum_latitude": 33.616093,
+    "minimum_longitude": 133.532604,
+    "maximum_longitude": 134.299428
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

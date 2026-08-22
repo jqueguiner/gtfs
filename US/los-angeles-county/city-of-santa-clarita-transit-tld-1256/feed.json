@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Santa Clarita Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://apps.santaclaritatransit.com/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "tld-1256",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Longview",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Longview"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cloud.longviewtexas.gov/maps/LongviewTransitGTFS/LongviewTransitGTFS.zip",
+    "mdb_id": "ntd-60081",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

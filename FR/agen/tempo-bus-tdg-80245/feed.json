@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tempo Bus",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Agen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c1415ff3-7457-4b51-aead-aacbf03a474e",
+    "mdb_id": "tdg-80245",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

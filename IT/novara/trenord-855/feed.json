@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trenord",
+    "country": "IT",
+    "subdivision": "Piemont",
+    "city": "Novara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.dati.lombardia.it/download/3z4k-mxz9/application%2Fzip",
+    "mdb_id": "mdb-855",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.70847533600622,
+    "maximum_latitude": 46.52760126062155,
+    "minimum_longitude": 7.663628,
+    "maximum_longitude": 11.358048555694918
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

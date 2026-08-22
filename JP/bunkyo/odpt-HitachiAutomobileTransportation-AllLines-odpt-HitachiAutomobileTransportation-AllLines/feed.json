@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "日立自動車交通株式会社",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Bunkyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/AllLines.zip?date=current",
+    "mdb_id": "odpt-HitachiAutomobileTransportation-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.69695,
+    "maximum_latitude": 35.734907,
+    "minimum_longitude": 139.719381,
+    "maximum_longitude": 139.772422
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

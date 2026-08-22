@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "St. Cloud Metropolitan Transit Commission",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Stearns County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridemetrobus.com/transit/google_transit.zip",
+    "mdb_id": "ntd-50028",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.4889410863877,
+    "maximum_latitude": 45.66187186,
+    "minimum_longitude": -94.263436,
+    "maximum_longitude": -94.12244111
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

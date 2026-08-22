@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TransLink Vancouver",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "District of North Vancouver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-static.translink.ca/gtfs/google_transit.zip",
+    "mdb_id": "mdb-696",
+    "license": "https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-data"
+  },
+  "bbox": {
+    "minimum_latitude": 49.004383,
+    "maximum_latitude": 49.473887,
+    "minimum_longitude": -123.423063,
+    "maximum_longitude": -122.303997
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

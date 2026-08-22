@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Via Mobility",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Boulder County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/viaboulder/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2395",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

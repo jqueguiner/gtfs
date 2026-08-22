@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Urban Buses of Ciudad Real (AISA)",
+    "country": "ES",
+    "subdivision": "Castile-La Mancha",
+    "city": "Seseña"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1599",
+    "mdb_id": "mdb-2765",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

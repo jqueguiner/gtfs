@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Community Transit (CT)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Snohomish County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.communitytransit.org/docs/default-source/open-data/gtfs/current.zip",
+    "mdb_id": "mdb-287",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.59201,
+    "maximum_latitude": 48.278539,
+    "minimum_longitude": -122.38471,
+    "maximum_longitude": -121.601001
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

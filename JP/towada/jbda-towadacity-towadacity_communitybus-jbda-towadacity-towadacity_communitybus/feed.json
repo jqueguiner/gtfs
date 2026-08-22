@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "十和田市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Towada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/towadacity/feeds/towadacity_communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-towadacity-towadacity_communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.581091,
+    "maximum_latitude": 40.636732,
+    "minimum_longitude": 141.095669,
+    "maximum_longitude": 141.250527
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

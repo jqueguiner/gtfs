@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "鶴岡市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Tsuruoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsuruokacity/feeds/TsuruokaCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsuruokacity-TsuruokaCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.51718,
+    "maximum_latitude": 38.7812097161889,
+    "minimum_longitude": 139.54666,
+    "maximum_longitude": 139.960406
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

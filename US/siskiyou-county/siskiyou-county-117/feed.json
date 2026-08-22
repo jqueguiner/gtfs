@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Siskiyou County",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Siskiyou County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/siskiyou-ca-us/siskiyou-ca-us.zip",
+    "mdb_id": "mdb-117",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

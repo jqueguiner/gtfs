@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "V-BUSZ KFT",
+    "country": "HU",
+    "subdivision": "Veszprém",
+    "city": "Veszprém"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vbusz.hu/gtfs",
+    "mdb_id": "mdb-1903",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.057483,
+    "maximum_latitude": 47.149668,
+    "minimum_longitude": 17.852332,
+    "maximum_longitude": 17.956254
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

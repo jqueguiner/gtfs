@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rejseplanen",
+    "country": "SE",
+    "subdivision": "Stockholm County",
+    "city": "Stockholm County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "mdb-1292",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 50.061389,
+    "maximum_latitude": 64.200525,
+    "minimum_longitude": -51.741723,
+    "maximum_longitude": 18.057778
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gotland",
+    "country": "SE",
+    "subdivision": "Gotland County",
+    "city": "Gotland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/gotland/gotland.zip",
+    "mdb_id": "mdb-3244",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 57.032786,
+    "maximum_latitude": 57.865282,
+    "minimum_longitude": 18.123878,
+    "maximum_longitude": 19.057912
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

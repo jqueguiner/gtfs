@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "壬生町",
+    "country": "JP",
+    "subdivision": "Tochigi Prefecture",
+    "city": "Mibu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mibutown/feeds/mibubu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-mibutown-mibubu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.413069,
+    "maximum_latitude": 36.485463,
+    "minimum_longitude": 139.795128,
+    "maximum_longitude": 139.843158
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

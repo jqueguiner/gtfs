@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Franklin Regional Transit Authority (FRTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Orange"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/frta-ma-us/frta-ma-us.zip",
+    "mdb_id": "mdb-429",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

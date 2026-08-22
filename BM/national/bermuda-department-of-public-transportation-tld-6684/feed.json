@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bermuda Department of Public Transportation",
+    "country": "BM",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/bermuda-bm/bermuda-bm.zip",
+    "mdb_id": "tld-6684",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 32.24910655587362,
+    "maximum_latitude": 32.387303745,
+    "minimum_longitude": -64.87721733055749,
+    "maximum_longitude": -64.6520273944072
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

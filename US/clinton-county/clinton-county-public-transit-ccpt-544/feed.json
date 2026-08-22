@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clinton County Public Transit (CCPT)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Clinton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Clinton_County_Public_Transit.zip",
+    "mdb_id": "mdb-544",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 44.440456,
+    "maximum_latitude": 45.002481,
+    "minimum_longitude": -73.913816,
+    "maximum_longitude": -73.363424
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

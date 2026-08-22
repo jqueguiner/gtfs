@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vermont Translines",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Albany County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/vttranslines-vt-us/vttranslines-vt-us.zip",
+    "mdb_id": "mdb-450",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

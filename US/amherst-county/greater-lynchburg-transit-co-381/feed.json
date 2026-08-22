@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greater Lynchburg Transit Co.",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Amherst County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/gltc-lynchburg-va-us/gltc-lynchburg-va-us.zip",
+    "mdb_id": "mdb-381",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.3296770650843,
+    "maximum_latitude": 37.46656895393001,
+    "minimum_longitude": -79.2499854699058,
+    "maximum_longitude": -79.085086434555
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

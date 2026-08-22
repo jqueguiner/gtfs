@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cotral S.p.A.",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Sorano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.busone.app/cotral/gtfs.zip",
+    "mdb_id": "mdb-3386",
+    "license": "https://proxy.busone.app/cotral/readme"
+  },
+  "bbox": {
+    "minimum_latitude": 41.2083834083,
+    "maximum_latitude": 43.3311428011,
+    "minimum_longitude": 11.3223013162,
+    "maximum_longitude": 13.9884722796
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

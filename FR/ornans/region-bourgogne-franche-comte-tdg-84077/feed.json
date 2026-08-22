@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Ornans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a5f952a8-e0d1-439d-9881-b98fb6c202bb",
+    "mdb_id": "tdg-84077",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.707807,
+    "maximum_latitude": 47.618084,
+    "minimum_longitude": 5.590797,
+    "maximum_longitude": 6.815281
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

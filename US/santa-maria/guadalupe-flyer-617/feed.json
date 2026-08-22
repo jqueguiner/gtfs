@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Guadalupe Flyer",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Maria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/guadalupeflyer-ca-us/guadalupeflyer-ca-us.zip",
+    "mdb_id": "mdb-617",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.946112429823,
+    "maximum_latitude": 34.9711071914409,
+    "minimum_longitude": -120.58919104014171,
+    "maximum_longitude": -120.43050668825
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

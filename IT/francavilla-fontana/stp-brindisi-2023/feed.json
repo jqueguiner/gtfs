@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "STP Brindisi",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Francavilla Fontana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stpbrindisi.it/attachments/article/963/Urbano_Francavilla.zip",
+    "mdb_id": "mdb-2023",
+    "license": "https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio"
+  },
+  "bbox": {
+    "minimum_latitude": 40.508813,
+    "maximum_latitude": 40.583933,
+    "minimum_longitude": 17.532677,
+    "maximum_longitude": 17.603268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "つくば市",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Tsukuba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsukubacity/feeds/TSUKUBANEGO/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsukubacity-TSUKUBANEGO",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.173775,
+    "maximum_latitude": 36.21216,
+    "minimum_longitude": 140.08018,
+    "maximum_longitude": 140.110548
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

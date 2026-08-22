@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trafiklab",
+    "country": "SE",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs-sweden/sweden.zip",
+    "mdb_id": "mdb-2939",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-sweden/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 68.441988,
+    "minimum_longitude": -2.684414,
+    "maximum_longitude": 24.9415
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

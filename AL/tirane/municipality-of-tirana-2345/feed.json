@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Municipality of Tirana",
+    "country": "AL",
+    "subdivision": "Tirana County",
+    "city": "Tiranë"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pt.tirana.al/gtfs/gtfs.zip",
+    "mdb_id": "mdb-2345",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

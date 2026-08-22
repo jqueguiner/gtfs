@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "豊岡市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Toyooka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyookacity/feeds/kobus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyookacity-kobus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "朝日町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Asahi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yamagata-asahitown/feeds/AsahiTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yamagata-asahitown-AsahiTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.249486,
+    "maximum_latitude": 38.382207,
+    "minimum_longitude": 140.110123,
+    "maximum_longitude": 140.340337
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

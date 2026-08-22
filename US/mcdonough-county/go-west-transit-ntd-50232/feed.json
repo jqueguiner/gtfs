@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Go West Transit",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "McDonough County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transloc.com/gtfs/wiu.zip",
+    "mdb_id": "ntd-50232",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.439824,
+    "maximum_latitude": 40.482786,
+    "minimum_longitude": -90.704909,
+    "maximum_longitude": -90.641812
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

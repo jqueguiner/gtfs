@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "La Roche-sur-Yon Agglomération",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Aubigny-Les Clouzeaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/735f1b54-94ee-4a21-b378-05c2b44ad70f",
+    "mdb_id": "tdg-79520",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.573445,
+    "maximum_latitude": 46.745119,
+    "minimum_longitude": -1.571489,
+    "maximum_longitude": -1.230544
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Noisy-le-Sec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ed7049d4-4063-457c-ab65-4a26c640e0a1",
+    "mdb_id": "tdg-8201",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

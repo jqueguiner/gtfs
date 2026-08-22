@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Midland Bluebird",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "City of Edinburgh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/mcgillsse/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2911",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 55.864028886,
+    "maximum_latitude": 56.469929749,
+    "minimum_longitude": -4.710282282,
+    "maximum_longitude": -3.153555149
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

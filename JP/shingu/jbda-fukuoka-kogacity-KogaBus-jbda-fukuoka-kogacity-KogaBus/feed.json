@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "古賀市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Shingu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kogacity/feeds/KogaBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-fukuoka-kogacity-KogaBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.6994403,
+    "maximum_latitude": 33.73195791311047,
+    "minimum_longitude": 130.449588,
+    "maximum_longitude": 130.4869316
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

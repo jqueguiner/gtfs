@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Portage Area Regional Transportation Authority (PARTA)",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Portage County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/parta/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2256",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

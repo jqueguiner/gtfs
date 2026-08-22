@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mountain Line Transit Authority",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Monongalia County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://site.busride.org/google/google_transit.zip",
+    "mdb_id": "mdb-407",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.33224485,
+    "maximum_latitude": 40.49581962,
+    "minimum_longitude": -80.33817757,
+    "maximum_longitude": -79.83257174
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

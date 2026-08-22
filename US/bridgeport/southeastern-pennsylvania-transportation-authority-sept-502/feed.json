@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southeastern Pennsylvania Transportation Authority (SEPTA)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Bridgeport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www3.septa.org/developer/google_bus.zip",
+    "mdb_id": "mdb-502",
+    "license": "https://www3.septa.org/developer/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

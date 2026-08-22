@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wahkiakum on the Move",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Wahkiakum County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/wotm-wa-us/wotm-wa-us.zip",
+    "mdb_id": "mdb-249",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

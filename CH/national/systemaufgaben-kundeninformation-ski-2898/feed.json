@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Systemaufgaben Kundeninformation SKI+",
+    "country": "CH",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.opentransportdata.swiss/dataset/timetable-2026-gtfs2020/permalink",
+    "mdb_id": "mdb-2898",
+    "license": "https://opentransportdata.swiss/en/terms-of-use/#Definitions"
+  },
+  "bbox": {
+    "minimum_latitude": 41.37891352,
+    "maximum_latitude": 53.5525982,
+    "minimum_longitude": -4.47981747,
+    "maximum_longitude": 16.37711408
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

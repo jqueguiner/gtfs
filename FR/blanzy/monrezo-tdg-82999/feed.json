@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "monRéZO",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Blanzy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/128b06bc-f263-4530-8e03-395402f87256",
+    "mdb_id": "tdg-82999",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.641366,
+    "maximum_latitude": 46.810219,
+    "minimum_longitude": 4.28913,
+    "maximum_longitude": 4.498566
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

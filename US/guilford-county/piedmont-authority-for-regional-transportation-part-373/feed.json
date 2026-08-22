@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Piedmont Authority for Regional Transportation (PART)",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Guilford County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/5137/gtfs.zip",
+    "mdb_id": "mdb-373",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.631122,
+    "maximum_latitude": 36.118435,
+    "minimum_longitude": -80.29852,
+    "maximum_longitude": -79.051249
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

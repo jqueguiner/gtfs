@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Norwalk Transit System",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nts.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-881",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.865494,
+    "maximum_latitude": 34.072397,
+    "minimum_longitude": -118.133963,
+    "maximum_longitude": -117.959303
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

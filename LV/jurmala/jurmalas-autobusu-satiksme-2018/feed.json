@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jūrmalas autobusu satiksme",
+    "country": "LV",
+    "subdivision": "Vidzeme",
+    "city": "Jūrmala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.marsruti.lv/jurmala/jurmala/gtfs.zip",
+    "mdb_id": "mdb-2018",
+    "license": "https://judu.lt/wp-content/uploads/2022/03/Duomenu-naudojimo-salygos-lt.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Tracy (TRACER)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Tracy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/tracer.etaspot.net/gtfs.zip",
+    "mdb_id": "mdb-3099",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.66930389404297,
+    "maximum_latitude": 37.76214599609375,
+    "minimum_longitude": -121.48297882080078,
+    "maximum_longitude": -121.40929412841795
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

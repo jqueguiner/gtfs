@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "All Points Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Montrose County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/allpointstransit-co-us/allpointstransit-co-us.zip",
+    "mdb_id": "mdb-212",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nassau Inter-County Express (NICE Bus)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Nassau County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nicebus.com/NICE/media/nicebus-gtfs/NICE_GTFS.zip",
+    "mdb_id": "mdb-521",
+    "license": "http://www.nicebus.com/NiceBus/media/NiceBus-Images/131030_Legal-Agreements.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 40.585956,
+    "maximum_latitude": 40.863322,
+    "minimum_longitude": -73.829537,
+    "maximum_longitude": -73.408864
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

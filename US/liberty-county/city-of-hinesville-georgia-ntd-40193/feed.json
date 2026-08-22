@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Hinesville, Georgia",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Liberty County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transloc.com/gtfs/liberty.zip",
+    "mdb_id": "ntd-40193",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Area Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Saint Marys"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rideata.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4551",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.927714,
+    "maximum_latitude": 41.97956,
+    "minimum_longitude": -79.395396,
+    "maximum_longitude": -78.224162
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "安城市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Anjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/anjocity/feeds/AnkuruBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-anjocity-AnkuruBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.895007,
+    "maximum_latitude": 35.001167,
+    "minimum_longitude": 137.012955,
+    "maximum_longitude": 137.120028
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

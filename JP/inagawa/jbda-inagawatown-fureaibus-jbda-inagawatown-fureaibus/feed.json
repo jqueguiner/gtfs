@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "猪名川町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Inagawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inagawatown/feeds/fureaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-inagawatown-fureaibus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.882674,
+    "maximum_latitude": 35.002489,
+    "minimum_longitude": 135.299984,
+    "maximum_longitude": 135.400784
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

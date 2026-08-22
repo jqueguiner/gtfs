@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Agglo Pays d'Issoire",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Issoire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7d54a219-8fe7-4635-a9fc-cefe5e57462e",
+    "mdb_id": "tdg-81643",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.54160082,
+    "maximum_latitude": 45.55095658,
+    "minimum_longitude": 3.21581312,
+    "maximum_longitude": 3.26688316
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

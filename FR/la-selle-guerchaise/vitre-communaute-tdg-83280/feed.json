@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VITRE COMMUNAUTE",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "La Selle-Guerchaise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bf176d3d-c487-40f9-a823-68279395f2ab",
+    "mdb_id": "tdg-83280",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.90074390693716,
+    "maximum_latitude": 48.24658143482717,
+    "minimum_longitude": -1.33218554605969,
+    "maximum_longitude": -1.03676020387734
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pueblo Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pueblo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pueblo-co-us/pueblo-co-us--flex-v2.zip",
+    "mdb_id": "mdb-1232",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.21555474,
+    "maximum_latitude": 38.33220087,
+    "minimum_longitude": -104.67447680843138,
+    "maximum_longitude": -104.5614035
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

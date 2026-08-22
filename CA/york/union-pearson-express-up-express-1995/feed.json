@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Union Pearson Express (UP Express)",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "York"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/UP-GTFS.zip",
+    "mdb_id": "mdb-1995",
+    "license": "https://www.gotransit.com/en/partner-with-us/software-developers"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

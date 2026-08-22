@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Centre County Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "State College"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cata-pa-us/cata-pa-us.zip",
+    "mdb_id": "tld-4771",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.761013,
+    "maximum_latitude": 40.917591,
+    "minimum_longitude": -77.94165,
+    "maximum_longitude": -77.7690793151
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Waltti - Vaasa",
+    "country": "FI",
+    "subdivision": "Ostrobothnia",
+    "city": "Korsholm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tvv.fra1.digitaloceanspaces.com/249.zip",
+    "mdb_id": "mdb-1131",
+    "license": "https://opendata.waltti.fi/docs#gtfs-packages"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

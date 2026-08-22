@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Carolina State University (NCSU)",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Wake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ncstateuni/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2245",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

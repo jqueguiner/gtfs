@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Sierra Vista",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Sierra Vista"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/12009/VistaTransit_AZ_GTFS.zip",
+    "mdb_id": "tld-679",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 31.528526,
+    "maximum_latitude": 31.565626,
+    "minimum_longitude": -110.306096,
+    "maximum_longitude": -110.228942
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

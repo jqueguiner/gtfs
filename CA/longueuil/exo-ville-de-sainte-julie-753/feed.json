@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo Ville de Sainte-Julie",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Longueuil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/omitsju/google_transit.zip",
+    "mdb_id": "mdb-753",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.436658,
+    "maximum_latitude": 45.63294,
+    "minimum_longitude": -73.522217,
+    "maximum_longitude": -72.960053
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "生活バス四日市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Yokkaichi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/seikatsubus-yokkaichi/feeds/sbusyokkaichi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-seikatsubus-yokkaichi-sbusyokkaichi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.9891922832777,
+    "maximum_latitude": 35.0109063779102,
+    "minimum_longitude": 136.611319,
+    "maximum_longitude": 136.636605
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Greater Dayton Regional Transit Authority (Greater Dayton RTA)",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Montgomery County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://proc.greaterdaytonrta.org/gtfs/google_transit.zip",
+    "mdb_id": "mdb-403",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.60158,
+    "maximum_latitude": 39.92273,
+    "minimum_longitude": -84.330089,
+    "maximum_longitude": -84.05722
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

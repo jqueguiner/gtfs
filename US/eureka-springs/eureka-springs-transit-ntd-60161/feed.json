@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Eureka Springs Transit",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "city": "Eureka Springs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11548/Transit_feed.zip",
+    "mdb_id": "ntd-60161",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.38107,
+    "maximum_latitude": 36.43468,
+    "minimum_longitude": -93.7721,
+    "maximum_longitude": -93.6942
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

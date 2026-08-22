@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transport du Grand Longwy",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Haucourt-Moulaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8a839ea6-21f5-4503-a8e1-05fe0fd2aa8e",
+    "mdb_id": "tdg-83210",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 49.551195,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 5.9379
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

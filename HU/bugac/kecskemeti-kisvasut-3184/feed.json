@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kecskeméti Kisvasút",
+    "country": "HU",
+    "subdivision": "Bács-Kiskun",
+    "city": "Bugac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kecskemetikisvasut.hu/wp-content/uploads/jk-gtfs/feed.zip",
+    "mdb_id": "mdb-3184",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tallinna Linn",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Tallinn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/tallinn.zip",
+    "mdb_id": "mdb-3047",
+    "license": "https://peatus.ee/content/teenusest"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

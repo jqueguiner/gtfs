@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transurbis Zalău",
+    "country": "RO",
+    "subdivision": "Sălaj",
+    "city": "Sălaj"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/zalau/ZALAU.zip",
+    "mdb_id": "mdb-2102",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.146706,
+    "maximum_latitude": 47.228065,
+    "minimum_longitude": 23.008059,
+    "maximum_longitude": 23.134686
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

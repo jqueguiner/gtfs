@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grasse Sillages Scolaire",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte-d'Azur",
+    "city": "Grasse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/lignes-regulieres-de-transports-en-pays-de-grasse/20210203-152443/20210101-gtfs-sillagesscolaire.zip",
+    "mdb_id": "mdb-996",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

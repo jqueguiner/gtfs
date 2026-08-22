@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Ipoh",
+    "country": "MY",
+    "subdivision": "Perak",
+    "city": "Kinta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-ipoh",
+    "mdb_id": "mdb-3161",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

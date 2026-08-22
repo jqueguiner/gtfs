@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Villers-Semeuse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80451/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80451",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.6500773,
+    "maximum_latitude": 49.8602533,
+    "minimum_longitude": 4.6134811,
+    "maximum_longitude": 4.9890661
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

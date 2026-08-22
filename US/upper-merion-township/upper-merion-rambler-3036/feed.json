@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Upper Merion Rambler",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Upper Merion Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13641/UPPER_MERION_RAMBLER.zip",
+    "mdb_id": "mdb-3036",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.083563,
+    "maximum_latitude": 40.111087,
+    "minimum_longitude": -75.417427,
+    "maximum_longitude": -75.358047
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

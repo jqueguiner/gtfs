@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dry Tortugas National Park",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Key West"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/drto/drto-ferry-service.zip",
+    "mdb_id": "mdb-3207",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 24.56266,
+    "maximum_latitude": 24.62731,
+    "minimum_longitude": -82.87227,
+    "maximum_longitude": -81.79898
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

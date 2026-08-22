@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ulster County Area Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Ulster County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/UCAT_Ulster_County_Area_Transit.zip",
+    "mdb_id": "mdb-526",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

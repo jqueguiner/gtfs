@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MetroTas Launceston",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "city": "City of Launceston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.metrotas.com.au/wp-content/uploads/transit/Launceston/google_transit.zip",
+    "mdb_id": "mdb-682",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

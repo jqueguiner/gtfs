@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "静岡市",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Shizuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ikawa/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shizuokacity-ikawa",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.133800350091,
+    "maximum_latitude": 35.3071205441839,
+    "minimum_longitude": 138.196706152452,
+    "maximum_longitude": 138.286461964214
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

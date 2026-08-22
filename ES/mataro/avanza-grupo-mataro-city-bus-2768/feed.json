@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Avanza Grupo (Mataró city bus)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Mataró"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1173",
+    "mdb_id": "mdb-2768",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

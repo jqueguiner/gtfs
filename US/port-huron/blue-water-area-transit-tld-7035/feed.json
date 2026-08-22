@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Blue Water Area Transit",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Port Huron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/bwat_porthuron_mi_us.zip",
+    "mdb_id": "tld-7035",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.616561,
+    "maximum_latitude": 43.0487621,
+    "minimum_longitude": -82.8352019,
+    "maximum_longitude": -82.420197
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

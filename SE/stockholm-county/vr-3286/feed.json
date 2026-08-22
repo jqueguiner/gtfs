@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VR",
+    "country": "SE",
+    "subdivision": "Stockholm County",
+    "city": "Stockholm County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vr/vr.zip",
+    "mdb_id": "mdb-3286",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

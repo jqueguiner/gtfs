@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "LeeTran",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Lee County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.leegov.com/leetran/Documents/GTFS.zip",
+    "mdb_id": "mdb-324",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 26.272102,
+    "maximum_latitude": 26.723837,
+    "minimum_longitude": -82.017588,
+    "maximum_longitude": -81.597666
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

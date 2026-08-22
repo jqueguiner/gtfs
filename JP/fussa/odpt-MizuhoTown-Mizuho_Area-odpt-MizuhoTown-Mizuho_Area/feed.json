@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "瑞穂町",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Fussa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MizuhoTown/Mizuho_Area.zip?date=current",
+    "mdb_id": "odpt-MizuhoTown-Mizuho_Area",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.74723,
+    "maximum_latitude": 35.79363,
+    "minimum_longitude": 139.3249,
+    "maximum_longitude": 139.36645
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

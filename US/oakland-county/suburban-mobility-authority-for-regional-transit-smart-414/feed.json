@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Suburban Mobility Authority for Regional Transit (SMART)",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Oakland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apps1.smartbus.org/gtfs/smart_gtfs.zip",
+    "mdb_id": "mdb-414",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.140933,
+    "maximum_latitude": 42.707545,
+    "minimum_longitude": -83.539942,
+    "maximum_longitude": -82.754417
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

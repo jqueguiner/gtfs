@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lakewood Rides",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/lakewoodrides-co-us/lakewoodrides-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2171",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

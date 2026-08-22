@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Intalink",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hertfordshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/intalink/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1939",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 52.205303600305,
+    "minimum_longitude": -1.26248,
+    "maximum_longitude": 0.4739766211
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

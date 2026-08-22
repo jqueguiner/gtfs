@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nikkaluoktaexpressen",
+    "country": "SE",
+    "subdivision": "Norrbotten County",
+    "city": "Norrbotten County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/nikka/nikka.zip",
+    "mdb_id": "mdb-3269",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pays de Saint Gilles Croix de Vie Agglomération",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Saint-Gilles-Croix-de-Vie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/34972a83-5b0f-4f99-b9b7-19593a4c6e1d",
+    "mdb_id": "tdg-82097",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.605812,
+    "maximum_latitude": 46.77199,
+    "minimum_longitude": -1.97824908,
+    "maximum_longitude": -1.75993
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

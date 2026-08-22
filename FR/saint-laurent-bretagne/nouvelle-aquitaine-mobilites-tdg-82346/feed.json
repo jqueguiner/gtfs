@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Saint-Laurent-Bretagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/44806d1e-0798-40e6-8e7e-21d0ddfe81d2",
+    "mdb_id": "tdg-82346",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 42.751541,
+    "maximum_latitude": 44.208275,
+    "minimum_longitude": -1.035116,
+    "maximum_longitude": 0.619559
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

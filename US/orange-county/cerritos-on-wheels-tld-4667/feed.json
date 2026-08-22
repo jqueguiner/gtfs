@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cerritos On Wheels",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/cerritos/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4667",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

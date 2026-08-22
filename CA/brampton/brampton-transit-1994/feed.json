@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Brampton Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Brampton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/a355aabd5a8c490186bdce559c9c75fb/data",
+    "mdb_id": "mdb-1994",
+    "license": "https://brampton.maps.arcgis.com/home/item.html?id=a355aabd5a8c490186bdce559c9c75fb"
+  },
+  "bbox": {
+    "minimum_latitude": 43.54785,
+    "maximum_latitude": 43.892836,
+    "minimum_longitude": -79.864548,
+    "maximum_longitude": -79.527869
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Akron Metro Regional Transit Authority (METRO)",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Northfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.yourmetrobus.org/Data/Sites/2/gtfs-data/metro_rta_gtfs.zip",
+    "mdb_id": "mdb-2071",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.910605,
+    "maximum_latitude": 41.514208,
+    "minimum_longitude": -81.697066,
+    "maximum_longitude": -81.383453
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

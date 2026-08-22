@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MetroWest Regional Transit Authority (MWRTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Framingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://vc.mwrta.com/gtfs/google_transit.zip",
+    "mdb_id": "mdb-439",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.0892478280811,
+    "maximum_latitude": 42.4605326330979,
+    "minimum_longitude": -71.61249,
+    "maximum_longitude": -71.2431033696594
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

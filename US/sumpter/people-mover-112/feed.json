@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "People Mover",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Sumpter"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/peoplemover-or-us/peoplemover-or-us.zip",
+    "mdb_id": "mdb-112",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

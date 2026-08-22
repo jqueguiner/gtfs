@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Port Said Transit",
+    "country": "EG",
+    "subdivision": "Portsaid",
+    "city": "Portsaid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/youssefelzedy/PortSaid-Transit-GTFS/releases/latest/download/gtfs.zip",
+    "mdb_id": "mdb-3459",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

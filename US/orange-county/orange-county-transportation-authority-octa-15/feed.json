@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Orange County Transportation Authority (OCTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.octa.net/current/google_transit.zip",
+    "mdb_id": "mdb-15",
+    "license": "http://www.octa.net/News-and-Resources/Open-Data/Overview/"
+  },
+  "bbox": {
+    "minimum_latitude": 33.396269,
+    "maximum_latitude": 33.939472,
+    "minimum_longitude": -118.119155,
+    "maximum_longitude": -117.577689
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

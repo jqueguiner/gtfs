@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "URBS Curitiba",
+    "country": "BR",
+    "subdivision": "Paraná",
+    "city": "Região Metropolitana de Curitiba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/benaytms/urbs-gtfs/releases/download/latest/gtfs_curitiba.zip",
+    "mdb_id": "mdb-3225",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -25.636939219938,
+    "maximum_latitude": -25.33934102009,
+    "minimum_longitude": -49.37939286232,
+    "maximum_longitude": -49.1830858
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

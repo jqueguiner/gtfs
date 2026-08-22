@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tout'enbus",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Ucel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=toutenbus",
+    "mdb_id": "mdb-1892",
+    "license": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-toutenbus-aubenas-gtfs-gtfs-rt"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

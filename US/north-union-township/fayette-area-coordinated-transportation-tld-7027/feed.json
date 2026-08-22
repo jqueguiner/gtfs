@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fayette Area Coordinated Transportation",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "North Union Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fact.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-7027",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

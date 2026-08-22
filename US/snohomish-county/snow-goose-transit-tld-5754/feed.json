@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Snow Goose Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Snohomish County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/snowgoosetransit-wa-us/snowgoosetransit-wa-us.zip",
+    "mdb_id": "tld-5754",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

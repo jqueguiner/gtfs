@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Maryland Transit Administration",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Baltimore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mdotmta-gtfs.s3.amazonaws.com/mdotmta_gtfs_localbus.zip",
+    "mdb_id": "mdb-466",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.978294,
+    "maximum_latitude": 39.496727,
+    "minimum_longitude": -76.889459,
+    "maximum_longitude": -76.379313
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

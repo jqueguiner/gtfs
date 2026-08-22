@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "淡路市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Sumoto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/awajicity/feeds/awajinawahimebus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-awajicity-awajinawahimebus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.3456716957449,
+    "maximum_latitude": 134.985404310928,
+    "minimum_longitude": 34.5792003943172,
+    "maximum_longitude": 135.0246
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

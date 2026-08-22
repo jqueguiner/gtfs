@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "I-RIDE Trolley (I-RIDE)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://buswhere.com/iridetrolley/gtfs/schedule",
+    "mdb_id": "mdb-1143",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

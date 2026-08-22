@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Alameda-Contra Costa Transit District (AC Transit)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Alameda County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.actransit.org/transit/gtfs/download",
+    "mdb_id": "mdb-2455",
+    "license": "https://www.actransit.org/data-terms-and-conditions/"
+  },
+  "bbox": {
+    "minimum_latitude": 37.409768,
+    "maximum_latitude": 38.017813,
+    "minimum_longitude": -122.419082,
+    "maximum_longitude": -121.886829
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

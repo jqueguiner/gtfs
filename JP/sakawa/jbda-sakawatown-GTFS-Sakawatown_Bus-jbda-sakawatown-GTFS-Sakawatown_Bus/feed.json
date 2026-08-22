@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "佐川町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Sakawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sakawatown/feeds/GTFS-Sakawatown_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sakawatown-GTFS-Sakawatown_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.457556,
+    "maximum_latitude": 33.551814,
+    "minimum_longitude": 133.254924,
+    "maximum_longitude": 133.328198
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

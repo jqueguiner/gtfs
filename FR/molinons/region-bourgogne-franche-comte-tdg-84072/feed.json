@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Molinons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5c995d2c-8e79-4e40-b4a6-c0583c647201",
+    "mdb_id": "tdg-84072",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.455897,
+    "maximum_latitude": 48.353776,
+    "minimum_longitude": 2.948312,
+    "maximum_longitude": 4.3369632
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

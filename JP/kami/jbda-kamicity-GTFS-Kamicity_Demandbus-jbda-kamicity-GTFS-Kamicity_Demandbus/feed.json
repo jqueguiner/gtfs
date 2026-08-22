@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "香美市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Kami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamicity/feeds/GTFS-Kamicity_Demandbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamicity-GTFS-Kamicity_Demandbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.662628,
+    "maximum_latitude": 33.737328,
+    "minimum_longitude": 133.862695,
+    "maximum_longitude": 133.89995
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

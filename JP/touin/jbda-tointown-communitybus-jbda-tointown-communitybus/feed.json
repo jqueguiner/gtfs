@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東員町",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Touin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tointown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tointown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.054638,
+    "maximum_latitude": 35.104942,
+    "minimum_longitude": 136.566068813491,
+    "maximum_longitude": 136.608332728836
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

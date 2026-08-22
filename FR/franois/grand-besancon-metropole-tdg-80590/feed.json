@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GRAND BESANCON METROPOLE",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Franois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e18e0aeb-8805-47fd-bcdb-c226d21c96fe",
+    "mdb_id": "tdg-80590",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Allen County Regional Transit Authority",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Allen County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/acrta-oh-us/acrta-oh-us.zip",
+    "mdb_id": "mdb-210",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.68647,
+    "maximum_latitude": 40.90316,
+    "minimum_longitude": -84.33966,
+    "maximum_longitude": -83.87103
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

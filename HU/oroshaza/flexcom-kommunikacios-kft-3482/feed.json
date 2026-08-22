@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FlexCom Kommunikációs Kft.",
+    "country": "HU",
+    "subdivision": "Békés",
+    "city": "Orosháza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gpspositions.net/storage/exports/OROSH_V_ONK/gtfs_latest.zip",
+    "mdb_id": "mdb-3482",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FGV - Generalitat Valenciana Metro de Valencia",
+    "country": "ES",
+    "subdivision": "Valencian Community",
+    "city": "Valencia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1168",
+    "mdb_id": "mdb-2830",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

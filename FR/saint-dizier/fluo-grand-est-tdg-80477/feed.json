@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fluo Grand Est",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Saint-Dizier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/80477/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-80477",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.4933279,
+    "maximum_latitude": 48.6560669,
+    "minimum_longitude": 4.8660971,
+    "maximum_longitude": 4.9900686
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

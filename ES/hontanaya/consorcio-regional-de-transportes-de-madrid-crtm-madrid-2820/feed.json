@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Consorcio Regional de Transportes de Madrid CRTM Madrid City Bus (Autobús urbano de Madrid)",
+    "country": "ES",
+    "subdivision": "Castile-La Mancha",
+    "city": "Hontanaya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/357e63c2904f43aeb5d8a267a64346d8/data",
+    "mdb_id": "mdb-2820",
+    "license": "https://www.crtm.es/licencia-de-uso"
+  },
+  "bbox": {
+    "minimum_latitude": 39.6040077209473,
+    "maximum_latitude": 41.1316032409668,
+    "minimum_longitude": -4.58037137985229,
+    "maximum_longitude": -2.82549953460693
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

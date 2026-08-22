@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "直島町",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Naoshima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/naoshimatown/feeds/naoshima/files/feed.zip?rid=current",
+    "mdb_id": "jbda-naoshimatown-naoshima",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

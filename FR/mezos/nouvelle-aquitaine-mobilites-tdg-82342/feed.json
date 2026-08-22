@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Mézos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/476fec18-c51f-41e6-9d15-0030174389c3",
+    "mdb_id": "tdg-82342",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.496529,
+    "maximum_latitude": 44.659348,
+    "minimum_longitude": -1.469808,
+    "maximum_longitude": -0.500638
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

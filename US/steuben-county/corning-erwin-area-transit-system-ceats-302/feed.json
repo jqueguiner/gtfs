@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Corning Erwin Area Transit System (CEATS)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Steuben County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Corning_Erwin_Area_Transit_System_CEATS.zip",
+    "mdb_id": "mdb-302",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.11544,
+    "maximum_latitude": 42.182297,
+    "minimum_longitude": -77.14164,
+    "maximum_longitude": -76.97059
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

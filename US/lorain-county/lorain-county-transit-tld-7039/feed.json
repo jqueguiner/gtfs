@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lorain County Transit",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Lorain County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/Lorain_County_Transit_US.zip",
+    "mdb_id": "tld-7039",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.3450196,
+    "maximum_latitude": 41.465964,
+    "minimum_longitude": -82.179733,
+    "maximum_longitude": -82.066934
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

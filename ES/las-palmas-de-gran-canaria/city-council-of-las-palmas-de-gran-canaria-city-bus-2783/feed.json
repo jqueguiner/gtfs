@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City Council of Las Palmas de Gran Canaria (city bus)",
+    "country": "ES",
+    "subdivision": "Canary Islands",
+    "city": "Las Palmas de Gran Canaria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1295",
+    "mdb_id": "mdb-2783",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 28.05461416,
+    "maximum_latitude": 28.16599565,
+    "minimum_longitude": -15.48584761,
+    "maximum_longitude": -15.39992752
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

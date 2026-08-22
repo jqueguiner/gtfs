@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bryce Canyon National Park Shuttle",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "Garfield County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/brca/bryce-canyon-shuttle.zip",
+    "mdb_id": "tld-6675",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.6045609926,
+    "maximum_latitude": 37.674476,
+    "minimum_longitude": -112.172311,
+    "maximum_longitude": -112.153943
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

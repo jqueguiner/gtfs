@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AUVASA (Valladolid city bus)",
+    "country": "ES",
+    "subdivision": "Castile and León",
+    "city": "Valladolid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1563",
+    "mdb_id": "mdb-2730",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

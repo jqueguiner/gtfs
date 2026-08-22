@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大泉町",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Ota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/oizumitown/feeds/kouikikoukyoubasuaozora/files/feed.zip?rid=current",
+    "mdb_id": "jbda-oizumitown-kouikikoukyoubasuaozora",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.208481,
+    "maximum_latitude": 36.298654,
+    "minimum_longitude": 139.360348,
+    "maximum_longitude": 139.453664
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

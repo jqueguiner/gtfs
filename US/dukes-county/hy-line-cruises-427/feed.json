@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hy-Line Cruises",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Dukes County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/hylinecruises-ma-us/hylinecruises-ma-us.zip",
+    "mdb_id": "mdb-427",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.28467680914491,
+    "maximum_latitude": 41.6482986856447,
+    "minimum_longitude": -70.5587982204256,
+    "maximum_longitude": -70.09479684796906
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

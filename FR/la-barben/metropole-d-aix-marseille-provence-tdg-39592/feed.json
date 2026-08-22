@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "La Barben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3fc0ab9d-e7a3-4728-ac2b-be55d927e757",
+    "mdb_id": "tdg-39592",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.42863704,
+    "maximum_latitude": 43.74679954,
+    "minimum_longitude": 4.95467817,
+    "maximum_longitude": 5.35339778
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

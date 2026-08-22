@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Springfield Mass Transit District (SMTD)",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Springfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ride.smtd.org/gtfs/smtd_gtfs_feed.zip",
+    "mdb_id": "mdb-3187",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

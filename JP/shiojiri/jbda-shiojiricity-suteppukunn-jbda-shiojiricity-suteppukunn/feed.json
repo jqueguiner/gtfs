@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "塩尻市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Shiojiri"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shiojiricity/feeds/suteppukunn/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shiojiricity-suteppukunn",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.908711,
+    "maximum_latitude": 36.1746288635219,
+    "minimum_longitude": 137.808915,
+    "maximum_longitude": 138.013502
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

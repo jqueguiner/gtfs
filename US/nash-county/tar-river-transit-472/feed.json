@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tar River Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Nash County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/tarriver-nc-us/tarriver-nc-us.zip",
+    "mdb_id": "mdb-472",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

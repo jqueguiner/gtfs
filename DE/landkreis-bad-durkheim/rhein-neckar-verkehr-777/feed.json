@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rhein-Neckar-Verkehr",
+    "country": "DE",
+    "subdivision": "Rhineland-Palatinate",
+    "city": "Landkreis Bad Dürkheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip",
+    "mdb_id": "mdb-777",
+    "license": "https://opendata.rnv-online.de/dataset/gtfs-general-transit-feed-specification"
+  },
+  "bbox": {
+    "minimum_latitude": 49.3432631,
+    "maximum_latitude": 49.5811911,
+    "minimum_longitude": 8.1704019,
+    "maximum_longitude": 8.811395
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

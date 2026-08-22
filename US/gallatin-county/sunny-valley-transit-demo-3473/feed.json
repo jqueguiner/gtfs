@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sunny Valley Transit (Demo)",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Gallatin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.gtfsx.com/svt-demo/gtfs.zip",
+    "mdb_id": "mdb-3473",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.665298,
+    "maximum_latitude": 45.712122,
+    "minimum_longitude": -111.114205,
+    "maximum_longitude": -111.009508
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

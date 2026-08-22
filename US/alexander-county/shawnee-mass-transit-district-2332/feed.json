@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Shawnee Mass Transit District",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Alexander County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11557/S1.zip",
+    "mdb_id": "mdb-2332",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.99635,
+    "maximum_latitude": 37.72413,
+    "minimum_longitude": -89.22708,
+    "maximum_longitude": -89.16154
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

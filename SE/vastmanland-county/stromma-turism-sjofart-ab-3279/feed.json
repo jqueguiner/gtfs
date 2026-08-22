@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Strömma Turism & Sjöfart AB",
+    "country": "SE",
+    "subdivision": "Västmanland County",
+    "city": "Västmanland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/stromma/stromma.zip",
+    "mdb_id": "mdb-3279",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

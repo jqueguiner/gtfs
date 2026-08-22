@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "七戸町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Shichinohe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shichinohetown/feeds/shichinohe_community-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shichinohetown-shichinohe_community-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.6470105052854,
+    "maximum_latitude": 40.7999144751868,
+    "minimum_longitude": 141.086707393557,
+    "maximum_longitude": 141.244435
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

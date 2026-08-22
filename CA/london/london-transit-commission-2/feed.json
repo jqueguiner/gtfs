@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "London Transit Commission",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "London"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.londontransit.ca/gtfsfeed/google_transit.zip",
+    "mdb_id": "mdb-2",
+    "license": "https://www.londontransit.ca/open-data/ltcs-open-data-terms-of-use/"
+  },
+  "bbox": {
+    "minimum_latitude": 42.905244,
+    "maximum_latitude": 43.051188,
+    "minimum_longitude": -81.36311,
+    "maximum_longitude": -81.132066
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

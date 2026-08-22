@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "La Coruña Tram Company SA",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "city": "A Coruña"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1574",
+    "mdb_id": "mdb-2767",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高知西南交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Shimanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-seinan-kotsu/feeds/GTFS-Seinantraffic_Shimaashi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-seinan-kotsu-GTFS-Seinantraffic_Shimaashi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

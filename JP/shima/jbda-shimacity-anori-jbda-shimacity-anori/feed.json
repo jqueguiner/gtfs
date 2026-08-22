@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "志摩市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Shima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimacity/feeds/anori/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shimacity-anori",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.323685,
+    "maximum_latitude": 34.361595,
+    "minimum_longitude": 136.82611,
+    "maximum_longitude": 136.9021
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BurbankBus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Burbank"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rideburbankbus.com/gtfs",
+    "mdb_id": "mdb-2149",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

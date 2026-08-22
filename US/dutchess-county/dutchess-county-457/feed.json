@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dutchess County",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Dutchess County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Dutchess_County_Transit.zip",
+    "mdb_id": "mdb-457",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.4940071105957,
+    "maximum_latitude": 42.05994415283203,
+    "minimum_longitude": -73.984619140625,
+    "maximum_longitude": -73.56646728515625
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

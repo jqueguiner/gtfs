@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Skagit Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Skagit County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://strweb.skagittransit.org/GTFS/google_transit.zip",
+    "mdb_id": "tld-5895",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.974461,
+    "maximum_latitude": 48.750672,
+    "minimum_longitude": -122.688354,
+    "maximum_longitude": -121.738907
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

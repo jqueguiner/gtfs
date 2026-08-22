@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Comox Valley Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Courtenay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=45",
+    "mdb_id": "mdb-2524",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

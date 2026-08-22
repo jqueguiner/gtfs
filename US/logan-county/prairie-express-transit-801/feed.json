@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prairie Express Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Logan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/prairieexpress-co-us/prairieexpress-co-us.zip",
+    "mdb_id": "mdb-801",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

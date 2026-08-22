@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Squamish)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Squamish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=43",
+    "mdb_id": "mdb-2563",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

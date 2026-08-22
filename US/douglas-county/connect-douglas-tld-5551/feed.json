@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Connect Douglas",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Douglas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/douglas/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-5551",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

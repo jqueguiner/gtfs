@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Antalya - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Antalya",
+    "city": "Konyaaltı"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/antalya.zip",
+    "mdb_id": "mdb-3406",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 36.200684,
+    "maximum_latitude": 37.234866,
+    "minimum_longitude": 29.320068,
+    "maximum_longitude": 32.3175112
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nuup Bussii A/S",
+    "country": "GL",
+    "subdivision": "Sermersooq",
+    "city": "Sermersooq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/thomasryde/nuup-bussii-gtfs/releases/latest/download/nuup-bussii-gtfs.zip",
+    "mdb_id": "mdb-3106",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 64.1646099,
+    "maximum_latitude": 64.2005526,
+    "minimum_longitude": -51.74169,
+    "maximum_longitude": -51.6641745
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

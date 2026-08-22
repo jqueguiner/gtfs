@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Temiskaming Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Cobalt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-temiskaming.zip",
+    "mdb_id": "tld-4748",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

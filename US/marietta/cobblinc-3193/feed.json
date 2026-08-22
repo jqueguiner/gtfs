@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CobbLinc",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Marietta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cobb.rideralerts.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "mdb-3193",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.752732,
+    "maximum_latitude": 34.041286,
+    "minimum_longitude": -84.620026,
+    "maximum_longitude": -84.387119
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

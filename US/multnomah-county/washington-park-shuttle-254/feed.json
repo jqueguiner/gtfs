@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Washington Park Shuttle",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Multnomah County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/washingtonparkshuttle-or-us/washingtonparkshuttle-or-us.zip",
+    "mdb_id": "mdb-254",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

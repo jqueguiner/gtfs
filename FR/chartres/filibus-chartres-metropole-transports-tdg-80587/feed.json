@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Filibus - Chartres Métropole Transports",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Chartres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8d4c3e5c-1702-4649-b47a-b16c6016dcc6",
+    "mdb_id": "tdg-80587",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.264299,
+    "maximum_latitude": 48.5890493,
+    "minimum_longitude": 1.2377102,
+    "maximum_longitude": 1.7077922
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

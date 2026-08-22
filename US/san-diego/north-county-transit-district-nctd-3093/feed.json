@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North County Transit District (NCTD)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Diego"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lfportal.nctd.org/staticGTFS/google_transit.zip",
+    "mdb_id": "mdb-3093",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

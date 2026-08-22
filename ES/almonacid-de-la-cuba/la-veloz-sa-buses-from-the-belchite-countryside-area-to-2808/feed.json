@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "La Veloz SA (Buses from the Belchite countryside area to Zaragoza (C12))",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Almonacid de la Cuba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1914",
+    "mdb_id": "mdb-2808",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 40.81158974260265,
+    "maximum_latitude": 41.659593,
+    "minimum_longitude": -1.030301107810902,
+    "maximum_longitude": -0.629477496712474
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

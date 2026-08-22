@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Ventoux Comtat Venaissin",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Sarrians"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/89e09fb6-0bf6-4ca5-95f3-50444ab6c681",
+    "mdb_id": "tdg-83785",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.977947,
+    "maximum_latitude": 44.2152084,
+    "minimum_longitude": 4.967773,
+    "maximum_longitude": 5.2419269
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

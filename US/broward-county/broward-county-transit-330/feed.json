@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Broward County Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Broward County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.broward.org/bct/documents/google_transit.zip",
+    "mdb_id": "mdb-330",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

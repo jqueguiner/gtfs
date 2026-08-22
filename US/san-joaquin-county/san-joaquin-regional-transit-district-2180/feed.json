@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Joaquin Regional Transit District",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Joaquin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sanjoaquin-ca-us/sanjoaquin-ca-us--flex-v2.zip",
+    "mdb_id": "mdb-2180",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

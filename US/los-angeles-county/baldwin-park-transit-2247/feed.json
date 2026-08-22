@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Baldwin Park Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://baldwinpark.tectransit.com/api/public/fixedRoute/gtfs",
+    "mdb_id": "mdb-2247",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

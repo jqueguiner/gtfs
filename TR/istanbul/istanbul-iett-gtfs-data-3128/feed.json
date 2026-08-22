@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Istanbul IETT GTFS Data",
+    "country": "TR",
+    "subdivision": "Istanbul",
+    "city": "Istanbul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.ibb.gov.tr/en/dataset/iett-gtfs-verisi",
+    "mdb_id": "mdb-3128",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

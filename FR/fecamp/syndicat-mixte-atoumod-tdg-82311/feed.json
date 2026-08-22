@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Fécamp"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/82311/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-82311",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.743522,
+    "maximum_latitude": 49.7641937,
+    "minimum_longitude": 0.361637,
+    "maximum_longitude": 0.4152275
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

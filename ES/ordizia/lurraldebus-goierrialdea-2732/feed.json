@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus Goierrialdea",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Ordizia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1229",
+    "mdb_id": "mdb-2732",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

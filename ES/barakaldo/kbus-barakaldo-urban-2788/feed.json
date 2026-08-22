@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kbus (Barakaldo urban)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Barakaldo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2068",
+    "mdb_id": "mdb-2788",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.2557218,
+    "maximum_latitude": 43.3027807,
+    "minimum_longitude": -3.0208148,
+    "maximum_longitude": -2.9719162
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

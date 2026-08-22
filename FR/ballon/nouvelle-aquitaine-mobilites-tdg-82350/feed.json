@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Ballon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/030b9c31-4237-4355-a4d5-842861d225be",
+    "mdb_id": "tdg-82350",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.017185,
+    "maximum_latitude": 46.252171,
+    "minimum_longitude": -1.256477,
+    "maximum_longitude": -0.923319
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

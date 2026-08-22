@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Urban Trans Vlora",
+    "country": "AL",
+    "subdivision": "Vlorë County",
+    "city": "Vlorë"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/denisdemaj233/gtfs-vlora/releases/download/v1/gtfs-vlore.zip",
+    "mdb_id": "mdb-3182",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.46133,
+    "maximum_latitude": 40.47918,
+    "minimum_longitude": 19.47558,
+    "maximum_longitude": 19.5001
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

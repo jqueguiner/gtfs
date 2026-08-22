@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Durance Luberon Verdon Agglomération",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Oraison"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/117daa0d-0708-43aa-a562-7d5b3d6570b0",
+    "mdb_id": "tdg-83789",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.699911,
+    "maximum_latitude": 43.972707,
+    "minimum_longitude": 5.694571,
+    "maximum_longitude": 6.128675
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

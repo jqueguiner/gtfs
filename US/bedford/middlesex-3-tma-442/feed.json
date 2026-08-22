@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Middlesex 3 TMA",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Bedford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/middlesex-ma-us/middlesex-ma-us.zip",
+    "mdb_id": "mdb-442",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

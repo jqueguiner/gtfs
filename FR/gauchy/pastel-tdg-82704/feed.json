@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "PASTEL",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Gauchy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/42e3ea9d-251e-47c1-988d-f7227f0e2d0f",
+    "mdb_id": "tdg-82704",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.817862,
+    "maximum_latitude": 49.86818,
+    "minimum_longitude": 3.25119,
+    "maximum_longitude": 3.32898
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

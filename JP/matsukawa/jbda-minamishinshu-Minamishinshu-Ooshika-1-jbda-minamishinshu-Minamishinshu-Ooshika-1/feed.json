@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南信州地域交通問題協議会（南信州広域連合）",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Matsukawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-Ooshika-1/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minamishinshu-Minamishinshu-Ooshika-1",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.556331,
+    "maximum_latitude": 35.610023,
+    "minimum_longitude": 137.88744,
+    "maximum_longitude": 138.048202
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

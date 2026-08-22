@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Carousel Buses",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Oxfordshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/carouselbuses/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1932",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.156879,
+    "maximum_latitude": 51.815172351,
+    "minimum_longitude": -1.262512,
+    "maximum_longitude": -0.159553
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

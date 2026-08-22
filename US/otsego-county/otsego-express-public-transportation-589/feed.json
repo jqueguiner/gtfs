@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Otsego Express Public Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Otsego County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Otsego_Express_Public_Transit.zip",
+    "mdb_id": "mdb-589",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.296663,
+    "maximum_latitude": 42.883622,
+    "minimum_longitude": -75.414187,
+    "maximum_longitude": -74.673015
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

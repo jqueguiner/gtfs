@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "The Santa Cruzer",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Cruz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.pinpointavl.com/santacruzer.zip",
+    "mdb_id": "mdb-2667",
+    "license": "https://www.pinpointavl.com/gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 36.963414098406,
+    "maximum_latitude": 36.9752434106014,
+    "minimum_longitude": -122.027226591586,
+    "maximum_longitude": -122.024637044007
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

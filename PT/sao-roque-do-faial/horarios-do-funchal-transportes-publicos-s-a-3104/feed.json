@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Horários do Funchal - Transportes Públicos, S.A",
+    "country": "PT",
+    "subdivision": "Madeira",
+    "city": "São Roque do Faial"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.horariosdofunchal.pt/googletransit.zip",
+    "mdb_id": "mdb-3104",
+    "license": "http://www.horariosdofunchal.pt/index.php?option=com_content&task=view&id=2022"
+  },
+  "bbox": {
+    "minimum_latitude": 32.63429,
+    "maximum_latitude": 32.744728,
+    "minimum_longitude": -16.975440851520545,
+    "maximum_longitude": -16.85776605255308
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

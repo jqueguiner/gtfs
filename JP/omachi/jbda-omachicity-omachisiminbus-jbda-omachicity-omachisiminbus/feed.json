@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大町市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Omachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/omachicity/feeds/omachisiminbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-omachicity-omachisiminbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.442494,
+    "maximum_latitude": 36.633857,
+    "minimum_longitude": 137.792793,
+    "maximum_longitude": 137.965419
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

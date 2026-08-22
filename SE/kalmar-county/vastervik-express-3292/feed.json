@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Västervik Express",
+    "country": "SE",
+    "subdivision": "Kalmar County",
+    "city": "Kalmar County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vastexp/vastexp.zip",
+    "mdb_id": "mdb-3292",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

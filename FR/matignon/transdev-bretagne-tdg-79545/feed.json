@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev • Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Matignon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7ec415c9-a963-40fc-8350-7ca77cb824c8",
+    "mdb_id": "tdg-79545",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.311242,
+    "maximum_latitude": 48.637947,
+    "minimum_longitude": -2.291973,
+    "maximum_longitude": -1.996778
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

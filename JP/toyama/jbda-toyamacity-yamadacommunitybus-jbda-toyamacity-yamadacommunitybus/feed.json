@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "富山市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Toyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyamacity/feeds/yamadacommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyamacity-yamadacommunitybus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.564532,
+    "maximum_latitude": 36.649933,
+    "minimum_longitude": 137.046444,
+    "maximum_longitude": 137.141279
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

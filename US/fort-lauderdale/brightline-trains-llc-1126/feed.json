@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brightline Trains LLC",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Fort Lauderdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://feed.gobrightline.com/bl_gtfs.zip",
+    "mdb_id": "mdb-1126",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

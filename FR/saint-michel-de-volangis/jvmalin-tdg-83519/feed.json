@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Saint-Michel-de-Volangis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ef2f826c-c1c6-4eb4-9da3-4c2f37b3afaf",
+    "mdb_id": "tdg-83519",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.944756,
+    "maximum_latitude": 47.176311,
+    "minimum_longitude": 2.204658,
+    "maximum_longitude": 2.535403
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

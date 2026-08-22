@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lincoln County Transit (LCT)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Linn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us.zip",
+    "mdb_id": "mdb-23",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.3116263048855,
+    "maximum_latitude": 45.01935811,
+    "minimum_longitude": -124.105422953253,
+    "maximum_longitude": -123.10286
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

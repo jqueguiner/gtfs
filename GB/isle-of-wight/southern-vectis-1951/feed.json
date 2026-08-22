@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Southern Vectis",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Isle of Wight"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/southernvectis/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1951",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.579072139,
+    "maximum_latitude": 50.766309234,
+    "minimum_longitude": -1.579848164,
+    "maximum_longitude": -1.079123923
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

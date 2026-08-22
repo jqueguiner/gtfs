@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Altavista Community Transit System",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Virginia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/altavista-va-us/altavista-va-us.zip",
+    "mdb_id": "mdb-882",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

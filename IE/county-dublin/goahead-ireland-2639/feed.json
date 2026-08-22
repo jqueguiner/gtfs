@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GoAhead Ireland",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_GoAhead.zip",
+    "mdb_id": "mdb-2639",
+    "license": "https://www.transportforireland.ie/transitData/PT_Data.html"
+  },
+  "bbox": {
+    "minimum_latitude": 52.991461,
+    "maximum_latitude": 53.606196,
+    "minimum_longitude": -7.488104,
+    "maximum_longitude": -6.053311
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

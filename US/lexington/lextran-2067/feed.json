@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lextran",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Lexington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mystop.lextran.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2067",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.970649,
+    "maximum_latitude": 38.11016,
+    "minimum_longitude": -84.604828,
+    "maximum_longitude": -84.405562
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

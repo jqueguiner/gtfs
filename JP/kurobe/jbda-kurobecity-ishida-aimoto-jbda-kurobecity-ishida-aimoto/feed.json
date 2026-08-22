@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "黒部市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Kurobe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kurobecity/feeds/ishida-aimoto/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kurobecity-ishida-aimoto",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.8370936543294,
+    "maximum_latitude": 36.8866263266667,
+    "minimum_longitude": 137.416889448571,
+    "maximum_longitude": 137.564363479614
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

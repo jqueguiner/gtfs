@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brockton Area Transit Authority (BAT)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Brockton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/brockton-ma-us/brockton-ma-us.zip",
+    "mdb_id": "mdb-422",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

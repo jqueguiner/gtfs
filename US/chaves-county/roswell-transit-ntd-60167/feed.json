@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Roswell Transit",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Chaves County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.roswell-nm.gov/DocumentCenter/View/24460/gtfs",
+    "mdb_id": "ntd-60167",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.30717,
+    "maximum_latitude": 33.44909,
+    "minimum_longitude": -104.52338,
+    "maximum_longitude": -104.51979
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

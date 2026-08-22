@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Iowa City Transit System",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Iowa City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/iowacitytransit-ia-us/iowacitytransit-ia-us.zip",
+    "mdb_id": "mdb-559",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.628025,
+    "maximum_latitude": 41.68918934,
+    "minimum_longitude": -91.598839,
+    "maximum_longitude": -91.4688
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

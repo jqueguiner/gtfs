@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Juan Capistrano Free Weekend Trolley",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Juan Capistrano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/production/SanJuanCapistranoGTFS.zip",
+    "mdb_id": "mdb-2235",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

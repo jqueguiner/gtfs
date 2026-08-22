@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鳴門市",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Naruto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/narutocity/feeds/narutocitytosen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-narutocity-narutocitytosen",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

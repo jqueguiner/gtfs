@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Fougères"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/916752e4-5daa-48bd-8bc1-4dd8d64f1d4a",
+    "mdb_id": "tdg-80721",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.15239845,
+    "maximum_latitude": 48.596872,
+    "minimum_longitude": -2.347267,
+    "maximum_longitude": 0.7995406
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

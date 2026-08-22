@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Land Transport Authority (Singapore)",
+    "country": "SG",
+    "subdivision": "Central",
+    "city": "Central"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/thecrapone/singapore-gtfs-2026/raw/main/singapore-gtfs.zip",
+    "mdb_id": "mdb-3051",
+    "license": "https://data.gov.sg/open-data-licence"
+  },
+  "bbox": {
+    "minimum_latitude": 1.251427,
+    "maximum_latitude": 1.49390379286364,
+    "minimum_longitude": 103.61725,
+    "maximum_longitude": 104.030008
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

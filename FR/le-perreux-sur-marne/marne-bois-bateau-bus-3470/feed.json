@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Marne Bois Bateau Bus",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Le Perreux-sur-Marne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.infra-hubup.fr/rivercat/current/gtfs",
+    "mdb_id": "mdb-3470",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.816324,
+    "maximum_latitude": 48.851516,
+    "minimum_longitude": 2.4673369,
+    "maximum_longitude": 2.5168046
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

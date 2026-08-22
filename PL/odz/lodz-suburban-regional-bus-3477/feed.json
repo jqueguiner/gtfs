@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lodz Suburban & Regional Bus",
+    "country": "PL",
+    "subdivision": "Łódź Voivodeship",
+    "city": "Łódź"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/qbx-tt/gtfs-lodz-suburban/main/gtfs-lodz-suburban.zip",
+    "mdb_id": "mdb-3477",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 51.5946494,
+    "maximum_latitude": 51.731588,
+    "minimum_longitude": 19.47656,
+    "maximum_longitude": 19.54285409
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

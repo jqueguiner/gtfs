@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Provence-Alpes-Côte-d'Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Saint-Crépin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6471d334-17df-4308-bae0-5736c24a2e6a",
+    "mdb_id": "tdg-82136",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.09788,
+    "maximum_latitude": 44.88758,
+    "minimum_longitude": 4.61792,
+    "maximum_longitude": 7.41621
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

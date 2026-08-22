@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Altamont Corridor Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=CE",
+    "mdb_id": "mdb-2684",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 37.330686,
+    "maximum_latitude": 37.95708,
+    "minimum_longitude": -122.007353,
+    "maximum_longitude": -121.264143
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

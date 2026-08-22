@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Interurban Trolley",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Elkhart County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://macog.com/google/google_transit.zip",
+    "mdb_id": "mdb-571",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.22665,
+    "maximum_latitude": 41.73996431,
+    "minimum_longitude": -86.251147,
+    "maximum_longitude": -85.789122
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

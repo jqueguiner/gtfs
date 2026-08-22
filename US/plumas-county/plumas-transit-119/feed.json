@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Plumas Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Plumas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/plumas-ca-us/plumas-ca-us.zip",
+    "mdb_id": "mdb-119",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.766285,
+    "maximum_latitude": 40.3123914556704,
+    "minimum_longitude": -121.240784,
+    "maximum_longitude": -120.037295269399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

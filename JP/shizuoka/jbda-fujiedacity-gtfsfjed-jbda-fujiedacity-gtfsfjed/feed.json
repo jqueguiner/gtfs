@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "藤枝市",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Shizuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fujiedacity/feeds/gtfsfjed/files/feed.zip?rid=current",
+    "mdb_id": "jbda-fujiedacity-gtfsfjed",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.78595,
+    "maximum_latitude": 34.99886,
+    "minimum_longitude": 138.18062,
+    "maximum_longitude": 138.28455
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

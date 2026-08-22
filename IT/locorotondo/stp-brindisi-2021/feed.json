@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "STP Brindisi",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Locorotondo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stpbrindisi.it/attachments/article/963/Extraurbano.zip",
+    "mdb_id": "mdb-2021",
+    "license": "https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio"
+  },
+  "bbox": {
+    "minimum_latitude": 40.268619,
+    "maximum_latitude": 40.851967,
+    "minimum_longitude": 17.196897,
+    "maximum_longitude": 18.191676
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

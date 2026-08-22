@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oakville Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Oakville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/d78a1c1ad6a940009de8b68839a8f606/data",
+    "mdb_id": "mdb-725",
+    "license": "http://www.oakville.ca/data/oakville-transit-route-information.html"
+  },
+  "bbox": {
+    "minimum_latitude": 43.372358,
+    "maximum_latitude": 43.525209,
+    "minimum_longitude": -79.829729,
+    "maximum_longitude": -79.632124
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

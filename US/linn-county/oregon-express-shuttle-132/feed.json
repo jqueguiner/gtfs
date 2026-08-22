@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oregon Express Shuttle",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Linn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/oregonexpressshuttle-or-us/oregonexpressshuttle-or-us.zip",
+    "mdb_id": "mdb-132",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.5576688810995,
+    "maximum_latitude": 45.58905,
+    "minimum_longitude": -123.278805613518,
+    "maximum_longitude": -122.59229
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

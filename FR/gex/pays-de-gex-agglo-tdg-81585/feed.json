@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pays de Gex Agglo",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Gex"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/95c73b12-d117-4faf-bb6f-abfe3c95eee1",
+    "mdb_id": "tdg-81585",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.14372972,
+    "maximum_latitude": 46.33794795,
+    "minimum_longitude": 5.96066327,
+    "maximum_longitude": 6.15563362
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

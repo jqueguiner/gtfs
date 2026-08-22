@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Kuching",
+    "country": "MY",
+    "subdivision": "Sarawak",
+    "city": "Kuching Division"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-kuching",
+    "mdb_id": "mdb-3166",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

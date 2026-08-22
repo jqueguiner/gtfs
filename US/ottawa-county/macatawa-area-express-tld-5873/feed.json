@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Macatawa Area Express",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ottawa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://catchamax.org/wp-content/maxgtfs/MAXGTFS.zip",
+    "mdb_id": "tld-5873",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.74679,
+    "maximum_latitude": 42.841117,
+    "minimum_longitude": -86.156827,
+    "maximum_longitude": -85.999658
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

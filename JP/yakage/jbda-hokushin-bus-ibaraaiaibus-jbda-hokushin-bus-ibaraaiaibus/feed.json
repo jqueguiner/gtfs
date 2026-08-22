@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "北振バス株式会社",
+    "country": "JP",
+    "subdivision": "Okayama Prefecture",
+    "city": "Yakage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hokushin-bus/feeds/ibaraaiaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hokushin-bus-ibaraaiaibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

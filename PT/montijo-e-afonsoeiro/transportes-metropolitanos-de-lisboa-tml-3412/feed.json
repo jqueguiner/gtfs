@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transportes Metropolitanos de Lisboa (TML)",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Montijo e Afonsoeiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://go.tmlmobilidade.pt/hub/api/v1/plans/gtfs",
+    "mdb_id": "mdb-3412",
+    "license": "https://github.com/tmlmobilidade/go?tab=AGPL-3.0-1-ov-file"
+  },
+  "bbox": {
+    "minimum_latitude": 37.013994,
+    "maximum_latitude": 42.024677,
+    "minimum_longitude": -9.497247,
+    "maximum_longitude": -6.828972
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

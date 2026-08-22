@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "琴参バス株式会社",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Utadu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kotosan/feeds/marugame-community/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kotosan-marugame-community",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.21053022,
+    "maximum_latitude": 34.312075,
+    "minimum_longitude": 133.77798044,
+    "maximum_longitude": 133.88777345
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

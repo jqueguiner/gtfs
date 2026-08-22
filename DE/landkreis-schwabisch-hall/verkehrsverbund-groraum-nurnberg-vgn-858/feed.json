@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ver­kehrs­ver­bund Groß­raum Nürn­berg (VGN)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Landkreis Schwäbisch Hall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.vgn.de/opendata/GTFS.zip",
+    "mdb_id": "mdb-858",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.74482542,
+    "maximum_latitude": 50.51338274,
+    "minimum_longitude": 9.97094033,
+    "maximum_longitude": 12.5404634
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

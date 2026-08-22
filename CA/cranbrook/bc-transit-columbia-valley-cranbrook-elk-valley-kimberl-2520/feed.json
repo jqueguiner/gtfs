@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Columbia Valley | Cranbrook | Elk Valley | Kimberley)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Cranbrook"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=21",
+    "mdb_id": "mdb-2520",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "神戸市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kobe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-shiokaze/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kobecity-kobe-shiokaze",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.633429,
+    "maximum_latitude": 34.79403,
+    "minimum_longitude": 135.07421,
+    "maximum_longitude": 135.275779
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

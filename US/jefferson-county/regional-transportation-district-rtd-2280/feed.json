@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Transportation District (RTD)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rtd-denver.com/files/gtfs/bustang-co-us.zip",
+    "mdb_id": "mdb-2280",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.835175,
+    "maximum_latitude": 40.59005,
+    "minimum_longitude": -108.564,
+    "maximum_longitude": -104.814988
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

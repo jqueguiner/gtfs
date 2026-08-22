@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Utah Transit Authority (UTA)",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "Salt Lake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsfeed.rideuta.com/GTFS.zip",
+    "mdb_id": "mdb-170",
+    "license": "http://developer.rideuta.com/TermsOfUse.aspx"
+  },
+  "bbox": {
+    "minimum_latitude": 39.975518,
+    "maximum_latitude": 41.528157,
+    "minimum_longitude": -112.304461,
+    "maximum_longitude": -111.603229
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "EVEOLE",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Somain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/99cf5e2f-87c2-4ff1-bc0d-32f04cc213ab",
+    "mdb_id": "tdg-79544",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.257587,
+    "maximum_latitude": 50.443732,
+    "minimum_longitude": 3.00059,
+    "maximum_longitude": 3.340375
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

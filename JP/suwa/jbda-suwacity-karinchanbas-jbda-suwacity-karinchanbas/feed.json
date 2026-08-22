@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "諏訪市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Suwa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/suwacity/feeds/karinchanbas/files/feed.zip?rid=current",
+    "mdb_id": "jbda-suwacity-karinchanbas",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.993415,
+    "maximum_latitude": 36.058637,
+    "minimum_longitude": 138.080233,
+    "maximum_longitude": 138.136862
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

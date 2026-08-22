@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "神戸市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kobe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kobecity/feeds/kobe-satoyama/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kobecity-kobe-satoyama",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.756422,
+    "maximum_latitude": 34.773838,
+    "minimum_longitude": 135.130693,
+    "maximum_longitude": 135.155751
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

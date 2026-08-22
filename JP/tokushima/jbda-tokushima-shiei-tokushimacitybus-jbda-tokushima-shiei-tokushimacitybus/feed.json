@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "徳島市交通局",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Tokushima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokushima-shiei/feeds/tokushimacitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokushima-shiei-tokushimacitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.055982,
+    "maximum_latitude": 34.081982,
+    "minimum_longitude": 134.550534,
+    "maximum_longitude": 134.596997
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

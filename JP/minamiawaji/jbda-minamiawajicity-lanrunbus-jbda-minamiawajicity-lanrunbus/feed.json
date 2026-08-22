@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "南あわじ市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Minamiawaji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamiawajicity/feeds/lanrunbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minamiawajicity-lanrunbus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

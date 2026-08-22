@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lake Champlain Ferries",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Clinton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lctferries-vt-us/lctferries-vt-us.zip",
+    "mdb_id": "mdb-547",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

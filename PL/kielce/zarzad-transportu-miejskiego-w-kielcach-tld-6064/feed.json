@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego w Kielcach",
+    "country": "PL",
+    "subdivision": "Świętokrzyskie Voivodeship",
+    "city": "Kielce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/kielce.zip",
+    "mdb_id": "tld-6064",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 50.68369,
+    "maximum_latitude": 50.99144,
+    "minimum_longitude": 20.35926,
+    "maximum_longitude": 20.89637
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西川町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Nishikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishikawatown/feeds/NishikawaTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nishikawatown-NishikawaTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.3579826666667,
+    "maximum_latitude": 38.5180233449488,
+    "minimum_longitude": 139.983344583795,
+    "maximum_longitude": 140.310159471429
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

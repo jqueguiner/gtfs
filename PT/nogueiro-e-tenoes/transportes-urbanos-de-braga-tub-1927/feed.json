@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transportes Urbanos de Braga (TUB)",
+    "country": "PT",
+    "subdivision": "Braga",
+    "city": "Nogueiró e Tenões"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tub.pt/developer/gtfs/feed/tub.zip",
+    "mdb_id": "mdb-1927",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

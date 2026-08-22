@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cape Ann Transportation Authority (CATA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Beverly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/capeann-ma-us/capeann-ma-us.zip",
+    "mdb_id": "mdb-447",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

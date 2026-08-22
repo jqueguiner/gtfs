@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vineyard Fast Ferry",
+    "country": "US",
+    "subdivision": "Rhode Island",
+    "city": "South County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/vineyardfastferry-ri-us/vineyardfastferry-ri-us.zip",
+    "mdb_id": "mdb-419",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

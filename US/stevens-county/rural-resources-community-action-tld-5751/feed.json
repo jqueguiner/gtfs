@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rural Resources Community Action",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Stevens County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ruralresources-wa-us/ruralresources-wa-us.zip",
+    "mdb_id": "tld-5751",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.237788418,
+    "maximum_latitude": 48.613958966,
+    "minimum_longitude": -118.0962216,
+    "maximum_longitude": -117.710822529
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

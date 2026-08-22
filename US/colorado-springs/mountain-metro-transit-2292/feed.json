@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mountain Metro Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Colorado Springs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/coloradosprings-co-us/coloradosprings-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2292",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

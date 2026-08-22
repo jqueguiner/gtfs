@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Town of Cranberry Isles Commuter Ferry",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Mount Desert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13051/CranberryIslesGTFS.zip",
+    "mdb_id": "tld-7866",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.258795,
+    "maximum_latitude": 44.295116,
+    "minimum_longitude": -68.284223,
+    "maximum_longitude": -68.23942
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

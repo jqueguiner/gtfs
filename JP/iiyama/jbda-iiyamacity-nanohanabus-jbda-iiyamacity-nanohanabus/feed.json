@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "飯山市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Iiyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/iiyamacity/feeds/nanohanabus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-iiyamacity-nanohanabus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

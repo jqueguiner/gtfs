@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Azienda Trasporti MIlanesi (ATM)",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "city": "Milan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.comune.milano.it/gtfs.zip",
+    "mdb_id": "mdb-2666",
+    "license": "https://dati.comune.milano.it/dataset/ds929-orari-del-trasporto-pubblico-locale-nel-comune-di-milano-in-formato-gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 45.33936494417269,
+    "maximum_latitude": 45.631147340490045,
+    "minimum_longitude": 8.996019141155179,
+    "maximum_longitude": 9.436625130131564
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

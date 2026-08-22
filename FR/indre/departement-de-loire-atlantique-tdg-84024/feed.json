@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Département de Loire-Atlantique",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Indre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b2678aad-0d78-45f8-aa59-f78723ede272",
+    "mdb_id": "tdg-84024",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.195423,
+    "maximum_latitude": 47.205753,
+    "minimum_longitude": -1.755383,
+    "maximum_longitude": -1.673582
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

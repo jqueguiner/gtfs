@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mälartåg ersättningstrafik",
+    "country": "SE",
+    "subdivision": "Örebro County",
+    "city": "Örebro County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/malartag/malartag.zip",
+    "mdb_id": "mdb-3268",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

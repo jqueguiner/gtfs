@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Texarkana Urban Transit District (T-Line Bus)",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Bowie County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11728/texarkanaurbantransit-tx-us.zip",
+    "mdb_id": "ntd-60093",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.3965970420001,
+    "maximum_latitude": 33.491439477,
+    "minimum_longitude": -94.1311384479999,
+    "maximum_longitude": -93.999183344
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Luleå Lokaltrafik",
+    "country": "SE",
+    "subdivision": "Norrbotten County",
+    "city": "Norrbotten County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/lulea/lulea.zip",
+    "mdb_id": "mdb-3266",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

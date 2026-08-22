@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Victoria Regional Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Victoria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=48",
+    "mdb_id": "mdb-2571",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

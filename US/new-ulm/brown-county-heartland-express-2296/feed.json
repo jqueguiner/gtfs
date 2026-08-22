@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brown County Heartland Express",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "New Ulm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/browncounty-mn-us/browncounty-mn-us.zip",
+    "mdb_id": "mdb-2296",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

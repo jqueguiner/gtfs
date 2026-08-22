@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ministry of Transport and Road Safety",
+    "country": "IL",
+    "subdivision": "Center District",
+    "city": "Petah Tikva Subdistrict"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip",
+    "mdb_id": "mdb-2519",
+    "license": "https://www.gov.il/he/pages/gtfs_general_transit_feed_specifications"
+  },
+  "bbox": {
+    "minimum_latitude": 29.493109,
+    "maximum_latitude": 33.282204,
+    "minimum_longitude": 34.284672,
+    "maximum_longitude": 35.839108
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

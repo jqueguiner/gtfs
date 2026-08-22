@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fresno County Rural Transit Agency (FCRTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Fresno County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7869/google_transit.zip",
+    "mdb_id": "mdb-85",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

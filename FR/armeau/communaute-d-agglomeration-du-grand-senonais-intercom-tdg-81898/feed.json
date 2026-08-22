@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Grand Sénonais INTERCOM",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Armeau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5f2edbfa-9025-467d-b769-80f4b1ec4ba6",
+    "mdb_id": "tdg-81898",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.04493,
+    "maximum_latitude": 48.259124,
+    "minimum_longitude": 3.21086,
+    "maximum_longitude": 3.462651
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

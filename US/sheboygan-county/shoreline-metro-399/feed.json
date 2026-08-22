@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shoreline Metro",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Sheboygan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/sheboygan-wi-us/sheboygan-wi-us.zip",
+    "mdb_id": "mdb-399",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

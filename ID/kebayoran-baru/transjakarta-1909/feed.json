@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transjakarta",
+    "country": "ID",
+    "subdivision": "Jakarta Special Capital Region",
+    "city": "Kebayoran Baru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transjakarta.co.id/files/file_gtfs.zip",
+    "mdb_id": "mdb-1909",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -6.601931,
+    "maximum_latitude": -6.039902,
+    "minimum_longitude": 106.61473,
+    "maximum_longitude": 107.170464
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

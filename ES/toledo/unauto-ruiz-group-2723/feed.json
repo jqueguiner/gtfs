@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Unauto (Ruiz Group)",
+    "country": "ES",
+    "subdivision": "Castile-La Mancha",
+    "city": "Toledo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1575",
+    "mdb_id": "mdb-2723",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

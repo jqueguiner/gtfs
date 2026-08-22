@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Omnibus",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Arapahoe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/omnibus-co-us/omnibus-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2175",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

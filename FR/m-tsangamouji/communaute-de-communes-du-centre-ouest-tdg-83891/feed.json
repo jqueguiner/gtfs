@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Centre-Ouest",
+    "country": "FR",
+    "subdivision": "Mayotte",
+    "city": "M'Tsangamouji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83891/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83891",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": -12.8547479,
+    "maximum_latitude": -12.7506549,
+    "minimum_longitude": 45.0553892,
+    "maximum_longitude": 45.140612
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

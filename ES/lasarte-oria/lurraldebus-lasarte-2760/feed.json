@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus Lasarte",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Lasarte-Oria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1231",
+    "mdb_id": "mdb-2760",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

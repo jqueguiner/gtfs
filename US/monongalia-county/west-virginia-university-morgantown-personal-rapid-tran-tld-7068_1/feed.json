@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "West Virginia University Morgantown Personal Rapid Transit",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Monongalia County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://prt.wvu.edu/files/d/fcc4abeb-9e23-477b-b648-30623cb8ad80/gtfs-3.zip",
+    "mdb_id": "tld-7068_1",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.629957,
+    "maximum_latitude": 39.654828,
+    "minimum_longitude": -79.973092,
+    "maximum_longitude": -79.956167
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

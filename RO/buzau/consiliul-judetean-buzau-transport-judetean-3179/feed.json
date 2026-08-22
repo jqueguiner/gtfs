@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Consiliul Județean Buzău - Transport județean",
+    "country": "RO",
+    "subdivision": "Buzău",
+    "city": "Buzău"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Andrei7506238/Buzau-Transit-Open-GTFS/releases/download/gtfs-latest/buzau-gtfs.zip",
+    "mdb_id": "mdb-3179",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.861387,
+    "maximum_latitude": 45.542233,
+    "minimum_longitude": 26.174978,
+    "maximum_longitude": 27.354987
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

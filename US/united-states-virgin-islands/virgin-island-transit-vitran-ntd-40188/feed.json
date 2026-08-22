@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Virgin Island Transit (VITran)",
+    "country": "US",
+    "subdivision": "United States Virgin Islands",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11872/vitran_gtfs.zip",
+    "mdb_id": "ntd-40188",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 17.689463,
+    "maximum_latitude": 18.35485602,
+    "minimum_longitude": -64.953165,
+    "maximum_longitude": -64.684594
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

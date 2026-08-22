@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Magné"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d724a6df-7dc4-4b2d-be15-fc8b1d52c8ea",
+    "mdb_id": "tdg-82352",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.153839,
+    "maximum_latitude": 46.391666,
+    "minimum_longitude": -0.713287,
+    "maximum_longitude": -0.361597
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

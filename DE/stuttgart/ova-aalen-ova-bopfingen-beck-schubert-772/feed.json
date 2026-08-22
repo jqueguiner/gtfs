@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "OVA-Aalen, OVA-Bopfingen, Beck+Schubert",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Stuttgart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/oam.zip",
+    "mdb_id": "mdb-772",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 47.5523177,
+    "maximum_latitude": 49.4447506,
+    "minimum_longitude": 8.4010355,
+    "maximum_longitude": 11.5596019
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

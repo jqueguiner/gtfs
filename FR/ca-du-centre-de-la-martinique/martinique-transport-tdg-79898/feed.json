@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Martinique Transport",
+    "country": "FR",
+    "subdivision": "CA du Centre de la Martinique",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6e599077-0719-44b4-82ad-0da90a282846",
+    "mdb_id": "tdg-79898",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 14.5955,
+    "maximum_latitude": 14.6906,
+    "minimum_longitude": -61.1179,
+    "maximum_longitude": -60.9455
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

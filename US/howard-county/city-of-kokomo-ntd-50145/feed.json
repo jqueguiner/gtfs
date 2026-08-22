@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Kokomo",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Howard County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11767/CityofKokomo_Transit.zip",
+    "mdb_id": "ntd-50145",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.4203533596215,
+    "maximum_latitude": 40.51990281,
+    "minimum_longitude": -86.1664653704806,
+    "maximum_longitude": -86.0992129703936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

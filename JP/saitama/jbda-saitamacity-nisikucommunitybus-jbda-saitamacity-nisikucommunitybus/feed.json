@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "さいたま市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Saitama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/nisikucommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-saitamacity-nisikucommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.882195015394,
+    "maximum_latitude": 35.9261660926997,
+    "minimum_longitude": 139.561037209205,
+    "maximum_longitude": 139.598660389893
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

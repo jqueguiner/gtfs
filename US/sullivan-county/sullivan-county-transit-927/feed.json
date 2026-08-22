@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sullivan County Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Sullivan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Sullivan_County.zip",
+    "mdb_id": "mdb-927",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.4776,
+    "maximum_latitude": 41.932985,
+    "minimum_longitude": -75.0515,
+    "maximum_longitude": -74.43365
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

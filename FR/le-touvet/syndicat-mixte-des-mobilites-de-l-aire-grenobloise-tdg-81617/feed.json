@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte des Mobilités de l'Aire Grenobloise",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Le Touvet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/91dbf9cb-4ab2-42a3-9f40-0791a53d58d2",
+    "mdb_id": "tdg-81617",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.07365,
+    "maximum_latitude": 45.42581,
+    "minimum_longitude": 5.47738,
+    "maximum_longitude": 5.99389
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

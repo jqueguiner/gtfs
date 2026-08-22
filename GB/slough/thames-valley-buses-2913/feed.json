@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Thames Valley Buses",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Slough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/courtney/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2913",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.284916269,
+    "maximum_latitude": 51.546421248,
+    "minimum_longitude": -0.970990076,
+    "maximum_longitude": -0.450614676
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

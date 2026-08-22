@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kicéo",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Vannes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ratpdev-mosaic-prod-bucket-raw.s3-eu-west-1.amazonaws.com/21/exports/1/gtfs.zip",
+    "mdb_id": "mdb-656",
+    "license": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-de-vannes-kiceo-donnees-theoriques-et-temps-reel/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

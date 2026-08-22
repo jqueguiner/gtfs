@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transport Călători Express Ploiești",
+    "country": "RO",
+    "subdivision": "Prahova",
+    "city": "Prahova"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.opendev.ro/GTFS-305.zip",
+    "mdb_id": "mdb-2108",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.903183,
+    "maximum_latitude": 44.974453,
+    "minimum_longitude": 25.93572,
+    "maximum_longitude": 26.090437
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

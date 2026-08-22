@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitan Tulsa Transit Authority",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "city": "Tulsa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tulsa.rideralerts.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-235",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

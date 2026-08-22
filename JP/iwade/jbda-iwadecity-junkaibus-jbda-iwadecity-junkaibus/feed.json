@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "岩出市",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Iwade"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/iwadecity/feeds/junkaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-iwadecity-junkaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.245909,
+    "maximum_latitude": 34.287612,
+    "minimum_longitude": 135.276334,
+    "maximum_longitude": 135.332038
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

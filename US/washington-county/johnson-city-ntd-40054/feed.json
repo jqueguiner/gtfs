@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Johnson City",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Washington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.johnsoncitytransit.org/google_transit.zip",
+    "mdb_id": "ntd-40054",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.2806636858382,
+    "maximum_latitude": 36.3891228371336,
+    "minimum_longitude": -82.429003,
+    "maximum_longitude": -82.320102889544
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes Pyrénées Vallées des Gaves",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Ayros-Arbouix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/382a2cc7-336b-49ff-9fbd-f355629701b6",
+    "mdb_id": "tdg-83155",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 42.955659,
+    "maximum_latitude": 43.100102,
+    "minimum_longitude": -0.2137,
+    "maximum_longitude": -0.039527
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Transportation",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Portage County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/centraltrans/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4757",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

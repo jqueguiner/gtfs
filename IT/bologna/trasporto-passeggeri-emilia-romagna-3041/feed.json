@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trasporto Passeggeri Emilia-Romagna",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "city": "Bologna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gtfsmex&version=20251223&format=zip",
+    "mdb_id": "mdb-3041",
+    "license": "https://solweb.tper.it/web/tools/open-data/open-data.aspx"
+  },
+  "bbox": {
+    "minimum_latitude": 44.5072028,
+    "maximum_latitude": 44.52876,
+    "minimum_longitude": 11.2944,
+    "maximum_longitude": 11.34289483
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

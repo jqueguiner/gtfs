@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Réseau express métropolitain",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Brossard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gpmmom.ca/gtfs/gtfs.zip",
+    "mdb_id": "tld-6691",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.43123,
+    "maximum_latitude": 45.548771,
+    "minimum_longitude": -73.927495,
+    "maximum_longitude": -73.430552
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

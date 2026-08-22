@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ecov",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Savenay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/53f79f73-e770-4772-a315-1117708f2647",
+    "mdb_id": "tdg-84096",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.057977373991214,
+    "maximum_latitude": 47.47234270471688,
+    "minimum_longitude": -1.9681711612520747,
+    "maximum_longitude": -1.374475660837926
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Miami Beach",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Miami Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/miamibeach-fl-us/miamibeach-fl-us.zip",
+    "mdb_id": "mdb-2322",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

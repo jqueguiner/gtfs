@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "永井運輸株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Tamamura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NagaiTransportation/AllLines.zip?date=current",
+    "mdb_id": "odpt-NagaiTransportation-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.273268,
+    "maximum_latitude": 36.458699,
+    "minimum_longitude": 139.047567,
+    "maximum_longitude": 139.193544
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

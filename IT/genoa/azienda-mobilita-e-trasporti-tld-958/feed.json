@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Azienda Mobilità e Trasporti",
+    "country": "IT",
+    "subdivision": "Liguria",
+    "city": "Genoa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendatagoogletransit.comune.genova.it/downloads/google_transit.zip",
+    "mdb_id": "tld-958",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gulf Islands National Seashore",
+    "country": "US",
+    "subdivision": "Mississippi",
+    "city": "Gulfport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/guis/guis-ferry-service-ms.zip",
+    "mdb_id": "mdb-3210",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

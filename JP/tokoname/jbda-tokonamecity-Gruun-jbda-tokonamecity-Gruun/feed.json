@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "常滑市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Tokoname"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokonamecity/feeds/Gruun/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokonamecity-Gruun",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.807413,
+    "maximum_latitude": 34.936854,
+    "minimum_longitude": 136.825424,
+    "maximum_longitude": 136.91636
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "National Park Service",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Escambia County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/guis/guis-ferry-service-fl.zip",
+    "mdb_id": "tld-6676",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

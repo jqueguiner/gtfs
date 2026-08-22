@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Lamarque"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c3f86058-0be8-41f2-aa98-82d3a5625f22",
+    "mdb_id": "tdg-82382",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.09853,
+    "maximum_latitude": 45.617851,
+    "minimum_longitude": -1.063842,
+    "maximum_longitude": -0.665392
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

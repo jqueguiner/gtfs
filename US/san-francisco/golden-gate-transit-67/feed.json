@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Golden Gate Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Francisco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.goldengate.org/gtfsstatic/GTFSTransitData.zip",
+    "mdb_id": "mdb-67",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.777609,
+    "maximum_latitude": 38.472081,
+    "minimum_longitude": -122.740448,
+    "maximum_longitude": -122.316653
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

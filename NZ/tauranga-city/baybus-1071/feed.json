@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BayBus",
+    "country": "NZ",
+    "subdivision": "Bay of Plenty",
+    "city": "Tauranga City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.dynamis.live/boprc/prod/boprc-nz.zip",
+    "mdb_id": "mdb-1071",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -38.6393150613996,
+    "maximum_latitude": -37.3898234,
+    "minimum_longitude": 175.839138805048,
+    "maximum_longitude": 178.14268788955
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

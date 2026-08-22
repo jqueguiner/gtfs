@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amtrak Vermonter",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/amtrakvermonter-vt-us/amtrakvermonter-vt-us.zip",
+    "mdb_id": "mdb-2297",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

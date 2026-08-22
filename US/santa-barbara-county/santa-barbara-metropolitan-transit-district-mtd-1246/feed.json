@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Santa Barbara Metropolitan Transit District (MTD)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Barbara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://sbmtd.gov/google_transit/feed.zip",
+    "mdb_id": "mdb-1246",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.383217,
+    "maximum_latitude": 34.454905,
+    "minimum_longitude": -119.905809,
+    "maximum_longitude": -119.480564
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

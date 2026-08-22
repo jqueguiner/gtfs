@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte des Transports Urbains du grand Nouméa",
+    "country": "FR",
+    "subdivision": "Dumbéa",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/696cd51a-1d94-4d3f-9001-8e719c25fe03",
+    "mdb_id": "tdg-82780",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": -22.3076924,
+    "maximum_latitude": -22.1141027,
+    "minimum_longitude": 166.33846,
+    "maximum_longitude": 166.6391895
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

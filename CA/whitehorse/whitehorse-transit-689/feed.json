@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Whitehorse Transit",
+    "country": "CA",
+    "subdivision": "Yukon",
+    "city": "Whitehorse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.whitehorse.ca/Google_transit_Feed_Docs.zip",
+    "mdb_id": "mdb-689",
+    "license": "https://data.whitehorse.ca/"
+  },
+  "bbox": {
+    "minimum_latitude": 60.683944,
+    "maximum_latitude": 60.7876185,
+    "minimum_longitude": -135.1688514,
+    "maximum_longitude": -135.0168974
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

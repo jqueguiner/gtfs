@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Transit, Intercity Transit, City of Seattle, Community Transit, Pierce Transit, Sound Transit, Washington State Ferries, SeattleCenterMonorail, Everett Transit, Seattle Children's Hospital",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Burien"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/gtfs_puget_sound_consolidated.zip",
+    "mdb_id": "mdb-1080",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.93304,
+    "maximum_latitude": 48.59793,
+    "minimum_longitude": -123.01475,
+    "maximum_longitude": -121.601001
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

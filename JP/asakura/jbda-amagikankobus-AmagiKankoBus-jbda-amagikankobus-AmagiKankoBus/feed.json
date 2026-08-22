@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "株式会社甘木観光バス",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Asakura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/amagikankobus/feeds/AmagiKankoBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-amagikankobus-AmagiKankoBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.33752951418866,
+    "maximum_latitude": 33.476865006136514,
+    "minimum_longitude": 130.65399930865405,
+    "maximum_longitude": 130.70297241109114
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

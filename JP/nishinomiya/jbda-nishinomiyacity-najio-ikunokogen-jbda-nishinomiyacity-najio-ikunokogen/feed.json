@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西宮市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Nishinomiya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/najio-ikunokogen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nishinomiyacity-najio-ikunokogen",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.825315,
+    "maximum_latitude": 34.851971,
+    "minimum_longitude": 135.268645,
+    "maximum_longitude": 135.308416
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

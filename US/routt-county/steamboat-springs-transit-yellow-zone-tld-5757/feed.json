@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Steamboat Springs Transit, Yellow Zone",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Routt County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/steamboatsprings-co-us/steamboatsprings-co-us.zip",
+    "mdb_id": "tld-5757",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.4424808097658,
+    "maximum_latitude": 40.5338701245765,
+    "minimum_longitude": -107.595681481064,
+    "maximum_longitude": -106.799471676349
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

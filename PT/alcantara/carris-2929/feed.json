@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Carris",
+    "country": "PT",
+    "subdivision": "Lisbon",
+    "city": "Alcântara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gateway.carris.pt/gateway/gtfs/api/v2.11/GTFS",
+    "mdb_id": "mdb-2929",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

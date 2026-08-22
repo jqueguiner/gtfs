@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Berks Area Regional Transportation Authority (BARTA)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Berks County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://busfinder.bartabus.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2064",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

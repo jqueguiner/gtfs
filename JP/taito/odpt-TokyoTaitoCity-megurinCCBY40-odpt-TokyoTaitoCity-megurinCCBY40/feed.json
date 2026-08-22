@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "台東区",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Taito"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurinCCBY40.zip?date=current",
+    "mdb_id": "odpt-TokyoTaitoCity-megurinCCBY40",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.698235,
+    "maximum_latitude": 35.729563,
+    "minimum_longitude": 139.76231,
+    "maximum_longitude": 139.805994
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

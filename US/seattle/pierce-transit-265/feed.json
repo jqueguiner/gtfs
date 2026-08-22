@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pierce Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Seattle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/3_gtfs.zip",
+    "mdb_id": "mdb-265",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

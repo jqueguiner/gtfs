@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "DeKalb Public Transit",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "DeKalb County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cityofdekalb-il-us/cityofdekalb-il-us.zip",
+    "mdb_id": "mdb-308",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.8905359658401,
+    "maximum_latitude": 41.99190905,
+    "minimum_longitude": -88.7881164551,
+    "maximum_longitude": -88.464325984766
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

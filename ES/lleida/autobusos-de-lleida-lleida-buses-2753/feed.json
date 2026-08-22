@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autobusos de Lleida (Lleida buses)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Lleida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1579",
+    "mdb_id": "mdb-2753",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.5980869666195,
+    "maximum_latitude": 41.650390625133234,
+    "minimum_longitude": 0.57196996,
+    "maximum_longitude": 0.6778508809011328
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

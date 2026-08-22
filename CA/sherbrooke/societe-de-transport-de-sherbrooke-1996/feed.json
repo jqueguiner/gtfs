@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Société de Transport de Sherbrooke",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sherbrooke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sts.qc.ca:8443/gtfs/client/GTFS_clients.zip",
+    "mdb_id": "mdb-1996",
+    "license": "https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts"
+  },
+  "bbox": {
+    "minimum_latitude": 45.314276,
+    "maximum_latitude": 45.481662,
+    "minimum_longitude": -72.080038,
+    "maximum_longitude": -71.815462
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "川崎町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Kawasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kawasakitown/feeds/KawasakiTownFureaiBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-fukuoka-kawasakitown-KawasakiTownFureaiBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.539237088055046,
+    "maximum_latitude": 33.630639941405185,
+    "minimum_longitude": 130.78889780830434,
+    "maximum_longitude": 130.84062113278694
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

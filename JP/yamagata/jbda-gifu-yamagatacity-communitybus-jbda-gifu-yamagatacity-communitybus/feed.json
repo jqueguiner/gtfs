@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "山県市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Yamagata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gifu-yamagatacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-gifu-yamagatacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

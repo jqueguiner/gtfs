@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société de transport de Lévis",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Lévis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stlevis.ca/sites/default/files/public/assets/gtfs/transit/gtfs_stlevis.zip",
+    "mdb_id": "mdb-763",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.fr"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "松本市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Yamagata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsumotocity/feeds/guruttomatsumotobus1/files/feed.zip?rid=current",
+    "mdb_id": "jbda-matsumotocity-guruttomatsumotobus1",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

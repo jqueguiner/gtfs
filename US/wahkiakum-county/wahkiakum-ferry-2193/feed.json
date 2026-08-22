@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wahkiakum Ferry",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Wahkiakum County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/wahkiakumferry-wa-us/wahkiakumferry-wa-us.zip",
+    "mdb_id": "mdb-2193",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Moorpark City Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ventura County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/moorparkcitytransit-ca-us/moorparkcitytransit-ca-us.zip",
+    "mdb_id": "mdb-578",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

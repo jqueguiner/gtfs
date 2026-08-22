@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mountain Line",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Missoula County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.mountainline.com/files/MUTD_GTFS.zip",
+    "mdb_id": "mdb-292",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.819761,
+    "maximum_latitude": 46.924218,
+    "minimum_longitude": -114.08799,
+    "maximum_longitude": -113.865247
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

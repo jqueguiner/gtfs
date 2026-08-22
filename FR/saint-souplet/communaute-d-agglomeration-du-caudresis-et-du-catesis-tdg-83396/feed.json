@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Caudrésis et du Catésis",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Saint-Souplet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83396/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83396",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 50.0285204614337,
+    "maximum_latitude": 50.209190040115,
+    "minimum_longitude": 3.2917,
+    "maximum_longitude": 3.6811149
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

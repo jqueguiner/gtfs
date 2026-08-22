@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "立川市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tachikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TachikawaCity/kururin_bus_alllines.zip?date=current",
+    "mdb_id": "odpt-TachikawaCity-kururin_bus_alllines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.68657,
+    "maximum_latitude": 35.7354524316982,
+    "minimum_longitude": 139.355051283326,
+    "maximum_longitude": 139.424197356044
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

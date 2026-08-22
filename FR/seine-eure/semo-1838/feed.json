@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SEMO",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Seine-Eure"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/fr/datasets/r/f4f77c4d-c1ea-4938-80d9-2a77a150803f",
+    "mdb_id": "mdb-1838",
+    "license": "https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

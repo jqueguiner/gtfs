@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autocares Rías Baixas (Rías Baixas Coaches)",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "city": "Pontevedra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1843",
+    "mdb_id": "mdb-2752",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 42.34738,
+    "maximum_latitude": 42.93013,
+    "minimum_longitude": -8.872801,
+    "maximum_longitude": -7.837823
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

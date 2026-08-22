@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo Chambly-Richelieu-Carignan",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Longueuil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/citcrc/google_transit.zip",
+    "mdb_id": "mdb-750",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.297998,
+    "maximum_latitude": 45.541144,
+    "minimum_longitude": -73.522258,
+    "maximum_longitude": -73.14027
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hyderabad TGSRTC Bus",
+    "country": "IN",
+    "subdivision": "Telangana",
+    "city": "Hyderabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.opencity.in/dataset/88e2d145-7ec6-4666-88dd-6cf18b18312e/resource/1b0d18bb-b2fb-4a79-8ed0-1e071da5790c/download/telangana_opendata_gtfs_tgsrtc_08_february_2026.zip",
+    "mdb_id": "mdb-3361",
+    "license": "https://hmrl.co.in/open-data.html"
+  },
+  "bbox": {
+    "minimum_latitude": 16.098974256136803,
+    "maximum_latitude": 18.59765257092564,
+    "minimum_longitude": 77.436724,
+    "maximum_longitude": 79.95350286
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mahu City Express",
+    "country": "NZ",
+    "subdivision": "Auckland",
+    "city": "Auckland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://addtransit.com/gtfsfile/97011/MahuCityExpress.zip",
+    "mdb_id": "mdb-3425",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -36.85077972112825,
+    "maximum_latitude": -36.392446358817786,
+    "minimum_longitude": 174.65245485294872,
+    "maximum_longitude": 174.77458477020264
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

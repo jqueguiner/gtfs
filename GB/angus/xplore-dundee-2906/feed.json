@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Xplore Dundee",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Angus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/xploredundee/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2906",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 55.948155,
+    "maximum_latitude": 57.166804,
+    "minimum_longitude": -3.363878,
+    "maximum_longitude": -2.076181
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

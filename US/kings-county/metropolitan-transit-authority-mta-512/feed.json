@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metropolitan Transit Authority (MTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Kings County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://web.mta.info/developers/data/nyct/bus/google_transit_brooklyn.zip",
+    "mdb_id": "mdb-512",
+    "license": "http://web.mta.info/developers/developer-data-terms.html"
+  },
+  "bbox": {
+    "minimum_latitude": 40.572635,
+    "maximum_latitude": 40.77535,
+    "minimum_longitude": -74.040876,
+    "maximum_longitude": -73.789588
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

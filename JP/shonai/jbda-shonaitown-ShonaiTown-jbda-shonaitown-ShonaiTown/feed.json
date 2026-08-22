@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "庄内町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Shonai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shonaitown/feeds/ShonaiTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shonaitown-ShonaiTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.634848,
+    "maximum_latitude": 38.8754653,
+    "minimum_longitude": 139.867533,
+    "maximum_longitude": 140.025849
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

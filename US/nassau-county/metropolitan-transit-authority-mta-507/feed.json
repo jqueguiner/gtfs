@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitan Transit Authority (MTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Nassau County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://web.mta.info/developers/data/lirr/google_transit.zip",
+    "mdb_id": "mdb-507",
+    "license": "http://web.mta.info/developers/developer-data-terms.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

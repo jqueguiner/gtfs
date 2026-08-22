@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kuopio",
+    "country": "FI",
+    "subdivision": "North Savo",
+    "city": "Vesanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://karttapalvelu.kuopio.fi/google_transit/google_transit.zip",
+    "mdb_id": "mdb-868",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

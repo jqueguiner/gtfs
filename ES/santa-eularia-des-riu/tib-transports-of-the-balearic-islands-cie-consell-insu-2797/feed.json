@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TIB Transports of the Balearic Islands - CIE Consell Insular d'Eivissa (Ibiza Island Bus)",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Santa Eulària des Riu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1273",
+    "mdb_id": "mdb-2797",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 38.84342,
+    "maximum_latitude": 39.110664,
+    "minimum_longitude": 1.222334,
+    "maximum_longitude": 1.590254
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

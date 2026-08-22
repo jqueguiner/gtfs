@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Singapore typical weekday",
+    "country": "SG",
+    "subdivision": "Southeast",
+    "city": "Southeast"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Vorld/singapore-gtfs/releases/download/v2026-07-12/singapore-gtfs.zip",
+    "mdb_id": "mdb-3409",
+    "license": "https://github.com/Vorld/singapore-gtfs#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 1.25142694,
+    "maximum_latitude": 1.49390379286364,
+    "minimum_longitude": 103.61725,
+    "maximum_longitude": 104.030008
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dalatrafik",
+    "country": "SE",
+    "subdivision": "Dalecarlia",
+    "city": "Dalecarlia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/dt/dt.zip",
+    "mdb_id": "mdb-3252",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

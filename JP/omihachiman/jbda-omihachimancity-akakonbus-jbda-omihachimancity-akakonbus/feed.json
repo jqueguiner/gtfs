@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "近江八幡市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Omihachiman"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/omihachimancity/feeds/akakonbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-omihachimancity-akakonbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.07763831,
+    "maximum_latitude": 35.1942030394237,
+    "minimum_longitude": 136.022277870072,
+    "maximum_longitude": 136.170746926172
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

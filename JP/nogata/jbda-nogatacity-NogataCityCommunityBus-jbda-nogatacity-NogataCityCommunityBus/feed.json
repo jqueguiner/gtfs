@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "直方市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Nogata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nogatacity/feeds/NogataCityCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nogatacity-NogataCityCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.711116,
+    "maximum_latitude": 33.784973,
+    "minimum_longitude": 130.69822,
+    "maximum_longitude": 130.781971
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

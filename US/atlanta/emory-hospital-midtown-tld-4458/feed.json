@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Emory Hospital Midtown",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Atlanta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/emory/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4458",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

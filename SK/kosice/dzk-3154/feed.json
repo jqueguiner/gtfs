@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "DZK",
+    "country": "SK",
+    "subdivision": "Eastern Slovakia",
+    "city": "Košice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.detskazeleznica.sk/files/2026-04-07-112452-DZK_GTFS_2026_final.zip",
+    "mdb_id": "mdb-3154",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.7498615,
+    "maximum_latitude": 48.7598432,
+    "minimum_longitude": 21.1834042,
+    "maximum_longitude": 21.2281075
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

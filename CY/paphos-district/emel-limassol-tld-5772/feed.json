@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMEL (Limassol)",
+    "country": "CY",
+    "subdivision": "Paphos District",
+    "city": "Paphos District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C6_google_transit.zip&rel=True",
+    "mdb_id": "tld-5772",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

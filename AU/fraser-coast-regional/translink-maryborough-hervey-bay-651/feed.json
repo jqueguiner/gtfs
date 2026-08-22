@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransLink Maryborough-Hervey Bay",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Fraser Coast Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/MHB_GTFS.zip",
+    "mdb_id": "mdb-651",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/ee40c2d4-f170-426d-9719-3cc3e32c567c"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

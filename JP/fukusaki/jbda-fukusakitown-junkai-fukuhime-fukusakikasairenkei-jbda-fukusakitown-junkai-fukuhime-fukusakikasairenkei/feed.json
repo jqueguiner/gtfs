@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "福崎町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Fukusaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukusakitown/feeds/junkai-fukuhime-fukusakikasairenkei/files/feed.zip?rid=current",
+    "mdb_id": "jbda-fukusakitown-junkai-fukuhime-fukusakikasairenkei",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.926193,
+    "maximum_latitude": 34.984032,
+    "minimum_longitude": 134.723223,
+    "maximum_longitude": 134.787993
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

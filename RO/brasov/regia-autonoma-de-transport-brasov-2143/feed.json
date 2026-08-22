@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regia Autonomă De Transport Brașov",
+    "country": "RO",
+    "subdivision": "Brașov",
+    "city": "Brașov"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/szjozsef/osm2gtfs/raw/refs/heads/master/output/gtfs/ro-ratbv.zip",
+    "mdb_id": "mdb-2143",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

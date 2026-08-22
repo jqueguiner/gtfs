@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MRC du Haut-Saint-Laurent",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Huntingdon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.infra-hubup.fr/mrchsl/current/revision/gtfs",
+    "mdb_id": "tld-6692",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

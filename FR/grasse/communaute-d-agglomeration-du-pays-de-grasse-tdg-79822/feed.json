@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'agglomération du Pays de Grasse",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Grasse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/851decd7-714f-45ad-9579-d60c06fad9dd",
+    "mdb_id": "tdg-79822",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.5726529,
+    "maximum_latitude": 43.8470147,
+    "minimum_longitude": 6.6423514,
+    "maximum_longitude": 6.979752
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

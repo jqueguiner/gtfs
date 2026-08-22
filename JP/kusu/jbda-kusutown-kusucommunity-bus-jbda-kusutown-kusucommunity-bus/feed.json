@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "玖珠町",
+    "country": "JP",
+    "subdivision": "Oita Prefecture",
+    "city": "Kusu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kusutown/feeds/kusucommunity-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kusutown-kusucommunity-bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.217776680653,
+    "maximum_latitude": 33.3587068154592,
+    "minimum_longitude": 131.055554151535,
+    "maximum_longitude": 131.292607784271
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Basin Transit Service (BTS)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Klamath County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/basin-or-us/basin-or-us.zip",
+    "mdb_id": "mdb-125",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.01016950453933,
+    "maximum_latitude": 44.05849770290199,
+    "minimum_longitude": -122.21070952643473,
+    "maximum_longitude": -121.04379376444494
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

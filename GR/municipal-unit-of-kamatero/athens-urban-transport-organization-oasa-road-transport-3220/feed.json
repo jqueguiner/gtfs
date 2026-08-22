@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Athens Urban Transport Organization (OASA) - Road Transport Routes",
+    "country": "GR",
+    "subdivision": "Attica",
+    "city": "Municipal Unit of Kamatero"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.gr/dataset/fb049bb1-aea6-4443-95fa-8b941dd6a057/resource/119db488-16ea-4c76-b560-41c472872390/download/osy_gtfs.zip",
+    "mdb_id": "mdb-3220",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.7175255,
+    "maximum_latitude": 38.3278109,
+    "minimum_longitude": 23.320223,
+    "maximum_longitude": 24.036624
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

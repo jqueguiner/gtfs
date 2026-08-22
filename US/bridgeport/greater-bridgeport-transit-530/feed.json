@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greater Bridgeport Transit",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Bridgeport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip",
+    "mdb_id": "mdb-530",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

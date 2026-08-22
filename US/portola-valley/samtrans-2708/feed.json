@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SamTrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Portola Valley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.511.org/transit/datafeeds?operator_id=SM",
+    "mdb_id": "mdb-2708",
+    "license": "https://511.org/about/terms"
+  },
+  "bbox": {
+    "minimum_latitude": 37.367894,
+    "maximum_latitude": 37.790396,
+    "minimum_longitude": -122.51796,
+    "maximum_longitude": -122.129817
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

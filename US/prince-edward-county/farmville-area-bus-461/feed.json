@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Farmville Area Bus",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Prince Edward County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/farmville-va-us/farmville-va-us.zip",
+    "mdb_id": "mdb-461",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.0880984473502,
+    "maximum_latitude": 37.31819061851742,
+    "minimum_longitude": -78.68117344957771,
+    "maximum_longitude": -78.33869271575425
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

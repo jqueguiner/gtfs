@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "川上村",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Kawakami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-kawakamivillage/feeds/kawakamibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagano-kawakamivillage-kawakamibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.939477,
+    "maximum_latitude": 35.982203,
+    "minimum_longitude": 138.511105,
+    "maximum_longitude": 138.669084
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

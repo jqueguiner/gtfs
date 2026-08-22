@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cedar Rapids Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Linn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cedarrapids-ia-us/cedarrapids-ia-us.zip",
+    "mdb_id": "mdb-198",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

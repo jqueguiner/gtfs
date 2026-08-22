@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL SA",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Zaragoza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/eae0fa46-087a-4018-ada9-d8add124e635",
+    "mdb_id": "tdg-82386",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Franklin County Public Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Franklin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Franklin_County_Public_Transportation.zip",
+    "mdb_id": "mdb-545",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

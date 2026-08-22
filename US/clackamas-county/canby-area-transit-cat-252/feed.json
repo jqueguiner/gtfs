@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Canby Area Transit (CAT)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/canbytransit-or-us/canbytransit-or-us.zip",
+    "mdb_id": "mdb-252",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

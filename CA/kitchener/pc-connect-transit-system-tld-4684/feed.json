@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PC Connect Transit System",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Kitchener"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.perthcounty.ca/en/living-here/resources/files/Transportation/PCConnect_GTFS.zip",
+    "mdb_id": "tld-4684",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

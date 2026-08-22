@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Gironde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/naq-aggregated-gtfs.zip",
+    "mdb_id": "mdb-2386",
+    "license": "https://transport.data.gouv.fr/datasets/arrets-horaires-et-parcours-theoriques-des-reseaux-nva-mobilite-agreges-1"
+  },
+  "bbox": {
+    "minimum_latitude": 42.751541,
+    "maximum_latitude": 50.639545,
+    "minimum_longitude": -1.814579,
+    "maximum_longitude": 7.733882
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

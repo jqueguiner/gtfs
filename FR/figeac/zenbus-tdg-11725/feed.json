@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Figeac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ab2d1451-dddd-4814-bc5c-8e219834a3e3",
+    "mdb_id": "tdg-11725",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

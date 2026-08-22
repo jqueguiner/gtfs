@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Frederick County TransIT",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Frederick County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/frederick/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2432",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

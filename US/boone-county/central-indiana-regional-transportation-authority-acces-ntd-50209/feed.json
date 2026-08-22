@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Central Indiana Regional Transportation Authority, Access Johnson County",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Boone County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11596/CIRTA_GTFS.zip",
+    "mdb_id": "ntd-50209",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.473501,
+    "maximum_latitude": 39.982387,
+    "minimum_longitude": -86.398804,
+    "maximum_longitude": -86.016977
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Odesa",
+    "country": "UA",
+    "subdivision": "Odesa Oblast",
+    "city": "Одеський район"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gw.x24.digital/api/od-all/gtfs/v1/download/static",
+    "mdb_id": "mdb-2946",
+    "license": "https://omr.gov.ua/ua/city/departments/dtks/open-data/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.33362013577318,
+    "maximum_latitude": 46.61886310718048,
+    "minimum_longitude": 30.610126495361328,
+    "maximum_longitude": 30.83389699459076
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

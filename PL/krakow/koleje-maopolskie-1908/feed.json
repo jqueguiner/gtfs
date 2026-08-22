@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Małopolskie",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Krakow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://kolejemalopolskie.com.pl/rozklady_jazdy/kml-ska-gtfs.zip",
+    "mdb_id": "mdb-1908",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

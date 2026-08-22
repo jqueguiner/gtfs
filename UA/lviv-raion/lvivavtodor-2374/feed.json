@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lvivavtodor",
+    "country": "UA",
+    "subdivision": "Lviv Oblast",
+    "city": "Lviv Raion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://track.ua-gis.com/gtfs/lviv/static.zip",
+    "mdb_id": "mdb-2374",
+    "license": "https://opendata.city-adm.lviv.ua/ne/dataset/lviv-public-transport-gtfs-real-time/resource/eb31a65b-a22b-44b1-83ce-41add24ae652?inner_span=True"
+  },
+  "bbox": {
+    "minimum_latitude": 49.772404,
+    "maximum_latitude": 49.975036,
+    "minimum_longitude": 23.860631,
+    "maximum_longitude": 24.163477
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

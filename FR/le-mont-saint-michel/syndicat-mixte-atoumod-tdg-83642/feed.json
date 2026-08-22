@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Le Mont-Saint-Michel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7e0312ef-a6e0-41ab-a75a-2b782a4b1d6b",
+    "mdb_id": "tdg-83642",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.5528,
+    "maximum_latitude": 48.6326751,
+    "minimum_longitude": -1.513131,
+    "maximum_longitude": -1.505
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

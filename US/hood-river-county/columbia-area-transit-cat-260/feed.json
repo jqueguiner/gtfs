@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Columbia Area Transit (CAT)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Hood River County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/hoodriver-or-us/hoodriver-or-us.zip",
+    "mdb_id": "mdb-260",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.51970035315279,
+    "maximum_latitude": 45.71460197816433,
+    "minimum_longitude": -122.56328062144377,
+    "maximum_longitude": -121.511798340782
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

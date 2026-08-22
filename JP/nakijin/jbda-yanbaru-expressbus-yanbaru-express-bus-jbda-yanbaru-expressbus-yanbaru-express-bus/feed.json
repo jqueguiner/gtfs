@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "合同会社やんばる急行バス",
+    "country": "JP",
+    "subdivision": "Okinawa Prefecture",
+    "city": "Nakijin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yanbaru-expressbus/feeds/yanbaru-express-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yanbaru-expressbus-yanbaru-express-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 26.206395,
+    "maximum_latitude": 26.710303,
+    "minimum_longitude": 127.651128,
+    "maximum_longitude": 128.024507
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

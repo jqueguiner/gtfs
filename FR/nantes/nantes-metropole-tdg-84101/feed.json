@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nantes Métropole",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Nantes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/65bdd7e4-a8e7-4a54-893a-808e71c34d68",
+    "mdb_id": "tdg-84101",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.122986,
+    "maximum_latitude": 47.339466,
+    "minimum_longitude": -1.778301,
+    "maximum_longitude": -1.347233
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

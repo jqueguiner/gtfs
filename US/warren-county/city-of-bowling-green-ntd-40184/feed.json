@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Bowling Green",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Warren County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gobg.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "ntd-40184",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

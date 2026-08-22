@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Ambérieu-en-Bugey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/317b003c-dca6-4908-8829-6d2842a5f47c",
+    "mdb_id": "tdg-79865",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.942673,
+    "maximum_latitude": 45.9812997,
+    "minimum_longitude": 5.3333479,
+    "maximum_longitude": 5.3755169
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

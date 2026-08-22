@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "松戸市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Ichikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsudocity/feeds/matsudo-takatsuka/files/feed.zip?rid=current",
+    "mdb_id": "jbda-matsudocity-matsudo-takatsuka",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7483168,
+    "maximum_latitude": 35.7704065,
+    "minimum_longitude": 139.9285124,
+    "maximum_longitude": 139.946549
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

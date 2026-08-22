@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Boxcar",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Waldwick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://boxcar-gtfs.vercel.app/api/gtfs",
+    "mdb_id": "mdb-3105",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

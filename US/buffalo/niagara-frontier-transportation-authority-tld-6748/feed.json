@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Niagara Frontier Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Buffalo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metro.nfta.com/__googletransit/rail/google_transit.zip",
+    "mdb_id": "tld-6748",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

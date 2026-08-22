@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de la Région de Château-Thierry",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Blesmes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/37ea6578-7f6d-4124-a150-3d450a529d69",
+    "mdb_id": "tdg-83793",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.00593488,
+    "maximum_latitude": 49.10809893,
+    "minimum_longitude": 3.34852192,
+    "maximum_longitude": 3.45037376
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

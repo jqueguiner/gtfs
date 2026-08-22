@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Dreux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c654db3d-a710-4ed5-a327-417f812bf9a0",
+    "mdb_id": "tdg-83529",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.568871,
+    "maximum_latitude": 48.885326,
+    "minimum_longitude": 1.074636,
+    "maximum_longitude": 1.512862
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dopravní podnik města Olomouce, a. s.",
+    "country": "CZ",
+    "subdivision": "Olomouc Region",
+    "city": "Olomouc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.dpmo.cz/doc/dpmo-olomouc-cz.zip",
+    "mdb_id": "mdb-1901",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.547908782959,
+    "maximum_latitude": 49.6431884765625,
+    "minimum_longitude": 17.1783504486084,
+    "maximum_longitude": 17.3640804290771
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

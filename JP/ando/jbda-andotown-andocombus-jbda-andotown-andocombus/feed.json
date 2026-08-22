@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "安堵町",
+    "country": "JP",
+    "subdivision": "Nara Prefecture",
+    "city": "Ando"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/andotown/feeds/andocombus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-andotown-andocombus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.59384122,
+    "maximum_latitude": 34.60677885,
+    "minimum_longitude": 135.73974756,
+    "maximum_longitude": 135.78234883
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

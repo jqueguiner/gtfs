@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "十和田観光電鉄株式会社",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hachinohe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/towadakankodentetsu/feeds/toutetsu_airport_line/files/feed.zip?rid=current",
+    "mdb_id": "jbda-towadakankodentetsu-toutetsu_airport_line",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

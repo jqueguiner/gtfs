@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MZK Kutno",
+    "country": "PL",
+    "subdivision": "Łódź Voivodeship",
+    "city": "Kutno County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.zbiorkom.live/api6-open/kutno/gtfs/default",
+    "mdb_id": "mdb-3125",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Kangar",
+    "country": "MY",
+    "subdivision": "Kedah",
+    "city": "Kubang Pasu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-kangar",
+    "mdb_id": "mdb-3157",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

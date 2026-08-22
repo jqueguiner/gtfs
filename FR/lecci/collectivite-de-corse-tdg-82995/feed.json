@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Lecci"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a84de823-7cb2-4d87-917e-e2dda306d280",
+    "mdb_id": "tdg-82995",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 41.389398,
+    "maximum_latitude": 41.698915,
+    "minimum_longitude": 9.0132,
+    "maximum_longitude": 9.347567
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Connecticut Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Westchester County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.cttransit.com/sites/default/files/gtfs/googlect_transit.zip",
+    "mdb_id": "mdb-553",
+    "license": "https://www.cttransit.com/about/developers/terms-of-use"
+  },
+  "bbox": {
+    "minimum_latitude": 41.000207,
+    "maximum_latitude": 42.02084,
+    "minimum_longitude": -73.773779,
+    "maximum_longitude": -71.794509
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "茅ヶ崎市",
+    "country": "JP",
+    "subdivision": "Kanagawa Prefecture",
+    "city": "Chigasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chigasakicity/feeds/eboshigou/files/feed.zip?rid=current",
+    "mdb_id": "jbda-chigasakicity-eboshigou",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.31849,
+    "maximum_latitude": 35.38321,
+    "minimum_longitude": 139.3737,
+    "maximum_longitude": 139.4434
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

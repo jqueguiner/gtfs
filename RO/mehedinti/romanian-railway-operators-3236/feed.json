@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Romanian Railway Operators",
+    "country": "RO",
+    "subdivision": "Mehedinți",
+    "city": "Mehedinți"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/ro-railway.gtfs.zip",
+    "mdb_id": "mdb-3236",
+    "license": "https://data.gov.ro/base/images/logoinst/OGL-ROU-1.0.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

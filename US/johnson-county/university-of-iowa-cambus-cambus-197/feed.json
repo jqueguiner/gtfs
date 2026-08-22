@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "University of Iowa - CAMBUS (CAMBUS)",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Johnson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cambus-ia-us/cambus-ia-us.zip",
+    "mdb_id": "mdb-197",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

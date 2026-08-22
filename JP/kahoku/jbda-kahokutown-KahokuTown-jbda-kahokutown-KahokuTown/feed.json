@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "河北町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Kahoku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kahokutown/feeds/KahokuTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kahokutown-KahokuTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.388808,
+    "maximum_latitude": 38.457384,
+    "minimum_longitude": 140.275873,
+    "maximum_longitude": 140.391503
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Connecticut Transit",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Wallingford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctrides.com/hlgtfs.zip",
+    "mdb_id": "mdb-2840",
+    "license": "https://www.cttransit.com/about/developers/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

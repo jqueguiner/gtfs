@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "五所川原市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Goshogawara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/goshogawaracity/feeds/goshogawara-communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-goshogawaracity-goshogawara-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

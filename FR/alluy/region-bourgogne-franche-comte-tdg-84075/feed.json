@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Alluy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6f4787d8-30d8-4a75-845a-1e1dfb71c15a",
+    "mdb_id": "tdg-84075",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.70741,
+    "maximum_latitude": 47.541617,
+    "minimum_longitude": 2.881699,
+    "maximum_longitude": 4.229955
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

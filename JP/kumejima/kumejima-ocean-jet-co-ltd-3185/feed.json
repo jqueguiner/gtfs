@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kumejima Ocean Jet Co., Ltd.",
+    "country": "JP",
+    "subdivision": "Okinawa Prefecture",
+    "city": "Kumejima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://portai.jp/wp-content/uploads/2026/05/gtfs-koj-v1.zip",
+    "mdb_id": "mdb-3185",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 26.2236,
+    "maximum_latitude": 26.640627,
+    "minimum_longitude": 126.7714,
+    "maximum_longitude": 127.880393
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

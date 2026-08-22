@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "成田市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Katori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/naritacity/feeds/narita-community-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-naritacity-narita-community-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.731024,
+    "maximum_latitude": 35.897098,
+    "minimum_longitude": 140.25588,
+    "maximum_longitude": 140.458167
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "市川町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Ichikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ichikawatown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ichikawatown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.972151,
+    "maximum_latitude": 35.066273,
+    "minimum_longitude": 134.746428,
+    "maximum_longitude": 134.834369
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Capital District Transportation Authority (CDTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Albany County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.cdta.org/schedules/google_transit.zip",
+    "mdb_id": "mdb-538",
+    "license": "https://www.cdta.org/developer-license-agreement/169"
+  },
+  "bbox": {
+    "minimum_latitude": 42.467161,
+    "maximum_latitude": 43.558901,
+    "minimum_longitude": -74.219321,
+    "maximum_longitude": -73.451967
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

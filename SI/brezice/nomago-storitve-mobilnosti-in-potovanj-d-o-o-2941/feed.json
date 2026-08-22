@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "NOMAGO, storitve mobilnosti in potovanj, d.o.o.",
+    "country": "SI",
+    "subdivision": "Brežice",
+    "city": "Brežice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://b2b.nap.si/data/b2b.gtfs.brezice",
+    "mdb_id": "mdb-2941",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.sl"
+  },
+  "bbox": {
+    "minimum_latitude": 45.9003,
+    "maximum_latitude": 45.92347,
+    "minimum_longitude": 15.58987,
+    "maximum_longitude": 15.60921
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

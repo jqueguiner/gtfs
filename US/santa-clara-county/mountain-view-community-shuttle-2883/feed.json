@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mountain View Community Shuttle",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.mvcommunityshuttle.com/gtfs.zip",
+    "mdb_id": "mdb-2883",
+    "license": "https://opendatacommons.org/licenses/by/summary/"
+  },
+  "bbox": {
+    "minimum_latitude": 37.369497,
+    "maximum_latitude": 37.4151345362921,
+    "minimum_longitude": -122.108236955855,
+    "maximum_longitude": -122.059696095817
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

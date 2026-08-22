@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "豊前市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Buzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/buzencity/feeds/BuzenCityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-buzencity-BuzenCityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.52934436,
+    "maximum_latitude": 33.62486370253029,
+    "minimum_longitude": 131.01735269773934,
+    "maximum_longitude": 131.1554406312226
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

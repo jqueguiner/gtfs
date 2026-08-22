@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sunset Empire Transportation District (SETD), Tillamook County Transportation District, Columbia County Rider",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Tillamook County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us.zip",
+    "mdb_id": "mdb-246",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.924787739481,
+    "maximum_latitude": 45.898416,
+    "minimum_longitude": -124.01037141680727,
+    "maximum_longitude": -122.677083
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

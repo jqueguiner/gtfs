@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Town of Telluride",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "San Miguel County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sanmiguelcounty-co-us/sanmiguelcounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2050",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

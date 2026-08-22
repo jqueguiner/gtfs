@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Arlington Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Fairfax County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arlingtontransit.com/shared/content/gtfs/art/google_transit.zip",
+    "mdb_id": "mdb-485",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.839365,
+    "maximum_latitude": 38.925147,
+    "minimum_longitude": -77.162277,
+    "maximum_longitude": -77.049105
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

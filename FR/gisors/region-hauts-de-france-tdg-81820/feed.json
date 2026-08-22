@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Gisors"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ae3f2c20-ddf9-4469-a953-ebb56e273d3f",
+    "mdb_id": "tdg-81820",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.035434,
+    "maximum_latitude": 49.893938,
+    "minimum_longitude": 1.611875,
+    "maximum_longitude": 2.824356
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

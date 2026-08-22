@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Morrow County Public Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Morrow County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/morrowcounty-or-us/morrowcounty-or-us.zip",
+    "mdb_id": "mdb-2418",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

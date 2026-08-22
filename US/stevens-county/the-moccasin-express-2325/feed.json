@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "The Moccasin Express",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Stevens County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/moccasinexpress-wa-us/moccasinexpress-wa-us.zip",
+    "mdb_id": "mdb-2325",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

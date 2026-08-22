@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Castelló de la Plana Town Hall (city bus)",
+    "country": "ES",
+    "subdivision": "Valencian Community",
+    "city": "Castelló de la Plana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1572",
+    "mdb_id": "mdb-2771",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 39.9572324700448,
+    "maximum_latitude": 40.0311463570511,
+    "minimum_longitude": -0.150047843899442,
+    "maximum_longitude": 0.0267315278217239
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

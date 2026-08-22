@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Helsingin seudun liikenne (HSL)",
+    "country": "FI",
+    "subdivision": "Uusimaa",
+    "city": "Helsinki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://dev.hsl.fi/gtfs/hsl.zip",
+    "mdb_id": "mdb-865",
+    "license": "http://developer.reittiopas.fi/pages/en/home.php"
+  },
+  "bbox": {
+    "minimum_latitude": 59.987483,
+    "maximum_latitude": 60.976337,
+    "minimum_longitude": 24.032409,
+    "maximum_longitude": 25.665056
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

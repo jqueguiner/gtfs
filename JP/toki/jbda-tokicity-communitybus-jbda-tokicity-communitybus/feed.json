@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "土岐市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Toki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokicity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokicity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.2707179849979,
+    "maximum_latitude": 35.394919,
+    "minimum_longitude": 137.151464,
+    "maximum_longitude": 137.276284
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

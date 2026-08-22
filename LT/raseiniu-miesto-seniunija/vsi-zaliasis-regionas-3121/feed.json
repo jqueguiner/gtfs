@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VšĮ \"Žaliasis regionas\"",
+    "country": "LT",
+    "subdivision": "Kaunas County",
+    "city": "Raseinių miesto seniūnija"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://stops.lt/taurage/taurage/gtfs.zip",
+    "mdb_id": "mdb-3121",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 55.05909,
+    "maximum_latitude": 55.92782,
+    "minimum_longitude": 21.13829,
+    "maximum_longitude": 23.50915
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

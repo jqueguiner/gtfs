@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Leprechaun Lines",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Westchester County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Leprechaun_Connection.zip",
+    "mdb_id": "mdb-910",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.01756,
+    "maximum_latitude": 41.706467,
+    "minimum_longitude": -73.937671,
+    "maximum_longitude": -73.722478
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

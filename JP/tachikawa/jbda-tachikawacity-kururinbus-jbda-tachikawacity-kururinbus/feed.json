@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "立川市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tachikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tachikawacity/feeds/kururinbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tachikawacity-kururinbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.68657,
+    "maximum_latitude": 35.7354524316982,
+    "minimum_longitude": 139.355051283326,
+    "maximum_longitude": 139.424197356044
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

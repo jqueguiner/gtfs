@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester-Genesee Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Ontario County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scheduledata.rgrta.com/Regionals/Ontario.zip",
+    "mdb_id": "tld-7041",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.854681,
+    "maximum_latitude": 43.030672,
+    "minimum_longitude": -77.44294,
+    "maximum_longitude": -76.964569
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

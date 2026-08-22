@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "いの町",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inotown/feeds/GTFS-Inotown_Loopbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-inotown-GTFS-Inotown_Loopbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

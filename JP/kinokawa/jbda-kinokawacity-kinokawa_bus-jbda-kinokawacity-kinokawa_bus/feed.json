@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "紀の川市",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Kinokawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kinokawacity/feeds/kinokawa_bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kinokawacity-kinokawa_bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.186903,
+    "maximum_latitude": 34.30961,
+    "minimum_longitude": 135.28488,
+    "maximum_longitude": 135.49372
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

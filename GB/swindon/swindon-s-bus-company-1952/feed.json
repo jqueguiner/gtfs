@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Swindon's Bus Company",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Swindon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/swindonbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1952",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.069674017,
+    "maximum_latitude": 51.952942306,
+    "minimum_longitude": -2.409961634,
+    "maximum_longitude": -1.320901965
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

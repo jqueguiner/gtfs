@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Les Sables-d'Olonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d5920d40-ea72-4e22-b506-2ca583950282",
+    "mdb_id": "tdg-81421",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

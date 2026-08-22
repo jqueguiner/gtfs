@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "King County Metro",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "King County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/1_gtfs.zip",
+    "mdb_id": "mdb-1330",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.189117,
+    "maximum_latitude": 47.865589,
+    "minimum_longitude": -122.506622,
+    "maximum_longitude": -121.709991
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

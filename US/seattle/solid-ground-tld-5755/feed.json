@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Solid Ground",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Seattle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/solidground-wa-us/solidground-wa-us.zip",
+    "mdb_id": "tld-5755",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BAS.MY Kuala Terengganu",
+    "country": "MY",
+    "subdivision": "Terengganu",
+    "city": "Setiu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-kuala-terengganu",
+    "mdb_id": "mdb-3160",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

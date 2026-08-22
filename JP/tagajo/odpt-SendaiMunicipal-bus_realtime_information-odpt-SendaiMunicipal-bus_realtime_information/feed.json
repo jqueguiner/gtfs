@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "仙台市交通局",
+    "country": "JP",
+    "subdivision": "Miyagi Prefecture",
+    "city": "Tagajo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip?date=current",
+    "mdb_id": "odpt-SendaiMunicipal-bus_realtime_information",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 38.184301,
+    "maximum_latitude": 38.418934,
+    "minimum_longitude": 140.552233,
+    "maximum_longitude": 141.004608
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

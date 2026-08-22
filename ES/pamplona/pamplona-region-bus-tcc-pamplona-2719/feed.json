@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pamplona Region Bus (TCC Pamplona)",
+    "country": "ES",
+    "subdivision": "Navarre",
+    "city": "Pamplona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1177",
+    "mdb_id": "mdb-2719",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

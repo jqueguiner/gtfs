@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Vekka Liikenne Oy, Kainuun Tilausliikenne P. Jääskeläinen Ky, Oulaisten Liikenne Oy",
+    "country": "FI",
+    "subdivision": "Kainuu",
+    "city": "Kajaani"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tvv.fra1.digitaloceanspaces.com/211.zip",
+    "mdb_id": "tld-829",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 63.96316015547456,
+    "maximum_latitude": 64.3282317234578,
+    "minimum_longitude": 26.86514852961768,
+    "maximum_longitude": 28.90354149291359
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

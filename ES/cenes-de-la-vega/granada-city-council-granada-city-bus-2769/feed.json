@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Granada City Council (Granada city bus)",
+    "country": "ES",
+    "subdivision": "Andalusia",
+    "city": "Cenes de la Vega"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1564",
+    "mdb_id": "mdb-2769",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 37.1468527,
+    "maximum_latitude": 37.2107196,
+    "minimum_longitude": -3.6529836,
+    "maximum_longitude": -3.4662562
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eurostar International Ltd.",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Aachen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bfd97acd-63f3-4ea4-bfe8-70e4c7fd8d13",
+    "mdb_id": "tdg-82199",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

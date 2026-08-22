@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trans-Landes",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Saint-Vincent-de-Paul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3a010c2b-67da-404c-8cbb-85e62cae129c",
+    "mdb_id": "tdg-83418",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.666353,
+    "maximum_latitude": 43.781846,
+    "minimum_longitude": -1.111668,
+    "maximum_longitude": -0.98718469
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

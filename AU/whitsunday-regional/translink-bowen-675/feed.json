@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransLink Bowen",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Whitsunday Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/BOW_GTFS.zip",
+    "mdb_id": "mdb-675",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SWEG Markgräflerland",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Freiburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/sweg.zip",
+    "mdb_id": "mdb-1084",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

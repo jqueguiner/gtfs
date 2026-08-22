@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Varesine",
+    "country": "IT",
+    "subdivision": "Lombardy",
+    "city": "Azzate"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.ctpi.it/Google_Transit/google_transit.zip",
+    "mdb_id": "mdb-1059",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.71063,
+    "maximum_latitude": 46.103621,
+    "minimum_longitude": 8.559788,
+    "maximum_longitude": 8.930813
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

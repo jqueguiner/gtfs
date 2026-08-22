@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Exo",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/trains/google_transit.zip",
+    "mdb_id": "mdb-748",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

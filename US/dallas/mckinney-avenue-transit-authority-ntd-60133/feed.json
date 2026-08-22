@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "McKinney Avenue Transit Authority",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Dallas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mata.tripshot.com/v1/gtfs/feed/public",
+    "mdb_id": "ntd-60133",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

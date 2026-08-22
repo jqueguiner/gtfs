@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TRAM Barcelona (Tranvía Metropolitano Barcelona)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.tram.cat/GTFS/zip/TBX.zip",
+    "mdb_id": "mdb-1003",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.356672,
+    "maximum_latitude": 41.439967,
+    "minimum_longitude": 2.053372,
+    "maximum_longitude": 2.233219
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

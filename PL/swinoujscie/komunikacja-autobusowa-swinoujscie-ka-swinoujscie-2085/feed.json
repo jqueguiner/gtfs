@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Komunikacja Autobusowa Świnoujście (KA Świnoujście)",
+    "country": "PL",
+    "subdivision": "West Pomeranian Voivodeship",
+    "city": "Świnoujście"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/swinoujscie.zip",
+    "mdb_id": "mdb-2085",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

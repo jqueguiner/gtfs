@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CyRide",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Story County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.cyride.net/gtf/gtfs.zip",
+    "mdb_id": "mdb-923",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.990134,
+    "maximum_latitude": 42.056454,
+    "minimum_longitude": -93.695767,
+    "maximum_longitude": -93.607469
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

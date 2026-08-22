@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alavabus",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Vitoria-Gasteiz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1362",
+    "mdb_id": "mdb-2824",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

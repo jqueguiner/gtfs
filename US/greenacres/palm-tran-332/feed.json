@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Palm Tran",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Greenacres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.palmtran.org/feed/google_transit.zip",
+    "mdb_id": "mdb-332",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 26.329128,
+    "maximum_latitude": 27.26379,
+    "minimum_longitude": -80.720899,
+    "maximum_longitude": -80.033662
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

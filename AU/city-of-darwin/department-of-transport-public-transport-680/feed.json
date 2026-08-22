@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Department of Transport, Public Transport",
+    "country": "AU",
+    "subdivision": "Northern Territory",
+    "city": "City of Darwin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip?v=0.16.0",
+    "mdb_id": "mdb-680",
+    "license": "https://dipl.nt.gov.au/data/bus-timetable-data-and-geographic-information"
+  },
+  "bbox": {
+    "minimum_latitude": -13.237484,
+    "maximum_latitude": -12.352616,
+    "minimum_longitude": 130.755076,
+    "maximum_longitude": 132.963557
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

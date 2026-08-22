@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amtrak",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Harford County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://content.amtrak.com/content/gtfs/GTFS.zip",
+    "mdb_id": "mdb-11",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

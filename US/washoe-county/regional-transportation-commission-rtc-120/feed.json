@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Transportation Commission (RTC)",
+    "country": "US",
+    "subdivision": "Nevada",
+    "city": "Washoe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/rtc-nv-us/rtc-nv-us.zip",
+    "mdb_id": "mdb-120",
+    "license": "https://www.rtcwashoe.com/terms-of-use/"
+  },
+  "bbox": {
+    "minimum_latitude": 39.157417,
+    "maximum_latitude": 39.65477,
+    "minimum_longitude": -119.897018,
+    "maximum_longitude": -119.697891
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

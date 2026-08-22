@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rosemead Explorer",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/rosemead/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-3098",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

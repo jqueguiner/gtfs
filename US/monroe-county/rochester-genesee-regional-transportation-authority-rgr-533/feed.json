@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester-Genesee Regional Transportation Authority (RGRTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Monroe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://scheduledata.rgrta.com/google_transit.zip",
+    "mdb_id": "mdb-533",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.044569,
+    "maximum_latitude": 43.25907,
+    "minimum_longitude": -77.759399,
+    "maximum_longitude": -76.99252
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

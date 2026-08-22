@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ATG Bussipark OÜ, GoBus AS",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Tallinn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/jarvamaa.zip",
+    "mdb_id": "mdb-3374",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

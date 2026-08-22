@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sankéo",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Canohès"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3047f942-98f0-4d4c-92cf-7c5de1fe233c",
+    "mdb_id": "tdg-82900",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

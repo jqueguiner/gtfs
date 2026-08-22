@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro St. Louis",
+    "country": "US",
+    "subdivision": "Missouri",
+    "city": "City of Saint Louis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://files.looptrolley.com/google_transit.zip",
+    "mdb_id": "mdb-2035",
+    "license": "https://www.looptrolley.com/resources"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

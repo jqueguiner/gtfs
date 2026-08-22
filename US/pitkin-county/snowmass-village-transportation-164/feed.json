@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Snowmass Village Transportation",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pitkin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/snowmassvillagetransportation-co-us/snowmassvillagetransportation-co-us.zip",
+    "mdb_id": "mdb-164",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.20444289,
+    "maximum_latitude": 39.2506932,
+    "minimum_longitude": -106.9582664,
+    "maximum_longitude": -106.883231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

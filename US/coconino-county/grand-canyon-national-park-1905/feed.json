@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Grand Canyon National Park",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Coconino County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/grca/south-rim-shuttle-service.zip",
+    "mdb_id": "mdb-1905",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.969776,
+    "maximum_latitude": 36.07327,
+    "minimum_longitude": -112.2103,
+    "maximum_longitude": -112.08343
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

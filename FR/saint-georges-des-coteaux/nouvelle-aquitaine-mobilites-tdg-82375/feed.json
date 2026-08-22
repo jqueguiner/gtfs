@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Saint-Georges-des-Coteaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/33f62e9d-5495-413e-ae74-070e52ab51f7",
+    "mdb_id": "tdg-82375",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.73159,
+    "maximum_latitude": 45.783089,
+    "minimum_longitude": -0.677651,
+    "maximum_longitude": -0.603401
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

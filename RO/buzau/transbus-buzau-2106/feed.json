@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transbus Buzău",
+    "country": "RO",
+    "subdivision": "Buzău",
+    "city": "Buzău"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.opendev.ro/GTFS-301.zip",
+    "mdb_id": "mdb-2106",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

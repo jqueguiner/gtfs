@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hofmann Omnibusverkehr GmbH",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Landkreis Donau-Ries"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/kvsh.zip",
+    "mdb_id": "mdb-1082",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 52.5076076,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 17.0357588
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

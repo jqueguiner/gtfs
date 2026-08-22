@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "杉並区",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Suginami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TokyoSuginamiCity/GreenSlowMobility.zip?date=current",
+    "mdb_id": "odpt-TokyoSuginamiCity-GreenSlowMobility",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.698334,
+    "maximum_latitude": 35.704232,
+    "minimum_longitude": 139.617976,
+    "maximum_longitude": 139.624049
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Shuswap | Vernon)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Vernon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=14",
+    "mdb_id": "mdb-2508",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

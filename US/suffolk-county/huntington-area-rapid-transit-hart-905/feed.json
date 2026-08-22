@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Huntington Area Rapid Transit (HART)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Suffolk County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/HART_Huntington_Area_Rapid_Transit.zip",
+    "mdb_id": "mdb-905",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

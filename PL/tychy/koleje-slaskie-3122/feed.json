@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Śląskie",
+    "country": "PL",
+    "subdivision": "Silesian Voivodeship",
+    "city": "Tychy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/gtfs-proxies/24-Koleje-Slaskie/releases/latest/download/24-Koleje-Slaskie.zip",
+    "mdb_id": "mdb-3122",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

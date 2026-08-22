@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lurraldebus Tolosaldea",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Amezketa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1235",
+    "mdb_id": "mdb-2726",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.036803245555554,
+    "maximum_latitude": 43.2164498012503,
+    "minimum_longitude": -2.1674865706344497,
+    "maximum_longitude": -1.9791060798224016
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

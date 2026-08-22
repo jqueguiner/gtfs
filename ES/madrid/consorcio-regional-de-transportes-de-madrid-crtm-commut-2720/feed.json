@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Consorcio Regional de Transportes de Madrid CRTM Commuter Network (Red de Cercanías)",
+    "country": "ES",
+    "subdivision": "Community of Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data",
+    "mdb_id": "mdb-2720",
+    "license": "https://www.crtm.es/licencia-de-uso"
+  },
+  "bbox": {
+    "minimum_latitude": 40.03483,
+    "maximum_latitude": 40.82226,
+    "minimum_longitude": -4.06681,
+    "maximum_longitude": -3.18239
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

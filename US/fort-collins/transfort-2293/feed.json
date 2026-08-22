@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transfort",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Fort Collins"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/transfort-co-us/transfort-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2293",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

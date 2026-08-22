@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上信ハイヤー株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Takasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/JoshinHire/AllLines.zip?date=current",
+    "mdb_id": "odpt-JoshinHire-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.25427,
+    "maximum_latitude": 36.28587,
+    "minimum_longitude": 138.9845,
+    "maximum_longitude": 139.124374
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

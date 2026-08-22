@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Saint-Melaine-sur-Aubance"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7bc6edfa-d68c-4cc7-a1a5-a8b05fcae444",
+    "mdb_id": "tdg-81394",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.325135,
+    "maximum_latitude": 48.596872,
+    "minimum_longitude": -2.2663022,
+    "maximum_longitude": 0.191056
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Washington Metropolitan Area Transit Authority (WMATA)",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Prince George's County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.wmata.com/gtfs/bus-gtfs-static.zip",
+    "mdb_id": "mdb-1846",
+    "license": "https://developer.wmata.com/license"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

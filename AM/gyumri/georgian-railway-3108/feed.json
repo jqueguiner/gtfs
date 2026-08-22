@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Georgian Railway",
+    "country": "AM",
+    "subdivision": "Shirak Province",
+    "city": "Gyumri"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/ge-georgian-railway.gtfs.zip",
+    "mdb_id": "mdb-3108",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 42.510464,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 49.849846
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

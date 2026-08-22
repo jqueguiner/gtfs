@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transit Authority of Northern Kentucky (TANK)",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Covington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tank.rideralerts.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "mdb-2068",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.970973,
+    "maximum_latitude": 39.116476,
+    "minimum_longitude": -84.728164,
+    "maximum_longitude": -84.400794
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

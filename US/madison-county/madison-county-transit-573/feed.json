@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Madison County Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Madison County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Madison_Transit_Services.zip",
+    "mdb_id": "mdb-573",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.678322,
+    "maximum_latitude": 43.155594,
+    "minimum_longitude": -75.969992,
+    "maximum_longitude": -75.389342
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

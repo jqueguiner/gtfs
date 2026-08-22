@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Spirit Bus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/montereyp/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2202",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

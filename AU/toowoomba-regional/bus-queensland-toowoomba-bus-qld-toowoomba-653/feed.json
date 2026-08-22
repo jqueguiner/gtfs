@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bus Queensland Toowoomba (Bus Qld Toowoomba)",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Toowoomba Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/TWB_GTFS.zip",
+    "mdb_id": "mdb-653",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/48501fd9-148b-4b96-a9fa-b412d768048c"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

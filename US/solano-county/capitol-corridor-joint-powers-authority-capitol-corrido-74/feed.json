@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capitol Corridor Joint Powers Authority (Capitol Corridor)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Solano County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.capitolcorridor.org/googletransit/GTFS.zip",
+    "mdb_id": "mdb-74",
+    "license": "https://www.capitolcorridor.org/developer_resources/#terms"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

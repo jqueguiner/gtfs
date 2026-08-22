@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ventura County Transportation Commission",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Oxnard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.goventura.org/wp-content/uploads/2026/02/20260213-GMV_Schedule.zip",
+    "mdb_id": "mdb-3096",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.161771,
+    "maximum_latitude": 34.443868,
+    "minimum_longitude": -119.891739,
+    "maximum_longitude": -118.579329
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

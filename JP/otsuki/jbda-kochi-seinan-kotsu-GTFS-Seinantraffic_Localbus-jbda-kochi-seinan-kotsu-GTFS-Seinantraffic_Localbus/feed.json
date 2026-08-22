@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "高知西南交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Otsuki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-seinan-kotsu/feeds/GTFS-Seinantraffic_Localbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-seinan-kotsu-GTFS-Seinantraffic_Localbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 32.724128,
+    "maximum_latitude": 33.178037,
+    "minimum_longitude": 132.62831,
+    "maximum_longitude": 133.106589
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Roaring Fork Transportation Authority",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pitkin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rfta.com/RFTAGTFSExport.zip",
+    "mdb_id": "mdb-2278",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.17862,
+    "maximum_latitude": 39.571563,
+    "minimum_longitude": -107.784024,
+    "maximum_longitude": -106.80091
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

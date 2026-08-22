@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau de transport de Longueuil",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Longueuil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rtl-longueuil.qc.ca/transit/latestfeed/RTL.zip",
+    "mdb_id": "mdb-751",
+    "license": "https://www.rtl-longueuil.qc.ca/CMS/MediaFree/file/GTFS/Conditions_GTFS.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Château-sur-Allier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/edf15063-dbbb-4543-a39d-60a39a418ee3",
+    "mdb_id": "tdg-38889",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.0308935,
+    "maximum_latitude": 46.8371212,
+    "minimum_longitude": 2.1961328,
+    "maximum_longitude": 4.061995
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Luis Obispo Regional Transit Authority (SLORTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Luis Obispo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://slo.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "mdb-43",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

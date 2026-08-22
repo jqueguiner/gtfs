@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Los Angeles Department of Transportation (LADOT, DASH, Commuter Express)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ladotbus.com/gtfs",
+    "mdb_id": "mdb-1210",
+    "license": "https://www.ladottransit.com/dla.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

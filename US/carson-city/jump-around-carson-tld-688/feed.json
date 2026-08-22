@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Jump Around Carson",
+    "country": "US",
+    "subdivision": "Nevada",
+    "city": "Carson City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.carson.org/home/showpublisheddocument/88322/638424553550370000",
+    "mdb_id": "tld-688",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.11556,
+    "maximum_latitude": 39.20368,
+    "minimum_longitude": -119.79043,
+    "maximum_longitude": -119.72803
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

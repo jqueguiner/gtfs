@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Teller Senior Coalition Transit (TSC Transit)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Teller County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/tsctransit-co-us/tsctransit-co-us.zip",
+    "mdb_id": "mdb-827",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

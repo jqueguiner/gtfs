@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dodger Area Rapid Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Webster County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/dart-ia-us/dart-ia-us.zip",
+    "mdb_id": "mdb-203",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

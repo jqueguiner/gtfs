@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "A:Shiwi Transit",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "McKinley County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7763/AshiwiGTFS.zip",
+    "mdb_id": "ntd-66242",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.0579950572708,
+    "maximum_latitude": 35.5362558103022,
+    "minimum_longitude": -108.882256203143,
+    "maximum_longitude": -108.699905649146
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

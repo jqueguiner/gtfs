@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo L'Assomption",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Terrebonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/mrclasso/google_transit.zip",
+    "mdb_id": "mdb-755",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.589489,
+    "maximum_latitude": 45.901451,
+    "minimum_longitude": -73.539766,
+    "maximum_longitude": -73.277383
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

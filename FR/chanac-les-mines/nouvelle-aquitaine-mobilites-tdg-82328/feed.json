@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Chanac-les-Mines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2b76718b-2ab0-4f95-8528-cce4bb6af4fe",
+    "mdb_id": "tdg-82328",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.953098,
+    "maximum_latitude": 45.835915,
+    "minimum_longitude": 1.224283,
+    "maximum_longitude": 2.380228
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

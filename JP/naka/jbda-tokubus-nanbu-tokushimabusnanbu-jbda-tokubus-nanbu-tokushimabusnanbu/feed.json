@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "徳島バス南部株式会社",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Naka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokubus-nanbu/feeds/tokushimabusnanbu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokubus-nanbu-tokushimabusnanbu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.543217,
+    "maximum_latitude": 33.924172,
+    "minimum_longitude": 134.197308,
+    "maximum_longitude": 134.668982
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

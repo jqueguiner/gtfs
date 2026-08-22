@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ottawa-Carleton Regional Transit Commission (OC Transpo)",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Gloucester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oct-gtfs-emasagcnfmcgeham.z01.azurefd.net/public-access/GTFSExport.zip",
+    "mdb_id": "mdb-2154",
+    "license": "https://www.octranspo.com/en/plan-your-trip/travel-tools/developers/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

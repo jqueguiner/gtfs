@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transperth",
+    "country": "AU",
+    "subdivision": "Western Australia",
+    "city": "City Of Armadale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.transperth.wa.gov.au/TimetablePDFs/GoogleTransit/Production/google_transit.zip",
+    "mdb_id": "mdb-1086",
+    "license": "https://www.transperth.wa.gov.au/About/Spatial-Data-Access"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

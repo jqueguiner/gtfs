@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "徳島市",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Tokushima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tokushimacity/feeds/kamihachimanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tokushimacity-kamihachimanbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.025207,
+    "maximum_latitude": 34.046036,
+    "minimum_longitude": 134.485837,
+    "maximum_longitude": 134.558916
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

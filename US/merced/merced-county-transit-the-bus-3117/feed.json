@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Merced County Transit (The Bus)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Merced"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://thebuslive.com/gtfs",
+    "mdb_id": "mdb-3117",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

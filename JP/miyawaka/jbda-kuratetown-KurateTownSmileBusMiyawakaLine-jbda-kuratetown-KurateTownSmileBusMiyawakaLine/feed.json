@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "鞍手町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Miyawaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kuratetown/feeds/KurateTownSmileBusMiyawakaLine/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kuratetown-KurateTownSmileBusMiyawakaLine",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.7251563,
+    "maximum_latitude": 33.7977377,
+    "minimum_longitude": 130.6606949,
+    "maximum_longitude": 130.6991902
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

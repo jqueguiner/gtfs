@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mountain Rides Transportation Authority (MRTA)",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Blaine County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apps.itd.idaho.gov/apps/pt/mrtagtfs.zip",
+    "mdb_id": "mdb-2282",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 43.6957148351,
+    "minimum_longitude": -114.4035398927,
+    "maximum_longitude": 0.0
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

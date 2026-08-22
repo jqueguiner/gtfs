@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev Chamonix",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Chamonix-Mont-Blanc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/83a2f241-a0a4-4901-b77b-8a71572a9f6a",
+    "mdb_id": "tdg-82663",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.886634,
+    "maximum_latitude": 46.049325,
+    "minimum_longitude": 6.75602,
+    "maximum_longitude": 6.946672
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

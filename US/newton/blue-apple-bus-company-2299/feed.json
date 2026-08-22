@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blue Apple Bus Company",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Newton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/blueapplebus-ma-us/blueapplebus-ma-us.zip",
+    "mdb_id": "mdb-2299",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

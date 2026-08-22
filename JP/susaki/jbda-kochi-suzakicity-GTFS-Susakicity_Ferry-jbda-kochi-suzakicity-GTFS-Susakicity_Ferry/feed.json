@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "須崎市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Susaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-suzakicity/feeds/GTFS-Susakicity_Ferry/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-suzakicity-GTFS-Susakicity_Ferry",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

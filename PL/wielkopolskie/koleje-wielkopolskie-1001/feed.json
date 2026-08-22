@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Wielkopolskie",
+    "country": "PL",
+    "subdivision": "Wielkopolskie",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://przyjazdy.pl/latest/kw.zip",
+    "mdb_id": "mdb-1001",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

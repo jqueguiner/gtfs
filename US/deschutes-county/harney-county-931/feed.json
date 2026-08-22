@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Harney County",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Deschutes County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/harneycounty-or-us/harneycounty-or-us.zip",
+    "mdb_id": "mdb-931",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.5420789176032,
+    "maximum_latitude": 44.05804683265168,
+    "minimum_longitude": -121.30115964982086,
+    "maximum_longitude": -119.052277
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

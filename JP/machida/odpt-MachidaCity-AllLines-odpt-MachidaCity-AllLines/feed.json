@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "町田市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Machida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MachidaCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-MachidaCity-AllLines",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.5268857858299,
+    "maximum_latitude": 35.622367,
+    "minimum_longitude": 139.285524815525,
+    "maximum_longitude": 139.475615104438
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Birnie Bus",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Lewis County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Birnie_Bus.zip",
+    "mdb_id": "mdb-233",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.307476,
+    "maximum_latitude": 44.163689,
+    "minimum_longitude": -77.884659,
+    "maximum_longitude": -74.752197
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

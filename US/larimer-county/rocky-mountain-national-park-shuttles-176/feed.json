@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rocky Mountain National Park Shuttles",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Larimer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/rockymountainnationalpark-co-us/rockymountainnationalpark-co-us.zip",
+    "mdb_id": "mdb-176",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

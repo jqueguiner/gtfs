@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Miramichi Transit",
+    "country": "CA",
+    "subdivision": "New Brunswick",
+    "city": "Miramichi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://miramichitransit.ca/GTFS/MT_GTFS_2019.01.29.b.zip",
+    "mdb_id": "mdb-1806",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.991774,
+    "maximum_latitude": 47.046645,
+    "minimum_longitude": -65.588079,
+    "maximum_longitude": -65.437941
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

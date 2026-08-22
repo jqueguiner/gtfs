@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Wiener Lokalbahnen (WLB), Wiener Linien",
+    "country": "AT",
+    "subdivision": "Lower Austria",
+    "city": "Bezirk Baden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.wienerlinien.at/ogd_realtime/doku/ogd/gtfs/gtfs.zip",
+    "mdb_id": "mdb-648",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.99950209,
+    "maximum_latitude": 48.30111117,
+    "minimum_longitude": 16.19777442,
+    "maximum_longitude": 16.54940197
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

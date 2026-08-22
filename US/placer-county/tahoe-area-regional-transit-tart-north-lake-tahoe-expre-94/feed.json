@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tahoe Area Regional Transit (TART), North Lake Tahoe Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Placer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/laketahoe-ca-us/laketahoe-ca-us.zip",
+    "mdb_id": "mdb-94",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.0575273,
+    "maximum_latitude": 39.341546,
+    "minimum_longitude": -120.3888378,
+    "maximum_longitude": -119.928881
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

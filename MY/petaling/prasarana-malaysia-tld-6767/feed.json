@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prasarana Malaysia",
+    "country": "MY",
+    "subdivision": "Selangor",
+    "city": "Petaling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-kl",
+    "mdb_id": "tld-6767",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

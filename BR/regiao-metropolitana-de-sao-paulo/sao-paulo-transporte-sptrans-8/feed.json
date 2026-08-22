@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "São Paulo Transporte (SPTrans)",
+    "country": "BR",
+    "subdivision": "São Paulo",
+    "city": "Região Metropolitana de São Paulo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.sptrans.com.br/umbraco/Surface/PerfilDesenvolvedor/BaixarGTFS?memberName=sptrans",
+    "mdb_id": "mdb-8",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -23.911109,
+    "maximum_latitude": -23.195643,
+    "minimum_longitude": -46.983928,
+    "maximum_longitude": -46.18493
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

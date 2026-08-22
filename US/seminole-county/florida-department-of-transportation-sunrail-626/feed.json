@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Florida Department of Transportation (SunRail)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Seminole County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://corporate.sunrail.com/gtfs/google_transit.zip",
+    "mdb_id": "mdb-626",
+    "license": "https://corporate.sunrail.com/about-sunrail/gtfs-data-download/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

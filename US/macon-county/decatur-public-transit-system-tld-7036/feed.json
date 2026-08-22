@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Decatur Public Transit System",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Macon County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/dpts_decatur_il_us.zip",
+    "mdb_id": "tld-7036",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.808034,
+    "maximum_latitude": 39.92168,
+    "minimum_longitude": -89.028715,
+    "maximum_longitude": -88.876906
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

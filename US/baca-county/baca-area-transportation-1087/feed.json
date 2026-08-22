@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Baca Area Transportation",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Baca County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/bacacounty-co-us/bacacounty-co-us--flex-v2.zip",
+    "mdb_id": "mdb-1087",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

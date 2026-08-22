@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (South Okanagan-Similkameen)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Penticton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=15",
+    "mdb_id": "mdb-2532",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

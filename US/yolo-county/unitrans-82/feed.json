@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Unitrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Yolo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://unitrans.ucdavis.edu/media/gtfs/Unitrans_GTFS.zip",
+    "mdb_id": "mdb-82",
+    "license": "https://unitrans.ucdavis.edu/about/gtfs/"
+  },
+  "bbox": {
+    "minimum_latitude": 38.534458,
+    "maximum_latitude": 38.692561,
+    "minimum_longitude": -121.788493,
+    "maximum_longitude": -121.588738
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

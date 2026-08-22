@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Athens Clarke County Transit",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Madison County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustracker.accgov.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-4777",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

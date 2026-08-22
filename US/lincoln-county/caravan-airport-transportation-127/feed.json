@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Caravan Airport Transportation",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Lincoln County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/caravan-or-us/caravan-or-us.zip",
+    "mdb_id": "mdb-127",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

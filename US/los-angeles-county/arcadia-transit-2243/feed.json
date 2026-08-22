@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arcadia Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ArcadiaCity/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2243",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

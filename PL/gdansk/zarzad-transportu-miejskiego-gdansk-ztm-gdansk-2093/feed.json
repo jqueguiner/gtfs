@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego Gdańsk (ZTM Gdańsk)",
+    "country": "PL",
+    "subdivision": "Pomeranian Voivodeship",
+    "city": "Gdańsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan.multimediagdansk.pl/dataset/c24aa637-3619-4dc2-a171-a23eec8f2172/resource/30e783e4-2bec-4a7d-bb22-ee3e3b26ca96/download/gtfsgoogle.zip",
+    "mdb_id": "mdb-2093",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 54.237850799861,
+    "maximum_latitude": 54.474834847857,
+    "minimum_longitude": 18.355140132614,
+    "maximum_longitude": 18.934192031439
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

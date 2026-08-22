@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté Urbaine de Dunkerque / Réseau Dk Bus",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Leffrinckoucke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f51fabfb-9d7a-44b7-bd03-d1032337fb80",
+    "mdb_id": "tdg-82683",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.940872,
+    "maximum_latitude": 51.082111,
+    "minimum_longitude": 2.099884,
+    "maximum_longitude": 2.601023
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

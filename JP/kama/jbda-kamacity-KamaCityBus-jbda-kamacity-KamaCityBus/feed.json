@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "嘉麻市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Kama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamacity/feeds/KamaCityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamacity-KamaCityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.53374282,
+    "maximum_latitude": 33.6184116,
+    "minimum_longitude": 130.662132,
+    "maximum_longitude": 130.7877675
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "さいたま市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Saitama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/ajisaigou/files/feed.zip?rid=current",
+    "mdb_id": "jbda-saitamacity-ajisaigou",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.917567,
+    "maximum_latitude": 35.94377,
+    "minimum_longitude": 139.554112,
+    "maximum_longitude": 139.590338
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

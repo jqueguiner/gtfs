@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Ladoix-Serrigny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exs.mobigo.cityway.fr/gtfs.aspx?key=OPENDATA&operatorCode=UT21",
+    "mdb_id": "mdb-659",
+    "license": "https://transport.data.gouv.fr/datasets/reseau-de-transport-interurbain-mobigo-en-bourgogne-franche-comte"
+  },
+  "bbox": {
+    "minimum_latitude": 46.9543048,
+    "maximum_latitude": 47.9871388,
+    "minimum_longitude": 3.9078996,
+    "maximum_longitude": 5.5961508
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

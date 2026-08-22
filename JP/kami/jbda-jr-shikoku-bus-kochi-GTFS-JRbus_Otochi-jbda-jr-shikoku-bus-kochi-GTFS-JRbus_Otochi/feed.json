@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ジェイアール四国バス株式会社 高知支店",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Kami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/jr-shikoku-bus-kochi/feeds/GTFS-JRbus_Otochi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-jr-shikoku-bus-kochi-GTFS-JRbus_Otochi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.605419,
+    "maximum_latitude": 33.64829,
+    "minimum_longitude": 133.685213,
+    "maximum_longitude": 133.780572
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

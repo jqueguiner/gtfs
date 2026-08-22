@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kalkaska Public Transit Authority",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Kalkaska County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://img1.wsimg.com/blobby/go/c8af6a6d-67d8-4429-b7ec-3fefc453da10/downloads/KPTA_GTFS.zip?ver=1715188985751",
+    "mdb_id": "ntd-50282",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.582788,
+    "maximum_latitude": 44.853224,
+    "minimum_longitude": -85.525744,
+    "maximum_longitude": -84.938975
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Port Alberni",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Port Alberni"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=11",
+    "mdb_id": "mdb-761",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

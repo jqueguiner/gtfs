@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GoDurham",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Durham County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://godurham.rideralerts.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-98",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

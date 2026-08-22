@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "中泊町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Nakadomari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakadomaritown/feeds/nakadomari-communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nakadomaritown-nakadomari-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.924969,
+    "maximum_latitude": 41.131957,
+    "minimum_longitude": 140.266997,
+    "maximum_longitude": 140.454456
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

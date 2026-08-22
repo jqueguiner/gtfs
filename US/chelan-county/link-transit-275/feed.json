@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Link Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Chelan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://link.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-275",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.3625030518,
+    "maximum_latitude": 47.8850250244,
+    "minimum_longitude": -120.67411,
+    "maximum_longitude": -119.980453
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

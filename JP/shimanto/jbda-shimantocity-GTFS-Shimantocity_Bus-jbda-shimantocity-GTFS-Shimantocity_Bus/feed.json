@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "四万十市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Shimanto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimantocity/feeds/GTFS-Shimantocity_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shimantocity-GTFS-Shimantocity_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 32.960975,
+    "maximum_latitude": 33.178037,
+    "minimum_longitude": 132.679002,
+    "maximum_longitude": 132.944001
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

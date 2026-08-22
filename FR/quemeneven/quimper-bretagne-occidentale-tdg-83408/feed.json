@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Quimper Bretagne Occidentale",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Quéménéven"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/95530333-7002-401d-9d64-2829496d1c36",
+    "mdb_id": "tdg-83408",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.910764,
+    "maximum_latitude": 48.151912,
+    "minimum_longitude": -4.229707,
+    "maximum_longitude": -3.86973
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

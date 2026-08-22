@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Taft Area Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Taft"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/production/TaftGTFS.zip",
+    "mdb_id": "mdb-2236",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

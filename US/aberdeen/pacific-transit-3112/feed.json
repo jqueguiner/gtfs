@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pacific Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Aberdeen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pacifictransit-wa-us/pacifictransit-wa-us.zip",
+    "mdb_id": "mdb-3112",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.190200154,
+    "maximum_latitude": 46.976534,
+    "minimum_longitude": -124.06099721585404,
+    "maximum_longitude": -123.71445
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

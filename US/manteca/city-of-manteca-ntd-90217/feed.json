@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Manteca",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Manteca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/manteca-ca-us/manteca-ca-us.zip",
+    "mdb_id": "ntd-90217",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

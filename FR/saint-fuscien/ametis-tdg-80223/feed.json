@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ametis",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Saint-Fuscien"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/571e3014-066d-4bd6-9f73-fb8065c928c6",
+    "mdb_id": "tdg-80223",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.782146,
+    "maximum_latitude": 49.970084,
+    "minimum_longitude": 2.107003,
+    "maximum_longitude": 2.436031
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Martinique Transport",
+    "country": "FR",
+    "subdivision": "CA de l'Espace Sud de la Martinique",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d910480b-c9a5-4f48-a257-4e1aa799c5c8",
+    "mdb_id": "tdg-79897",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 14.40277003,
+    "maximum_latitude": 14.65330188585593,
+    "minimum_longitude": -61.089023805,
+    "maximum_longitude": -60.831872782243
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

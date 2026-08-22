@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "eTrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Stanislaus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/escalon-ca-us/escalon-ca-us.zip",
+    "mdb_id": "mdb-65",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

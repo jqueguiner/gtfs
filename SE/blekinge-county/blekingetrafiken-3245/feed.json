@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blekingetrafiken",
+    "country": "SE",
+    "subdivision": "Blekinge County",
+    "city": "Blekinge County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/blekinge/blekinge.zip",
+    "mdb_id": "mdb-3245",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

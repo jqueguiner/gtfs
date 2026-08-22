@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "飛騨市",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Toyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hidacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hidacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

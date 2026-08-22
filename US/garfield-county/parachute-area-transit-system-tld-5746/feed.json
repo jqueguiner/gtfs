@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Parachute Area Transit System",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Garfield County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pats-co-us/pats-co-us.zip",
+    "mdb_id": "tld-5746",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "市川三郷町",
+    "country": "JP",
+    "subdivision": "Yamanashi Prefecture",
+    "city": "Ichikawamisato"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ichikawamisatotown/feeds/ichikawamisatobus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ichikawamisatotown-ichikawamisatobus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.4819178144452,
+    "maximum_latitude": 35.5718853131845,
+    "minimum_longitude": 138.457963804983,
+    "maximum_longitude": 138.587803205219
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

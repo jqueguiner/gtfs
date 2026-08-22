@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "赤穂市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kamigori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akocity/feeds/teijuurou/files/feed.zip?rid=current",
+    "mdb_id": "jbda-akocity-teijuurou",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.73173,
+    "maximum_latitude": 34.867167,
+    "minimum_longitude": 134.203336,
+    "maximum_longitude": 134.411674
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

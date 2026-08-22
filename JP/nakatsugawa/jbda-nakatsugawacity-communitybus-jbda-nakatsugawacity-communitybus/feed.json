@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "中津川市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Nakatsugawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nakatsugawacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nakatsugawacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.38757,
+    "maximum_latitude": 35.75675,
+    "minimum_longitude": 137.33328,
+    "maximum_longitude": 137.54394
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

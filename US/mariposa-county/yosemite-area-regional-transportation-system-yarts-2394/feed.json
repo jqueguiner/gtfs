@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yosemite Area Regional Transportation System (YARTS)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Mariposa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.planeteria.com/gtfs/yosemite-ca-us/yosemite-ca-us-gtfs.zip",
+    "mdb_id": "mdb-2394",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

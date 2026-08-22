@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TMT Trujillo - Gerencia de Transporte",
+    "country": "PE",
+    "subdivision": "La Libertad",
+    "city": "La Esperanza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/trufi-association/Trujillo-OMUS/refs/heads/main/GTFS-Peru-Trujillo/out/gtfs.zip",
+    "mdb_id": "mdb-2200",
+    "license": "https://github.com/trufi-association/Trujillo-OMUS/blob/main/LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": -8.2240322,
+    "maximum_latitude": -7.9920813,
+    "minimum_longitude": -79.1232817,
+    "maximum_longitude": -78.946644
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

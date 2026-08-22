@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "松阪市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Matsusaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsusakacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-matsusakacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.533222,
+    "maximum_latitude": 34.645459,
+    "minimum_longitude": 136.353882,
+    "maximum_longitude": 136.614528
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

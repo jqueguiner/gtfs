@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miejski Zakład Komunikacji w Ełku (MZK Ełk)",
+    "country": "PL",
+    "subdivision": "Warmian-Masurian Voivodeship",
+    "city": "Ełk County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/elk.zip",
+    "mdb_id": "mdb-2086",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

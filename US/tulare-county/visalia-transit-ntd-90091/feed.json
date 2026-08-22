@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Visalia Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Tulare County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tularecog.org/tcag/data-gis-modeling/gtfs-data/visalia-transit-gtfs/",
+    "mdb_id": "ntd-90091",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.211778,
+    "maximum_latitude": 36.810525,
+    "minimum_longitude": -119.792039,
+    "maximum_longitude": -119.13622
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

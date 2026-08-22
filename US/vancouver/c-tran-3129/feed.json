@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "C-TRAN",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Vancouver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.c-tran.com/images/Google/TheCurrent_GTFSFlex.zip",
+    "mdb_id": "mdb-3129",
+    "license": "https://c-tran.com/about-c-tran/business/c-tran-gtfs-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

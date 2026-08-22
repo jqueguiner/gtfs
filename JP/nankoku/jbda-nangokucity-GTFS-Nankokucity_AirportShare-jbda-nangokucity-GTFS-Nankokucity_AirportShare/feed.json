@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南国市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Nankoku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nangokucity/feeds/GTFS-Nankokucity_AirportShare/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nangokucity-GTFS-Nankokucity_AirportShare",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.54736,
+    "maximum_latitude": 33.579094,
+    "minimum_longitude": 133.645447,
+    "maximum_longitude": 133.674934
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

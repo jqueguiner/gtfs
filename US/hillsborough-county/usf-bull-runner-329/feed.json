@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "USF Bull Runner",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Hillsborough County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator/raw/master/bullrunner-gtfs.zip",
+    "mdb_id": "mdb-329",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 28.0434346203,
+    "maximum_latitude": 28.0803911041,
+    "minimum_longitude": -82.4349528551,
+    "maximum_longitude": -82.401586175
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

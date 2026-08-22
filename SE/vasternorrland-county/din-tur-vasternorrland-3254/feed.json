@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Din Tur - Västernorrland",
+    "country": "SE",
+    "subdivision": "Västernorrland County",
+    "city": "Västernorrland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/dintur/dintur.zip",
+    "mdb_id": "mdb-3254",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 61.7247,
+    "maximum_latitude": 64.11616,
+    "minimum_longitude": 14.63687,
+    "maximum_longitude": 19.1676
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

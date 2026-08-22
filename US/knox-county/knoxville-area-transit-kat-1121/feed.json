@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Knoxville Area Transit (KAT)",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Knox County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.knoxvilletn.gov/UserFiles/Servers/Server_109478/File/KAT/gtfs-kat.zip",
+    "mdb_id": "mdb-1121",
+    "license": "http://www.knoxvilletn.gov/government/opendata/knoxville_area_transit_kat_gtfs_feed"
+  },
+  "bbox": {
+    "minimum_latitude": 35.906341,
+    "maximum_latitude": 36.044794,
+    "minimum_longitude": -84.103075,
+    "maximum_longitude": -83.839573
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Smithers)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "British Columbia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=31",
+    "mdb_id": "mdb-2472",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Citilink",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Allen County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/citilink_fortwayne_in_us.zip",
+    "mdb_id": "mdb-2266",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.006322,
+    "maximum_latitude": 41.190261,
+    "minimum_longitude": -85.2589886,
+    "maximum_longitude": -85.0115231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

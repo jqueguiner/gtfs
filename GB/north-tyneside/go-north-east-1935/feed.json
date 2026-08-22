@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Go North East",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "North Tyneside"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/gonortheast/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1935",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 54.560601,
+    "maximum_latitude": 55.239568,
+    "minimum_longitude": -2.545543,
+    "maximum_longitude": -1.239369
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Sunshine Coast Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Sechelt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=18",
+    "mdb_id": "mdb-2567",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Home James",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Grand County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/homejames-co-us/homejames-co-us.zip",
+    "mdb_id": "mdb-607",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

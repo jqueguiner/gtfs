@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Public Transport Victoria",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "city": "Melbourne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.ptv.vic.gov.au/downloads/gtfs.zip#7/google_transit.zip",
+    "mdb_id": "tld-752",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

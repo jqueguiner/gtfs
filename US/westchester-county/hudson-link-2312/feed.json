@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hudson Link",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Westchester County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/hudsonlink-ny-us/hudsonlink-ny-us.zip",
+    "mdb_id": "mdb-2312",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.03117126072729,
+    "maximum_latitude": 41.116730186373104,
+    "minimum_longitude": -74.15207854868513,
+    "maximum_longitude": -73.76347806948289
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

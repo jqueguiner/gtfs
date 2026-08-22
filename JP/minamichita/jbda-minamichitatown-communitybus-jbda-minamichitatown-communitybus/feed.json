@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南知多町",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Minamichita"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/minamichitatown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-minamichitatown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.697672,
+    "maximum_latitude": 34.777817,
+    "minimum_longitude": 136.868274,
+    "maximum_longitude": 136.973875
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

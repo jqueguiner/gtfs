@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Duzce - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Düzce",
+    "city": "Kaynaşlı"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/duzce.zip",
+    "mdb_id": "mdb-3403",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 40.7998927,
+    "maximum_latitude": 40.96096,
+    "minimum_longitude": 31.1038692,
+    "maximum_longitude": 31.2590421
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

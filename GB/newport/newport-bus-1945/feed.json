@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Newport Bus",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Newport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/newportbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1945",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.456513,
+    "maximum_latitude": 52.061007,
+    "minimum_longitude": -3.198251,
+    "maximum_longitude": -2.48033
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

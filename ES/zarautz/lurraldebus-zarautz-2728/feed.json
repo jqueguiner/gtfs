@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus Zarautz",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Zarautz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1237",
+    "mdb_id": "mdb-2728",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Montpellier Méditerranée Métropole",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Saint-Geniès-des-Mourgues"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2ef043c8-3b10-4d87-af5f-65fead127407",
+    "mdb_id": "tdg-62323",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.52430357,
+    "maximum_latitude": 43.75182138,
+    "minimum_longitude": 3.7010398,
+    "maximum_longitude": 4.04088508
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

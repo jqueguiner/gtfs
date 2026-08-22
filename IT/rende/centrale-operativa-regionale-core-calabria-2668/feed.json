@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Centrale Operativa REgionale (CORE) Calabria",
+    "country": "IT",
+    "subdivision": "Calabria",
+    "city": "Rende"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mobilita.regione.calabria.it/gtfs/otp_gtfs.zip",
+    "mdb_id": "mdb-2668",
+    "license": "https://dati.regione.calabria.it/catalogo/percorsi-linee-trasporto-pubblico/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

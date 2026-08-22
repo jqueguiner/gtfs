@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Corvallis",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Benton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.corvallistransit.com/rtt/public/resource/gtfs.zip",
+    "mdb_id": "mdb-2283",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

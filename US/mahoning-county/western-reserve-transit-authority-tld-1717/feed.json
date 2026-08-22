@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Western Reserve Transit Authority",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Mahoning County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myvalleystops.wrtaonline.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-1717",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.9769194304,
+    "maximum_latitude": 41.2377080541,
+    "minimum_longitude": -80.8929349492,
+    "maximum_longitude": -80.5760656356
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

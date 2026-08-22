@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitan Transit Authority of Black Hawk County",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Cedar Falls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cedarfalls-ia-us/cedarfalls-ia-us.zip",
+    "mdb_id": "mdb-2414",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

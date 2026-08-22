@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TuTicket",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Tuttlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/tuticket.zip",
+    "mdb_id": "mdb-920",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

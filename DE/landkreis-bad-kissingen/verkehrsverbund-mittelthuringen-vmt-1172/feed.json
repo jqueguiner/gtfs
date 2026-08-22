@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Mittelthüringen (VMT)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Landkreis Bad Kissingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vmt-thueringen.de/fileadmin/VMT_Redaktion/OPEN_DATA/VMT_GTFS.zip",
+    "mdb_id": "mdb-1172",
+    "license": "https://creativecommons.org/licenses/by-nd/2.0/de/"
+  },
+  "bbox": {
+    "minimum_latitude": 49.444752,
+    "maximum_latitude": 51.84065,
+    "minimum_longitude": 8.57018,
+    "maximum_longitude": 22.829151
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

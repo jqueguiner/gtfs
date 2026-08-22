@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "The Rapid",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Kent County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://connect.ridetherapid.org/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-400",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.8378740122,
+    "maximum_latitude": 43.0436553955,
+    "minimum_longitude": -85.909981,
+    "maximum_longitude": -85.530098
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

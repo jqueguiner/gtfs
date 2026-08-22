@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Washington State Ferries",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Kitsap County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://business.wsdot.wa.gov/Transit/csv_files/wsf/google_transit.zip",
+    "mdb_id": "mdb-283",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

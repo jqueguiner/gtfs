@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Watertown Citibus",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Watertown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/watertown/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2881",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

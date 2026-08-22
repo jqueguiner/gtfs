@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro-North Railroad",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://web.mta.info/developers/data/mnr/google_transit.zip",
+    "mdb_id": "mdb-524",
+    "license": "http://web.mta.info/developers/developer-data-terms.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

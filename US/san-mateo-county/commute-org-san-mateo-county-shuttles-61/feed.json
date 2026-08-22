@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Commute.org San Mateo County Shuttles",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Mateo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/commute-ca-us/commute-ca-us.zip",
+    "mdb_id": "mdb-61",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Alexandria DOT",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Alexandria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cityofalexandria-va-us/cityofalexandria-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2936",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.836368,
+    "maximum_latitude": 38.836368,
+    "minimum_longitude": -77.049221,
+    "maximum_longitude": -77.049221
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

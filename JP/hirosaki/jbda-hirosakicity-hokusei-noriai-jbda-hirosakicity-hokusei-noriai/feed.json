@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "弘前市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hirosaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hirosakicity/feeds/hokusei-noriai/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hirosakicity-hokusei-noriai",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.54989795,
+    "maximum_latitude": 40.74099417,
+    "minimum_longitude": 140.372423,
+    "maximum_longitude": 140.5693801
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'agglomération de l'Albigeois",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Albi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/eff42667-b36b-4334-bc44-6cf620f90cbf",
+    "mdb_id": "tdg-79687",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.91032,
+    "maximum_latitude": 43.962902,
+    "minimum_longitude": 2.097365,
+    "maximum_longitude": 2.210518
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

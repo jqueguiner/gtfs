@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "群馬中央バス株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Takasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/GunmachuoBus/AllLines.zip?date=current",
+    "mdb_id": "odpt-GunmachuoBus-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.297845,
+    "maximum_latitude": 36.395179,
+    "minimum_longitude": 139.006232,
+    "maximum_longitude": 139.231695
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Società Gestione Multipla (SGM)",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Lecce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://dati.comune.lecce.it/trasporti/gtfs/google_transit.zip",
+    "mdb_id": "mdb-1066",
+    "license": "http://creativecommons.org/licenses/by/4.0/deed.it"
+  },
+  "bbox": {
+    "minimum_latitude": 40.319534,
+    "maximum_latitude": 40.481671,
+    "minimum_longitude": 18.069102,
+    "maximum_longitude": 18.310716
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

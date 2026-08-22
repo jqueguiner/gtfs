@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Riverside Transit Agency",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Riverside County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.riversidetransit.com/google_transit.zip",
+    "mdb_id": "mdb-98",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.452304,
+    "maximum_latitude": 34.10009,
+    "minimum_longitude": -117.915548,
+    "maximum_longitude": -116.875799
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

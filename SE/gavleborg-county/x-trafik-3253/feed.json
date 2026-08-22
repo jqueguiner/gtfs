@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "X-trafik",
+    "country": "SE",
+    "subdivision": "Gävleborg County",
+    "city": "Gävleborg County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/xt/xt.zip",
+    "mdb_id": "mdb-3253",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

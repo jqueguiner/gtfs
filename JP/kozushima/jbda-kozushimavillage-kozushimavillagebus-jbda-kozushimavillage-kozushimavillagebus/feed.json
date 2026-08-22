@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "神津島村",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kozushima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kozushimavillage/feeds/kozushimavillagebus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kozushimavillage-kozushimavillagebus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.190364,
+    "maximum_latitude": 34.240038,
+    "minimum_longitude": 139.129475,
+    "maximum_longitude": 139.15332
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Megabus",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Dane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/megabus-us/megabus-us.zip",
+    "mdb_id": "mdb-2321",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

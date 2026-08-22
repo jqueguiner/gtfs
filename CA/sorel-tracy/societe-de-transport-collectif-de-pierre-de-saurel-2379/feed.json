@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société de transport collectif de Pierre-De Saurel",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sorel-Tracy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=pierre-de-saurel",
+    "mdb_id": "mdb-2379",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

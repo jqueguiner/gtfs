@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "eBus",
+    "country": "NZ",
+    "subdivision": "Nelson",
+    "city": "Nelson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/nsn-nz/nsn-nz.zip",
+    "mdb_id": "mdb-2329",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

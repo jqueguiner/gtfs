@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Central Fraser Valley | Chilliwack | Agassiz-Harrison | Hope)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Abbotsford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=13",
+    "mdb_id": "mdb-1991",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tågab",
+    "country": "SE",
+    "subdivision": "Västmanland County",
+    "city": "Västmanland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/tagab/tagab.zip",
+    "mdb_id": "mdb-3284",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

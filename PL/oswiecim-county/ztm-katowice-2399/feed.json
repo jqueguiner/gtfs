@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Katowice",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Oświęcim County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/gtfs-proxies/24-ZTM-Katowice/releases/latest/download/24-ZTM-Katowice.zip",
+    "mdb_id": "mdb-2399",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

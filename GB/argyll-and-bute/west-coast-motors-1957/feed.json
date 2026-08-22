@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "West Coast Motors",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Argyll and Bute"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/westcoastmotors/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1957",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 55.30996,
+    "maximum_latitude": 57.48076,
+    "minimum_longitude": -6.36867,
+    "maximum_longitude": -3.19154
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Community Transit",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Lyon County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/unitedcap-mn-us/unitedcap-mn-us.zip",
+    "mdb_id": "tld-5761",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

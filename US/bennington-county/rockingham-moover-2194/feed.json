@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rockingham MOOver",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Bennington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sevt-vt-us/sevt-vt-us.zip",
+    "mdb_id": "mdb-2194",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

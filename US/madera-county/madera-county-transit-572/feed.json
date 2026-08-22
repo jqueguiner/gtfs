@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Madera County Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Madera County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/maderactc-ca-us/maderactc-ca-us.zip",
+    "mdb_id": "mdb-572",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

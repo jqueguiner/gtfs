@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "PROVENCE-ALPES-AGGLOMERATION",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Digne-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0d9ebca0-d18e-44ad-ab95-d89e8a72d781",
+    "mdb_id": "tdg-83915",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.06008611,
+    "maximum_latitude": 44.115549,
+    "minimum_longitude": 6.17448566,
+    "maximum_longitude": 6.263291
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

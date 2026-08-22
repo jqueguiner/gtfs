@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brownsville Metro",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://brownsvillemetro.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "tld-7927",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

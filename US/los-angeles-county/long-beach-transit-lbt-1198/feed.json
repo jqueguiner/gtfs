@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Long Beach Transit (LBT)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drive.google.com/uc?export=download&id=1869EVa1z6m_iD6QmvRXyTHtYiaSUBROl",
+    "mdb_id": "mdb-1198",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.742939,
+    "maximum_latitude": 34.069347,
+    "minimum_longitude": -118.447726,
+    "maximum_longitude": -118.063516
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Everett Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Everett"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://everett.prod.mapstrat.com/current/google_transit.zip",
+    "mdb_id": "mdb-3038",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.87995148,
+    "maximum_latitude": 48.009836,
+    "minimum_longitude": -122.3063812,
+    "maximum_longitude": -122.184499
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

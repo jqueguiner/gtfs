@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "長野市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Nagano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/shiei_noriaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-naganocity-shiei_noriaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.533814,
+    "maximum_latitude": 36.75443,
+    "minimum_longitude": 137.9308,
+    "maximum_longitude": 138.307059
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

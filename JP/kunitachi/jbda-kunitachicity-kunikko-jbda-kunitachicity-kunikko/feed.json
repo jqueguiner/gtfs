@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "国立市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kunitachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/kunikko/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kunitachicity-kunikko",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.682914,
+    "maximum_latitude": 35.700486,
+    "minimum_longitude": 139.429484,
+    "maximum_longitude": 139.446268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

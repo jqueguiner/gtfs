@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transports Publics du Choletais",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Toutlemonde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/71e8ee8e-0b55-40a1-a297-21ef89aba4dc",
+    "mdb_id": "tdg-79352",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

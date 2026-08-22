@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "土佐清水市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Tosashimizu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tosashimizucity/feeds/GTFS-Tosashimizucity_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tosashimizucity-GTFS-Tosashimizucity_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 32.780293,
+    "maximum_latitude": 32.895399,
+    "minimum_longitude": 132.78089,
+    "maximum_longitude": 133.000579
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

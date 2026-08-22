@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tranvías Urbanos de Zaragoza (Zaragoza Tram)",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Zaragoza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1687",
+    "mdb_id": "mdb-2801",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.62087472398119,
+    "maximum_latitude": 41.68721736857768,
+    "minimum_longitude": -0.936450897480926,
+    "maximum_longitude": -0.8707787699110215
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

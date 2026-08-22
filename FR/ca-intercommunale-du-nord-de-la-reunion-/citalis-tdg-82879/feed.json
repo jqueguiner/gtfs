@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CITALIS",
+    "country": "FR",
+    "subdivision": "CA Intercommunale du Nord de la Réunion (CINOR)",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/fc065c47-8644-4941-a8ca-4d8322a45749",
+    "mdb_id": "tdg-82879",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": -20.97427249495247,
+    "maximum_latitude": -20.87469642034174,
+    "minimum_longitude": 55.39138896620376,
+    "maximum_longitude": 55.64343710012366
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Métropole Rouen Normandie",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Les Authieux-sur-le-Port-Saint-Ouen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c0ebcf01-954a-4d24-b2d8-a00333ffe937",
+    "mdb_id": "tdg-64973",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

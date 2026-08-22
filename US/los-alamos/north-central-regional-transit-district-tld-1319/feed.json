@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "North Central Regional Transit District",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Los Alamos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bluebustracker.availtec.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "tld-1319",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.000311,
+    "maximum_latitude": 36.978963,
+    "minimum_longitude": -108.18002,
+    "maximum_longitude": -105.209957
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

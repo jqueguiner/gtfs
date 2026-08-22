@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metrobus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "West Sussex"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/metrobus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1942",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.767963,
+    "maximum_latitude": 51.369794,
+    "minimum_longitude": -0.575993,
+    "maximum_longitude": 0.307315
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

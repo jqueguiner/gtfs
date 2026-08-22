@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Good Earth Transit",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Terrebonne Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://america.usetransit.com/api/1/public/gtfs/7/gtfs.zip?token=987dbc22d5980a4be397675617103334454552804",
+    "mdb_id": "ntd-60080",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

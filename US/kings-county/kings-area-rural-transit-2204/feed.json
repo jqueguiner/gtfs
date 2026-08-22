@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kings Area Rural Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Kings County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://kart.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "mdb-2204",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.002941,
+    "maximum_latitude": 36.772629,
+    "minimum_longitude": -120.14516,
+    "maximum_longitude": -119.288234
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

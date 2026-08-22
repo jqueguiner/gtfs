@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "君津市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Kimitsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Kimitsu_City_Community_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kimitsucity-Kimitsu_City_Community_Bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

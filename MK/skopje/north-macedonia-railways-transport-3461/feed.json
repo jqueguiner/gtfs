@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Македонски Железници Транспорт / North Macedonia Railways Transport",
+    "country": "MK",
+    "subdivision": "City of Skopje",
+    "city": "Skopje"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/deryclem/gtfs-north-macedonia/raw/main/gtfs-north-macedonia.zip",
+    "mdb_id": "mdb-3461",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.9465,
+    "maximum_latitude": 42.2271,
+    "minimum_longitude": 20.9173,
+    "maximum_longitude": 22.5126
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

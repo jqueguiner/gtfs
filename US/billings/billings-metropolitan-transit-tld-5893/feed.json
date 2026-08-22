@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Billings Metropolitan Transit",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Billings"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/billings/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-5893",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

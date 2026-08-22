@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "白山市",
+    "country": "JP",
+    "subdivision": "Ishikawa Prefecture",
+    "city": "Hakusan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hakusancity/feeds/hakusan_bus_meguru/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hakusancity-hakusan_bus_meguru",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.25808,
+    "maximum_latitude": 36.56471,
+    "minimum_longitude": 136.473546507122,
+    "maximum_longitude": 136.76452
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

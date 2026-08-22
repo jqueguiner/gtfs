@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kocaeli Toplu Taşıma",
+    "country": "TR",
+    "subdivision": "Kocaeli",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://veri.kocaeli.bel.tr/dataset/toplu-ulasim-verisi",
+    "mdb_id": "mdb-2710",
+    "license": "https://opendefinition.org/licenses/cc-by/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

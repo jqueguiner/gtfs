@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bay State Cruise Company",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Barnstable County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/baystatecruisecompany-ma-us/baystatecruisecompany-ma-us.zip",
+    "mdb_id": "mdb-435",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.0491174432191,
+    "maximum_latitude": 42.35127954505255,
+    "minimum_longitude": -71.0397913869914,
+    "maximum_longitude": -70.1819217022952
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

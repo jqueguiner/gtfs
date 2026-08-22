@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "つくば市",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Shimotsuma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsukubacity/feeds/TSUKUBUS/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsukubacity-TSUKUBUS",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.950432,
+    "maximum_latitude": 36.20716,
+    "minimum_longitude": 139.985259,
+    "maximum_longitude": 140.14689
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

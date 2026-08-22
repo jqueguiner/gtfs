@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Norwalk Transit System (NTS)",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Fairfield County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mystop.norwalktransit.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2242",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Société de transport de l'Outaouais",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Gatineau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://contenu.sto.ca/GTFS/GTFS.zip",
+    "mdb_id": "mdb-740",
+    "license": "https://www.sto.ca/affaires/espace-developpeurs-donnees-ouvertes/conditions-dutilisation-donnees-ouvertes-et-cle-api-de-la-sto/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.381251,
+    "maximum_latitude": 45.592916,
+    "minimum_longitude": -75.890305,
+    "maximum_longitude": -75.390882
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

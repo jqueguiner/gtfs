@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "木曽岬町",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Kisosaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kisosakitown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kisosakitown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0505793147772,
+    "maximum_latitude": 35.113458,
+    "minimum_longitude": 136.720786553984,
+    "maximum_longitude": 136.750763588954
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

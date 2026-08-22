@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "New Jersey Transit (NJ Transit)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/bus_data.zip",
+    "mdb_id": "mdb-508",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": {
+    "minimum_latitude": 38.934548,
+    "maximum_latitude": 41.254809,
+    "minimum_longitude": -75.52097,
+    "maximum_longitude": -73.939143
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

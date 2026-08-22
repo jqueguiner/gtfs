@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Flint Hills Area Transportation Agency",
+    "country": "US",
+    "subdivision": "Kansas",
+    "city": "Riley County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/5197/FH_ATA_GTFS.zip",
+    "mdb_id": "tld-4273",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.991093,
+    "maximum_latitude": 39.219556,
+    "minimum_longitude": -96.877337418,
+    "maximum_longitude": -96.55535
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

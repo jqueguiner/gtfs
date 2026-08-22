@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mendocino Transit Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Mendocino County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/mendocino-ca-us/mendocino-ca-us.zip",
+    "mdb_id": "mdb-69",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

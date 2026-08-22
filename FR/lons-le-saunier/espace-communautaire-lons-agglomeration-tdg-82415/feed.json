@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Espace Communautaire Lons Agglomération",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Lons-le-Saunier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ec61df69-830c-4ca7-9d78-9a81c515e9de",
+    "mdb_id": "tdg-82415",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.6670599,
+    "maximum_latitude": 46.6926452,
+    "minimum_longitude": 5.5247109,
+    "maximum_longitude": 5.58318755
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

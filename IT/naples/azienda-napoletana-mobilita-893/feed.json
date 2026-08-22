@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Azienda Napoletana Mobilità",
+    "country": "IT",
+    "subdivision": "Campania",
+    "city": "Naples"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.anm.it/google/google-transit.zip",
+    "mdb_id": "mdb-893",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.7607976588519,
+    "maximum_latitude": 40.9515550355397,
+    "minimum_longitude": 14.1228713923268,
+    "maximum_longitude": 14.4310439311181
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

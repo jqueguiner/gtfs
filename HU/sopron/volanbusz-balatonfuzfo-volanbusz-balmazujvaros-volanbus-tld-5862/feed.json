@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VOLÁNBUSZ - Balatonfűzfő, VOLÁNBUSZ - Balmazújváros, VOLÁNBUSZ - Dunaújváros, VOLÁNBUSZ - Baja, VOLÁNBUSZ - Mezőtúr, VOLÁNBUSZ - Mórahalom, VOLÁNBUSZ - Mosonmagyaróvár, VOLÁNBUSZ - Karcag, VOLÁNBUSZ - Gyula, VOLÁNBUSZ - Csongrád, VOLÁNBUSZ - Hajdúszoboszló, VOLÁNBUSZ - Gyöngyös, VOLÁNBUSZ - Komárom, VOLÁNBUSZ - Siklós, VOLÁNBUSZ - Bonyhád, VOLÁNBUSZ - Ajka, VOLÁNBUSZ - Kazincbarcika, VOLÁNBUSZ - Makó, VOLÁNBUSZ - Sopron, VOLÁNBUSZ - Bátaszék, VOLÁNBUSZ - Békés, VOLÁNBUSZ - Várpalota, VOLÁNBUSZ - Lenti, VOLÁNBUSZ - Körmend, VOLÁNBUSZ - Balassagyarmat, VOLÁNBUSZ - Szentes, VOLÁNBUSZ - Ózd, VOLÁNBUSZ - Fonyód, VOLÁNBUSZ - Székesfehérvár, VOLÁNBUSZ - Békéscsaba, VOLÁNBUSZ - Újszász, VOLÁNBUSZ - Nyíregyháza, VOLÁNBUSZ - Siófok, VOLÁNBUSZ - Nagyatád, VOLÁNBUSZ - Jászberény, VOLÁNBUSZ - Keszthely, VOLÁNBUSZ - Mezőberény, VOLÁNBUSZ - Tata, VOLÁNBUSZ - Eger, VOLÁNBUSZ - Balatonfüred, VOLÁNBUSZ - Csurgó, VOLÁNBUSZ - Szekszárd, VOLÁNBUSZ - Orosháza, VOLÁNBUSZ - Ercsi, VOLÁNBUSZ - Mohács, VOLÁNBUSZ - Vác, VOLÁNBUSZ - Esztergom, VOLÁNBUSZ - Győr, VOLÁNBUSZ - Salgótarján, VOLÁNBUSZ - Komló, VOLÁNBUSZ - Szigetvár, VOLÁNBUSZ - Szolnok, VOLÁNBUSZ - Tiszaújváros, VOLÁNBUSZ - Tiszafüred, VOLÁNBUSZ - Oroszlány, VOLÁNBUSZ - Nagykanizsa, VOLÁNBUSZ - Érd, VOLÁNBUSZ - Pápa, VOLÁNBUSZ - Zalaegerszeg, VOLÁNBUSZ - Gödöllő, VOLÁNBUSZ - Szeged, VOLÁNBUSZ - Bátonyterenye",
+    "country": "HU",
+    "subdivision": "Győr-Moson-Sopron",
+    "city": "Sopron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.kti.hu/public-gtfs/volanbusz_gtfs.zip",
+    "mdb_id": "tld-5862",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.770688,
+    "maximum_latitude": 48.580548,
+    "minimum_longitude": 16.159185,
+    "maximum_longitude": 22.869044
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

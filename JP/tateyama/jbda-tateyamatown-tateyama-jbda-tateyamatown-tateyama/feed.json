@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "立山町",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Tateyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tateyamatown/feeds/tateyama/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tateyamatown-tateyama",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.573862,
+    "maximum_latitude": 36.699944,
+    "minimum_longitude": 137.287447,
+    "maximum_longitude": 137.396173
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

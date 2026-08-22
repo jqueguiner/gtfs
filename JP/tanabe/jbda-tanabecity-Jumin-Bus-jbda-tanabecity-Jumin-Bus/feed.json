@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "田辺市",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Tanabe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tanabecity/feeds/Jumin-Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tanabecity-Jumin-Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.785695,
+    "maximum_latitude": 33.984484,
+    "minimum_longitude": 135.362088,
+    "maximum_longitude": 135.806024
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

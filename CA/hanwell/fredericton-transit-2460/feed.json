@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fredericton Transit",
+    "country": "CA",
+    "subdivision": "New Brunswick",
+    "city": "Hanwell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fredericton.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/gtfs.zip",
+    "mdb_id": "mdb-2460",
+    "license": "https://www.arcgis.com/home/item.html?id=0bc9093b47c744fdb82af7e830ed8590"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

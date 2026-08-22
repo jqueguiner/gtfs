@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de communes Cluses Arve et Montagne",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Magland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0602751c-36aa-445d-88e2-aa4c51c13205",
+    "mdb_id": "tdg-83578",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.00671,
+    "maximum_latitude": 46.089092,
+    "minimum_longitude": 6.503623,
+    "maximum_longitude": 6.695244
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Toulouse métropole",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Bruguières"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/64318177-f5b5-4144-a6be-2d0f22d26c77",
+    "mdb_id": "tdg-81678",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Jackson (JTRAN)",
+    "country": "US",
+    "subdivision": "Mississippi",
+    "city": "Hinds County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/jtran/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2652",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

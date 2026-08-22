@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rodil",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "city": "Riotorto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2074",
+    "mdb_id": "mdb-2778",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.224308,
+    "maximum_latitude": 43.388535,
+    "minimum_longitude": -7.298243,
+    "maximum_longitude": -7.138894
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

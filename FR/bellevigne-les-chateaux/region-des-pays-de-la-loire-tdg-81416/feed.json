@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Bellevigne-les-Châteaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4c73f3c1-7f5a-4e38-b97d-75471bd47048",
+    "mdb_id": "tdg-81416",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.015835,
+    "maximum_latitude": 47.393574,
+    "minimum_longitude": -0.397653,
+    "maximum_longitude": 0.142746
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

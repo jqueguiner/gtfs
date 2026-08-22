@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Ohio Transit Authority (COTA)",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Licking County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.cota.com/data/cota.gtfs.zip",
+    "mdb_id": "mdb-404",
+    "license": "http://www.cota.com/data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

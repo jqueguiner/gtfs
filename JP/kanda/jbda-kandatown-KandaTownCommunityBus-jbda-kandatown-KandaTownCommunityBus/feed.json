@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "苅田町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Kanda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kandatown/feeds/KandaTownCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kandatown-KandaTownCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.7399823,
+    "maximum_latitude": 33.8022002,
+    "minimum_longitude": 130.9356592,
+    "maximum_longitude": 130.9861918
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

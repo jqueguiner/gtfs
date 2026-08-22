@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Unilink",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Southampton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/unilink/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1955",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

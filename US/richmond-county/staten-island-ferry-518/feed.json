@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Staten Island Ferry",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Richmond County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.nyc.gov/html/dot/downloads/misc/siferry-gtfs.zip",
+    "mdb_id": "mdb-518",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

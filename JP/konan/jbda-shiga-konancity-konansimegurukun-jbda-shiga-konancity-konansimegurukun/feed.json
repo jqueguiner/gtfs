@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "湖南市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Konan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shiga-konancity/feeds/konansimegurukun/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shiga-konancity-konansimegurukun",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.973139,
+    "maximum_latitude": 35.0440966314875,
+    "minimum_longitude": 136.046764894309,
+    "maximum_longitude": 136.139360179701
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

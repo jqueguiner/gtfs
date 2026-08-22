@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Exo Vallée du Richelieu",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/citvr/google_transit.zip",
+    "mdb_id": "mdb-752",
+    "license": "https://exo.quebec/fr/a-propos/donnees-ouvertes"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

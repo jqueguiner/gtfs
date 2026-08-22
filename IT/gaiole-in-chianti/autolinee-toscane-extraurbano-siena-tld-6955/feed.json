@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - ExtraUrbano Siena",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Gaiole in Chianti"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/e7d8c9ae-95ea-473f-8750-d3a40a0c2b43/download/29-extraurbanosiena.gtfs",
+    "mdb_id": "tld-6955",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.8496979840819,
+    "maximum_latitude": 43.8016594526644,
+    "minimum_longitude": 10.9003515450328,
+    "maximum_longitude": 11.956998866376
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

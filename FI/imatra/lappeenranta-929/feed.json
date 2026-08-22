@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lappeenranta",
+    "country": "FI",
+    "subdivision": "South Karelia",
+    "city": "Imatra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tvv.fra1.digitaloceanspaces.com/225.zip",
+    "mdb_id": "mdb-929",
+    "license": "https://opendata.waltti.fi/docs"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "J.J Kavanagh & Sons",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_JJ_Kavanagh.zip",
+    "mdb_id": "tld-620",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 52.162197,
+    "maximum_latitude": 53.42899,
+    "minimum_longitude": -8.64914,
+    "maximum_longitude": -6.229431
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

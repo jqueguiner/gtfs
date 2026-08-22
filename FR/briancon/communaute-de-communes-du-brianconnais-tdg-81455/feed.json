@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes du Briançonnais",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Briançon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3ee23301-f454-4175-ba53-4734c30d5245",
+    "mdb_id": "tdg-81455",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.873499,
+    "maximum_latitude": 45.04609,
+    "minimum_longitude": 6.3031858,
+    "maximum_longitude": 6.72569444
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

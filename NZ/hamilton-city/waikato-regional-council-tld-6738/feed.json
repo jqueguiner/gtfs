@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Waikato Regional Council",
+    "country": "NZ",
+    "subdivision": "Waikato",
+    "city": "Hamilton City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wrcscheduledata.blob.core.windows.net/wrcgtfs/busit-nz-public.zip",
+    "mdb_id": "tld-6738",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

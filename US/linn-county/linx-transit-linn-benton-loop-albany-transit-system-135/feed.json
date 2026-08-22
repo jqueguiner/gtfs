@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LINX Transit, Linn-Benton Loop, Albany Transit System",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Linn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/albanytransit-or-us/albanytransit-or-us.zip",
+    "mdb_id": "mdb-135",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

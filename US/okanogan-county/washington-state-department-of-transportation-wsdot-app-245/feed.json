@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Washington State Department of Transportation (WSDOT Apple Line)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Okanogan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://business.wsdot.wa.gov/Transit/csv_files/InterCityBus/WSDOT_GTFS_Intercity.zip",
+    "mdb_id": "mdb-245",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.0403664665386,
+    "maximum_latitude": 48.61034629,
+    "minimum_longitude": -123.431502615491,
+    "maximum_longitude": -117.4069488
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

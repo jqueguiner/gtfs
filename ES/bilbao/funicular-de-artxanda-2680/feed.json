@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Funicular de Artxanda",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Bilbao"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1264",
+    "mdb_id": "mdb-2680",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

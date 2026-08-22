@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fredericksburg Regional Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Fredericksburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fredericksburgva.gov/DocumentCenter/View/31122/FXBGO-GTFS---CY2026",
+    "mdb_id": "mdb-3433",
+    "license": "https://www.fredericksburgva.gov/1937/Developer-Resources"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

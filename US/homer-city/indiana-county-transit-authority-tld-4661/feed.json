@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Indiana County Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Homer City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://indigobus.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4661",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.430768,
+    "maximum_latitude": 40.944351,
+    "minimum_longitude": -79.266221,
+    "maximum_longitude": -78.971253
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

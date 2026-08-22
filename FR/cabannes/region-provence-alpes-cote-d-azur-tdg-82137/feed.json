@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Provence-Alpes-Côte-d'Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Cabannes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9c8116cb-2f1a-4045-b149-c5bf6cae6bef",
+    "mdb_id": "tdg-82137",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.09314,
+    "maximum_latitude": 44.91755,
+    "minimum_longitude": 4.61792,
+    "maximum_longitude": 7.49791
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

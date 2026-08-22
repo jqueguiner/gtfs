@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Jackson Transit Authority",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Madison County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/jackson-tn-us/jackson-tn-us.zip",
+    "mdb_id": "mdb-2313",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.552018510209614,
+    "maximum_latitude": 35.696360966631765,
+    "minimum_longitude": -88.91979960877734,
+    "maximum_longitude": -88.7718070791174
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tango",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Milhaud"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/15aeb8a5-1cca-4bb9-ae5f-b6e67e4ff2ab",
+    "mdb_id": "tdg-82911",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.67123,
+    "maximum_latitude": 43.976132,
+    "minimum_longitude": 4.125444,
+    "maximum_longitude": 4.565333
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

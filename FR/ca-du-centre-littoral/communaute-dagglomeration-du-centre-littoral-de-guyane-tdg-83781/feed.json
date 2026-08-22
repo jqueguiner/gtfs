@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d’Agglomération du Centre Littoral de Guyane",
+    "country": "FR",
+    "subdivision": "CA du Centre Littoral",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d358344a-ed1e-4d74-b092-9cbc517b10a8",
+    "mdb_id": "tdg-83781",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 4.880191,
+    "maximum_latitude": 4.94787,
+    "minimum_longitude": -52.354443,
+    "maximum_longitude": -52.274483
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

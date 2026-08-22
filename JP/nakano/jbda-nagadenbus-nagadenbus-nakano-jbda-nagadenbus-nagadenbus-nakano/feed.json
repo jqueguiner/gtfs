@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "長電バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Nakano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-nakano/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagadenbus-nagadenbus-nakano",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.71869381,
+    "maximum_latitude": 36.81165537,
+    "minimum_longitude": 138.2907486,
+    "maximum_longitude": 138.41562
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

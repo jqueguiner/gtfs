@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "10-15 Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Wapello County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/10-15transit-ia-us/10-15transit-ia-us.zip",
+    "mdb_id": "mdb-195",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

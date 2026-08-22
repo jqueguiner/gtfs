@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Carris Metropolitana",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Alcochete"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.carrismetropolitana.pt/gtfs",
+    "mdb_id": "mdb-2027",
+    "license": "https://github.com/carrismetropolitana/gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 38.419378,
+    "maximum_latitude": 39.079196,
+    "minimum_longitude": -9.497247,
+    "maximum_longitude": -8.457528
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

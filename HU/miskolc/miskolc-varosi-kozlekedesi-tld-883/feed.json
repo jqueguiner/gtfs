@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miskolc Városi Közlekedési",
+    "country": "HU",
+    "subdivision": "Borsod-Abaúj-Zemplén",
+    "city": "Miskolc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.cdata.hu/mvkzrt.zip",
+    "mdb_id": "tld-883",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

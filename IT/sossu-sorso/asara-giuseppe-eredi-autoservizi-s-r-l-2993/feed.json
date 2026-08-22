@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "ASARA GIUSEPPE EREDI AUTOSERVIZI S.R.L.",
+    "country": "IT",
+    "subdivision": "Sardinia",
+    "city": "Sòssu/Sorso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.sardegnamobilita.it/opendata/R_SARDEGTRASP_00007_1_dati_privati.zip",
+    "mdb_id": "mdb-2993",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.918375,
+    "maximum_latitude": 41.257347,
+    "minimum_longitude": 8.295217,
+    "maximum_longitude": 9.791752
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Open Plains Transit",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Dawes County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://irp.cdn-website.com/442ea718/files/uploaded/opt_gtfs.zip",
+    "mdb_id": "tld-6708",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.09165,
+    "maximum_latitude": 44.082467,
+    "minimum_longitude": -103.6782039,
+    "maximum_longitude": -101.711528
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

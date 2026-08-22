@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Buslink Gladstone",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Gladstone Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/GLT_GTFS.zip",
+    "mdb_id": "mdb-667",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -23.968309,
+    "maximum_latitude": -23.838302,
+    "minimum_longitude": 151.21067,
+    "maximum_longitude": 151.370321
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

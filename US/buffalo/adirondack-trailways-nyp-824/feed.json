@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Adirondack Trailways NYP",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Buffalo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Trailways-NYP.zip",
+    "mdb_id": "mdb-824",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 40.75695,
+    "maximum_latitude": 43.162109,
+    "minimum_longitude": -78.871723,
+    "maximum_longitude": -73.9905
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

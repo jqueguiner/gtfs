@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "筑後市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Chikugo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chikugocity/feeds/HainuzukaStationAreaLoopBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-chikugocity-HainuzukaStationAreaLoopBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.2041815,
+    "maximum_latitude": 33.2169826,
+    "minimum_longitude": 130.4918761,
+    "maximum_longitude": 130.51944367036268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

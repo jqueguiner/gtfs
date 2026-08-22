@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Radford Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Radford City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/radford-va-us/radford-va-us.zip",
+    "mdb_id": "mdb-2415",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

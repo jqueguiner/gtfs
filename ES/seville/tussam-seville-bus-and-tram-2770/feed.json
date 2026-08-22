@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TUSSAM (Seville bus and tram)",
+    "country": "ES",
+    "subdivision": "Andalusia",
+    "city": "Seville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1567",
+    "mdb_id": "mdb-2770",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 37.310978,
+    "maximum_latitude": 37.451149,
+    "minimum_longitude": -6.013968,
+    "maximum_longitude": -5.8476877
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

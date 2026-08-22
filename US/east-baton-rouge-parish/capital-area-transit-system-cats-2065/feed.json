@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Area Transit System (CATS)",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "East Baton Rouge Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cats.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2065",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole Toulon Provence Méditerranée",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Toulon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b0789d9e-5077-4124-b6b2-773353ada8cf",
+    "mdb_id": "tdg-79560",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.027769,
+    "maximum_latitude": 43.195558,
+    "minimum_longitude": 5.794589,
+    "maximum_longitude": 6.199596
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

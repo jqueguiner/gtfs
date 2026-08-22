@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte des Mobilités de l'Aire Grenobloise",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3ec51aee-ce59-4608-b721-faae118ea1d0",
+    "mdb_id": "tdg-81618",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

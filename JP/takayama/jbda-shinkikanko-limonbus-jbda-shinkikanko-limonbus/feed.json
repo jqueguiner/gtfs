@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "神姫観光",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Takayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shinkikanko/feeds/limonbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shinkikanko-limonbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.6665,
+    "maximum_latitude": 36.578562,
+    "minimum_longitude": 135.495371,
+    "maximum_longitude": 139.768842
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

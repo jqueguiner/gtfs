@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Semussac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/3af621da-a600-4da9-92c4-dfd994b22c31",
+    "mdb_id": "tdg-82361",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.449707,
+    "maximum_latitude": 45.846775,
+    "minimum_longitude": -1.228737,
+    "maximum_longitude": -0.723135
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

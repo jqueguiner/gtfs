@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tours Métropole Val de Loire",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Saint-Pierre-des-Corps"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/198b7602-5e74-4d88-b6bc-483af85a2430",
+    "mdb_id": "tdg-80694",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.307411,
+    "maximum_latitude": 47.49329774,
+    "minimum_longitude": 0.48671878,
+    "maximum_longitude": 0.85018675
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

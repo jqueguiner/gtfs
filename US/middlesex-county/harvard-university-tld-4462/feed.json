@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Harvard University",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Middlesex County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/harvard/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4462",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

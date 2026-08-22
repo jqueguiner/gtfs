@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Long-distance rail transport in Germany",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Aachen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/fv_free/latest.zip",
+    "mdb_id": "mdb-768",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.80444,
+    "maximum_latitude": 59.330013,
+    "minimum_longitude": 2.35912,
+    "maximum_longitude": 23.494036
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

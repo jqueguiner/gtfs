@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Shore Line",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Cook County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.mysouthshoreline.com/google/google_transit.zip",
+    "mdb_id": "mdb-585",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Marin Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Marin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://marintransit.gov/data/google_transit.zip",
+    "mdb_id": "mdb-2937",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

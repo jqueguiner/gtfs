@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Bazicourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c50a9ec8-98dc-40ee-a842-555738197957",
+    "mdb_id": "tdg-81822",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.2061612,
+    "maximum_latitude": 49.761172,
+    "minimum_longitude": 2.216056,
+    "maximum_longitude": 3.336189
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

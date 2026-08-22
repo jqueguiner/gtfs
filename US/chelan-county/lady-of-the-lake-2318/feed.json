@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lady of the Lake",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Chelan County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/lakechelan-wa-us/lakechelan-wa-us.zip",
+    "mdb_id": "mdb-2318",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eixbus S.At",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Girona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1969",
+    "mdb_id": "mdb-2806",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

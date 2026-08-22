@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oxford Bus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Oxfordshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/oxfordbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1947",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.156879,
+    "maximum_latitude": 52.09378,
+    "minimum_longitude": -2.24065,
+    "maximum_longitude": -0.14439
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

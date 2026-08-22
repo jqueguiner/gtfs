@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Propark Mobility, Columbia County Public Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Columbia County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Columbia_County_Public_Transit.zip",
+    "mdb_id": "tld-6745",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

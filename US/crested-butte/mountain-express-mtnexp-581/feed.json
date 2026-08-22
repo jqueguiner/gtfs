@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mountain Express (MtnExp)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Crested Butte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/cb_mtnexpress_google_transit.zip",
+    "mdb_id": "mdb-581",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

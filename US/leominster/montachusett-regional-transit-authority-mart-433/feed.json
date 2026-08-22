@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Montachusett Regional Transit Authority (MART)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Leominster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/montachusett-ma-us/montachusett-ma-us.zip",
+    "mdb_id": "mdb-433",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

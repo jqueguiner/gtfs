@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ljubljanski Potniški Promet",
+    "country": "SI",
+    "subdivision": "Ljubljana",
+    "city": "Ljubljana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.lpp.si/api/gtfs/feed.zip",
+    "mdb_id": "mdb-1827",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.9707745832197,
+    "maximum_latitude": 46.1271201446344,
+    "minimum_longitude": 14.4204906101475,
+    "maximum_longitude": 14.7412867791087
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

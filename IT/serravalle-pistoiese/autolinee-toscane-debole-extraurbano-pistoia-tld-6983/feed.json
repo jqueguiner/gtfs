@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Debole Extraurbano Pistoia",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Serravalle Pistoiese"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/d59bd5d4-865f-4d11-89ee-bdc908effab3/download/124-deboleextraurbanopistoia.gtfs",
+    "mdb_id": "tld-6983",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.8566359286307,
+    "maximum_latitude": 44.1354507763833,
+    "minimum_longitude": 10.6786607322341,
+    "maximum_longitude": 10.9141013565786
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

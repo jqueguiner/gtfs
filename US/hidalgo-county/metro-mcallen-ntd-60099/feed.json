@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro McAllen",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Hidalgo County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mcallen.net/metro/assets/resources/GTFS%20-%20TransLoc.zip",
+    "mdb_id": "ntd-60099",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

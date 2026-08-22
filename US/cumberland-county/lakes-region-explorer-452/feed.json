@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lakes Region Explorer",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Cumberland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://trilliumtransit.com/transit_feeds/rtp-me-us/rtp-me-us.zip",
+    "mdb_id": "mdb-452",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.6584,
+    "maximum_latitude": 44.0533,
+    "minimum_longitude": -70.7135435945,
+    "maximum_longitude": -70.2595
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

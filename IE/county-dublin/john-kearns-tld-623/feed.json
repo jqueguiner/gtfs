@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "John Kearns",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Kearns_Transport.zip",
+    "mdb_id": "tld-623",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 53.09161,
+    "maximum_latitude": 53.4546320083705,
+    "minimum_longitude": -9.08671,
+    "maximum_longitude": -6.217812
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

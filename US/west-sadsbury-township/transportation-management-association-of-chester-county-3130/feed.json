@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transportation Management Association of Chester County (TMACC)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "West Sadsbury Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.modeshift.app/api/v1/0045359e-7cae-4a10-b680-cafe365c6554/transport/gtfs/gtfs.zip",
+    "mdb_id": "mdb-3130",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

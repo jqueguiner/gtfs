@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Linn Shuttle",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Linn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/linnshuttle-or-us/linnshuttle-or-us.zip",
+    "mdb_id": "mdb-137",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

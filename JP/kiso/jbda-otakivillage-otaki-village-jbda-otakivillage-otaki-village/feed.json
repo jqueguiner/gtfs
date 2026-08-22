@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "王滝村",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Kiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otakivillage/feeds/otaki-village/files/feed.zip?rid=current",
+    "mdb_id": "jbda-otakivillage-otaki-village",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.80285,
+    "maximum_latitude": 35.87248,
+    "minimum_longitude": 137.50201,
+    "maximum_longitude": 137.69318397
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

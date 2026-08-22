@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Candé-sur-Beuvron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e6e0228d-9916-4216-bb5f-7d3edf57866c",
+    "mdb_id": "tdg-83526",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.460381,
+    "maximum_latitude": 47.732346,
+    "minimum_longitude": 1.030837,
+    "maximum_longitude": 1.497522
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

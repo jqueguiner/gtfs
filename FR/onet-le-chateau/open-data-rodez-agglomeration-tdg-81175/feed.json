@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Open Data Rodez Agglomération",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Onet-le-Château"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f17028a4-61ff-4b84-8856-f7c8937a2c28",
+    "mdb_id": "tdg-81175",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

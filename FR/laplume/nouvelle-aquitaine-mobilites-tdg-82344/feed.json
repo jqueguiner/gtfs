@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Laplume"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/bbf7ffef-9706-42e8-a3c8-7113168621d7",
+    "mdb_id": "tdg-82344",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.884789,
+    "maximum_latitude": 44.506023,
+    "minimum_longitude": -0.505757,
+    "maximum_longitude": 0.985433
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

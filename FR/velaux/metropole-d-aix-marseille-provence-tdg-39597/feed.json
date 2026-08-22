@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Velaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c671fcc9-fe50-4bee-bed0-78e6443c1010",
+    "mdb_id": "tdg-39597",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.36961079,
+    "maximum_latitude": 43.5504066,
+    "minimum_longitude": 5.11675934,
+    "maximum_longitude": 5.3745355
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

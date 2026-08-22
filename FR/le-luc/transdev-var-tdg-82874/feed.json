@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev Var",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Le Luc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5b2dfdce-8ab2-41b2-a318-65f884e3ead2",
+    "mdb_id": "tdg-82874",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.346696,
+    "maximum_latitude": 43.401677,
+    "minimum_longitude": 6.29548,
+    "maximum_longitude": 6.346957
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

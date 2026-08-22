@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Steamboat Springs Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Routt County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/steamboatsprings-co-us/steamboatsprings-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2051",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

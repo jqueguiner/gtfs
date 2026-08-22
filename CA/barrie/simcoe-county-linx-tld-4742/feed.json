@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Simcoe County LINX",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Barrie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-simcoe.zip",
+    "mdb_id": "tld-4742",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

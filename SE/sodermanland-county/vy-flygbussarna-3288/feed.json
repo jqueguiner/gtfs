@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vy Flygbussarna",
+    "country": "SE",
+    "subdivision": "Södermanland County",
+    "city": "Södermanland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/flygbussarna/flygbussarna.zip",
+    "mdb_id": "mdb-3288",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

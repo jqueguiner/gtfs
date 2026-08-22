@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TiB ersättningstrafik (VR Sverige)",
+    "country": "SE",
+    "subdivision": "Dalecarlia",
+    "city": "Dalecarlia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/tib-vr-sverige/tib-vr-sverige.zip",
+    "mdb_id": "mdb-3280",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

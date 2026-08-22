@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TEC",
+    "country": "BE",
+    "subdivision": "Wallonia",
+    "city": "Ramillies"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gtfs.be/tec/gtfs/be-tec-gtfs.zip",
+    "mdb_id": "mdb-1868",
+    "license": "https://gtfs.be/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

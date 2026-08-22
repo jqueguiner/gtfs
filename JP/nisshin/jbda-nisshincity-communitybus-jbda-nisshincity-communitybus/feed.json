@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日進市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Nisshin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nisshincity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nisshincity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

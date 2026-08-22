@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "konectbus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Norfolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/konectbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1940",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.366299,
+    "maximum_latitude": 52.838489,
+    "minimum_longitude": 0.686614,
+    "maximum_longitude": 1.691603
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

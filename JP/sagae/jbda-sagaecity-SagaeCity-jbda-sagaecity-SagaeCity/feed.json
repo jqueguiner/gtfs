@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "寒河江市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Sagae"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sagaecity/feeds/SagaeCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sagaecity-SagaeCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.346982,
+    "maximum_latitude": 38.391411,
+    "minimum_longitude": 140.255156,
+    "maximum_longitude": 140.303376
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

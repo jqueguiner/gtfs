@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GO Transit",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Winnebago County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/oshkosh-wi-us/oshkosh-wi-us.zip",
+    "mdb_id": "mdb-397",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.981736,
+    "maximum_latitude": 44.0684229,
+    "minimum_longitude": -88.61613,
+    "maximum_longitude": -88.520451
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

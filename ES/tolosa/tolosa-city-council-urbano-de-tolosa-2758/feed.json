@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tolosa City Council (Urbano de Tolosa)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Tolosa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2067",
+    "mdb_id": "mdb-2758",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

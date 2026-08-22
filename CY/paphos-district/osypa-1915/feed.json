@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OSYPA",
+    "country": "CY",
+    "subdivision": "Paphos District",
+    "city": "Paphos District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C2_google_transit.zip&rel=True",
+    "mdb_id": "mdb-1915",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aktsiaselts MK Autobuss, Atko Bussiliinid AS, GoBus AS, SEBE Aktsiaselts",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Viimsi vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/parnumaa.zip",
+    "mdb_id": "mdb-3377",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

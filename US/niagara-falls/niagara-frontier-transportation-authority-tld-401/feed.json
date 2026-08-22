@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Niagara Frontier Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Niagara Falls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metro.nfta.com/__googletransit/google_transit.zip",
+    "mdb_id": "tld-401",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.57008,
+    "maximum_latitude": 43.170068,
+    "minimum_longitude": -79.117123,
+    "maximum_longitude": -78.607823
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

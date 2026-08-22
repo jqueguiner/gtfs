@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transportes Colectivos do Barreiro",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Barreiro e Lavradio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://backend.tcbarreiro.pt/download-gtfs",
+    "mdb_id": "mdb-3186",
+    "license": "https://dados.gov.pt/pt/datasets/gtfs-carris-metropolitana/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

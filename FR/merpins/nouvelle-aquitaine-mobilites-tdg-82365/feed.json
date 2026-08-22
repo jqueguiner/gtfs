@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Merpins"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7a0c4ec1-628d-4b72-b180-f0c2e750112f",
+    "mdb_id": "tdg-82365",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.522179,
+    "maximum_latitude": 45.796326,
+    "minimum_longitude": -0.421601,
+    "maximum_longitude": 0.007194
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

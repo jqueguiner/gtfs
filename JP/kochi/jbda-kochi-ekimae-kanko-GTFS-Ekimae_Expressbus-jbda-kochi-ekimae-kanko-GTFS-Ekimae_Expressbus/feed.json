@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社高知駅前観光",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-ekimae-kanko/feeds/GTFS-Ekimae_Expressbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-ekimae-kanko-GTFS-Ekimae_Expressbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

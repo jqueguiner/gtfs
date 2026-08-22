@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Berlin-Brandenburg (VBB)",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Elbe-Elster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://unternehmen.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-flex.zip",
+    "mdb_id": "mdb-3234",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.en"
+  },
+  "bbox": {
+    "minimum_latitude": 14.03054,
+    "maximum_latitude": 53.314084,
+    "minimum_longitude": 12.985525,
+    "maximum_longitude": 54.240811
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

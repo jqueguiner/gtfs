@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Karlsruher Verkehrsverbund",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Hügelsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://projekte.kvv-efa.de/GTFS/google_transit.zip",
+    "mdb_id": "mdb-2231",
+    "license": "https://www.kvv.de/fahrplan/fahrplaene/open-data.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

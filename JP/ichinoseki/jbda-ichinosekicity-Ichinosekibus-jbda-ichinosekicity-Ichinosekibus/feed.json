@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "一関市",
+    "country": "JP",
+    "subdivision": "Iwate Prefecture",
+    "city": "Ichinoseki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ichinosekicity/feeds/Ichinosekibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ichinosekicity-Ichinosekibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

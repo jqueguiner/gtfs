@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JVMALIN",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Beaumont-les-Autels"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a193c142-366b-4a7b-8afb-c0bdf23ca7ea",
+    "mdb_id": "tdg-83521",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.373951,
+    "maximum_latitude": 48.885326,
+    "minimum_longitude": -0.083938,
+    "maximum_longitude": 3.085756
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

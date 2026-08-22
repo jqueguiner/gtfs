@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "METRO Houston",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Harris County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metro.resourcespace.com/pages/download.php?ref=4835&ext=zip",
+    "mdb_id": "mdb-2060",
+    "license": "https://www.ridemetro.org/about/news-media/digital-assets"
+  },
+  "bbox": {
+    "minimum_latitude": 29.528849,
+    "maximum_latitude": 30.054341,
+    "minimum_longitude": -95.776249,
+    "maximum_longitude": -94.97971
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

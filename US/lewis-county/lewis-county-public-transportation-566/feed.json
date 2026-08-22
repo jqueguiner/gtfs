@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lewis County Public Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Lewis County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Lewis_County.zip",
+    "mdb_id": "mdb-566",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 43.076425,
+    "maximum_latitude": 44.14735936,
+    "minimum_longitude": -76.02338433,
+    "maximum_longitude": -74.858814
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

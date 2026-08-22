@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Ordu - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Ordu",
+    "city": "Kabadüz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/ordu.zip",
+    "mdb_id": "mdb-3395",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 40.6460022,
+    "maximum_latitude": 41.019382,
+    "minimum_longitude": 37.82833,
+    "maximum_longitude": 37.977889
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

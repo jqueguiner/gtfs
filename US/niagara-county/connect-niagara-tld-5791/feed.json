@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Connect Niagara",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Niagara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Niagara_County.zip",
+    "mdb_id": "tld-5791",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.02402,
+    "maximum_latitude": 43.33823,
+    "minimum_longitude": -79.060959,
+    "maximum_longitude": -78.476378
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

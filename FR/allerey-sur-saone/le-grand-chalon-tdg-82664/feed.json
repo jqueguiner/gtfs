@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Le Grand Chalon",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Allerey-sur-Saône"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f11a3766-1fe3-40ff-8d5a-27eacda3d9a7",
+    "mdb_id": "tdg-82664",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.654786,
+    "maximum_latitude": 46.955736,
+    "minimum_longitude": 4.633575,
+    "maximum_longitude": 4.9936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

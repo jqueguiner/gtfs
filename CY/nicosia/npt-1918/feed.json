@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NPT",
+    "country": "CY",
+    "subdivision": "Nicosia",
+    "city": "Nicosia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C9_google_transit.zip&rel=True",
+    "mdb_id": "mdb-1918",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

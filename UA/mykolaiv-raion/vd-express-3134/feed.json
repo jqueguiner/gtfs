@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VD-Express",
+    "country": "UA",
+    "subdivision": "Mykolaiv Oblast",
+    "city": "Mykolaiv Raion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://vdexpress.net/api/gtfs/feed",
+    "mdb_id": "mdb-3134",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "INCOFER",
+    "country": "CR",
+    "subdivision": "San Jose Province",
+    "city": "Cantón Curridabat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.simovi.org/incofer/schedule/feed.zip",
+    "mdb_id": "mdb-3480",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 9.8505625,
+    "maximum_latitude": 10.008588147098596,
+    "minimum_longitude": -84.20928013755687,
+    "maximum_longitude": -83.89006250000001
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

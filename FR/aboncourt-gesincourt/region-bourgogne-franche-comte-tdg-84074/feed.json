@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Aboncourt-Gesincourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/27cc46db-561f-42c4-8ab2-8436e64c9921",
+    "mdb_id": "tdg-84074",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.246932,
+    "maximum_latitude": 47.9263859,
+    "minimum_longitude": 5.414784,
+    "maximum_longitude": 6.857194
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

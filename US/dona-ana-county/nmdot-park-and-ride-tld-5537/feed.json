@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "NMDOT Park and Ride",
+    "country": "US",
+    "subdivision": "New Mexico",
+    "city": "Doña Ana County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.realfile.rtsclients.com/PublicFiles/f260a66b364d453e91ff9b3fedd494dc/0058c359-58f0-438f-9e65-c47fc855d4cf/NMDOT%20Park%20and%20Ride%20GTFS%20Data%20updated%20April%201%202024.zip",
+    "mdb_id": "tld-5537",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 31.75329,
+    "maximum_latitude": 35.99084,
+    "minimum_longitude": -106.781305,
+    "maximum_longitude": -105.22326
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

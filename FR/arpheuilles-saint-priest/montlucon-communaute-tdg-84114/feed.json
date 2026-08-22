@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Montluçon Communauté",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Arpheuilles-Saint-Priest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e8599784-71ba-4814-a905-4e215295109f",
+    "mdb_id": "tdg-84114",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.16450016,
+    "maximum_latitude": 46.40486404,
+    "minimum_longitude": 2.5068403,
+    "maximum_longitude": 2.72476253
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lurraldebus TBH (Interurban Tolosa Buruntzaldea)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Hernani"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1608",
+    "mdb_id": "mdb-2757",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.13337960130534,
+    "maximum_latitude": 43.322315943734,
+    "minimum_longitude": -2.076969168487211,
+    "maximum_longitude": -1.9244029793316328
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

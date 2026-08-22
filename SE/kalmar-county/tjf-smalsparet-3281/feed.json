@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TJF Smalspåret",
+    "country": "SE",
+    "subdivision": "Kalmar County",
+    "city": "Kalmar County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/tjf/tjf.zip",
+    "mdb_id": "mdb-3281",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

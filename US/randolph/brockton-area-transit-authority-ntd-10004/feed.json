@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brockton Area Transit Authority",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Randolph"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/brockton/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "ntd-10004",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

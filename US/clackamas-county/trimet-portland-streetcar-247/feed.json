@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TriMet, Portland Streetcar",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://developer.trimet.org/schedule/gtfs.zip",
+    "mdb_id": "mdb-247",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.285216,
+    "maximum_latitude": 45.637726,
+    "minimum_longitude": -123.115448,
+    "maximum_longitude": -122.333048
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Butte Regional Transit (B-Line)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Butte County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://planmyride.blinetransit.com/gtfsrealtime/google_transit.zip",
+    "mdb_id": "ntd-90208",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.3632006265641,
+    "maximum_latitude": 39.8184077333455,
+    "minimum_longitude": -121.898691618365,
+    "maximum_longitude": -121.463442830053
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

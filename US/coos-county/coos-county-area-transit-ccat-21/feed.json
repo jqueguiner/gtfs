@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Coos County Area Transit (CCAT)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Coos County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/cooscounty-or-us/cooscounty-or-us.zip",
+    "mdb_id": "mdb-21",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.87881944,
+    "maximum_latitude": 43.9847294038583,
+    "minimum_longitude": -124.434431,
+    "maximum_longitude": -123.345208
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

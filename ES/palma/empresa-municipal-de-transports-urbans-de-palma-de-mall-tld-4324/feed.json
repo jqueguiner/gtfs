@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Empresa Municipal de Transports Urbans de Palma de Mallorca",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Palma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/emtpalma/Open-Data/raw/master/lineas-paradas-horarios-gtfs.zip",
+    "mdb_id": "tld-4324",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.496737,
+    "maximum_latitude": 39.642713,
+    "minimum_longitude": 2.588593,
+    "maximum_longitude": 2.777399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

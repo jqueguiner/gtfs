@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "North Lake Tahoe Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Placer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/nlte-nv-us/nlte-nv-us.zip",
+    "mdb_id": "mdb-2328",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.139377,
+    "maximum_latitude": 39.50729,
+    "minimum_longitude": -120.239174,
+    "maximum_longitude": -119.775261
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

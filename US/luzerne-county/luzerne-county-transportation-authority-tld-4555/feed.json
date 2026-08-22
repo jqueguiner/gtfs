@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Luzerne County Transportation Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Luzerne County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimelctabus.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4555",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.1922,
+    "maximum_latitude": 41.41021,
+    "minimum_longitude": -76.0038099037,
+    "maximum_longitude": -75.666397
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

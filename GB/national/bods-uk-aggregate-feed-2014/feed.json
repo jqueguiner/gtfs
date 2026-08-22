@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BODS UK aggregate feed",
+    "country": "GB",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "mdb-2014",
+    "license": "https://data.bus-data.dft.gov.uk/guidance/requirements/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.14248,
+    "maximum_latitude": 60.808957,
+    "minimum_longitude": -7.543425,
+    "maximum_longitude": 20.963779
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "The Comet",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Richland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://comet.mapstrat.com/current/google_transit.zip",
+    "mdb_id": "mdb-2209",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

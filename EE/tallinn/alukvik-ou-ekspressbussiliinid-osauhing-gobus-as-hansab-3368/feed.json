@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alukvik OÜ, Ekspressbussiliinid osaühing, GoBus AS, HANSABUSS AS, SEBE Aktsiaselts",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Tallinn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/harjumaa.zip",
+    "mdb_id": "mdb-3368",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

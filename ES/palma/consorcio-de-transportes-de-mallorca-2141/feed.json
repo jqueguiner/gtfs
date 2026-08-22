@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consorcio de Transportes de Mallorca",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Palma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tib.org/documents/20124/478141/ctm-mallorca-es.zip",
+    "mdb_id": "mdb-2141",
+    "license": "https://www.tib.org/en/sobre-ctm/portal-de-transparencia/dades-obertes"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

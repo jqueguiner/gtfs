@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transdev • Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Noyal-Pontivy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/57c8ace6-014d-40cd-b2b5-a9c630f87123",
+    "mdb_id": "tdg-81179",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 48.037738,
+    "maximum_latitude": 48.087405,
+    "minimum_longitude": -2.986288,
+    "maximum_longitude": -2.886475
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

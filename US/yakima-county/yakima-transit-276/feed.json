@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Yakima Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Yakima County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://yakimatransit.org/gtfs/yakima_gtfs.zip",
+    "mdb_id": "mdb-276",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.56293,
+    "maximum_latitude": 46.623763978,
+    "minimum_longitude": -120.635949,
+    "maximum_longitude": -120.47735
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

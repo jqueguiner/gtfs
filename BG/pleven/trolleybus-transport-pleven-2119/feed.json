@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trolleybus Transport Pleven",
+    "country": "BG",
+    "subdivision": "Pleven",
+    "city": "Pleven"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/pleven/PLEVEN.zip",
+    "mdb_id": "mdb-2119",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

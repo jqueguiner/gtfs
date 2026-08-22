@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Envida",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "El Paso County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/dsi-co-us/dsi-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2044",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.826282,
+    "maximum_latitude": 39.122259,
+    "minimum_longitude": -104.816347,
+    "maximum_longitude": -104.091963
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

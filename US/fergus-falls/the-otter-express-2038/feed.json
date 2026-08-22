@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "The Otter Express",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Fergus Falls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/otterexpress-mn-us/otterexpress-mn-us--flex-v2.zip",
+    "mdb_id": "mdb-2038",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

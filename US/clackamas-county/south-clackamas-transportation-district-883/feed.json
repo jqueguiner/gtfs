@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "South Clackamas Transportation District",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/sctd-or-us/sctd-or-us.zip",
+    "mdb_id": "mdb-883",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.13904694494411,
+    "maximum_latitude": 45.32274907,
+    "minimum_longitude": -122.6915965,
+    "maximum_longitude": -122.5630179
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CA  de CASTRES - MAZAMET",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Castres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/70c9f936-129e-41f4-940a-8e6f272535d1",
+    "mdb_id": "tdg-79508",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.483413,
+    "maximum_latitude": 43.63264,
+    "minimum_longitude": 2.185479,
+    "maximum_longitude": 2.4054
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

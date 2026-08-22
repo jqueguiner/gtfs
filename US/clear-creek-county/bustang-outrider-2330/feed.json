@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bustang Outrider",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Clear Creek County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/outrider-co-us/outrider-co-us.zip",
+    "mdb_id": "mdb-2330",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.17254,
+    "maximum_latitude": 40.62412791590873,
+    "minimum_longitude": -108.564242,
+    "maximum_longitude": -102.618435
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

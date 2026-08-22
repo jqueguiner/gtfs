@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "庄内交通",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Mikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shonaikotsu/feeds/SHONAIKOTSU/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shonaikotsu-SHONAIKOTSU",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.517213,
+    "maximum_latitude": 38.934114,
+    "minimum_longitude": 139.587399,
+    "maximum_longitude": 140.016894
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

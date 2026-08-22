@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Benton Area Transportation",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Corvallis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/benton-or-us/benton-or-us--flex-v2.zip",
+    "mdb_id": "mdb-3109",
+    "license": "https://oregon-gtfs.trilliumtransit.com"
+  },
+  "bbox": {
+    "minimum_latitude": 44.539028,
+    "maximum_latitude": 44.67836894234341,
+    "minimum_longitude": -124.05396483388,
+    "maximum_longitude": -123.066012766411
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

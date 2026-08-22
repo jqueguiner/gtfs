@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ametis",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Vers-sur-Selle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5bc8b7dc-0d4e-48e7-b2ec-eccfe3702c19",
+    "mdb_id": "tdg-80705",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.815884,
+    "maximum_latitude": 49.970081,
+    "minimum_longitude": 2.21235,
+    "maximum_longitude": 2.423115
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

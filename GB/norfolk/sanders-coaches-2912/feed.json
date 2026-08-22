@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sanders Coaches",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Norfolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/sanderscoaches/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2912",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.450284124634,
+    "maximum_latitude": 52.963724546495,
+    "minimum_longitude": 0.71868629346098,
+    "maximum_longitude": 1.7295076161481
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

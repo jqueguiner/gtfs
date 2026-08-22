@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "太宰府市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Dazaifu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/dazaifucity/feeds/DazaifuCityCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-dazaifucity-DazaifuCityCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.51054853991267,
+    "maximum_latitude": 33.5246328589549,
+    "minimum_longitude": 130.5218965000953,
+    "maximum_longitude": 130.53738637580693
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

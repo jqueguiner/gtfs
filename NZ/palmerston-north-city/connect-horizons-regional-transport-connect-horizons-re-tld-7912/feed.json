@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Connect - Horizons Regional Transport, Connect - Horizons Regional Transport",
+    "country": "NZ",
+    "subdivision": "Manawatu-Whanganui",
+    "city": "Palmerston North City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.horizons.govt.nz/HRC/media/Data/files/tranzit/HRC_GTFS_Production.zip",
+    "mdb_id": "tld-7912",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -40.87707,
+    "maximum_latitude": -39.417598,
+    "minimum_longitude": 174.972136,
+    "maximum_longitude": 175.799849
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metropolitan Transit Authority (MTA)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Bronx County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://web.mta.info/developers/data/busco/google_transit.zip",
+    "mdb_id": "mdb-510",
+    "license": "http://web.mta.info/developers/developer-data-terms.html"
+  },
+  "bbox": {
+    "minimum_latitude": 40.566123,
+    "maximum_latitude": 40.933637,
+    "minimum_longitude": -74.016284,
+    "maximum_longitude": -73.702557
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

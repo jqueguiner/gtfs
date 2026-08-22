@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Municipality of Vega Baja",
+    "country": "US",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11526/MUVB_GTFS.zip",
+    "mdb_id": "ntd-40117",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 18.346677,
+    "maximum_latitude": 18.490805,
+    "minimum_longitude": -66.431898,
+    "maximum_longitude": -66.368174
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

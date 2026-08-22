@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego Lublin (ZTM Lublin)",
+    "country": "PL",
+    "subdivision": "Lublin Voivodeship",
+    "city": "Świdnik County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/lublin.zip",
+    "mdb_id": "mdb-1013",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 51.09591,
+    "maximum_latitude": 51.39875,
+    "minimum_longitude": 22.351028,
+    "maximum_longitude": 22.780059
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

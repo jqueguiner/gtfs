@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hedingham and Chambers",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Suffolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/hedinghamandchambers/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1938",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 52.260013,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 1.288373661
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

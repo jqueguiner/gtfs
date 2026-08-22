@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Go Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Southwestern Ontario"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/GO-GTFS.zip",
+    "mdb_id": "mdb-1993",
+    "license": "https://www.gotransit.com/en/partner-with-us/software-developers"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Roma Servizi per la Mobilità",
+    "country": "IT",
+    "subdivision": "Lazio",
+    "city": "Rome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://romamobilita.it/sites/default/files/rome_static_gtfs.zip",
+    "mdb_id": "mdb-1294",
+    "license": "https://romamobilita.it/it/tecnologie/open-data/dataset"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

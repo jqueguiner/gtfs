@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trans-Bridge Lines",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/Trans-Bridge_bus_data.zip",
+    "mdb_id": "ntd-20169",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.306129,
+    "maximum_latitude": 40.757153,
+    "minimum_longitude": -75.543333,
+    "maximum_longitude": -73.990564
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Minnesota Valley Transit Authority (MVTA)",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Hennepin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://srv.mvta.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "mdb-206",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.688092,
+    "maximum_latitude": 44.98045,
+    "minimum_longitude": -93.5546553314,
+    "maximum_longitude": -93.0545407277
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bellflower Bus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Bellflower"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/CalITP.zip",
+    "mdb_id": "mdb-3095",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.865684,
+    "maximum_latitude": 33.909496,
+    "minimum_longitude": -118.142691,
+    "maximum_longitude": -118.108606
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

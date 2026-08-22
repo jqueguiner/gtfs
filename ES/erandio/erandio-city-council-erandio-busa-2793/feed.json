@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Erandio City Council (Erandio! Busa)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Erandio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2066",
+    "mdb_id": "mdb-2793",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.289959,
+    "maximum_latitude": 43.338783,
+    "minimum_longitude": -2.986102,
+    "maximum_longitude": -2.936896
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Translink South East Queensland (Translink SEQ)",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Moreton Bay Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/gtfs/SEQ_SCH_GTFS.zip",
+    "mdb_id": "mdb-3048",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-translink/resource/e43b6b9f-fc2b-4630-a7c9-86dd5483552b"
+  },
+  "bbox": {
+    "minimum_latitude": -28.257392,
+    "maximum_latitude": -26.15939,
+    "minimum_longitude": 152.124238,
+    "maximum_longitude": 153.580608
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cripple Creek Transportation",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Teller County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cripplecreek-co-us/cripplecreek-co-us.zip",
+    "mdb_id": "mdb-317",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

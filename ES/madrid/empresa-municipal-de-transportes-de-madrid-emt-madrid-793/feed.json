@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Empresa Municipal de Transportes de Madrid (EMT Madrid)",
+    "country": "ES",
+    "subdivision": "Community of Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://servicios.emtmadrid.es:8443/gtfs/transitemt.zip",
+    "mdb_id": "mdb-793",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.3322,
+    "maximum_latitude": 40.53653,
+    "minimum_longitude": -3.83657,
+    "maximum_longitude": -3.54249
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

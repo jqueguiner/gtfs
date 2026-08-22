@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Trans-Landes",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Saint-Jean-de-Marsacq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c5c0943e-0830-46ac-ba18-0d95a7227a4a",
+    "mdb_id": "tdg-83416",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.558454,
+    "maximum_latitude": 43.852104,
+    "minimum_longitude": -1.4702775,
+    "maximum_longitude": -1.229251
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

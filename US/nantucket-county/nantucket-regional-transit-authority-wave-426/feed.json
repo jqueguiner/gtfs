@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nantucket Regional Transit Authority (WAVE)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Nantucket County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/nantucket-ma-us/nantucket-ma-us.zip",
+    "mdb_id": "mdb-426",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.24403,
+    "maximum_latitude": 41.3009283,
+    "minimum_longitude": -70.20033,
+    "maximum_longitude": -69.96379
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

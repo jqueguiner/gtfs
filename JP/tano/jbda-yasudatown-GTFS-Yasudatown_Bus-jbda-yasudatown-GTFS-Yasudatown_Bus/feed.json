@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "安田町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Tano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yasudatown/feeds/GTFS-Yasudatown_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yasudatown-GTFS-Yasudatown_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.42667,
+    "maximum_latitude": 33.456246,
+    "minimum_longitude": 133.962672,
+    "maximum_longitude": 134.008863
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

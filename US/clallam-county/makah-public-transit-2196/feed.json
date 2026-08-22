@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Makah Public Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Clallam County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/makah-wa-us/makah-wa-us.zip",
+    "mdb_id": "mdb-2196",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

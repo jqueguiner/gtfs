@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "津野町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Tsuno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kochi-tsunotown/feeds/GTFS-Tsunotown_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kochi-tsunotown-GTFS-Tsunotown_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.368373,
+    "maximum_latitude": 33.464588,
+    "minimum_longitude": 132.960583,
+    "maximum_longitude": 133.244521
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Algoa Bus",
+    "country": "ZA",
+    "subdivision": "Eastern Cape",
+    "city": "Nelson Mandela Bay Metropolitan Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drive.google.com/uc?export=download&id=1aznf-L6ejtttrmdF897uoGNR28AL3oaz",
+    "mdb_id": "mdb-3133",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -34.04129,
+    "maximum_latitude": -33.58951,
+    "minimum_longitude": 25.274,
+    "maximum_longitude": 25.82825
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

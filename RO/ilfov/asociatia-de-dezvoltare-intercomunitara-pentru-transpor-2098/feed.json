@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Asociația de Dezvoltare Intercomunitară pentru Transport Public București – Ilfov (TPBI)",
+    "country": "RO",
+    "subdivision": "Ilfov",
+    "city": "Ilfov"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.tpbi.ro/regional/BUCHAREST-REGION.zip",
+    "mdb_id": "mdb-2098",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.256653,
+    "maximum_latitude": 44.75059,
+    "minimum_longitude": 25.870012,
+    "maximum_longitude": 26.386173
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

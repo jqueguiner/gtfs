@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Auburn Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Placer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.auburn.ca.gov/DocumentCenter/View/3431",
+    "mdb_id": "mdb-2275",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.878361,
+    "maximum_latitude": 38.931944,
+    "minimum_longitude": -121.082945,
+    "maximum_longitude": -121.035781594468
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

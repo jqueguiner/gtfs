@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Miami-Dade Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Miami-Dade County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.miamidade.gov/transit/googletransit/current/google_transit.zip",
+    "mdb_id": "mdb-331",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 24.71614,
+    "maximum_latitude": 25.984686,
+    "minimum_longitude": -81.075723,
+    "maximum_longitude": -80.119216
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

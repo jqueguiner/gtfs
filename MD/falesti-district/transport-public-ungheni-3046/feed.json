@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport Public Ungheni",
+    "country": "MD",
+    "subdivision": "Fălești District",
+    "city": "Fălești District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/UngheniTransport/gtfs/raw/refs/heads/main/ungheni_gtfs.zip",
+    "mdb_id": "mdb-3046",
+    "license": "https://unghenitransport.md/index.php/retea-de-transport/open-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

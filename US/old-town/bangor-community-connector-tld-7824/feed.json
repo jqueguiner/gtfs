@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bangor Community Connector",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Old Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/bangor/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-7824",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

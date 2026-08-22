@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "野洲市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Yasu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yasucity/feeds/onoriyasu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yasucity-onoriyasu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0362253227093,
+    "maximum_latitude": 35.1351247188183,
+    "minimum_longitude": 135.992403763957,
+    "maximum_longitude": 136.074883073212
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

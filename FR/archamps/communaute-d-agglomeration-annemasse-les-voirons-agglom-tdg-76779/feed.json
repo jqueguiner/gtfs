@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Annemasse - les Voirons Agglomération",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Archamps"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/373e19e2-af0a-4939-9f33-3f1268d1e0bb",
+    "mdb_id": "tdg-76779",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.116021,
+    "maximum_latitude": 46.251427,
+    "minimum_longitude": 6.069999,
+    "maximum_longitude": 6.333951
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

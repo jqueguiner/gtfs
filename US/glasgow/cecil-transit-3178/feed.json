@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cecil Transit",
+    "country": "US",
+    "subdivision": "Delaware",
+    "city": "Glasgow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.cecilcountymd.gov/DocumentCenter/View/5246/Cecil-County-MD---GTFS",
+    "mdb_id": "mdb-3178",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.549997,
+    "maximum_latitude": 39.68319,
+    "minimum_longitude": -76.076335,
+    "maximum_longitude": -75.743525914
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

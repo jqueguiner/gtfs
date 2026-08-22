@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Harpers Ferry National Historical Park",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/hafe/hafe-shuttle-transport.zip",
+    "mdb_id": "tld-6678",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.316415,
+    "maximum_latitude": 39.3220649,
+    "minimum_longitude": -77.757155,
+    "maximum_longitude": -77.7322754
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

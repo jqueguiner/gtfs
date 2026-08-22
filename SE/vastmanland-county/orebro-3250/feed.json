@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Örebro",
+    "country": "SE",
+    "subdivision": "Västmanland County",
+    "city": "Västmanland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/orebro/orebro.zip",
+    "mdb_id": "mdb-3250",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": {
+    "minimum_latitude": 57.652056,
+    "maximum_latitude": 60.676119,
+    "minimum_longitude": 11.973946,
+    "maximum_longitude": 18.057197
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

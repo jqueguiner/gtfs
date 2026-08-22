@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Massport",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Boston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/massport-ma-us/massport-ma-us.zip",
+    "mdb_id": "mdb-441",
+    "license": "http://www.massport.com/media/1651/massportdatalicenseagreement.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.217363,
+    "maximum_latitude": 42.554906,
+    "minimum_longitude": -71.397808,
+    "maximum_longitude": -70.94143
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

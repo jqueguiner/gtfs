@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "島田市",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Shimada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimadacity/feeds/shimada_combus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shimadacity-shimada_combus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.79634869,
+    "maximum_latitude": 35.03813463,
+    "minimum_longitude": 138.0764425,
+    "maximum_longitude": 138.2266923
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

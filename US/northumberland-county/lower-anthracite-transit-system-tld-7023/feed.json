@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lower Anthracite Transit System",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Northumberland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lats.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-7023",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Glenn Transit Service",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Chico"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.hibuwebsites.com/af26dd3d53e046cf8ce6ac6dc92e7b14/files/uploaded/glenn-county-transit-service-google-transit-2026-01.zip",
+    "mdb_id": "mdb-3094",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.5178278,
+    "maximum_latitude": 39.7579321,
+    "minimum_longitude": -122.2184688,
+    "maximum_longitude": -121.8418629
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TranspRober",
+    "country": "ES",
+    "subdivision": "Andalusia",
+    "city": "Cenes de la Vega"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://movilidadgranada.org/gtfs/gtfs.zip",
+    "mdb_id": "tld-4890",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.1468527,
+    "maximum_latitude": 37.2107196,
+    "minimum_longitude": -3.6529836,
+    "maximum_longitude": -3.4662562
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

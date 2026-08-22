@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uddevalla Skärgårdsbåtar AB",
+    "country": "SE",
+    "subdivision": "Västra Götaland County",
+    "city": "Västra Götaland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/uddevalla/uddevalla.zip",
+    "mdb_id": "mdb-3285",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

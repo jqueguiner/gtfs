@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Direxis TGO (Transportes Generales de Olesa)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1984",
+    "mdb_id": "mdb-2775",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

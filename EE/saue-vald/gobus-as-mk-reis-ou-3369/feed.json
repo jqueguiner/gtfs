@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GoBus AS, MK Reis OÜ",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Saue vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/laanemaa.zip",
+    "mdb_id": "mdb-3369",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

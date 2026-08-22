@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TCC Barcelona Buses",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Sitges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1580",
+    "mdb_id": "mdb-2749",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.2242668,
+    "maximum_latitude": 41.43354,
+    "minimum_longitude": 1.7735859,
+    "maximum_longitude": 2.14334
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

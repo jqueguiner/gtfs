@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pulaski Area Transit (PAT)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Pulaski County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/pulaski-va-us/pulaski-va-us.zip",
+    "mdb_id": "mdb-2198",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

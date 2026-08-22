@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sioux City Transit System",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Dakota County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/siouxcity-ia-us/siouxcity-ia-us.zip",
+    "mdb_id": "mdb-191",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

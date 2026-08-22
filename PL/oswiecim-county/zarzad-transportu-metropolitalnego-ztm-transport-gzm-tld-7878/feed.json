@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Metropolitalnego (ZTM Transport GZM)",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Oświęcim County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/TransportGZM-GTFS-mirror/TransportGZM-GTFS-extended-ver/releases/latest/download/TransportGZM-GTFS.zip",
+    "mdb_id": "tld-7878",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.97279467,
+    "maximum_latitude": 50.59587554,
+    "minimum_longitude": 18.40430376,
+    "maximum_longitude": 19.47629336
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

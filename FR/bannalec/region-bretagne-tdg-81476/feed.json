@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bretagne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Bannalec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/becd68ea-3e7a-4336-b14a-dc3bdcf493c2",
+    "mdb_id": "tdg-81476",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 47.788605,
+    "maximum_latitude": 48.037834,
+    "minimum_longitude": -3.973887,
+    "maximum_longitude": -3.694708
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

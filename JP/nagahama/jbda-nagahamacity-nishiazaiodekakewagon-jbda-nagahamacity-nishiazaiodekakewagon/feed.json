@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長浜市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Nagahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagahamacity/feeds/nishiazaiodekakewagon/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagahamacity-nishiazaiodekakewagon",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

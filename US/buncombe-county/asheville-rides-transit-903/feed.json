@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Asheville Rides Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Buncombe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/asheville-nc-us/asheville-nc-us.zip",
+    "mdb_id": "mdb-903",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

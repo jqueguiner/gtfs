@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "STP Brindisi",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Brindisi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stpbrindisi.it/attachments/article/963/Urbano_Brindisi.zip",
+    "mdb_id": "mdb-2022",
+    "license": "https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio"
+  },
+  "bbox": {
+    "minimum_latitude": 40.545008,
+    "maximum_latitude": 40.693663,
+    "minimum_longitude": 17.825338,
+    "maximum_longitude": 18.041291
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

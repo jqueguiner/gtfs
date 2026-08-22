@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cincinnati Metro",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Hamilton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.go-metro.com/uploads/GTFS/google_transit_info.zip",
+    "mdb_id": "mdb-307",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.064281,
+    "maximum_latitude": 39.356487,
+    "minimum_longitude": -84.794051,
+    "maximum_longitude": -84.259987
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

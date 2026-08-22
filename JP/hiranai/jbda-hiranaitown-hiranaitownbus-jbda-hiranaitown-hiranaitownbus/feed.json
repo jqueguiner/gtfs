@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "平内町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hiranai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hiranaitown/feeds/hiranaitownbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hiranaitown-hiranaitownbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.855599,
+    "maximum_latitude": 41.010281,
+    "minimum_longitude": 140.861635,
+    "maximum_longitude": 141.120027
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

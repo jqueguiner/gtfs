@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TRENITALIA",
+    "country": "IT",
+    "subdivision": "Sardinia",
+    "city": "Bidda Matzràxia/Villamassargia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.sardegnamobilita.it/opendata/dati_trenitalia.zip",
+    "mdb_id": "mdb-1052",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.163526,
+    "maximum_latitude": 41.011019,
+    "minimum_longitude": 8.39642,
+    "maximum_longitude": 9.627688
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

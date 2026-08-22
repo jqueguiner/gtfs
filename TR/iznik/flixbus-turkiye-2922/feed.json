@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Flixbus Türkiye",
+    "country": "TR",
+    "subdivision": "Bursa",
+    "city": "İznik"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.gis.flix.tech/gtfs_generic_turkey.zip",
+    "mdb_id": "mdb-2922",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.072124,
+    "maximum_latitude": 45.264536,
+    "minimum_longitude": 19.828418,
+    "maximum_longitude": 44.089337
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bethesda Circulator",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Bethesda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/bethesdacirculator-md-us.zip",
+    "mdb_id": "mdb-231",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

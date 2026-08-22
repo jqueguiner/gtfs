@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Block Island Ferry",
+    "country": "US",
+    "subdivision": "Rhode Island",
+    "city": "South County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/blockislandferry-ri-us/blockislandferry-ri-us.zip",
+    "mdb_id": "mdb-554",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

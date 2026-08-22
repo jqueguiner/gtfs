@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Milford Transit District",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Stratford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hosted-gtfs-feeds.s3.amazonaws.com/Milford/gtfs.zip",
+    "mdb_id": "ntd-10107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Golden Empire Transit District (GET)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Kern County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://eta.getbus.org/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "mdb-46",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.2667,
+    "maximum_latitude": 35.447091,
+    "minimum_longitude": -119.145718,
+    "maximum_longitude": -118.91409
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

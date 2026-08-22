@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Four County Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Tazewell County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/fourcounty-va-us/fourcounty-va-us.zip",
+    "mdb_id": "mdb-2308",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.31063478725751,
+    "maximum_latitude": 37.4202860557693,
+    "minimum_longitude": -82.7598975358909,
+    "maximum_longitude": -80.0201581392688
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

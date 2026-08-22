@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "土浦市",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Tsuchiura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsuchiuracity/feeds/tsuchimarubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsuchiuracity-tsuchimarubus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.0254507642,
+    "maximum_latitude": 36.079964,
+    "minimum_longitude": 140.1413815251,
+    "maximum_longitude": 140.193413
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

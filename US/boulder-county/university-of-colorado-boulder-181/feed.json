@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "University of Colorado Boulder",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Boulder County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/universitycoloradoboulder-co-us/universitycoloradoboulder-co-us.zip",
+    "mdb_id": "mdb-181",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.99664,
+    "maximum_latitude": 40.017101,
+    "minimum_longitude": -105.275559,
+    "maximum_longitude": -105.243573952751
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

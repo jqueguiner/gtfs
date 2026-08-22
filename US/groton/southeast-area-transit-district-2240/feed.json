@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Southeast Area Transit District",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Groton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/seat_preston_ct_us.zip",
+    "mdb_id": "mdb-2240",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.309931,
+    "maximum_latitude": 41.6136825,
+    "minimum_longitude": -72.2104946,
+    "maximum_longitude": -71.8542172
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "熊谷市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Kumagaya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumagayacity/feeds/yuuyuubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kumagayacity-yuuyuubus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.072709,
+    "maximum_latitude": 36.235171,
+    "minimum_longitude": 139.308104,
+    "maximum_longitude": 139.437077
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

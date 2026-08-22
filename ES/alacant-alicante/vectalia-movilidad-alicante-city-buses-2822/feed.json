@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vectalia Movilidad (Alicante city buses)",
+    "country": "ES",
+    "subdivision": "Valencian Community",
+    "city": "Alacant / Alicante"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1607",
+    "mdb_id": "mdb-2822",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

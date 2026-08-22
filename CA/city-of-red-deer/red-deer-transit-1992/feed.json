@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Red Deer Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "City of Red Deer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.reddeer.ca/datasets/gtfsdatafeed/download/zip",
+    "mdb_id": "mdb-1992",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

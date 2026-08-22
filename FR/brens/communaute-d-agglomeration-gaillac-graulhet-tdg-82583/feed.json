@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Gaillac Graulhet",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Brens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d0579894-2c5a-42c1-a44c-d550af952f49",
+    "mdb_id": "tdg-82583",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.882672,
+    "maximum_latitude": 43.9198222,
+    "minimum_longitude": 1.8712592,
+    "maximum_longitude": 1.9176292
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

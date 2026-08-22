@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vail Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Eagle County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/vailtransit-co-us/vailtransit-co-us.zip",
+    "mdb_id": "mdb-174",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

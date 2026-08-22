@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aquabus Ferries",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Vancouver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://aquabusferries.github.io/gtfs-feed/aquabus-bc-ca.zip",
+    "mdb_id": "mdb-2031",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

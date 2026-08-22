@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "甲斐市",
+    "country": "JP",
+    "subdivision": "Yamanashi Prefecture",
+    "city": "Kai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kaicity/feeds/kaicitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kaicity-kaicitybus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.6426379207045,
+    "maximum_latitude": 35.7867087251584,
+    "minimum_longitude": 138.468829393328,
+    "maximum_longitude": 138.538375704141
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

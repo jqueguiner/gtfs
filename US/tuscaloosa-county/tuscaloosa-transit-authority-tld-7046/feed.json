@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tuscaloosa Transit Authority",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Tuscaloosa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/tuscaloosatransit/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-7046",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

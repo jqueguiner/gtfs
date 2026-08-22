@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Exo Sorel-Varennes",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Longueuil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/citsv/google_transit.zip",
+    "mdb_id": "mdb-741",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

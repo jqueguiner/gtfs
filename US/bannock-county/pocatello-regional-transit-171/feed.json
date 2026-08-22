@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pocatello Regional Transit",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Bannock County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pocatellotransit.com/gtfs/pocatello-regional-transit-gtfs.zip?v=current",
+    "mdb_id": "mdb-171",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.7657128882041,
+    "maximum_latitude": 42.9349545316144,
+    "minimum_longitude": -112.914906447348,
+    "maximum_longitude": -112.371869
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

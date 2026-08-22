@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "PMPML",
+    "country": "IN",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/croyla/pmpml-gtfs/refs/heads/main/pmpml_gtfs_compat.zip",
+    "mdb_id": "mdb-3137",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 18.102959,
+    "maximum_latitude": 18.892073336109,
+    "minimum_longitude": 73.406998,
+    "maximum_longitude": 74.45855
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

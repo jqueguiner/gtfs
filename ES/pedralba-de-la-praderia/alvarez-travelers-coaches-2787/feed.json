@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Alvarez Travelers Coaches",
+    "country": "ES",
+    "subdivision": "Castile and León",
+    "city": "Pedralba de la Pradería"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2070",
+    "mdb_id": "mdb-2787",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.5138888888889,
+    "maximum_latitude": 42.1718611111111,
+    "minimum_longitude": -7.00472222222222,
+    "maximum_longitude": -5.73916666666667
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Consorcio Transportes Asturias",
+    "country": "ES",
+    "subdivision": "Asturias",
+    "city": "Grau/Grado"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1178",
+    "mdb_id": "mdb-2827",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 42.9016387,
+    "maximum_latitude": 43.654697,
+    "minimum_longitude": -7.1918172,
+    "maximum_longitude": -4.514346
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

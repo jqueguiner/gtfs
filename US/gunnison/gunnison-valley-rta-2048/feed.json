@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gunnison Valley RTA",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Gunnison"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/gunnisonvalleyrta-co-us/gunnisonvalleyrta-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2048",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

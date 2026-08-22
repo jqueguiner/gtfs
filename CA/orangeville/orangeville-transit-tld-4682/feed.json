@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orangeville Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Orangeville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-orangeville.zip",
+    "mdb_id": "tld-4682",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

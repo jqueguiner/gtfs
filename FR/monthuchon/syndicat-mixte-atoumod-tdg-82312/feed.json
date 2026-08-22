@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Monthuchon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/82312/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-82312",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.033392,
+    "maximum_latitude": 49.081875,
+    "minimum_longitude": -1.477185,
+    "maximum_longitude": -1.422307
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

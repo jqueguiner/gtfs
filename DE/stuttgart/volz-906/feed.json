@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VOLZ",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Stuttgart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vgc.zip",
+    "mdb_id": "mdb-906",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.6586979,
+    "maximum_latitude": 49.4790759,
+    "minimum_longitude": 8.1303911,
+    "maximum_longitude": 9.7181005
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

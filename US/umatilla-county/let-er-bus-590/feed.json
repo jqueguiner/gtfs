@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Let'er Bus",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Umatilla County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/pendleton-or-us/pendleton-or-us.zip",
+    "mdb_id": "mdb-590",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.64519954,
+    "maximum_latitude": 45.6882390709885,
+    "minimum_longitude": -118.84461887029948,
+    "maximum_longitude": -118.749787195
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

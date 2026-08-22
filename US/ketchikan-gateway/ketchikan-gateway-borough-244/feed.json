@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ketchikan Gateway Borough",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Ketchikan Gateway"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/kgb-ak-us/kgb-ak-us.zip",
+    "mdb_id": "mdb-244",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

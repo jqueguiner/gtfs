@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "本宮市",
+    "country": "JP",
+    "subdivision": "Fukushima Prefecture",
+    "city": "Motomiya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/motomiyacity/feeds/motomiyashibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-motomiyacity-motomiyashibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.480159,
+    "maximum_latitude": 37.526802,
+    "minimum_longitude": 140.349616,
+    "maximum_longitude": 140.456713
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

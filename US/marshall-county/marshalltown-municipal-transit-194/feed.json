@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Marshalltown Municipal Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Marshall County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/marshalltownmunicipaltransit-ia-us/marshalltownmunicipaltransit-ia-us.zip",
+    "mdb_id": "mdb-194",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.00094918360818,
+    "maximum_latitude": 42.06309347649236,
+    "minimum_longitude": -92.9346880353292,
+    "maximum_longitude": -92.88415017115489
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

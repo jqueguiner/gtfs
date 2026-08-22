@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kyiv",
+    "country": "UA",
+    "subdivision": "Kyiv",
+    "city": "Kyiv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://193.23.225.211:8002/export-gtfs-static",
+    "mdb_id": "mdb-3230",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.22585678100586,
+    "maximum_latitude": 50.5668830871582,
+    "minimum_longitude": 30.281478881835938,
+    "maximum_longitude": 30.771907806396484
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

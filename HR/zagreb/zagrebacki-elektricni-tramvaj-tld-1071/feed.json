@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zagrebački Električni Tramvaj",
+    "country": "HR",
+    "subdivision": "City of Zagreb",
+    "city": "Zagreb"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zet.hr/gtfs-scheduled/latest",
+    "mdb_id": "tld-1071",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.567085,
+    "maximum_latitude": 45.946094,
+    "minimum_longitude": 15.773058,
+    "maximum_longitude": 16.229483
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

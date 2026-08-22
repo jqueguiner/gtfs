@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dublin Coach",
+    "country": "IE",
+    "subdivision": "Leinster",
+    "city": "County Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_Dublin_Coach.zip",
+    "mdb_id": "tld-626",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 51.899764,
+    "maximum_latitude": 53.42899,
+    "minimum_longitude": -9.710611,
+    "maximum_longitude": -6.24108
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

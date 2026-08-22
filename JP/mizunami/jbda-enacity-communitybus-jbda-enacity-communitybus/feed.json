@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "恵那市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Mizunami"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/enacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-enacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.237056,
+    "maximum_latitude": 35.528618,
+    "minimum_longitude": 137.252775,
+    "maximum_longitude": 137.517645
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

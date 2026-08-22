@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MetroTas Burnie",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "city": "City of Burnie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.metrotas.com.au/wp-content/uploads/transit/Burnie/google_transit.zip",
+    "mdb_id": "mdb-681",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

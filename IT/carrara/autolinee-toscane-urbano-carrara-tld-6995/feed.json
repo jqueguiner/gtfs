@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Carrara",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Carrara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/16dd589b-b341-4d86-9c02-bc9f20772a23/download/42-urbanocarrara.gtfs",
+    "mdb_id": "tld-6995",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.0142786044189,
+    "maximum_latitude": 44.098201567547,
+    "minimum_longitude": 9.98662865798424,
+    "maximum_longitude": 10.1556516817342
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

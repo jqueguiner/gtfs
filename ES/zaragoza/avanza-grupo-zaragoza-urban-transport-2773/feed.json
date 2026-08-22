@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Avanza Grupo (Zaragoza urban transport)",
+    "country": "ES",
+    "subdivision": "Aragon",
+    "city": "Zaragoza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1176",
+    "mdb_id": "mdb-2773",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.6038659423951,
+    "maximum_latitude": 41.7624393403076,
+    "minimum_longitude": -0.967415761890641,
+    "maximum_longitude": -0.794827875200002
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

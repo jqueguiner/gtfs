@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東北町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Tohoku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tohokutown/feeds/tohoku-town-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tohokutown-tohoku-town-bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.682816,
+    "maximum_latitude": 40.916301,
+    "minimum_longitude": 141.093904,
+    "maximum_longitude": 141.322819
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

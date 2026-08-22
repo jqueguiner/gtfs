@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ClackCo Connects (Clackamas County)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/clackamas/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2740",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

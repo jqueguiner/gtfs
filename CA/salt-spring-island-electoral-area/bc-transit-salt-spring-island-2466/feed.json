@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Salt Spring Island)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Salt Spring Island Electoral Area"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=39",
+    "mdb_id": "mdb-2466",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

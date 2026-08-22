@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Réseau Mistral",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte-d'Azur",
+    "city": "Toulon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.metropoletpm.fr/explore/dataset/donnees-gtfs-du-reseau-de-bus-mistral/files/8e7042ab297b42f9dcc58f3db5326376/download/",
+    "mdb_id": "mdb-1820",
+    "license": "https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

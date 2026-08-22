@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "平川市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hirakawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hirakawacity/feeds/hirakwacitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hirakawacity-hirakwacitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.441728,
+    "maximum_latitude": 40.59102,
+    "minimum_longitude": 140.563143,
+    "maximum_longitude": 140.651408
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

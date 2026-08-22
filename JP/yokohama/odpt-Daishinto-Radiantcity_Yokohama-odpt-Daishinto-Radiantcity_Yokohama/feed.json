@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大新東株式会社",
+    "country": "JP",
+    "subdivision": "Kanagawa Prefecture",
+    "city": "Yokohama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/Daishinto/Radiantcity_Yokohama.zip?date=current",
+    "mdb_id": "odpt-Daishinto-Radiantcity_Yokohama",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.334438,
+    "maximum_latitude": 35.344308,
+    "minimum_longitude": 139.610075,
+    "maximum_longitude": 139.620599
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

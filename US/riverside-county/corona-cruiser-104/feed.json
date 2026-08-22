@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Corona Cruiser",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Riverside County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/corona-ca-us/corona-ca-us.zip",
+    "mdb_id": "mdb-104",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

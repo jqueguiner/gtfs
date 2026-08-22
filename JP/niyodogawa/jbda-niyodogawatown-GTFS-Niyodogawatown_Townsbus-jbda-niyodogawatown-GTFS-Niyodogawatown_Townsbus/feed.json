@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "仁淀川町",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Niyodogawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/niyodogawatown/feeds/GTFS-Niyodogawatown_Townsbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-niyodogawatown-GTFS-Niyodogawatown_Townsbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "VTrans",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Cheshire County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sevt-vt-us/sevt-vt-us--flex-v2.zip",
+    "mdb_id": "mdb-2884",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.7664048,
+    "maximum_latitude": 43.704185,
+    "minimum_longitude": -73.19800976057434,
+    "maximum_longitude": -72.227364677934
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

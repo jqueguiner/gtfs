@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大田原市",
+    "country": "JP",
+    "subdivision": "Tochigi Prefecture",
+    "city": "Nasushiobara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otawaracity/feeds/Ohtawaracitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-otawaracity-Ohtawaracitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.786114,
+    "maximum_latitude": 36.969346,
+    "minimum_longitude": 139.948680611732,
+    "maximum_longitude": 140.256436
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

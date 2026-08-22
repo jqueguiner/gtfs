@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Somerset County",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Hillsborough Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/SomersetCounty_bus_data.zip",
+    "mdb_id": "ntd-20209",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.486712,
+    "maximum_latitude": 40.652871,
+    "minimum_longitude": -74.691245,
+    "maximum_longitude": -74.427975
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

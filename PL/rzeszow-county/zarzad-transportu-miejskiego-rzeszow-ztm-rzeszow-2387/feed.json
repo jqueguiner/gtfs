@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego Rzeszów (ZTM Rzeszów)",
+    "country": "PL",
+    "subdivision": "Subcarpathian Voivodeship",
+    "city": "Rzeszów County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/rzeszow.zip",
+    "mdb_id": "mdb-2387",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.9186906634921,
+    "maximum_latitude": 50.1227208745006,
+    "minimum_longitude": 21.8079203367233,
+    "maximum_longitude": 22.22934
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

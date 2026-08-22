@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KentKart Kirklareli - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Kırklareli",
+    "city": "Kırklareli Merkez"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/kirklareli.zip",
+    "mdb_id": "mdb-3399",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

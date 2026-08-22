@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "East Yorkshire",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "North Yorkshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/eyms/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1933",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 53.610196447,
+    "maximum_latitude": 54.576262995,
+    "minimum_longitude": -2.201435,
+    "maximum_longitude": 0.144991825
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

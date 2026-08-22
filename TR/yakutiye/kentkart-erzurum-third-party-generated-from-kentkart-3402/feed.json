@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KentKart Erzurum - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Erzurum",
+    "city": "Yakutiye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/erzurum.zip",
+    "mdb_id": "mdb-3402",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": {
+    "minimum_latitude": 39.611914,
+    "maximum_latitude": 40.2078433,
+    "minimum_longitude": 40.883796,
+    "maximum_longitude": 41.4687593
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

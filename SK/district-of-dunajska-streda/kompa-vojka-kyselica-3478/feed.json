@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kompa Vojka-Kyselica",
+    "country": "SK",
+    "subdivision": "Western Slovakia",
+    "city": "District of Dunajská Streda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.gtfs.sk/kompa-vojka/gtfs.zip",
+    "mdb_id": "mdb-3478",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.980231,
+    "maximum_latitude": 47.9843335,
+    "minimum_longitude": 17.3816538,
+    "maximum_longitude": 17.3859951
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

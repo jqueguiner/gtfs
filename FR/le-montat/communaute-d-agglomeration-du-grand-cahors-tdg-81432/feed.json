@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Grand Cahors",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Le Montat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/1f768fa6-ee56-44d8-b322-75b946128fd8",
+    "mdb_id": "tdg-81432",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.41326,
+    "maximum_latitude": 44.49733183,
+    "minimum_longitude": 1.3701011,
+    "maximum_longitude": 1.516145
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

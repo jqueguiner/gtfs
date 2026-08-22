@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SJ",
+    "country": "NO",
+    "subdivision": "Viken",
+    "city": "Viken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/sj/sj.zip",
+    "mdb_id": "mdb-3273",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

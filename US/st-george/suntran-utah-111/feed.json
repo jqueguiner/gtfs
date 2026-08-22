@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SunTran Utah",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "St. George"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.fivecounty.utah.gov/transit/google_transit.zip",
+    "mdb_id": "mdb-111",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.061946,
+    "maximum_latitude": 37.188009,
+    "minimum_longitude": -113.679685,
+    "maximum_longitude": -113.490836
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

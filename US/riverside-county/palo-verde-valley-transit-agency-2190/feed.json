@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Palo Verde Valley Transit Agency",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Riverside County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/paloverde-valley-ca-us/paloverde-valley-ca-us.zip",
+    "mdb_id": "mdb-2190",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

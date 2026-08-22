@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Codiac Transport",
+    "country": "CA",
+    "subdivision": "New Brunswick",
+    "city": "Moncton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www7.moncton.ca/opendata/google_transit.zip",
+    "mdb_id": "mdb-1111",
+    "license": "https://catalogue-moncton.opendata.arcgis.com/datasets/transit-files-gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 46.0419242705062,
+    "maximum_latitude": 46.165235,
+    "minimum_longitude": -64.8910137946018,
+    "maximum_longitude": -64.6828660277426
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

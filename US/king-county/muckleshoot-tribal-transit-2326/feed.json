@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Muckleshoot Tribal Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "King County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/muckleshoot-wa-us/muckleshoot-wa-us.zip",
+    "mdb_id": "mdb-2326",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Virginia Regional Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/vatransit-va-us/vatransit-va-us.zip",
+    "mdb_id": "mdb-621",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

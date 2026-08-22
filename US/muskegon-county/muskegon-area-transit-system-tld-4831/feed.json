@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Muskegon Area Transit System",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Muskegon County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://muskegon.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "tld-4831",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.132299,
+    "maximum_latitude": 43.24829,
+    "minimum_longitude": -86.335907,
+    "maximum_longitude": -86.171828
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

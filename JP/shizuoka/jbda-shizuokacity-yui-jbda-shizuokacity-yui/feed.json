@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "静岡市",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Shizuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/yui/files/feed.zip?rid=current",
+    "mdb_id": "jbda-shizuokacity-yui",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0814604484807,
+    "maximum_latitude": 35.1527896468489,
+    "minimum_longitude": 138.546092187337,
+    "maximum_longitude": 138.574874273344
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

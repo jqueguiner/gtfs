@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transp'Or - Pays de l'Or Agglomération",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Le Grau-du-Roi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/cf277982-b61f-4ba0-b47a-5f6df5394d38",
+    "mdb_id": "tdg-79551",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 43.672688,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 4.1282035183499
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

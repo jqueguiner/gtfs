@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regia Transport Electric Chișinău, Î.M. Parcul Urban de Autobuze",
+    "country": "MD",
+    "subdivision": "Chișinău Municipality",
+    "city": "Chișinău Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/chisinau/CHISINAU.zip",
+    "mdb_id": "mdb-2341",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.88323,
+    "maximum_latitude": 47.14711,
+    "minimum_longitude": 28.684298,
+    "maximum_longitude": 29.109
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

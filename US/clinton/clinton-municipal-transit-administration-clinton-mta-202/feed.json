@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Clinton Municipal Transit Administration (Clinton MTA)",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Clinton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/clintonmta-ia-us/clintonmta-ia-us.zip",
+    "mdb_id": "mdb-202",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

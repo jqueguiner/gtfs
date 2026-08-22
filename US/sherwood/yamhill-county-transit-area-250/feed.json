@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yamhill County Transit Area",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Sherwood"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://ycta.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "mdb-250",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

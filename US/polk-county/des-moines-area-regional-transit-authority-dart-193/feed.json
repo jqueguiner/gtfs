@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Des Moines Area Regional Transit Authority (DART)",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Polk County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ridedart.com/gtfs/data/gtfsdata",
+    "mdb_id": "mdb-193",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.511821,
+    "maximum_latitude": 41.732005,
+    "minimum_longitude": -93.809416,
+    "maximum_longitude": -93.503229
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

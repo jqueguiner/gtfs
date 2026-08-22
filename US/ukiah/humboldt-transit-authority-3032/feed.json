@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Humboldt Transit Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ukiah"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hta.optibus.co/public_api/v1/feeds/gtfs",
+    "mdb_id": "mdb-3032",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.1533019,
+    "maximum_latitude": 41.06145518545524,
+    "minimum_longitude": -124.223416986081,
+    "maximum_longitude": -123.19884215396728
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Flibco.com",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Lille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f389ca22-d36e-46f3-9e00-5be700c7139b",
+    "mdb_id": "tdg-83405",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

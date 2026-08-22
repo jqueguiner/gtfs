@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Comune di Marsala",
+    "country": "IT",
+    "subdivision": "Sicily",
+    "city": "Marsala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://marsala-api.cloud.municipiumapp.it/s3/3885/allegati/gtfs/comunedi-marsala-it.zip",
+    "mdb_id": "mdb-3201",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

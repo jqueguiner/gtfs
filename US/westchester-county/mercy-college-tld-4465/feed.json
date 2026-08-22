@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mercy College",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Westchester County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/mercy/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4465",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

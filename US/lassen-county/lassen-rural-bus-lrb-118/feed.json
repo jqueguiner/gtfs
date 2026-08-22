@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lassen Rural Bus (LRB)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Lassen County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lassen-ca-us/lassen-ca-us.zip",
+    "mdb_id": "mdb-118",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

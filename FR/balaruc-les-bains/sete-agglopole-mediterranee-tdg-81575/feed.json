@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sète Agglopole Méditerranée",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Balaruc-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9402f130-ac11-4615-8494-a5c84fcdb78c",
+    "mdb_id": "tdg-81575",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.307709,
+    "maximum_latitude": 43.515099,
+    "minimum_longitude": 3.522865,
+    "maximum_longitude": 3.811375
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southeastern Pennsylvania Transportation Authority (SEPTA)",
+    "country": "US",
+    "subdivision": "Delaware",
+    "city": "New Castle County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www3.septa.org/developer/google_rail.zip",
+    "mdb_id": "mdb-503",
+    "license": "https://www3.septa.org/developer/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

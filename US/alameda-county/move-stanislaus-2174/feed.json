@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MOVE Stanislaus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Alameda County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/movestanislaus-ca-us/movestanislaus-ca-us--flex-v2.zip",
+    "mdb_id": "mdb-2174",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.77304181138773,
+    "maximum_latitude": 38.57258200514849,
+    "minimum_longitude": -122.16031928717226,
+    "maximum_longitude": -119.77991647227012
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

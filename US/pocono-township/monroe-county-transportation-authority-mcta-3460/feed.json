@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Monroe County Transportation Authority (MCTA)",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Pocono Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ponytracker.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-3460",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.9825553894,
+    "maximum_latitude": 41.2190895081,
+    "minimum_longitude": -75.415588,
+    "maximum_longitude": -75.038175
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

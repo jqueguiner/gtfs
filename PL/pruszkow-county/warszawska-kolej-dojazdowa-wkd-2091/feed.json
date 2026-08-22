@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Warszawska Kolej Dojazdowa (WKD)",
+    "country": "PL",
+    "subdivision": "Masovian Voivodeship",
+    "city": "Pruszków County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/wkd.zip",
+    "mdb_id": "mdb-2091",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

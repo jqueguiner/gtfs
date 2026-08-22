@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "清瀬市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kiyose"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip?date=current",
+    "mdb_id": "odpt-KiyoseCity-KiyoBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.764,
+    "maximum_latitude": 35.78203,
+    "minimum_longitude": 139.49705,
+    "maximum_longitude": 139.52046
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

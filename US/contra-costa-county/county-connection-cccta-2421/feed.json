@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "County Connection (CCCTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Contra Costa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://countyconnection.com/GTFS/google_transit.zip",
+    "mdb_id": "mdb-2421",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.659113,
+    "maximum_latitude": 38.019406,
+    "minimum_longitude": -122.194317,
+    "maximum_longitude": -121.778125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

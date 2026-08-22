@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport Urban Sinaia",
+    "country": "RO",
+    "subdivision": "Prahova",
+    "city": "Prahova"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/sinaia/SINAIA.zip",
+    "mdb_id": "mdb-2114",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

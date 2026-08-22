@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Galesburg",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Knox County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gis.ci.galesburg.il.us/cityofgalesburg-il-us.zip",
+    "mdb_id": "ntd-50502",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

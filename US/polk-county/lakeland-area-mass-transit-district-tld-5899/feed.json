@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lakeland Area Mass Transit District",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Polk County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/citrusconn/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-5899",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "York Region Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Vaughan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.yrt.ca/google/google_transit.zip",
+    "mdb_id": "mdb-728",
+    "license": "https://www.yrt.ca/en/about-us/open-data-licence-agreement.aspx"
+  },
+  "bbox": {
+    "minimum_latitude": 43.729119,
+    "maximum_latitude": 44.32131,
+    "minimum_longitude": -79.659397,
+    "maximum_longitude": -79.212178
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Spokane Transit Authority (STA)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Spokane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spokanetransit.com/gtfs",
+    "mdb_id": "mdb-290",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.476684,
+    "maximum_latitude": 47.768885,
+    "minimum_longitude": -117.705755,
+    "maximum_longitude": -117.07599
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

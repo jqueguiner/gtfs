@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大玉村",
+    "country": "JP",
+    "subdivision": "Fukushima Prefecture",
+    "city": "Nihonmatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otamavillage/feeds/otamavillage-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-otamavillage-otamavillage-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.5140949923859,
+    "maximum_latitude": 37.5799748551426,
+    "minimum_longitude": 140.343943008404,
+    "maximum_longitude": 140.40409405537
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

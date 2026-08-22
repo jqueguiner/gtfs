@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mount Adams Transportation Service",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Klickitat County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/mountadams-wa-us/mountadams-wa-us.zip",
+    "mdb_id": "mdb-580",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.533467,
+    "maximum_latitude": 46.593247,
+    "minimum_longitude": -122.650095,
+    "maximum_longitude": -119.102094
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

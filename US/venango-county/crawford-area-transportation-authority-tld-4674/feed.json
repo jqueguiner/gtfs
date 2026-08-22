@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Crawford Area Transportation Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Venango County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://catabus.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4674",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

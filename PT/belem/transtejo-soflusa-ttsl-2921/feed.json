@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transtejo Soflusa (TTSL)",
+    "country": "PT",
+    "subdivision": "Lisbon",
+    "city": "Belém"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transtejo.pt/files/GTFS.zip",
+    "mdb_id": "mdb-2921",
+    "license": "https://docs.carrismetropolitana.pt/covered-area"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

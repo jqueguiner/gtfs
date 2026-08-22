@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mass Transportation Authority Flint",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Genesee County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/5191/google_transit.zip",
+    "mdb_id": "mdb-2287",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.517709,
+    "maximum_latitude": 43.133952,
+    "minimum_longitude": -84.00012,
+    "maximum_longitude": -83.304295
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

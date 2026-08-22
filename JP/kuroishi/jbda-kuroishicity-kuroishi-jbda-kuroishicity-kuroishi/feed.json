@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "黒石市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Kuroishi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kuroishicity/feeds/kuroishi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kuroishicity-kuroishi",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.631265,
+    "maximum_latitude": 40.666279,
+    "minimum_longitude": 140.57895,
+    "maximum_longitude": 140.608228
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

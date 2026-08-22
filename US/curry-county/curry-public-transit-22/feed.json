@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Curry Public Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Curry County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/currypublictransit-or-us/currypublictransit-brookings-or-us.zip",
+    "mdb_id": "mdb-22",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

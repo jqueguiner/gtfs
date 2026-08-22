@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Gabriola Community Shuttle",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Area B (DeCourcy/Gabriola/Mudge)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bctracker.ca/feeds/gabriola/gabriola-feed.zip",
+    "mdb_id": "tld-6756",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.128238,
+    "maximum_latitude": 49.199408,
+    "minimum_longitude": -123.870677,
+    "maximum_longitude": -123.702064
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

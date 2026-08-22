@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Martinique Transport",
+    "country": "FR",
+    "subdivision": "CA du Pays Nord Martinique",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/82481c27-2e52-40ef-a563-b011ba487ead",
+    "mdb_id": "tdg-80606",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 14.6007,
+    "maximum_latitude": 14.8771,
+    "minimum_longitude": -61.2288,
+    "maximum_longitude": -60.8968
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

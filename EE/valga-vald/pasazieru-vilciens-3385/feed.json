@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pasažieru Vilciens",
+    "country": "EE",
+    "subdivision": "Valga maakond",
+    "city": "Valga vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://vivi.lv/uploads/GTFS.zip",
+    "mdb_id": "mdb-3385",
+    "license": "https://data.gov.lv/dati/eng/dataset/iekszemes-dzelzcela-vilcienu-kustibas-saraksts-gtfs-formata"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

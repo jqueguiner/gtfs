@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA Metro-North Railroad",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Bronx County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Hudson_Rail_Link.zip",
+    "mdb_id": "tld-5788",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

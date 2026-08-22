@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mâconnais Beaujolais Agglomération",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Sancé"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/92b18bc7-cd60-41f5-9af7-978eacbe0691",
+    "mdb_id": "tdg-84097",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.122394,
+    "maximum_latitude": 46.506984,
+    "minimum_longitude": 4.430922,
+    "maximum_longitude": 4.914892
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

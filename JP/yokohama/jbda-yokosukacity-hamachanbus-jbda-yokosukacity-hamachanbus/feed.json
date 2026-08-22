@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "横須賀市",
+    "country": "JP",
+    "subdivision": "Kanagawa Prefecture",
+    "city": "Yokohama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yokosukacity/feeds/hamachanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yokosukacity-hamachanbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

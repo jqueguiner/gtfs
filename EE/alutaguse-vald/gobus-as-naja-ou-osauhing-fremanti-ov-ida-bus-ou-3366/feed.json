@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GoBus AS, NAJA OÜ, OSAÜHING FREMANTI, OV Ida-Bus OÜ",
+    "country": "EE",
+    "subdivision": "Ida-Viru maakond",
+    "city": "Alutaguse vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/kohtla_jarve.zip",
+    "mdb_id": "mdb-3366",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": {
+    "minimum_latitude": 58.9843861,
+    "maximum_latitude": 59.4634758,
+    "minimum_longitude": 26.7881726,
+    "maximum_longitude": 28.2024793
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "土佐市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Ino"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TosaCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-TosaCity-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 33.432002,
+    "maximum_latitude": 33.547838,
+    "minimum_longitude": 133.336277,
+    "maximum_longitude": 133.465546
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

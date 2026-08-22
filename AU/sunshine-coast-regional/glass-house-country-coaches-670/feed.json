@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Glass House Country Coaches",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Sunshine Coast Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/MAL_GTFS.zip",
+    "mdb_id": "mdb-670",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

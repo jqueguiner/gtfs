@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MRC de Montcalm",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Saint-Lin–Laurentides"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=mrc-montcalm",
+    "mdb_id": "tld-5869",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

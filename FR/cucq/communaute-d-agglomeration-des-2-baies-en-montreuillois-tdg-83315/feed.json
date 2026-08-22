@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "COMMUNAUTE D'AGGLOMERATION DES 2 BAIES EN MONTREUILLOIS",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Cucq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/db348d20-dc9a-48c7-8120-30afa160a921",
+    "mdb_id": "tdg-83315",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 1.59428,
+    "maximum_latitude": 50.57546,
+    "minimum_longitude": 1.56201,
+    "maximum_longitude": 50.48467
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

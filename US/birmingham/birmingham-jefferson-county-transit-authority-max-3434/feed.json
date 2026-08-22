@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Birmingham Jefferson County Transit Authority (MAX)",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Birmingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://maxtransit.org/GTFS/2026/google_transit_Working.zip",
+    "mdb_id": "mdb-3434",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

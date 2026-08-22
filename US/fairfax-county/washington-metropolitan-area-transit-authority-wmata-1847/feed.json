@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Washington Metropolitan Area Transit Authority (WMATA)",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Fairfax County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.wmata.com/gtfs/rail-gtfs-static.zip",
+    "mdb_id": "mdb-1847",
+    "license": "https://developer.wmata.com/license"
+  },
+  "bbox": {
+    "minimum_latitude": 38.76620236,
+    "maximum_latitude": 39.12042311,
+    "minimum_longitude": -77.49194154,
+    "maximum_longitude": -76.84419721
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

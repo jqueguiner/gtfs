@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport of Rockland",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Rockland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/TOR_Transport_of_Rockland.zip",
+    "mdb_id": "tld-3368",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

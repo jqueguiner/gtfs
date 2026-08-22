@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Housatonic Area Regional Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Putnam County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/hart/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4385",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

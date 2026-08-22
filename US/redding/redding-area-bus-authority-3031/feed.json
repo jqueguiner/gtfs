@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Redding Area Bus Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Redding"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/redding_area_bus_authority.zip",
+    "mdb_id": "mdb-3031",
+    "license": "https://rabaride.com/resources/about_raba/index.php#collapselinks-18-50b1"
+  },
+  "bbox": {
+    "minimum_latitude": 38.5846714,
+    "maximum_latitude": 40.937346,
+    "minimum_longitude": -122.590394,
+    "maximum_longitude": -121.5014953
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

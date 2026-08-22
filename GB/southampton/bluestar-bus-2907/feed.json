@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bluestar Bus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Southampton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/bluestar/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2907",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.720733376,
+    "maximum_latitude": 51.10700917,
+    "minimum_longitude": -1.798802043,
+    "maximum_longitude": -1.095105109
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

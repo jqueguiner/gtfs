@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上越市",
+    "country": "JP",
+    "subdivision": "Niigata Prefecture",
+    "city": "Joetsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/joetsucity/feeds/joetsu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-joetsucity-joetsu",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 37.03848,
+    "maximum_latitude": 37.1902084047279,
+    "minimum_longitude": 138.086989241998,
+    "maximum_longitude": 138.543719139027
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

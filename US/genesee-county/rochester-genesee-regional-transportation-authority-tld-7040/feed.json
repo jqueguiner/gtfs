@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester-Genesee Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Genesee County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scheduledata.rgrta.com/Regionals/Genesee.zip",
+    "mdb_id": "tld-7040",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.977355,
+    "maximum_latitude": 43.015756,
+    "minimum_longitude": -78.234449,
+    "maximum_longitude": -77.982494
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

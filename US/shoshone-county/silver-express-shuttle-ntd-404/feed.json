@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Silver Express Shuttle",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Shoshone County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11688/shoshone-idaho-id-us.zip",
+    "mdb_id": "ntd-404",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.4705687,
+    "maximum_latitude": 47.5485792,
+    "minimum_longitude": -116.2708291,
+    "maximum_longitude": -115.8009106
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

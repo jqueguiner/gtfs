@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metrobus Transit",
+    "country": "CA",
+    "subdivision": "Newfoundland and Labrador",
+    "city": "St. John's"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.metrobustransit.ca/google/google_transit.zip",
+    "mdb_id": "mdb-758",
+    "license": "https://metrobus.com/gtfs.asp"
+  },
+  "bbox": {
+    "minimum_latitude": 47.436518,
+    "maximum_latitude": 47.619686,
+    "minimum_longitude": -52.872087,
+    "maximum_longitude": -52.67875
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

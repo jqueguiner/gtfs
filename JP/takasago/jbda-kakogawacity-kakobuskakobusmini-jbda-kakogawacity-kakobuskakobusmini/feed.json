@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "加古川市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Takasago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kakogawacity/feeds/kakobuskakobusmini/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kakogawacity-kakobuskakobusmini",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.71904,
+    "maximum_latitude": 34.83969,
+    "minimum_longitude": 134.794784,
+    "maximum_longitude": 134.89576
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fort Worth Transit Authority",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Fort Worth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://sched.ridetm.org/gtfs/fwtatransitdata.zip",
+    "mdb_id": "mdb-885",
+    "license": "https://ridetrinitymetro.org/gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mid Mon Valley Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "California"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mmvta.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-5503",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.026674,
+    "maximum_latitude": 40.454161,
+    "minimum_longitude": -80.033009,
+    "maximum_longitude": -79.840492
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

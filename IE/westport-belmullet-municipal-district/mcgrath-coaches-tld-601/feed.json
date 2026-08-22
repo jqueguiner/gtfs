@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "McGrath Coaches",
+    "country": "IE",
+    "subdivision": "Connacht",
+    "city": "Westport-Belmullet Municipal District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.transportforireland.ie/transitData/Data/GTFS_McGrath.zip",
+    "mdb_id": "tld-601",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

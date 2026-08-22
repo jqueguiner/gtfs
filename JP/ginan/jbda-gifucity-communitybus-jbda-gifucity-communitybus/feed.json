@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "岐阜市",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Ginan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gifucity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-gifucity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.3571619564312,
+    "maximum_latitude": 35.514732003,
+    "minimum_longitude": 136.693638421,
+    "maximum_longitude": 136.873925341
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

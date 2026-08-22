@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vy Bus4You",
+    "country": "SE",
+    "subdivision": "Skåne County",
+    "city": "Skåne County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vy-bus4you/vy-bus4you.zip",
+    "mdb_id": "mdb-3287",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

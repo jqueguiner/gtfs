@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cuttyhunk Ferry Company",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "New Bedford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/cuttyhunkferryco-ma-us/cuttyhunkferryco-ma-us.zip",
+    "mdb_id": "mdb-423",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

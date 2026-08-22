@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Navajo Transit System",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Apache County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/5372/Navajo_Transit_GTFS.zip",
+    "mdb_id": "mdb-2346",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.196826,
+    "maximum_latitude": 36.8055,
+    "minimum_longitude": -110.32981,
+    "maximum_longitude": -108.227874
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

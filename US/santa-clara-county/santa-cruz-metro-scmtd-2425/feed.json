@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Santa Cruz Metro (SCMTD)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://developer.scmetro.org/gtfs.zip",
+    "mdb_id": "mdb-2425",
+    "license": "https://developer.scmetro.org/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.90448,
+    "maximum_latitude": 37.338436,
+    "minimum_longitude": -122.222061,
+    "maximum_longitude": -121.732437
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

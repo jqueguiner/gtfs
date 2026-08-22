@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Salisbury Reds",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wiltshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/salisburyreds/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1950",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.71871103,
+    "maximum_latitude": 51.563506219,
+    "minimum_longitude": -2.407246636,
+    "maximum_longitude": -1.405419944
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

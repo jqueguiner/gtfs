@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sandusky Transit System",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Erie County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mjcaction.com/MJC_GTFS_Public/sandusky_google_transit.zip",
+    "mdb_id": "tld-1213_1",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.384902,
+    "maximum_latitude": 41.460442,
+    "minimum_longitude": -82.751271,
+    "maximum_longitude": -82.596655
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

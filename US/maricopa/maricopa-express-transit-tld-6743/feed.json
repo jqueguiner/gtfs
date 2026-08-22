@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Maricopa Express Transit",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Maricopa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11713/met_gtfs.zip",
+    "mdb_id": "tld-6743",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.037975,
+    "maximum_latitude": 33.074093,
+    "minimum_longitude": -112.046706,
+    "maximum_longitude": -111.994399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

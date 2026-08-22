@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bettendorf Transit",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Moline"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/bettendorf-ia-us/bettendorf-ia-us.zip",
+    "mdb_id": "mdb-1826",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.507266998291016,
+    "maximum_latitude": 41.59014689186297,
+    "minimum_longitude": -90.52239422,
+    "maximum_longitude": -90.44157409667967
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

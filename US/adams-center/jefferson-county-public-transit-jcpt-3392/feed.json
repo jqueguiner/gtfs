@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jefferson County Public Transit (JCPT)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Adams Center"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.gtfsfoundry.com/feeds/JCPT-NY-045/static.zip",
+    "mdb_id": "mdb-3392",
+    "license": "https://proxy.busone.app/cotral/readme"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

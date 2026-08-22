@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Indian River Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Indian River County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ftis.org/ftde/40104-IndianRiverTransit/gtfs.zip",
+    "mdb_id": "ntd-40104",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 27.415515,
+    "maximum_latitude": 27.844513,
+    "minimum_longitude": -80.6073036697,
+    "maximum_longitude": -80.355516
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

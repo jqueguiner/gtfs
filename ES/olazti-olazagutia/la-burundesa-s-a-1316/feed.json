@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "La Burundesa S.A.",
+    "country": "ES",
+    "subdivision": "Navarre",
+    "city": "Olazti/Olazagutía"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/la-burundesa/658/20220922/gtfs.zip",
+    "mdb_id": "mdb-1316",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 43.294793,
+    "minimum_longitude": -2.200289,
+    "maximum_longitude": 0.0
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

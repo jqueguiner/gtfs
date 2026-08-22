@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Adelaide Metro",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "city": "City of Mitcham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.adelaidemetro.com.au/v1/static/latest/google_transit.zip",
+    "mdb_id": "mdb-660",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -37.847791,
+    "maximum_latitude": -32.12521,
+    "minimum_longitude": 133.67641,
+    "maximum_longitude": 140.986893
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

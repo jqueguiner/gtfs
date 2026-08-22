@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Pays de Saint-Omer",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Saint-Omer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/78d8705c-bcb9-40aa-98b7-2486ffe9fee5",
+    "mdb_id": "tdg-83988",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 50.6079,
+    "maximum_latitude": 50.769533,
+    "minimum_longitude": 2.208217,
+    "maximum_longitude": 2.488208
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

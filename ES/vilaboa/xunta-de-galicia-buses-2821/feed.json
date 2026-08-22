@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Xunta de Galicia Buses",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "city": "Vilaboa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1584",
+    "mdb_id": "mdb-2821",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.814354893115,
+    "maximum_latitude": 43.7420085769552,
+    "minimum_longitude": -9.27177144277142,
+    "maximum_longitude": -6.80641828530967
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

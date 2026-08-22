@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西宮市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kobe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishinomiyacity/feeds/sakurayamanami/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nishinomiyacity-sakurayamanami",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.738291,
+    "maximum_latitude": 34.844191,
+    "minimum_longitude": 135.234919,
+    "maximum_longitude": 135.356846
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

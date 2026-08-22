@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Regional Municipality of Wood Buffalo Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Fort McMurray"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rmwb-gtfsrt.civilia.ca/gtfs",
+    "mdb_id": "tld-4690",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 56.65388779,
+    "maximum_latitude": 56.788512,
+    "minimum_longitude": -111.4841937,
+    "maximum_longitude": -111.3264264
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

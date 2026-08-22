@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Streamline",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Gallatin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/streamlinetransit-mt-us/streamlinetransit-mt-us.zip",
+    "mdb_id": "mdb-295",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.65537540231108,
+    "maximum_latitude": 45.78269880797242,
+    "minimum_longitude": -111.1849853600316,
+    "maximum_longitude": -110.57194982250051
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

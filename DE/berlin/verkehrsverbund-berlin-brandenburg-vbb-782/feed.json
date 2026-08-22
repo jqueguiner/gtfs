@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Berlin-Brandenburg (VBB)",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://vbb.de/vbbgtfs",
+    "mdb_id": "mdb-782",
+    "license": "http://vbb.de/vbbgtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 50.839245,
+    "maximum_latitude": 54.30851,
+    "minimum_longitude": 10.545743,
+    "maximum_longitude": 17.037088
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

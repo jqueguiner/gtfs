@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oklahoma State University -Stillwater Community Transit",
+    "country": "US",
+    "subdivision": "Oklahoma",
+    "city": "Stillwater"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://shuttle.okstate.edu/gtfs_google/gtfs.zip",
+    "mdb_id": "ntd-60160",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.101317,
+    "maximum_latitude": 36.173931,
+    "minimum_longitude": -97.119851,
+    "maximum_longitude": -97.016113
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

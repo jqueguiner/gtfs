@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Gap-Tallard-Durance",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Gap"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/78b7910e-1e31-4f47-b0a8-949647205ffa",
+    "mdb_id": "tdg-81547",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.48420346,
+    "maximum_latitude": 44.58155,
+    "minimum_longitude": 6.031117,
+    "maximum_longitude": 6.121213
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

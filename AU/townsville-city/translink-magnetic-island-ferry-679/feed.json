@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Translink Magnetic Island Ferry",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Townsville City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/MIF_GTFS.zip",
+    "mdb_id": "mdb-679",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/a7a3282c-ce87-4b4e-8b7b-70a4cc081ed6?truncate=30&inner_span=True"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

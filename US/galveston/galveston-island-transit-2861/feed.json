@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Galveston Island Transit",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Galveston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/island_transit_us.zip",
+    "mdb_id": "mdb-2861",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 29.2560086,
+    "maximum_latitude": 29.3266312,
+    "minimum_longitude": -94.8564033,
+    "maximum_longitude": -94.769513
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

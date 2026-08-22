@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Milton-Freewater Public Transportation",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Umatilla County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/ctuir-or-us/ctuir-or-us.zip",
+    "mdb_id": "mdb-2189",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.3193040477042,
+    "maximum_latitude": 46.0661407,
+    "minimum_longitude": -119.70185539526616,
+    "maximum_longitude": -118.077631
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

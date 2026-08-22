@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mikkeli",
+    "country": "FI",
+    "subdivision": "South Savo",
+    "city": "Juva"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tvv.fra1.digitaloceanspaces.com/227.zip",
+    "mdb_id": "mdb-1130",
+    "license": "https://opendata.waltti.fi/docs#gtfs-packages"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

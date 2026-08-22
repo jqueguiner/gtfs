@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JR東日本盛岡支社",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Sotogahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/jr-east-morioka/feeds/JR-east_tsugaruline/files/feed.zip?rid=current",
+    "mdb_id": "jbda-jr-east-morioka-JR-east_tsugaruline",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 41.03843,
+    "maximum_latitude": 41.1934418645856,
+    "minimum_longitude": 140.437734737086,
+    "maximum_longitude": 140.64306
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

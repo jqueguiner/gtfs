@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "LOIRE FOREZ AGGLOMERATION",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Savigneux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4536fa0a-b880-47ba-9f94-42a6303e584b",
+    "mdb_id": "tdg-81539",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.48868,
+    "maximum_latitude": 45.61492,
+    "minimum_longitude": 4.0474102,
+    "maximum_longitude": 4.2649008
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

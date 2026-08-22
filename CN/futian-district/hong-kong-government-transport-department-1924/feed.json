@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hong Kong Government Transport Department",
+    "country": "CN",
+    "subdivision": "Guangdong Province",
+    "city": "Futian District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gov.hk/td/pt-headway-en/gtfs.zip",
+    "mdb_id": "mdb-1924",
+    "license": "https://data.gov.hk/en/terms-and-conditions"
+  },
+  "bbox": {
+    "minimum_latitude": 22.16334,
+    "maximum_latitude": 22.55463,
+    "minimum_longitude": 113.86066,
+    "maximum_longitude": 114.43347
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

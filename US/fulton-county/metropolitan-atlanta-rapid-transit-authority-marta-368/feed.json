@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metropolitan Atlanta Rapid Transit Authority (MARTA)",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Fulton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.itsmarta.com/google_transit_feed/google_transit.zip",
+    "mdb_id": "mdb-368",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.432372,
+    "maximum_latitude": 34.105573,
+    "minimum_longitude": -84.669803,
+    "maximum_longitude": -84.083398
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

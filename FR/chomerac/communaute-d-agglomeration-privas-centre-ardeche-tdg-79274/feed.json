@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Privas Centre Ardèche",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Chomérac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/360ad21a-9f4b-41bc-8bbe-a9299eb0f453",
+    "mdb_id": "tdg-79274",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.694342,
+    "maximum_latitude": 44.8323,
+    "minimum_longitude": 4.5391982,
+    "maximum_longitude": 4.80923
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

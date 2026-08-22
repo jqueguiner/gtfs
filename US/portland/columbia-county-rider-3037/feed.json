@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Columbia County Rider",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Portland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/columbiacounty-or-us/columbiacounty-or-us--flex-v2.zip",
+    "mdb_id": "mdb-3037",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

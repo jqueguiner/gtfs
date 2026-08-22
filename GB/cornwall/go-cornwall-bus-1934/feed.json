@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Go Cornwall Bus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cornwall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/gocornwallbus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1934",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 49.968981698,
+    "maximum_latitude": 50.998770279,
+    "minimum_longitude": -5.709378024,
+    "maximum_longitude": -3.99636366
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

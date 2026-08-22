@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本電鉄",
+    "country": "JP",
+    "subdivision": "Kumamoto Prefecture",
+    "city": "Kikuchi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kumamotodentetsu/feeds/kumamotodentetsu-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kumamotodentetsu-kumamotodentetsu-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

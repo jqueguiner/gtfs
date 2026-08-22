@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brest métropole",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Brest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/583d1419-058b-481b-b378-449cab744c82",
+    "mdb_id": "tdg-43286",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

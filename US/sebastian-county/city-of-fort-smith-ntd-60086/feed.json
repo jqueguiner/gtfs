@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Fort Smith",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "city": "Sebastian County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11783/FST_GTFS.zip",
+    "mdb_id": "ntd-60086",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.291551,
+    "maximum_latitude": 35.429409,
+    "minimum_longitude": -94.431808,
+    "maximum_longitude": -94.29935
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hubli Dharwad Bus Rapid Transit System Company Ltd.",
+    "country": "IN",
+    "subdivision": "Karnataka",
+    "city": "Dharawada taluku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/croyla/hdbrts-gtfs/raw/refs/heads/main/gtfs_compat.zip",
+    "mdb_id": "mdb-3141",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 15.223013,
+    "maximum_latitude": 15.5851235591514,
+    "minimum_longitude": 74.881668,
+    "maximum_longitude": 75.280637
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

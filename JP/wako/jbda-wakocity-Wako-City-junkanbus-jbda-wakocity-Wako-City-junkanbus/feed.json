@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "和光市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Wako"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/wakocity/feeds/Wako-City-junkanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-wakocity-Wako-City-junkanbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.76975,
+    "maximum_latitude": 35.802957,
+    "minimum_longitude": 139.600013,
+    "maximum_longitude": 139.638768
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

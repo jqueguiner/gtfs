@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "神河町",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kamikawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hyogo-kamikawatown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hyogo-kamikawatown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.044368,
+    "maximum_latitude": 35.168932,
+    "minimum_longitude": 134.666977,
+    "maximum_longitude": 134.880883
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

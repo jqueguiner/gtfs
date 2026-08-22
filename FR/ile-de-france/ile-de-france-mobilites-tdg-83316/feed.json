@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Île-de-France Mobilités",
+    "country": "FR",
+    "subdivision": "Île-de-France",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/781d4194-6721-4ee6-bc67-65a4181381aa",
+    "mdb_id": "tdg-83316",
+    "license": "https://wiki.lafabriquedesmobilites.fr/wiki/Licence_Mobilit%C3%A9s"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

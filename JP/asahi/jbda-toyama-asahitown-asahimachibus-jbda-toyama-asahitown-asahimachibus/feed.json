@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "富山県朝日町",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Asahi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyama-asahitown/feeds/asahimachibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyama-asahitown-asahimachibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.85715204,
+    "maximum_latitude": 36.98358044,
+    "minimum_longitude": 137.53415108,
+    "maximum_longitude": 137.65847683
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

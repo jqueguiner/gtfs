@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Regina",
+    "country": "CA",
+    "subdivision": "Saskatchewan",
+    "city": "Regina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opengis.regina.ca/reginagtfs/google_transit.zip",
+    "mdb_id": "mdb-715",
+    "license": "https://open.regina.ca/pages/terms-of-use"
+  },
+  "bbox": {
+    "minimum_latitude": 50.40078,
+    "maximum_latitude": 50.50887,
+    "minimum_longitude": -104.751495,
+    "maximum_longitude": -104.503773
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

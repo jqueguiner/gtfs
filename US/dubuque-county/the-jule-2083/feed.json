@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "The Jule",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Dubuque County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.cityofdubuque.org/gtfs/google_transit.zip",
+    "mdb_id": "mdb-2083",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.47547,
+    "maximum_latitude": 42.571379,
+    "minimum_longitude": -90.775579,
+    "maximum_longitude": -90.6414717080079
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

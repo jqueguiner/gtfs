@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pasco County Public Transportation",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Pasco County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/pascocountypublictransit-fl-us/pascocountypublictransit-fl-us.zip",
+    "mdb_id": "mdb-340",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 28.14146,
+    "maximum_latitude": 28.465932,
+    "minimum_longitude": -82.758257,
+    "maximum_longitude": -82.171175
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

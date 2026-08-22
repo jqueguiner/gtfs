@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "小豆島オリーブバス株式会社",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Shodoshima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/ShodoshimaOliveBus/AllLines.zip?date=current",
+    "mdb_id": "odpt-ShodoshimaOliveBus-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.428348,
+    "maximum_latitude": 34.561082,
+    "minimum_longitude": 134.061167,
+    "maximum_longitude": 134.357057
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Liepājas sabiedriskais transports",
+    "country": "LV",
+    "subdivision": "Courland",
+    "city": "Liepaja"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.marsruti.lv/liepaja/liepaja/gtfs.zip",
+    "mdb_id": "mdb-2016",
+    "license": "https://judu.lt/wp-content/uploads/2022/03/Duomenu-naudojimo-salygos-lt.pdf"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

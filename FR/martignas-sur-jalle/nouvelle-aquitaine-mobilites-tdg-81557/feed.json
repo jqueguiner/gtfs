@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Martignas-sur-Jalle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6fa85772-cc88-43ae-88b9-290e2f9345ff",
+    "mdb_id": "tdg-81557",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.732327,
+    "maximum_latitude": 44.839966,
+    "minimum_longitude": -0.795082,
+    "maximum_longitude": -0.64104
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

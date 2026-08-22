@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "かつらぎ町",
+    "country": "JP",
+    "subdivision": "Wakayama Prefecture",
+    "city": "Katsuragi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/katsuragitown/feeds/community-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-katsuragitown-community-bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

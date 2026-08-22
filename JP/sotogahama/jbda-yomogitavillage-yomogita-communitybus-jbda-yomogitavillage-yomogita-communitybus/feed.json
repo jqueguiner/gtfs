@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "蓬田村",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Sotogahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yomogitavillage/feeds/yomogita-communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yomogitavillage-yomogita-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

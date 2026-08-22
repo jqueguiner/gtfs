@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Wheatland Ferry",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Marion County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/wheatlandferry-or-us/wheatlandferry-or-us.zip",
+    "mdb_id": "mdb-833",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.08997382091897,
+    "maximum_latitude": 45.090567883322905,
+    "minimum_longitude": -123.04626041367534,
+    "maximum_longitude": -123.0442246556226
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

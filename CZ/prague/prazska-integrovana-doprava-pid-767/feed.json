@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Prazska integrovana doprava (PID)",
+    "country": "CZ",
+    "subdivision": "Hlavní město Praha",
+    "city": "Prague"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.pid.cz/PID_GTFS.zip",
+    "mdb_id": "mdb-767",
+    "license": "https://pid.cz/o-systemu/opendata/"
+  },
+  "bbox": {
+    "minimum_latitude": 49.013668,
+    "maximum_latitude": 50.956219,
+    "minimum_longitude": 12.864244,
+    "maximum_longitude": 15.908509
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

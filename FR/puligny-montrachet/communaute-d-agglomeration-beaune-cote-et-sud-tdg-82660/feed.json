@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Beaune Côte et Sud",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Puligny-Montrachet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/c00d487c-4766-4ca1-b736-e7de110331d9",
+    "mdb_id": "tdg-82660",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

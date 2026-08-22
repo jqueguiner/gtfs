@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Flixbus France",
+    "country": "FR",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/30d94e83-48a4-4c44-8a96-c082377f5221",
+    "mdb_id": "tdg-11681",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.126004,
+    "maximum_latitude": 66.558212,
+    "minimum_longitude": -9.394962,
+    "maximum_longitude": 36.39831
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

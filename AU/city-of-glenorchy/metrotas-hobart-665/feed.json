@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MetroTas Hobart",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "city": "City of Glenorchy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.metrotas.com.au/wp-content/uploads/transit/Hobart/google_transit.zip",
+    "mdb_id": "mdb-665",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -43.31239511583733,
+    "maximum_latitude": -41.04707909408461,
+    "minimum_longitude": 145.318106,
+    "maximum_longitude": 148.303394
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

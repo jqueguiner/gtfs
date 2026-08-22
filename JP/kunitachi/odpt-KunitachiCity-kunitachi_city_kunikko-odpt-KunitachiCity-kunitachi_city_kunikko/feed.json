@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "国立市道路交通課",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Kunitachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KunitachiCity/kunitachi_city_kunikko.zip?date=current",
+    "mdb_id": "odpt-KunitachiCity-kunitachi_city_kunikko",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.682914,
+    "maximum_latitude": 35.700486,
+    "minimum_longitude": 139.429484,
+    "maximum_longitude": 139.446268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

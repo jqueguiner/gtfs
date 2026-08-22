@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "伊万里市",
+    "country": "JP",
+    "subdivision": "Saga Prefecture",
+    "city": "Imari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/imaricity/feeds/imarinbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-imaricity-imarinbus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.258748,
+    "maximum_latitude": 33.334818,
+    "minimum_longitude": 129.778876,
+    "maximum_longitude": 129.903213
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

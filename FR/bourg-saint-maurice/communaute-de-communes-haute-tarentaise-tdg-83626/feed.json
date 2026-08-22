@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes Haute-Tarentaise",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Bourg-Saint-Maurice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83626/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83626",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 45.62414194,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 6.835
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

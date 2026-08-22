@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "とさでん交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tosaden-kotsu/feeds/GTFS-Tosadentraffic_Regularbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tosaden-kotsu-GTFS-Tosadentraffic_Regularbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.493406,
+    "maximum_latitude": 33.621327,
+    "minimum_longitude": 133.409586,
+    "maximum_longitude": 133.74385
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

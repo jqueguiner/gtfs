@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes Chinon Vienne et Loire",
+    "country": "FR",
+    "subdivision": "Centre-Loire Valley",
+    "city": "Beaumont-en-Véron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/6348dadb-600c-42c8-bbea-f6ac09505ed3",
+    "mdb_id": "tdg-82150",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.163436,
+    "maximum_latitude": 47.28484,
+    "minimum_longitude": 0.156412,
+    "maximum_longitude": 0.291587
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

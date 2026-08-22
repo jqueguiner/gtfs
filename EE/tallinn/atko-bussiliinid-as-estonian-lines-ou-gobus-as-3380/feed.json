@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Atko Bussiliinid AS, Estonian Lines OÜ, GoBus AS",
+    "country": "EE",
+    "subdivision": "Harju maakond",
+    "city": "Tallinn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/viljandimaa.zip",
+    "mdb_id": "mdb-3380",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

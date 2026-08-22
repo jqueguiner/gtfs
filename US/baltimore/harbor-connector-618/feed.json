@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Harbor Connector",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Baltimore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/harborconnector-md-us/harborconnector-md-us.zip",
+    "mdb_id": "mdb-618",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.26628009354303,
+    "maximum_latitude": 39.285809085,
+    "minimum_longitude": -76.611541105,
+    "maximum_longitude": -76.5740556363514
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

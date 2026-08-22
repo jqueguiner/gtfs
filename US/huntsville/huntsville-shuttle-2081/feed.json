@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Huntsville Shuttle",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Huntsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://maps.huntsvilleal.gov/googletransit/google_transit.zip",
+    "mdb_id": "mdb-2081",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.612312,
+    "maximum_latitude": 34.793232,
+    "minimum_longitude": -86.689023,
+    "maximum_longitude": -86.537425
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

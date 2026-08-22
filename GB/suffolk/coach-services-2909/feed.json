@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Coach Services",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Suffolk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/coachservices/dataset/current/download/gtfs",
+    "mdb_id": "mdb-2909",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.2326232,
+    "maximum_latitude": 52.7569115,
+    "minimum_longitude": 0.3892492,
+    "maximum_longitude": 1.3068434
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

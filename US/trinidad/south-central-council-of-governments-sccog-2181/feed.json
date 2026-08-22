@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Central Council of Governments (SCCOG)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Trinidad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sccog-co-us/sccog-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2181",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

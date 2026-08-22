@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dartmouth College",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Grafton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/dartmouth-vt-us/dartmouth-vt-us.zip",
+    "mdb_id": "mdb-1958",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.669899186438016,
+    "maximum_latitude": 43.70807,
+    "minimum_longitude": -72.29457,
+    "maximum_longitude": -72.26261294758413
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

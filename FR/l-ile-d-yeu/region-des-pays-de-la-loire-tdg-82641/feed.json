@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région des Pays de la Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "L'Île-d'Yeu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b57c66f2-ecaf-4934-a530-753bcb8aad04",
+    "mdb_id": "tdg-82641",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.725629,
+    "maximum_latitude": 46.893471,
+    "minimum_longitude": -2.347267,
+    "maximum_longitude": -2.139177
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

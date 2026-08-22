@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Translink Magnetic Island",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Townsville City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/MAG_GTFS.zip",
+    "mdb_id": "mdb-650",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/81030a70-b1e1-4cb1-b7ae-67051d1368e5"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

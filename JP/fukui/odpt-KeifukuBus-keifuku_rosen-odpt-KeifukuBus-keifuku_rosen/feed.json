@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "京福バス株式会社",
+    "country": "JP",
+    "subdivision": "Fukui Prefecture",
+    "city": "Fukui"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=current",
+    "mdb_id": "odpt-KeifukuBus-keifuku_rosen",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.1692955765385,
+    "maximum_latitude": 36.4021924981209,
+    "minimum_longitude": 136.011988047127,
+    "maximum_longitude": 136.884146759551
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

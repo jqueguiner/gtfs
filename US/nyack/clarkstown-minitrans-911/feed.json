@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clarkstown MiniTrans",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Nyack"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Clarkstown_Mini_Trans.zip",
+    "mdb_id": "mdb-911",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 41.078817,
+    "maximum_latitude": 41.184912,
+    "minimum_longitude": -74.031866,
+    "maximum_longitude": -73.928075
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

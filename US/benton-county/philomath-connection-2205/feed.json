@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Philomath Connection",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Benton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.corvallistransit.com/rtt/public/resource/gtfs_PC.zip",
+    "mdb_id": "mdb-2205",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.538806,
+    "maximum_latitude": 44.568894,
+    "minimum_longitude": -123.37697,
+    "maximum_longitude": -123.263223
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

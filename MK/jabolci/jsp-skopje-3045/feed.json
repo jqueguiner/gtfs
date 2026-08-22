@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "JSP Skopje",
+    "country": "MK",
+    "subdivision": "Municipality of Sopishte",
+    "city": "Jabolci"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.modeshift.app/api/v1/9814b106-2afe-47c8-919b-bdec6a5e521e/transport/gtfs/gtfs.zip",
+    "mdb_id": "mdb-3045",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.85380172729492,
+    "maximum_latitude": 43.855350494384766,
+    "minimum_longitude": 21.192293167114254,
+    "maximum_longitude": 25.966609954833984
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

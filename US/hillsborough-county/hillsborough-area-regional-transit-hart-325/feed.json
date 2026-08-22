@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Hillsborough Area Regional Transit (HART)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Hillsborough County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.gohart.org/google/google_transit.zip",
+    "mdb_id": "mdb-325",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 27.705746,
+    "maximum_latitude": 28.195777,
+    "minimum_longitude": -82.584559,
+    "maximum_longitude": -82.225979
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

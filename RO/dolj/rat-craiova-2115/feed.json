@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "RAT Craiova",
+    "country": "RO",
+    "subdivision": "Dolj",
+    "city": "Dolj"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/craiova/CRAIOVA.zip",
+    "mdb_id": "mdb-2115",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.2683,
+    "maximum_latitude": 44.39169,
+    "minimum_longitude": 23.718855,
+    "maximum_longitude": 23.886927
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

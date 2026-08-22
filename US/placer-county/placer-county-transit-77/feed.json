@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Placer County Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Placer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/placercounty-ca-us/placercounty-ca-us.zip",
+    "mdb_id": "mdb-77",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.5727195121879,
+    "maximum_latitude": 39.207120438024624,
+    "minimum_longitude": -121.503338951854,
+    "maximum_longitude": -120.81097209933117
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

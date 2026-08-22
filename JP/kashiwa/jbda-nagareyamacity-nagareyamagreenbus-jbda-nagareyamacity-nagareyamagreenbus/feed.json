@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "流山市",
+    "country": "JP",
+    "subdivision": "Chiba Prefecture",
+    "city": "Kashiwa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagareyamacity/feeds/nagareyamagreenbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagareyamacity-nagareyamagreenbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.8312758,
+    "maximum_latitude": 35.9147623,
+    "minimum_longitude": 139.8928524,
+    "maximum_longitude": 139.95386
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

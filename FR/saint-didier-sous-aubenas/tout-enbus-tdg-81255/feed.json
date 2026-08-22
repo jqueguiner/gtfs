@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tout'enbus",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Saint-Didier-sous-Aubenas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e91ff63e-2c15-4c86-8e69-499ceec7bd97",
+    "mdb_id": "tdg-81255",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

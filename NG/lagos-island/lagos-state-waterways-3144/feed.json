@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lagos State Waterways",
+    "country": "NG",
+    "subdivision": "Lagos",
+    "city": "Lagos Island"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lagosferries.com/gtfs.zip",
+    "mdb_id": "mdb-3144",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 6.2907986756471,
+    "maximum_latitude": 6.601832,
+    "minimum_longitude": 2.6233855442023355,
+    "maximum_longitude": 4.674969608516989
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

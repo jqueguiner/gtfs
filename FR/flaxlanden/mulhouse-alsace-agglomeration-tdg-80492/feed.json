@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mulhouse Alsace Agglomération",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Flaxlanden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7db50c2d-3fe4-4d3d-9942-57ac37c93a8d",
+    "mdb_id": "tdg-80492",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.674734,
+    "maximum_latitude": 47.872266,
+    "minimum_longitude": 7.093455,
+    "maximum_longitude": 7.548896
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

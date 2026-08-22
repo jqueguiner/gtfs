@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "RiverCities Transit (RCT)",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Cowlitz County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/rivercitiestransit-wa-us/rivercitiestransit-wa-us.zip",
+    "mdb_id": "mdb-259",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.69009392898282,
+    "maximum_latitude": 46.283358015664,
+    "minimum_longitude": -123.02336422038576,
+    "maximum_longitude": -122.66396482174392
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

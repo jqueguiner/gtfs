@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Moventis Sarbus (Buses Sarbus – La Vallesana)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1581",
+    "mdb_id": "mdb-2755",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.38483,
+    "maximum_latitude": 41.6838953523803,
+    "minimum_longitude": 1.91336461693736,
+    "maximum_longitude": 2.216299
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

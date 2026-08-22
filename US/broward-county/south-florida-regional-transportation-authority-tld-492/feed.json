@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "South Florida Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Broward County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.tri-rail.com/gtfs.zip",
+    "mdb_id": "tld-492",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 25.78096962,
+    "maximum_latitude": 26.75874329,
+    "minimum_longitude": -80.25962067,
+    "maximum_longitude": -80.06253815
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

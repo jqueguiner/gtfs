@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Benito County Express (SBCE)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Benito County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/sanbenitocounty-ca-us/sanbenitocounty-ca-us.zip",
+    "mdb_id": "mdb-58",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

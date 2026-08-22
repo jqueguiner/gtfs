@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Catalina Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Long Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/LACMTA/gtfs_lax/-/archive/master/gtfs_lax-master.zip?path=catalina_express",
+    "mdb_id": "mdb-299",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

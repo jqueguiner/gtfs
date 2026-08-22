@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "香取市",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Inashiki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/katoricity/feeds/katori-junkan/files/feed.zip?rid=current",
+    "mdb_id": "jbda-katoricity-katori-junkan",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.803048,
+    "maximum_latitude": 35.950939,
+    "minimum_longitude": 140.47947,
+    "maximum_longitude": 140.626152
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

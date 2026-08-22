@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "太田市",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Ota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gunma-otacity/feeds/ootacitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-gunma-otacity-ootacitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.2485058526563,
+    "maximum_latitude": 36.358872,
+    "minimum_longitude": 139.269791788498,
+    "maximum_longitude": 139.420011827126
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

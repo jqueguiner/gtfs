@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "St. Bernard Parish",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Arabi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11870/sbp_sburt_gtfs.zip",
+    "mdb_id": "ntd-60058",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 29.867768,
+    "maximum_latitude": 29.962052,
+    "minimum_longitude": -90.004577,
+    "maximum_longitude": -89.869885
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

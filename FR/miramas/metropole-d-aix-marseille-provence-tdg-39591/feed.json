@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole d'Aix-Marseille-Provence",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Miramas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/e8a86701-6359-45de-bee5-95e648ec04e3",
+    "mdb_id": "tdg-39591",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.330433,
+    "maximum_latitude": 43.69744894,
+    "minimum_longitude": 4.79286783,
+    "maximum_longitude": 5.43845638
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

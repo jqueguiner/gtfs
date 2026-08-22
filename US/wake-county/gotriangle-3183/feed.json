@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GoTriangle",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Wake County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gotriangle.org/gtfs",
+    "mdb_id": "mdb-3183",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.632754,
+    "maximum_latitude": 36.095602,
+    "minimum_longitude": -79.270028,
+    "maximum_longitude": -78.296822
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

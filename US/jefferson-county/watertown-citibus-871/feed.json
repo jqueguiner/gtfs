@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Watertown Citibus",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Watertown_Citibus.zip",
+    "mdb_id": "mdb-871",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.947218,
+    "maximum_latitude": 43.994343,
+    "minimum_longitude": -75.962603,
+    "maximum_longitude": -75.880326
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

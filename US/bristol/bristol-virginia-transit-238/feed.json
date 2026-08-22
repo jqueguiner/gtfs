@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bristol Virginia Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Bristol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/bristol-va-us/bristol-va-us.zip",
+    "mdb_id": "mdb-238",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

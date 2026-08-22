@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mountain View Transportation Management Association (MVgo)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Altos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.mvgo.org/gtfs.zip",
+    "mdb_id": "mdb-2880",
+    "license": "https://mvgo.org/developers/"
+  },
+  "bbox": {
+    "minimum_latitude": 37.387655512462,
+    "maximum_latitude": 37.4314288965063,
+    "minimum_longitude": -122.111623478335,
+    "maximum_longitude": -122.047760594783
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

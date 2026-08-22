@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "さいたま市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Saitama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/iwatsukikucommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-saitamacity-iwatsukikucommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.943848,
+    "maximum_latitude": 35.980888,
+    "minimum_longitude": 139.691357,
+    "maximum_longitude": 139.721697
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

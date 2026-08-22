@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Go North West",
+    "country": "GB",
+    "subdivision": "Manchester",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/gonorthwest/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1936",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

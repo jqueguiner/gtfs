@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transportes de Murcia (Grupo Ruiz)",
+    "country": "ES",
+    "subdivision": "Region of Murcia",
+    "city": "Murcia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1597",
+    "mdb_id": "mdb-2828",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 37.9465028822736,
+    "maximum_latitude": 38.0063673845889,
+    "minimum_longitude": -1.1990478297503,
+    "maximum_longitude": -1.09339316804217
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

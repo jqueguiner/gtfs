@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Giverny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/81177/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-81177",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.073833,
+    "maximum_latitude": 49.09575,
+    "minimum_longitude": 1.478897,
+    "maximum_longitude": 1.529622
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

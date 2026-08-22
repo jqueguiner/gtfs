@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Réseau de transport de la Capitale",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Quebec City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.rtcquebec.ca/Site_Internet/DonneesOuvertes/googletransit.zip",
+    "mdb_id": "mdb-757",
+    "license": "https://www.donneesquebec.ca/recherche/dataset/rtc-gtfs-arrets-et-les-parcours"
+  },
+  "bbox": {
+    "minimum_latitude": 46.734692,
+    "maximum_latitude": 46.938477,
+    "minimum_longitude": -71.472115,
+    "maximum_longitude": -71.149269
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

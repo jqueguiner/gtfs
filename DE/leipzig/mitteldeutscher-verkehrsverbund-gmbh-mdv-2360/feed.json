@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mitteldeutscher Verkehrsverbund GmbH (MDV)",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Leipzig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mdv.de/site/uploads/gtfs_mdv.zip",
+    "mdb_id": "mdb-2360",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.de"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

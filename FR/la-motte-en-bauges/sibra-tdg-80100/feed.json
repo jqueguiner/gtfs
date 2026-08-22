@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sibra",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "La Motte-en-Bauges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/8b12f6db-9aa7-43dc-a179-013998a1c4c0",
+    "mdb_id": "tdg-80100",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.6874086,
+    "maximum_latitude": 46.0368608,
+    "minimum_longitude": 5.9476862,
+    "maximum_longitude": 6.3268681
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

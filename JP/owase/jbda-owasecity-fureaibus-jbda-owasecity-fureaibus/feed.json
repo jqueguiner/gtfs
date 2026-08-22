@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "尾鷲市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Owase"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/owasecity/feeds/fureaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-owasecity-fureaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.964003,
+    "maximum_latitude": 34.11198,
+    "minimum_longitude": 136.172868,
+    "maximum_longitude": 136.299738
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

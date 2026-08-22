@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Quail Trail Public Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Klamath County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/quailtrail-or-us/quailtrail-or-us.zip",
+    "mdb_id": "mdb-1327",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

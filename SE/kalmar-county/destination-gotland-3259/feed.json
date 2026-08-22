@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Destination Gotland",
+    "country": "SE",
+    "subdivision": "Kalmar County",
+    "city": "Kalmar County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/dg/dg.zip",
+    "mdb_id": "mdb-3259",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

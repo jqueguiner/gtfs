@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SkyBus Hobart",
+    "country": "AU",
+    "subdivision": "Tasmania",
+    "city": "City of Hobart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://paueasasskybusgtfs.blob.core.windows.net/gtfs-live/TAS/gtfs.zip?sp=rl&st=2026-02-18T06:46:07Z&se=2027-02-28T15:01:07Z&spr=https&sv=2024-11-04&sr=c&sig=x%2FlTHzTlGBw5D1RxF3VDkcGPf5xYjRceeXAoOjzRfnM%3D",
+    "mdb_id": "mdb-3147",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -42.886107,
+    "maximum_latitude": -42.836814,
+    "minimum_longitude": 147.325031,
+    "maximum_longitude": 147.50457
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

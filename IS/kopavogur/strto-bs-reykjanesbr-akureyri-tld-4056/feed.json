@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Strætó BS, Reykjanesbær, Akureyri",
+    "country": "IS",
+    "subdivision": "Capital Region",
+    "city": "Kopavogur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.straeto.is/data/gtfs/gtfs.zip",
+    "mdb_id": "tld-4056",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 63.4176417832814,
+    "maximum_latitude": 66.157527,
+    "minimum_longitude": -24.000278,
+    "maximum_longitude": -13.668
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Gadsen",
+    "country": "US",
+    "subdivision": "Alabama",
+    "city": "Gadsden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://coggis.cityofgadsden.com/Public/Transportion/COG_trips.zip",
+    "mdb_id": "mdb-2419",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.974198,
+    "maximum_latitude": 34.047379,
+    "minimum_longitude": -86.067944,
+    "maximum_longitude": -85.949651
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

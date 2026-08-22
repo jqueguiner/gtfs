@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat mixte Atoumod",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Saint-Aubin-lès-Elbeuf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/81338/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-81338",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.1545143,
+    "maximum_latitude": 49.3247954,
+    "minimum_longitude": 1.0101051,
+    "maximum_longitude": 1.3530313
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

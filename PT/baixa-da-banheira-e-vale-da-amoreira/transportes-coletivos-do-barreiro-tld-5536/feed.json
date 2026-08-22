@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transportes Coletivos do Barreiro",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Baixa da Banheira e Vale da Amoreira"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tcbarreiro.pt/front/files/sample_gtfs/GTFS-TCB_24.zip",
+    "mdb_id": "tld-5536",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.57237735874504,
+    "maximum_latitude": 38.67366261617149,
+    "minimum_longitude": -9.08444344997406,
+    "maximum_longitude": -9.011852145195007
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

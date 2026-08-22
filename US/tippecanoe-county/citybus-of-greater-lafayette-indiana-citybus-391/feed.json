@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CityBus of Greater Lafayette Indiana (CityBus)",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Tippecanoe County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus.gocitybus.com/GTFSRT/citybus-lafayette-in-us.zip",
+    "mdb_id": "mdb-391",
+    "license": "https://gocitybus.com/terms-for-use"
+  },
+  "bbox": {
+    "minimum_latitude": 40.365249,
+    "maximum_latitude": 40.4807968413885,
+    "minimum_longitude": -86.96219622407,
+    "maximum_longitude": -86.804833
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maryland Transit Administration",
+    "country": "US",
+    "subdivision": "West Virginia",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mdotmta-gtfs.s3.amazonaws.com/mdotmta_gtfs_marc.zip",
+    "mdb_id": "mdb-468",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

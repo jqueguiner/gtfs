@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Mazowieckie (KM)",
+    "country": "PL",
+    "subdivision": "Masovian Voivodeship",
+    "city": "Nowy Dwór Mazowiecki County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/kolejemazowieckie.zip",
+    "mdb_id": "mdb-1011",
+    "license": "https://bip.mazowieckie.com.pl/pl/ponowne-wykorzystywanie-informacji-sektora-publicznego"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

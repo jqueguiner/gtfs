@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southern Teton Area Rapid Transit (START Bus)",
+    "country": "US",
+    "subdivision": "Wyoming",
+    "city": "Teton County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.start.cadavl.com/START/GTFS/GTFS_START.zip",
+    "mdb_id": "ntd-80188",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

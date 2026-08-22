@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Grand Avignon",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Villeneuve-lès-Avignon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/40b26c33-9be2-47ea-a46c-8bda9f63273e",
+    "mdb_id": "tdg-84115",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.88605,
+    "maximum_latitude": 44.052708,
+    "minimum_longitude": 4.666373,
+    "maximum_longitude": 5.043081
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

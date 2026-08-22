@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Montebello Bus Lines",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mbl.rideralerts.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "mdb-2201",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

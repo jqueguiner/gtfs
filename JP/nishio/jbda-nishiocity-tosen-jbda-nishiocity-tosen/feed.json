@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "西尾市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Nishio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishiocity/feeds/tosen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nishiocity-tosen",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.7204742599024,
+    "maximum_latitude": 34.7944532990855,
+    "minimum_longitude": 137.015720987591,
+    "maximum_longitude": 137.047711859573
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

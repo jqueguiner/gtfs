@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長久手市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Nagakute"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagakutecity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagakutecity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

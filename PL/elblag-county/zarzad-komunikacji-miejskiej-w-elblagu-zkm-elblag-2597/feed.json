@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zarząd Komunikacji Miejskiej w Elblągu (ZKM Elbląg)",
+    "country": "PL",
+    "subdivision": "Warmian-Masurian Voivodeship",
+    "city": "Elbląg County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/elblag.zip",
+    "mdb_id": "mdb-2597",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

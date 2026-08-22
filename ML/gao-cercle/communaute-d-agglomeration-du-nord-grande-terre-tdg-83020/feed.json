@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Nord Grande-Terre",
+    "country": "ML",
+    "subdivision": "Gao",
+    "city": "Gao Cercle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/dbfbff0f-46b6-44d5-a4d4-60d4ac645026",
+    "mdb_id": "tdg-83020",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

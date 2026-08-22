@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Azienda Trasporti Automobilistici Pubblici delle Province di Biella e Vercelli (ATAP)",
+    "country": "IT",
+    "subdivision": "Piemont",
+    "city": "Vercelli"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.magellanoprogetti.it/atap/google_transit.zip",
+    "mdb_id": "mdb-854",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

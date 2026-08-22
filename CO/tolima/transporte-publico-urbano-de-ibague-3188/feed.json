@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transporte Público Urbano de Ibagué",
+    "country": "CO",
+    "subdivision": "Tolima",
+    "city": "Tolima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/omtu-unibague/gtfs-ibague/main/gtfs_ibague.zip",
+    "mdb_id": "mdb-3188",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 4.3022792187179,
+    "maximum_latitude": 4.52577640233847,
+    "minimum_longitude": -75.3105608377564,
+    "maximum_longitude": -75.0521711053988
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "寒川町",
+    "country": "JP",
+    "subdivision": "Kanagawa Prefecture",
+    "city": "Samukawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/samukawatown/feeds/mokusei-go_kuramiomuraroute/files/feed.zip?rid=current",
+    "mdb_id": "jbda-samukawatown-mokusei-go_kuramiomuraroute",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.368292,
+    "maximum_latitude": 35.396935,
+    "minimum_longitude": 139.37891,
+    "maximum_longitude": 139.395298
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

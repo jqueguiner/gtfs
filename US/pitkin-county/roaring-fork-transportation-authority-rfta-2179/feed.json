@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Roaring Fork Transportation Authority (RFTA)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Pitkin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/rfta-co-us/rfta-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2179",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

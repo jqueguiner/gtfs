@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fresno State University",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Fresno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/fresno/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4461",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MZDiK Radom",
+    "country": "PL",
+    "subdivision": "Masovian Voivodeship",
+    "city": "Radom"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/radom.zip",
+    "mdb_id": "mdb-2090",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.31018,
+    "maximum_latitude": 51.468,
+    "minimum_longitude": 21.03423,
+    "maximum_longitude": 21.32751
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

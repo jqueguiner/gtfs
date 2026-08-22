@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "北恵那交通",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Nakatsugawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitaena/feeds/kitaena/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kitaena-kitaena",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.43895,
+    "maximum_latitude": 35.71522,
+    "minimum_longitude": 137.37094,
+    "maximum_longitude": 137.608213882426
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

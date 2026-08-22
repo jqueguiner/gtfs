@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valparaiso Transit",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Porter County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/valpotransit-chi-us/valpotransit-chi-us.zip",
+    "mdb_id": "mdb-620",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

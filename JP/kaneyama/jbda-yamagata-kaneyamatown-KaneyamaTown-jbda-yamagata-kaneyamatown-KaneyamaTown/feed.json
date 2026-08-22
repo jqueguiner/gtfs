@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "山形県金山町",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Kaneyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yamagata-kaneyamatown/feeds/KaneyamaTown/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yamagata-kaneyamatown-KaneyamaTown",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.8577918,
+    "maximum_latitude": 38.9404779,
+    "minimum_longitude": 140.2882088,
+    "maximum_longitude": 140.400285
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

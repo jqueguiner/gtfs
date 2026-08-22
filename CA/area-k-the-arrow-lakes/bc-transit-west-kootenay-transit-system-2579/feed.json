@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (West Kootenay Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Area K (The Arrow Lakes)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=20",
+    "mdb_id": "mdb-2579",
+    "license": "https://www.bctransit.com/open-data/terms-of-use/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

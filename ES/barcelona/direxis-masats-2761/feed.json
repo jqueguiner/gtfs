@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Direxis Masats",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1983",
+    "mdb_id": "mdb-2761",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.373858,
+    "maximum_latitude": 41.735769,
+    "minimum_longitude": 1.853818,
+    "maximum_longitude": 2.141275
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

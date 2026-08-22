@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "West's Bus Service",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Calais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://westbusservice.com/west_gtfs.zip",
+    "mdb_id": "tld-7870",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.394562,
+    "maximum_latitude": 45.188547,
+    "minimum_longitude": -68.817861,
+    "maximum_longitude": -66.983364
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

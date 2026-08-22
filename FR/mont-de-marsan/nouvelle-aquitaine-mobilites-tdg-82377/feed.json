@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Mont-de-Marsan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/03ebd538-f9be-4eb5-ab22-2b72a0ea338c",
+    "mdb_id": "tdg-82377",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.86404,
+    "maximum_latitude": 43.91774,
+    "minimum_longitude": -0.53557,
+    "maximum_longitude": -0.4499
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

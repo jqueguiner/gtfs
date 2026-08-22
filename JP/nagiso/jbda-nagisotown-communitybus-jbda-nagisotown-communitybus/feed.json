@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南木曽町",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Nagiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagisotown/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagisotown-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.524665,
+    "maximum_latitude": 35.6035817978361,
+    "minimum_longitude": 137.56218,
+    "maximum_longitude": 137.664525
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

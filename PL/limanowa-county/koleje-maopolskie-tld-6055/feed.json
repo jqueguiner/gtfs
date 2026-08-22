@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koleje Małopolskie",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Limanowa County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kolejemalopolskie.com.pl/rozklady_jazdy/ald-gtfs.zip",
+    "mdb_id": "tld-6055",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "HANSABUSS AS, Kihnu Veeteed AS",
+    "country": "EE",
+    "subdivision": "Lääne-Viru maakond",
+    "city": "Viru-Nigula vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/tartumaa.zip",
+    "mdb_id": "mdb-3378",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

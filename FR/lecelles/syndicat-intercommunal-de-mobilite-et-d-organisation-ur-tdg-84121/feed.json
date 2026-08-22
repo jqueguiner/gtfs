@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat Intercommunal de Mobilité et d'Organisation Urbaine du Valenciennois",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Lecelles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/982e0826-4118-42d9-9b73-c3d3b455cd4f",
+    "mdb_id": "tdg-84121",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 50.24471,
+    "maximum_latitude": 50.513608,
+    "minimum_longitude": 3.254264,
+    "maximum_longitude": 3.686519
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

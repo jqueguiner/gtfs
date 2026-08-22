@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Potomac and Rappahannock Transportation Commission (PRTC) Omniride",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Prince William County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://omniride.com/omniride/assets/File/google_transit.zip",
+    "mdb_id": "mdb-1156",
+    "license": "http://virginia-gtfs.com/"
+  },
+  "bbox": {
+    "minimum_latitude": 38.216433,
+    "maximum_latitude": 38.955784,
+    "minimum_longitude": -78.196246,
+    "maximum_longitude": -76.992485
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

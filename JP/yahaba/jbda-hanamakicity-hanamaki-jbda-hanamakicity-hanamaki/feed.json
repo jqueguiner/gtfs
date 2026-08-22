@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "花巻市",
+    "country": "JP",
+    "subdivision": "Iwate Prefecture",
+    "city": "Yahaba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hanamakicity/feeds/hanamaki/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hanamakicity-hanamaki",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

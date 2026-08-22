@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Societatea Metropolitană de Transport Timișoara",
+    "country": "RO",
+    "subdivision": "Timiș",
+    "city": "Timiș"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://smtt.ro/transit/gtfs/maps/smtt-timisoara-ro.zip",
+    "mdb_id": "mdb-2868",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.47201,
+    "maximum_latitude": 45.9770295,
+    "minimum_longitude": 20.8605166,
+    "maximum_longitude": 21.42108
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

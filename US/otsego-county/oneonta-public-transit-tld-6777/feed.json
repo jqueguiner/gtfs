@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oneonta Public Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Otsego County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Oneonta_Public_Transportation.zip",
+    "mdb_id": "tld-6777",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.438526,
+    "maximum_latitude": 42.700342,
+    "minimum_longitude": -75.111862,
+    "maximum_longitude": -74.923601
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "関越交通株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Numata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/Kan_etsuTransportation/AllLines.zip?date=current",
+    "mdb_id": "odpt-Kan_etsuTransportation-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.32163,
+    "maximum_latitude": 36.876314404695,
+    "minimum_longitude": 138.730024695396,
+    "maximum_longitude": 139.422958163522
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TransLink Innisfail",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Cassowary Coast Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/INN_GTFS.zip",
+    "mdb_id": "mdb-673",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

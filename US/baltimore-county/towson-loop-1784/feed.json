@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Towson Loop",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Baltimore County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/towson/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "mdb-1784",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

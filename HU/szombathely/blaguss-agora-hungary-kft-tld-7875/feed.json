@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blaguss Agora Hungary Kft.",
+    "country": "HU",
+    "subdivision": "Vas",
+    "city": "Szombathely"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://szombathely.utas.hu/api/static/v1/gtfs-google/gtfs-google.zip",
+    "mdb_id": "tld-7875",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valley Metro",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/valleymetro-va-us/valleymetro-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2437",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

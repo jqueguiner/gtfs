@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "観音寺市",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Kan-onji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kanonjicity/feeds/kanonjishi-noriaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kanonjicity-kanonjishi-noriaibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.041703,
+    "maximum_latitude": 34.1558765331881,
+    "minimum_longitude": 133.533438666028,
+    "maximum_longitude": 133.720264104947
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Latvia by Gustavs Svalbe gsvalbe.id.lv",
+    "country": "EE",
+    "subdivision": "Valga maakond",
+    "city": "Valga vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gsvalbe.id.lv/pieturas/dati/latvia.zip",
+    "mdb_id": "mdb-2337",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 55.6756659,
+    "maximum_latitude": 58.0362951,
+    "minimum_longitude": 20.9879606,
+    "maximum_longitude": 28.1816125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

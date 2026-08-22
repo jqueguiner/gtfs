@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Special Mobility Services",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Spokane County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/specialmobilityservices-wa-us/specialmobilityservices-wa-us.zip",
+    "mdb_id": "tld-5756",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grant Transit Authority",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Grant County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/granttransit-wa-us/granttransit-wa-us.zip",
+    "mdb_id": "mdb-2309",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

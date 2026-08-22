@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Blackpool Transport",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Lancashire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/bts/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1930",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 53.734835923,
+    "maximum_latitude": 53.928587297,
+    "minimum_longitude": -3.058317131,
+    "maximum_longitude": -2.944642464
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

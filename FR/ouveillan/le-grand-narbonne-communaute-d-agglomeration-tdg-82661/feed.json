@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Le Grand Narbonne Communauté d'Agglomération",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Ouveillan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/21ca2b77-505b-4c4c-9154-a044e61b8560",
+    "mdb_id": "tdg-82661",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 42.841064,
+    "maximum_latitude": 43.310524,
+    "minimum_longitude": 2.871044,
+    "maximum_longitude": 3.197251
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

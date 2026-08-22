@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Casatramway",
+    "country": "MA",
+    "subdivision": "Casablanca-Settat",
+    "city": "préfecture d'arrondissements de Casablanca-Anfa عمالة مقاطعات الدار البيضاء أنفا"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/SpaghettDev/CasaTransport-GTFS/master/gtfs-tramway/gtfs-tramway.zip",
+    "mdb_id": "mdb-3462",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.5185278,
+    "maximum_latitude": 33.610125,
+    "minimum_longitude": -7.7576399,
+    "maximum_longitude": -7.501958
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

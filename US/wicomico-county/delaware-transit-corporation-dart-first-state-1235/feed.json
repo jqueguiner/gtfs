@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delaware Transit Corporation (DART First State)",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Wicomico County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://dartfirststate.com/RiderInfo/Routes/gtfs_data/dartfirststate_de_us.zip",
+    "mdb_id": "mdb-1235",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

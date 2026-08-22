@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amador Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Amador County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/amador-ca-us/amador-ca-us.zip",
+    "mdb_id": "mdb-92",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

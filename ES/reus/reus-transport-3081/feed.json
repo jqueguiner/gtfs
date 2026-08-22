@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Reus Transport",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Reus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.sparelabs.com/v1/gtfs/generate/organization/78112279-c065-4987-be69-bc18ab604142",
+    "mdb_id": "mdb-3081",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

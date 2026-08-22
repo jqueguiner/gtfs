@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sunbus Townsville",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Townsville City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/TSV_GTFS.zip",
+    "mdb_id": "mdb-677",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

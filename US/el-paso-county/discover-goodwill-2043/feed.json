@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Discover Goodwill",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "El Paso County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/discovergoodwill-co-us/discovergoodwill-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2043",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

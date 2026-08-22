@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Access Allegany",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Cattaraugus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Access_Allegany.zip",
+    "mdb_id": "mdb-531",
+    "license": "https://data.ny.gov/download/77gx-ii52/application/pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 42.000082,
+    "maximum_latitude": 42.462679,
+    "minimum_longitude": -78.467724,
+    "maximum_longitude": -77.764518
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

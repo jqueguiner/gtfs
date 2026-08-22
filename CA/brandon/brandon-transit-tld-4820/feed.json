@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Brandon Transit",
+    "country": "CA",
+    "subdivision": "Manitoba",
+    "city": "Brandon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.brandon.ca/Transit/google_transit.zip",
+    "mdb_id": "tld-4820",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.8130983002841,
+    "maximum_latitude": 49.8872452907112,
+    "minimum_longitude": -100.000960230885,
+    "maximum_longitude": -99.853763
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

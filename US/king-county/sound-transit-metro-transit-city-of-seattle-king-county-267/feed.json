@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sound Transit, Metro Transit, City of Seattle - King County Metro",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "King County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metro.kingcounty.gov/GTFS/google_transit.zip",
+    "mdb_id": "mdb-267",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.1891174,
+    "maximum_latitude": 47.8655891,
+    "minimum_longitude": -122.506622,
+    "maximum_longitude": -121.709991
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

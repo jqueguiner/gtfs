@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "DECAZEVILLE COMMUNAUTE",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Decazeville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0163a7b9-f4b1-4d9b-9af1-dcc0e583c3b4",
+    "mdb_id": "tdg-11492",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.5249436,
+    "maximum_latitude": 44.57605707,
+    "minimum_longitude": 2.216433823,
+    "maximum_longitude": 2.331882914
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

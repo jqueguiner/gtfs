@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "外ヶ浜町",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Sotogahama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sotogahamatown/feeds/sotogahama-townbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sotogahamatown-sotogahama-townbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 41.032857,
+    "maximum_latitude": 41.260042,
+    "minimum_longitude": 140.34488,
+    "maximum_longitude": 140.645312
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

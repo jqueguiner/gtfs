@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Columbia University",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/columbia/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4456",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

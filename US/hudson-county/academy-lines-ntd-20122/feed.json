@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Academy Lines",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Hudson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/Academy_bus_data.zip",
+    "mdb_id": "ntd-20122",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.95165287,
+    "maximum_latitude": 40.757428,
+    "minimum_longitude": -74.89173084,
+    "maximum_longitude": -73.97368122
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

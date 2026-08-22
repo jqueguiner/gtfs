@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cross County Connection",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Beverly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/BurlingtonShuttles_bus_data.zip",
+    "mdb_id": "ntd-20208",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

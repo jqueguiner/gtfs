@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Družbe za upravljanje javnega potniškega prometa, d.o.o.",
+    "country": "SI",
+    "subdivision": "Kamnik",
+    "city": "Kamnik"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://b2b.nap.si/data/b2b.gtfs",
+    "mdb_id": "mdb-2940",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.sl"
+  },
+  "bbox": {
+    "minimum_latitude": 45.430595,
+    "maximum_latitude": 46.86001,
+    "minimum_longitude": 13.4235935,
+    "maximum_longitude": 16.522087
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

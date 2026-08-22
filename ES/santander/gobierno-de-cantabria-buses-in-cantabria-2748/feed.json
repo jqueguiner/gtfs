@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gobierno de Cantabria (Buses in Cantabria)",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "city": "Santander"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1560",
+    "mdb_id": "mdb-2748",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

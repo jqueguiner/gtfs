@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Simi Valley Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/simivalley-ca-us/simivalley-ca-us.zip",
+    "mdb_id": "mdb-40",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.22958457,
+    "maximum_latitude": 34.3021463101492,
+    "minimum_longitude": -118.83637467254,
+    "maximum_longitude": -118.598911921367
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

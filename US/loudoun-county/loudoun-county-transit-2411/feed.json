@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Loudoun County Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Loudoun County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/loudouncounty-va-us/loudouncounty-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2411",
+    "license": "http://virginia-gtfs.com/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

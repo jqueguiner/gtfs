@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Rhein-Neckar",
+    "country": "DE",
+    "subdivision": "Rhineland-Palatinate",
+    "city": "Trier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geoportal.vrn.de/services/sharing/rest/content/items/4ec4b1d131eb46a6bb8e216ce9b90eff/data",
+    "mdb_id": "mdb-1173",
+    "license": "https://www.vrn.de/opendata/datasets/soll-fahrplandaten-gtfs-aktuell"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 50.1075184,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 10.1944321
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

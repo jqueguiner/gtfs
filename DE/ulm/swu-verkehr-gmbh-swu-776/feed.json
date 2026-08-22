@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SWU Verkehr GmbH (SWU)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Ulm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.swu.de/daten/SWU.zip",
+    "mdb_id": "mdb-776",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.299867,
+    "maximum_latitude": 48.45508,
+    "minimum_longitude": 9.878826,
+    "maximum_longitude": 10.030753
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

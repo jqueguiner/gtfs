@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "KU on Wheels & Lawrence Transit System",
+    "country": "US",
+    "subdivision": "Kansas",
+    "city": "Douglas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://assets.lawrenceks.org/transit/KU-LTS_GTFS.zip",
+    "mdb_id": "tld-1039",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.9242455,
+    "maximum_latitude": 39.0033548,
+    "minimum_longitude": -95.3326184,
+    "maximum_longitude": -95.1815023
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

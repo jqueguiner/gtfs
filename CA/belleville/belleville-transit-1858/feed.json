@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Belleville Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Belleville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs/gtfs-belleville.zip",
+    "mdb_id": "mdb-1858",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

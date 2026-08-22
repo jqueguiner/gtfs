@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Zarząd Dróg i Zieleni Gdynia (ZKM Gdynia)",
+    "country": "PL",
+    "subdivision": "Pomeranian Voivodeship",
+    "city": "Gdynia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.zdiz.gdynia.pl/pt/gtfs.zip",
+    "mdb_id": "mdb-2094",
+    "license": "http://www.opendefinition.org/licenses/cc-by"
+  },
+  "bbox": {
+    "minimum_latitude": 54.3415636,
+    "maximum_latitude": 54.6323285,
+    "minimum_longitude": 18.21451,
+    "maximum_longitude": 18.5815284
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

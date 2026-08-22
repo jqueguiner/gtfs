@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "University of Chicago",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Cook County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/chicago/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4472",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

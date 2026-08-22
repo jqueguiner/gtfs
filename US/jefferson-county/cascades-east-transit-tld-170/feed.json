@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cascades East Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/cet/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-170",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

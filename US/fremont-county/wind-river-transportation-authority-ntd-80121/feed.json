@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Wind River Transportation Authority",
+    "country": "US",
+    "subdivision": "Wyoming",
+    "city": "Fremont County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/6174/wrta_wy_gtfs.zip",
+    "mdb_id": "ntd-80121",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.83071286,
+    "maximum_latitude": 43.52521748,
+    "minimum_longitude": -109.6186511,
+    "maximum_longitude": -108.3800419
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

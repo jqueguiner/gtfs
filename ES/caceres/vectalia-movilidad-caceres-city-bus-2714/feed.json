@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vectalia Movilidad (Cáceres city bus)",
+    "country": "ES",
+    "subdivision": "Extremadura",
+    "city": "Cáceres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1493",
+    "mdb_id": "mdb-2714",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

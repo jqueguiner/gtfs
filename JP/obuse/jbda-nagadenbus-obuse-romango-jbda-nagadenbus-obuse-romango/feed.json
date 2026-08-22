@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "長電バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Obuse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/obuse-romango/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagadenbus-obuse-romango",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.68809,
+    "maximum_latitude": 36.69889,
+    "minimum_longitude": 138.31294,
+    "maximum_longitude": 138.33222
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

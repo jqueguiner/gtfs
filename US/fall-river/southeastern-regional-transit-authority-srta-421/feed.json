@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Southeastern Regional Transit Authority (SRTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Fall River"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip",
+    "mdb_id": "mdb-421",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.59679,
+    "maximum_latitude": 41.762561,
+    "minimum_longitude": -71.219933,
+    "maximum_longitude": -70.663381
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

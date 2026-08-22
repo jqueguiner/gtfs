@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "川越町",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Kawagoe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kawagoetown/feeds/fureaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kawagoetown-fureaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0101600000012,
+    "maximum_latitude": 35.0391600000011,
+    "minimum_longitude": 136.6582,
+    "maximum_longitude": 136.6937
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

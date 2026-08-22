@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Twin Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Lewis County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/twintransit-wa-us/twintransit-wa-us.zip",
+    "mdb_id": "tld-5579",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

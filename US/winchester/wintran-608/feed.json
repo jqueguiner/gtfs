@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "WinTran",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Winchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/wintran-va-us/wintran-va-us.zip",
+    "mdb_id": "mdb-608",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

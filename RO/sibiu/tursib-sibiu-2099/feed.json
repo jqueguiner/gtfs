@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tursib Sibiu",
+    "country": "RO",
+    "subdivision": "Sibiu",
+    "city": "Sibiu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tursib.ro/trasee/gtfs",
+    "mdb_id": "mdb-2099",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.651501,
+    "maximum_latitude": 45.882351,
+    "minimum_longitude": 23.92505094409,
+    "maximum_longitude": 24.354523569346
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

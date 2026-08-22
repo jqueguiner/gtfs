@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Yellowknife Transit",
+    "country": "CA",
+    "subdivision": "Northwest Territories",
+    "city": "Yellowknife"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cityexplorer.yellowknife.ca/gtfs/google_transit.zip",
+    "mdb_id": "tld-4708",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 62.423786,
+    "maximum_latitude": 62.475177,
+    "minimum_longitude": -114.433871,
+    "maximum_longitude": -114.336132
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

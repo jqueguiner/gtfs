@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Srbijavoz",
+    "country": "RS",
+    "subdivision": "Zlatibor Administrative District",
+    "city": "Kosjeric Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/srbijavoz-merged-gtfs/latest/srbijavoz_merged.zip",
+    "mdb_id": "mdb-2927",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.08726,
+    "maximum_latitude": 46.239594,
+    "minimum_longitude": 19.050251,
+    "maximum_longitude": 22.608118
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

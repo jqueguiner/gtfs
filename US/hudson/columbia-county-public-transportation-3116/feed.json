@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Columbia County Public Transportation",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Hudson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/columbia-county-ny-transit/gtfs-generator/raw/refs/heads/main/columbia_county_gtfs.zip",
+    "mdb_id": "mdb-3116",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.24617829116904,
+    "maximum_latitude": 42.67912695677733,
+    "minimum_longitude": -73.80945011973547,
+    "maximum_longitude": -73.59588646960258
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

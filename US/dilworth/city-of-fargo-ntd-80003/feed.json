@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Fargo",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Dilworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridematbus.com/gtfs",
+    "mdb_id": "ntd-80003",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.802715,
+    "maximum_latitude": 46.919507,
+    "minimum_longitude": -96.914933,
+    "maximum_longitude": -96.683268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

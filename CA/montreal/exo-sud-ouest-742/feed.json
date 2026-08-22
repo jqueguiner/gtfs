@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo Sud-ouest",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/citso/google_transit.zip",
+    "mdb_id": "mdb-742",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.235009,
+    "maximum_latitude": 45.498274,
+    "minimum_longitude": -74.132098,
+    "maximum_longitude": -73.566051
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

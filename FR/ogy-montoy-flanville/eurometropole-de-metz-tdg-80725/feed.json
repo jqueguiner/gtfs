@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Eurométropole de Metz",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Ogy-Montoy-Flanville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/92af6161-1b1a-4e0b-8f60-d97f213d993a",
+    "mdb_id": "tdg-80725",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.9757411,
+    "maximum_latitude": 49.2036605,
+    "minimum_longitude": 6.0031229,
+    "maximum_longitude": 6.3244844
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

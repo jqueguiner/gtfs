@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上士幌町",
+    "country": "JP",
+    "subdivision": "Hokkaido Prefecture",
+    "city": "Kamishihoro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamishihorotown/feeds/kamishihoro-self-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamishihorotown-kamishihoro-self-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 43.2247041010793,
+    "maximum_latitude": 43.2404325,
+    "minimum_longitude": 143.279765985906,
+    "maximum_longitude": 143.299976276983
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

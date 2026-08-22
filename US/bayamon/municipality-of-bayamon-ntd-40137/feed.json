@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Municipality of Bayamon",
+    "country": "US",
+    "subdivision": "Puerto Rico",
+    "city": "Bayamón"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11391/MunBayamonGTFS.zip",
+    "mdb_id": "ntd-40137",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 18.29493373,
+    "maximum_latitude": 18.42422,
+    "minimum_longitude": -66.20899,
+    "maximum_longitude": -66.12439
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

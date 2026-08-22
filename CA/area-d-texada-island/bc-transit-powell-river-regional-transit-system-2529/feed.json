@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Powell River Regional Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Area D (Texada Island)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=29",
+    "mdb_id": "mdb-2529",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

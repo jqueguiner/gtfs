@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rurtalbahn GmbH, ABELLIO Rail, VIAS GmbH, Aachener Straßenbahn und Energieversorgungs-AG, Rurtalbus GmbH, WestVerkehr GmbH, Staatsbahnen, National Express, ASEAG Netliner",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Aachen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip",
+    "mdb_id": "mdb-1094",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 50.507708,
+    "maximum_latitude": 51.678547,
+    "minimum_longitude": 5.567995,
+    "maximum_longitude": 8.016278
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

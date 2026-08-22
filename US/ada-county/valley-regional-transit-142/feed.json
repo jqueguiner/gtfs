@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Valley Regional Transit",
+    "country": "US",
+    "subdivision": "Idaho",
+    "city": "Ada County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.valleyregionaltransit.org/GTFS/vrt_transit1.zip",
+    "mdb_id": "mdb-142",
+    "license": "https://www.valleyregionaltransit.org/about-us/resources/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.56417083740234,
+    "maximum_latitude": 43.678070068359375,
+    "minimum_longitude": -116.6757583618164,
+    "maximum_longitude": -116.11832427978516
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "さいたま市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Saitama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/saitamacity/feeds/minumakucommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-saitamacity-minumakucommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.8995520585592,
+    "maximum_latitude": 35.935232544662,
+    "minimum_longitude": 139.650562173695,
+    "maximum_longitude": 139.700437841644
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

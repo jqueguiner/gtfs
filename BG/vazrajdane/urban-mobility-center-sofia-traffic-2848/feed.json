@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Urban Mobility Center - Sofia Traffic",
+    "country": "BG",
+    "subdivision": "Sofia-City",
+    "city": "Vazrajdane"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sofiatraffic.bg/api/v1/static",
+    "mdb_id": "mdb-2848",
+    "license": "https://www.sofiatraffic.bg/bg/info-center/gtfs-danni"
+  },
+  "bbox": {
+    "minimum_latitude": 42.47956466674805,
+    "maximum_latitude": 42.85449981689453,
+    "minimum_longitude": 23.07800674438477,
+    "maximum_longitude": 23.60716819763184
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

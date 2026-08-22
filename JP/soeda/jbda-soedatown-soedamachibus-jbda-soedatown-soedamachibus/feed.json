@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "添田町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Soeda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/soedatown/feeds/soedamachibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-soedatown-soedamachibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.4650547559043,
+    "maximum_latitude": 33.63072178176424,
+    "minimum_longitude": 130.788943635156,
+    "maximum_longitude": 130.932151
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

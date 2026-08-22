@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southwest Rides",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "La Plata County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/southwestrides-co-us/southwestrides-co-us--flex-v2.zip",
+    "mdb_id": "mdb-2184",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Barrie Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Barrie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.myridebarrie.ca/gtfs/Google_transit.zip",
+    "mdb_id": "mdb-3",
+    "license": "https://www.barrie.ca/services-payments/transportation-parking/barrie-transit/barrie-gtfs"
+  },
+  "bbox": {
+    "minimum_latitude": 44.3218044,
+    "maximum_latitude": 44.42020676,
+    "minimum_longitude": -79.7360251709694,
+    "maximum_longitude": -79.610514
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

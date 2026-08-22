@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Port Edward | Prince Rupert)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Prince Rupert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=23",
+    "mdb_id": "mdb-2543",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

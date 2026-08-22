@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Transportes do Sul, Metro Sul do Tejo",
+    "country": "PT",
+    "subdivision": "Setúbal",
+    "city": "Almada, Cova da Piedade, Pragal e Cacilhas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mts.pt/imt/MTS-20240129.zip",
+    "mdb_id": "mdb-2408",
+    "license": "https://nap-portugal.imt-ip.pt/nap/multimodalsupplydetail/200"
+  },
+  "bbox": {
+    "minimum_latitude": 38.637121,
+    "maximum_latitude": 38.68755,
+    "minimum_longitude": -9.207173,
+    "maximum_longitude": -9.147383
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

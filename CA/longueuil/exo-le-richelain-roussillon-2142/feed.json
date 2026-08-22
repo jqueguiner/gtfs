@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo Le Richelain / Roussillon",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Longueuil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/lrrs/google_transit.zip",
+    "mdb_id": "mdb-2142",
+    "license": "https://exo.quebec/fr/a-propos/donnees-ouvertes"
+  },
+  "bbox": {
+    "minimum_latitude": 45.347647,
+    "maximum_latitude": 45.541144,
+    "minimum_longitude": -73.649157,
+    "maximum_longitude": -73.387584
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

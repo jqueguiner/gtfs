@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pottstown Area Rapid Transit",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Limerick Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://part.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-7025",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.228407,
+    "maximum_latitude": 40.333906,
+    "minimum_longitude": -75.687774,
+    "maximum_longitude": -75.570766
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

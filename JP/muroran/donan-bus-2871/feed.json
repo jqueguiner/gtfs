@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Donan Bus",
+    "country": "JP",
+    "subdivision": "Hokkaido Prefecture",
+    "city": "Muroran"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a70d369c-405c-4c25-996c-c70aa53682bc/download/dounan_bus.zip",
+    "mdb_id": "mdb-2871",
+    "license": "https://github.com/aruneko/DonanbusGTFS/tree/master"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

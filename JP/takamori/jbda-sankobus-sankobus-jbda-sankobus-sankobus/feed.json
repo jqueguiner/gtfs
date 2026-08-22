@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "産交バス",
+    "country": "JP",
+    "subdivision": "Kumamoto Prefecture",
+    "city": "Takamori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sankobus/feeds/sankobus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sankobus-sankobus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

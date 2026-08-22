@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tompkins Consolidated Area Transit Inc",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Tompkins County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/tcat-gtfs/tcat-ny-us.zip",
+    "mdb_id": "mdb-535",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.3279,
+    "maximum_latitude": 42.59069,
+    "minimum_longitude": -76.677613,
+    "maximum_longitude": -76.281221
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

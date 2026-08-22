@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Beloit Transit System",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Rock County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/beloit/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-77",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

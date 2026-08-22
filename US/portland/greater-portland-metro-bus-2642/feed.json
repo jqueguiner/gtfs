@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greater Portland Metro Bus",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Portland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gptd.cadavl.com/GPTD/GTFS/GTFS_GPTD.zip",
+    "mdb_id": "mdb-2642",
+    "license": "https://www.gpmetro.org/about-us/projects-initiatives/developers/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

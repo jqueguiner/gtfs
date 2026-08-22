@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City Of Glen Cove",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Glen Cove"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/City_Of_Glen_Cove.zip",
+    "mdb_id": "tld-5787",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.850481,
+    "maximum_latitude": 40.875742,
+    "minimum_longitude": -73.651533,
+    "maximum_longitude": -73.605534
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

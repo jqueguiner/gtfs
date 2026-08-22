@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jämtland",
+    "country": "SE",
+    "subdivision": "Jämtland County",
+    "city": "Jämtland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/jamtland/jamtland.zip",
+    "mdb_id": "mdb-3255",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

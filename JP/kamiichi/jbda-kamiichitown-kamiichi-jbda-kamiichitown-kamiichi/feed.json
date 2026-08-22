@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上市町",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Kamiichi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamiichitown/feeds/kamiichi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamiichitown-kamiichi",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.663021,
+    "maximum_latitude": 36.733743,
+    "minimum_longitude": 137.320017188636,
+    "maximum_longitude": 137.399596
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

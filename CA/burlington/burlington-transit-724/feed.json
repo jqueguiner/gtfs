@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Burlington Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Burlington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.burlington.ca/gtfs-rt/GTFS_Data.zip",
+    "mdb_id": "mdb-724",
+    "license": "https://opendata.burlington.ca/opendata-terms-of-use/City%20of%20Burlington%20-%20Open%20Data%20Terms%20of%20Use.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 43.256679,
+    "maximum_latitude": 43.411717,
+    "minimum_longitude": -79.892603,
+    "maximum_longitude": -79.725184
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

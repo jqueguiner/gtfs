@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Mandai Wildlife Reserve",
+    "country": "SG",
+    "subdivision": "Central",
+    "city": "Central"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mandai.com/content/dam/mandai/misc/gtfs.zip",
+    "mdb_id": "mdb-2938",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 1.405128,
+    "maximum_latitude": 1.417558,
+    "minimum_longitude": 103.78026,
+    "maximum_longitude": 103.833244
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "加茂市",
+    "country": "JP",
+    "subdivision": "Niigata Prefecture",
+    "city": "Kamo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamocity/feeds/kamonbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kamocity-kamonbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

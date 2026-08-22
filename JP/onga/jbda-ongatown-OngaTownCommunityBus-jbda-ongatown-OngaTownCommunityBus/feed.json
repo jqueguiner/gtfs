@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "遠賀町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Onga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ongatown/feeds/OngaTownCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ongatown-OngaTownCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

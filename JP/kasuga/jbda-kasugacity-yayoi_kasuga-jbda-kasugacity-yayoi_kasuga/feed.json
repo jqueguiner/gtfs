@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "春日市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Kasuga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kasugacity/feeds/yayoi_kasuga/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kasugacity-yayoi_kasuga",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.504152,
+    "maximum_latitude": 33.546516,
+    "minimum_longitude": 130.436215,
+    "maximum_longitude": 130.479201
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gunnison Valley Transportation Authority (RTA)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Gunnison County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mjcaction.com/MJC_GTFS_Public/gunnisonrta_google_transit.zip",
+    "mdb_id": "mdb-163",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Francisco Bay Area Water Emergency Transportation Authority (WETA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Oakland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sanfranciscobayferry.com/gtfs.zip",
+    "mdb_id": "mdb-3143",
+    "license": "https://opendatacommons.org/licenses/by/summary/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

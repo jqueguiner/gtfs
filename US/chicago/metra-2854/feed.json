@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metra",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Chicago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://schedules.metrarail.com/gtfs/schedule.zip",
+    "mdb_id": "mdb-2854",
+    "license": "https://metra.com/gtfs-realtime-api-key-request-license-agreement"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

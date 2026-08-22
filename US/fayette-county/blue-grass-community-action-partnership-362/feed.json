@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Blue Grass Community Action Partnership",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Fayette County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/bgcap-ky-us/bgcap-ky-us.zip",
+    "mdb_id": "mdb-362",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.61527,
+    "maximum_latitude": 38.26850653314662,
+    "minimum_longitude": -84.80497,
+    "maximum_longitude": -84.479
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

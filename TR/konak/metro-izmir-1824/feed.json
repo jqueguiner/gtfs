@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "METRO İZMİR",
+    "country": "TR",
+    "subdivision": "Izmir",
+    "city": "Konak"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.izmirmetro.com.tr/gtfs/rail-metro-gtfs.zip",
+    "mdb_id": "mdb-1824",
+    "license": "https://acikveri.bizizmir.com/dataset/toplu-ulasim-gtfs-verileri/resource/c2995cbe-2e89-451b-86e7-2cc2a4f4a94a"
+  },
+  "bbox": {
+    "minimum_latitude": 38.3916,
+    "maximum_latitude": 38.4656,
+    "minimum_longitude": 26.991,
+    "maximum_longitude": 27.2289
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

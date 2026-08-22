@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Clermont Auvergne Métropole",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Saint-Ours"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4e237a58-cd14-4746-b729-1337a40a8a7b",
+    "mdb_id": "tdg-83465",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.69182054,
+    "maximum_latitude": 45.8904299,
+    "minimum_longitude": 2.945068925,
+    "maximum_longitude": 3.265781609
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "琴参バス株式会社",
+    "country": "JP",
+    "subdivision": "Kagawa Prefecture",
+    "city": "Zentsuji"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kotosan/feeds/kotohira-local/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kotosan-kotohira-local",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.0922205942106,
+    "maximum_latitude": 34.291959,
+    "minimum_longitude": 133.778400408771,
+    "maximum_longitude": 134.026157471663
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

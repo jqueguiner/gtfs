@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hallandstrafiken",
+    "country": "SE",
+    "subdivision": "Skåne County",
+    "city": "Skåne County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/halland/halland.zip",
+    "mdb_id": "mdb-3247",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

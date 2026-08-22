@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CP - Comboios de Portugal",
+    "country": "PT",
+    "subdivision": "Leiria",
+    "city": "Tornada e Salir do Porto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://publico.cp.pt/gtfs/gtfs.zip",
+    "mdb_id": "mdb-2057",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

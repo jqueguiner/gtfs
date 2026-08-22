@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "StarTran",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Lancaster County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://startran.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "mdb-2269",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.726212,
+    "maximum_latitude": 40.879581,
+    "minimum_longitude": -96.789195,
+    "maximum_longitude": -96.593608
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

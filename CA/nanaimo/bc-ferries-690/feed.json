@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Ferries",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Nanaimo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/bcferries-bc-ca/bcferries-bc-ca.zip",
+    "mdb_id": "mdb-690",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

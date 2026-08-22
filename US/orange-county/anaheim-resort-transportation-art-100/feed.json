@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Anaheim Resort Transportation (ART)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://art.tripshot.com/v1/gtfs.zip?regionId=CA558DDC-D7F2-4B48-9CAC-DEEA1134F820",
+    "mdb_id": "mdb-100",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

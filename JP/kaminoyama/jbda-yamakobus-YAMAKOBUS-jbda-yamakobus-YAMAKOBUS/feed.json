@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "山形交通",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Kaminoyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yamakobus/feeds/YAMAKOBUS/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yamakobus-YAMAKOBUS",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.7759693592179,
+    "maximum_latitude": 38.8874320846656,
+    "minimum_longitude": 139.055221821722,
+    "maximum_longitude": 140.930702343722
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

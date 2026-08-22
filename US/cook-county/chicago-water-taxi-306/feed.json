@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chicago Water Taxi",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Cook County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/chicagowatertaxi-il-us/chicagowatertaxi-il-us.zip",
+    "mdb_id": "mdb-306",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.8571416575835,
+    "maximum_latitude": 41.910022,
+    "minimum_longitude": -87.655758,
+    "maximum_longitude": -87.625214
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

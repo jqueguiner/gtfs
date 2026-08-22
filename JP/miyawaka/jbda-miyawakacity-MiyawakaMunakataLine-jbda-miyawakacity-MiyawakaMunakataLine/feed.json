@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "宮若市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Miyawaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/miyawakacity/feeds/MiyawakaMunakataLine/files/feed.zip?rid=current",
+    "mdb_id": "jbda-miyawakacity-MiyawakaMunakataLine",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.70682623052036,
+    "maximum_latitude": 33.73651804472712,
+    "minimum_longitude": 130.665915,
+    "maximum_longitude": 130.71052783961787
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

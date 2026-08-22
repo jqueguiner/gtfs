@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Seneca Transit System",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Cattaraugus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/senecanation/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "ntd-22929",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

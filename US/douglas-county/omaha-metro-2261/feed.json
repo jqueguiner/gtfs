@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Omaha Metro",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Douglas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ometro.com/wp-content/uploads/GTFSRT/google_transit.zip",
+    "mdb_id": "mdb-2261",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

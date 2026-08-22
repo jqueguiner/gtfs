@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東濃鉄道",
+    "country": "JP",
+    "subdivision": "Gifu Prefecture",
+    "city": "Ena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_ena/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tohtetsu-tohtetsu_ena",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.4527602478241,
+    "maximum_latitude": 35.478408,
+    "minimum_longitude": 137.403336,
+    "maximum_longitude": 137.436508057354
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

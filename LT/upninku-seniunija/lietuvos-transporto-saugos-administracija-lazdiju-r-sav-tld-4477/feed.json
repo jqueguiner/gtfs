@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lietuvos transporto saugos administracija, Lazdijų r. sav., Utenos r. sav., Šalčininkų rajono savivaldybės administracija, Širvintų r. sav., Šiaulių r. sav., Jurbarko r. sav., Alytaus r. sav., Vilniaus r. sav., Ignalinos r. sav., Neringos sav., Akcinė bendrovė \"SMILTYNĖS PERKĖLA\", UAB \"Joniškio autobusų parkas\", Rokiškio r. sav., Uždaroji akcinė bendrovė \"UKMERGĖS AUTOBUSŲ PARKAS\", Anykščių r. sav., Kaišiadorių r. sav., Kauno m. sav., Marijampolės savivaldybės administracija, Mažeikių r. sav., Molėtų r. sav., Pakruojo r. sav., Biržų r. sav., Jonavos r. sav., Klaipėdos r. sav., Kretingos r. sav., Kupiškio r. sav., Šiaulių m. sav., Šilutės r. sav., Kelmės r. sav., Plungės r. sav., Švenčionių r. sav., Ukmergės r. sav., Varėnos r. sav., Zarasų r. sav., Vilniaus m. sav., Akmenės r. sav., Alytaus m. sav., Pasvalio r. sav., Uždaroji akcinė bendrovė Kuršėnų autobusų parkas, UŽDAROJI AKCINĖ BENDROVĖ \"EMTRA\", Uždaroji akcinė bendrovė Širvintų autobusų parkas",
+    "country": "LT",
+    "subdivision": "Kaunas County",
+    "city": "Upninkų seniūnija"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.visimarsrutai.lt/gtfs/gtfs_all.zip",
+    "mdb_id": "tld-4477",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 53.94121,
+    "maximum_latitude": 56.9464,
+    "minimum_longitude": 20.990995,
+    "maximum_longitude": 26.594889
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

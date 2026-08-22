@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus Urbano de Errentería (Errenteria Urbanoa)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Errenteria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1234",
+    "mdb_id": "mdb-2759",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

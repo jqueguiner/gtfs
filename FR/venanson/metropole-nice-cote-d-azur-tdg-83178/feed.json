@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Métropole Nice Côte d'Azur",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Venanson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f5678ab2-c863-4b48-ba1f-9021c7d97634",
+    "mdb_id": "tdg-83178",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.650813,
+    "maximum_latitude": 44.28372,
+    "minimum_longitude": 6.866431,
+    "maximum_longitude": 7.394614
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Topeka Metro",
+    "country": "US",
+    "subdivision": "Kansas",
+    "city": "Shawnee County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/topeka_metro_ks_us.zip",
+    "mdb_id": "tld-1660_1",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.9931579,
+    "maximum_latitude": 39.099858,
+    "minimum_longitude": -95.7792915,
+    "maximum_longitude": -95.6135826
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

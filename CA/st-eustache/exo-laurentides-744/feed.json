@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Exo Laurentides",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "St-Eustache"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/citla/google_transit.zip",
+    "mdb_id": "mdb-744",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.46048,
+    "maximum_latitude": 45.842129,
+    "minimum_longitude": -74.206745,
+    "maximum_longitude": -73.653368
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

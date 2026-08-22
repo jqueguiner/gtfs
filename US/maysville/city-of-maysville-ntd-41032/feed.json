@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Maysville",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Maysville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11892/maysville_ky_gtfs.zip",
+    "mdb_id": "ntd-41032",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.616159,
+    "maximum_latitude": 38.65827,
+    "minimum_longitude": -83.8093,
+    "maximum_longitude": -83.731849
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

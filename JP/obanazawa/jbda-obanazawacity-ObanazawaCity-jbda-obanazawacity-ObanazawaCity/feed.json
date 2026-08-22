@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "尾花沢市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Obanazawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/obanazawacity/feeds/ObanazawaCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-obanazawacity-ObanazawaCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.533689,
+    "maximum_latitude": 38.676899,
+    "minimum_longitude": 140.328174,
+    "maximum_longitude": 140.528755
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "GTrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridegtrans.com/gtfs.zip",
+    "mdb_id": "mdb-2270",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.788719,
+    "maximum_latitude": 33.952458,
+    "minimum_longitude": -118.410863,
+    "maximum_longitude": -118.223258
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

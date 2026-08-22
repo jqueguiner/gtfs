@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dana Point Trolley",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Clemente"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dptrolley.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "mdb-2361",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

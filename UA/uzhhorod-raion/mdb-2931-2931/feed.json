@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ужгородська міська рада",
+    "country": "UA",
+    "subdivision": "Zakarpattia Oblast",
+    "city": "Uzhhorod Raion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://track.ua-gis.com/gtfs/uzhhorod/static.zip",
+    "mdb_id": "mdb-2931",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.57205,
+    "maximum_latitude": 48.654448,
+    "minimum_longitude": 22.255109,
+    "maximum_longitude": 22.362255
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

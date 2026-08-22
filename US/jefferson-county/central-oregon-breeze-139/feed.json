@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Oregon Breeze",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Jefferson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/cobreeze-or-us/cobreeze-or-us.zip",
+    "mdb_id": "mdb-139",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

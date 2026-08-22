@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Palma City Council (Palma de Mallorca city bus)",
+    "country": "ES",
+    "subdivision": "Balearic Islands",
+    "city": "Palma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1495",
+    "mdb_id": "mdb-2782",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 39.496737,
+    "maximum_latitude": 39.642713,
+    "minimum_longitude": 2.588593,
+    "maximum_longitude": 2.777399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

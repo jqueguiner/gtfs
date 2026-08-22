@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Quenza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/fe20cb23-34b8-4965-acf7-1b28bf966891",
+    "mdb_id": "tdg-83200",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 41.38946,
+    "maximum_latitude": 42.70337,
+    "minimum_longitude": 8.596104,
+    "maximum_longitude": 9.54854
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

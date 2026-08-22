@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Palos Verdes Peninsula Transit Authority (PVPTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/pvpta-ca-us/pvpta-ca-us.zip",
+    "mdb_id": "mdb-35",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.720604,
+    "maximum_latitude": 33.819042,
+    "minimum_longitude": -118.423141,
+    "maximum_longitude": -118.28767494016756
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

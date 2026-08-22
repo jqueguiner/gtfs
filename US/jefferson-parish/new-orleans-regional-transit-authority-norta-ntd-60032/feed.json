@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "New Orleans Regional Transit Authority (NORTA)",
+    "country": "US",
+    "subdivision": "Louisiana",
+    "city": "Jefferson Parish"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.norta.com/RTA/media/GTFS/GTFS.zip",
+    "mdb_id": "ntd-60032",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 29.900749,
+    "maximum_latitude": 30.071972,
+    "minimum_longitude": -90.255963,
+    "maximum_longitude": -89.906483
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

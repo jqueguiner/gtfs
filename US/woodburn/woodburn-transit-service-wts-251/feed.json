@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Woodburn Transit Service (WTS)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Woodburn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/woodburn-or-us/woodburn-or-us.zip",
+    "mdb_id": "mdb-251",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pace Bus",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Cook County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.pacebus.com/gtfsdownload",
+    "mdb_id": "mdb-2347",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.4039756,
+    "maximum_latitude": 42.4574028,
+    "minimum_longitude": -88.6210093,
+    "maximum_longitude": -87.5226704
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

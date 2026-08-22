@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Regional Transportation District",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Adams County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rtd-denver.com/files/gtfs/google_transit_flex.zip",
+    "mdb_id": "mdb-2054",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

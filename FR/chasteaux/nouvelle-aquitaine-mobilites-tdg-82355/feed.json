@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Chasteaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/87a0b98b-8a5a-4ba7-ad93-5a1fb9924844",
+    "mdb_id": "tdg-82355",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.092392,
+    "maximum_latitude": 45.196739,
+    "minimum_longitude": 1.413213,
+    "maximum_longitude": 1.59318
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

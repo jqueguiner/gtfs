@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de communes Retz-en-Valois",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Villers-Cotterêts"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/39bc7064-a387-4eef-9fb3-05fe3c00782b",
+    "mdb_id": "tdg-82689",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 49.175477,
+    "maximum_latitude": 49.262983,
+    "minimum_longitude": 3.074476,
+    "maximum_longitude": 3.12909
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

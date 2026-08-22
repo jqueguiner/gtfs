@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Acadia National Park",
+    "country": "US",
+    "subdivision": "Maine",
+    "city": "Hancock County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/acad/island-explorer.zip",
+    "mdb_id": "tld-6900",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.230378,
+    "maximum_latitude": 44.50078,
+    "minimum_longitude": -68.371437,
+    "maximum_longitude": -68.027183
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

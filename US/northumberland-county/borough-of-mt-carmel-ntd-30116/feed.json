@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Borough of Mt. Carmel",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Northumberland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lats.rideralerts.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "ntd-30116",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

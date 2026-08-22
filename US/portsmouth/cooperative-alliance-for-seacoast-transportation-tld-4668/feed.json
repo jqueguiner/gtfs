@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cooperative Alliance For Seacoast Transportation",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Portsmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/COAST/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4668",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

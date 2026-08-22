@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Airdrie Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Calgary"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.airdrie.ca/gettransitgtfs.cfm",
+    "mdb_id": "tld-4819",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vy Norge",
+    "country": "NO",
+    "subdivision": "Oslo",
+    "city": "Oslo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/vy-norge/vy-norge.zip",
+    "mdb_id": "mdb-3289",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

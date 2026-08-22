@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Manchester Transit Authority",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Bedford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7841/NHMTAGTFS.zip",
+    "mdb_id": "mdb-3432",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.7583561,
+    "maximum_latitude": 43.2124732,
+    "minimum_longitude": -71.5344487,
+    "maximum_longitude": -71.2078266
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

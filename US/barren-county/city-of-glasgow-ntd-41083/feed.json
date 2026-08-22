@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Glasgow",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Barren County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11923/glasgow_gtfs.zip",
+    "mdb_id": "ntd-41083",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.98392,
+    "maximum_latitude": 37.02157,
+    "minimum_longitude": -85.94902,
+    "maximum_longitude": -85.89766
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

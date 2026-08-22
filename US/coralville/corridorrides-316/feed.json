@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "CorridorRides",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Coralville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/corridorrides-ia-us/corridorrides-ia-us.zip",
+    "mdb_id": "mdb-316",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.656704417947,
+    "maximum_latitude": 41.9757669985156,
+    "minimum_longitude": -91.6662139695366,
+    "maximum_longitude": -91.533491920496
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

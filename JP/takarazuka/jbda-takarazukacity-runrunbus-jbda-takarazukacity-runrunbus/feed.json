@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "宝塚市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Takarazuka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takarazukacity/feeds/runrunbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-takarazukacity-runrunbus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.807487,
+    "maximum_latitude": 34.811158,
+    "minimum_longitude": 135.331977,
+    "maximum_longitude": 135.34076
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

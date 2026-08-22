@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "COMPAGNIE AUTOBUS DE MONACO",
+    "country": "MC",
+    "subdivision": "Monaco-Ville",
+    "city": "Monaco-Ville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/2f510784-2957-48e3-b01c-b0e4f9938da7",
+    "mdb_id": "tdg-83756",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

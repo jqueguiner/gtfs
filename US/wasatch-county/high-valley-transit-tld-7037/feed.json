@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "High Valley Transit",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "Wasatch County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/highvalleytransit_parkcity_ut_us.zip",
+    "mdb_id": "tld-7037",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.4900872,
+    "maximum_latitude": 40.770173,
+    "minimum_longitude": -111.909334,
+    "maximum_longitude": -111.279805
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

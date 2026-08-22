@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "甲賀市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Koka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kokacity/feeds/sinaicommunitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kokacity-sinaicommunitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.806399,
+    "maximum_latitude": 35.025563,
+    "minimum_longitude": 135.90351,
+    "maximum_longitude": 136.347761
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PART Putnam Area Rapid Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Putnam County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/PART_Putnam_Area_Rapid_Transit.zip",
+    "mdb_id": "mdb-928",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

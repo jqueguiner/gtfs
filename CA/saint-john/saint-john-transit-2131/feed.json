@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Saint John Transit",
+    "country": "CA",
+    "subdivision": "New Brunswick",
+    "city": "Saint John"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data",
+    "mdb_id": "mdb-2131",
+    "license": "https://catalogue-saintjohn.opendata.arcgis.com/datasets/d6f4783521364429a2e51a64c60ae234/about"
+  },
+  "bbox": {
+    "minimum_latitude": 45.233333,
+    "maximum_latitude": 45.439881,
+    "minimum_longitude": -66.196188,
+    "maximum_longitude": -65.838695
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

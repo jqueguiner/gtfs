@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cambria County Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Cambria Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://live.camtranbus.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4671",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.217551,
+    "maximum_latitude": 40.669539,
+    "minimum_longitude": -78.9791572394,
+    "maximum_longitude": -78.4096409006
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

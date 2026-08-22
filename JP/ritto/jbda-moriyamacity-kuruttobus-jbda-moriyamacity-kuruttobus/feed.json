@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "守山市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Ritto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/moriyamacity/feeds/kuruttobus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-moriyamacity-kuruttobus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.0226703604287,
+    "maximum_latitude": 35.0635873333333,
+    "minimum_longitude": 135.956521579844,
+    "maximum_longitude": 136.014748629753
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

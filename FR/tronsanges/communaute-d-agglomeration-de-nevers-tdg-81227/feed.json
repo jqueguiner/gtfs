@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de Nevers",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Tronsanges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/0b65dda9-51d3-4d84-811b-8a11629a5e55",
+    "mdb_id": "tdg-81227",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.903406,
+    "maximum_latitude": 47.106235,
+    "minimum_longitude": 3.037763,
+    "maximum_longitude": 3.220669
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

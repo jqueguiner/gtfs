@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sage Stage",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Modoc County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/sagestage-ca-us/sagestage-ca-us.zip",
+    "mdb_id": "mdb-113",
+    "license": "http://sagestage.com/gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

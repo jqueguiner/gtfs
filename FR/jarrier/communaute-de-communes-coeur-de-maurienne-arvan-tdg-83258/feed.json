@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "COMMUNAUTE DE COMMUNES COEUR DE MAURIENNE ARVAN",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Jarrier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ff226a89-a0f7-4e6d-af0c-3b34b54306ae",
+    "mdb_id": "tdg-83258",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 45.24651,
+    "maximum_latitude": 45.320719,
+    "minimum_longitude": 6.317124,
+    "maximum_longitude": 6.411706
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

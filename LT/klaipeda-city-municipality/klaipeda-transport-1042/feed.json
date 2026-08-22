@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Klaipėda Transport",
+    "country": "LT",
+    "subdivision": "Klaipeda County",
+    "city": "Klaipėda City Municipality"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stops.lt/klaipeda/klaipeda/gtfs.zip",
+    "mdb_id": "mdb-1042",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 55.2993,
+    "maximum_latitude": 55.97151,
+    "minimum_longitude": 21.07081,
+    "maximum_longitude": 21.81351
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

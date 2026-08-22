@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "加西市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kasai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kasaicity/feeds/kasaineppihappybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kasaicity-kasaineppihappybus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.8847969083467,
+    "maximum_latitude": 34.999872,
+    "minimum_longitude": 134.818829,
+    "maximum_longitude": 134.933228
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

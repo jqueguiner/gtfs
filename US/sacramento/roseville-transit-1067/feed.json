@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Roseville Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Sacramento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://iportal.sacrt.com/gtfs/Roseville/google_transit.zip",
+    "mdb_id": "mdb-1067",
+    "license": "http://www.sacrt.com/gtfs.stm"
+  },
+  "bbox": {
+    "minimum_latitude": 38.572646,
+    "maximum_latitude": 38.80784,
+    "minimum_longitude": -121.502812,
+    "maximum_longitude": -121.214224
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

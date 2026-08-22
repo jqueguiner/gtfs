@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ville de Drummondville",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Drummondville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geomatique.drummondville.ca/GTFS/GTFS_DMV.zip",
+    "mdb_id": "tld-6711",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.82587123,
+    "maximum_latitude": 45.97933932,
+    "minimum_longitude": -72.55123385,
+    "maximum_longitude": -72.4000275205471
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

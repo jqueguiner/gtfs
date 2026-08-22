@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大和郡山市",
+    "country": "JP",
+    "subdivision": "Nara Prefecture",
+    "city": "Yamatokoriyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yamatokoriyamacity/feeds/kingyobus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yamatokoriyamacity-kingyobus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.6144295,
+    "maximum_latitude": 34.65956208,
+    "minimum_longitude": 135.779599105985,
+    "maximum_longitude": 135.82052193
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

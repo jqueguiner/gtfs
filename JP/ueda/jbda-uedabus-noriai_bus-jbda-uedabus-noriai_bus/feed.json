@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "上田バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Ueda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/uedabus/feeds/noriai_bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-uedabus-noriai_bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.3215670808279,
+    "maximum_latitude": 36.540081700837,
+    "minimum_longitude": 138.159576447056,
+    "maximum_longitude": 138.358469009399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

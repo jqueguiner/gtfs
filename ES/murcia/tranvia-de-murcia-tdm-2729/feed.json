@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tranvía de Murcia (TDM)",
+    "country": "ES",
+    "subdivision": "Region of Murcia",
+    "city": "Murcia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1569",
+    "mdb_id": "mdb-2729",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

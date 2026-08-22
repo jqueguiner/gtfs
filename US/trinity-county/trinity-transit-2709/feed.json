@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trinity Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Trinity County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/trinity_county_ca.zip",
+    "mdb_id": "mdb-2709",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

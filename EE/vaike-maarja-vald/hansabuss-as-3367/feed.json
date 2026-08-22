@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "HANSABUSS AS",
+    "country": "EE",
+    "subdivision": "Lääne-Viru maakond",
+    "city": "Väike-Maarja vald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu-gtfs.remix.com/rakvere.zip",
+    "mdb_id": "mdb-3367",
+    "license": "https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed"
+  },
+  "bbox": {
+    "minimum_latitude": 58.9291564,
+    "maximum_latitude": 59.6162829,
+    "minimum_longitude": 25.6583155,
+    "maximum_longitude": 26.9382895
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

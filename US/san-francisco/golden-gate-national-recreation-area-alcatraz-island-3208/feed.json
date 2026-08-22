@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Golden Gate National Recreation Area (Alcatraz Island)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Francisco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/alca/alcatraz-cruises-ferry.zip",
+    "mdb_id": "mdb-3208",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 37.8070690749053,
+    "maximum_latitude": 37.8265689228523,
+    "minimum_longitude": -122.420794388134,
+    "maximum_longitude": -122.404134227002
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trinity Metro",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Benbrook"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsdata.ridetm.org/gtfs/fwtatransitdata.zip",
+    "mdb_id": "mdb-2890",
+    "license": "https://ridetrinitymetro.org/gtfs-data/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Get Around Columbia (GoCOMO)",
+    "country": "US",
+    "subdivision": "Missouri",
+    "city": "Boone County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gocomotransit.com/wp-content/uploads/2023/10/GTFS.zip",
+    "mdb_id": "ntd-70016",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.900373,
+    "maximum_latitude": 39.002625,
+    "minimum_longitude": -92.384689,
+    "maximum_longitude": -92.252793
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

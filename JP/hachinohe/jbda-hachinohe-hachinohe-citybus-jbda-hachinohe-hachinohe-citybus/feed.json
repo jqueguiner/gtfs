@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "八戸市交通部",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Hachinohe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hachinohe/feeds/hachinohe-citybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hachinohe-hachinohe-citybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.464733,
+    "maximum_latitude": 40.587547,
+    "minimum_longitude": 141.422083,
+    "maximum_longitude": 141.639457
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

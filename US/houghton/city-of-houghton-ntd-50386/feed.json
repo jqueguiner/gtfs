@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Houghton",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Houghton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11734/gtfstransit.zip",
+    "mdb_id": "ntd-50386",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.106132,
+    "maximum_latitude": 47.1219,
+    "minimum_longitude": -88.59188,
+    "maximum_longitude": -88.549674
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Generalitat of Catalonia (Intercity bus)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1364",
+    "mdb_id": "mdb-2796",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 40.54154254501133,
+    "maximum_latitude": 42.846026271112265,
+    "minimum_longitude": 0.2510721861763363,
+    "maximum_longitude": 3.274145056772075
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

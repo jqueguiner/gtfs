@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Citibus",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Lubbock"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/lubbock-tx-us/lubbock-tx-us.zip",
+    "mdb_id": "mdb-569",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

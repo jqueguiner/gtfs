@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Tyler",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Tyler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/tylertx/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "ntd-60089",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tulare County Area Transit (TCAT)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Tulare County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/tcrta-ca-us/tcrta-ca-us.zip",
+    "mdb_id": "mdb-646",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

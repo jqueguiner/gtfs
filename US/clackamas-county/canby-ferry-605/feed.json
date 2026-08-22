@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Canby Ferry",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Clackamas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/canbyferry-or-us/canbyferry-or-us.zip",
+    "mdb_id": "mdb-605",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 45.29898713857353,
+    "maximum_latitude": 45.301065765415785,
+    "minimum_longitude": -122.6928285524031,
+    "maximum_longitude": -122.69263768117573
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

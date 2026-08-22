@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "須坂市",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Suzaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/suzakicity/feeds/suzakashiminbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-suzakicity-suzakashiminbus",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.5895002,
+    "maximum_latitude": 36.6849513,
+    "minimum_longitude": 138.2850435,
+    "maximum_longitude": 138.3575946
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

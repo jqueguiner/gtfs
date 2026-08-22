@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Essex County Council",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Essex"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.essex.gov.uk/download/2ydj8/gl4/gtfs.zip",
+    "mdb_id": "mdb-2688",
+    "license": "https://data.essex.gov.uk/dataset/2ydj8/essex-bus-network-data"
+  },
+  "bbox": {
+    "minimum_latitude": 51.437663,
+    "maximum_latitude": 52.25759,
+    "minimum_longitude": -0.516632,
+    "maximum_longitude": 1.288027
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

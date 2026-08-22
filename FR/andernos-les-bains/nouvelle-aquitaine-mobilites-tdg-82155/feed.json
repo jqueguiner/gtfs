@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Andernos-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/88be32ef-3b1a-493f-b73f-660a1f1b24f7",
+    "mdb_id": "tdg-82155",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.590752,
+    "maximum_latitude": 44.798656,
+    "minimum_longitude": -1.254395,
+    "maximum_longitude": -0.813231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

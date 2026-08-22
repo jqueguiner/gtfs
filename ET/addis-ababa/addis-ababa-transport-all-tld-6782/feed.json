@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Addis Ababa Transport (all)",
+    "country": "ET",
+    "subdivision": "Addis Ababa",
+    "city": "Addis Ababa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/addis-ababa/-/raw/master/Addis%20Ababa%20GTFS_2023/et-addisababa.zip",
+    "mdb_id": "tld-6782",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 8.7420301,
+    "maximum_latitude": 9.1972246,
+    "minimum_longitude": 38.3678579,
+    "maximum_longitude": 39.1541398
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

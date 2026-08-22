@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大利根交通自動車株式会社",
+    "country": "JP",
+    "subdivision": "Ibaraki Prefecture",
+    "city": "Toride"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/OtoneKotsu/AllLines.zip?date=current",
+    "mdb_id": "odpt-OtoneKotsu-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.8471782103436,
+    "maximum_latitude": 35.89521,
+    "minimum_longitude": 140.063191,
+    "maximum_longitude": 140.190010070801
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

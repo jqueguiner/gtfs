@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ryde Racine",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Racine County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://racine.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "mdb-2246",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.68181,
+    "maximum_latitude": 42.786374,
+    "minimum_longitude": -87.959541,
+    "maximum_longitude": -87.781806
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

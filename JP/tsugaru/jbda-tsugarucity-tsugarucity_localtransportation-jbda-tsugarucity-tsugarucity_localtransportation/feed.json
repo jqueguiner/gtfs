@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "つがる市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Tsugaru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsugarucity/feeds/tsugarucity_localtransportation/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsugarucity-tsugarucity_localtransportation",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.779361,
+    "maximum_latitude": 40.950004,
+    "minimum_longitude": 140.297973,
+    "maximum_longitude": 140.433512
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

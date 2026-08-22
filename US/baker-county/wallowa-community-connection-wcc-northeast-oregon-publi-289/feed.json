@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wallowa Community Connection (WCC), Northeast Oregon Public Transit",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Baker County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/northeast-or-us/northeast-or-us.zip",
+    "mdb_id": "mdb-289",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

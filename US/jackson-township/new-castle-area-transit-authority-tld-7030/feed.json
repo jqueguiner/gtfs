@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "New Castle Area Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Jackson Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ncata.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-7030",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

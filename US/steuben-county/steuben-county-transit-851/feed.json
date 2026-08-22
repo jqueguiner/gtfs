@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Steuben County Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Steuben County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Steuben_County_Transit.zip",
+    "mdb_id": "mdb-851",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

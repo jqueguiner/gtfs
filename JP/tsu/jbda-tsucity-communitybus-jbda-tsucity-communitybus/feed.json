@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "津市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Tsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tsucity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-tsucity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.478886,
+    "maximum_latitude": 34.83662,
+    "minimum_longitude": 136.191757,
+    "maximum_longitude": 136.562109
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

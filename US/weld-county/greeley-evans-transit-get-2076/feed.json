@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greeley-Evans Transit (GET)",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Weld County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/greeleyevans-co-us/greeleyevans-co-us.zip",
+    "mdb_id": "mdb-2076",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

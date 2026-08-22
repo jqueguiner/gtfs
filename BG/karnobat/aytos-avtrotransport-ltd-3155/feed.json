@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Aytos-Avtrotransport Ltd.",
+    "country": "BG",
+    "subdivision": "Burgas",
+    "city": "Karnobat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.aytos.bg/gtfs/AytosGTFS.zip",
+    "mdb_id": "mdb-3155",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.50186103357319,
+    "maximum_latitude": 42.76369151456549,
+    "minimum_longitude": 27.050633958066328,
+    "maximum_longitude": 27.473806735563528
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

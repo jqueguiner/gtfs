@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "C-TRAN",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Clark County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.c-tran.com/images/Google/GoogleTransitUpload.zip",
+    "mdb_id": "mdb-258",
+    "license": "https://c-tran.com/about-c-tran/business/c-tran-gtfs-data"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

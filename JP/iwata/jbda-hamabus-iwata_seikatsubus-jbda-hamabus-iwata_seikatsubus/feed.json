@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "浜松バス株式会社",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Iwata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hamabus/feeds/iwata_seikatsubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hamabus-iwata_seikatsubus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.666989,
+    "maximum_latitude": 34.731019,
+    "minimum_longitude": 137.796444,
+    "maximum_longitude": 137.855152
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

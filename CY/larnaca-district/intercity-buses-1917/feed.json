@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Intercity buses",
+    "country": "CY",
+    "subdivision": "Larnaca District",
+    "city": "Larnaca District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C5_google_transit.zip&rel=True",
+    "mdb_id": "mdb-1917",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

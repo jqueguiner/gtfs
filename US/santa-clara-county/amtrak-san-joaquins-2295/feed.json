@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amtrak San Joaquins",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/sanjoaquins-ca-us/sanjoaquins-ca-us.zip",
+    "mdb_id": "mdb-2295",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

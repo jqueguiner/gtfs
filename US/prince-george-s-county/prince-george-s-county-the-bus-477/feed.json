@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Prince George's County (The Bus)",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Prince George's County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/princegeorgescounty-md-us/princegeorgescounty-md-us.zip",
+    "mdb_id": "mdb-477",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.671639,
+    "maximum_latitude": 39.09932,
+    "minimum_longitude": -77.008604,
+    "maximum_longitude": -76.717705
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

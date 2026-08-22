@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération de l'Auxerrois",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Venoy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/78934/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-78934",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 47.697547,
+    "maximum_latitude": 47.88059997,
+    "minimum_longitude": 3.41888516,
+    "maximum_longitude": 3.69321651
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

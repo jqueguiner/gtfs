@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Intercom de la Vire au Noireau",
+    "country": "FR",
+    "subdivision": "Normandy",
+    "city": "Vire Normandie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f3b71a3c-85fd-48c3-a3f0-30b988a4e64b",
+    "mdb_id": "tdg-83770",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 48.8357892769062,
+    "maximum_latitude": 49.0116034356437,
+    "minimum_longitude": -1.04871939289742,
+    "maximum_longitude": -0.540577961598559
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

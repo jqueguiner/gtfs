@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Westmoreland County Transit Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Penn Township"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wcta.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-6785",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

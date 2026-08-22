@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Flixbus",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Schleswig-Flensburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/flixbus/flixbus.zip",
+    "mdb_id": "mdb-3261",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

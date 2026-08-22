@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transp'Or - Pays de l'Or Agglomération",
+    "country": "FR",
+    "subdivision": "Occitania",
+    "city": "Saint-Aunès"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/84a0902b-ed56-4a09-8eb7-bb58601ba084",
+    "mdb_id": "tdg-84099",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.509720550819,
+    "maximum_latitude": 43.672688,
+    "minimum_longitude": 3.890527102,
+    "maximum_longitude": 4.1282035183499
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

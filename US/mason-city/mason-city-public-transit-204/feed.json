@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mason City Public Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Mason City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/masoncity-ia-us/masoncity-ia-us.zip",
+    "mdb_id": "mdb-204",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

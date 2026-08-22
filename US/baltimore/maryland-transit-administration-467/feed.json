@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maryland Transit Administration",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Baltimore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mdotmta-gtfs.s3.amazonaws.com/mdotmta_gtfs_commuterbus.zip",
+    "mdb_id": "mdb-467",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

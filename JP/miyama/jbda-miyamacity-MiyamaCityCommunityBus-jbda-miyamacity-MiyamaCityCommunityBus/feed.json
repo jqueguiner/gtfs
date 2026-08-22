@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "みやま市",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Miyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/miyamacity/feeds/MiyamaCityCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-miyamacity-MiyamaCityCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.086717,
+    "maximum_latitude": 33.18016078,
+    "minimum_longitude": 130.455146,
+    "maximum_longitude": 130.5534928
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

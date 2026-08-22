@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rensselaer County (Yankee Trails)",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Rensselaer County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Rensselaer_County_Yankee_Trails.zip",
+    "mdb_id": "mdb-804",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.64661017098863,
+    "maximum_latitude": 42.90078462330686,
+    "minimum_longitude": -73.76047436708296,
+    "maximum_longitude": -73.19322466850282
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

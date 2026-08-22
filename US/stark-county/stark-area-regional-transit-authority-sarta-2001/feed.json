@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Stark Area Regional Transit Authority (SARTA)",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Stark County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11346/gtfs.zip",
+    "mdb_id": "mdb-2001",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.720023,
+    "maximum_latitude": 41.070599,
+    "minimum_longitude": -81.55966,
+    "maximum_longitude": -81.086724
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

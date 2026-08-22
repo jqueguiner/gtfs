@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "村山市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Murayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murayamacity/feeds/MurayamaCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-murayamacity-MurayamaCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.4143756,
+    "maximum_latitude": 38.56456,
+    "minimum_longitude": 140.2928402,
+    "maximum_longitude": 140.4017508
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

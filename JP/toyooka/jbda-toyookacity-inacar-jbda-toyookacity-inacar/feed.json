@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "豊岡市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Toyooka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyookacity/feeds/inacar/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyookacity-inacar",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.40147574,
+    "maximum_latitude": 35.64201298,
+    "minimum_longitude": 134.6851666,
+    "maximum_longitude": 135.0373951
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

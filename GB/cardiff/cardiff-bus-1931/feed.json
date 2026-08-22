@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cardiff Bus",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Cardiff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/ccts/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1931",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.392014789,
+    "maximum_latitude": 51.587955885,
+    "minimum_longitude": -3.330534498,
+    "maximum_longitude": -2.991610786
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

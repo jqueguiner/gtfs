@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Castelnaud-la-Chapelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/f7590323-d782-40ed-a6b2-67e37930f6cd",
+    "mdb_id": "tdg-82336",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.400978,
+    "maximum_latitude": 45.653587,
+    "minimum_longitude": -0.04391,
+    "maximum_longitude": 1.535107
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

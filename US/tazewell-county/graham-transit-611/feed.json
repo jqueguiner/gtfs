@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Graham Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Tazewell County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/grahamtransit-va-us/grahamtransit-va-us.zip",
+    "mdb_id": "mdb-611",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

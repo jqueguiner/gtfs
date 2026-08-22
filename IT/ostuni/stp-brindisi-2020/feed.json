@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "STP Brindisi",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Ostuni"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stpbrindisi.it/attachments/article/963/Urbano_Ostuni.zip",
+    "mdb_id": "mdb-2020",
+    "license": "https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio"
+  },
+  "bbox": {
+    "minimum_latitude": 40.720491,
+    "maximum_latitude": 40.787996,
+    "minimum_longitude": 17.56919,
+    "maximum_longitude": 17.603303
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

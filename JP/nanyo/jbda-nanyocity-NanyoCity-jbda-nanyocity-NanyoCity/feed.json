@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "南陽市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Nanyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nanyocity/feeds/NanyoCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nanyocity-NanyoCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.0467515,
+    "maximum_latitude": 38.1895216,
+    "minimum_longitude": 140.0572841,
+    "maximum_longitude": 140.2084939
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

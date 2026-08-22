@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vestfold Kollektivtrafikk, Bastø Fosen",
+    "country": "NO",
+    "subdivision": "Vestfold og Telemark",
+    "city": "Vestfold og Telemark"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_vkt-aggregated-gtfs.zip",
+    "mdb_id": "tld-1048",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

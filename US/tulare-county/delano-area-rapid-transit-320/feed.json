@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delano Area Rapid Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Tulare County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/delano-ca-us/delano-ca-us.zip",
+    "mdb_id": "mdb-320",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

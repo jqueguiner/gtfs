@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sussex County Skylands Ride",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Wantage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/sussexcounty_bus_data.zip",
+    "mdb_id": "ntd-20950",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.897851,
+    "maximum_latitude": 41.207829,
+    "minimum_longitude": -74.769245,
+    "maximum_longitude": -74.572049
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Palmbus",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Mandelieu-la-Napoule"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/47bc8088-6c72-43ad-a959-a5bbdd1aa14f",
+    "mdb_id": "tdg-79420",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 43.480905133389065,
+    "maximum_latitude": 43.62414939145257,
+    "minimum_longitude": 6.920097917318344,
+    "maximum_longitude": 7.058013752102852
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

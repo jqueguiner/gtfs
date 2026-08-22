@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "北名古屋市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Kitanagoya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kitanagoyacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kitanagoyacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.226019,
+    "maximum_latitude": 35.263155,
+    "minimum_longitude": 136.842179,
+    "maximum_longitude": 136.90429
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

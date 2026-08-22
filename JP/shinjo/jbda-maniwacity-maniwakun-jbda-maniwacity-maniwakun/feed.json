@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "真庭市",
+    "country": "JP",
+    "subdivision": "Okayama Prefecture",
+    "city": "Shinjo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/maniwacity/feeds/maniwakun/files/feed.zip?rid=current",
+    "mdb_id": "jbda-maniwacity-maniwakun",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.915213,
+    "maximum_latitude": 35.297843,
+    "minimum_longitude": 133.56710234349,
+    "maximum_longitude": 133.759528
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

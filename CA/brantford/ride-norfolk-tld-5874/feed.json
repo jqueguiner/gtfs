@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ride Norfolk",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Brantford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/a0a9b1046f9e4d79a6aa0ccf7be081d9/data",
+    "mdb_id": "tld-5874",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.83542475,
+    "maximum_latitude": 43.1404823,
+    "minimum_longitude": -80.33171331,
+    "maximum_longitude": -80.26457305
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

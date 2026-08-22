@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Dopravný podnik Bratislava, a.s.",
+    "country": "SK",
+    "subdivision": "Region of Bratislava",
+    "city": "District of Senec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.arcgis.com/sharing/rest/content/items/aba12fd2cbac4843bc7406151bc66106/data",
+    "mdb_id": "tld-3363",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.0216522216797,
+    "maximum_latitude": 48.241527557373,
+    "minimum_longitude": 16.9702911376953,
+    "maximum_longitude": 17.2312965393066
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

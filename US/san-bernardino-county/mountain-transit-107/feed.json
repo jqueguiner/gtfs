@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mountain Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Bernardino County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/bigbear-ca-us/bigbear-ca-us.zip",
+    "mdb_id": "mdb-107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

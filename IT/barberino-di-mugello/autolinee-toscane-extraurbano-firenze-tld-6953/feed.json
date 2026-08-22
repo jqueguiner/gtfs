@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - ExtraUrbano Firenze",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Barberino di Mugello"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/d6dc70c1-24ca-4d18-8f9c-b266d64fe4c9/download/26-extraurbanofirenze.gtfs",
+    "mdb_id": "tld-6953",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.456577726863,
+    "maximum_latitude": 44.2216969483168,
+    "minimum_longitude": 10.399292622825,
+    "maximum_longitude": 11.6606241259655
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

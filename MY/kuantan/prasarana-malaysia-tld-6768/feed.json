@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prasarana Malaysia",
+    "country": "MY",
+    "subdivision": "Pahang",
+    "city": "Kuantan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/prasarana?category=rapid-bus-kuantan",
+    "mdb_id": "tld-6768",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

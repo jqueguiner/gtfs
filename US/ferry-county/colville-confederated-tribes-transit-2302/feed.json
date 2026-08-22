@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Colville Confederated Tribes Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Ferry County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/ccttransit-wa-us/ccttransit-wa-us.zip",
+    "mdb_id": "mdb-2302",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

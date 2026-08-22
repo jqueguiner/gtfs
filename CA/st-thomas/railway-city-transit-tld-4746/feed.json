@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Railway City Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "St. Thomas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-stthomas.zip",
+    "mdb_id": "tld-4746",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

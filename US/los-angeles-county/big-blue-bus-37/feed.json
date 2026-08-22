@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Big Blue Bus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.bigbluebus.com/current.zip",
+    "mdb_id": "mdb-37",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.951481,
+    "maximum_latitude": 34.075669,
+    "minimum_longitude": -118.549205,
+    "maximum_longitude": -118.237266
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

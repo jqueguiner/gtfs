@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Manatee County Area Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Manatee County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimemcat.availtec.com/InfoPoint/GTFS-Zip.ashx",
+    "mdb_id": "mdb-2258",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 27.337576,
+    "maximum_latitude": 27.811741,
+    "minimum_longitude": -82.780165,
+    "maximum_longitude": -82.451822
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

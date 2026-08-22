@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus Guipuzcoana (La Guipuzcoana)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Bidania-Goiatz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1204",
+    "mdb_id": "mdb-2736",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

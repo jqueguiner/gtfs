@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Duffy's Buses and Stewarts & Sons Coaches",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Bundaberg Region"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/BUN_GTFS.zip",
+    "mdb_id": "mdb-672",
+    "license": "https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/699184c3-8c0e-44db-8a83-7e23709aefbe"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

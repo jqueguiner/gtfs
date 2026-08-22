@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester-Genesee Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Seneca County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scheduledata.rgrta.com/Regionals/Seneca.zip",
+    "mdb_id": "tld-1200",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.869134,
+    "maximum_latitude": 42.917935,
+    "minimum_longitude": -76.988837,
+    "maximum_longitude": -76.782322
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

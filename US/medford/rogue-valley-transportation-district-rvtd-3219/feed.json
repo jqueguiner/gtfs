@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rogue Valley Transportation District (RVTD)",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Medford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.rvtd.cadavl.com/RVTD/GTFS/GTFS_RVTD.zip",
+    "mdb_id": "mdb-3219",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

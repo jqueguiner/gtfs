@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "MiWay",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Mississauga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.miapp.ca/GTFS/google_transit.zip",
+    "mdb_id": "mdb-730",
+    "license": "https://www.mississauga.ca/miway-transit/developer-download/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.4693,
+    "maximum_latitude": 43.838078,
+    "minimum_longitude": -79.797798,
+    "maximum_longitude": -79.512877
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

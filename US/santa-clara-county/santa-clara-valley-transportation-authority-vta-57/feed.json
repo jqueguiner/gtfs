@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Santa Clara Valley Transportation Authority (VTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Santa Clara County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.vta.org/gtfs_vta.zip",
+    "mdb_id": "mdb-57",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.974922,
+    "maximum_latitude": 37.458086,
+    "minimum_longitude": -122.173639,
+    "maximum_longitude": -121.549029
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

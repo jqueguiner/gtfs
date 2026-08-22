@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Ride",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Marathon County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/wausau-wi-us/wausau-wi-us.zip",
+    "mdb_id": "mdb-830",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.930681890042365,
+    "maximum_latitude": 45.0029636867689,
+    "minimum_longitude": -89.68125311151744,
+    "maximum_longitude": -89.59766209521625
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

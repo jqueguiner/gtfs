@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Massachusetts Bay Transportation Authority (MBTA)",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Hull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.mbta.com/MBTA_GTFS.zip",
+    "mdb_id": "mdb-437",
+    "license": "https://www.mass.gov/files/documents/2017/10/27/develop_license_agree_0.pdf"
+  },
+  "bbox": {
+    "minimum_latitude": 41.581095,
+    "maximum_latitude": 42.797837,
+    "minimum_longitude": -71.848488,
+    "maximum_longitude": -70.276583
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

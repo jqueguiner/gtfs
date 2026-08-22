@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Thonon Agglomération",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Sciez"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/7cbb883b-d0cb-4bc7-b2e0-7537afdbc86e",
+    "mdb_id": "tdg-82178",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.206313819418696,
+    "maximum_latitude": 46.398987,
+    "minimum_longitude": 6.2669543,
+    "maximum_longitude": 6.5222618098936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

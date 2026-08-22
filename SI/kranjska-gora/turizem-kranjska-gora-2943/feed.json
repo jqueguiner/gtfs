@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TURIZEM KRANJSKA GORA",
+    "country": "SI",
+    "subdivision": "Kranjska Gora",
+    "city": "Kranjska Gora"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://b2b.nap.si/data/b2b.gtfs.kranjska-gora",
+    "mdb_id": "mdb-2943",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.sl"
+  },
+  "bbox": {
+    "minimum_latitude": 46.409581,
+    "maximum_latitude": 46.49617,
+    "minimum_longitude": 13.71941,
+    "maximum_longitude": 13.95782
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

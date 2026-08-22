@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nashville MTA WeGo Public Transit",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Wilson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.wegotransit.com/googleexport/google_transit.zip",
+    "mdb_id": "mdb-360",
+    "license": "https://www.wegotransit.com/contact-us/data-request-submission/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7416,
+    "maximum_latitude": 36.525005,
+    "minimum_longitude": -87.379122,
+    "maximum_longitude": -86.29724
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

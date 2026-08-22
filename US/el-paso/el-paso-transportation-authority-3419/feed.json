@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "El Paso Transportation Authority",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "El Paso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11511/GTFS_EPCT.zip",
+    "mdb_id": "mdb-3419",
+    "license": "https://etaelpaso.gov/privacy-policy/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

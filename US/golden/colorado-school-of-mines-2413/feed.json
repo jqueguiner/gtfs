@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Colorado School Of Mines",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Golden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/cityofgolden-co-us/cityofgolden-co-us.zip",
+    "mdb_id": "mdb-2413",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.726618,
+    "maximum_latitude": 39.7663005,
+    "minimum_longitude": -105.2339618,
+    "maximum_longitude": -105.20081
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

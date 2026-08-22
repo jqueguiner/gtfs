@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KLT",
+    "country": "SE",
+    "subdivision": "Östergötland County",
+    "city": "Östergötland County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/klt/klt.zip",
+    "mdb_id": "mdb-3243",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

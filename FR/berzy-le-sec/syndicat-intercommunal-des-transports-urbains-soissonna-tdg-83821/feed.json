@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Syndicat intercommunal des Transports Urbains Soissonnais",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Berzy-le-Sec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/83821/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-83821",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Monsey Trails",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Kings County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Monsey_Trails.zip",
+    "mdb_id": "tld-4380",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.055449,
+    "maximum_latitude": 41.34663564,
+    "minimum_longitude": -74.25417244,
+    "maximum_longitude": -73.945102
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

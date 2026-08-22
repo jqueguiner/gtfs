@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mountain Lynx Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Washington County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/districtthree-va-us/districtthree-va-us.zip",
+    "mdb_id": "mdb-334",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

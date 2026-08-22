@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "小松市",
+    "country": "JP",
+    "subdivision": "Ishikawa Prefecture",
+    "city": "Komatsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/komatsucity/feeds/kibagatasen/files/feed.zip?rid=current",
+    "mdb_id": "jbda-komatsucity-kibagatasen",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.3445747279399,
+    "maximum_latitude": 36.4015370451702,
+    "minimum_longitude": 136.425401981311,
+    "maximum_longitude": 136.492147751245
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kitsap Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Kitsap County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://pride.kitsaptransit.com/gtfs/google_transit.zip",
+    "mdb_id": "mdb-1304",
+    "license": "http://www.kitsaptransit.com/privacy-policy#developer"
+  },
+  "bbox": {
+    "minimum_latitude": 47.411738,
+    "maximum_latitude": 47.854812,
+    "minimum_longitude": -122.85144,
+    "maximum_longitude": -122.338923
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

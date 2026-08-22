@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Miejskie Przedsiębiorstwo Komunikacyjne w Lomzy (MPK ZB w Łomży)",
+    "country": "PL",
+    "subdivision": "Podlaskie Voivodeship",
+    "city": "Łomża"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/lomza.zip",
+    "mdb_id": "mdb-1012",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

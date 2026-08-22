@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Fort St John Transit System)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Fort St. John"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=28",
+    "mdb_id": "mdb-2547",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

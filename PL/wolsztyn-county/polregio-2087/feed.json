@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Polregio",
+    "country": "PL",
+    "subdivision": "Greater Poland Voivodeship",
+    "city": "Wolsztyn County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/polregio.zip",
+    "mdb_id": "mdb-2087",
+    "license": "http://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 49.30075799047,
+    "maximum_latitude": 54.79372147682,
+    "minimum_longitude": 11.40751844907,
+    "maximum_longitude": 23.90884100854
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

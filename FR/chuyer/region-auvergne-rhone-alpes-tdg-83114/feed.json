@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Chuyer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d22ab458-e6b4-4334-96dc-18590a3d9e5d",
+    "mdb_id": "tdg-83114",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.241327,
+    "maximum_latitude": 46.20834,
+    "minimum_longitude": 3.69514,
+    "maximum_longitude": 4.8714112
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Snälltåget",
+    "country": "SE",
+    "subdivision": "Kronoberg County",
+    "city": "Kronoberg County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/snalltaget/snalltaget.zip",
+    "mdb_id": "mdb-3277",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

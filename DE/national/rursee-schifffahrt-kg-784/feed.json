@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rursee-Schifffahrt KG",
+    "country": "DE",
+    "subdivision": "",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://de.data.public-transport.earth/gtfs-germany.zip",
+    "mdb_id": "mdb-784",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 39.084388,
+    "maximum_latitude": 62.897936,
+    "minimum_longitude": -8.849014,
+    "maximum_longitude": 159.282178
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

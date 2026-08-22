@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fluo",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Bar-le-Duc, Verdun, Commercy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=grand-est-tgv",
+    "mdb_id": "mdb-1882",
+    "license": "https://transport.data.gouv.fr/datasets/horaires-theoriques-et-temps-reel-du-reseau-fluo-grand-est-navettes-tgv-gtfs-gtfs-rt"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

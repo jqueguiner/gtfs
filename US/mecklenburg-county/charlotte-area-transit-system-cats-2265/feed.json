@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Charlotte Area Transit System (CATS)",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Mecklenburg County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrealtime.ridetransit.org/GTFSStatic/GTFS.zip",
+    "mdb_id": "mdb-2265",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.049359,
+    "maximum_latitude": 35.502996,
+    "minimum_longitude": -81.179888,
+    "maximum_longitude": -80.639319
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Kauno viešasis transportas (KVT)",
+    "country": "LT",
+    "subdivision": "Kaunas County",
+    "city": "Kauno miesto savivaldybė"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stops.lt/kaunas/kaunas/gtfs.zip",
+    "mdb_id": "mdb-1041",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 54.78263,
+    "maximum_latitude": 54.99101,
+    "minimum_longitude": 23.75568,
+    "maximum_longitude": 24.1218
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

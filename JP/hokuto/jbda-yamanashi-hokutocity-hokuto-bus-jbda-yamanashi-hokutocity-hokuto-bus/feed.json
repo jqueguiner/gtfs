@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "北杜市",
+    "country": "JP",
+    "subdivision": "Yamanashi Prefecture",
+    "city": "Hokuto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yamanashi-hokutocity/feeds/hokuto-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yamanashi-hokutocity-hokuto-bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7698214652591,
+    "maximum_latitude": 35.9186881734167,
+    "minimum_longitude": 138.29334249133,
+    "maximum_longitude": 138.540091987457
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

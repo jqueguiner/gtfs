@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Fresno Area Express (FAX)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Fresno County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gis4u.fresno.gov/downloads/fax_gtfs.zip",
+    "mdb_id": "mdb-90",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 36.678042,
+    "maximum_latitude": 36.888538,
+    "minimum_longitude": -119.908969,
+    "maximum_longitude": -119.681909
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

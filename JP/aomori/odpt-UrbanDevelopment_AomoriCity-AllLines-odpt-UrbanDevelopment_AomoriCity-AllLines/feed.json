@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "青森市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Aomori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/UrbanDevelopment_AomoriCity/AllLines.zip?date=current",
+    "mdb_id": "odpt-UrbanDevelopment_AomoriCity-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 40.7102622920067,
+    "maximum_latitude": 40.85783,
+    "minimum_longitude": 140.571145142857,
+    "maximum_longitude": 140.868595
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

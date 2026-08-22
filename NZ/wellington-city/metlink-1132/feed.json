@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metlink",
+    "country": "NZ",
+    "subdivision": "Wellington",
+    "city": "Wellington City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.opendata.metlink.org.nz/v1/gtfs/full.zip",
+    "mdb_id": "mdb-1132",
+    "license": "http://www.metlink.org.nz/customer-services/general-transit-feed-specification/"
+  },
+  "bbox": {
+    "minimum_latitude": -41.34810413999999,
+    "maximum_latitude": -40.623161,
+    "minimum_longitude": 174.7220021,
+    "maximum_longitude": 175.6842552
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Skamania County Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Skamania County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/skamaniacounty-wa-us/skamaniacounty-wa-us.zip",
+    "mdb_id": "mdb-262",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Williams Lake)",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Williams Lake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=33",
+    "mdb_id": "mdb-2587",
+    "license": "https://www.bctransit.com/open-data/terms-of-use"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

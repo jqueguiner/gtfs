@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Pays Ajaccien",
+    "country": "FR",
+    "subdivision": "Corsica",
+    "city": "Afa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/5021a054-43c8-49b7-9166-832f2af6c8f0",
+    "mdb_id": "tdg-83836",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 41.901726,
+    "maximum_latitude": 41.985912,
+    "minimum_longitude": 8.6192518,
+    "maximum_longitude": 8.841902
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

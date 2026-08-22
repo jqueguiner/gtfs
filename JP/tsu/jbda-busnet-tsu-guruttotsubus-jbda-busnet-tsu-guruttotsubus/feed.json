@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "バスネット津",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Tsu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/busnet-tsu/feeds/guruttotsubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-busnet-tsu-guruttotsubus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.707375,
+    "maximum_latitude": 34.722121,
+    "minimum_longitude": 136.497856,
+    "maximum_longitude": 136.524187
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

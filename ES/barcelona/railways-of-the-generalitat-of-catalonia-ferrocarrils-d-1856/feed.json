@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Railways of the Generalitat of Catalonia (Ferrocarrils de la Generalitat de Catalunya)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fgc.cat/google/google_transit.zip",
+    "mdb_id": "mdb-1856",
+    "license": "https://dadesobertes.fgc.cat/explore/?q=gtfs_zip"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SolTrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Concord"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://soltrans.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "mdb-80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

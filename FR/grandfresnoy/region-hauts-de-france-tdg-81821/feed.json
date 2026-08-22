@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Hauts-de-France",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Grandfresnoy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/67129a71-49d0-467d-b388-4672ab1d5593",
+    "mdb_id": "tdg-81821",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.0106105,
+    "maximum_latitude": 49.4220942,
+    "minimum_longitude": 2.1091737,
+    "maximum_longitude": 2.8540283
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

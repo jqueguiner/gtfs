@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Brighton & Hove Bus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Brighton and Hove"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/brightonhove/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1928",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.737363,
+    "maximum_latitude": 51.157732,
+    "minimum_longitude": -0.330104,
+    "maximum_longitude": 0.31231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

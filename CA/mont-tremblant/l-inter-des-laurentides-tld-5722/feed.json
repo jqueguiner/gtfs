@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "L'Inter des Laurentides",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Mont-Tremblant"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=linter",
+    "mdb_id": "tld-5722",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

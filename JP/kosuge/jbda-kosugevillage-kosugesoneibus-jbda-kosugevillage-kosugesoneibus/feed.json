@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "小菅村",
+    "country": "JP",
+    "subdivision": "Yamanashi Prefecture",
+    "city": "Kosuge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kosugevillage/feeds/kosugesoneibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kosugevillage-kosugesoneibus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7203276339058,
+    "maximum_latitude": 35.7783881879882,
+    "minimum_longitude": 138.928218948939,
+    "maximum_longitude": 139.004255110227
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

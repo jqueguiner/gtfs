@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ente Autonomo Volturno  S.r.l., Prova",
+    "country": "IT",
+    "subdivision": "Campania",
+    "city": "Naples"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.wimob.it/cfile/download.php?file=google-transit.zip",
+    "mdb_id": "tld-4833",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.59916315,
+    "maximum_latitude": 41.351067,
+    "minimum_longitude": 13.85493158,
+    "maximum_longitude": 14.71499147
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

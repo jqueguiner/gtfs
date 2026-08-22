@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Olean Area Transit System",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Cattaraugus County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/Olean_Area_Transit_System.zip",
+    "mdb_id": "mdb-586",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.065351,
+    "maximum_latitude": 42.220286,
+    "minimum_longitude": -78.767734,
+    "maximum_longitude": -78.276716
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

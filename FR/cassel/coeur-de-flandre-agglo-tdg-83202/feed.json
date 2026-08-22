@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Coeur de Flandre Agglo",
+    "country": "FR",
+    "subdivision": "Hauts-de-France",
+    "city": "Cassel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/d10fb9b2-1a5a-498c-ba55-e89cf0136ef1",
+    "mdb_id": "tdg-83202",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

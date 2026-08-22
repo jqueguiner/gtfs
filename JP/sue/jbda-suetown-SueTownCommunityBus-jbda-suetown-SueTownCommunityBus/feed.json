@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "須恵町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Sue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/suetown/feeds/SueTownCommunityBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-suetown-SueTownCommunityBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.576146461699764,
+    "maximum_latitude": 33.61028953892092,
+    "minimum_longitude": 130.48868560872023,
+    "maximum_longitude": 130.5392292
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

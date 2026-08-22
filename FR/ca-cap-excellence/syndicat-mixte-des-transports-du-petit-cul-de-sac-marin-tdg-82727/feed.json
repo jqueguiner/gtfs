@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Syndicat Mixte des Transports du Petit Cul de Sac Marin",
+    "country": "FR",
+    "subdivision": "CA CAP Excellence",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ac89688b-252b-4b23-9e97-39226402cf2b",
+    "mdb_id": "tdg-82727",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 16.205391,
+    "maximum_latitude": 16.342426,
+    "minimum_longitude": -61.651967,
+    "maximum_longitude": -61.177185
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

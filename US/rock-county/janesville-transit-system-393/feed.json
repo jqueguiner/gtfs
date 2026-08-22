@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Janesville Transit System",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Rock County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/jts-wi-us/jts-wi-us.zip",
+    "mdb_id": "mdb-393",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

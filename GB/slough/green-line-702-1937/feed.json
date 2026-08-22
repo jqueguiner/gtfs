@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Green Line 702",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Slough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/greenline/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1937",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 51.40758145,
+    "maximum_latitude": 51.520619621,
+    "minimum_longitude": -0.971204601,
+    "maximum_longitude": -0.144421982
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

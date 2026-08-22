@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zarząd Dróg i Transportu Miejskiego (ZDiTM)",
+    "country": "PL",
+    "subdivision": "West Pomeranian Voivodeship",
+    "city": "Szczecin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.zditm.szczecin.pl/storage/gtfs/gtfs.zip",
+    "mdb_id": "mdb-981",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

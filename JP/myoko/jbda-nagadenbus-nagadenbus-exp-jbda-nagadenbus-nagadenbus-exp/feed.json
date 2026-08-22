@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "長電バス株式会社",
+    "country": "JP",
+    "subdivision": "Niigata Prefecture",
+    "city": "Myoko"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-exp/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagadenbus-nagadenbus-exp",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.620867,
+    "maximum_latitude": 36.890847350628,
+    "minimum_longitude": 138.164773681945,
+    "maximum_longitude": 138.5962994
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

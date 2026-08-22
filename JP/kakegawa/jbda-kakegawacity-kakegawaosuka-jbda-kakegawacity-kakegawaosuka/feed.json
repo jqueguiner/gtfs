@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "掛川市",
+    "country": "JP",
+    "subdivision": "Shizuoka Prefecture",
+    "city": "Kakegawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kakegawacity/feeds/kakegawaosuka/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kakegawacity-kakegawaosuka",
+    "license": "https://www.city.kakegawa.shizuoka.jp/gyosei/docs/383694.html"
+  },
+  "bbox": {
+    "minimum_latitude": 34.6725629084837,
+    "maximum_latitude": 34.7685705920817,
+    "minimum_longitude": 137.96338792322,
+    "maximum_longitude": 138.032615370722
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

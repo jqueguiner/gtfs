@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "池田町",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Omachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-ikedatown/feeds/IkedaTownBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagano-ikedatown-IkedaTownBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.3401342835259,
+    "maximum_latitude": 36.4663488933476,
+    "minimum_longitude": 137.858184644895,
+    "maximum_longitude": 137.930588240082
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

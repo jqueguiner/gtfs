@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "North Country Express Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Saint Lawrence County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/datatools-511ny/public/North_Country_Express.zip",
+    "mdb_id": "mdb-546",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.662523,
+    "maximum_latitude": 44.933975,
+    "minimum_longitude": -74.989121,
+    "maximum_longitude": -73.435809
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

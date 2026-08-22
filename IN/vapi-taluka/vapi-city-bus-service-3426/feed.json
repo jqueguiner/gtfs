@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Vapi City Bus Service",
+    "country": "IN",
+    "subdivision": "Gujarat",
+    "city": "Vapi Taluka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/shubhamvelani/VapiGTFS/releases/download/v1.0.0/Vapi_GTFS.zip",
+    "mdb_id": "mdb-3426",
+    "license": "https://github.com/shubhamvelani/VapiGTFS/"
+  },
+  "bbox": {
+    "minimum_latitude": 20.325898,
+    "maximum_latitude": 20.43621,
+    "minimum_longitude": 72.8756,
+    "maximum_longitude": 72.9989
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

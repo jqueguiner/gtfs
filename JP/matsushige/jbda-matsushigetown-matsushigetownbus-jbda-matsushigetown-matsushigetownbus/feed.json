@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "松茂町",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Matsushige"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/matsushigetown/feeds/matsushigetownbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-matsushigetown-matsushigetownbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.10925,
+    "maximum_latitude": 34.15033,
+    "minimum_longitude": 134.566502,
+    "maximum_longitude": 134.617182
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

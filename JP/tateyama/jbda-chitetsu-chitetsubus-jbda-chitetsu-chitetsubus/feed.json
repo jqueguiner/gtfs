@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "富山地方鉄道",
+    "country": "JP",
+    "subdivision": "Toyama Prefecture",
+    "city": "Tateyama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chitetsu/feeds/chitetsubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-chitetsu-chitetsubus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.56161353,
+    "maximum_latitude": 36.9060161,
+    "minimum_longitude": 137.01119099,
+    "maximum_longitude": 137.510317753334
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

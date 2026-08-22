@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "El Metro Transit",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Webb County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/el_metro_laredo_transit_us.zip",
+    "mdb_id": "tld-7038",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 27.428917,
+    "maximum_latitude": 27.645202,
+    "minimum_longitude": -99.545554,
+    "maximum_longitude": -99.425202
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "加西市",
+    "country": "JP",
+    "subdivision": "Hyogo Prefecture",
+    "city": "Kato"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kasaicity/feeds/unifureaitomi/files/feed.zip?rid=current",
+    "mdb_id": "jbda-kasaicity-unifureaitomi",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.9214445,
+    "maximum_latitude": 34.9543084,
+    "minimum_longitude": 134.7958184,
+    "maximum_longitude": 134.9571427
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

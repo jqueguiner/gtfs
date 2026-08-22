@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "NOMAGO, storitve mobilnosti in potovanj, d.o.o.",
+    "country": "SI",
+    "subdivision": "Šempeter-Vrtojba",
+    "city": "Šempeter-Vrtojba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://b2b.nap.si/data/b2b.gtfs.nova-gorica",
+    "mdb_id": "mdb-2944",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/deed.sl"
+  },
+  "bbox": {
+    "minimum_latitude": 45.85040105,
+    "maximum_latitude": 45.99992943,
+    "minimum_longitude": 13.62774143,
+    "maximum_longitude": 13.79191247
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

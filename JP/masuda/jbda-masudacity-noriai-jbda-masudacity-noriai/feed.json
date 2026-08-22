@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "益田市",
+    "country": "JP",
+    "subdivision": "Shimane Prefecture",
+    "city": "Masuda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/masudacity/feeds/noriai/files/feed.zip?rid=current",
+    "mdb_id": "jbda-masudacity-noriai",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.56723773,
+    "maximum_latitude": 34.689129,
+    "minimum_longitude": 131.7994325,
+    "maximum_longitude": 132.026476
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

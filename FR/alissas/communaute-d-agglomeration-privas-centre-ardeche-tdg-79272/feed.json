@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération Privas Centre Ardèche",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Alissas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/ba477c37-93d1-4900-8958-baf3c6de9d57",
+    "mdb_id": "tdg-79272",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.694342,
+    "maximum_latitude": 44.8323,
+    "minimum_longitude": 4.5391982,
+    "maximum_longitude": 4.80923
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

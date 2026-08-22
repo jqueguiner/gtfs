@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "SkyBus Melbourne",
+    "country": "AU",
+    "subdivision": "Victoria",
+    "city": "City of Port Phillip"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://paueasasskybusgtfs.blob.core.windows.net/gtfs-live/VIC/gtfs.zip?sp=rl&st=2026-02-18T06:46:07Z&se=2027-02-28T15:01:07Z&spr=https&sv=2024-11-04&sr=c&sig=x%2FlTHzTlGBw5D1RxF3VDkcGPf5xYjRceeXAoOjzRfnM%3D",
+    "mdb_id": "mdb-3146",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -38.144117,
+    "maximum_latitude": -37.669454,
+    "minimum_longitude": 144.472874,
+    "maximum_longitude": 145.126231
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

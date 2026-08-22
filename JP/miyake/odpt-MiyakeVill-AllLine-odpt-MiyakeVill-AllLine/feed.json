@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "三宅村",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Miyake"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/MiyakeVill/AllLine.zip?date=current",
+    "mdb_id": "odpt-MiyakeVill-AllLine",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 34.048599,
+    "maximum_latitude": 34.12216,
+    "minimum_longitude": 139.479552,
+    "maximum_longitude": 139.564799
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

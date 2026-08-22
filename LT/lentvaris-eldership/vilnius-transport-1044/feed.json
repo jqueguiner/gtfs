@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Vilnius Transport",
+    "country": "LT",
+    "subdivision": "Vilnius County",
+    "city": "Lentvaris Eldership"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.stops.lt/vilnius/vilnius/gtfs.zip",
+    "mdb_id": "mdb-1044",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 54.57716,
+    "maximum_latitude": 54.85708,
+    "minimum_longitude": 25.04569,
+    "maximum_longitude": 25.5165
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

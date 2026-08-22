@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Yuba-Sutter Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Sutter County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/yubasutter-ca-us/yubasutter-ca-us.zip",
+    "mdb_id": "mdb-79",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.572670409003,
+    "maximum_latitude": 39.45720196442736,
+    "minimum_longitude": -121.67273923052,
+    "maximum_longitude": -121.25373447668
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

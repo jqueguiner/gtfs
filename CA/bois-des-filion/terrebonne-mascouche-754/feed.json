@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Terrebonne-Mascouche",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Bois-des-Filion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/xdata/mrclm/google_transit.zip",
+    "mdb_id": "mdb-754",
+    "license": "https://www.donneesquebec.ca/licence/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.554209,
+    "maximum_latitude": 45.802319,
+    "minimum_longitude": -73.844239,
+    "maximum_longitude": -73.498244
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

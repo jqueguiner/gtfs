@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Calgary Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Calgary"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.calgary.ca/download/npk7-z3bj/application%2Fzip",
+    "mdb_id": "mdb-712",
+    "license": "https://data.calgary.ca/stories/s/u45n-7awa/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.85307,
+    "maximum_latitude": 51.190259,
+    "minimum_longitude": -114.271659,
+    "maximum_longitude": -113.821508
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

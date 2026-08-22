@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Sound Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Bellevue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sound.obaweb.org/prod/40_gtfs.zip",
+    "mdb_id": "mdb-268",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 47.153189,
+    "maximum_latitude": 47.974947,
+    "minimum_longitude": -122.499103,
+    "maximum_longitude": -122.107281
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valley Transit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Walla Walla County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://itransitnw.com/rtt/public/resource/gtfs.zip",
+    "mdb_id": "tld-820",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

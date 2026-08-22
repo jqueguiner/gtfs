@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Lanka Metro Transit",
+    "country": "LK",
+    "subdivision": "Western Province",
+    "city": "Colombo District"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transit.seyone.dev/api/v1/gtfs/download?agency=LMT",
+    "mdb_id": "mdb-3490",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 6.83905,
+    "maximum_latitude": 7.00536,
+    "minimum_longitude": 79.85021,
+    "maximum_longitude": 79.975769
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

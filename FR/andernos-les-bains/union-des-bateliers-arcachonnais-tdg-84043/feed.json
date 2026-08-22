@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "UNION DES BATELIERS ARCACHONNAIS",
+    "country": "FR",
+    "subdivision": "Andernos-les-Bains",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.data.gouv.fr/resources/84043/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U",
+    "mdb_id": "tdg-84043",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 44.6417176,
+    "maximum_latitude": 44.7386599,
+    "minimum_longitude": -1.2368569,
+    "maximum_longitude": -1.1015619
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

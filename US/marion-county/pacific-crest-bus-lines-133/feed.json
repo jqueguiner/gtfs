@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pacific Crest Bus Lines",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Marion County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://oregon-gtfs.trilliumtransit.com/gtfs_data/pacificcrest-or-us/pacificcrest-or-us.zip",
+    "mdb_id": "mdb-133",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.20668,
+    "maximum_latitude": 45.58909094987553,
+    "minimum_longitude": -124.01040361732947,
+    "maximum_longitude": -121.16133131208746
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

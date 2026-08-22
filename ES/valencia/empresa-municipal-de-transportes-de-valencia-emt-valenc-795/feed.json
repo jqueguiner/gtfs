@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Empresa Municipal de Transportes de Valencia (EMT Valencia)",
+    "country": "ES",
+    "subdivision": "Valencian Community",
+    "city": "Valencia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.vlci.valencia.es/dataset/ab058cf8-ad3e-4d9c-ac89-0c6367ecf351/resource/c81b69e6-c082-44dc-acc6-66fc417b4e66/download/google_transit.zip",
+    "mdb_id": "mdb-795",
+    "license": "https://www.valencia.es/val/ajuntament/govern-obert"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

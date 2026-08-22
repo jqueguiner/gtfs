@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Collier Area Transit (CAT)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Collier County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cat.cadavl.com:4431/CAT/GTFS/GTFS_CAT.zip",
+    "mdb_id": "mdb-2259",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

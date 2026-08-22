@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Jaunt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Charlottesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.remix.com/jaunt_charlottesville_va_us.zip",
+    "mdb_id": "mdb-3492",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.031599,
+    "maximum_latitude": 38.130205,
+    "minimum_longitude": -78.508578,
+    "maximum_longitude": -78.444702
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

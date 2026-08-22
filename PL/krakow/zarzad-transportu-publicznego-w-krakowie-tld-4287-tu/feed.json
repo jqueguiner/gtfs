@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Publicznego w Krakowie",
+    "country": "PL",
+    "subdivision": "Lesser Poland",
+    "city": "Krakow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ztp.krakow.pl/TripUpdates_T.pb",
+    "mdb_id": "tld-4287-tu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

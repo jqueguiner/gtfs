@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chapman University",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/chapman/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "tld-4454",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

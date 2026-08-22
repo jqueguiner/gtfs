@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kern Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Kern County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip",
+    "mdb_id": "mdb-47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STAR Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Accomack County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.trilliumtransit.com/gtfs/startransit-va-us/startransit-va-us--flex-v2.zip",
+    "mdb_id": "mdb-2444",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

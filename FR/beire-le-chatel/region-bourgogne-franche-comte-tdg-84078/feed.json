@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Bourgogne-Franche-Comté",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Beire-le-Châtel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/151b2c7b-e8a9-4873-909e-d376eaeeb1e0",
+    "mdb_id": "tdg-84078",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.954306,
+    "maximum_latitude": 47.987139,
+    "minimum_longitude": 3.9079,
+    "maximum_longitude": 5.596151
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

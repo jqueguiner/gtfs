@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oradea Transport Local",
+    "country": "RO",
+    "subdivision": "Bihor",
+    "city": "Oradea Metropolitan Area"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://external.gtfs.ro/oradea/ORADEA.zip",
+    "mdb_id": "mdb-2101",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 46.890472,
+    "maximum_latitude": 47.169865,
+    "minimum_longitude": 21.717316,
+    "maximum_longitude": 22.11185
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

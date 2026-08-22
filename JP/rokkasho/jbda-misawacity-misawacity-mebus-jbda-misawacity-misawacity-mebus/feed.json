@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "三沢市",
+    "country": "JP",
+    "subdivision": "Aomori Prefecture",
+    "city": "Rokkasho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/misawacity/feeds/misawacity-mebus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-misawacity-misawacity-mebus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 40.658172,
+    "maximum_latitude": 40.883392,
+    "minimum_longitude": 141.330262,
+    "maximum_longitude": 141.429992
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

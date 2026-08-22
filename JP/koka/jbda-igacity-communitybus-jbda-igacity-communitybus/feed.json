@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "伊賀市",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Koka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/igacity/feeds/communitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-igacity-communitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.5870818,
+    "maximum_latitude": 34.8818880060869,
+    "minimum_longitude": 136.1055111,
+    "maximum_longitude": 136.2831795
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Pigeon Forge",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Sevier County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pigeonforge.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "ntd-41136",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.733184,
+    "maximum_latitude": 35.838532,
+    "minimum_longitude": -83.633746,
+    "maximum_longitude": -83.521932
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

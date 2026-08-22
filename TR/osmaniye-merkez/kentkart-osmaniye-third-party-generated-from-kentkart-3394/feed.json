@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KentKart Osmaniye - Third party generated from KentKart",
+    "country": "TR",
+    "subdivision": "Osmaniye",
+    "city": "Osmaniye Merkez"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Egezenn/kk-gtfs/raw/main/data/osmaniye.zip",
+    "mdb_id": "mdb-3394",
+    "license": "https://github.com/Egezenn/kk-gtfs/blob/main/DATA_LICENSE"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

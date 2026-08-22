@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aeroexpreso",
+    "country": "PE",
+    "subdivision": "Junín",
+    "city": "Chilca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://aeroexpreso.com.pe/gtfs",
+    "mdb_id": "mdb-1985",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Blossom Express",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Joaquin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/blossomexpress-ca-us/blossomexpress-ca-us.zip",
+    "mdb_id": "mdb-236",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

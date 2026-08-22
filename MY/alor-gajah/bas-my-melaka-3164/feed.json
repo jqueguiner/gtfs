@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "BAS.MY Melaka",
+    "country": "MY",
+    "subdivision": "Malacca",
+    "city": "Alor Gajah"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-static/mybas-melaka",
+    "mdb_id": "mdb-3164",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 2.18522,
+    "maximum_latitude": 2.47411,
+    "minimum_longitude": 102.06982,
+    "maximum_longitude": 102.56399
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

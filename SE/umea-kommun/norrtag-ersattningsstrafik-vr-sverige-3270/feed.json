@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Norrtåg ersättningsstrafik (VR Sverige)",
+    "country": "SE",
+    "subdivision": "Västerbotten County",
+    "city": "Umeå kommun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs/norrtag-vr-sverige/norrtag-vr-sverige.zip",
+    "mdb_id": "mdb-3270",
+    "license": "https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

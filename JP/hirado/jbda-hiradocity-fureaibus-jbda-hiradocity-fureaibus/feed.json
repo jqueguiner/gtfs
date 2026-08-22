@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "平戸市",
+    "country": "JP",
+    "subdivision": "Nagasaki Prefecture",
+    "city": "Hirado"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hiradocity/feeds/fureaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hiradocity-fureaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.179749,
+    "maximum_latitude": 33.358987,
+    "minimum_longitude": 129.359309,
+    "maximum_longitude": 129.514287
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

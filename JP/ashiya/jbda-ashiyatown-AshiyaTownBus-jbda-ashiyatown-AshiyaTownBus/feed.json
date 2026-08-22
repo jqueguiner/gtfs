@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "芦屋町",
+    "country": "JP",
+    "subdivision": "Fukuoka Prefecture",
+    "city": "Ashiya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ashiyatown/feeds/AshiyaTownBus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ashiyatown-AshiyaTownBus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

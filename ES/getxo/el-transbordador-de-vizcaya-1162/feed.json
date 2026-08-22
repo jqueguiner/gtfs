@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "El Transbordador de Vizcaya",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Getxo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/puentebizkaia.zip",
+    "mdb_id": "mdb-1162",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.322816,
+    "maximum_latitude": 43.3235713,
+    "minimum_longitude": -3.017981,
+    "maximum_longitude": -3.0163488
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

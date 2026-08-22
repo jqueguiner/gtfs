@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Morebus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hampshire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/morebus/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1943",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 50.607745083,
+    "maximum_latitude": 51.084148129,
+    "minimum_longitude": -2.470227704,
+    "maximum_longitude": -1.319685281
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Agglomération Sud Sainte Baume",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Côte d'Azur",
+    "city": "Saint-Cyr-sur-Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/050ef913-901c-49b7-babe-ef648e14314d",
+    "mdb_id": "tdg-83893",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

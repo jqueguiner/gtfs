@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bangalore Metropolitan Transport Corporation (BMTC)",
+    "country": "IN",
+    "subdivision": "Karnataka",
+    "city": "Hosakote taluk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/Vonter/bmtc-gtfs/raw/refs/heads/main/gtfs/bmtc.zip",
+    "mdb_id": "mdb-2595",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 12.0308,
+    "maximum_latitude": 17.77218,
+    "minimum_longitude": 75.11731,
+    "maximum_longitude": 78.39418
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

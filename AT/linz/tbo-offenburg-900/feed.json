@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "TBO Offenburg",
+    "country": "AT",
+    "subdivision": "Upper Austria",
+    "city": "Linz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/tgo.zip",
+    "mdb_id": "mdb-900",
+    "license": "https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz"
+  },
+  "bbox": {
+    "minimum_latitude": 0.0,
+    "maximum_latitude": 54.3174434,
+    "minimum_longitude": 0.0,
+    "maximum_longitude": 20.9637771
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

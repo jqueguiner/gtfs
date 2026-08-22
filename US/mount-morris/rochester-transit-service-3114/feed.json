@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Rochester Transit Service",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Mount Morris"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://scheduledata.rgrta.com/Regionals/Livingston.zip",
+    "mdb_id": "mdb-3114",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 42.55813,
+    "maximum_latitude": 43.162713,
+    "minimum_longitude": -77.991811,
+    "maximum_longitude": -77.442345
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

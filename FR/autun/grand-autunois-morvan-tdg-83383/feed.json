@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Grand Autunois Morvan",
+    "country": "FR",
+    "subdivision": "Bourgogne-Franche-Comté",
+    "city": "Autun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/b587f007-9b23-4b2a-a609-9368a4c2c490",
+    "mdb_id": "tdg-83383",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.9488519050809,
+    "maximum_latitude": 46.96653719,
+    "minimum_longitude": 4.28491117488887,
+    "maximum_longitude": 4.315822703
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

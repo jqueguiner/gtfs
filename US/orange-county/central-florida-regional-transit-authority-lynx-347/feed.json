@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Central Florida Regional Transit Authority (LYNX)",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Orange County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfsrt.golynx.com/gtfsrt/google_transit.zip",
+    "mdb_id": "mdb-347",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 28.10932,
+    "maximum_latitude": 28.741781,
+    "minimum_longitude": -81.67681,
+    "maximum_longitude": -81.205343
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

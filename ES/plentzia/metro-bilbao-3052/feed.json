@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Metro Bilbao",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Plentzia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/metrobilbao.zip",
+    "mdb_id": "mdb-3052",
+    "license": "https://data.ctb.eus/en/pages/legal-notice"
+  },
+  "bbox": {
+    "minimum_latitude": 43.23521,
+    "maximum_latitude": 43.40162,
+    "minimum_longitude": -3.03896,
+    "maximum_longitude": -2.88125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "伊勢市",
+    "country": "JP",
+    "subdivision": "Mie Prefecture",
+    "city": "Watarai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/isecity/feeds/numakibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-isecity-numakibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 34.394207,
+    "maximum_latitude": 34.453524273266,
+    "minimum_longitude": 136.622199,
+    "maximum_longitude": 136.703796
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

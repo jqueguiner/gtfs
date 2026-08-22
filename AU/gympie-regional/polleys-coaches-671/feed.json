@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Polleys Coaches",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Gympie Regional"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/GTFS/GYM_GTFS.zip",
+    "mdb_id": "mdb-671",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

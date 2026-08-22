@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "El Transbordador de Vizcaya (Bizkaia Bridge Ferry)",
+    "country": "ES",
+    "subdivision": "Autonomous Community of the Basque Country",
+    "city": "Getxo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1270",
+    "mdb_id": "mdb-2789",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 43.322816,
+    "maximum_latitude": 43.3235713,
+    "minimum_longitude": -3.017981,
+    "maximum_longitude": -3.0163488
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

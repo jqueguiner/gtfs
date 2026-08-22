@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Transports Municipals del Gironés SAU (TMG) Girona city bus",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Fornells de la Selva"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1570",
+    "mdb_id": "mdb-2751",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": {
+    "minimum_latitude": 41.9311750430337,
+    "maximum_latitude": 41.999491,
+    "minimum_longitude": 2.76029737602606,
+    "maximum_longitude": 2.83827578175268
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "株式会社タケヤ交通",
+    "country": "JP",
+    "subdivision": "Miyagi Prefecture",
+    "city": "Natori"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takeyakoutu/feeds/takeyakotsu/files/feed.zip?rid=current",
+    "mdb_id": "jbda-takeyakoutu-takeyakotsu",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 37.995159,
+    "maximum_latitude": 38.274495,
+    "minimum_longitude": 140.529867,
+    "maximum_longitude": 140.990622
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

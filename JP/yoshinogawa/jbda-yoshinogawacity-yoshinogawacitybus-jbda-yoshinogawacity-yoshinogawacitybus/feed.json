@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "吉野川市",
+    "country": "JP",
+    "subdivision": "Tokushima Prefecture",
+    "city": "Yoshinogawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yoshinogawacity/feeds/yoshinogawacitybus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yoshinogawacity-yoshinogawacitybus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

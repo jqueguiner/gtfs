@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Arcachon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/9564e981-7d13-481d-a29f-452025af7432",
+    "mdb_id": "tdg-82319",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 44.520813,
+    "maximum_latitude": 44.662716,
+    "minimum_longitude": -1.239806,
+    "maximum_longitude": -0.988486
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

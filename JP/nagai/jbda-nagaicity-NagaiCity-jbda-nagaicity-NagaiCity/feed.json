@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "長井市",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Nagai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagaicity/feeds/NagaiCity/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagaicity-NagaiCity",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.0489735,
+    "maximum_latitude": 38.1595809,
+    "minimum_longitude": 139.9821609,
+    "maximum_longitude": 140.0837396
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Bisbee Bus",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Cochise County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11816/Bisbee_AZ_GTFS.zip",
+    "mdb_id": "mdb-2857",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 31.335643,
+    "maximum_latitude": 31.452112,
+    "minimum_longitude": -109.948327,
+    "maximum_longitude": -109.870659
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

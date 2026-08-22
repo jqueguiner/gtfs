@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "City of Gatlinburg Trolley",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Sevier County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gatlinburg.connexionz.net/rtt/public/utility/gtfs.aspx",
+    "mdb_id": "tld-6775",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 35.703226,
+    "maximum_latitude": 35.757411,
+    "minimum_longitude": -83.52856,
+    "maximum_longitude": -83.41504
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

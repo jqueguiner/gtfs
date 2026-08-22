@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "室戸市",
+    "country": "JP",
+    "subdivision": "Kochi Prefecture",
+    "city": "Muroto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murotocity/feeds/GTFS-Murotocity_Bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-murotocity-GTFS-Murotocity_Bus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 33.285194,
+    "maximum_latitude": 33.442839,
+    "minimum_longitude": 134.041475,
+    "maximum_longitude": 134.222338
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

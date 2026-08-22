@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STAR Transit",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Dallas County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/startransit-tx-us/startransit-tx-us.zip",
+    "mdb_id": "mdb-153",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

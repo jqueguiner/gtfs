@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Samar Buses",
+    "country": "ES",
+    "subdivision": "Castile-La Mancha",
+    "city": "Abenójar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1165",
+    "mdb_id": "mdb-2712",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

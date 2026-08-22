@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Glacier National Park",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Flathead County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/glac/going-to-the-sun-road-shuttle.zip",
+    "mdb_id": "tld-6908",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 48.522939,
+    "maximum_latitude": 48.7543295349095,
+    "minimum_longitude": -113.98883,
+    "maximum_longitude": -113.43854
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

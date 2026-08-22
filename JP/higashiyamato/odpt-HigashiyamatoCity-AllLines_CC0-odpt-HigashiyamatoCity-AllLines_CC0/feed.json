@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "東大和市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Higashiyamato"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip?date=current",
+    "mdb_id": "odpt-HigashiyamatoCity-AllLines_CC0",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.7323747633492,
+    "maximum_latitude": 35.758864486644,
+    "minimum_longitude": 139.415757424092,
+    "maximum_longitude": 139.444516500594
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

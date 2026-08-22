@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - ExtraUrbano Lucca",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Barga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/83944446-5fc9-4ff7-8917-e195b4f3285c/download/21-extraurbanolucca.gtfs",
+    "mdb_id": "tld-6987",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.6636480547508,
+    "maximum_latitude": 44.2582446961589,
+    "minimum_longitude": 10.0997857401572,
+    "maximum_longitude": 10.7925843989936
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

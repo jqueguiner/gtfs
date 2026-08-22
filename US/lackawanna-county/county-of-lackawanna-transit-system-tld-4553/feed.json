@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "County of Lackawanna Transit System",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Lackawanna County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://coltsivl.availtec.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-4553",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.24822788,
+    "maximum_latitude": 41.58162,
+    "minimum_longitude": -75.8369549031,
+    "maximum_longitude": -75.498993
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

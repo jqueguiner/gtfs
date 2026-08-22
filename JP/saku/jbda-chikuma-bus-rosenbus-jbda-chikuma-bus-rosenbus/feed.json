@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "千曲バス株式会社",
+    "country": "JP",
+    "subdivision": "Nagano Prefecture",
+    "city": "Saku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chikuma-bus/feeds/rosenbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-chikuma-bus-rosenbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.0557086727864,
+    "maximum_latitude": 36.4183557677087,
+    "minimum_longitude": 137.966257824412,
+    "maximum_longitude": 138.50726489615
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nouvelle-Aquitaine Mobilités",
+    "country": "FR",
+    "subdivision": "New Aquitaine",
+    "city": "Roches-Prémarie-Andillé"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/a70fab11-9ac9-481e-91c8-925e805741ba",
+    "mdb_id": "tdg-82332",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 46.004478,
+    "maximum_latitude": 47.165794,
+    "minimum_longitude": 0.082601,
+    "maximum_longitude": 0.876258
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

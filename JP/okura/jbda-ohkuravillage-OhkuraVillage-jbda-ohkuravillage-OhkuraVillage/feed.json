@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "大蔵村",
+    "country": "JP",
+    "subdivision": "Yamagata Prefecture",
+    "city": "Okura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/ohkuravillage/feeds/OhkuraVillage/files/feed.zip?rid=current",
+    "mdb_id": "jbda-ohkuravillage-OhkuraVillage",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 38.606514,
+    "maximum_latitude": 38.767481,
+    "minimum_longitude": 140.1653773,
+    "maximum_longitude": 140.309541
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

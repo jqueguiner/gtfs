@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Pee Dee Regional Transportation Authority",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Florence County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://res2.yourwebsite.life/res/605995d1530fd500214c97ba/65d93f37ca8ed2000ecad7f6",
+    "mdb_id": "ntd-40056",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.659311,
+    "maximum_latitude": 34.776419,
+    "minimum_longitude": -80.399973,
+    "maximum_longitude": -78.771945
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

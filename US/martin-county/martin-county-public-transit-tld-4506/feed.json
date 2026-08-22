@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Martin County Public Transit",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Martin County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.martin.fl.us/GTFS/google_transit.zip",
+    "mdb_id": "tld-4506",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 26.7850531211527,
+    "maximum_latitude": 27.266416,
+    "minimum_longitude": -80.489601,
+    "maximum_longitude": -80.058597
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

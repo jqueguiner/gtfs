@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grande Prairie Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Grande Prairie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gpt.mapstrat.com/current/google_transit.zip",
+    "mdb_id": "tld-4821",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

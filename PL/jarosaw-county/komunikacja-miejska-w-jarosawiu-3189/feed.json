@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Komunikacja miejska w Jarosławiu",
+    "country": "PL",
+    "subdivision": "Subcarpathian Voivodeship",
+    "city": "Jarosław County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/rozkladnik/gtfs-pwik-jaroslaw/releases/latest/download/gtfs.zip",
+    "mdb_id": "mdb-3189",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 49.99957261,
+    "maximum_latitude": 50.12758916,
+    "minimum_longitude": 22.62696086,
+    "maximum_longitude": 22.71882124
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

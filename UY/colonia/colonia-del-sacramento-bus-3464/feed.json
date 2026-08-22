@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Colonia del Sacramento - Bus",
+    "country": "UY",
+    "subdivision": "Colonia",
+    "city": "Colonia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/manufarfaro/colonia-gtfs/releases/download/v0.3.0/gtfs.zip",
+    "mdb_id": "mdb-3464",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": -34.471231,
+    "maximum_latitude": -34.433885,
+    "minimum_longitude": -57.854349,
+    "maximum_longitude": -57.79125
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

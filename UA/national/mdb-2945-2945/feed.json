@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "КП Бучатранссервіс",
+    "country": "UA",
+    "subdivision": "Kyiv Oblast",
+    "city": "Бучанський район"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gw.x24.digital/api/bu/gtfs/v1/download/static",
+    "mdb_id": "mdb-2945",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 50.526396,
+    "maximum_latitude": 50.68019641956963,
+    "minimum_longitude": 30.01239377887516,
+    "maximum_longitude": 30.264886481805785
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

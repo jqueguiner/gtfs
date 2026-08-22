@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Rillieux-la-Pape"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/dbd0bd0e-933a-4a21-8772-efdf41778e64",
+    "mdb_id": "tdg-79810",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 45.815624,
+    "maximum_latitude": 45.838173,
+    "minimum_longitude": 4.9085,
+    "maximum_longitude": 5.021026
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

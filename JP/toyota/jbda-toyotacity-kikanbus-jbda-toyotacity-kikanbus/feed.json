@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "豊田市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Toyota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyotacity/feeds/kikanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-toyotacity-kikanbus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.028623,
+    "maximum_latitude": 35.25166,
+    "minimum_longitude": 137.130337241326,
+    "maximum_longitude": 137.509109
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

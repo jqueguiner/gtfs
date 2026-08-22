@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Direkcija za javni prevoz Niš",
+    "country": "RS",
+    "subdivision": "Nisava Administrative District",
+    "city": "Градска општина Палилула"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/nis-gtfs/latest/nis_gtfs.zip",
+    "mdb_id": "mdb-2928",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.2488261635,
+    "maximum_latitude": 43.464766,
+    "minimum_longitude": 21.740602,
+    "maximum_longitude": 22.148054
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

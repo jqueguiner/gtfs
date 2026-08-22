@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "OmniTrans",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Yucaipa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.omnitrans.org/google/google_transit.zip",
+    "mdb_id": "mdb-97",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.977157,
+    "maximum_latitude": 34.18983,
+    "minimum_longitude": -117.751673,
+    "maximum_longitude": -117.034458
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

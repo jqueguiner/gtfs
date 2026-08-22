@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "淡路市",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/awajicity/feeds/awaji-jenova-line-akashi-iwaya/files/feed.zip?rid=current",
+    "mdb_id": "jbda-awajicity-awaji-jenova-line-akashi-iwaya",
+    "license": "https://creativecommons.org/licenses/by/2.1/jp/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

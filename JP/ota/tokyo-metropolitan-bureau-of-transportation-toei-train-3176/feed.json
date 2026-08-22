@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Tokyo Metropolitan Bureau of Transportation - Toei Train",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Ota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/Toei/data/Toei-Train-GTFS.zip",
+    "mdb_id": "mdb-3176",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 35.58705,
+    "maximum_latitude": 35.814541,
+    "minimum_longitude": 139.628901,
+    "maximum_longitude": 139.926613
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "株式会社群馬バス",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Yoshioka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current",
+    "mdb_id": "odpt-GunmaBus-AllLines",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 36.2724416990673,
+    "maximum_latitude": 36.5006069559389,
+    "minimum_longitude": 138.685827255249,
+    "maximum_longitude": 139.097004299349
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

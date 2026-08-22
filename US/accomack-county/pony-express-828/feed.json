@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pony Express",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Accomack County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/ponyexpress-va-us/ponyexpress-va-us.zip",
+    "mdb_id": "mdb-828",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

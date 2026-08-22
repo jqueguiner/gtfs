@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Communauté de Communes des Montagnes du Giffre",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Châtillon-sur-Cluses"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/58b67800-a341-44f8-9a31-864d578b9757",
+    "mdb_id": "tdg-81549",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": {
+    "minimum_latitude": 46.005558,
+    "maximum_latitude": 46.128735,
+    "minimum_longitude": 6.5827954,
+    "maximum_longitude": 6.77552992
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

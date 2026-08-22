@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "永井運輸株式会社",
+    "country": "JP",
+    "subdivision": "Gunma Prefecture",
+    "city": "Maebashi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagai-unyu/feeds/Nagaibus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-nagai-unyu-Nagaibus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.273268,
+    "maximum_latitude": 36.458699,
+    "minimum_longitude": 139.047567,
+    "maximum_longitude": 139.193544
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

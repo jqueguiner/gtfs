@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Avon Transit",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Eagle County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.avon.org/DocumentCenter/View/25051/TownOfAvon_gtfs",
+    "mdb_id": "mdb-2433",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 39.60392848782936,
+    "maximum_latitude": 39.63887215000005,
+    "minimum_longitude": -106.53768269999996,
+    "maximum_longitude": -106.49384127099997
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

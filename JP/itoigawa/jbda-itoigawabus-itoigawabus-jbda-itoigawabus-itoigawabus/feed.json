@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "糸魚川バス株式会社",
+    "country": "JP",
+    "subdivision": "Niigata Prefecture",
+    "city": "Itoigawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/itoigawabus/feeds/itoigawabus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-itoigawabus-itoigawabus",
+    "license": "https://creativecommons.org/licenses/by/4.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 36.8112368329296,
+    "maximum_latitude": 37.1439389941876,
+    "minimum_longitude": 137.78837621212,
+    "maximum_longitude": 138.076319588232
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

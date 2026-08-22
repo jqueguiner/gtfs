@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Ute Tribe Public Transit",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "Uintah County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mjcaction.com/MJC_GTFS_Public/utetribe_gtfs.zip",
+    "mdb_id": "ntd-88200",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 40.195483,
+    "maximum_latitude": 40.49662,
+    "minimum_longitude": -110.070336,
+    "maximum_longitude": -109.772791
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

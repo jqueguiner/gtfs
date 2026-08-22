@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "みよし市",
+    "country": "JP",
+    "subdivision": "Aichi Prefecture",
+    "city": "Miyoshi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/aichi-miyoshicity/feeds/sansanbus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-aichi-miyoshicity-sansanbus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

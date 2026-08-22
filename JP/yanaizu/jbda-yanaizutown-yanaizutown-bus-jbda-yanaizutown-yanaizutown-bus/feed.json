@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "柳津町",
+    "country": "JP",
+    "subdivision": "Fukushima Prefecture",
+    "city": "Yanaizu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yanaizutown/feeds/yanaizutown-bus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-yanaizutown-yanaizutown-bus",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

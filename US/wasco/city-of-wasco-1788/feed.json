@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "City of Wasco",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Wasco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.calitp.org/production/WascoDialaRideFlex.zip",
+    "mdb_id": "mdb-1788",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

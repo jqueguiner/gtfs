@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Cape Lookout National Seashore",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Harkers Island"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nps.gov/external-resources/gtfs/calo/calo-ferry-service.zip",
+    "mdb_id": "mdb-3205",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 34.62412,
+    "maximum_latitude": 34.7153,
+    "minimum_longitude": -76.6631,
+    "maximum_longitude": -76.52342
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Coralville Transit",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Johnson County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/coralvilletransitsystem-ia-us/coralvilletransitsystem-ia-us.zip",
+    "mdb_id": "mdb-196",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 41.66034191106,
+    "maximum_latitude": 41.75054803919,
+    "minimum_longitude": -91.614688763131,
+    "maximum_longitude": -91.534762424275
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transit Authority of Warren County",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Warren County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tawc.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "ntd-30124",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

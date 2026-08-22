@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Albon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/4e69fff6-6ae5-4ac0-9fa4-9c24ac92f291",
+    "mdb_id": "tdg-80961",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": {
+    "minimum_latitude": 43.9228,
+    "maximum_latitude": 45.371933,
+    "minimum_longitude": 3.854386,
+    "maximum_longitude": 4.8946609
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

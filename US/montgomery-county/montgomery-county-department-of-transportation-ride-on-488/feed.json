@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Montgomery County Department of Transportation (Ride On)",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Montgomery County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.montgomerycountymd.gov/DOT-Transit/Resources/Files/GTFS/RideOnGTFS.zip",
+    "mdb_id": "mdb-488",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 38.93569,
+    "maximum_latitude": 39.288509,
+    "minimum_longitude": -77.418659,
+    "maximum_longitude": -76.930802
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lindsay Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Kawartha Lakes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://metrolinx.tmix.se/gtfs/gtfs-kawartha.zip",
+    "mdb_id": "tld-4732",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane - Urbano Arezzo",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Arezzo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/dc221e7d-755b-420a-b6f6-8cd5fdf5001b/download/49-urbanoarezzo.gtfs",
+    "mdb_id": "tld-7010",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 43.3553331688922,
+    "maximum_latitude": 43.5583744641402,
+    "minimum_longitude": 11.7665475977671,
+    "maximum_longitude": 12.0635450276757
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

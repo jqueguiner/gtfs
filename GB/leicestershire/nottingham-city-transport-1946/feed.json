@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Nottingham City Transport",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Leicestershire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.discoverpassenger.com/operator/nctx/dataset/current/download/gtfs",
+    "mdb_id": "mdb-1946",
+    "license": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/"
+  },
+  "bbox": {
+    "minimum_latitude": 52.766194,
+    "maximum_latitude": 53.08484,
+    "minimum_longitude": -1.282932,
+    "maximum_longitude": -0.77294
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

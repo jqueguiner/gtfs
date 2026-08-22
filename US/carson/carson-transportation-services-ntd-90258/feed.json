@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Carson Transportation Services",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Carson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11488/CTSGTSFFeedFiles(1.3.24).zip",
+    "mdb_id": "ntd-90258",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 33.818981,
+    "maximum_latitude": 33.873082,
+    "minimum_longitude": -118.281642,
+    "maximum_longitude": -118.234818
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

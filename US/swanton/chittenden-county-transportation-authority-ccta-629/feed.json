@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "Chittenden County Transportation Authority (CCTA)",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Swanton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip",
+    "mdb_id": "mdb-629",
+    "license": null
+  },
+  "bbox": {
+    "minimum_latitude": 44.010319,
+    "maximum_latitude": 44.99747,
+    "minimum_longitude": -73.29892,
+    "maximum_longitude": -72.02065
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

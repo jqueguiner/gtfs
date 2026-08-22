@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "船木鉄道株式会社",
+    "country": "JP",
+    "subdivision": "Yamaguchi Prefecture",
+    "city": "Ube"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/sentetsu/feeds/Sentetsubus/files/feed.zip?rid=current",
+    "mdb_id": "jbda-sentetsu-Sentetsubus",
+    "license": "https://developer.odpt.org/terms/data_basic_license.html"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

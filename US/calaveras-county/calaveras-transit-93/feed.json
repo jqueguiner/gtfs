@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Calaveras Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Calaveras County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.trilliumtransit.com/gtfs/calaveras-ca-us/calaveras-ca-us.zip",
+    "mdb_id": "mdb-93",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

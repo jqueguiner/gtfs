@@ -1,0 +1,22 @@
+{
+  "agency": {
+    "name": "飯能市",
+    "country": "JP",
+    "subdivision": "Saitama Prefecture",
+    "city": "Hanno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hannocity/feeds/odekakemuma-haraichiba/files/feed.zip?rid=current",
+    "mdb_id": "jbda-hannocity-odekakemuma-haraichiba",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/deed.ja"
+  },
+  "bbox": {
+    "minimum_latitude": 35.8619146009294,
+    "maximum_latitude": 35.8868295213085,
+    "minimum_longitude": 139.207899034437,
+    "maximum_longitude": 139.26166924043
+  },
+  "source": "mobility-database",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Endless Mountains Transportation Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Tioga County"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://best.rideralerts.com/InfoPoint/gtfs-zip.ashx",
+    "mdb_id": "tld-7021",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

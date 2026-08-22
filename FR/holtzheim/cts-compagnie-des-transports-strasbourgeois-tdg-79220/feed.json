@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTS - Compagnie des Transports Strasbourgeois",
+    "country": "FR",
+    "subdivision": "Grand Est",
+    "city": "Holtzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/eeea9e52-4f8a-459e-aef5-a093a3b05356",
+    "mdb_id": "tdg-79220",
+    "license": "https://www.data.gouv.fr/pages/legal/licences/etalab-2.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

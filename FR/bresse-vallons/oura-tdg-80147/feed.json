@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oùra",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Bresse Vallons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/api/1/datasets/r/cd0ec3c7-431b-48df-bab5-269e5d5c05bb",
+    "mdb_id": "tdg-80147",
+    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
