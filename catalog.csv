@@ -349,12 +349,475 @@ DE,Tuttlingen,TuTicket,https://www.nvbw.de/fileadmin/user_upload/service/open_da
 DE,Ulm,DB ZugBus Regionalverkehr Alb-Bodensee,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rab.zip,mdb-773,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Ulm,SWU Verkehr GmbH (SWU),https://gtfs.swu.de/daten/SWU.zip,mdb-776,,active
 DE,Vorpommern-Rügen,TrafikLab,https://api.resrobot.se/gtfs/sweden.zip,mdb-2661,https://www.trafiklab.se/api/gtfs-datasets/gtfs-sverige-2/,active
+DE,national,-,https://download.gtfs.de/germany/free/latest.zip,de-ag-336d5ebc54,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,00799 Dampfnostalgie Karlsruhe,https://download.gtfs.de/germany/free/latest.zip,de-ag-df2b39accd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,800151 DB Regio AG Nordost,https://download.gtfs.de/germany/free/latest.zip,de-ag-f3bc018d51,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,80SIW,https://download.gtfs.de/germany/free/latest.zip,de-ag-a1cc3e9b2c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ABELLIO Rail Mitteldeutschland GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-233f18235f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,AG Reederei Norden-Frisa,https://download.gtfs.de/germany/free/latest.zip,de-ag-0fc1b32410,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,AKN Eisenbahn AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-5dd70485f8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,AUTOZUG Sylt,https://download.gtfs.de/germany/free/latest.zip,de-ag-3b06cb92dc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,AVV Handeingabe,https://download.gtfs.de/germany/free/latest.zip,de-ag-c9b9edfde4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Aachener Straßenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-00cbacbdd6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Adler & Eils GmbH Co. KG,https://download.gtfs.de/germany/free/latest.zip,de-ag-5a254b81d5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Adler-Schiffe,https://download.gtfs.de/germany/free/latest.zip,de-ag-4363289777,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Aktien-Gesellschaft EMS,https://download.gtfs.de/germany/free/latest.zip,de-ag-48244ff075,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Aktiv Bus Flensburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-b770f59dfc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Albtal-Verkehrs-Gesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-926e3b871f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Alois Pfeffer e.K.,https://download.gtfs.de/germany/free/latest.zip,de-ag-685dd9cdde,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Andressen Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-a373a908d5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Angelner Dampfeisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-279e2d94dd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ansbacher Bäder und Verkehrs GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-f023afcc1f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Arendt Busbetrieb,https://download.gtfs.de/germany/free/latest.zip,de-ag-535e364c19,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Arriva NL,https://download.gtfs.de/germany/free/latest.zip,de-ag-f4a049a8b5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Arverio Baden-Württemberg GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-041c7b055e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Augsburger Verkehrs- und Tarifverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-c9d34efcde,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Augsburger Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-9a3786a4dc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Autokraft Kiel,https://download.gtfs.de/germany/free/latest.zip,de-ag-25fd7fdada,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,BVR Busverkehr Rheinland GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-6e46619300,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,BahnTouristikExpress,https://download.gtfs.de/germany/free/latest.zip,de-ag-0a140295ed,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bahnen der Stadt Monheim,https://download.gtfs.de/germany/free/latest.zip,de-ag-39fb81b8d6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Barnimer Busges.,https://download.gtfs.de/germany/free/latest.zip,de-ag-56edd8ba79,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bayerische Regiobahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-6e4b61b187,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bayerische Regionalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-27df65f3c0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bayerische Zugspitzbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-368fe3e53c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bentheimer Eisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-f630bafa31,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Berliner Verkehrsbetriebe,https://download.gtfs.de/germany/free/latest.zip,de-ag-a4e0a469c1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bochum-Gelsenkirchener Straßenbahnen AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-a7cc2084e7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bodensee-Oberschwaben-Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-bbcd955127,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bodensee-Oberschwaben-Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-0acc2f81c3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bremer Straßenbahn AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-ad94b33ce5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bremerhavenbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-28e1fdb5dd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Brohltalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-f573593158,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Brünemeyer,https://download.gtfs.de/germany/free/latest.zip,de-ag-cf79200f0b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Burlein und Sohn GmbH & Co. KG,https://download.gtfs.de/germany/free/latest.zip,de-ag-d282f86a86,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bus GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-8cffe8eddc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,BusClassic / Weiglein,https://download.gtfs.de/germany/free/latest.zip,de-ag-9b6781b14d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Bustouristik GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-4506e9f3f6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,BördeBus Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-f1dbcc9dd3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,CFL,https://download.gtfs.de/germany/free/latest.zip,de-ag-fdbf8bb275,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Cargo Logistik Rail Service,https://download.gtfs.de/germany/free/latest.zip,de-ag-0a258505d1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ceske Drahy,https://download.gtfs.de/germany/free/latest.zip,de-ag-efe15c6ac4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Chiemgauer Lokalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-d46edc45ba,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,City-Bahn Chemnitz,https://download.gtfs.de/germany/free/latest.zip,de-ag-1af2c52c98,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Cottbusverkehr,https://download.gtfs.de/germany/free/latest.zip,de-ag-7cfd2fc494,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DADINA,https://download.gtfs.de/germany/free/latest.zip,de-ag-ea580feac6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Fernverkehr (Codesharing),https://download.gtfs.de/germany/free/latest.zip,de-ag-08360c77ab,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Fernverkehr AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-b27e71dd21,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Nord,https://download.gtfs.de/germany/free/latest.zip,de-ag-6b1218404b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Baden-Württemberg,https://download.gtfs.de/germany/free/latest.zip,de-ag-bd9d8e6801,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Bayern,https://download.gtfs.de/germany/free/latest.zip,de-ag-64ec4e3a27,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Mitte,https://download.gtfs.de/germany/free/latest.zip,de-ag-f412c8f2cb,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Mitte Region Hessen,https://download.gtfs.de/germany/free/latest.zip,de-ag-377cfd6ba0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Mitte Region Südwest,https://download.gtfs.de/germany/free/latest.zip,de-ag-3cc86500a0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG NRW,https://download.gtfs.de/germany/free/latest.zip,de-ag-eaeb93b42d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Nord,https://download.gtfs.de/germany/free/latest.zip,de-ag-1e203e5160,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Nordost,https://download.gtfs.de/germany/free/latest.zip,de-ag-55b95d5822,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG S-Bahn Stuttgart,https://download.gtfs.de/germany/free/latest.zip,de-ag-80ca39323b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio AG Südost,https://download.gtfs.de/germany/free/latest.zip,de-ag-b2d708f1dd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio Bus Region Mitte,https://download.gtfs.de/germany/free/latest.zip,de-ag-3a815460c4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio Mitte,https://download.gtfs.de/germany/free/latest.zip,de-ag-11aa5ea925,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regio Stuttgart,https://download.gtfs.de/germany/free/latest.zip,de-ag-5bcfcd6002,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioBus Bayern,https://download.gtfs.de/germany/free/latest.zip,de-ag-d78ea66055,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioNetz Verkehrs GmbH Erzgebirgsbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-046b179e95,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioNetz Verkehrs GmbH Kurhessenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-81ea2c2c93,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioNetz Verkehrs GmbH Oberweisbacher Berg+Schwa,https://download.gtfs.de/germany/free/latest.zip,de-ag-4c56692bd2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioNetz Verkehrs GmbH Südostbayernbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-c7641f7637,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB RegioNetz Verkehrs GmbH Westfrankenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-875c3d3e60,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB Regiobus OST,https://download.gtfs.de/germany/free/latest.zip,de-ag-6f69fcb65e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB S-Bahn München,https://download.gtfs.de/germany/free/latest.zip,de-ag-db1985f097,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB SEV GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-b02cf2a601,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,DB ZugBus Regionalverkehr Alb-Bodensee GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-39d9216e21,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,DELFI Germany-wide scheduled timetable data (GTFS),https://www.opendata-oepnv.de/index.php?id=1384&tx_vrrkit_view%5Bsharing%5D=eyJkYXRhc2V0IjoiZGV1dHNjaGxhbmR3ZWl0ZS1zb2xsZmFocnBsYW5kYXRlbi1ndGZzIiwidXNlcklkIjo1MDM4fQ%3D%3D&tx_vrrkit_view%5Baction%5D=download&tx_vrrkit_view%5Bcontroller%5D=View,mdb-3215,http://www.opendefinition.org/licenses/cc-by,active
+DE,national,DING und htv,https://download.gtfs.de/germany/free/latest.zip,de-ag-2a7e151e91,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Daadetalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-bb362db12f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Dafinger GmbH Omnibusunternehmen,https://download.gtfs.de/germany/free/latest.zip,de-ag-88ee73463c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Delmenhorst-Harpstedter Eisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-1d6041a615,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Dessau-Wörlitzer Eisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-abb135f8f6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Dessauer Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-b101a4d8c7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Die Länderbahn GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7758b6240c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Dortmunder Stadtwerke DSW,https://download.gtfs.de/germany/free/latest.zip,de-ag-1ac0beb5e5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Duisburger Verkehrsgesellschaft AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-0810fa0438,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Dänische Staatsbahnen,https://download.gtfs.de/germany/free/latest.zip,de-ag-0be9bd38bc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ESWE direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-46795ba2b0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,EUROSTAR,https://download.gtfs.de/germany/free/latest.zip,de-ag-ab1104d17d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,EVB ELBE-WESER GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-6bfbf060f7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ebenbeck Reisen Straubing,https://download.gtfs.de/germany/free/latest.zip,de-ag-ec4f3a2d91,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Edzards Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-d429651116,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ehard Touristik GmbH Schwabach,https://download.gtfs.de/germany/free/latest.zip,de-ag-1103f78b00,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Eisenbahnen und Verkehrsbetriebe Elbe-Weser GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-a5c867f805,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Erfurter Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-46fb489676,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Erfurter Bahn Express,https://download.gtfs.de/germany/free/latest.zip,de-ag-c3a92a51d7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Erfurter Verkehrsbetriebe AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-e54305bd9e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Erlanger Stadtverkehr,https://download.gtfs.de/germany/free/latest.zip,de-ag-913c87fbbb,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ernst Lambürger Grenzlandreisebüro Omnibusunternehmen,https://download.gtfs.de/germany/free/latest.zip,de-ag-4c1a445bce,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Essener Verkehrs AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-cd2e5624f5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,European Sleeper,https://download.gtfs.de/germany/free/latest.zip,de-ag-f24f05b8fd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,FRS Helgoline,https://download.gtfs.de/germany/free/latest.zip,de-ag-c210d76c54,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Fahrplaneditor,https://download.gtfs.de/germany/free/latest.zip,de-ag-058d94a9d5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Federl Busreisen (Neumarkt/Obf),https://download.gtfs.de/germany/free/latest.zip,de-ag-bcc4325d37,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Flixbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-d46f3a2273,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Flixtrain,https://download.gtfs.de/germany/free/latest.zip,de-ag-a4250067a0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,FraPort,https://download.gtfs.de/germany/free/latest.zip,de-ag-83135220d2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Freiberger Eisenbahngesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-4026559bc2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Freiburger Verkehrs AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-d63d58f04d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Fähren,https://download.gtfs.de/germany/free/latest.zip,de-ag-8d6966f032,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,GYRB Arverio Bayern GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-3a1c5bdfc1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,GYRE Arverio Bayern GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-219c6bacf6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Gerdes Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-953916c4ea,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Gesamtnetz der deutschen Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-bb10434fd5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Gesellschaft zur Förderung des ÖPNV Landkreis,https://download.gtfs.de/germany/free/latest.zip,de-ag-208663ef61,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Gesellschaft zur Förderung des ÖPNV Regensburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-93451e26c6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-4942b0b020,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Go-Ahead,https://download.gtfs.de/germany/free/latest.zip,de-ag-2767b8fbf6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Go-Ahead Verkehrsgesellschaft Deutschland GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7f2a36abc8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Grasmann-Reisen GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d046056972,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Großraumverkehr Hannover,https://download.gtfs.de/germany/free/latest.zip,de-ag-ad45f2440a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Gute Reise Hauck,https://download.gtfs.de/germany/free/latest.zip,de-ag-2ec9d3872f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Göttinger Verkehrsbetriebe,https://download.gtfs.de/germany/free/latest.zip,de-ag-f290b0b681,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,HEAG,https://download.gtfs.de/germany/free/latest.zip,de-ag-25f1b8ad8d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,HSB direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-30b33d83e6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,HZZP,https://download.gtfs.de/germany/free/latest.zip,de-ag-38040f514b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hagener Straßenbahn AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-7327a1e086,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Halberstädter Verkehrs-GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-3721062270,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hallesche Verkehrs-AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-806df43944,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hamburger Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-04235adf09,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hanseatische Eisenbahn GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-a58d9a30ea,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Harzer Schmalspurbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-c3d6e4549d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Harzer Schmalspurbahnen,https://download.gtfs.de/germany/free/latest.zip,de-ag-ff2fc8c5be,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Harzer Verkehrsbetriebe GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-ee6a915377,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Havelbus Verkehrsgesellschaft mb,https://download.gtfs.de/germany/free/latest.zip,de-ag-0409385fb9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Heilbronner Nahverkehr,https://download.gtfs.de/germany/free/latest.zip,de-ag-f3f6f06259,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Heiner Geis GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-1406475dc4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hessische Landesbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-ec00ed1073,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hildesheim,https://download.gtfs.de/germany/free/latest.zip,de-ag-4dbe0ffdff,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hogger GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-71e14c6e02,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hülsmann Ratio,https://download.gtfs.de/germany/free/latest.zip,de-ag-9738da7e40,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Hülsmann VGE-Süd,https://download.gtfs.de/germany/free/latest.zip,de-ag-81a13d042a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,IGDB - RNV MRB direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-6c85d169f9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,IGDB - VHT direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-7d31102aa9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,IV HG,https://download.gtfs.de/germany/free/latest.zip,de-ag-4a3f3e6367,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ilchmann Tours GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-b0e37bc167,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ilztalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-3b8738f2fa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ingolstadt,https://download.gtfs.de/germany/free/latest.zip,de-ag-185456cb26,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,JANßen Omnibusbetrieb,https://download.gtfs.de/germany/free/latest.zip,de-ag-ecf49a749d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Jenaer Nahverkehr GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-15f060c1e1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KVG M,https://download.gtfs.de/germany/free/latest.zip,de-ag-8338f5640f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KVG MKK direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-70cfb89d99,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KVG OF - Faisy BAIM,https://download.gtfs.de/germany/free/latest.zip,de-ag-55b13aa92a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KVG Salzland,https://download.gtfs.de/germany/free/latest.zip,de-ag-79501bf51e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KVV,https://download.gtfs.de/germany/free/latest.zip,de-ag-5d0d1cf5fa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kahlgrund Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-255247aacc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kandertalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-1b04444527,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Karl Beck GmbH & Co. KG,https://download.gtfs.de/germany/free/latest.zip,de-ag-d4617677f0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Karlsruher Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-9068aec0d6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kasbachtalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-eda8032343,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kieler Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-0d5ab5ca5f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,KomBus GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-075e305303,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kraus Reisen Gmbh,https://download.gtfs.de/germany/free/latest.zip,de-ag-cfc3f39b4f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kurt Geis GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7fcd9af73d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Kuschick (VBN),https://download.gtfs.de/germany/free/latest.zip,de-ag-a31b86833a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Köln-Düsseldorfer Deutsche Rheinschifffahrt AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-02fda1c853,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LEO Express,https://download.gtfs.de/germany/free/latest.zip,de-ag-11ae1d0ec6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LK Emsland,https://download.gtfs.de/germany/free/latest.zip,de-ag-d3c5826a44,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LK Hameln-Pyrmont,https://download.gtfs.de/germany/free/latest.zip,de-ag-697bca4948,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LK Schaumburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-594857e02a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LNG Fulda direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-526d0cdc83,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LNG LLM direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-d85241c2d7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LNVG-GG,https://download.gtfs.de/germany/free/latest.zip,de-ag-3f5cddf2b3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,LVB,https://download.gtfs.de/germany/free/latest.zip,de-ag-2fe22280f2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Altötting,https://download.gtfs.de/germany/free/latest.zip,de-ag-855bcf9d61,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Calw,https://download.gtfs.de/germany/free/latest.zip,de-ag-8f4778615c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Cham,https://download.gtfs.de/germany/free/latest.zip,de-ag-cd2e195371,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Freudenstadt,https://download.gtfs.de/germany/free/latest.zip,de-ag-91a821a66d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Freyung-Grafenau,https://download.gtfs.de/germany/free/latest.zip,de-ag-23c7f85c44,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Landsberg (Lech),https://download.gtfs.de/germany/free/latest.zip,de-ag-f4663cbdfe,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Landshut,https://download.gtfs.de/germany/free/latest.zip,de-ag-244675a3c0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Mühldorf,https://download.gtfs.de/germany/free/latest.zip,de-ag-4a4c7b5980,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Neuburg-Schrobenhausen,https://download.gtfs.de/germany/free/latest.zip,de-ag-c95d33fc6e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Landkreis Rottal (Pfarrkirchen),https://download.gtfs.de/germany/free/latest.zip,de-ag-af1ac22f08,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Lyst-Reisen Stefan Lyding KG,https://download.gtfs.de/germany/free/latest.zip,de-ag-8a569ba28c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Länderbahn CZ,https://download.gtfs.de/germany/free/latest.zip,de-ag-dda31dbed1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Lüchow-Schmarsauer Eisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-46dec6e978,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,MAV,https://download.gtfs.de/germany/free/latest.zip,de-ag-977a916a31,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,MSM Partyzug,https://download.gtfs.de/germany/free/latest.zip,de-ag-bff0831a59,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,MTV,https://download.gtfs.de/germany/free/latest.zip,de-ag-b49882eae9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Magdeburger Verkehrsbetriebe AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-44ac40f07e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Mainschleifenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-96f7fcbb20,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Mansfelder Bergwerksbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-7271764c0d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Martin Regionalbus Pressig,https://download.gtfs.de/germany/free/latest.zip,de-ag-2e52a7dd8d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Mecklenburgische Bäderbahn Molli,https://download.gtfs.de/germany/free/latest.zip,de-ag-d3e33f90d5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Meininger Busbetriebs GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-119634dac4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Merseburg Querfurt,https://download.gtfs.de/germany/free/latest.zip,de-ag-7777fd7532,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Merz Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-a6899277ca,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Meyering Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-49aa8cc4ad,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,MittelSachsen,https://download.gtfs.de/germany/free/latest.zip,de-ag-eb9394d732,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Mitteldeutsche Regiobahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-dbe60bc351,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,MittelrheinBahn (Trans Regio),https://download.gtfs.de/germany/free/latest.zip,de-ag-e1a34f505b,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Mobilithek / DELFI (National Access Point) + gtfs.de,https://download.gtfs.de/germany/free/latest.zip,de-national-bulk,,active
+DE,national,Mobilitätszentrale Elbe-Weser,https://download.gtfs.de/germany/free/latest.zip,de-ag-ec2a82c28f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Montafoner Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-f1531a8d4c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Märkische VG,https://download.gtfs.de/germany/free/latest.zip,de-ag-46705e96bd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Mülheimer VerkehrsGesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-5551d3719e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Münchner Verkehrs- und Tarifverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-a0fe64eefc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NAHSH,https://download.gtfs.de/germany/free/latest.zip,de-ag-78ee54a052,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NEB Niederbarnimer Eisenbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-117fa419ad,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NEW Viersen,https://download.gtfs.de/germany/free/latest.zip,de-ag-2de8c0ff6a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NEW mobil und aktiv Mönchengladbach GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-6ffed9b543,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NJL,https://download.gtfs.de/germany/free/latest.zip,de-ag-b6670c1950,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NVV - Faisy,https://download.gtfs.de/germany/free/latest.zip,de-ag-68f9c6f085,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NVV ESM AST,https://download.gtfs.de/germany/free/latest.zip,de-ag-8673598f46,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nachtzug,https://download.gtfs.de/germany/free/latest.zip,de-ag-fc8c33cb51,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nahreisezug,https://download.gtfs.de/germany/free/latest.zip,de-ag-17bffddf3d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,National Express,https://download.gtfs.de/germany/free/latest.zip,de-ag-e577058df5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nationalparkreisen Pfeffer,https://download.gtfs.de/germany/free/latest.zip,de-ag-5c531e8d51,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nebenbahn Gaildorf-Untergröningen,https://download.gtfs.de/germany/free/latest.zip,de-ag-b7cd9c517f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nebenbahn Vaihingen-Enzweihingen,https://download.gtfs.de/germany/free/latest.zip,de-ag-4092a59b31,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Neckar-Donau,https://download.gtfs.de/germany/free/latest.zip,de-ag-d76da7298f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nederlandse Spoorwegen,https://download.gtfs.de/germany/free/latest.zip,de-ag-0007d02f32,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Neumarkt in der Oberpfalz,https://download.gtfs.de/germany/free/latest.zip,de-ag-f0f042f424,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Neunkircher Verkehrs GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-18fe163474,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nichtbundeseigene Eisenbahnen,https://download.gtfs.de/germany/free/latest.zip,de-ag-51ebe3c8a9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Niederrheinische Verkehrsbetriebe AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-d5b703eb9a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,NordWestBahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-574c75911c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nordbahn Eisenbahngesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-8e16d58cad,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Norddeutsche Eisenbahn Gesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-fa63ed9a1f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nordsachsen Mobil,https://download.gtfs.de/germany/free/latest.zip,de-ag-e4c92e4e6a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nordseebad Spiekeroog GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7774e9cc1b,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Nvh~De,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/nvh.zip,f-nvh~de,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,O.K. Reisen - Kleinhenz GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-30aea67f0b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,OREG direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-00ecea2b51,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,OVB - Microbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-0e1a4025f3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Oberhavel Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-4762bd0720,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibus Kraus,https://download.gtfs.de/germany/free/latest.zip,de-ag-23ca3d1d72,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,"Omnibus Verkehrs Gesellschaft mbH Sonneberg/Thür,",https://download.gtfs.de/germany/free/latest.zip,de-ag-86f6b095fa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibus-Service Mellrichstadt,https://download.gtfs.de/germany/free/latest.zip,de-ag-e1169846da,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibusbetrieb Saalekreis GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-0d31f63323,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibusunternehmen Christian Gloss,https://download.gtfs.de/germany/free/latest.zip,de-ag-539784e9f0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibusverkehr Franken,https://download.gtfs.de/germany/free/latest.zip,de-ag-5448bf6fcd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibusverkehr GmbH Ilmenau,https://download.gtfs.de/germany/free/latest.zip,de-ag-c31493ec51,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnibusverkehr J. Baumgartner,https://download.gtfs.de/germany/free/latest.zip,de-ag-bd85ed5fb8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Omnipart,https://download.gtfs.de/germany/free/latest.zip,de-ag-063eb164e8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ostalbmobil (Aalen+Gmünd+Ellwangen),https://download.gtfs.de/germany/free/latest.zip,de-ag-a5af9cdb32,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ostdeutsche Eisenbahn GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-65ea287422,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ostprignitz-Ruppiner-Personennahverkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-a0be2c5b4c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Ostwestfalen-Lippe,https://download.gtfs.de/germany/free/latest.zip,de-ag-2e03ebf744,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,PKP Intercity,https://download.gtfs.de/germany/free/latest.zip,de-ag-d4affc63e2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,PVG Burgenlandkreis,https://download.gtfs.de/germany/free/latest.zip,de-ag-1b62ddc92b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,PVG Salzwedel,https://download.gtfs.de/germany/free/latest.zip,de-ag-3679306bb4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Parkeisenbahnen,https://download.gtfs.de/germany/free/latest.zip,de-ag-9a7bfc257a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Personen- und Reiseverkehrs GmbH Greiz,https://download.gtfs.de/germany/free/latest.zip,de-ag-b1b64b3ac8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Personenverkehrsgesellschaft mbH Weimarer Land,https://download.gtfs.de/germany/free/latest.zip,de-ag-99d9038fac,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Pressnitztalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-1afeacc121,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RATIO-Soft Bruns/ABV,https://download.gtfs.de/germany/free/latest.zip,de-ag-e6a74a12ff,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RB-Gesellschaft UHK mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-14536eac0e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,REGIOBAHN,https://download.gtfs.de/germany/free/latest.zip,de-ag-21b632088d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RMV,https://download.gtfs.de/germany/free/latest.zip,de-ag-c94b042b5a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RTV Direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-1f85f72a6a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RV Start Deutschland GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d6f4d0d14f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RV Start Deutschland GmbH Mitteldeutschland,https://download.gtfs.de/germany/free/latest.zip,de-ag-108bd99c2c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RV Start Deutschland GmbH Niedersachsen-Mitte,https://download.gtfs.de/germany/free/latest.zip,de-ag-97c82b638c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RV Start Deutschland GmbH Unterelbe,https://download.gtfs.de/germany/free/latest.zip,de-ag-224c75cb41,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RV Start Mitteldeutschland,https://download.gtfs.de/germany/free/latest.zip,de-ag-f0bfca9f1f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RVG Regionalverkehr Gera Land GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-cf65891c00,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Reederei Baltrum-Linie,https://download.gtfs.de/germany/free/latest.zip,de-ag-a693602aa6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Reederei Cassen Eils,https://download.gtfs.de/germany/free/latest.zip,de-ag-5daeb413ad,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Reederei Norden-Friesia,https://download.gtfs.de/germany/free/latest.zip,de-ag-dff72a9a2c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regensburger Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-44cb15addc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regiobus Potsdam Mittelmark GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-a2bae0f698,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalbus Braunschweig,https://download.gtfs.de/germany/free/latest.zip,de-ag-ad11ae3c89,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalbus Leipzig GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d96625f821,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalbus Ostbayern,https://download.gtfs.de/germany/free/latest.zip,de-ag-5e7bd6bdf1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalbusverkehr Südwest,https://download.gtfs.de/germany/free/latest.zip,de-ag-ae9749f8f1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionale Verkehrsbetriebe Schaffhausen,https://download.gtfs.de/germany/free/latest.zip,de-ag-9f736c85da,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalverkehr Alb-Bodensee,https://download.gtfs.de/germany/free/latest.zip,de-ag-473ada2ae8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalverkehr Allgäu,https://download.gtfs.de/germany/free/latest.zip,de-ag-ca3816bbc3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalverkehr Oberbayern,https://download.gtfs.de/germany/free/latest.zip,de-ag-e21677c23b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Regionalverkehr Spreewald,https://download.gtfs.de/germany/free/latest.zip,de-ag-05ef208f93,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Reise Fischer GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-3d89aee0b5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Reisedienst von Rahden,https://download.gtfs.de/germany/free/latest.zip,de-ag-f6344d8dca,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,RheinRuhrBahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-5e6ed38619,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rheinbahn AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-1b0bd8b422,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rhenus Veniro,https://download.gtfs.de/germany/free/latest.zip,de-ag-172deedf76,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rhön-Zügle,https://download.gtfs.de/germany/free/latest.zip,de-ag-cafa9baa06,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rohde Ostholstein/Flensburg/Mitte,https://download.gtfs.de/germany/free/latest.zip,de-ag-c5ae014706,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rombs Touristik GmbH & Co,https://download.gtfs.de/germany/free/latest.zip,de-ag-7ec11a9618,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Rursee-Schifffahrt KG,https://de.data.public-transport.earth/gtfs-germany.zip,mdb-784,,active
+DE,national,Rurtalbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-fa498074ca,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Rurtalbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-e1c867a04b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Röhler StadtBus Roth,https://download.gtfs.de/germany/free/latest.zip,de-ag-f74e3abf84,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,S Bahn Berlin GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7eeacc4e90,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,S-Bahn Hamburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-14c8c89e9a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,S-Bahn Hannover,https://download.gtfs.de/germany/free/latest.zip,de-ag-b1823baa9e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SBB,https://download.gtfs.de/germany/free/latest.zip,de-ag-bfac8152ff,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SBB GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-37e67ca7d2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SBG SüdbadenBus GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-033ca00f08,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SDG Sächsische Dampfeisenbahngesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-3742391111,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SH-Kuschick,https://download.gtfs.de/germany/free/latest.zip,de-ag-24ddf62278,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SNCB,https://download.gtfs.de/germany/free/latest.zip,de-ag-0c9378c748,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SNCF,https://download.gtfs.de/germany/free/latest.zip,de-ag-28d30b118c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SW GI-direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-ee153cbcc9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SW MR - Microbus (NEU),https://download.gtfs.de/germany/free/latest.zip,de-ag-16864861fa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SW Ou,https://download.gtfs.de/germany/free/latest.zip,de-ag-65bffe2c1c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SW RÜ,https://download.gtfs.de/germany/free/latest.zip,de-ag-cc14885d3e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SWEG RVF-Gebiet,https://download.gtfs.de/germany/free/latest.zip,de-ag-496ce97e83,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SWK Mobil GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-f778788f77,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Saar-Mobil GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-ecb42514a6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Saarbahn GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-15bdd84927,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Salza-Tours König OHG,https://download.gtfs.de/germany/free/latest.zip,de-ag-46980ac13d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Schiffahrt der Inselgemeinde Langeroog,https://download.gtfs.de/germany/free/latest.zip,de-ag-e1a56a8460,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Schmetterling Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-5fcef757e3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Schulligen,https://download.gtfs.de/germany/free/latest.zip,de-ag-57e8589d34,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Schwabach,https://download.gtfs.de/germany/free/latest.zip,de-ag-818f6e2b76,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Schwäbische Alb-Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-26fd3c6233,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Sieghart Reisen GmbH & Co KG,https://download.gtfs.de/germany/free/latest.zip,de-ag-d47cb3ea9f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stade,https://download.gtfs.de/germany/free/latest.zip,de-ag-03a4afaf9a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadt Wetzlar direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-bfbcb5702f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtbahn Karlsruhe SEV,https://download.gtfs.de/germany/free/latest.zip,de-ag-7f9eaea0d9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtbus Kulmbach GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-fa17909b07,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtbus Pfaffenhofen,https://download.gtfs.de/germany/free/latest.zip,de-ag-1c51a641cc,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Aschaffenburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-6aa9e84123,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Bamberg,https://download.gtfs.de/germany/free/latest.zip,de-ag-fa820235dd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Bayreuth,https://download.gtfs.de/germany/free/latest.zip,de-ag-1c9646a3aa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Coburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-f5e7b3f414,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Fürth,https://download.gtfs.de/germany/free/latest.zip,de-ag-59dbb8eebd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr GmbH Rendsburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-72d65eefc6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Hof (Saale),https://download.gtfs.de/germany/free/latest.zip,de-ag-b5c6fe5d41,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Lübeck,https://download.gtfs.de/germany/free/latest.zip,de-ag-07aa4ec9f0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Schwandorf,https://download.gtfs.de/germany/free/latest.zip,de-ag-ca998c7679,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Straubing,https://download.gtfs.de/germany/free/latest.zip,de-ag-57ead40dc0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtverkehr Weiden (Opf),https://download.gtfs.de/germany/free/latest.zip,de-ag-985827f42e,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Emden,https://download.gtfs.de/germany/free/latest.zip,de-ag-5f6a14f973,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke München,https://download.gtfs.de/germany/free/latest.zip,de-ag-dff25aaf92,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Neumünster,https://download.gtfs.de/germany/free/latest.zip,de-ag-14805ead7a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Neuss GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d56512a344,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Oberhausen AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-99a02941b9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Passau,https://download.gtfs.de/germany/free/latest.zip,de-ag-488caf9cf7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Schweinfurt,https://download.gtfs.de/germany/free/latest.zip,de-ag-ca40fc7f0b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Solingen GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-ecf4608d10,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Trier,https://download.gtfs.de/germany/free/latest.zip,de-ag-b53ccdab35,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadtwerke Wilhelmshaven,https://download.gtfs.de/germany/free/latest.zip,de-ag-6d0ce40feb,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadwerke Remscheid GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-6ec28c96c8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stadwirtschaft Weimar Gmbh (Dino),https://download.gtfs.de/germany/free/latest.zip,de-ag-81e71f0018,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Strausberger Eisenbahn GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-faace307b3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Straßenbahn Herne – Castrop-Rauxel GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-cdf5326c2b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Straßenverkehr Frankfurt Oder,https://download.gtfs.de/germany/free/latest.zip,de-ag-65e273e314,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Stroh Bus-Verkehrs GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-cefb1047b3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Städtische Nahverkehrsgesellschaft mbH Suhl/Zella-Mehlis,https://download.gtfs.de/germany/free/latest.zip,de-ag-b5ec869e2d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Sylter Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-8ab911dcf4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,SÜWEX,https://download.gtfs.de/germany/free/latest.zip,de-ag-ae6eddc0b0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Sächsisch-Oberlausitzer Eisenbahngesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-95a79e9c72,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Süd-Thüringen-Bahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-7224c3dc16,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Süd-Thüringen-Bahn Express,https://download.gtfs.de/germany/free/latest.zip,de-ag-a34a15f3c3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Südbadenbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-4d4ca1c940,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Südwestdeutsche Verkehrs-AG,https://download.gtfs.de/germany/free/latest.zip,de-ag-7dad5fdc19,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,THURBO,https://download.gtfs.de/germany/free/latest.zip,de-ag-08c5604879,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,THÜSACneu,https://download.gtfs.de/germany/free/latest.zip,de-ag-df06f62d23,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,TRI Train Rental GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-6b601c24a8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Tarifverb Region Braunschweig,https://download.gtfs.de/germany/free/latest.zip,de-ag-39d33b92ff,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Tarifverbund Ortenau GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-289851d717,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Taxi Renner Eschenbach,https://download.gtfs.de/germany/free/latest.zip,de-ag-a8a411eb85,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Thüringerwaldbahn und Straßenbahn Gotha GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d1c558660a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Touristische Bahnen (diverse),https://download.gtfs.de/germany/free/latest.zip,de-ag-94315d3ffd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Trenitalia,https://download.gtfs.de/germany/free/latest.zip,de-ag-a62a7d197a,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Tuttlinger Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-4590c1975c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Uckermärkische VG,https://download.gtfs.de/germany/free/latest.zip,de-ag-f0501a8d8e,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,"Ulmer Eisenbahnfreunde, Sächsisch-Oberlausitzer Eisenbahngesellschaft, SDG Sächsische Dampfeisenbahngesellschaft mbH, SNCF, vlexx, DB AG, SBB, Nordbahn Eisenbahngesellschaft, Norddeutsche Eisenbahn Gesellschaft, AKN Eisenbahn GmbH, Ostdeutsche Eisenbahn GmbH, NEB Niederbarnimer Eisenbahn, Hanseatische Eisenbahn GmbH, City-Bahn Chemnitz, vogtlandbahn - Die Länderbahn GmbH DLB, trilex - Die Länderbahn GmbH DLB, Mitteldeutsche Regiobahn, DB Regio AG Südost, Freiberger Eisenbahngesellschaft, Arriva Danmark, Abellio Rail NRW GmbH, TRI Train Rental GmbH, National Express, DB Regio AG NRW, eurobahn, Hessische Landesbahn, NordWestBahn, Centralbahn, VIAS Rail GmbH, Rurtalbahn, SNCB, DB RegioNetz Verkehrs GmbH Kurhessenbahn, cantus Verkehrsgesellschaft, metronom, Verkehrsgesellschaft Start Unterelbe mbH, erixx, WestfalenBahn, enno, EVB ELBE-WESER GmbH, Bentheimer Eisenbahn, Abellio Rail Mitteldeutschland GmbH, Dessau-Wörlitzer Eisenbahn, Harzer Schmalspurbahn, DB Regio AG Bayern, alex - Die Länderbahn GmbH DLB, DB Regio AG Bayern, DB RegioNetz Verkehrs GmbH Südostbayernbahn, Bayerische Regiobahn, DB Regio AG Bayern, Bayerische Regiobahn, DB RegioNetz Verkehrs GmbH Südostbayernbahn, Bayerische Regiobahn, Go-Ahead Bayern GmbH, agilis, agilis-Schnellzug, oberpfalz-express - Die Länderbahn GmbH DLB, oberpfalzbahn - Die Länderbahn GmbH DLB, waldbahn - Die Länderbahn GmbH DLB, Erfurter Bahn, Österreichische Bundesbahnen, Museumsbahn, Brohltalbahn, Kasbachtalbahn, Kandertalbahn, Wutachtalbahn, Öchsle-Bahn-Betriebsgesellschaft mbH, Rhön-Zügle, Mainschleifenbahn, Ilztalbahn, Wanderbahn im Regental, Chiemgauer Lokalbahn, BayernBahn GmbH, SÜWEX, CFL, MittelrheinBahn (Trans Regio), Rhenus Veniro, Daadetalbahn, Go-Ahead Baden-Württemberg GmbH, THURBO, DB Regio AG Baden-Württemberg, Hohenzollerische Landesbahn AG, SWEG Bahn Stuttgart GmbH (ehem. Abellio BW), Südwestdeutsche Verkehrs-GmbH, Schwäbische Alb-Bahn, Bodensee-Oberschwaben-Bahn, Erfurter Bahn Express, Süd-Thüringen-Bahn, Süd-Thüringen-Bahn Express, Pressnitztalbahn, Mecklenburgische Bäderbahn Molli, Ceske Drahy, GW Train Regio",https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/bwspnv.zip,mdb-1081,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,Unbekannt,https://download.gtfs.de/germany/free/latest.zip,de-ag-f9a26283d7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VBB-Lieferungen Tabellenplaner,https://download.gtfs.de/germany/free/latest.zip,de-ag-2664d3a151,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VGM/VRL,https://download.gtfs.de/germany/free/latest.zip,de-ag-8d787790d8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VGO,https://download.gtfs.de/germany/free/latest.zip,de-ag-c675243180,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VIAS GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-0be49e488d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VIAS Rail GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d31d4b99a1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VMEE,https://download.gtfs.de/germany/free/latest.zip,de-ag-69a17ca4fe,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VSN-Direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-568074ccc2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VV Pforzheim Enzkreis Ost,https://download.gtfs.de/germany/free/latest.zip,de-ag-94086f291b,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Vagfr~De,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vagfr.zip,f-vagfr~de,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,Verkehr und Wasser Oldenburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-378bb0c084,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrs- und Betriebsgesellschaft Gera mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-70391c3738,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,VerkehrsAG Nürnberg,https://download.gtfs.de/germany/free/latest.zip,de-ag-ce981dedc6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetrieb Potsdam GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d1b102d5ea,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Brandenburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-9f5db23756,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Grafschaft Hoya,https://download.gtfs.de/germany/free/latest.zip,de-ag-8ab5fe91cd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Kreis Plön,https://download.gtfs.de/germany/free/latest.zip,de-ag-4d0ae10ee0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Nordhausen GmbH NDH - DINO,https://download.gtfs.de/germany/free/latest.zip,de-ag-3d556cef77,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Schleswig-Flensburg,https://download.gtfs.de/germany/free/latest.zip,de-ag-cd280fd32d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe Wesermarsch,https://download.gtfs.de/germany/free/latest.zip,de-ag-78c8ef99c0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsbetriebe des Landreises Leer,https://download.gtfs.de/germany/free/latest.zip,de-ag-e4cd511172,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgem. Emsland-Süd,https://download.gtfs.de/germany/free/latest.zip,de-ag-18b79e6197,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Grafschaft Bentheim,https://download.gtfs.de/germany/free/latest.zip,de-ag-4a3a2ed2c8,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Landkreis Gotha GbR,https://download.gtfs.de/germany/free/latest.zip,de-ag-8af4e21980,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Osnabrück,https://download.gtfs.de/germany/free/latest.zip,de-ag-770a7e201f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Schwäbisch Hall,https://download.gtfs.de/germany/free/latest.zip,de-ag-6973caea61,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Untermain,https://download.gtfs.de/germany/free/latest.zip,de-ag-a9d84fc527,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Vechta,https://download.gtfs.de/germany/free/latest.zip,de-ag-de3981fcaa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Vogtland,https://download.gtfs.de/germany/free/latest.zip,de-ag-de05bb3e96,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgemeinschaft Westfalen-Süd,https://download.gtfs.de/germany/free/latest.zip,de-ag-b7442b54ee,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesell. Teltow-Fläming,https://download.gtfs.de/germany/free/latest.zip,de-ag-2bb55c13bb,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesellschaft Ennepe-Ruhr mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-cc3ffb7a8c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesellschaft Mecklenburg Vorpommern mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-a8e95bf702,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesellschaft Paderborn/Höxter,https://download.gtfs.de/germany/free/latest.zip,de-ag-41c30deb39,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesellschaft Südharz mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-ddd04f3436,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsgesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-9d8efa55a0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsunternehmen Andreas Schröder,https://download.gtfs.de/germany/free/latest.zip,de-ag-d257c764a1,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsunternehmen Wartburgmobil VUW gkAör,https://download.gtfs.de/germany/free/latest.zip,de-ag-fd5e4b7e88,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Bremen Niedersachsen,https://download.gtfs.de/germany/free/latest.zip,de-ag-df51781351,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Großraum Nürnberg,https://download.gtfs.de/germany/free/latest.zip,de-ag-3f79356f0c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Hegau Bodensee,https://download.gtfs.de/germany/free/latest.zip,de-ag-9127c8861f,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Oberelbe,https://download.gtfs.de/germany/free/latest.zip,de-ag-9e35b663e6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Pforzheim-Enzkreis,https://download.gtfs.de/germany/free/latest.zip,de-ag-f97cf36f68,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Rhein-Mosel,https://download.gtfs.de/germany/free/latest.zip,de-ag-327f302060,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Rhein-Neckar,https://download.gtfs.de/germany/free/latest.zip,de-ag-3e4090857c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Rhein-Sieg,https://download.gtfs.de/germany/free/latest.zip,de-ag-ee9ed2bc81,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Schwarzwald-Baar,https://download.gtfs.de/germany/free/latest.zip,de-ag-326cd4207c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verkehrsverbund Stuttgart,https://download.gtfs.de/germany/free/latest.zip,de-ag-683a34326c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Verwaltungsgesellschaft des ÖPNV Sömmerda mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-92654c0fe9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Vestische Straßenbahnen GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-d34164f4a4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Vetter GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-a732237aea,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Vetter Verkehrsbetriebe,https://download.gtfs.de/germany/free/latest.zip,de-ag-445d84cd60,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Vogel-Omnibus,https://download.gtfs.de/germany/free/latest.zip,de-ag-6d87564e25,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Vonau,https://download.gtfs.de/germany/free/latest.zip,de-ag-8201473cb6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Völklinger Verkehrsbetriebe GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-e608295970,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,WESTbahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-c714475484,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,WSW mobil GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-50a03f71d2,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Wanderbahn im Regental,https://download.gtfs.de/germany/free/latest.zip,de-ag-35a03d80b9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Wenzl Freizeit & Touristik,https://download.gtfs.de/germany/free/latest.zip,de-ag-88862cd0d6,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Werrabus,https://download.gtfs.de/germany/free/latest.zip,de-ag-e730a9dc99,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Weser-Ems-Bus,https://download.gtfs.de/germany/free/latest.zip,de-ag-bc4f9b0356,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,WestVerkehr,https://download.gtfs.de/germany/free/latest.zip,de-ag-1b4ddbc876,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,WestfalenBahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-cf605520b5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Wilmering,https://download.gtfs.de/germany/free/latest.zip,de-ag-b3d9a670f5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Wyker Dampfschiffs-Reederei Föhr-Amrum GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-33d8c040bd,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Würzburger Verkehrsverbund,https://download.gtfs.de/germany/free/latest.zip,de-ag-456fd80e5d,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ZSSK,https://download.gtfs.de/germany/free/latest.zip,de-ag-feb1907c05,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ZV VHT,https://download.gtfs.de/germany/free/latest.zip,de-ag-cf96222d12,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ZV VLD,https://download.gtfs.de/germany/free/latest.zip,de-ag-ad99174349,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ZVON Oberlausitz-Niederschlesien,https://download.gtfs.de/germany/free/latest.zip,de-ag-aa378815d7,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Zarth,https://download.gtfs.de/germany/free/latest.zip,de-ag-0e98eeb9c9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Zellertal Reisen,https://download.gtfs.de/germany/free/latest.zip,de-ag-55d3359f4b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,agilis,https://download.gtfs.de/germany/free/latest.zip,de-ag-44dbe1f700,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,agilis-Schnellzug,https://download.gtfs.de/germany/free/latest.zip,de-ag-71e8dd52aa,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,alex - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-204d811488,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,cantus Verkehrsgesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-31674e7c7c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,deu.mobil GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-15ce6278f5,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,enno,https://download.gtfs.de/germany/free/latest.zip,de-ag-2633f2d92c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,erixx,https://download.gtfs.de/germany/free/latest.zip,de-ag-d8a1905409,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,eurobahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-7082a30fb3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,go.on.,https://download.gtfs.de/germany/free/latest.zip,de-ag-4503309e21,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,metronom,https://download.gtfs.de/germany/free/latest.zip,de-ag-525ba561a4,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,mobus,https://download.gtfs.de/germany/free/latest.zip,de-ag-5ed0ab1309,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,oberpfalzbahn - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-bfe8cae506,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,stadtbus Ravensburg Weingarten,https://download.gtfs.de/germany/free/latest.zip,de-ag-4a4210b0ca,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,stendalbus,https://download.gtfs.de/germany/free/latest.zip,de-ag-c14a22a734,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,traffiQ,https://download.gtfs.de/germany/free/latest.zip,de-ag-4befaff94c,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,trilex - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-1dd26570e3,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,trilex-express - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-24363ccc68,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,vlexx,https://download.gtfs.de/germany/free/latest.zip,de-ag-534f00e662,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,vogtlandbahn - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-6e6865a1f0,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,waldbahn - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-9bd86ecaed,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ÖBB,https://download.gtfs.de/germany/free/latest.zip,de-ag-669e484195,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Öchsle-Bahn-Betriebsgesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-b74313aed9,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,ÜWAG direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-2351a3aa87,CC-BY-4.0 (gtfs.de / DELFI),active
 DK,Region of Southern Denmark,OVapi,http://gtfs.ovapi.nl/gtfs-nl.zip,mdb-1077,,active
 DZ,Aïn Fekan District,Cleveland Urban Area Transit System,https://passio3.com/cuats/passioTransit/gtfs/google_transit.zip,tld-7827,,active
 DZ,Bejaia District,CORSICA LINEA,https://www.data.gouv.fr/api/1/datasets/r/13977931-86ae-4b7a-9598-d222333a5fbd,tdg-83510,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
@@ -4772,9 +5235,15 @@ RO,Sălaj,Transurbis Zalău,https://external.gtfs.ro/zalau/ZALAU.zip,mdb-2102,,a
 RO,Timiș,Societatea Metropolitană de Transport Timișoara,https://smtt.ro/transit/gtfs/maps/smtt-timisoara-ro.zip,mdb-2868,,active
 RO,Vrancea,Consiliul Judetean Vrancea,https://cjvrancea.ro/gtfs.zip,mdb-1984,,active
 RO,national,"CFR Călători, Astra Trans Carpatic, Calea Ferată din Moldova, Interregional Calatori, Regio Călători, Softrans, Transferoviar Calatori",https://github.com/vasile/data.gov.ro-gtfs-exporter/archive/master.zip#data.gov.ro-gtfs-exporter-master/gtfs-out,mdb-1104,,active
+RS,Belgrade (Beograd),Belgrade suburban / regional public transport (prigradski),https://data.gov.rs/s/resources/prigradski-javni-prevoz-u-u-beogradu-gtfs/20250701-155403/gtfs-prigrad.zip,rs-w2-2,,active
+RS,Belgrade (Beograd),"GSP Beograd / City of Belgrade Secretariat for Public Transport — urban network (bus, tram, trolleybus, BG Voz)",https://data.gov.rs/s/resources/gradski-javni-prevoz-u-beogradu-gtfs/20251031-111721/bgprev-belgrade-rs-2-.zip,rs-w2-1,,active
 RS,Kosjeric Municipality,Srbijavoz,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/srbijavoz-merged-gtfs/latest/srbijavoz_merged.zip,mdb-2927,,active
+RS,Kragujevac,Kragujevac city public transport,https://data.gov.rs/s/resources/gtfs-kragujevats/20260626-074216/gtfs-kragujevac.zip,rs-w2-4,,active
 RS,New Belgrade Urban Municipality,Beograd Prigrad,https://data.gov.rs/sr/datasets/r/60f82229-16c7-4939-961b-2c24873d3e06,mdb-2925,https://data.gov.rs/sr/datasets/prigradski-javni-prevoz-u-u-beogradu-gtfs/,active
+RS,Niš,JKP Direkcija za javni prevoz grada Niša (Niš public transport),https://data.gov.rs/s/resources/javni-prevoz-i-gtfs/20260121-081857/gtfs-nis-2026.zip,rs-w2-3,,active
 RS,Stari Grad Urban Municipality,Republic of Serbia,https://data.gov.rs/sr/datasets/r/729be9a1-7ed9-453d-9a3d-68fa30f07529,mdb-1027,https://data.gov.rs/sr/terms/,active
+RS,Subotica,Subotica-trans / Subotica city transport,https://data.gov.rs/s/resources/gtfs-subotitsa/20220611-231509/gtfs.zip,rs-w2-5,,active
+RS,Užice,Užice city public transport (Užice-razvoj),https://data.gov.rs/s/resources/gtfs-uzhitse/20220705-083449/uzicerazvoj-uzice-rs.zip,rs-w2-6,,active
 RS,national,Kragujevats~Rs,https://data.gov.rs/sr/datasets/r/015f6bd4-1428-4ed8-b41e-c73d0885c79d,f-kragujevats~rs,https://data.gov.rs/sr/datasets/gtfs-kragujevats/,active
 RS,national,Nis~Rs,https://data.gov.rs/sr/datasets/r/b8fdbafe-10af-4b1a-a647-5f50e1dd33fb,f-nis~rs,https://data.gov.rs/sr/datasets/javni-prevoz-i-gtfs/,active
 RS,national,Užice~Rs,https://data.gov.rs/sr/datasets/r/b9c72d16-6c2c-46f8-8490-78a6ceefb8d8,f-užice~rs,https://data.gov.rs/sr/datasets/gtfs-uzhitse/,active

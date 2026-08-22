@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cargo Logistik Rail Service",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-ag-0a258505d1",
+    "license": "CC-BY-4.0 (gtfs.de / DELFI)"
+  },
+  "bbox": null,
+  "source": "gtfs.de#agency",
+  "status": "active"
+}

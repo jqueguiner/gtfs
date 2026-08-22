@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Städtische Nahverkehrsgesellschaft mbH Suhl/Zella-Mehlis",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-ag-b5ec869e2d",
+    "license": "CC-BY-4.0 (gtfs.de / DELFI)"
+  },
+  "bbox": null,
+  "source": "gtfs.de#agency",
+  "status": "active"
+}
