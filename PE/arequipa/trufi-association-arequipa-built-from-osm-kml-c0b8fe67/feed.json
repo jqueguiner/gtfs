@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trufi Association -- Arequipa (built from OSM/KML)",
+    "country": "PE",
+    "subdivision": "Arequipa",
+    "city": "Arequipa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/trufi-association/trufi-arequipa/main/GTFS-Peru-Arequipa/out/gtfs/",
+    "mdb_id": "pe-trufi-arequipa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
