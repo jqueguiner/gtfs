@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+# Hourly: refresh the catalog from every open source, rebuild, push if changed,
+# then email jlq@ the coverage delta vs last hour. Cron: 0 * * * *
+set -uo pipefail
+REPO="${GTFS_REPO:-/data/gtfs}"
+MAILER="/data/addresses/agent/mailer.py"
+LOG=/tmp/gtfs_hourly.log
+cd "$REPO" || exit 1
+{
+echo "=== $(date -u) hourly refresh ==="
+
+# latest code + snapshot
+git pull --quiet --ff-only 2>&1 | tail -1 || true
+
+# refresh feeds from the fast open sources (MDB needs a token -> optional)
+[ -n "${MDB_REFRESH_TOKEN:-}" ] && python3 scripts/ingest_mdb.py || true
+if [ -d /tmp/transitland-atlas ]; then git -C /tmp/transitland-atlas pull --quiet || true; \
+  else git clone --depth 1 --quiet https://github.com/transitland/transitland-atlas.git /tmp/transitland-atlas || true; fi
+python3 scripts/scrape_transitland.py /tmp/transitland-atlas || true
+python3 scripts/scrape_france.py || true
+python3 scripts/scrape_de.py || true
+for s in scripts/scrape_*.py; do
+  case "$s" in *france*|*transitland*|*_de.py) ;; *) timeout 200 python3 "$s" || true;; esac
+done
+timeout 600 python3 scripts/resolve_unplaced.py 300 || true
+
+# rebuild tree + coverage table
+python3 scripts/build_repo.py || true
+
+# compute + email the delta (writes /tmp/gtfs_delta.html, updates snapshot)
+SUBJECT=$(python3 scripts/report_delta.py)
+python3 "$MAILER" "$SUBJECT" /tmp/gtfs_delta.html jlq@gladia.io || true
+
+# commit + push if the catalog changed
+if ! git diff --quiet; then
+  git add -A
+  git commit -q -m "hourly refresh: ${SUBJECT}" || true
+  TOK=$(gh auth token 2>/dev/null)
+  [ -n "$TOK" ] && git push --quiet "https://x-access-token:${TOK}@github.com/jqueguiner/gtfs.git" HEAD:main || git push --quiet || true
+fi
+echo "done: $SUBJECT"
+} >> "$LOG" 2>&1
