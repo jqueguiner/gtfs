@@ -6,6 +6,7 @@ REPO="${GTFS_REPO:-/home/ubuntu/gtfs}"   # persistent local clone
 LOG=/tmp/gtfs_hourly.log
 # Email runs on a100 (Resend env + mailer live there); we scp the html + ssh.
 cd "$REPO" || exit 1
+[ -f /home/ubuntu/.config/gtfs/env ] && . /home/ubuntu/.config/gtfs/env
 {
 echo "=== $(date -u) hourly refresh ==="
 
