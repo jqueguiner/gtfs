@@ -2,9 +2,9 @@
 # Hourly: refresh the catalog from every open source, rebuild, push if changed,
 # then email jlq@ the coverage delta vs last hour. Cron: 0 * * * *
 set -uo pipefail
-REPO="${GTFS_REPO:-/data/gtfs}"
-MAILER="/data/addresses/agent/mailer.py"
+REPO="${GTFS_REPO:-/home/ubuntu/gtfs}"   # persistent local clone
 LOG=/tmp/gtfs_hourly.log
+# Email runs on a100 (Resend env + mailer live there); we scp the html + ssh.
 cd "$REPO" || exit 1
 {
 echo "=== $(date -u) hourly refresh ==="
@@ -27,9 +27,11 @@ timeout 600 python3 scripts/resolve_unplaced.py 300 || true
 # rebuild tree + coverage table
 python3 scripts/build_repo.py || true
 
-# compute + email the delta (writes /tmp/gtfs_delta.html, updates snapshot)
+# compute the delta (writes /tmp/gtfs_delta.html, updates snapshot)
 SUBJECT=$(python3 scripts/report_delta.py)
-python3 "$MAILER" "$SUBJECT" /tmp/gtfs_delta.html jlq@gladia.io || true
+# email via a100 (Resend env + mailer live there)
+scp -q /tmp/gtfs_delta.html a100:/tmp/gtfs_delta.html \
+  && ssh a100 "python3 /data/addresses/agent/mailer.py \"$SUBJECT\" /tmp/gtfs_delta.html jlq@gladia.io" || true
 
 # commit + push if the catalog changed
 if ! git diff --quiet; then
