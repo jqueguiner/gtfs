@@ -1,0 +1,14 @@
+{
+  "operator": "STL (Société de Transport Lagunaire) - bateau-bus",
+  "city": "Abidjan",
+  "cc": "CI",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 6,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 16
+  },
+  "notes": "Built from OSM data (DigitalTransport4Africa Abidjan ferry export / Overpass, route=ferry operator=STL relations 10391642/10394939 line 900 and 10391643/10394940 line 901) cross-checked with fr.wikipedia \"Transport lagunaire à Abidjan\" and SNEDAI/press. STL is a SNEDAI subsidiary, operations since April 2017, ~20 boats, 6 gares lagunaires, ~16,000 pax/day. TWO STL bateau-bus lines are actually mapped in OSM as bidirectional nautical relations:\n- Line 900: Treichville - Plateau - Yopougon - Yopougon (Azito)\n- Line 901: Koumassi - M'pouto - Plateau - Treichville\nStops, ordering and coordinates come directly from the OSM stop_position/platform nodes in those relations (exact lat/lon). The 'Azito' western terminus node (OSM 8665429392) is unnamed in OSM; labeled from the relation name. FIDELITY CAVEAT: OSM only maps lines 900/901, whereas Wikipedia/press cite additional itineraries (the first commercial line was Plateau-Treichville-Riviera, plus M'pouto-Koumassi, Yopougon-Plateau-Treichville) that are NOT in the OSM data, so Riviera/M'Pouto-Koumassi etc. are omitted rather than invented. SCHEDULE is inferred: Wikipedia gives a 30-min rotation ('rotation de trente minutes') served by ~10 boats; no published departure board exists, so stop_times use one representative morning trip per direction (4 trips) with realistic boat travel times (~18 km/h cruising + short dwell) and a 06:00-20:00 daily service window with 30-min headway modeled implicitly. Times are therefore illustrative, not an official timetable. Service days set to daily (network runs 7 days; some feeder segments are weekday-only per touristic sources, but the mapped 900/901 trunk runs daily).",
+  "source": "llm-normalized"
+}

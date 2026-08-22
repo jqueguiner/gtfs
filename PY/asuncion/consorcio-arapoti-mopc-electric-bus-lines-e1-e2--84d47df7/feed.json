@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consorcio Arapoti (MOPC electric bus lines E1 / E2 / E3)",
+    "country": "PY",
+    "subdivision": null,
+    "city": "Asuncion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PY/asuncion/consorcio-arapoti-mopc-electric-bus-lines-e1-e2-/gtfs/",
+    "mdb_id": "py-llm-consorcio-arapoti-mopc-electric-bus-line",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

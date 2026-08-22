@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Almaty BRT (bus rapid transit — Timiryazev / Zheltoksan corridor, operated within the Almaty municipal system)",
+    "country": "KZ",
+    "subdivision": null,
+    "city": "Almaty"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KZ/almaty/almaty-brt-bus-rapid-transit-timiryazev-zheltoks/gtfs/",
+    "mdb_id": "kz-llm-almaty-brt-bus-rapid-transit-timiryazev-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

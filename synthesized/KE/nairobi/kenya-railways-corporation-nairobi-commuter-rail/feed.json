@@ -1,0 +1,14 @@
+{
+  "operator": "Kenya Railways Corporation — Nairobi Commuter Rail (NCR)",
+  "city": "Nairobi",
+  "cc": "KE",
+  "confidence": 0.82,
+  "counts": {
+    "stops": 21,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 58
+  },
+  "notes": "Source: KRC \"Nairobi Commuter Rail Service Schedule\" A3 poster PDF (2025-07, https://krc.co.ke/wp-content/uploads/2025/07/Nairobi-Commuter-Rail-Service-Schedule.pdf). The PDF is a single-page A3 graphic; times are embedded as text (extracted with pdftotext + pymupdf positional words) but the station-name column headers are rendered as raster/vector art, so they were read by rendering the page to PNG and reading the column labels visually. All 5 routes (Embakasi, Syokimau, Limuru, Lukenya, Ruiru), their ordered stops and per-station clock times come DIRECTLY from that poster and were cross-checked against the 2024 PDF (identical structure). Stop coordinates geocoded via OpenStreetMap/Nominatim (railway=station nodes); Kibera from Wikimapia (~1°18'20\"S 36°46'08\"E). 22 stations total, matching Wikipedia's count.\n\nRepresentative trips: for each route one full-length trip per direction is included using real clock times from the poster. Extra same-day trips exist on the poster (Embakasi has ~7 DMU departures/dir plus separate Commuter-train rows; Syokimau ~8/dir; Ruiru 2/dir) — the DMU vs Commuter distinction and every departure are not all enumerated here; only the full-length representative timings are encoded, so headway/frequency fidelity is partial (hence confidence <0.9).\n\nNotes on stations: 'Nairobi Central Station' (metre-gauge Nairobi railway station, terminus of all lines) is distinct from 'Nairobi Terminus' (the SGR/commuter interchange station in Syokimau) which appears as an intermediate stop on the Syokimau route — both kept as separate stops per the poster. 'Embakasi' on the Lukenya/Syokimau line is the old metre-gauge Embakasi station, distinct from 'Embakasi Village' terminus on the Embakasi route.\n\nroute_type=2 (rail) for all. Service assumed daily (poster shows no weekday/weekend split); calendar covers Mon–Sun. Wikipedia's per-line station lists are internally inconsistent, so the poster was treated as authoritative for stop sequences.",
+  "source": "llm-normalized"
+}

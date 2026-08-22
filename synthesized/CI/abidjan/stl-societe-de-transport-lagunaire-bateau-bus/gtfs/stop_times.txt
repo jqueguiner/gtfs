@@ -1,0 +1,17 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+STL_900_out_0600,06:00:00,06:00:00,stl_treichville,1
+STL_900_out_0600,06:05:00,06:07:00,stl_plateau,2
+STL_900_out_0600,06:15:00,06:17:00,stl_yopougon,3
+STL_900_out_0600,06:37:00,06:37:00,stl_azito,4
+STL_900_in_0600,06:00:00,06:00:00,stl_azito,1
+STL_900_in_0600,06:22:00,06:24:00,stl_yopougon,2
+STL_900_in_0600,06:32:00,06:34:00,stl_plateau,3
+STL_900_in_0600,06:39:00,06:39:00,stl_treichville,4
+STL_901_out_0600,06:00:00,06:00:00,stl_treichville,1
+STL_901_out_0600,06:05:00,06:07:00,stl_plateau,2
+STL_901_out_0600,06:29:00,06:31:00,stl_mpouto,3
+STL_901_out_0600,06:36:00,06:36:00,stl_koumassi,4
+STL_901_in_0600,06:00:00,06:00:00,stl_koumassi,1
+STL_901_in_0600,06:06:00,06:08:00,stl_mpouto,2
+STL_901_in_0600,06:30:00,06:32:00,stl_plateau,3
+STL_901_in_0600,06:37:00,06:37:00,stl_treichville,4

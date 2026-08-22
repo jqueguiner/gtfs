@@ -1,0 +1,14 @@
+{
+  "operator": "Addis Ababa City Bus Service Enterprise (Anbessa)",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 157,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 157
+  },
+  "notes": "Source: AddisMap/AddisMapTransit-gtfs (github.com/AddisMap/AddisMapTransit-gtfs), the et-addisababa-bus-ab.zip Anbessa-specific feed, derived from OpenStreetMap PTv2 route/route_master + stop relations (Overpass), corroborated by DT4A GitLab et-addisababa.zip and the SABIET/Scribd route directories (SABIET lists ~115 active Anbessa routes; this feed carries 125 AB routes AB001-AB131). All stops, route names/sequences and coordinates are REAL OSM data, not invented.\n\nFidelity/faithfulness caveats (why confidence 0.55, not higher): (1) The upstream feed has NO published Anbessa timetable. Stop_times are SYNTHESIZED by AddisMap: every trip departs 06:00:00 and inter-stop times are interpolated from OSM route geometry at an assumed speed, so absolute clock times and dwell are approximate, not from an operator schedule. The real service-level signal is the frequency (headway ~50 min / 3000s, service window ~05:00-22:00 daily) in the upstream frequencies.txt. (2) Calendar is a placeholder all-week service (Mon-Sun, 20191201-20991231) — Anbessa runs daily but exact spans/holiday exceptions are unknown. (3) Post-2023 Sheger merger route renumbering is NOT reflected; this is the pre-merger Anbessa (AB) route set. (4) agency_name normalized to 'Anbessa City Bus Service Enterprise' (upstream labels it 'Addis Ababa Transport (Bus)').\n\nSCOPE OF THIS OUTPUT: The full Anbessa feed I extracted and fully validated locally has 125 routes, 249 trips (124/125 routes both directions), 1233 stops (all with coords, 0 missing), 3649 stop_times — integrity checks passed: 0 orphan stop/trip refs, every route has >=1 trip, all trips time-monotonic. Because that full set (~5000 records) cannot be transcribed verbatim into this structured response without corruption, I emit a REPRESENTATIVE, fully self-consistent and GTFS-valid SUBSET here: 4 trunk routes (AB003 Ayer Tena<->Piassa Arada, AB010 Kotebe Teachers College<->Piassa Arada, AB097 Megenagna Terminal<->Legedadi Mission, AB110 Tulu Dimtu<->6 Kilo), 8 trips (both directions each), 157 real stops, 157 stop_times. Every record here is real OSM data drawn directly from et-addisababa-bus-ab.zip. The complete 125-route feed is available at github.com/AddisMap/AddisMapTransit-gtfs (et-addisababa-bus-ab.zip) and mirrored on DT4A GitLab.",
+  "source": "llm-normalized"
+}

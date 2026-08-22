@@ -1,0 +1,14 @@
+{
+  "operator": "Casa Tramway (RATP Dev Casablanca / Casa Transport)",
+  "city": "Casablanca",
+  "cc": "MA",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 106,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 214
+  },
+  "notes": "Tram network (4 lines T1-T4) for Casa Tramway, operated by RATP Dev / Casa Transport. STOPS + ORDER + COORDINATES: sourced from OpenStreetMap tram route relations (network=\"Casa Tramway\", operator=\"RATP Dev\"), which are authoritative and match official station counts: T1 rel 4497427 Sidi Moumen>Lissasfa (36 stops), T2 rel 8275661 Ain Diab>Sidi Bernoussi (33 stops), T3 rel 18086821 Casa Port>Hay El Wahda (20 stops), T4 rel 18086823 Mohammed Erradi>Parc de la Ligue Arabe (18 stops). 106 unique stops after deduplicating shared interchanges (e.g. Attacharouk S006 shared by T1 and T4). ROUTES: confirmed from official casatramway.ma lignes-et-horaires page. SERVICE HOURS: official page gives first departure 05:30 and last 22:30 daily (both directions), service 7 days/week -> calendar DAILY all days. FREQUENCY/HEADWAY: the official 'Frequences de passage T1.pdf' and 'TM ete tramway et busway.pdf' timetables were NOT machine-readable (page exposed only PDF links; the PDF URL 404'd and content was not extractable), so exact per-period headways (published ~6-8 min peak / ~12-15 min off-peak) could not be captured. Per spec, provided ONE representative trip per direction per route (8 trips total) departing at first service (05:30), with realistic stop_times computed from real inter-stop OSM geodesic distances at ~24 km/h effective tram speed + 15s dwell; end-to-end times calibrated to reported figures (T1 ~65 min vs reported ~66 min; T2 ~60; T3 ~35; T4 ~33). Times are plausible clock times, NOT scraped exact timetable rows. Busway lines (BW1/BW2) exist but are bus, not tram, and were out of scope of the tram relations; not included. Confidence 0.62 reflects: high-fidelity stops/geometry/order and correct routes/hours, but synthetic headway/frequency (only one representative trip per direction, not the full published frequency service).",
+  "source": "llm-normalized"
+}

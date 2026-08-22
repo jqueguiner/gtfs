@@ -1,0 +1,14 @@
+{
+  "operator": "Consorcio Arapoti (MOPC electric bus lines E1 / E2 / E3)",
+  "city": "Asuncion",
+  "cc": "PY",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 25,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 50
+  },
+  "notes": "Built from MOPC official itinerary pages (mopc.gov.py) for E1 (Corredor Eusebio Ayala), E2 (Corredor Mariscal Lopez) and E3 (Corredor Silvio Pettirossi, Puerto-Aeropuerto), operated by Consorcio Arapoti (Nanduti S.A. + Automotores Guarani S.R.L.), 30 state-owned electric buses. Sources give ORDERED STREET-BY-STREET itineraries per direction and service hours (E1 05:00-23:00; E2 04:00-01:45; E3 to 23:00 at 30-35 min headway), but NO per-stop timetable and NO granular signposted stop list with coordinates. Stops here are placed at the EVIDENCED named terminals + major avenue/intersection nodes along each corridor; coordinates are geocoded from known landmark positions (Palacio Lopez/Oficinas de Gobierno -25.2776,-57.6376; Aeropuerto Silvio Pettirossi rotonda ~-25.245,-57.523; Azara y Julia Miranda Cueto San Lorenzo ~-25.339,-57.509) and interpolated along the well-known corridor geometry - intermediate coords are approximate. One representative trip per direction per line; stop_times use an EVEN HEADWAY across service hours (E1/E3 30 min, E2 unspecified so 30 min assumed) since sources only give frequency, not clock times. Service assumed daily (electric feeder service; sources impose no day restriction). Real fixed signposted stops exist ('paradas fijas y debidamente senalizadas') but are not enumerated by the sources, so granular stops are NOT invented beyond the named itinerary nodes. Confidence moderate: itineraries/corridors/terminals/hours are faithful; exact stop placement, intermediate coords and per-stop times are approximated.",
+  "source": "llm-normalized"
+}

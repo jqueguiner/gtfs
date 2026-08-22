@@ -1,0 +1,14 @@
+{
+  "operator": "Kigali Bus Services Ltd (KBS) - Zone 1 / 100-series operator",
+  "city": "Kigali",
+  "cc": "RW",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 134,
+    "routes": 13,
+    "trips": 26,
+    "stop_times": 506
+  },
+  "notes": "Source: https://kigalibusservices.rw/routes/ (HTML) + https://kigalibusservices.rw/. The operator's own routes page listed 13 Zone-1 routes, each with an ordered outbound + return stop list and a peak-hour timetable, plus per-route fares in RWF. All 13 routes and both directions are captured (26 representative trips, 506 stop_times). STOPS: 134 unique stops after deduping the return-direction \"(R)\" markers and trailing variant digits to a canonical name. GEOCODING: the page only gave start/end GPS per route (not per intermediate stop); those endpoint coordinates were cross-checked against OSM (Nyabugogo -1.9407,30.0447; Remera -1.9587,30.1189 both matched) and assigned to the 11 evidenced terminal/hub stops (Kabuga, Masaka Bus Terminal, Nyabugogo, Rubirizi, Kibaya_Kanombe, Musave, Remera, Nyanza, CBD, CBD Bus Park). The other ~123 intermediate stops have NO on-page coordinates and were left null rather than invented. TIMES: the site gives only peak/off-peak windows (service 05:00-23:00 Mon-Fri; AM peak 06:30-08:00, PM peak 17:30-20:00), NOT per-stop clock times or explicit headways, so each representative trip departs its origin at 05:00:00 with an even ~90s inter-stop travel time. These are synthetic placeholder timings, not real published arrival times - the main reason confidence is not higher. Fares (RWF, informational, not in GTFS core files): R1 517, R2 341, R3 363, R4 194, R5 273, R6 185, R7 297, R8 220, R9 165, R10 163, R11 220, R12 517, R13 310. Operator's own disclaimer: timetable is informational only and buses are not guaranteed at given times. Payment is via AC Group Tap&Go smart card. Route_type=3 (bus). Calendar = weekday (Mon-Fri) per the published Zone-1 timetable; no separate weekend schedule was published. Files written at /home/ubuntu/adresses/gtfs_kbs/gtfs.json and build.py.",
+  "source": "llm-normalized"
+}

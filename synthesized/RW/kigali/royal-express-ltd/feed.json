@@ -1,0 +1,14 @@
+{
+  "operator": "Royal Express Ltd",
+  "city": "Kigali",
+  "cc": "RW",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 4,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 16
+  },
+  "notes": "Royal Express is Kigali's Zone 2 / 200-series operator (Corridor B), part of Ecofleet's modernized network. Route 205R (DOWN TOWN-BWERANKORI-MIDUHA), fare 521 RWF, ~10.33 km, 20 stops, is the only evidenced 200-series route reachable from the given coordinates via the Ecofleet journey-planner API. Coordinates for EPR Kiyovu (boarding, seq 1) and Miduha (destination) come directly from the API. Down Town = Kigali City Center Taxi Park (Kiyovu Cell, Nyarugenge). Bwerankori is a route-named intermediate located only to cell level (Kigarama Sector, Kicukiro) so its coordinates are approximate. The API exposes ONLY boarding + destination stops, not the 18 unnamed intermediate stops, so those were NOT invented. No published per-trip timetable exists for route 205 specifically; stop_times use realistic clock times derived from the evidenced service window (05:00-23:00) and headway (peak 10 min 06:00-09:00 & 17:00-20:00, off-peak 30 min). Two representative trips per direction are provided. Confidence is moderate-low because only 4 of 20 stops are named/located and exact timetable is inferred from frequency, not scraped. Sources: api.ecofleet.rw journey-planner, bus-planet.com Kigali urban services, KT Press / allafrica 41-route rollout.",
+  "source": "llm-normalized"
+}

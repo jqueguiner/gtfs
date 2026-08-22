@@ -1,0 +1,14 @@
+{
+  "operator": "Sri Lanka Railways (Colombo suburban network: Coastal, Main, Kelani Valley, Puttalam lines)",
+  "city": "Colombo",
+  "cc": "LK",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 68,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 156
+  },
+  "notes": "Colombo suburban network of Sri Lanka Railways covering 4 lines: Coastal (Colombo Fort-Kalutara South), Main (Colombo Fort-Veyangoda), Kelani Valley (Colombo Fort-Avissawella), Puttalam (Colombo Fort-Negombo). Station lists and ordering taken from Wikipedia line articles (Coastal, Main, Kelani Valley, Puttalam). Stop patterns and clock times for each representative trip are real services scraped from schedule aggregators (trainschedule.lk / lktrains.com, which mirror the official eservices.railway.gov.lk timetable that timed out on direct fetch): Coastal SB from Train 45 (CF 19:15 -> Kalutara S), Main EB from Train 349 (CF 06:16 -> Gampaha, extended to Veyangoda via Train 351 pattern), KV EB from Train 5 (CF 16:40 -> Avissawella, ~2h49m), Puttalam NB from Train 68 (CF 17:30 -> Negombo). Return-direction trips are plausible reconstructions using the same stop sequence reversed with typical morning departure times and mirrored inter-station running times (not each verified against a specific numbered return service). Coordinates are geocoded from Wikipedia station infoboxes where available (Colombo Fort, Maradana, Moratuwa, Kottawa, Ragama, Gampaha, Ja-Ela precise); other suburban stops use town-center coordinates and are approximate. route_type=2 (rail). Suburban sections only; long-distance continuations beyond the suburban termini omitted per operator scope. calendar.txt years set to 2026 placeholder window.",
+  "source": "llm-normalized"
+}

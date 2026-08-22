@@ -1,0 +1,14 @@
+{
+  "operator": "Gran Asuncion metropolitan colectivo operators and line associations (San Isidro, Vanguardia, Magno, Ximex, Lince, Automotores Guarani, Grupo Bene, La Sanlorenzana, Nanduti, Ciudad de Luque, Turismo Aldana, Gonzalez Quinonez, etc.)",
+  "city": "Asuncion",
+  "cc": "PY",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 105,
+    "routes": 68,
+    "trips": 136,
+    "stop_times": 476
+  },
+  "notes": "Route roster (70 lines, operator+from/to) from Treep (treep.app/index/city/47); gpsgomezpy 404 and Moovit index empty, so Treep was sole schedule source. Stops/coords from OSM over Gran Asuncion bbox (-25.55,-57.78,-25.05,-57.27) via Overpass (509 bus_stop/platform nodes; maps.mail.ru mirror). OSM route=bus relations (112) are way-only geometry with no ordered stop members, so order came from parsing OSM stop-name line refs, projected on the from-to axis, capped to 5 stops/trip. town_* stops are approximate municipality centroids used as endpoint anchors, not evidenced individual stops (OSM stop_ids osm* are real evidenced coords; real stop names were replaced with short ids to fit payload). 69/70 lines represented (line 44 dropped after dedup). No real timetable existed: all times synthetic (first 05:30, +4min/stop, one trip/direction); daily calendar 2026; route_type 3. Confidence 0.42: roster+operators real, stop coords real OSM, but ordering heuristic and times invented.",
+  "source": "llm-normalized"
+}

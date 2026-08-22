@@ -1,0 +1,14 @@
+{
+  "operator": "TER Dakar (Train Express Regional - SETER / SENTER SA)",
+  "city": "Dakar",
+  "cc": "SN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 52
+  },
+  "notes": "Line: Dakar - Diamniadio, 36 km, 13 operational stations (Phase 1). AIBD/Blaise Diagne Airport is Phase 2 and NOT included (not yet operational per sources). Route modeled as rail (route_type=2).\n\nSTOP LIST is well-evidenced: identical 13-station list appears on sentersa.sn/plan-de-transport, ter-senegal.sn/gares, and Wikipedia FR/EN, plus the datocms fiche-horaire header (DAKAR COLOBANE HANN ... BEAUX MARAICHERS PIKINE THIAROYE YEUMBEUL ...). Order Dakar->Diamniadio confirmed.\n\nSCHEDULE FRAMEWORK is evidenced (headway + span + travel time), but per-station clock times are SYNTHESIZED: the PDF source (datocms 1664553619-seter-fiches-horaires) is a line-PLAN graphic, not a readable timetable table; ter-senegal.sn/horaires and /gares returned HTTP 403; sentersa.sn/plan-de-transport gave the span/headway. Evidenced facts used:\n- Mon-Sat: first ~05:30-05:40, last 22:00; headway 10 min (to 21:00), then 20 min 21:00-22:00. (Wikipedia: 05:40-22:00 every 10 min.)\n- Sun/holidays: 06:30-~21:40, headway 20 min.\n- End-to-end travel time ~46 min over 12 hops.\n\nTRIPS: one representative trip per direction is provided for the weekday service (WKDAY) and one per direction for the Sunday service (SUN) = 4 trips total, with full ordered stop_times built from a proportional ~46 min run (segment times weighted by real geography; longer Rufisque-Bargny-Diamniadio hops). To model the 10-min headway a real feed would replicate these ~99 weekday trips/direction across the service span; only representative trips are emitted here (frequency-based expansion left to consumer).\n\nCOORDINATES: geocoded from web research on the town/commune centroids and documented station points (Diamniadio station 14.716,-17.198 from Wikidata; Rufisque 14.7155,-17.2709; Pikine, Thiaroye, Bargny, Keur Massar from Wikipedia/latitude.to). Overpass/OSM API was unreachable from this environment, so a few halt coords (Hann, Beaux Maraichers, Yeumbeul, Mbao, PNR, Colobane) are approximate corridor positions, not surveyed platform nodes. None are null; all are within the real corridor but should be refined against OSM railway=station nodes.\n\nConfidence 0.55: stops/order/route/span/headway well-grounded; exact per-station minute offsets and some platform coordinates are reconstructed rather than transcribed from an official timetable.",
+  "source": "llm-normalized"
+}

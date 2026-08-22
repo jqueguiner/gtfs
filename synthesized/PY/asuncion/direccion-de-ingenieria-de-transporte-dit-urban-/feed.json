@@ -1,0 +1,14 @@
+{
+  "operator": "Dirección de Ingeniería de Transporte (DIT) - urban/short-distance colectivo lines with origin/destino Asunción",
+  "city": "Asunción",
+  "cc": "PY",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 19,
+    "routes": 23,
+    "trips": 46,
+    "stop_times": 92
+  },
+  "notes": "Source: DIT \"Horarios de Operadoras\" PDF (informacionpublica.paraguay.gov.py), decoded with pdftotext -layout (WebFetch could not decode the binary PDF). Filtered to Tipo=CORTA (short-distance) lines whose Línea name has origin/destino ASUNCIÓN — 23 route/operator variants across 19 operators, exactly the DIT urban/short-distance colectivo scope requested.\n\nWHAT IS FAITHFUL (from the PDF): the route list (Empresa + Línea), the route_short_name (Rutas/ruta number), the service directions, and the departure clock times — each representative trip uses a REAL departure time from the timetable (earliest logged for that direction). Runs every day (all 7 day-flags = X in the PDF), reflected in calendar.\n\nWHAT IS APPROXIMATED (lowers confidence): The PDF has NO intermediate stops and NO stop coordinates — it only gives origin/destination endpoints and departure times. So each trip is modeled as a 2-stop origin→destination trip (Asunción terminal ↔ destination town). Intermediate stops from OSM route=bus relations / gpsgomezpy / Treep were NOT merged in because the DIT PDF lines (intercity CORTA to Cordillera/Paraguarí towns: Atyrá, Piribebuy, Tobatí, Paraguarí, Yaguarón, etc.) do not correspond to the numbered metropolitan lines (E1/E3, 30, 56, etc.) that OSM/gpsgomezpy/Treep enumerate — cross-referencing by line ref would have produced false stop assignments, so per the \"never invent stops\" rule I kept only the evidenced endpoints. Stop coordinates are real district-center/terminal coordinates from geographic knowledge (Sapucai, Valenzuela verified via WebSearch); Asunción uses the Terminal de Ómnibus. Arrival times at the far endpoint are ESTIMATED from great-circle distance at ~28 km/h (typical colectivo avg incl. stops), not from the PDF. The Villa Serrana ASUNCIÓN-TOBATI line and the two CAACUPE-SAN ANTONIO pass-through-Asunción lines only logged one direction in the PDF; the reverse representative trip uses a mid-schedule departure time (synthesized) to satisfy one-trip-per-direction.\n\nconfidence 0.55: route inventory + directions + departure times are real from the official source; intermediate stops absent (endpoint-only), far-end arrival times and a few reverse departures are estimated.",
+  "source": "llm-normalized"
+}

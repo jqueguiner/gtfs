@@ -1,0 +1,14 @@
+{
+  "operator": "SOTRA Bateau-Bus (Monbato lagoon ferry)",
+  "city": "Abidjan",
+  "cc": "CI",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 4,
+    "routes": 3,
+    "trips": 63,
+    "stop_times": 146
+  },
+  "notes": "Stops, routes and stop ordering are HIGH-confidence: taken directly from OSM nautical route relations tagged operator=SOTRA / network=monbato (the \"Monbateau\" lagoon ferry), retrieved live via Overpass (mail.ru mirror; overpass-api.de and kumi were unreachable). The 3 SOTRA routes are ref=501 (Treichville↔Abobo-Doumé, rel 10395063/64), ref=502 (Blockauss↔Plateau↔Treichville, rel 10395176/77), ref=503 (Plateau↔Abobo-Doumé, rel 10395134/35). Route 502 includes an intermediate Plateau call per the relation members. The 4 stops map 0m onto the named SOTRA gares (Plateau, Treichville, Abobo-Doumé/Attécoubé, Blockauss/Blokosso/Cocody), matching the task and fr.wikipedia. I deliberately EXCLUDED the 900/901 relations (operator=STL: Azito/Koumassi/M'pouto) and the un-numbered Aqualines relations (operator=Citrans: Abatta, Aqualines gares) — those are different operators, not SOTRA. Confidence is held at 0.55 because the SCHEDULE is modelled, not published: sources (sotra.ci, petitfute, tripinafrica) confirm daily service ~06:00–18:00 for the bateau-bus, but SOTRA publishes no per-line timetable or headway, so I applied an even 30-min headway across 06:00–18:00 (~12 min per lagoon hop, arrival=departure at the short crossings). Times are therefore representative, not real departures. Fare ~100–200 FCFA (not part of GTFS core). Service was disrupted by a Dec-2025 fire at Treichville; the feed reflects the normal/nominal network. DT4A abidjan.zip was NOT usable — the GitLab raw path returned a login page (auth-gated). Calendar = every day (Mon–Sun) as lagoon service runs daily; a single 2026 service window is provided.",
+  "source": "llm-normalized"
+}

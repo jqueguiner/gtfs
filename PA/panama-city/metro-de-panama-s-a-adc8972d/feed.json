@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro de Panama, S.A.",
+    "country": "PA",
+    "subdivision": null,
+    "city": "Panama City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PA/panama-city/metro-de-panama-s-a/gtfs/",
+    "mdb_id": "pa-llm-metro-de-panama-s-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

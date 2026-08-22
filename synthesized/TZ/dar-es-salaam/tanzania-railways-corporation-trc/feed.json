@@ -1,0 +1,14 @@
+{
+  "operator": "Tanzania Railways Corporation (TRC)",
+  "city": "Dar es Salaam",
+  "cc": "TZ",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 10,
+    "routes": 2,
+    "trips": 24,
+    "stop_times": 132
+  },
+  "notes": "Built from Wikipedia 'Dar es Salaam commuter rail' + corroborating news (The Citizen, Standard). PUGU LINE fully evidenced: 9 ordered stops Central-Kamata-SS Bakhresa-Vingunguti Mbuzi-Karakata(Airport)-Banana-FFU Mombasa-Gongo la Mboto-Pugu (~20km). Service = rush hours only, Mon-Sat (excl Sundays/public holidays), 6 trains each direction/day: 3 morning from 06:00, 3 evening from 15:55 (documented start times). Intermediate departure headways (~40 min) are MODELED to fit '3 from 06:00 / 3 from 15:55'; only the first morning (06:00) and first evening (15:55) departures are directly evidenced. Per-stop clock times are INTERPOLATED from documented km distances (Pugu 0, Gongo 3.32, FFU 5.51, Banana 7.31, Karakata 9.41, Vingunguti 11.31, SS Bakhresa 14.31, Kamata 17.80, Central 19.95) at ~28 km/h + 60s dwell. UBUNGO-MAZIWA (siding, ~12km) route: only endpoints Central and Ubungo-Maziwa are evidenced; NO intermediate stations are documented anywhere, so none were invented (2-stop route, times fully modeled) -> this route is the main confidence drag. COORDINATES: Central (-6.82301,39.284) and Kamata (-6.82678,39.27402) from Wikidata; Gongo la Mboto (-6.8823,39.1564) and Pugu (-6.9014,39.1187) from ward centroids; SS Bakhresa/Vingunguti/Karakata/Banana/FFU interpolated along the corridor near known localities (approximate); Ubungo-Maziwa approximate (Ubungo area). route_type=2 (rail). trc.co.tz homepage had a 'Treni ya Mjini' link but no machine-readable timetable. TAZARA line (separate operator) excluded per operator scope.",
+  "source": "llm-normalized"
+}

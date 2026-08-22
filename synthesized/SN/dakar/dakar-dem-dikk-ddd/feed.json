@@ -1,0 +1,14 @@
+{
+  "operator": "Dakar Dem Dikk (DDD)",
+  "city": "Dakar",
+  "cc": "SN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 383,
+    "routes": 58,
+    "trips": 58,
+    "stop_times": 111
+  },
+  "notes": "Built from demdikk.sn official itinerary pages (reseau-urbain-dakar + reseau-interurbain), scraped Aug 2026. Full generated feed (incl. reverse-direction trips, 111 trips / 1467 stop_times) saved at /home/ubuntu/adresses/gtfs_ddd/feed.json; this structured payload carries ONE representative trip per route (58 trips, 784 ordered stop_times) so every route has complete ordered stop_times. STRENGTHS: route list, ordered named stops per route, terminals, and interurban departure times/service days are directly evidenced from the operator's own site (37 urban+suburban lines route_type 3, 20 interurban lines). Interurban departures use real published clock times (e.g. Thies hourly 07-19h; Matam Mon/Thu/Sat 08h; Touba daily-except-Wed) with a nominal +4h arrival placeholder since intermediate stops/arrival times are not published. WEAKNESSES lowering confidence: (1) Urban intra-route CLOCK TIMES are NOT published by DDD -- modeled as an even 5-min-per-stop headway from a 06:00 first departure, so within-trip urban times are synthetic. (2) Only one representative run per route in this payload (no full frequency table; the source gives no urban timetable). (3) Geocoding: 134/383 stops carry coordinates (all terminals, major landmarks, and 20 interurban destination cities via OSM/Nominatim/web-search); ~249 minor named stops left null rather than invent positions -- Moovit line pages were JS-rendered (no parseable content) and the CETUD JPEG map was not OCR'd. No stop was invented; every stop is evidenced by a demdikk.sn itinerary. Feed passes referential-integrity, HH:MM:SS, contiguous stop_sequence, and route_type validation.",
+  "source": "llm-normalized"
+}

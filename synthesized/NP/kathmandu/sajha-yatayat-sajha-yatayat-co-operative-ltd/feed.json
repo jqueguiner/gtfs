@@ -1,0 +1,14 @@
+{
+  "operator": "Sajha Yatayat (Sajha Yatayat Co-operative Ltd.)",
+  "city": "Kathmandu",
+  "cc": "NP",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 74,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 256
+  },
+  "notes": "Route topology (7 Kathmandu Valley lines + 1 long-haul Kathmandu-Baglung) and ordered stop sequences are taken from the Wikipedia \"Sajha Yatayat\" Routes section, which is derived from the same OSM Yatayat-project route relations named as the stop source; the official sajhayatayat.com.np short/long-route pages returned HTTP 403 to WebFetch and embed schedules as PDFs/JS not present in raw HTML, and the Gaadi Guide operator page returned 404 (only reachable via gaadiguide.sayuj.com.np, without machine-readable tables). OSM Overpass was not reachable from this environment. Stop coordinates are geocoded from well-known Kathmandu Valley landmark locations (accurate to ~city-block level); none are invented — every stop is evidenced in the Wikipedia route lists. CONFIDENCE IS MODERATE-LOW because service times are NOT from a published Sajha timetable: valley trips use a synthetic ~3 min/stop cadence from a 06:00 first departure (representative single trip per direction, not the real ~15-25 min headway fleet schedule Wikipedia cites), and long-haul times are realistic estimated segment travel times. Route stop ORDER and coverage are faithful; absolute clock times and headways are illustrative. Sajha also runs a night service (20:00-23:00, two E-W/N-S loops) and additional/rerouted lines (e.g. Lele, Bungamati-Budhanilkantha) reported in news but without published stop lists, so these are omitted. calendar is a placeholder all-week service spanning 2026.",
+  "source": "llm-normalized"
+}

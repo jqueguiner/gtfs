@@ -1,0 +1,14 @@
+{
+  "operator": "Lagos Rail Mass Transit — Red Line (LAMATA)",
+  "city": "Lagos",
+  "cc": "NG",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 8,
+    "routes": 1,
+    "trips": 9,
+    "stop_times": 72
+  },
+  "notes": "Source of truth for the timetable is the LAMATA Red Line schedule page (https://www.lamata-ng.com/our-schedule/redline-train-schedule/), which lists exactly 8 stations in order (Oyingbo, Yaba, Mushin, Oshodi, Ikeja, Agege, Iju, Agbado) and explicit per-station clock times for 4 northbound trips (LAM001-004, Oyingbo->Agbado) and 5 southbound trips (LAM101-105, Agbado->Oyingbo). All 9 trips are encoded verbatim with full ordered stop_times. Times parsed from AM/PM to 24h. Service is Monday-Friday only (per schedule page). route_type=2 (rail): the Red Line is a heavy/commuter rail service running on the Nigeria Railway Corporation Lagos-Ibadan standard-gauge (1435mm) right-of-way; Phase I commercial ops opened 2024-10-15.\n\nWikipedia lists a 9th station 'MMIA Domestic Airport' between Ikeja and Agege, but it does not appear in the LAMATA timetable and has no scheduled times, so it was intentionally omitted (task instruction: never invent stops not evidenced by the schedule).\n\nCoordinates: Oyingbo (6.4835,3.3816) and Yaba (6.5115,3.3700) are precise from Wikidata (Q130542160, Q110571724). The other 6 (Mushin, Oshodi, Ikeja, Agege, Iju, Agbado) are approximate locality/right-of-way positions along the Lagos-Ibadan SGR alignment ordered north; platform-precise coordinates were not found in Wikidata/OSM search, so these are best-available estimates (~within a few hundred meters), not left null since the corridor position is known.\n\ncalendar start/end set to the 2026 calendar year as a validity window (schedule page gives no explicit validity dates).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MiBus (Metrobus) — MiMovilidad Integral / Transporte Masivo de Panamá S.A.",
+    "country": "PA",
+    "subdivision": null,
+    "city": "Panama City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PA/panama-city/mibus-metrobus-mimovilidad-integral-transporte-m/gtfs/",
+    "mdb_id": "pa-llm-mibus-metrobus-mimovilidad-integral-tran",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

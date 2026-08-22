@@ -1,0 +1,14 @@
+{
+  "operator": "Almaty BRT (bus rapid transit — Timiryazev / Zheltoksan corridor, operated within the Almaty municipal system)",
+  "city": "Almaty",
+  "cc": "KZ",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 15,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 30
+  },
+  "notes": "Sources: Tengrinews (Raiymbek/Zheltoksan extension, 2-stage, construction 2025), Railway Gazette (13.2 km full corridor, phase-2 Orbita link doubling length), inform.kz/informburo/vlast/365info (Timiryazev BRT launched Sep 2018, 8.7 km, Orbita->Timiryazev via Mustafin-Suleimenov-Zhandosov, 67x 18m articulated buses, 3-5 min headway, Timiryazev journey cut 22->14 min, confirmed stops: Orbita, Rozybakiev, Gagarin, Atakent, Auezov, Baizakov, Baitursynov, Manas). alatransit.kz and citybus.tha.kz returned no machine-readable schedule (expired TLS cert / JS-only). Live Overpass API unreachable from sandbox, so stop coordinates were derived via OSM Nominatim geocoding + reverse-geocode tracing of the corridor: Timiryazev confirmed running ~E-W at lat 43.2251 through Koktem (lon 76.890->76.920); west leg Mustafin(43.206,76.878)->Suleimenov(43.210)->Navoi->Zhandosov(43.2251,76.890). WHAT IS FAITHFUL: route existence, corridor street alignment, west/east endpoints, stop names, headway. WHAT IS APPROXIMATE/SYNTHETIC: (1) exact per-stop platform lat/lon are on-corridor interpolations, not surveyed OSM platform nodes (Overpass was down); good to ~100-300 m. (2) No published clock timetable exists (only frequency), so stop_times are even-headway representative trips (2 min inter-stop hop BRT-1, 3 min BRT-2) starting 07:00/07:30 — illustrative, not real departure times. (3) BRT-2 (Zheltoksan->Tole Bi->Raiymbek, ~13.2 km) is largely PLANNED/UNDER CONSTRUCTION in 2025 per Tengrinews/Railway Gazette, not confirmed in full passenger service; included at low fidelity with only 4 geographically-grounded anchors (Zheltoksan-Timiryazev, Abay, Tole Bi 43.2506,76.9397, Raiymbek). Intermediate BRT-2 stations along VOAD/Kulzha highway toward Zhetysu market were NOT invented (no evidenced platform list). service_id 'daily' assumed (urban BRT runs 7 days); calendar window 2026 is nominal. route_type=3 (bus; BRT operates in mixed lanes with trolleybuses/regular buses per sources).",
+  "source": "llm-normalized"
+}

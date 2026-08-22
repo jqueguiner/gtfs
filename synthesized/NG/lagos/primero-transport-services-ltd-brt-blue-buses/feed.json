@@ -1,0 +1,14 @@
+{
+  "operator": "Primero Transport Services Ltd (BRT — Blue buses)",
+  "city": "Lagos",
+  "cc": "NG",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 32,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 80
+  },
+  "notes": "Feed for Primero BRT (Blue buses) in Lagos, built from Primero/LAMATA + travel-guide corridor stop lists, Wikipedia (Oshodi-Abule-Egba), and OSM BRT relations. Three corridors modeled: (R1) Ikorodu Terminal - TBS/CMS, (R2) Mile 12 - TBS/CMS (original pilot), (R3) Oshodi - Abule-Egba. Ordered stops for R1/R2 taken from the ridetransport travel guide and match the OSM 'Mile 12 - Ikorodu BRT' relations. R3's 14 stations (Oshodi, Bolade, Ladipo, Shogunle, PWD, Airport/Charity, Mangoro, Ikeja Along, Cement, Dopemu/Adealu, Ile-Epo, Abattoir, Iyana Ipaja/Ajala, Abule-Egba) per Wikipedia + multiple guides; Bolade/Cement/Ile-Epo/Iyana Ipaja confirmed by name. SCHEDULE: sources give service window ~06:00-21:00 (LAMATA lists 06:00-22:00 for the pilot) and headways of 5-15 min in peak but no published timetable. Trips here use a representative even 15-min headway is NOT expanded; instead one representative trip per direction per route is provided with realistic clock times derived from typical end-to-end travel times (R1 ~90min, R2 ~60min, R3 ~30min) starting 06:00. Coordinates geocoded from known Lagos bus-stop locations; Mile 12 (6.6122,3.4019), TBS (6.4472,3.4014), Ikorodu (~6.6155,3.5065) verified from web sources, others approximate along Ikorodu Rd/Funsho Williams Ave/Lagos-Abeokuta Expwy. Confidence 0.45: stop lists and corridors are well-evidenced but exact departure times, per-stop timings, and headway expansion are not published, so stop_times are representative rather than authoritative.",
+  "source": "llm-normalized"
+}

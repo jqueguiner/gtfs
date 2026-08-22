@@ -1,0 +1,14 @@
+{
+  "operator": "Sindicato Cotranstur (minibus, El Alto - La Paz)",
+  "city": "La Paz",
+  "cc": "BO",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 7,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 14
+  },
+  "notes": "Built primarily from OSM relation 9393419 (route=share_taxi, ref=212, operator=COTRANSTUR, from=Aeropuerto Internacional El Alto, to=Plaza Isabel La Católica). The relation contains 78 way members (geometry only) with NO stop/platform role nodes, so an explicit ordered stop list is not published. Stops were derived from the two named terminals plus 5 named waypoint nodes found within the relation payload (Cruce La Ceja, Estación de Peaje Autopista, Cruce Achachicala, Cruce Cervecería, PumaKatari - Bozo), ordered by their position projected onto the traced polyline. Terminal coordinates are the exact polyline endpoints; the Plaza Isabel La Católica end (-16.5090,-68.1245) is confirmed as a line-212 node by WebSearch/Moovit. No published timetable exists for La Paz sindicato minibuses (they run on-demand at high frequency), so a single representative trip per direction is modeled at 06:00 with inter-stop times proportional to along-path distance over an estimated 45 min end-to-end run; calendar = daily service, typical for La Paz minibuses. GeoBolivia WFS layer (geonode:lineas_minibuseswgs84) and Moovit line-index page were unreachable from this environment (connection refused / empty body), so no supplementary geometry or additional stops were incorporated. No stops were invented beyond named OSM evidence.",
+  "source": "llm-normalized"
+}

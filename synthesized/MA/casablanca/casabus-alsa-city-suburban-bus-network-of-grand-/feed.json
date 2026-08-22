@@ -1,0 +1,14 @@
+{
+  "operator": "Casabus (Alsa) - city/suburban bus network of Grand Casablanca (ECI Al Baida)",
+  "city": "Casablanca",
+  "cc": "MA",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 259,
+    "routes": 11,
+    "trips": 22,
+    "stop_times": 614
+  },
+  "notes": "Stops, route list, ordered stop sequences and coordinates all sourced from OpenStreetMap: network route_master relation 7439200 'Network Casablanca Bus' (network=Casabus, operator=Alsa Al Baida, wikidata Q114771384) and its child route=bus relations, queried live via Overpass (maps.mail.ru mirror; overpass-api.de and kumi were unreachable/500 from this environment). The casabus.ma schedule pages and Moovit line list are JS-rendered and returned no machine-readable timetable, so exact clock times/headways are NOT published in a scrapable form. This feed materializes 11 representative lines (of ~44 distinct refs / 82 directional relations in the OSM network; ~1838 total stops) with FULLY EVIDENCED ordered stops per direction: L5, L22, L23, L33, L43, L60, L62, L67, L82, L312, L900. Each line has one outbound + one return trip. Coordinates are the real OSM node lat/lon of each platform. HONESTY ON TIMES: no real timetable was obtainable, so stop_times use a synthetic 06:00 first departure with a uniform ~2 min inter-stop spacing (placeholder running times) — the STOP ORDER is real, the CLOCK TIMES are not. Service modeled as daily (7j/7), consistent with casabus.ma customer-service hours 07h-21h and the April 2026 Casabus press release extending 14 structural lines (incl. L005/L013/L023/L033/L050/L067/L082/L902) to ~22h; span/headway per line were not published so are not encoded. route_type=3 (bus) throughout. Not included (would need per-relation Overpass fetches; several timed out): the remaining ~33 line refs incl. L6/L7/L9/L11/L20/L38/L56/L63/L64/L65/L72/L90/L97/L106/L107/L139/L143/L300/L301/L306/L606/L800/L904/L906/L907 and numeric lines 87/88/126/150. To extend, fetch each child relation's ordered platform members + node coords the same way. Duplicate-name stops (e.g. two 'Comanav', 'Bricoma') are distinct OSM nodes on opposite carriageways and kept separate. Confidence 0.55: geometry/stops/order are real and high-quality; timetable is a frequency-style placeholder and coverage is ~25% of lines.",
+  "source": "llm-normalized"
+}

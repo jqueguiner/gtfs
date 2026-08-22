@@ -1,0 +1,14 @@
+{
+  "operator": "La Paz BUS - PumaKatari & ChikiTiti (SETRAM, Gobierno Autónomo Municipal de La Paz)",
+  "city": "La Paz",
+  "cc": "BO",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 50,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 134
+  },
+  "notes": "Feed for the municipal La Paz BUS system (PumaKatari + ChikiTiti minibuses), operated by SETRAM under the Gobierno Autonomo Municipal de La Paz. Route set, terminals, corridors, service hours and frequencies are grounded in Moovit line pages, GAMLP/lapaz.bo and Bolivian press; the full Inca Llojeta stop sequence (17 stops) comes from Spanish Wikipedia. For routes where Moovit's per-stop sequence could not be scraped (the site is JS-rendered and returned empty to the fetcher), stops are the documented terminals plus named corridor waypoints/landmarks from the route descriptions, not the complete parada-by-parada list (Achumani is documented as 43 stops, Irpavi II ~31-35/dir, Chasquipampa 27-29/dir). Coordinates are geocoded to known landmark/neighborhood positions (WGS84); intermediate street-segment stops are approximated along the corridor and should be treated as indicative. Service: Integradora and Villa Salome run 24h/7d; Achumani ~05:00-23:00 every 7 min (hourly overnight); Irpavi II Norte 06:00-02:00; Chasquipampa all day; the Mallasa extension (launched 2024-10-21) runs mornings 06:00-09:00 from Irpavi and evenings 18:00-22:00 from Mallasa. The Achumani<->Estacion Verde (Irpavi) and Chasquipampa<->Estacion Verde SIT integration routes launched 2026-08-10 connect to Teleferico Linea Verde; here they are represented via the existing Achumani/Chasquipampa lines. Fares (not in GTFS): 2 Bs with SETRAM card, 2.30 Bs without. Trips are one representative trip per direction per route with even-headway clock times; not a full frequency-based timetable.",
+  "source": "llm-normalized"
+}

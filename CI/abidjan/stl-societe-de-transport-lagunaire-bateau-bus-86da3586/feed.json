@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STL (Société de Transport Lagunaire) - bateau-bus",
+    "country": "CI",
+    "subdivision": null,
+    "city": "Abidjan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CI/abidjan/stl-societe-de-transport-lagunaire-bateau-bus/gtfs/",
+    "mdb_id": "ci-llm-stl-societe-de-transport-lagunaire-batea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

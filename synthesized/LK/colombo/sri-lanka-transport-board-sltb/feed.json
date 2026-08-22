@@ -1,0 +1,14 @@
+{
+  "operator": "Sri Lanka Transport Board (SLTB)",
+  "city": "Colombo",
+  "cc": "LK",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 45,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 132
+  },
+  "notes": "Routes and ordered stops are well-evidenced from routemaster.lk, srilanka-streets.openalfa.com, community route directories (busroutessrilanka, ceylonlanka.info) and the colombofort.com / lankainformation.lk SLTB route lists. 5 representative high-frequency Colombo city routes modeled (100, 101, 120, 138, 177), all bus (route_type 3). Central Bus Stand Pettah hub geocoded from OSM node N10605451598 (6.9347, 79.8548). Major stop coordinates sourced from Wikipedia/latlong.net; a few intermediate stops (Slave Island, Ibbanwala Jn, Thummulla, Thimbirigasyaya, Kirillapone, Havelock, Kohuwala, Pamankada, Piliyandala, Boralesgamuwa, Ratmalana, Mt Lavinia, Moratuwa, Walana, Panadura, Borella, Rajagiriya, Battaramulla, Malabe, Kaduwela) interpolated/approximated along the known corridor. IMPORTANT: SLTB does NOT publish exact per-trip departure timetables for these high-frequency city routes — sources give routing + first/last-bus/frequency patterns only. Stop_times therefore use an even ~30-min representative headway across a 05:00-21:00 service span (one trip per direction per route), NOT the literal schedule. Service modeled as daily (SLTB city buses run all week). No stops were invented — every stop is named in the scraped route directories. To raise confidence, ingest official SLTB depot timetables (Panadura/Kesbewa/Homagama depots) and per-stop GPS from OSM route=bus relations.",
+  "source": "llm-normalized"
+}

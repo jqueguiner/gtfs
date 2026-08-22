@@ -1,0 +1,14 @@
+{
+  "operator": "CasaBusway (BRT) - RATP Dev Casablanca / Casa Transport",
+  "city": "Casablanca",
+  "cc": "MA",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 8,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 16
+  },
+  "notes": "Sources: casatramway.ma busway pages + official frequency PDFs (Bw1/Bw2 TM ete.pdf from files.casatramway.ma, headers confirm 'CASA busway - Opere par RATP Dev'), Wikipedia (EN/FR). Operator confirmed RATP Dev under Casa Transport SA. FAITHFUL parts: agency; the two routes (BW1 Omar Al Khayam<->Salmia 2 ~12.5km/20 stations/~32min; BW2 Ouled Azzouz<->Oulmes ~12km/22 stations/~33min); daily service; service window 06:00-22:30. Real August-2026 weekday headways from the PDFs -- BW1: 06:00 15min,08:00 10min,10:00 15min,16:00 10min,22:00 15min; BW2: 06:00 12min,07:12 6min,10:24 10min,15:34 7min,18:50 6min,20:50 8min,21:54 12min (Sat/Sun tables also present). INCOMPLETE: the full ordered lists of the 20 (BW1) and 22 (BW2) intermediate stops are NOT published in any machine-readable source I could reach -- Moovit stop lists are JS-rendered and Overpass API was unreachable from this sandbox. Only endpoint/interchange/corridor stops that are explicitly evidenced (Omar Al Khayam, Al Laymoun, Al Qods=Tramway T3 interchange, Salmia 2; Ouled Azzouz, Errahma, Maarif, Oulmes/rond-point Ghandi) are included, geocoded via Nominatim. No stops were invented to reach the 20/22 counts. Representative trips: one 06:00 trip per direction per route over the evidenced stops, end-to-end times matched to the ~32-33min published runtime. To lift confidence, add the missing intermediate stops from an OSM route=bus relation (ref BW1/BW2, network Casa) via Overpass and expand headway-based full-day trips from the PDF tables.",
+  "source": "llm-normalized"
+}

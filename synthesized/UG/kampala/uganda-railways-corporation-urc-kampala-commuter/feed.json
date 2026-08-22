@@ -1,0 +1,14 @@
+{
+  "operator": "Uganda Railways Corporation (URC) - Kampala commuter passenger rail (Kampala-Namanve-Mukono line)",
+  "city": "Kampala",
+  "cc": "UG",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 7,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 18
+  },
+  "notes": "Built from URC official passenger-services + schedules pages, URC rail-network page, and press coverage (Matooke Republic / Independent). Four daily working-day trips confirmed: 2 AM inbound (Mukono->Kampala 06:30->07:05 Namanve->07:40; Namanve->Kampala 07:45) and 2 PM outbound (Kampala->Namanve 17:30; Kampala->Mukono 19:30->20:05 Namanve->20:30). Mukono trips run express (only Namanve intermediate, per press). Namanve trips serve the intermediate halts Nakawa (MUBS), Spedag (Zone 4), Kireka, Namboole per the URC rail-network page listing; that listing's order is preserved for stop_sequence. AM departure of the Namanve service appears as 07:45 (passenger-services page) vs 08:15 (schedules page); used 07:45. Coordinates: Kampala and Namanve are exact OSM railway=station nodes (Nominatim); intermediate halts geocoded to their localities (Nakawa/MUBS, Kireka, Namboole near Mandela Stadium) and snapped along the west->east line alignment; Spedag (Namanve Zone 4) approximate. Mukono placed at Mukono town/Nabuti. route_type=2 (rail, metre-gauge). Note: service was suspended Apr 2025 after a Namanve embankment failure and repairs; calendar end_date reflects the announced schedule period, not guaranteed live operation.",
+  "source": "llm-normalized"
+}

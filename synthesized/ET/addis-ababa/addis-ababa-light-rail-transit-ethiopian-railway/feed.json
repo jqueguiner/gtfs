@@ -1,0 +1,14 @@
+{
+  "operator": "Addis Ababa Light Rail Transit (Ethiopian Railway Corporation / Shenzhen Metro Group operations)",
+  "city": "Addis Ababa",
+  "cc": "ET",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 39,
+    "routes": 2,
+    "trips": 16,
+    "stop_times": 352
+  },
+  "notes": "STOPS: 39 unique stations (Green E-W Ayat<->Tor Hailoch 22 stops; Blue N-S Menelik II Square<->Kaliti 22 stops; 5 shared interchange stops St. Lideta/Tegbared/Mexico/Leghar/Stadium deduplicated to single stop_ids used by both lines). Every stop_lat/stop_lon comes from real OpenStreetMap station nodes in the two official LRT route relations (rel 5696983 Ayat->Tor Hailoch, rel 5696986 Menelik II Square->Kality), matching the addismetro.com and Wikipedia ordered station lists exactly. No stops invented. One OSM name in Amharic (Hayahulet 1) was transliterated. \"Kality\" kept as OSM spells it (=Kaliti).\n\nROUTES: route_type=0 (tram/streetcar) which is the correct GTFS type for a street-running light-rail/LRT system.\n\nSCHEDULE CONFIDENCE (why 0.62, not higher): The AA-LRT publishes NO fixed timetable - it is a frequency/headway-based service. Real data (addismetro.com timetable + Wikipedia): service ~06:00-22:00 daily, headway ~10 min peak / ~15 min off-peak weekdays / ~17 min weekends. I modeled realistic clock times using an even 12-min headway across 06:00-22:00 and a ~2 min inter-station run time (=> ~42 min end-to-end, consistent with the real ~40-45 min line traversal). These stop_times are SYNTHETIC representative times derived from the published frequency, NOT an official minute-by-minute timetable (which does not exist publicly). Dwell times folded into the 2-min hop; no shapes.txt/frequencies.txt emitted here.\n\nTRIPS: Full generatable set = 324 trips (81 per direction x 2 directions x 2 lines at 12-min headway). To keep the payload compact I emitted 16 REPRESENTATIVE trips = 4 departures (06:00, 11:00, 15:00, 21:00) x 2 directions x 2 routes, each with full ordered 22-stop stop_times. For a production feed, replicate the pattern every 10-17 min per the headway table, or convert to frequencies.txt with headway_secs 600 (peak) / 900 (off-peak weekday) / 1020 (weekend).\n\nCALENDAR: single service DAILY (Mon-Sun, both lines run daily) 2026-01-01..2026-12-31.\n\nSOURCES: OSM route relations (authoritative for stops+coords+order), addismetro.com metro-map + timetable (order + service hours + frequency), Wikipedia (line lengths, open dates, cross-check). AddisMap/AddisMapTransit-gtfs and DT4A GitLab were checked but their raw LRT files weren't directly extractable via WebFetch (repo file listings only); OSM fully covered the stop layer. Overpass main endpoints were down; used maps.mail.ru mirror.\n\nOPERATIONS: infrastructure/owner = Ethiopian Railway Corporation (ERC); O&M contractor = Shenzhen Metro Group (with CRECG). timezone Africa/Addis_Ababa (EAT, UTC+3).",
+  "source": "llm-normalized"
+}

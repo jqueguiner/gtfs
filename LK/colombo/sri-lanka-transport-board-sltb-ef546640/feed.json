@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sri Lanka Transport Board (SLTB)",
+    "country": "LK",
+    "subdivision": null,
+    "city": "Colombo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/LK/colombo/sri-lanka-transport-board-sltb/gtfs/",
+    "mdb_id": "lk-llm-sri-lanka-transport-board-sltb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

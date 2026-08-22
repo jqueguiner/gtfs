@@ -1,0 +1,14 @@
+{
+  "operator": "Ghana Railway Company Limited (GRCL) - Accra suburban commuter rail",
+  "city": "Accra",
+  "cc": "GH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 12,
+    "routes": 2,
+    "trips": 10,
+    "stop_times": 72
+  },
+  "notes": "Sources: troski.me/train (current Accra-Tema times, S112/S117), fahrplancenter.com/GhanaTimings.html (station orders + Nsawam 4x/day frequencies, tagged as the OSM relation timetable), and OSM route relations 14435104/14435107 (Nsawam-Accra / Accra-Nsawam, tags: route=train, interval='4 times a day', duration 01:40, check_date may 2019) plus rel 11919949 Eastern Line. graphic.com.gh returned HTTP 403 and asaaseradio.com served a bot-verification wall, so both were cross-checked via WebSearch (ghanaweb/theghanareport echo of the 2019 official schedule). \n\nCoordinates: Accra Central, Odaw(Odo/Circle), Achimota Junction, Dome, Amasaman, Adjen Kotoku(Kotoku Junction) and Nsawam are EXACT from OSM relation nodes. Community 1, Tema Harbour, Baatsona, Alajo geocoded via Nominatim (OSM). Asaprochona has no discrete OSM/Nominatim hit; placed by interpolation on the Tema-Harbour->Baatsona corridor (flagged approximate). \n\nRoute 1 Accra-Tema: station set (Accra Central, Odaw/Circle, Achimota Junction, Alajo, Baatsona, Asaprochona, Tema Harbour, Community 1) follows the current troski.me/OSM listing (which uses Alajo/Baatsona), NOT the fuller 2019 launch list (which additionally named Airport/Abelenkpe/Nungua/Addogonno). Times: morning Tema->Accra from troski S112 (06:10 dep Tema ... 07:24 Accra) extended to Community1 06:00; evening Accra->Tema S117 (17:40 Accra ... 19:02 Tema, 19:18 Community1). Intermediate Alajo/Baatsona/Asaprochona times interpolated from published endpoints. \n\nRoute 2 Accra-Nsawam: 4 daily trains each way (Accra deps 07:40/10:00/14:00/19:00; Nsawam deps 06:00/11:40/12:20/17:30) per fahrplancenter; duration 01:40; intermediate stop_times evenly interpolated since only endpoints/frequency are published. Note fahrplancenter flags the Nsawam shuttle as 'suspended until further notice' (May 2019 check) and the Tema service as limited - operational status uncertain, hence mid confidence. Service days Mon-Sat, no Sunday (all Ghana commuter lines). One representative trip per direction per route provided; the 3 extra Nsawam daily slots are captured as additional trips.",
+  "source": "llm-normalized"
+}

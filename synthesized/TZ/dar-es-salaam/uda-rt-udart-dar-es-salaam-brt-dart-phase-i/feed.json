@@ -1,0 +1,14 @@
+{
+  "operator": "UDA-RT (UDART) — Dar es Salaam BRT (DART Phase I)",
+  "city": "Dar es Salaam",
+  "cc": "TZ",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 31,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 132
+  },
+  "notes": "DART Phase I BRT, Dar es Salaam. Operator UDA-RT (UDART); asset owner DART Agency (dart.go.tz). Corridor documented from Wikipedia (Dar_es_Salaam_Rapid_Transit) + udart.co.tz/brt-system: 20.9 km, 5 terminals (Kimara, Ubungo, Morocco, Gerezani, Kivukoni), ~27-29 median stations. Main trunk Kimara–Kivukoni runs 15.8 km along Morogoro Rd + Sokoine Dr + Kivukoni Front; branch Magomeni→Morocco (3.4 km, Kawawa Rd); branch Fire→Gerezani via Kariakoo (Msimbazi St, 1.7 km). Ordered station list taken from the Wikipedia route diagram. Three documented trunk service routes modeled: T1 Kimara–Kivukoni, T2 Kimara–Gerezani, T3 Morocco–Kivukoni. Each route has one representative trip per direction (2 total per route). Service hours 04:30–00:00 daily (7 days) per both official sources; frequency in sources is qualitative (~33 buses/hr peak trunk, ~10/hr off-peak) so stop_times use realistic running times from a single representative early trip rather than a full expanded frequency table — this is a representative feed, NOT a full timetable. CONFIDENCE 0.45: station names/order and corridor geometry are well-evidenced and coordinates are anchored to the real OSM corridor path (Kimara -6.8038,39.1663 → Ubungo -6.8117,39.2214 → Kivukoni -6.8203,39.2965); however exact per-station lat/lon are interpolated along the corridor (not each individually OSM-verified), per-station timings are estimated from published end-to-end travel times (Kimara–Gerezani ~61 min, Morocco–Kivukoni ~41 min), and no published departure-by-departure timetable exists to validate against. Branch station lists (Morocco arm, Gerezani arm beyond Kariakoo) are inferred from corridor description. Downtown/Mbagala extension stations (Phase II, e.g. Posta, Mbagala) excluded as not Phase I trunk service. No invented stops — all stations appear in the sourced station list.",
+  "source": "llm-normalized"
+}

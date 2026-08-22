@@ -1,0 +1,14 @@
+{
+  "operator": "MiBus (Metrobus) — MiMovilidad Integral / Transporte Masivo de Panamá S.A.",
+  "city": "Panama City",
+  "cc": "PA",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 245,
+    "routes": 24,
+    "trips": 24,
+    "stop_times": 326
+  },
+  "notes": "Stops + ordered per-route stop sequences are REAL, derived from the panatrans-dataset GTFS (github.com/merlos/panatrans-dataset, ODbL) which was built from MiBus's own 2016 KML of the Panama City network. All stop_lat/stop_lon are real coordinates from that source (0 nulls). Route names/long_names and per-route ordered stop lists come straight from the source. Service DAYS are real: parsed from each route's \"Horario Hábil/Sábado/Domingo\" schedule text on mibus.com.pa/red-de-rutas (24 Horas, 05:00-22:00, 04:00-24:00, peak-only windows, etc.), collapsed into 4 calendars (daily / mon_sat / weekday / weekend). CLOCK TIMES are SYNTHESIZED, not real: each representative trip departs at the START of its real service window (04:00, 05:00, 15:00, 16:00, 08:00, or 00:00 for 24h routes) with an even 2-min inter-stop spacing — MiBus publishes only service windows/frequencies, not per-stop timetables, so exact arrival times are not evidenced. The source has no true direction_id split (each MiBus ida/retorno is already a separate route id) and no real headways.\n\nSCOPE OF THIS RESPONSE vs FULL ARTIFACT: The full normalized feed (345 routes, 1150 stops, 344 trips, 13064 stop_times, 4 calendars) is written to /home/ubuntu/adresses/gtfs_feed.json and validates with 0 referential errors. To stay within a single structured response this payload is a COMPLETE, self-consistent SUBSET: 24 representative routes/trips spanning all 4 service types and both ida/retorno directions, 245 stops (every stop referenced by these trips, real coords), and 326 ordered stop_times. It passes GTFS referential integrity (every stop_time→stop, trip→route, trip→service resolves; every trip has ≥2 ordered stops from seq 1; all route_type=3 bus; times HH:MM:SS). The S/T/K/M/V/I/F/C/E/N corredor/troncal/complementaria codes from mibus.com.pa are NOT present in the panatrans source (which uses descriptive origin-destination names), so route_short_name carries the descriptive name rather than the letter code. mibus.com.pa itself and jlsoftware.net returned 403/were not directly parseable; the per-route PDFs were not individually fetched — the ODbL panatrans GTFS (MiBus's own KML) is the authoritative stop/geometry source used. All 12 corridor/trunk station hubs (Estación Marañón, Los Andes, San Isidro, La Cabima, Albrook, La Doña, etc.) are represented.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Sundar Yatayat Pvt. Ltd. (electric city buses)",
+  "city": "Kathmandu",
+  "cc": "NP",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 13,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 30
+  },
+  "notes": "Sources: techlekh.com (route list, fleet), thehimalayantimes.com and ktm2day (Ring Road ordered stops + fares), plus WebSearch geocoding. ktm2day.com returned HTTP 403 and meromotor.com HTTP 500, so their content was recovered via WebSearch snippets.\n\nWell-evidenced: operator, city, mode (battery-electric city bus), and the Phase-1 REAL Ring Road corridor with its ordered stops (New Buspark - Maharajgunj Chakrapath - Baluwatar - Putalisadak - New Baneshwor - Koteshwor - Satdobato, both directions), confirmed by two independent sources. Fare ~20-25% below normal bus, 40-seat AC buses, launched 2019-09-09.\n\nThe four other routes (Narayan Gopal Chowk-Mediciti, New Bus Park-Gaushala, Koteshwor-Sallaghari, Dunge Adda-Attarkhel) were ANNOUNCED Phase-2 routes (techlekh) requiring government route permits; it is unclear how fully they ran. Only their two named endpoints are evidenced, so each is modeled as a 2-stop origin-destination trip - no intermediate stops were invented.\n\nCONFIDENCE-LIMITING FACTS: No published timetable, headway, or service-hours exist in any source. All stop_times are SYNTHESIZED as a plausible schedule (first trips ~06:00, realistic segment run-times); a real feed would need many trips at the operator's actual headway across ~06:00-20:00. calendar is set to daily as a reasonable default (not sourced). Coordinates are geocoded from search; 'Dunge Adda' is the least certain (approximate, ~Jorpati/Boudha corridor) - it is a source-named endpoint, not invented, but its precise point is unverified. Maharajgunj Chakrapath and Gaushala coords are approximate points on the corridor.",
+  "source": "llm-normalized"
+}

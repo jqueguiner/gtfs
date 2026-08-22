@@ -1,0 +1,14 @@
+{
+  "operator": "Metro de Panama, S.A.",
+  "city": "Panama City",
+  "cc": "PA",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 32,
+    "routes": 3,
+    "trips": 54,
+    "stop_times": 184
+  },
+  "notes": "Panama Metro (Metro de Panamá). Two operational metro lines + airport branch, route_type=1 (metro/subway).\n\nSTOPS (31, all georeferenced from OSM — the datosabiertos.gob.pa portal returned HTTP 502 during this run, so coordinates were taken from OpenStreetMap railway=station/stop_position nodes, which are the same physical stations the open-data XLSX describes):\n- Line 1 (15 stations): Albrook → 5 de Mayo → Lotería → Santo Tomás → Iglesia del Carmen → Vía Argentina → Fernández de Córdoba → El Ingenio → 12 de Octubre → Pueblo Nuevo → San Miguelito → Pan de Azúcar → Los Andes → San Isidro → Villa Zaita (Villa Zaita extension opened 2024-04-25). Order + names confirmed via elmetrodepanama.com and Wikipedia.\n- Line 2 (16 stations): San Miguelito → Paraíso → Cincuentenario → Villa Lucre → El Crisol → Brisas del Golf → Cerro Viento → San Antonio → Pedregal-Las Acacias → Don Bosco → Corredor Sur → Las Mañanitas → Hospital del Este → Altos de Tocumen → 24 de Diciembre → Nuevo Tocumen. Order + names from elmetrodepanama.com/linea-2.\n- Airport branch (Ramal L2R): San Miguelito → ... → Corredor Sur → ITSE → Aeropuerto (Tocumen). Modeled as a separate route because ITSE/Aeropuerto branch off the main L2 alignment toward the airport. San Miguelito is a single physical interchange stop shared by L1 and L2 (deduped to one stop).\n\nSCHEDULE: Operating hours confirmed from official sources (elmetrodepanama.com, metrodepanama.org, La Estrella): Mon-Fri 05:00-23:00, Sat 05:00-22:00, Sun/holidays 07:00-22:00. Headway ~7 min (official 'trains every ~7 minutes'; no published peak/off-peak split or exact timetable — the operator runs frequency-based, not a fixed clock timetable). stop_times were synthesized on an even 7-min headway across each service window with a uniform ~2 min inter-station run time (Albrook↔Villa Zaita ~28 min matches the official ~26-28 min figure). For payload compactness, a representative subset of trips is included (first / midday / last departure per direction per service per route = 54 trips), rather than the full ~2,500-trip day; all are internally consistent and both directions are present for every route.\n\nCONFIDENCE 0.6: Stops, station order, line topology, operating days/hours and average headway are all evidenced and accurate. What is synthesized (hence not 1.0): exact per-trip clock times and per-station arrival offsets are modeled from headway + uniform run time, not a published timetable (the operator does not publish one — it is frequency-based); the airport-branch junction point (ITSE spur off Corredor Sur) is inferred from geometry; and coordinates come from OSM rather than the intended datosabiertos XLSX because the portal was down (502) at build time.",
+  "source": "llm-normalized"
+}

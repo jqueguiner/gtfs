@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SunuBRT (Dakar Mobilité)",
+    "country": "SN",
+    "subdivision": null,
+    "city": "Dakar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/SN/dakar/sunubrt-dakar-mobilite/gtfs/",
+    "mdb_id": "sn-llm-sunubrt-dakar-mobilite",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "SunuBRT (Dakar Mobilité)",
+  "city": "Dakar",
+  "cc": "SN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 23,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 60
+  },
+  "notes": "Corridor: single 18.3km trunk, Papa Gueye Fall (Petersen, Dakar Plateau) to Prefecture de Guediawaye. 23 stations. All-electric BRT (route_type 3 = bus). Two lines built: B1 Omnibus (all 23 stops, 7j/7 06:00-21:00, 6-min headway; 3-min on Petersen-Grand Medine trunk) and B2 Semi-Express (Mon-Sat, 7 key stops: Papa Gueye Fall, Place de la Nation, Grand Dakar, Sacre-Coeur, Grand Medine, Dalal Jam, Prefecture de Guediawaye). One representative trip per direction per line at first departure 06:00; stop_times use distance-proportional running times at ~19 km/h effective speed with 20s dwell (full B1 run ~65 min). SOURCES: CETUD traveller-guide PDF (confirmed operator model, 7j/7 06h-21h/22h, 6-min headway, 3 fare zones with ordered anchors: Zone1 Papa Gueye Fall->Liberte 6, Zone2 Khar Yalla->Croisement 22, Zone3 Parcelles->Prefecture; but PDF does NOT enumerate the 23 stops); en.wikipedia Sunu_BRT (18.3km, 23 stations, B1/B2, opened 2024-01-14, 6-min headway); Senego + RTS + fr.wikipedia (station inventory + partial trace order Guediawaye->Petersen). CONFIDENCE 0.62 CAVEATS: (1) full 23-stop ORDER reconstructed by reconciling a partial published trace, PDF fare-zone anchors, and Dakar neighborhood geography -- middle-segment order (Liberte 1/4/5/6, Scat Urbam, Khar Yalla, CHT) is best-effort, not from an official complete line map (sunubrt.sn official B1 page was unreachable). (2) Coordinates are approximate neighborhood centroids from local geographic knowledge -- OSM/Overpass was network-unreachable from this environment, so no per-station GPS was fetched; straight-line sum ~15km is consistent with the real 18.3km winding route. (3) stop_times are synthesized from even-headway + distance model, not a published minute-by-minute timetable (only frequency is published). No stops were invented -- all 23 names appear in the cited sources. B3/B4 lines excluded (B4 not yet open; B3 partial). A production feed should add frequencies.txt (headway_secs 360, or 180 on the shared trunk) rather than enumerating every trip.",
+  "source": "llm-normalized"
+}

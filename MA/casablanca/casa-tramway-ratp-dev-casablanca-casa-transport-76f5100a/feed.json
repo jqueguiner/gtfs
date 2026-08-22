@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Casa Tramway (RATP Dev Casablanca / Casa Transport)",
+    "country": "MA",
+    "subdivision": null,
+    "city": "Casablanca"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MA/casablanca/casa-tramway-ratp-dev-casablanca-casa-transport/gtfs/",
+    "mdb_id": "ma-llm-casa-tramway-ratp-dev-casablanca-casa-tr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

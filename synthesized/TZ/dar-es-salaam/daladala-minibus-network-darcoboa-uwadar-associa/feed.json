@@ -1,0 +1,14 @@
+{
+  "operator": "Daladala minibus network (DARCOBOA / UWADAR associations)",
+  "city": "Dar es Salaam",
+  "cc": "TZ",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 78,
+    "routes": 149,
+    "trips": 288,
+    "stop_times": 50
+  },
+  "notes": "Built from OpenStreetMap route=bus relations for Dar es Salaam (the ~243-route daladala network imported by Ramani Huria/World Bank), queried via Overpass (maps.mail.ru mirror; overpass-api.de and kumi were unreachable/500 from this sandbox). Route inventory = 149 numbered daladala routes with real OSM refs and from/to terminals; cross-checked against the OSM wiki Dar_es_Salaam/Transport table. Stops = 78 real named bus stops/terminals pulled from OSM (highway=bus_stop / public_transport=platform / amenity=bus_station, 502 named nodes fetched) and matched to route endpoints by normalized name; ~40 resolved directly to OSM nodes with exact coords, the rest to known Dar landmark coordinates (approximate, ward-centroid level). Confidence is moderate-low because: (1) OSM daladala relations are almost entirely route GEOMETRY (ways) with intermediate platform nodes largely unmapped (Phase II stop mapping incomplete per the wiki), so each representative trip carries only its two REAL terminal stops rather than the full ordered stop chain; (2) NO published timetable exists for daladala (they are informal, demand-departing minibuses) — service times are SYNTHETIC: a single representative trip per direction at 06:00->07:00 (assumed ~60 min end-to-end). Real operation is high-frequency (~every 5-15 min) roughly 05:00-22:00 daily; a production feed should model this with frequencies.txt. No fares modeled. Sources samweli.github.io and msilikale05/rafakingazi GitHub gave no usable ordered-stop or schedule data (msilikale repo 404; rafakingazi is a binary PostGIS dump). Endpoint coords marked approximate: Kinyantira, Kivule, Magole, Kwa Moshi, Bunju, Mbagala variants, Muhimbili, Mbezi Luis, Manzese, Mburahati, Kongowe, Kibada, Mtoni Mtongani, Sinza, Tandika, Yombo Vituka, Majumba Sita, Changanyikeni, Charambe, Mbande, Kichemchemu, Kiburugwa, Kilungule, Kwa Mnyani, Makongo Juu, Kunduchi, Ununio, Madale, Mbweni, Mtoni Kijichi, Tabata Barakuda, Stesheni. Key files on disk: /home/ubuntu/adresses/routes.json (325 raw OSM route relations), /home/ubuntu/adresses/allstops.json (502 OSM stop nodes), /home/ubuntu/adresses/gtfs_arrays.json (final GTFS arrays). agency_timezone Africa/Dar_es_Salaam. Data (c) OpenStreetMap contributors, ODbL.",
+  "source": "llm-normalized"
+}

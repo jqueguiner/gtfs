@@ -1,0 +1,14 @@
+{
+  "operator": "Mahanagar Yatayat Pvt. Ltd.",
+  "city": "Kathmandu",
+  "cc": "NP",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 20,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 42
+  },
+  "notes": "Two routes evidenced. (1) Ring Road (Chakrapath) circular: launched Mar 2016 with 39 Tata Starbus Ultra buses (later ~50), a full loop takes ~2 hours, buses \"only stop at designated places.\" No published clock timetable or headway exists, so times are synthesized from the stated 2-hour loop with ~11-min spacing; direction/order corroborated by OSM Ring Road junctions and Wikipedia (Balaju, Gongabu, Narayan Gopal Chowk, Chabahil, Gaushala, Tinkune, Koteshwor, Satdobato, Ekantakuna, Balkhu, Kalanki, Kalimati). I emit one clockwise and one anticlockwise representative trip. (2) Thankot-Dhulikhel: ~40 km, buses depart each terminal every 30 min (Himal Press). Ordered stops taken VERBATIM from Himal Press: outbound Godam->Thankot Checkpost->Kalanki->Balkhu->Koteshwor->Bhaktapur->Banepa->Dhulikhel; inbound Dhulikhel->Banepa->Bhaktapur->Koteshwor->Sinamangal->Gaushala->Maharajgunj->Swayambhu->Kalanki->Godam. Service hours were not published for either route; a 06:00-21:00 daily window is assumed and one representative trip per direction is emitted (30-min headway can be expanded for the corridor). Coordinates geocoded via OSM Nominatim (NP). Godam geocoded near the western/Satdobato area; Thankot Checkpost uses Thankot village coords. Gaadi Guide operator page (a listed source) returned HTTP 404 and could not corroborate. KathmandPost article confirmed fleet/loop-duration only; no stop list. Calendar assumed daily (no evidence of days off); no exceptions modeled. Confidence held at 0.45: stops and per-route ordering are evidenced (Thankot-Dhulikhel strongly, Ring Road via OSM/Wikipedia), but all clock times and headways-as-times are synthesized, not from a published Mahanagar timetable.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dirección de Ingeniería de Transporte (DIT) - urban/short-distance colectivo lines with origin/destino Asunción",
+    "country": "PY",
+    "subdivision": null,
+    "city": "Asunción"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PY/asuncion/direccion-de-ingenieria-de-transporte-dit-urban-/gtfs/",
+    "mdb_id": "py-llm-direccion-de-ingenieria-de-transporte-di",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}
