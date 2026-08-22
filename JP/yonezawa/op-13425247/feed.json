@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "米沢市~市民バス",
+    "country": "JP",
+    "subdivision": "Yamagata",
+    "city": "Yonezawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yonezawacity/feeds/Yonezawa/files/feed.zip",
+    "mdb_id": "f-米沢市~市民バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

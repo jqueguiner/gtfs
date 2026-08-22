@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greyhound",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Red Deer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.gis.flix.tech/gtfs_generic_us.zip",
+    "mdb_id": "f-9-flixbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

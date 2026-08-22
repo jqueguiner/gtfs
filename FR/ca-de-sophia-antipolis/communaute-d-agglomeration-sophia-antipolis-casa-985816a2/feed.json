@@ -2,14 +2,14 @@
   "agency": {
     "name": "Communauté d'Agglomération Sophia Antipolis (CASA)",
     "country": "FR",
-    "subdivision": "CA de Sophia Antipolis",
-    "city": null
+    "subdivision": null,
+    "city": "CA de Sophia Antipolis"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/344e5a88-e993-4952-a8bf-503048020116",
+    "url": "https://open-share.agglo-casa.fr/s/34FS2SWg36NEZk4/download",
     "mdb_id": "tdg-79342",
-    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+    "license": "odc-odbl"
   },
   "bbox": null,
   "source": "mobility-database",

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "玉村町乗合タクシー~たまりん~2",
+    "country": "JP",
+    "subdivision": "Gunma",
+    "city": "Tamamura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/NagaiTransportation/Tamarin.zip?date=latest",
+    "mdb_id": "f-玉村町乗合タクシー~たまりん~2",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

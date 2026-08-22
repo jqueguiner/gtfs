@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "豊山町~とよやまタウンバス",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Komaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/toyoyamatown/feeds/communitybus/files/feed.zip",
+    "mdb_id": "f-豊山町~とよやまタウンバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

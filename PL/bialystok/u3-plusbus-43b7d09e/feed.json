@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "U3~Plusbus",
+    "country": "PL",
+    "subdivision": "Podlasie",
+    "city": "Bialystok"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://files.girlc.at/gtfs/plusbus.zip",
+    "mdb_id": "f-u3~plusbus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

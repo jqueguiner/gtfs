@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bamako~Sotrama",
+    "country": "ML",
+    "subdivision": "Bamako",
+    "city": "Bamako"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/digitaltransport/data/africa/bamako/-/raw/main/gtfs_Public_Transport_Bamako_Sotrama_01_01_2020_06_42_48.zip",
+    "mdb_id": "f-bamako~sotrama",
+    "license": "https://gitlab.com/digitaltransport/data/africa/bamako"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

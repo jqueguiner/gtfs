@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OSYPA — Pafos public transport",
+    "country": "CY",
+    "subdivision": null,
+    "city": "Paphos (Pafos)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C2_google_transit.zip&rel=True",
+    "mdb_id": "cy-w2r-4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-wave2r",
+  "status": "active"
+}

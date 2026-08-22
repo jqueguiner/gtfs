@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Otsukitown~Gtfs~Otsukitown~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Sukumo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otsukitown/feeds/GTFS-Otsukitown_Bus/files/feed.zip?uid=bd869b36-36f4-4615-9971-6acc8ac04043",
+    "mdb_id": "f-otsukitown~gtfs~otsukitown~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

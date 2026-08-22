@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Yanaizutown~Yanaizutown~Bus",
+    "country": "JP",
+    "subdivision": "Fukushima",
+    "city": "Kitakata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/yanaizutown/feeds/yanaizutown-bus/files/feed.zip?uid=e5c683d2-7a0e-47d6-8bb6-3018cfe15c3f",
+    "mdb_id": "f-yanaizutown~yanaizutown~bus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

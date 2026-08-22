@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hoboken~Nj",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Hoboken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/hoboken/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-hoboken~nj",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

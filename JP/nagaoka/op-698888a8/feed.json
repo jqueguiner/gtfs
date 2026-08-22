@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "越後交通長岡地区",
+    "country": "JP",
+    "subdivision": "Niigata",
+    "city": "Nagaoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-vision.jp/gtfs_v2/nagaoka/gtfsFeed",
+    "mdb_id": "f-越後交通長岡地区",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

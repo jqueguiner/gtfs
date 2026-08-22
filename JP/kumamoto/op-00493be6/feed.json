@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本電鉄バス",
+    "country": "JP",
+    "subdivision": "Kumamoto",
+    "city": "Kumamoto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/gtfs/dentetsu/gtfsFeed",
+    "mdb_id": "f-熊本電鉄バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trufi Association (community OSM-derived GTFS for the informal trufi/micro network)",
+    "country": "BO",
+    "subdivision": null,
+    "city": "Cochabamba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/trufi-association/trufi-app/main/assets/routing/cochabamba.gtfs.zip",
+    "mdb_id": "bo-w3-6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-wave3",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kokacity~Sinaicommunitybus",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Minakuchicho-matoba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kokacity/feeds/sinaicommunitybus/files/feed.zip?uid=1486b529-58db-4e46-a56d-5a44543b361b",
+    "mdb_id": "f-kokacity~sinaicommunitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

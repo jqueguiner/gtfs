@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nagano~Kawakamivillage~Kawakamibus",
+    "country": "JP",
+    "subdivision": "Yamanashi",
+    "city": "Enzan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nagano-kawakamivillage/feeds/kawakamibus/files/feed.zip?uid=bd9b0326-164f-4397-b9f7-7095881aa272",
+    "mdb_id": "f-nagano~kawakamivillage~kawakamibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

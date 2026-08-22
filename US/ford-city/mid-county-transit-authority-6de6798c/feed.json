@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mid~County~Transit~Authority",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Ford City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tact.rideralerts.com/infopoint/gtfs-zip.ashx",
+    "mdb_id": "f-mid~county~transit~authority",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

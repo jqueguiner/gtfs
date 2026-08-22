@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lax~Flyaway",
+    "country": "US",
+    "subdivision": "California",
+    "city": "El Segundo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://laxtransportation.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-lax~flyaway",
+    "license": "https://www.flylax.com/flyaway-bus/faqs"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

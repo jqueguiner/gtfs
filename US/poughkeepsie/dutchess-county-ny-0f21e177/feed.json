@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dutchess~County~Ny",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Poughkeepsie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/dutchesscounty.etaspot.net/gtfs.zip",
+    "mdb_id": "f-dutchess~county~ny",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

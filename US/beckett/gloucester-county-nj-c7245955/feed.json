@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gloucester~County~Nj",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Beckett"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.njtransit.com/Gloucester_Co_bus_data.zip",
+    "mdb_id": "f-gloucester~county~nj",
+    "license": "https://www.njtransit.com/developer-tools"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

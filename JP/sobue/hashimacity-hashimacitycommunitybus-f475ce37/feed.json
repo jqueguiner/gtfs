@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hashimacity~Hashimacitycommunitybus",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Sobue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hashimacity/feeds/HashimaCityCommunityBus/files/feed.zip?uid=5c2e8dd7-c078-45ac-ab7d-bf9c69c8b16e",
+    "mdb_id": "f-hashimacity~hashimacitycommunitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

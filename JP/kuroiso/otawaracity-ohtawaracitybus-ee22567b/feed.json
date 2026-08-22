@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Otawaracity~Ohtawaracitybus",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": "Kuroiso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/otawaracity/feeds/Ohtawaracitybus/files/feed.zip?uid=51468eea-da39-4dd3-912d-f88c3afc9eac",
+    "mdb_id": "f-otawaracity~ohtawaracitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

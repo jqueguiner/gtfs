@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chiryucity~Communitybus",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Chiryu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chiryucity/feeds/communitybus/files/feed.zip?uid=3d4daf1b-11c1-486c-9a41-95fd42270d9f",
+    "mdb_id": "f-chiryucity~communitybus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

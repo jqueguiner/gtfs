@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Murotocity~Gtfs~Murotocity~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Muroto-misakicho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/murotocity/feeds/GTFS-Murotocity_Bus/files/feed.zip?uid=a564fa07-72d5-4296-9d21-f64ef44bd15b",
+    "mdb_id": "f-murotocity~gtfs~murotocity~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

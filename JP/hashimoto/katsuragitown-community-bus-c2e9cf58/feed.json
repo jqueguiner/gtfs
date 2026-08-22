@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Katsuragitown~Community~Bus",
+    "country": "JP",
+    "subdivision": "Wakayama",
+    "city": "Hashimoto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/katsuragitown/feeds/community-bus/files/feed.zip?uid=b1d93569-c933-4cdf-85e3-7f81f7f13594",
+    "mdb_id": "f-katsuragitown~community~bus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

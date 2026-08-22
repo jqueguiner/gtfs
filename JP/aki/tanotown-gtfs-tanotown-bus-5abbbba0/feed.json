@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tanotown~Gtfs~Tanotown~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Aki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tanotown/feeds/GTFS-Tanotown_Bus/files/feed.zip?uid=019090c3-2e93-4b66-a171-e372b0289edb",
+    "mdb_id": "f-tanotown~gtfs~tanotown~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Inotown~Gtfs~Inotown~Hongawaarea",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Ino"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inotown/feeds/GTFS-Inotown_HongawaArea/files/feed.zip?uid=f10a5e01-4651-49d2-9583-1f18b1781c37",
+    "mdb_id": "f-inotown~gtfs~inotown~hongawaarea",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

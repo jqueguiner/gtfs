@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nrtawave",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Nantucket"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nrtawave.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-nrtawave",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

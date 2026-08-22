@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Oaxaca~Movilidad",
+    "country": "MX",
+    "subdivision": "Oaxaca",
+    "city": "San Isidro Monjas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/isayrofe/movilidad/raw/main/dataset/semovi-oaxaca-mx.zip",
+    "mdb_id": "f-oaxaca~movilidad",
+    "license": "https://www.oaxaca.gob.mx/semovi/informacion/?id=18"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

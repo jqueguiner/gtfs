@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Matatu / minibus network (Digital Matatus, aggregated informal paratransit)",
+    "country": "KE",
+    "subdivision": null,
+    "city": "Nairobi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/university-of-nairobi/535/20160505/gtfs.zip",
+    "mdb_id": "ke-disc-61",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

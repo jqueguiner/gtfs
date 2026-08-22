@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "淡路市~あわ神あわ姫バス",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Akashi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/awajicity/feeds/awajinawahimebus/files/feed.zip",
+    "mdb_id": "f-淡路市~あわ神あわ姫バス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "生活バスよっかいち",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Yokkaichi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/seikatsubus-yokkaichi/feeds/sbusyokkaichi/files/feed.zip",
+    "mdb_id": "f-生活バスよっかいち",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鹿児島市コミュニティバスあいばす",
+    "country": "JP",
+    "subdivision": "Kagoshima",
+    "city": "Ijuin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kagoshimacity/feeds/aibus/files/feed.zip",
+    "mdb_id": "f-鹿児島市コミュニティバスあいばす",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

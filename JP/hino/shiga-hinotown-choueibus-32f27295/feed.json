@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shiga~Hinotown~Choueibus",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Hino"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shiga-hinotown/feeds/choueibus/files/feed.zip?uid=bcd3008b-0e16-4bf5-987e-1c374959bcc6",
+    "mdb_id": "f-shiga~hinotown~choueibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

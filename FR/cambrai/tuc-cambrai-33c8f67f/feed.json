@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tuc~Cambrai",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Cambrai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.data.gouv.fr/fr/datasets/r/d00d1684-6980-4f84-ac38-363b6f058a68",
+    "mdb_id": "f-tuc~cambrai",
+    "license": "https://transport.data.gouv.fr/datasets/donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

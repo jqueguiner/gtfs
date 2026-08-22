@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tosashimizucity~Gtfs~Tosashimizucity~Bus",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Nakamura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/tosashimizucity/feeds/GTFS-Tosashimizucity_Bus/files/feed.zip?uid=f9f3f7d3-5c7b-4cb2-8919-dc56ec6209da",
+    "mdb_id": "f-tosashimizucity~gtfs~tosashimizucity~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

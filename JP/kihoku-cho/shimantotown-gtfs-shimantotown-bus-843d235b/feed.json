@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shimantotown~Gtfs~Shimantotown~Bus",
+    "country": "JP",
+    "subdivision": "Ehime",
+    "city": "Kihoku-cho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shimantotown/feeds/GTFS-Shimantotown_Bus/files/feed.zip?uid=5a0319fd-4c48-4a38-b759-dfadbf3d6d62",
+    "mdb_id": "f-shimantotown~gtfs~shimantotown~bus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

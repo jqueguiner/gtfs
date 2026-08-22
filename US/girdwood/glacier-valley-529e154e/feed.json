@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Glacier~Valley",
+    "country": "US",
+    "subdivision": "Alaska",
+    "city": "Girdwood"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://glaciervalley.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx",
+    "mdb_id": "f-glacier~valley",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

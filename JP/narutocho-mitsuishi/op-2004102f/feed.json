@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鳴門市営渡船",
+    "country": "JP",
+    "subdivision": "Tokushima",
+    "city": "Narutocho-mitsuishi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/narutocity/feeds/narutocitytosen/files/feed.zip",
+    "mdb_id": "f-鳴門市営渡船",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

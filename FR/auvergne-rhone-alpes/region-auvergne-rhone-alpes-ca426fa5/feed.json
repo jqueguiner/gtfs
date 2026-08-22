@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Région Auvergne-Rhône-Alpes",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CARS_REGION_EXPRESS&dataFormat=GTFS&dataProfil=OPENDATA",
+    "mdb_id": "tdg-83112",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

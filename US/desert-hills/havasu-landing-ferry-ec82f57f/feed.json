@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Havasu~Landing~Ferry",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Desert Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.dds.dot.ca.gov/gtfs_files/HavasuLandingFerryGTFS.zip",
+    "mdb_id": "f-havasu~landing~ferry",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

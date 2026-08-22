@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC Transit (Kelowna Regional)",
+    "country": "CA",
+    "subdivision": null,
+    "city": "Kelowna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.bctransit.com/data/gtfs/kelowna.zip",
+    "mdb_id": "ca-disc-45",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-notes",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Isecity~Numakibus",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Ise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/isecity/feeds/numakibus/files/feed.zip?uid=d2e98c7b-5d46-4a44-9649-2d2620c34cd0",
+    "mdb_id": "f-isecity~numakibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

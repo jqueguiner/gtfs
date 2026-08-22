@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "鹿沼市~リーバス",
+    "country": "JP",
+    "subdivision": "Tochigi",
+    "city": "Kanuma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kanumacity/feeds/ri-bus/files/feed.zip",
+    "mdb_id": "f-鹿沼市~リーバス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

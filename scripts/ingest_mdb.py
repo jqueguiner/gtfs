@@ -56,10 +56,24 @@ def main():
         off += 100
         if len(batch) < 100:
             break
+    # MERGE into the existing catalog (never overwrite — other sources live here too)
     os.makedirs(os.path.join(ROOT, "data"), exist_ok=True)
-    json.dump(out, open(os.path.join(ROOT, "data", "feeds_full.json"), "w"), ensure_ascii=False)
-    active = [f for f in out if f["status"] not in ("deprecated", "inactive") and (f["producer_url"] or f["hosted_url"])]
-    print(f"pulled {len(out)} feeds, {len(active)} active w/ url -> data/feeds_full.json")
+    path = os.path.join(ROOT, "data", "feeds_full.json")
+    existing = json.load(open(path)) if os.path.exists(path) else []
+    have = {(f.get("producer_url") or "").rstrip("/") for f in existing}
+    have_ids = {f.get("id") for f in existing}
+    added = 0
+    for f in out:
+        u = (f.get("producer_url") or f.get("hosted_url") or "").rstrip("/")
+        if not u or u in have:
+            continue
+        have.add(u)
+        if f["id"] in have_ids:
+            f["id"] = f["id"] + "-mdb"
+        existing.append(f)
+        added += 1
+    json.dump(existing, open(path, "w"), ensure_ascii=False)
+    print(f"MDB: pulled {len(out)}, +{added} new -> {len(existing)} total in data/feeds_full.json")
 
 
 if __name__ == "__main__":

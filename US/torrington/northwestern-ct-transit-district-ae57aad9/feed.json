@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northwestern~Ct~Transit~District",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Torrington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hosted-gtfs-feeds.s3.amazonaws.com/NWCTD/gtfs.zip",
+    "mdb_id": "f-northwestern~ct~transit~district",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

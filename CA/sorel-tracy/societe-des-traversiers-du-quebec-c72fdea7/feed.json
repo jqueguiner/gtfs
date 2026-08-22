@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société des Traversiers du Québec",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sorel-Tracy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.traversiers.com/api/gtfs.zip",
+    "mdb_id": "f-societe~des~traversiers~du~quebec",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

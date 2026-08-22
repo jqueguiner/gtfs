@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Omihachimancity~Akakonbus",
+    "country": "JP",
+    "subdivision": "Shiga Prefecture",
+    "city": "Omihachiman"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/omihachimancity/feeds/akakonbus/files/feed.zip?uid=004d64d6-b08f-4d8e-891b-15b740e2d6c9",
+    "mdb_id": "f-omihachimancity~akakonbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

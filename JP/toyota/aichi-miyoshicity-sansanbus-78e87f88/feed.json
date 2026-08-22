@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aichi~Miyoshicity~Sansanbus",
+    "country": "JP",
+    "subdivision": "Aichi",
+    "city": "Toyota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/aichi-miyoshicity/feeds/sansanbus/files/feed.zip?uid=372c6c70-253e-4a5d-ab2c-272b520826bc",
+    "mdb_id": "f-aichi~miyoshicity~sansanbus",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

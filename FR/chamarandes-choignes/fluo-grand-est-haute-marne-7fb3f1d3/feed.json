@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fluo~Grand~Est~Haute~Marne",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Chamarandes-Choignes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.datagrandest.fr/metadata/fluo-grand-est/FR-200052264-T0055-0000/fluo-grand-est-fluo52-gtfs.zip",
+    "mdb_id": "f-fluo~grand~est~haute~marne",
+    "license": "https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-fluo-grand-est-52-region-grand-est-dga-mobilites"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

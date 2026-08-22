@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ucla~Bruinbus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Westwood, Los Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://uclabruinbus.tripshot.com/v1/gtfs.zip?regionId=CA558DDC-D7F2-4B48-9CAC-DEEA1134F820",
+    "mdb_id": "f-ucla~bruinbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

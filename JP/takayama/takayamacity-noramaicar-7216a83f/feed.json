@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Takayamacity~Noramaicar",
+    "country": "JP",
+    "subdivision": "Gifu",
+    "city": "Takayama"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/takayamacity/feeds/noramaicar/files/feed.zip?uid=57dfed96-bc3c-4c42-9095-24a11974369b",
+    "mdb_id": "f-takayamacity~noramaicar",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

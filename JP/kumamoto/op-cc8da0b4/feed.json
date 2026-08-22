@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "熊本都市バス",
+    "country": "JP",
+    "subdivision": "Kumamoto",
+    "city": "Kumamoto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/gtfs/toshibus/gtfsFeed",
+    "mdb_id": "f-熊本都市バス",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

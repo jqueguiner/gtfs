@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Mérignac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=bordeaux-navettes-aeroport",
+    "mdb_id": "tdg-10230",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

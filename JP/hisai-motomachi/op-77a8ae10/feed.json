@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三重交通",
+    "country": "JP",
+    "subdivision": "Mie",
+    "city": "Hisai-motomachi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/mie-kotsu/feeds/sancomatsusaka/files/feed.zip?uid=e81bf486-4986-4c9b-a168-0deb46bd2153",
+    "mdb_id": "f-mie~kotsu~sancomatsusaka",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

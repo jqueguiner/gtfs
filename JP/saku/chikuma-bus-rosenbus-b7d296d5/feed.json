@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chikuma~Bus~Rosenbus",
+    "country": "JP",
+    "subdivision": "Nagano",
+    "city": "Saku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/chikuma-bus/feeds/rosenbus/files/feed.zip?uid=3dd5f85b-eec0-4d90-80df-dbffc7df08c6",
+    "mdb_id": "f-chikuma~bus~rosenbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

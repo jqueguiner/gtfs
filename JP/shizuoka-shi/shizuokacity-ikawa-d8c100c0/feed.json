@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shizuokacity~Ikawa",
+    "country": "JP",
+    "subdivision": "Shizuoka",
+    "city": "Shizuoka-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shizuokacity/feeds/ikawa/files/feed.zip?uid=2266c544-3a68-4fdd-a3d1-c0ea7e73ba99",
+    "mdb_id": "f-shizuokacity~ikawa",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "猪名川町~ふれあいバス",
+    "country": "JP",
+    "subdivision": "Hyogo",
+    "city": "Sandacho"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/inagawatown/feeds/fureaibus/files/feed.zip",
+    "mdb_id": "f-猪名川町~ふれあいバス",
+    "license": "CC-BY-SA-2.1-JP"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

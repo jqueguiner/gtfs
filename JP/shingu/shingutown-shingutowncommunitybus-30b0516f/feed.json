@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Shingutown~Shingutowncommunitybus",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Shingu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/shingutown/feeds/ShinguTownCommunityBus/files/feed.zip?uid=86b416bd-9f71-45b3-99b2-d90f95c9890f",
+    "mdb_id": "f-shingutown~shingutowncommunitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

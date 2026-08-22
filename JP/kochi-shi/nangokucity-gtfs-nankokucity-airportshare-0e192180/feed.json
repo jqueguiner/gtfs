@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nangokucity~Gtfs~Nankokucity~Airportshare",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Kochi-shi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nangokucity/feeds/GTFS-Nankokucity_AirportShare/files/feed.zip?uid=fb21978e-d8aa-4f29-9d88-6836f985aa5c",
+    "mdb_id": "f-nangokucity~gtfs~nankokucity~airportshare",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mobilithek / DELFI (National Access Point) + gtfs.de",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-national-bulk",
+    "license": null
+  },
+  "bbox": null,
+  "source": "nap-bulk",
+  "status": "active"
+}

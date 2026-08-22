@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fukuoka~Kawasakitown~Kawasakitownfureaibus",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Kawasaki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/fukuoka-kawasakitown/feeds/KawasakiTownFureaiBus/files/feed.zip?uid=d6984b0a-4f3c-4723-a3cb-a889845a7bda",
+    "mdb_id": "f-fukuoka~kawasakitown~kawasakitownfureaibus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

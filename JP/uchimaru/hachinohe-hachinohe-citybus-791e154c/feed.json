@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hachinohe~Hachinohe~Citybus",
+    "country": "JP",
+    "subdivision": "Aomori",
+    "city": "Uchimaru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hachinohe/feeds/hachinohe-citybus/files/feed.zip?uid=af1488df-5a99-42f6-bffe-fb63cd86b0e6",
+    "mdb_id": "f-hachinohe~hachinohe~citybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

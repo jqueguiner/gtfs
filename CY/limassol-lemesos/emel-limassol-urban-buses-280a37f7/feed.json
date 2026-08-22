@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMEL — Limassol urban buses",
+    "country": "CY",
+    "subdivision": null,
+    "city": "Limassol (Lemesos)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C6_google_transit.zip&rel=True",
+    "mdb_id": "cy-w2r-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "discovery-wave2r",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aridagawatown~Aridagawatownbus",
+    "country": "JP",
+    "subdivision": "Wakayama",
+    "city": "Kainan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/aridagawatown/feeds/aridagawatownbus/files/feed.zip?uid=c977e588-a695-4ff5-aea6-723d84d8cc85",
+    "mdb_id": "f-aridagawatown~aridagawatownbus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

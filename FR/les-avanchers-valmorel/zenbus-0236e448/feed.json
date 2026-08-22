@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zenbus",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Les Avanchers-Valmorel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=valmorel",
+    "mdb_id": "tdg-12616",
+    "license": "odc-odbl"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
