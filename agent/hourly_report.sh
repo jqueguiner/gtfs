@@ -25,8 +25,14 @@ for s in scripts/scrape_*.py; do
 done
 timeout 600 python3 scripts/resolve_unplaced.py 300 || true
 
+# autonomous per-country growth: re-split national NAP feeds (deterministic, no LLM)
+timeout 400 python3 scripts/split_national.py || true
+
 # rebuild tree + coverage table
 python3 scripts/build_repo.py || true
+
+# autonomous gap report: worst per-country deficits (drives next synth targets)
+python3 scripts/coverage_gaps.py 15 > /tmp/gtfs_gaps.json 2>/dev/null || true
 
 # compute the delta (writes /tmp/gtfs_delta.html, updates snapshot)
 SUBJECT=$(python3 scripts/report_delta.py)
