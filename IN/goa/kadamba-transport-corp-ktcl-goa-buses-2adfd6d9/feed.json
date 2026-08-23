@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kadamba Transport Corp (KTCL) + Goa buses",
+    "country": "IN",
+    "subdivision": "Goa",
+    "city": "Goa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://goatransport.gov.in/download_Forms/gtfs.zip",
+    "mdb_id": "in-goa-ktcl",
+    "license": "GoI-OGDL"
+  },
+  "bbox": null,
+  "source": "in-gov",
+  "status": "active"
+}
