@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bangladesh Railway",
+    "country": "BD",
+    "subdivision": null,
+    "city": "Dhaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/bangladesh-railway/gtfs/",
+    "mdb_id": "bd-llm-bangladesh-railway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

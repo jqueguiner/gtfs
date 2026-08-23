@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Phnom Penh City Bus",
+    "country": "KH",
+    "subdivision": null,
+    "city": "Phnom Penh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KH/phnom-penh/phnom-penh-city-bus/gtfs/",
+    "mdb_id": "kh-llm-phnom-penh-city-bus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

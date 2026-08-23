@@ -1,0 +1,14 @@
+{
+  "operator": "LRT Jabodebek (PT KAI)",
+  "city": "Jakarta",
+  "cc": "ID",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 18,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 104
+  },
+  "notes": "Y-shaped LRT network sharing the Dukuh Atas BNI - Cawang trunk (stops 1-8: DKA, SET, RAS, KUA, PAN, CKK, CIL, CWG), then branching: Cibubur/CB line continues to TMII, Kampung Rambutan, Ciracas, Harjamukti (12 stops, ~37 min end-to-end); Bekasi/BK line continues to Halim, Jati Bening Baru, Cikunir 1, Cikunir 2, Bekasi Barat, Jati Mulya (14 stops, ~40 min). 18 unique stations total. route_type=1 (metro/light-rail rapid transit; driverless standard-gauge 750V DC third rail). SOURCES: station list/codes and ordered stops per line from en.wikipedia.org/wiki/Cibubur_Line and /Bekasi_Line (official KAI daftar-stasiun page refused connection at fetch time, ECONNREFUSED). Service span, headway and end-to-end travel times from Moovit + web search: daily service, observed first train ~05:22 and last ~21:04; peak headway ~6 min on the branches and ~3 min on the shared trunk (10 min peak / 20 min off-peak system-wide). Coordinates from per-station Wikipedia pages (verbatim decimal degrees, S/E -> negative lat, positive lon). CONSTRUCTED: only 2 representative trips per direction per line (an early ~05:22/05:30 departure + a midday 12:00 departure) rather than the full even-headway timetable, to keep the feed compact - real service runs every 3-20 min across 05:22-21:04. Per-station dwell folded into arrival=departure. Rasuna Said (RAS) coordinates were not published on Wikipedia; lat/lon interpolated along Jl. H.R. Rasuna Said between Setiabudi and Kuningan (both evidenced neighbors) - flagged as approximate. Halim (HLM) coords from Wikidata (co-located with Whoosh HSR station). No stops invented; all 18 are evidenced. Confidence 0.62: stop topology/order/coords are solid, but trip clock times are modeled (proportional segment times from published end-to-end durations + observed first/last), not scraped from an official per-station timetable (KAI page was unreachable).",
+  "source": "llm-normalized"
+}

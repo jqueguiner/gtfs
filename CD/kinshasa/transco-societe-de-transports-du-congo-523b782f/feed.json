@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transco (Societe de Transports du Congo)",
+    "country": "CD",
+    "subdivision": null,
+    "city": "Kinshasa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CD/kinshasa/transco-societe-de-transports-du-congo/gtfs/",
+    "mdb_id": "cd-llm-transco-societe-de-transports-du-congo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TMT (Thane Municipal Transport)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Thane (Mumbai Metropolitan Region)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/thane-mumbai-metropolitan-region/tmt-thane-municipal-transport/gtfs/",
+    "mdb_id": "in-llm-tmt-thane-municipal-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

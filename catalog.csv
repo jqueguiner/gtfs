@@ -5,6 +5,7 @@ AL,Rrethinat,ShowMeBus,https://showmebus.com/google-transit/gtfs.zip,mdb-3483,,a
 AL,Tiranë,Municipality of Tirana,https://pt.tirana.al/gtfs/gtfs.zip,mdb-2345,,active
 AL,Vlorë,Urban Trans Vlora,https://github.com/denisdemaj233/gtfs-vlora/releases/download/v1/gtfs-vlore.zip,mdb-3182,,active
 AM,Gyumri,Georgian Railway,https://jbb.ghsq.de/gtfs/ge-georgian-railway.gtfs.zip,mdb-3108,,active
+AO,Luanda,CFL - Caminhos de Ferro de Luanda (suburban rail),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/AO/luanda/cfl-caminhos-de-ferro-de-luanda-suburban-rail/gtfs/,ao-llm-cfl-caminhos-de-ferro-de-luanda-suburban,,active
 AR,Cordoba,Transporte urbano de Cordoba (city buses),https://hub.tumidata.org/dataset/gtfs-cordoba,ar-disc-48,,active
 AR,Pontevedra,Buenosaires~Trenes,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/trenes-gtfs/trenes-gtfs.zip,f-buenosaires~trenes,CC-BY-2.5,active
 AR,Rio Segundo,Marchiquitasrl,http://marchiquita.tk/mar.zip,f-6d6-marchiquitasrl,,active
@@ -83,6 +84,9 @@ AU,Whitsunday Regional,Whitsunday Transit,https://gtfsrt.api.translink.com.au/GT
 AU,national,Alice~Springs~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice-springs.zip,f-alice~springs~nt~au,CC-BY-4.0,active
 AU,national,Darwin~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
 BA,City of Mostar,Turistička agencija Li-Bus d.o.o. (Livnobus),https://livnobus.com/gtfs/google-transit,mdb-3427,,active
+BD,Dhaka,Bangladesh Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/bangladesh-railway/gtfs/,bd-llm-bangladesh-railway,,active
+BD,Dhaka,Dhaka Mass Transit Company Limited (DMTCL) — Metro Rail MRT Line 6,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-mass-transit-company-limited-dmtcl-metro-r/gtfs/,bd-llm-dhaka-mass-transit-company-limited-dmtcl,,active
+BD,Dhaka,Dhaka Nagar Paribahan (DTCA / Bus Route Rationalisation — Green cluster routes 21-28),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-nagar-paribahan-dtca-bus-route-rationalisa/gtfs/,bd-llm-dhaka-nagar-paribahan-dtca-bus-route-rat,,active
 BE,Antwerp,De Lijn,http://gtfs.irail.be/de-lijn/de_lijn-gtfs.zip,mdb-684,,active
 BE,Antwerp,DeWaterbus,http://addtransit.com/gtfsfile/85165/DeWaterbus.zip,be-dewaterbus,,active
 BE,Brussels,STIB-MIVB,https://opendata-api.stib-mivb.be/Files/1.0/Gtfs,be-stib-mivb,,active
@@ -285,6 +289,7 @@ CA,national,Kbus~Ns~Ca,https://kbus.transloc.com/Secure/Admin/Reports/GTFSDownlo
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
 CD,Kinshasa,Kinshasa~Dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/raw/main/GTFS%20Datasets/Kinshasa_GTFS.zip,f-kinshasa~dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/blob/main/README.md,active
+CD,Kinshasa,Transco (Societe de Transports du Congo),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CD/kinshasa/transco-societe-de-transports-du-congo/gtfs/,cd-llm-transco-societe-de-transports-du-congo,,active
 CH,Mendrisio,European Sleeper,https://jbb.ghsq.de/gtfs/eu-es.gtfs.zip,mdb-3107,,active
 CH,Neuchâtel,Systemaufgaben Kundeninformation SKI+,https://data.opentransportdata.swiss/de/dataset/gtfsflex/permalink,mdb-2053,,active
 CH,national,Shuttler~Ch,https://shuttler.ticpoi.com/public/routes/gtfs,f-shuttler~ch,,active
@@ -297,6 +302,7 @@ CL,Santiago Metropolitan Region,"Red Metropolitana de Movilida, EFE Trenes de Ch
 CL,Temuco,"Sociedad de Transportes Linea N°5 S.A., Sociedad de Transporte A. Alemania - P. Nuevo S.A - Línea Nº1, Transportes Línea Número Dos Limitada, Transp. P.De Valdivia-P.Las Casas Ltda. Nº3, Transportes Sta. Rosa Limitada., Taxibuses Numero Seis S.A., Empresa Tobalaba, Mall, Cajón S. A. Línea Nº7, Empresa de Transportes Línea Nº 8 P.L. Casas S.A., E. de Transportes de Pasajeros Línea Nueve S.A, Empresa de Transportes Altamira S.A, Fesub",http://datos.gob.cl/dataset/cef4c471-2837-412b-a78e-1d4c6a261bf9/resource/7887a7e7-9af6-4fc8-b19f-8ff4ea474d1c/download/temuco24nov16.zip,mdb-1864,,active
 CL,"Villa Presidente Frei, Nunoa, Santiago, Chile",Transantiago~Metrodesantiago,https://www.dtpm.cl/descargas/gtfs/GTFS_20260418.zip,f-66jc-transantiago~metrodesantiago,https://www.dtpm.cl/index.php/noticias/gtfs-vigente,active
 CM,Dibombari,Socatur~Taxisco,https://gitlab.com/digitaltransport/data/africa/douala/-/raw/master/GTFS-SYSTRA/GTFS-SYSTRA.zip,f-s0wz-socatur~taxisco,ODbL-1.0,active
+CM,Douala,Camrail,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CM/douala/camrail/gtfs/,cm-llm-camrail,,active
 CN,Futian District,Hong Kong Government Transport Department,https://static.data.gov.hk/td/pt-headway-en/gtfs.zip,mdb-1924,https://data.gov.hk/en/terms-and-conditions,active
 CN,Nanshan District,Just Use Wheels,http://feed.justusewheels.com/hk.gtfs.zip,mdb-2933,https://opendatacommons.org/licenses/odbl/1.0/,active
 CO,Bogota,Secretaria Distrital de Movilidad de Bogota,https://www.arcgis.com/sharing/rest/content/items/6def68cda70c43ab8d93d74f43c5915a/data,co-secretaria-distrital-de-movilidad-de-bogota,CC-BY-SA-4.0,active
@@ -834,9 +840,15 @@ DE,national,ÖBB,https://download.gtfs.de/germany/free/latest.zip,de-ag-669e4841
 DE,national,Öchsle-Bahn-Betriebsgesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-b74313aed9,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,ÜWAG direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-2351a3aa87,CC-BY-4.0 (gtfs.de / DELFI),active
 DK,Region of Southern Denmark,OVapi,http://gtfs.ovapi.nl/gtfs-nl.zip,mdb-1077,,active
+DO,Santo Domingo,OMSA - Operadora Metropolitana de Servicios de Autobuses,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/omsa-operadora-metropolitana-de-servicios-de-aut/gtfs/,do-llm-omsa-operadora-metropolitana-de-servicio,,active
+DO,Santo Domingo,OPRET - Metro de Santo Domingo (Line 1 & Line 2),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/opret-metro-de-santo-domingo-line-1-line-2/gtfs/,do-llm-opret-metro-de-santo-domingo-line-1-line,,active
+DO,Santo Domingo,OPRET - Teleférico de Santo Domingo,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/opret-teleferico-de-santo-domingo/gtfs/,do-llm-opret-teleferico-de-santo-domingo,,active
 DZ,Aïn Fekan District,Cleveland Urban Area Transit System,https://passio3.com/cuats/passioTransit/gtfs/google_transit.zip,tld-7827,,active
 DZ,Bejaia District,CORSICA LINEA,https://www.data.gouv.fr/api/1/datasets/r/13977931-86ae-4b7a-9598-d222333a5fbd,tdg-83510,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 DZ,Tinduf Disctrict,Fluo Grand Est,https://transport.data.gouv.fr/resources/80417/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,tdg-80417,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
+EC,Quito,Ecovía (Corredor Sur Oriental) — EPMTPQ / Metrobus-Q,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/EC/quito/ecovia-corredor-sur-oriental-epmtpq-metrobus-q/gtfs/,ec-llm-ecovia-corredor-sur-oriental-epmtpq-metr,,active
+EC,Quito,Metro de Quito (Línea 1) — Empresa Pública Metropolitana Metro de Quito,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/EC/quito/metro-de-quito-linea-1-empresa-publica-metropoli/gtfs/,ec-llm-metro-de-quito-linea-1-empresa-publica-m,,active
+EC,Quito,"Trolebús (Corredor Central Trolebús, C1/C2/C4/C6) — EPMTPQ / MetrobusQ",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/EC/quito/trolebus-corredor-central-trolebus-c1-c2-c4-c6-e/gtfs/,ec-llm-trolebus-corredor-central-trolebus-c1-c2,,active
 EE,Alutaguse vald,"GoBus AS, NAJA OÜ, OSAÜHING FREMANTI, OV Ida-Bus OÜ",https://eu-gtfs.remix.com/kohtla_jarve.zip,mdb-3366,https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed,active
 EE,Elva vald,"GoBus AS, MEELIS HEEK, MK Reis OÜ",https://eu-gtfs.remix.com/ida_viru.zip,mdb-3372,https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed,active
 EE,Häädemeeste vald,GoBus AS,https://eu-gtfs.remix.com/vorumaa.zip,mdb-3376,https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed,active
@@ -2318,6 +2330,9 @@ HU,Székesfehérvár,Székesfehérvár city transit,https://gtfs.menetbrand.com/
 HU,Tatabánya,Tatabánya city transit,https://gtfs.menetbrand.com/download/tatabanya/,hu-disc-27,,active
 HU,Veszprém,V-BUSZ KFT,https://www.vbusz.hu/gtfs,mdb-1903,,active
 HU,Veszprém,Veszprém city transit,https://gtfs.menetbrand.com/download/veszprem/,hu-disc-25,,active
+ID,Jakarta,LRT Jabodebek (PT KAI),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ID/jakarta/lrt-jabodebek-pt-kai/gtfs/,id-llm-lrt-jabodebek-pt-kai,,active
+ID,Jakarta,LRT Jakarta (PT Jakarta Propertindo / Jakpro),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ID/jakarta/lrt-jakarta-pt-jakarta-propertindo-jakpro/gtfs/,id-llm-lrt-jakarta-pt-jakarta-propertindo-jakpr,,active
+ID,Jakarta,MRT Jakarta (PT MRT Jakarta Perseroda) — North-South Line,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ID/jakarta/mrt-jakarta-pt-mrt-jakarta-perseroda-north-south/gtfs/,id-llm-mrt-jakarta-pt-mrt-jakarta-perseroda-nor,,active
 ID,Kebayoran Baru,Transjakarta,https://gtfs.transjakarta.co.id/files/file_gtfs.zip,mdb-1909,,active
 IE,Bandon,Paradisecoaches,https://www.transportforireland.ie/transitData/google_transit_paradise.zip,f-gc1y3-paradisecoaches,https://data.gov.ie/licence,active
 IE,Bearna,Lallycoachhire,https://www.transportforireland.ie/transitData/google_transit_lallycoaches.zip,f-gc3q-lallycoachhire,https://data.gov.ie/licence,active
@@ -2444,8 +2459,10 @@ IN,Hyderabad,Hyderabad Metro Rail Ltd (HMRL),https://hmrl.co.in/open-data/,in-hm
 IN,Hyderabad,Hyderabad TGSRTC Bus,https://data.opencity.in/dataset/88e2d145-7ec6-4666-88dd-6cf18b18312e/resource/1b0d18bb-b2fb-4a79-8ed0-1e071da5790c/download/telangana_opendata_gtfs_tgsrtc_08_february_2026.zip,mdb-3361,https://hmrl.co.in/open-data.html,active
 IN,Kochi,Kochi Metro Rail Ltd (KMRL),https://kochimetro.org/opendata/KMRLOpenData.zip,in-kmrl-kochi,"Free non-exclusive, attribution required (KMRL Open Data)",active
 IN,Lodhika Taluka,Rajkot Rampath Limited,https://github.com/croyla/rrl-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3142,,active
+IN,Navi Mumbai,NMMT (Navi Mumbai Municipal Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navi-mumbai/nmmt-navi-mumbai-municipal-transport/gtfs/,in-llm-nmmt-navi-mumbai-municipal-transport,,active
 IN,Pune,Pune Mahanagar Parivahan Mahamandal Ltd (PMPML),https://raw.githubusercontent.com/croyla/pmpml-gtfs/main/pmpml_gtfs.zip,in-pmpml-pune,MIT,active
 IN,Telangana,Hyderabad Metro Rail Ltd.,https://drive.usercontent.google.com/u/0/uc?id=15yr-YE_7BerxTDXCyVOWWkw4nyQlVUpb&export=download,mdb-2457,https://hmrl.co.in/open-data.html,active
+IN,Thane (Mumbai Metropolitan Region),TMT (Thane Municipal Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/thane-mumbai-metropolitan-region/tmt-thane-municipal-transport/gtfs/,in-llm-tmt-thane-municipal-transport,,active
 IN,Vapi Taluka,Vapi City Bus Service,https://github.com/shubhamvelani/VapiGTFS/releases/download/v1.0.0/Vapi_GTFS.zip,mdb-3426,https://github.com/shubhamvelani/VapiGTFS/,active
 IN,Vasai,"Mumbai Bus (BEST, KDMT)",https://github.com/croyla/mumbai-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3138,,active
 IN,national,"Ahmedabad Janmarg Ltd, Ahmedabad Municipal Transit Services",https://github.com/croyla/amd-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3131,,active
@@ -4823,6 +4840,8 @@ KE,Nairobi,Digital Matatus,https://www.digitalmatatus.com/data/GTFS_FEED_2019.zi
 KE,Nairobi,Kenya Railways Corporation — Nairobi Commuter Rail (NCR),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KE/nairobi/kenya-railways-corporation-nairobi-commuter-rail/gtfs/,ke-llm-kenya-railways-corporation-nairobi-commu,,active
 KE,Nairobi,"Matatu / minibus network (Digital Matatus, aggregated informal paratransit)",https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/university-of-nairobi/535/20160505/gtfs.zip,ke-disc-61,,active
 KE,Sagana,Nairobi~Saccos,https://gitlab.com/digitaltransport/data/africa/nairobi/-/raw/master/Data/GTFS.zip,f-kzf-nairobi~saccos,,active
+KH,Phnom Penh,Airport Express Bus (AEB) - operated by Phnom Penh City Bus / Phnom Penh City Hall,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KH/phnom-penh/airport-express-bus-aeb-operated-by-phnom-penh-c/gtfs/,kh-llm-airport-express-bus-aeb-operated-by-phno,,active
+KH,Phnom Penh,Phnom Penh City Bus,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KH/phnom-penh/phnom-penh-city-bus/gtfs/,kh-llm-phnom-penh-city-bus,,active
 KR,national,"KTDB — Korea Transport DataBase (MOLIT), community mirror",https://huggingface.co/datasets/Digital-Twin-Urban-Mobility/GTFS-Korea/resolve/main/GTFS_Korea.zip,kr-ktdb-nationwide-gtfs,,active
 KZ,Almaty,"Almaty BRT (bus rapid transit — Timiryazev / Zheltoksan corridor, operated within the Almaty municipal system)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KZ/almaty/almaty-brt-bus-rapid-transit-timiryazev-zheltoks/gtfs/,kz-llm-almaty-brt-bus-rapid-transit-timiryazev-,,active
 KZ,Astana,Astana IT University / Al-Farabi Kazakh National University (Zenodo),https://zenodo.org/api/records/15769359/files/gtfs_data.zip/content,kz-dork-astana-it-university-al-farabi-kazak,,active
@@ -4963,6 +4982,9 @@ MK,Jabolci,JSP Skopje,https://www.modeshift.app/api/v1/9814b106-2afe-47c8-919b-b
 MK,Skopje,Македонски Железници Транспорт / North Macedonia Railways Transport,https://github.com/deryclem/gtfs-north-macedonia/raw/main/gtfs-north-macedonia.zip,mdb-3461,,active
 ML,Bamako,Bamako~Sotrama,https://gitlab.com/digitaltransport/data/africa/bamako/-/raw/main/gtfs_Public_Transport_Bamako_Sotrama_01_01_2020_06_42_48.zip,f-bamako~sotrama,https://gitlab.com/digitaltransport/data/africa/bamako,active
 ML,Gao Cercle,Communauté d'Agglomération du Nord Grande-Terre,https://www.data.gouv.fr/api/1/datasets/r/dbfbff0f-46b6-44d5-a4d4-60d4ac645026,tdg-83020,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
+MM,Yangon,Yangon BRT Lite — Yangon Bus Public Company Ltd (YPBC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-brt-lite-yangon-bus-public-company-ltd-yp/gtfs/,mm-llm-yangon-brt-lite-yangon-bus-public-compan,,active
+MM,Yangon,"Yangon Bus Service (YBS) — Yangon Region Public Transport Committee (YRTC, formerly YRTA); 8 private operators incl. Omni Focus, YBPC, KBG, LuDu, YUPT, BDL, GYCT, TRAN",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-bus-service-ybs-yangon-region-public-tran/gtfs/,mm-llm-yangon-bus-service-ybs-yangon-region-pub,,active
+MM,Yangon,Yangon Circular Railway — Myanma Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-circular-railway-myanma-railways/gtfs/,mm-llm-yangon-circular-railway-myanma-railways,,active
 MU,Baie aux Huitres,Ungheni~Public~Transport,https://github.com/UngheniTransport/gtfs/raw/main/ungheni_gtfs.zip,f-md-ungheni~public~transport,CC-BY-4.0,active
 MX,Jilotepec,Ayuntamiento Constitucional de Jilotepec Equipo de Planeación y Movilida (Constitutional Municipality of Jilotepec Planning and Mobility Team),https://datos.movimex.gob.mx/gtfs/jilotepec.gtfs.zip,mdb-2866,https://www.openstreetmap.org/copyright,active
 MX,Mexico City,SEMOVI (via World Bank Data Catalog),https://datacatalogfiles.worldbank.org/ddh-published/0038247/1/DR0046595/gtfs_semovi_cdmx.zip,mx-dork-semovi-via-world-bank-data-catalog,,active
@@ -5075,8 +5097,13 @@ PE,Arequipa,SIT Arequipa (city bus network),https://github.com/trufi-association
 PE,Arequipa,Trufi Association -- Arequipa (built from OSM/KML),https://raw.githubusercontent.com/trufi-association/trufi-arequipa/main/GTFS-Peru-Arequipa/out/gtfs/,pe-trufi-arequipa,,active
 PE,Chilca,Aeroexpreso,https://aeroexpreso.com.pe/gtfs,mdb-1985,,active
 PE,La Esperanza,TMT Trujillo - Gerencia de Transporte,https://raw.githubusercontent.com/trufi-association/Trujillo-OMUS/refs/heads/main/GTFS-Peru-Trujillo/out/gtfs.zip,mdb-2200,https://github.com/trufi-association/Trujillo-OMUS/blob/main/LICENSE,active
+PE,Lima,Metro de Lima y Callao — Línea 1 (concessionaire GyM Ferrovías / lineauno.pe; asset owner AATE/ATU),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PE/lima/metro-de-lima-y-callao-linea-1-concessionaire-gy/gtfs/,pe-llm-metro-de-lima-y-callao-linea-1-concessio,,active
+PE,Lima,"Metropolitano (BRT) — Protransporte/ATU (operators: Perú Masivo, Lima Bus Internacional 1, Lima Vías Express, Transvial Lima)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PE/lima/metropolitano-brt-protransporte-atu-operators-pe/gtfs/,pe-llm-metropolitano-brt-protransporte-atu-oper,,active
 PE,Lima / Callao,"ATU - Autoridad de Transporte Urbano para Lima y Callao (Metropolitano BRT, Metro Line 1 & 2, corredores complementarios Rojo/Azul/Morado)",https://github.com/trufi-association/gtfs-lima,pe-disc-51,,active
 PH,Dapitan,Cebu~Dotc,http://gtfs-source-feeds.transit.land/phl-cebu.zip#GTFS_feed,f-wcb4-cebu~dotc,,active
+PH,Manila,"EDSA Carousel (EDSA Busway BRT) — DOTr/MMDA, Mega Manila Consortium & ES Transport",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/edsa-carousel-edsa-busway-brt-dotr-mmda-mega-man/gtfs/,ph-llm-edsa-carousel-edsa-busway-brt-dotr-mmda-,,active
+PH,Manila,LRT Line 1 — Light Rail Manila Corporation (LRMC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/lrt-line-1-light-rail-manila-corporation-lrmc/gtfs/,ph-llm-lrt-line-1-light-rail-manila-corporation,,active
+PH,Manila,LRT Line 2 — LRTA (operated via LRMC O&M),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/lrt-line-2-lrta-operated-via-lrmc-o-m/gtfs/,ph-llm-lrt-line-2-lrta-operated-via-lrmc-o-m,,active
 PH,Manila,"Manila Light Rail Transit Authority, LTFRB, Manila Metro Rail Transit Corporation, MARINA, Philippine National Railways, The Fort Bus",https://github.com/sakayph/gtfs/archive/master.zip#gtfs-master,mdb-1106,,active
 PH,national,"HM Transport Inc. and Robinsons Malls, Froehlich Tours,RRCG Transport, Lingkod Pinoy Bus Liner, Inc., MetroExpress, Tas Trans",https://github.com/sakayph/p2p-gtfs/archive/master.zip#p2p-gtfs-master,mdb-1105,https://github.com/sakayph/p2p-gtfs/blob/master/README.md,active
 PH,national,None — Philippines has no National Access Point / government open-transit portal,https://github.com/sakayph/gtfs/archive/refs/heads/master.zip,ph-national-bulk,,active
@@ -7607,6 +7634,7 @@ VE,Valera,Vzla,https://transporte.cromstudio.com.ve/data/horarios.zip,f-vzla,,ac
 VN,Hanoi,"Transerco (Hanoi Transport Corporation) + private operators, Hanoi bus network",https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046582/hanoi_gtfs_am.zip,vn-disc-59,,active
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS MD),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046583/hanoi_gtfs_md.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-m,,active
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS PM),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046584/hanoi_gtfs_pm.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-p,,active
+VN,Ho Chi Minh City,"Ho Chi Minh City bus network (Trung tâm Quản lý Giao thông công cộng / Management Centre of Public Transport, MCPT)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VN/ho-chi-minh-city/ho-chi-minh-city-bus-network-trung-tam-quan-ly-g/gtfs/,vn-llm-ho-chi-minh-city-bus-network-trung-tam-q,,active
 XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-NYU.zip,f-adirondack~trailways~nyu,https://data.ny.gov/download/77gx-ii52/application/pdf,active
 XX,national,Agglobus~Guyane,https://api-data.cacl-guyane.fr/v1/gtfs-agglobus-agency/%21sourcefiles,f-agglobus~guyane,https://transport.data.gouv.fr/datasets/agence-agglobus,active
 XX,national,Airpullman~Spa,https://usbshare.agenziatpl.it/index.php/s/NCX252ombsxjzzz/download/2025-01-03_Airpullman.zip,f-airpullman~spa,CC-BY-4.0,active

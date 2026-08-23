@@ -1,0 +1,14 @@
+{
+  "operator": "Yangon BRT Lite — Yangon Bus Public Company Ltd (YPBC)",
+  "city": "Yangon",
+  "cc": "MM",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 16,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 32
+  },
+  "notes": "Source: en.wikipedia.org/wiki/Yangon_BRT. The article documents the YBPC BRT Lite system (launched 7 Feb 2016): 2 lines, 22 stations, 65 A/C buses, flat 300 kyat fare, service 06:00-19:30. Only Line 1's ordered station list is given in detail (I extracted 14 distinct stations along the Pyay Rd -> Bogyoke Aung San Rd -> Sule Pagoda Rd corridor from Htauk Kyant Junction terminus down into downtown; the article's list also contains descriptive duplicates like \"Myaynigone (corner of Pyay Rd and Bogyoke Aung San Rd)\" and \"Corner of Bogyoke Aung San Rd and Sule Pagoda Rd\" which I folded into the Myaynigone and Sule stops respectively). Line 2 has NO station names, order, or route in the source, so it is NOT included — inventing it would violate the no-fabricated-stops rule. Headway/frequency is NOT stated in the source; the article only gives the daily span (06:00-19:30). I therefore modeled an even ~15-min headway across the service span and provide one representative trip per direction with realistic ~90-min corridor running times. Coordinates: Htauk Kyant (17.04139,96.13389), Sule (16.7744,96.1587), Myaynigone (16.8038,96.1375) are from web search of the named landmarks; Hledan (~16.822,96.132) approximate from search; the remaining stops (Nwe Khway, Bo Chan, Wireless, Kha Ye Bin Jct, Saw Bwar Gyi Kone, 8 Mile Jct, Myay Ni Kone, Bahan 3rd St, Shwe Gone Daing, Kokkine, Chaw Twin Kone, Na Wa Day Cinema) are interpolated along the Pyay Rd / Bogyoke Aung San Rd corridor between the anchored landmarks and are approximate (marked by moderate confidence). Days of operation not stated; assumed daily. Confidence 0.42 reflects: real operator/route/span/station-order are evidenced, but exact timetable (times, headway, per-stop dwell), Line 2 entirely, and most exact stop coordinates are not in the source.",
+  "source": "llm-normalized"
+}

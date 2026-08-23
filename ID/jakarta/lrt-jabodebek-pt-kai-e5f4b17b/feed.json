@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LRT Jabodebek (PT KAI)",
+    "country": "ID",
+    "subdivision": null,
+    "city": "Jakarta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ID/jakarta/lrt-jabodebek-pt-kai/gtfs/",
+    "mdb_id": "id-llm-lrt-jabodebek-pt-kai",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

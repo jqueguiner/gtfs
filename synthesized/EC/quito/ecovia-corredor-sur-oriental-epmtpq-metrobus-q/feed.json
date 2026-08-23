@@ -1,0 +1,14 @@
+{
+  "operator": "Ecovía (Corredor Sur Oriental) — EPMTPQ / Metrobus-Q",
+  "city": "Quito",
+  "cc": "EC",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 34,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 206
+  },
+  "notes": "Ecovía trunk BRT corridor (Metrobus-Q / SITM-Q), Quito. Stops and coordinates are REAL, taken from OSM route relations tagged network=Ecovía (route=bus) along the exclusive lane (Av. 6 de Diciembre / Gran Colombia / Pichincha / Maldonado), fetched via OSM API 0.6 (relations 2025942 E3, 12110323/12110365 E1, 12110437 E3, 12113853/12113854 E6, 12113855/12113856 E4). 34 stations, cross-checked against Wikipedia (es.wikipedia.org/wiki/Ecovía_(Quito) and Corredor_Sur_Oriental) station lists — orders match. Route set (E1/E2/E3/E4/E6) confirmed from OSM relations + pasajerosquito.gob.ec (E2 Quitumbe↔Río Coca is the full-corridor circuit; E3 Río Coca↔Playón; E4 Quitumbe↔Playón; E6 Quitumbe↔El Recreo; E1 runs De Las Universidades→Quitumbe→Terminal Sur Ecovía/Guamaní — modeled here only to Quitumbe since the Guamaní extension stops were not in the clean corridor set, so E1's headsign/long_name is truncated to served stops). CAVEATS lowering confidence: (1) SCHEDULE TIMES ARE SYNTHETIC — the official trolebus.gob.ec/websys/ecovia page failed TLS and pasajerosquito.gob.ec is bot-walled (Radware), so no real timetable/headway table was obtained. Each route has ONE representative trip per direction built with an even ~110s inter-station run starting 05:30; real service is high-frequency (~114 articulated buses, headways of a few minutes) roughly 05:00–24:00 (extended past midnight weekends per El Universo). A production feed should use frequencies.txt. (2) Calendar set to daily (Metrobus-Q trunk runs 365 days, 24h at terminals per sources) — DAILY 2026-01-01..2026-12-31, no exceptions modeled. (3) Only representative trips, not a full day of departures. Stops/geometry/route topology are trustworthy; times are illustrative.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Transco (Societe de Transports du Congo)",
+  "city": "Kinshasa",
+  "cc": "CD",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 78,
+    "routes": 29,
+    "trips": 58,
+    "stop_times": 290
+  },
+  "notes": "Route list + ordered itineraries scraped from the official transco-rdc.cd/urbain page (29 urban lines L01-L34, all route_type=3 bus, 500 CDF flat fare). Moovit line pages (lines index, L18, L16A, L12A) are JS-rendered and returned NO content to WebFetch, so the promised Moovit per-line stop-by-stop coordinates and the 993-stop set could NOT be extracted; stops therefore come only from the official itinerary stop NAMES. Coordinates were geocoded via WebSearch of Kinshasa landmarks/communes (Gare Centrale, UPN, UNIKIN, Ndjili airport, Stade des Martyrs, and commune centroids for termini like Kimbanseke, Kinkole, Selembao, Mitendi, Maluku). Many intermediate stops (Poids Lourd, Sabena, Bakayau, Nguma, Mbeske, Secomaf, etc.) are placed at APPROXIMATE points along the known axis, not surveyed coordinates. Service hours from official/blog sources: first departure 05:30, last ~21:00, 15-20 min headway, daily. Because no per-stop timetable exists (frequency-based service), each route has one representative trip per direction built on an even ~4-min inter-stop spacing starting 05:30 (realistic first-run clock times); it is a schedule TEMPLATE, not a full daily frequency expansion. Lines L06,L10,L28,L29,L30 not listed on the source and omitted; L16A/L12A variants folded into base L16/L12 since Moovit detail was unreachable. OSM route relations (L06B,L11,L21,L02) were not machine-fetched. No stops were invented beyond the official itineraries.",
+  "source": "llm-normalized"
+}

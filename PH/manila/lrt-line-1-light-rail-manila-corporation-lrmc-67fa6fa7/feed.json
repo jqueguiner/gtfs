@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LRT Line 1 — Light Rail Manila Corporation (LRMC)",
+    "country": "PH",
+    "subdivision": null,
+    "city": "Manila"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/lrt-line-1-light-rail-manila-corporation-lrmc/gtfs/",
+    "mdb_id": "ph-llm-lrt-line-1-light-rail-manila-corporation",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

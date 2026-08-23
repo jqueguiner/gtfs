@@ -1,0 +1,14 @@
+{
+  "operator": "Metro de Quito (Línea 1) — Empresa Pública Metropolitana Metro de Quito",
+  "city": "Quito",
+  "cc": "EC",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 15,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 30
+  },
+  "notes": "Stops: all 15 stations with coordinates from OSM relation 15797035 (route El Labrador↔Quitumbe, Wikidata Q18419905), corroborated in order and names via metro-quito.com/estaciones, metrodequito.gob.ec and Wikipedia (Quito Metro Line 1). Names use OSM/official forms (La Magdalena, El Recreo, El Ejido, La Alameda, La Carolina, El Labrador). Service hours from metro-quito.com/horario and corroborated by WebSearch (Movilidad Quito, Primicias): Mon-Fri 05:30-22:00, Sat 07:00-23:00, Sun/holidays 07:00-22:00; operates every day of the year. Frequency reported ~5 min peak / ~8-10 min off-peak (sources vary 2-10 min; 2026 maintenance caused temporary variations) — exact per-trip timetable is NOT published, so stop_times are SYNTHESIZED. Two representative trips (one per direction) built from the published ~34-minute end-to-end runtime, evenly spaced ~2:26 per inter-station hop, first departure at each terminus at 05:30:00. Real feed would need many trips at the stated headway across the full service span; only representative trips are provided here. Confidence 0.72: stops/order/coords and service span are well-evidenced and accurate; individual clock times are synthesized from runtime+headway rather than an official timetable (none published).",
+  "source": "llm-normalized"
+}

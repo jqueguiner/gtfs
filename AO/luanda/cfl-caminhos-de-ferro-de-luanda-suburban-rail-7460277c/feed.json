@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CFL - Caminhos de Ferro de Luanda (suburban rail)",
+    "country": "AO",
+    "subdivision": null,
+    "city": "Luanda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/AO/luanda/cfl-caminhos-de-ferro-de-luanda-suburban-rail/gtfs/",
+    "mdb_id": "ao-llm-cfl-caminhos-de-ferro-de-luanda-suburban",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

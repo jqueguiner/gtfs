@@ -1,0 +1,14 @@
+{
+  "operator": "MRT Jakarta (PT MRT Jakarta Perseroda) — North-South Line",
+  "city": "Jakarta",
+  "cc": "ID",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 10,
+    "stop_times": 130
+  },
+  "notes": "North-South Line (Line M / M1), Lebak Bulus Bank Syariah Indonesia <-> Bundaran HI Bank Jakarta, 13 stations, Phase 1 (operational since 2019). Station names/order from Wikipedia Jakarta MRT station list and confirmed against OSM. Coordinates geocoded from OSM MRT station nodes (railway=station, MRT network) matching route relation 9434553's stations, both directions. Service span 05:00-24:00 daily (weekdays and weekends alike per official/secondary sources). Headway: 5 min during weekday peaks (07:00-09:00, 17:00-19:00), 10 min off-peak/weekend, per Wikipedia + secondary sources; the exact peak windows are a reasonable assumption, not published verbatim. End-to-end run time ~30-32 min modeled from the stated ~29-30 min total trip time (per-hop running times estimated, 30s dwell each station); real published per-station timings were not available (jakartamrt.co.id/id/jadwal-keberangkatan-mrt and jadwalmrt.id render schedules via JS and returned no static table; navitime blocked with HTTP 403). This structured output contains 10 REPRESENTATIVE trips (5 per direction: first 05:00, morning peak 07:00, midday 12:00, evening peak 17:00, last departure 23:50) with full ordered stop_times; a complete even-headway feed generated from the same model yields 138 departures/direction (276 trips, 3588 stop_times), first departure 05:00, last 23:50, arriving after midnight (GTFS >24:00 times used correctly). To expand to the full feed, replicate the two direction trip templates at the headway plan above. Single service_id 'WD' runs all 7 days (identical span/headway modeled for weekends aside from peak boost). route_type=1 (metro). Confidence 0.72: stops/order/coords and service span are well-evidenced and accurate; exact departure clock times and per-station running times are modeled (even-headway from published frequency), not scraped from an official timetable.",
+  "source": "llm-normalized"
+}

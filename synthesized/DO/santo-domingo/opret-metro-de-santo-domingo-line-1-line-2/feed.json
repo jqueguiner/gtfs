@@ -1,0 +1,14 @@
+{
+  "operator": "OPRET - Metro de Santo Domingo (Line 1 & Line 2)",
+  "city": "Santo Domingo",
+  "cc": "DO",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 38,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 156
+  },
+  "notes": "Stops: all 39 station coordinates from OpenStreetMap subway station nodes (railway=station, station=subway) within the requested bbox, queried via Overpass (relation 7734059 was too heavy to fetch directly but the station nodes carry the same names/coords). 38 unique stops because Juan Pablo Duarte is the shared L1/L2 interchange (same coords). Line 1 (16 stations, Mamá Tingó -> Centro de los Héroes) ordering is from English Wikipedia and confirmed monotonic in latitude by OSM coords. Line 2 (23 stations, Pablo Adón Guzmán/west -> Concepción Bona/east, including the 2B western extension) ordering was reconstructed from OSM geographic coordinates (smooth W->E longitude progression) because the Spanish Wikipedia station list was garbled/mixed and mapa-metro.com returned 403. Note: Spanish Wikipedia gives ref frequency \"1:30\" (90 s headway); operational full-network travel time 40-45 min per OPRET. Excluded 'San Felipe' (x2 duplicate node) and 'Ramón Matías Mella' which sit north of Mamá Tingó — these are the not-yet-operational Line 1 northern extension (2A), so keeping Line 1 at its faithful 16-station service. Service hours from OPRET (via search of opret.gob.do; site itself returned HTTP 473): Mon-Fri 06:00-22:30, Sat/Sun/holidays 06:00-22:00. stop_times use a realistic even 2-min interstation headway anchored at the 06:00 opening for one representative trip per direction per service period (yielding L1 end-to-end 30 min, L2 44 min, consistent with OPRET's 40-45 min network figure); exact per-run timetable is not published, hence confidence 0.6. route_type=1 (metro/subway).",
+  "source": "llm-normalized"
+}

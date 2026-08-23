@@ -1,0 +1,14 @@
+{
+  "operator": "Dhaka Mass Transit Company Limited (DMTCL) — Metro Rail MRT Line 6",
+  "city": "Dhaka",
+  "cc": "BD",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 17,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 96
+  },
+  "notes": "Stops: all 17 stations from OpenStreetMap subway nodes (station=subway), ordered Uttara North -> Motijheel + Kamalapur; ordered list cross-checked on Wikipedia and dhakametrorail.org. Kamalapur (station 17) is under construction (opening ~Jan 2027) and NOT yet in revenue service, so it is included as a stop but excluded from scheduled trips; operational trips run the 16 in-service stations Uttara North<->Motijheel. Schedule from dhakametrorail.org/schedule (authoritative): Sat-Thu first Uttara North->Motijheel dep 06:30, first Motijheel->Uttara North dep 07:15, service to ~22:10; Friday reduced (starts 15:00). End-to-end run ~38 min matches real-world timing; intermediate stop_times are even-spaced (~2.5 min/hop) estimates, NOT published per-station timetables (DMTCL publishes headways, not a full stop-level timetable). Representative trips: 2 per direction weekday (first + midday) and 1 per direction Friday, since only headway is published. route_type=1 (metro/subway, elevated rapid transit). Coordinates are OSM station-node lat/lon. Two service calendars: weekday(Sat-Thu) and Friday(PM only). Confidence 0.62: station list/order/coords are solid; per-station clock times are modeled from headway+terminal times rather than an official stop-level timetable.",
+  "source": "llm-normalized"
+}

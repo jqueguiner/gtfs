@@ -1,0 +1,14 @@
+{
+  "operator": "EDSA Carousel (EDSA Busway BRT) — DOTr/MMDA, Mega Manila Consortium & ES Transport",
+  "city": "Manila",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 24,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 48
+  },
+  "notes": "Bus Rapid Transit (route_type=3) median busway along EDSA, Metro Manila, operated under DOTr/MMDA by the Mega Manila Consortium Corp. and ES Transport & Partners Consortium. Single line (Route 1) between Monumento (Caloocan) and PITX (Parañaque). Ordered 24-station list taken from Wikipedia (en.wikipedia.org/wiki/EDSA_Carousel) and cross-checked against the Federal Land guide, which lists the same corridor stops (Federal Land omits a couple of median-only stops and adds City of Dreams / Macapagal-Bradco near MOA; I used the Wikipedia 24-stop sequence as canonical). edsacarousel.ph/route-map and /bus-time returned HTTP 403 and could not be scraped directly; schedule details were recovered via web search of those same pages' cached content and the Top Gear PH 2025 guide.\n\nCoordinates: Monumento, Balintawak, SM North EDSA/North Avenue, Quezon Avenue, Ortigas, Guadalupe, Ayala, Taft Avenue and PITX use published lat/lon of the adjacent MRT-3/LRT-1 rail-interchange stations (busway median platforms sit within a few tens of metres). Intermediate median-only stops (Bagong Barrio, Kaingin Road, Roosevelt, Philam, Kamuning, Nepa Q-Mart, Main Avenue, Santolan, Buendia, Tramo, Roxas Blvd, SM MOA, DFA, Ayala Malls Manila Bay) are linearly interpolated along the EDSA corridor between the known anchor points — approximate but on-corridor and correctly ordered; not fabricated, but should be refined against OSM BRT station nodes before production use.\n\nService: system advertises 24/7 operation; full-length PITX↔Monumento service runs ~04:00–23:00 with a limited late-night (Taft/Pasay Rotonda–Monumento) segment 23:00–04:00. Only frequency is published (peak ~3–5 min, off-peak ~10–15 min), no per-trip timetable exists, so trips below are representative single runs at a realistic 06:00 departure with ~1.5 min inter-stop spacing over the ~18 km / ~24-stop corridor (end-to-end ~55 min). Calendar = daily (Mon–Sun). trip_1 = northbound (PITX→Monumento), trip_2 = southbound (Monumento→PITX). Confidence 0.55: route, direction, ordering, anchor coordinates and operating hours are well-evidenced; exact departure clock times and intermediate-stop coordinates are modeled, not sourced.",
+  "source": "llm-normalized"
+}

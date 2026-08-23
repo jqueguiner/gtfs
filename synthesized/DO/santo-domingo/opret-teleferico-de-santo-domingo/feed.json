@@ -1,0 +1,14 @@
+{
+  "operator": "OPRET - Teleférico de Santo Domingo",
+  "city": "Santo Domingo",
+  "cc": "DO",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 8,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 32
+  },
+  "notes": "Sources: en.wikipedia.org Teleférico de Santo Domingo, es.wikipedia.org, official Metro/Teleférico (MetroSD_RD) station lists, and OpenStreetMap aerialway station nodes. Operator OPRET (Oficina para el Reordenamiento del Transporte); system is the Santo Domingo cable car (aerialway/gondola), so route_type=6 (aerial lift) is the correct GTFS type, but the schema constrains route_type to {0,1,2,3,4}; used 1 (metro/rapid-transit, the closest available and how it is fare/operationally integrated with the Santo Domingo Metro). LINES: Line 1 (T1-T4): Gualey(T1, connects Metro L2 Eduardo Brito via pedestrian tunnel) - Los Tres Brazos(T2) - Sabana Perdida(T3) - Charles de Gaulle(T4); 5.0 km, opened 2018-07-01. Line 2 (T1-T4): Los Alcarrizos - Las Toronjas - Puente Blanco - Los Americanos; 4.2 km, opened 2023; connects Metro L2 (Pablo Adón Guzmán). Combined 9.2 km, 8 stations. COORDINATES: Line 2 all four stops are EXACT from OSM (aerialway=yes nodes: Los Alcarrizos 18.5198401,-70.0107779; Las Toronjas 18.5215571,-70.0215045; Puente Blanco 18.5233799,-70.0331215; Los Americanos 18.5213547,-70.0498885). Line 1 coordinates are APPROXIMATE, interpolated along the documented corridor (Gualey at Ozama river bank near Eduardo Brito metro, running NE via Tres Brazos and Sabana Perdida to Charles de Gaulle on RD-11 La Victoria) because the live Overpass endpoint became rate-limited/unreachable before Line 1 aerialway nodes could be pulled; treat Line 1 lat/lon as +/- a few hundred meters. SCHEDULE: The cable car runs CONTINUOUSLY (gondola, no fixed timetable) during service hours; there is no published stop timetable. Modeled as an even ~12-minute representative headway. Service hours from sources: Mon-Sat 06:00-22:00, Sun 08:00-21:00 (historic '6am-9pm' plus Line 2 confirmed Mon-Sat to 22:00 / Sun 08:00-21:00; a Metro/Teleférico post also cites service to 22:30). End-to-end ride ~16 min (L1) / ~14 min (L2) at ~18 km/h. Representative first-departure trips per direction are provided; a real feed would use frequencies.txt for the continuous headway. Confidence 0.55: route topology, station names/order and service days are well-evidenced and Line 2 coords are exact, but stop_times are synthesized (continuous service, no published timetable), Line 1 coords are approximate, and route_type is a forced approximation of an aerialway.",
+  "source": "llm-normalized"
+}

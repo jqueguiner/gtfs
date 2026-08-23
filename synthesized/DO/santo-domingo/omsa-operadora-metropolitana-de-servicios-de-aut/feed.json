@@ -1,0 +1,14 @@
+{
+  "operator": "OMSA - Operadora Metropolitana de Servicios de Autobuses",
+  "city": "Santo Domingo",
+  "cc": "DO",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 228,
+    "routes": 12,
+    "trips": 16,
+    "stop_times": 228
+  },
+  "notes": "Sources: OMSA official per-corridor PARADAS PDFs (scanned 400-DPI grayscale images, NO embedded text) at wp.omsa.gob.do/wp-content/uploads/2024/06/, cross-checked against Moovit (line Kennedy) and OSM (Corredor Kennedy relation ref C4C5). PARADAS and MAPA PDFs were downloaded and OCR'd with tesseract (spa); stop names transcribed from OCR and lightly cleaned (OCR noise corrected: Nunes->Nunez, Defillo, Villaespesa, etc.). All 13 official Santo Domingo corridors are represented as 12 GTFS routes (Kennedy/27F/Independencia/Lincoln/Alcarrizos/Maximo Gomez/Naco/Simon Bolivar/La Barquita/Ciudad Juan Bosch/Los Rios/Charles de Gaulle). Route IDs use OMSA's own corridor/module codes from the stop tables (C4C5, C1C2, C10C11, C6C7, C15C16, C8, C9, C13, C17, C18, C12, C19). COORDINATES ARE APPROXIMATE/INTERPOLATED: each corridor's ordered stops were linearly interpolated between known Santo Domingo avenue-endpoint coordinates (Autopista Duarte, Av. Kennedy, Carr. Mella, Charles de Gaulle, 27 de Febrero, Las Americas, Independencia, Luperon, Romulo Betancourt, Isabel Aguiar, Hermanas Mirabal/Maximo Gomez, etc.), NOT surveyed per-intersection geocodes; circular corridors (Naco, Maximo Gomez, Simon Bolivar, La Barquita, Juan Bosch, Los Rios) are laid out along a pseudo-loop so coords are indicative of the corridor area, not exact. SCHEDULE: OMSA publishes NO trip timetable, only frequency/operating hours (Mon-Fri 05:45-23:00, Sat/Sun 06:00-22:00, per omsa.gob.do transporte-de-pasajeros). stop_times are synthesized from a single representative first-departure trip per direction at ~90s stop-to-stop dwell (an even-headway assumption); real headway ~10-15 min was not modeled as multiple trips. Full-resolution feed (770 stops / all OCR intersections, 16 trips) was generated on disk at /home/ubuntu/adresses/omsa_pdfs/gtfs_out.json; THIS structured payload is a faithful reduced slice: Corredor Kennedy is included at FULL stop resolution (all 44+44 stops, both directions), the other 11 corridors are represented by ~10 evenly-spaced representative anchor stops each (stop_sequence renumbered contiguously) to keep the payload valid and transmissible. Every stop_id referenced in stop_times exists in stops; times are monotonic within each trip. Confidence 0.55: route list + ordered stop sequences + operating hours are well-evidenced from official OMSA PDFs (high fidelity), but per-stop coordinates are interpolated (not geocoded) and no real per-trip timetable exists (headway synthesized), so positional and temporal precision is limited. Build artifacts: /home/ubuntu/adresses/omsa_pdfs/ (PDFs, OCR renders, build_gtfs.py, gtfs_out.json, emit.json).",
+  "source": "llm-normalized"
+}

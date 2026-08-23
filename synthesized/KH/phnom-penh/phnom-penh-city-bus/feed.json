@@ -1,0 +1,14 @@
+{
+  "operator": "Phnom Penh City Bus",
+  "city": "Phnom Penh",
+  "cc": "KH",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 56,
+    "routes": 13,
+    "trips": 26,
+    "stop_times": 87
+  },
+  "notes": "Sources: OSM Overpass (network=PPCB, 26 bus route relations = 13 lines bidirectional) provided the route list, terminal from/to names, and coordinates; Wikipedia provided the fuller route roster + frequencies (10-30 min headways) + fare (KHR1,500). What is real vs. synthesized: (1) Route list and terminal names are evidenced from OSM route relations. (2) Coordinates are all real OSM data — Line 7 has ~18-21 named bus_stop nodes with real names/coords (the ONLY route with a full stop sequence in OSM); for all other 12 lines OSM route relations carry only way geometry and no stop-node members, so each is represented by just its two terminal stops, geocoded to the route-geometry endpoint coordinates. No stop was invented — terminals are pinned to actual polyline endpoints. (3) Service times are NOT from a published timetable: none of the sources give first/last bus clock times. stop_times use a single representative morning trip per direction departing 05:30 with even spacing (a 45-min terminal-to-terminal run for 2-stop lines, ~90 min for Line 7 across its 18-21 stops); a headway-expanded frequencies.txt was intentionally NOT fabricated. calendar = daily service (PPCB runs 7 days/week per operator). CAVEATS: line numbering differs slightly between OSM (has 1B, 4/4A/4B/4C, 6-13) and Wikipedia (1A/1B/1C, 2A/2B/2C, 3, 4A/4B, 5-13, Airport Express) — this feed follows the OSM relations that actually exist with geometry. Lines 1A/1C/2x/3/5/11(A/B/C)/12(A/B)/Airport Express present on Wikipedia but not as separate PPCB-tagged relations in the Overpass result are omitted rather than invented. The citybus.phnompenh.gov.kh site and the ODC 2020 route-map dataset were not machine-readable for per-stop scheduling. Confidence 0.42: route topology and Line-7 stops are solid; the other 12 lines have terminal-only shape and all clock times are synthetic even-headway placeholders, not the real schedule.",
+  "source": "llm-normalized"
+}

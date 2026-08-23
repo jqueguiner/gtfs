@@ -1,0 +1,14 @@
+{
+  "operator": "Dhaka Nagar Paribahan (DTCA / Bus Route Rationalisation — Green cluster routes 21-28)",
+  "city": "Dhaka",
+  "cc": "BD",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 42,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 90
+  },
+  "notes": "Built from news + aggregator articles (goroli.com, dhakabusroute.com; Dhaka Tribune & Daily Star returned HTTP 403 but their content was recovered via WebSearch). Route 22's ordered stop sequence is well-evidenced (Ghatarchar->Staff Quarter/Demra); routes 21 (pilot, Ghatarchar->Kanchpur/Narayanganj) and 26 (Ghatarchar->Kadamtoli) sequences are reconstructed from news descriptions and vary between sources. NO published clock times or headway exist in the sources — Dhaka Nagar Paribahan runs roughly 06:00–22:00 daily; times are SYNTHESIZED at a representative 30-min headway (one representative trip per direction generated here) with ~4 min inter-stop dwell. Coordinates geocoded by neighborhood name from public lat/long references (latlong.net, Wikipedia, findlatitudeandlongitude, mapcarta) — they are area centroids, not exact stop poles; ~70 physical stops were reportedly built but only named-sequence stops are included (no invented stops). route_type=3 (bus). Confidence 0.45: stop sequences moderately faithful, but all times are estimated and coordinates are approximate.",
+  "source": "llm-normalized"
+}

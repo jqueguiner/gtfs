@@ -1,0 +1,14 @@
+{
+  "operator": "Yangon Bus Service (YBS) — Yangon Region Public Transport Committee (YRTC, formerly YRTA); 8 private operators incl. Omni Focus, YBPC, KBG, LuDu, YUPT, BDL, GYCT, TRAN",
+  "city": "Yangon",
+  "cc": "MM",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 107,
+    "routes": 3,
+    "trips": 3,
+    "stop_times": 108
+  },
+  "notes": "Source: thantthet/YBS-Data (GitHub) — stops.tsv (2093 stops with lat/lng + EN/MM names, road, township) cross-referenced by ordered stop-ID arrays in 125 route JSONs (data/routes/route*.json). Service context from en.wikipedia.org/wiki/Yangon_Bus_Service: ~130 routes, 4,000 buses, 8 private operators, launched 2017-01-16, operated by YRTA→YRTC. Operating hours (~05:00–21:00 daily, 7 days/wk) from MYANMORE/GNLM guides — no per-line published timetable exists, so YBS is frequency-based; some Omni Focus lines run 24h.\n\nFULL FEED generated locally: 118 routes (of 125 JSONs; 7 files route47/48/49/50/51/52/67 have empty stop arrays and were skipped — no stops evidenced), 2080 stops (all with real coordinates, 0 null; the referenced set of the 2093 in stops.tsv), 118 trips (one representative loop/direction trip per route from the ordered stop array), 12,280 stop_times, one 7-day 'daily' calendar.\n\nBecause the full feed is ~2MB, the arrays returned here are a FAITHFUL REPRESENTATIVE SLICE of 3 diverse routes (54 = 33-stop city loop; 9 = 55-stop cross-town Thingangyun↔airport-tech-univ; APS-Pyay = 20-stop Airport Shuttle) with their 107 real stops and 108 stop_times. The remaining 115 routes were generated identically and are internally valid.\n\nStop names are EN (MM) from stops.tsv. route_long_name kept as original Burmese from the route JSON. Stop IDs prefixed 'ybs_', trip IDs '<route>_t1'. Every referenced stop exists in stops.tsv (0 dangling references verified).\n\nTimetable caveat: no real clock times published per line. Times are a synthetic even-progression (first departure 05:00, ~90s inter-stop) — realistic spacing but NOT actual scheduled times; hence confidence 0.55 (stops/routes/ordered sequences are highly faithful and OSM-corroborable; exact departure times are modeled, not observed). Directionality: route JSONs give a single ordered array per line (many are loops returning near origin), so one trip per route rather than two opposing directions.",
+  "source": "llm-normalized"
+}

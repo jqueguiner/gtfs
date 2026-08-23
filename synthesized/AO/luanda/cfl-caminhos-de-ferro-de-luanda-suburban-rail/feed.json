@@ -1,0 +1,14 @@
+{
+  "operator": "CFL - Caminhos de Ferro de Luanda (suburban rail)",
+  "city": "Luanda",
+  "cc": "AO",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 5,
+    "routes": 2,
+    "trips": 10,
+    "stop_times": 38
+  },
+  "notes": "Suburban/commuter rail feed for CFL's Bungo <-> AIAAN (new Agostinho Neto International Airport) line, the only CFL passenger corridor with concrete published station-by-station clock times. Two route classes are modeled: (1) Expresso (Bungo-Viana-AIAAN, express with mandatory Viana stop) and (2) Inter-estacoes/Suburbano (Bungo-Musseques-Viana-Baia-AIAAN, all stops). Representative trips per direction use the full-day timetable published by correiokianda.info (06:00, 17:35, 20:30 express OUT; 07:20, 19:00, 22:00 express IN; 07:00, 16:30 inter-station OUT; 09:20, 18:10 inter-station IN). Angop (effective 2026-07-01) confirms 4 frequencies/day, intermediate stops Musseques/Viana/Baia, ~1h09 run time, and departures 06:00/14:00 from Bungo and 07:30/18:10 from airport; the correiokianda timetable is used because it is station-by-station.\n\nCoordinates: BUNGO from Wikidata/Wikipedia/OSM (node/way 50563173), -8.8053/13.2443, high confidence. VIANA near the CFL Entroncamento station in Viana admin area (Wikidata), approximate. AIAAN from Wikipedia (Bom Jesus, Icolo e Bengo), -9.0468/13.5072, good. MUSSEQUES and BAIA have NO published station coordinates; their lat/lon are interpolated along the Bungo->Viana->AIAAN corridor and are approximate estimates, not surveyed points.\n\nNot modeled (insufficient time data): the cflep.co.ao suburban corridors Viana<->Bungo and Musseques<->Catete (weekday, 20 daily freq quoted but no station-by-station times published) and the Medio Curso Muceques<->Luinha weekly service. Catete/Gamek/Textang stations mentioned in the seed are part of the broader CFL network but are NOT evidenced as stops on the schedulable airport line, so they are intentionally omitted (no invented stops). OSM train relation 5414666 is the Luanda-Malanje long-distance line, not this suburban service.\n\nIntermediate inter-station running times between the two documented endpoints (Bungo-Musseques-Viana-Baia timings) are interpolated evenly to fit the published endpoint arrivals; only the endpoint times are directly sourced.",
+  "source": "llm-normalized"
+}

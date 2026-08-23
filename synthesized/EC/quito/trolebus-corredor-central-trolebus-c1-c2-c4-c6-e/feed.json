@@ -1,0 +1,14 @@
+{
+  "operator": "Trolebús (Corredor Central Trolebús, C1/C2/C4/C6) — EPMTPQ / MetrobusQ",
+  "city": "Quito",
+  "cc": "EC",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 37,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 204
+  },
+  "notes": "Sources: Wikipedia \"Trolleybuses in Quito\" (authoritative ordered master station list N->S along Av. 10 de Agosto / Calle Guayaquil / Av. P.V. Maldonado / Quitumbe Nan); Moovit-derived route summaries via WebSearch for route termini, stop counts and durations (C1 El Labrador<->El Recreo ~21 stops ~32min; C2 Moran Valverde<->El Labrador longest, ~31 stops, >17km; C4 Terminal Quitumbe<->La Colon ~27 stops ~40min, runs 05:00-19:30 daily; C6 Terminal Quitumbe<->El Recreo shortest, ~14 stops, 7km); es.wikipedia for confirmed station coordinates. Official pasajeros.quito.gob.ec / trolebus.gob.ec were bot-protected (Radware) and timed out; OSM Overpass and Nominatim were unreachable from the environment (empty responses), so the requested osm.format stop scrape could not be executed live. Stop coordinates: El Labrador, El Recreo, Moran Valverde, Quitumbe are confirmed from Wikipedia; intermediate corridor stops were interpolated along the known single N-S exclusive-lane axis between confirmed anchors (approximate, +/- a few hundred m). Station \"La Y\" (old northern terminus) closed 2018; current north terminus is El Labrador. route_type=3 (bus) used because schema lacks trolleybus(11); real mode is trolleybus. Each route has 2 representative trips (one per direction) with even-headway stop_times over the service span; these are synthesized (evenly spaced across service hours), NOT scraped timetable rows. Calendar = daily (Trole runs 7 days/week; normal service ~05:00-00:00 with separate night service). Confidence 0.55: route structure, termini, ordered stops and service window are well-evidenced; exact intermediate coordinates and per-trip clock times are approximated.",
+  "source": "llm-normalized"
+}

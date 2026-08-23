@@ -1,0 +1,14 @@
+{
+  "operator": "Yangon Circular Railway — Myanma Railways",
+  "city": "Yangon",
+  "cc": "MM",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 38,
+    "routes": 1,
+    "trips": 18,
+    "stop_times": 72
+  },
+  "notes": "Sources: Wikipedia (Yangon Circular Railway) for the ordered 38-station loop, 45.9 km, ~3 h loop, 30-min headway, service ~03:45–22:15; travelchinaguide.com and sites.google.com/view/yangon-train-com for real Yangon Central departure times (clockwise 06:20/08:40/09:30/11:30/14:00/15:25/16:45/17:10; anticlockwise 07:05/07:25/08:55/11:10/12:30/14:40/16:05/16:35/16:45/17:30). trainstracking.com was NOT used — its \"Yangon Circular\" entry is actually a Yangon→Bago regional (2 stops), not the loop.\n\nSTOPS: 38 distinct physical stations (Wikipedia lists 38 named + a 39th entry that is the loop closure back to Yangon Central, not a separate station). All station NAMES are evidenced by Wikipedia. Coordinates: 4 are anchored to Wikidata/OSM/Wikipedia (Yangon Central 16.78167/96.16111, Insein 16.89278/96.09806, Danyingon 16.932889/96.093861, Mingaladon 16.930819/96.145011). The other 34 stop_lat/stop_lon are APPROXIMATE — interpolated along the documented loop geometry between anchors, not the exact platform points. They are within roughly a few hundred metres but should be replaced with per-station Wikidata/OSM node coords for production. No stops were invented.\n\nROUTES: single route YCR, route_type=2 (rail; commuter heavy rail). TRIPS: one representative trip per real Yangon-Central departure per direction — 8 clockwise (headsign \"via Insein\") + 10 anticlockwise (headsign \"via Mingaladon\") = 18 trips, each with all 38 ordered stop_times. Anticlockwise trips traverse stops in reverse (Pazundaung→…→Yangon Central).\n\nSTOP_TIMES: departure at Yangon Central uses the real published clock times; intermediate times are EVEN headway across the ~180-min loop (≈4.74 min/hop) since per-station timings are not published. So Yangon-Central departures are faithful; intermediate station times are modeled/estimated. Loop is modeled as a linear 38-stop sequence (does not repeat the origin as a final stop).\n\nCALENDAR: service DAILY (Wikipedia/sources: runs every day). start 2026-08-22, end 2027-08-22.\n\nConfidence 0.55: station set + order + operator + frequency + terminal departure times are well-evidenced and real; intermediate stop times and 34/38 coordinates are reasonable estimates rather than official data. NOTE: service disruptions/reduced operations reported in Myanmar in recent years are not modeled.",
+  "source": "llm-normalized"
+}

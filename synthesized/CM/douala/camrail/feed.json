@@ -1,0 +1,14 @@
+{
+  "operator": "Camrail",
+  "city": "Douala",
+  "cc": "CM",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 7,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 28
+  },
+  "notes": "Feed covers Camrail's Douala-Yaounde passenger corridor (metre-gauge). Two routes modeled as route_type=2 (rail): Train Express (TE185/186, daily) and Train Ordinaire (181/184, daily). Anchored real clock times from camrail.cm and seat61: TE185 dep Douala 06:30, Edea 07:48, arr Yaounde 11:15 (4h45); TE186 dep Yaounde 17:00, Edea 20:22, arr Douala 21:45; T181 dep Douala 07:30, Edea 09:50, arr Yaounde 18:15; T184 dep Yaounde 08:15, arr Douala 19:40. Intermediate stop times (Messondo, Eseka, Makak, Ngoumou) are interpolated by cumulative great-circle distance along the 7 evidenced stops (line ~229km GC / 263km rail), not published per-station times. Only the 5 express stops (Edea, Messondo, Eseka, Makak, Ngoumou) plus the two termini are evidenced with names AND coordinates. Coordinates: Douala/Bessengue and Yaounde from OSM station nodes (operator=CAMRAIL); Edea/Messondo/Eseka/Makak/Ngoumou from town/Wikidata coordinates (no distinct OSM station node found for the intermediates). OMITTED: the 103/104 omnibus (42 stops) - no source enumerates its intermediate halts, so per the no-invented-stops rule it is not included rather than fabricated. The Douala-Ngaoundere and Douala-Kumba/Mbanga lines are out of scope for this Douala passenger feed. Railway Gazette source returned HTTP 403; its content was recovered via web search (original 2014 InterCity launch schedule, superseded by current times). Calendar spans full year 2026, all days (both routes run daily per current schedule).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Airport Express Bus (AEB) - operated by Phnom Penh City Bus / Phnom Penh City Hall",
+  "city": "Phnom Penh",
+  "cc": "KH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 6,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 36
+  },
+  "notes": "Built from the official Techo Airport transportation page and Khmer Times announcement (both primary/official), cross-checked with Nomadic Notes traveler guide. Service launched 2025-09-09; operator is Phnom Penh City Bus under Phnom Penh City Hall. Operating window 05:30-23:30 daily, confirmed across all sources. Route is a single bidirectional express line: City<->Airport via Monivong Blvd -> Morodok Techo Flyover -> Samdech Techo Hun Sen Blvd. Fare 1,500 KHR (~0.37 USD).\n\nSTOPS: Modeled the 6 evidenced, officially-coded stops (2 termini + 4 named intermediate stops). Termini: Kouch Kanong Roundabout Bus Station and Techo International Airport. Intermediate (official Khmer Times/airport list, each with paired directional station codes AEB01-08): Canadia Park/Royal Railway (AEB01/02), Royal University of Law & Economics (AEB03/04), Hun Sen Blvd @ BRED Bank (AEB05/06), Hun Sen Blvd @ AEON Mall Mean Chey (AEB07/08). Nomadic Notes lists a slightly different traveler-observed stop set (R&F City, University of Health Sciences) that conflicts with the official list; I used the official coded stops and did not invent the divergent ones.\n\nFREQUENCY: Sources conflict - Nomadic Notes says ~hourly; airport-site-referenced timetable and other sources say every 10 min both directions. The published timetable image was not machine-readable, so exact clock times per stop are NOT reproduced from source. I emitted 3 representative trips per direction (first ~05:30, midday, last ~23:00) with interpolated realistic times over the ~75-min run (rush-hour ~1h15). A real feed at 10-min headway would have ~108 trips/direction.\n\nCOORDINATES: stop_lat/lon are approximate, geocoded from OSM/landmark knowledge along the Monivong -> Hun Sen Blvd corridor (Techo Airport 11.3629,104.9166 is well-attested). Intermediate stop coords are landmark-level approximations, not surveyed bus-stop points.\n\nCONFIDENCE 0.55: operator, route corridor, stop names/order, service window, launch date and fare are well-evidenced; but exact departure times per stop, true headway, and precise stop coordinates are approximated/interpolated, and there is a genuine stop-list discrepancy between the official and traveler sources.",
+  "source": "llm-normalized"
+}

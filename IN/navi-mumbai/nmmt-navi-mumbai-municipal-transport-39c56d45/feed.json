@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NMMT (Navi Mumbai Municipal Transport)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Navi Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navi-mumbai/nmmt-navi-mumbai-municipal-transport/gtfs/",
+    "mdb_id": "in-llm-nmmt-navi-mumbai-municipal-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

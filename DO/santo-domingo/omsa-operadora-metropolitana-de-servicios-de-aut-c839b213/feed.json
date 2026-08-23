@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OMSA - Operadora Metropolitana de Servicios de Autobuses",
+    "country": "DO",
+    "subdivision": null,
+    "city": "Santo Domingo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/omsa-operadora-metropolitana-de-servicios-de-aut/gtfs/",
+    "mdb_id": "do-llm-omsa-operadora-metropolitana-de-servicio",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

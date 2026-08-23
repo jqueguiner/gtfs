@@ -1,0 +1,14 @@
+{
+  "operator": "NMMT (Navi Mumbai Municipal Transport)",
+  "city": "Navi Mumbai",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 14,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 42
+  },
+  "notes": "Feed assembled from HTML sources: ilovenavimumbai.com (NMIA airport shuttle routes A-1..A-5, fully evidenced with first/last bus, frequency, fare and stops), citybuses.in + navimumbai.com (route list; 125AC Borivali(E)<->Ove Gaon CISF endpoints + named intermediate stops + timings), citybuses.in 144AC (Airoli Bus Station<->Agarkar Chowk Andheri E endpoints). Moovit line pages were JS-rendered and returned empty to WebFetch, so full 120-stop sequences could not be scraped. Coordinates geocoded from Wikipedia/Wikidata station pages (Vashi, Nerul, CBD Belapur, Kharghar, Panvel, Airoli, Koparkhairane, Khandeshwar, Kharkopar, Targhar, NMIA) and locality centroids (Pushpak Nagar, Ulwe, Agarkar Chowk Andheri E — approximate).\n\nCONFIDENCE 0.42 rationale: The 5 NMIA airport shuttle routes are well-evidenced (real stops, real first/last bus, real headways) => high fidelity. The 125AC and 144AC trunk routes have evidenced endpoints and timings but only PARTIAL stop sequences (the sources state 120 stops for 125AC but the full ordered list was not retrievable), so their intermediate stop_times are INTERPOLATED across evidenced named stops, not exact schedule times. navimumbai.com lists 80+ route numbers but with NO stop sequences and NO times — those are NOT included (would require inventing stops). Only routes with real evidenced stops are included here.\n\nStop times: airport shuttles use the evidenced first-bus departure per direction with segment travel times from the source (e.g. A-3 Belapur->Targhar Link 12min->NMIA 20min total; A-5 Khandeshwar->Pushpak Nagar 10min->NMIA 18min total). 125AC/144AC use evidenced first bus (07:30 / typical AC start) with even interpolation across the ~164min trip. Several coordinates for interior 125AC stops (Borivali market, Magathane, Malad, Goregaon, Jogeshwari, Powai, Kanjurmarg, Bhandup) were not individually geocoded and are left null. Calendar = daily service (7 days) per source (services run every day 05:30-23:00).",
+  "source": "llm-normalized"
+}

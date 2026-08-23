@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OPRET - Teleférico de Santo Domingo",
+    "country": "DO",
+    "subdivision": null,
+    "city": "Santo Domingo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/opret-teleferico-de-santo-domingo/gtfs/",
+    "mdb_id": "do-llm-opret-teleferico-de-santo-domingo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

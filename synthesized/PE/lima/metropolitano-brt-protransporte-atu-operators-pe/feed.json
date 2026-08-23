@@ -1,0 +1,14 @@
+{
+  "operator": "Metropolitano (BRT) — Protransporte/ATU (operators: Perú Masivo, Lima Bus Internacional 1, Lima Vías Express, Transvial Lima)",
+  "city": "Lima",
+  "cc": "PE",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 44,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 160
+  },
+  "notes": "Sources: metropolitano.gob.pe, atu.gob.pe, tumetropolitanoperu.com/horario + /estaciones, metrolima.net/.info. Trunk corridor = 44 ordered stations Chimpu Ocllo→Matellini (north-to-south) confirmed from tumetropolitanoperu.com/estaciones. Service hours per route (A/B/C/D, Lechucero) taken directly from tumetropolitanoperu.com/horario. Coordinates: 4 stations anchored to Wikidata (Naranjal -11.9818/-77.0588, Central -12.0577/-77.0359, Estadio Nacional -12.0689/-77.0320, Matellini -12.1793/-77.0099); remaining stations geocoded by interpolation along the known corridor (Av. Túpac Amaru north, Alfonso Ugarte/centro, Vía Expresa Paseo de la República south) using published intersection descriptions — coordinates are approximate (±few hundred m) not surveyed. WHAT IS FAITHFUL: station list + order, per-route terminals, service spans/days. WHAT IS APPROXIMATED: exact stop lat/lon for non-anchor stations; stop_times use even headways across the documented service window (real Metropolitano is frequency-based, no published fixed timetable) — headway 6min for trunk regulars in service window is a reasonable BRT estimate, not a scraped timetable. Express (Expreso 1-12), Super Expreso and ~23 Alimentadora feeder routes: only partial stop patterns were recoverable from sources (Expreso 1 e.g. Naranjal-El Milagro-Central-Javier Prado-Angamos-Ricardo Palma-Plaza de Flores); feeders serve off-corridor street stops whose coordinates are NOT evidenced, so feeders are NOT included (would require inventing stops). Modeled here: regular trunk routes A, B, C, D + Expreso 1 + Lechucero, each with one representative trip per direction. This is a partial, corridor-only feed. Carabayllo extension stations (Chimpu Ocllo..Universidad) included in stop list (now operational per sources) but only route B is modeled over them. Do not treat stop_times as an official timetable.",
+  "source": "llm-normalized"
+}

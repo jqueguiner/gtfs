@@ -1,0 +1,14 @@
+{
+  "operator": "Metro de Lima y Callao — Línea 1 (concessionaire GyM Ferrovías / lineauno.pe; asset owner AATE/ATU)",
+  "city": "Lima",
+  "cc": "PE",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 26,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 104
+  },
+  "notes": "Lima Metro Línea 1 (Villa El Salvador ↔ Bayóvar), 26 stations, route_type=1 (metro). STOPS: 23 of 26 station coordinates pulled directly from OpenStreetMap railway=station nodes via Overpass API (matched by name, ordered along the corridor). The 3 southernmost terminus stations (Villa El Salvador, Parque Industrial, Pumacahua) use well-established published coordinates — Overpass rate-limited before I could fetch them, but they are consistent with the corridor geometry and standard references. Station name \"Arriola\" is given its official name \"Nicolás Arriola\". The future interconnection station \"28 de Julio / Veintiocho de Julio\" (L1↔L2) is NOT included as it is not yet operational — matching the 26-station operational count. SCHEDULE: Sources lineauno.pe/horarios and metrolima.net were blocked (HTTP 403 / bot-verification), so service parameters come from Google-indexed extracts of those same official pages plus Spanish Wikipedia. Service span: Mon-Sat ~05:00-22:00 (last departures 22:00 from termini), Sun/holidays ~06:00-22:00. End-to-end run time 54 min (official). Peak headway 3-6 min, off-peak 6-12 min. TRIPS: Per the task spec I provide one representative trip per direction per service type (4 trips total) rather than a full frequency-expanded timetable; stop_times use realistic clock times with per-hop travel distributed proportionally to inter-station great-circle distance summing to the official 54-min run time. CALENDAR window 2026-06-08 to 2026-09-30 reflects the ATU reinforced-service programme currently in effect (per Infobae/ATU); holidays are approximated by the Sunday service and no calendar_dates exceptions were added. GTFS files also written to /home/ubuntu/adresses/gtfs_lima_l1/ (agency.txt, stops.txt, routes.txt, trips.txt, stop_times.txt, calendar.txt) and validated for referential integrity + monotonic times.",
+  "source": "llm-normalized"
+}

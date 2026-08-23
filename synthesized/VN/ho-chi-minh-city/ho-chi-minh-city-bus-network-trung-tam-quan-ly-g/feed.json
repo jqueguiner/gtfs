@@ -1,0 +1,14 @@
+{
+  "operator": "Ho Chi Minh City bus network (Trung tâm Quản lý Giao thông công cộng / Management Centre of Public Transport, MCPT)",
+  "city": "Ho Chi Minh City",
+  "cc": "VN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 224,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 288
+  },
+  "notes": "Stops, ordered stop sequences, route refs/from/to/operator and route geometry come from OpenStreetMap route=bus relations under network 'Xe buýt Thành phố Hồ Chí Minh' (322 relations found via Overpass; the network's official operator is MCPT with services run by FUTA/Phương Trang, SaigonBus, VinBus and HTX co-ops). Stop names and lat/lon are real OSM platform-node coordinates — no invented stops. This emitted feed is a representative subset of 8 well-known routes (01, 03, 04, 14, 18, 33, 53, 109), both directions each, capped at 18 stops per direction to keep the payload tractable; the full pipeline covers all 322 relations / ~916 unique stops. buyttphcm.com.vn (the official schedule site, both /en-us/Route and /RouteFinding) returned HTTP 403 to the fetcher, so exact per-trip timetables could not be scraped; service hours (first trip) come from the Vietnamese Wikipedia route list, and stop_times are synthesized as a single representative trip per direction starting at the route's first-departure time with an even 2-minute inter-stop spacing (not real per-stop clock times). Inbound (direction 1) sequences are the OSM-ordered outbound platforms reversed where a distinct return relation was not fetched. Frequency/headway data exists (Wikipedia) but is not expanded into multiple trips. Confidence 0.55: stops and topology are high-fidelity from OSM; the timetable is approximate.",
+  "source": "llm-normalized"
+}

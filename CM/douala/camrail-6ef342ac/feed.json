@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Camrail",
+    "country": "CM",
+    "subdivision": null,
+    "city": "Douala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CM/douala/camrail/gtfs/",
+    "mdb_id": "cm-llm-camrail",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

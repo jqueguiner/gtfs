@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitano (BRT) — Protransporte/ATU (operators: Perú Masivo, Lima Bus Internacional 1, Lima Vías Express, Transvial Lima)",
+    "country": "PE",
+    "subdivision": null,
+    "city": "Lima"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PE/lima/metropolitano-brt-protransporte-atu-operators-pe/gtfs/",
+    "mdb_id": "pe-llm-metropolitano-brt-protransporte-atu-oper",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "TMT (Thane Municipal Transport)",
+  "city": "Thane (Mumbai Metropolitan Region)",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 56,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 138
+  },
+  "notes": "Sources: thaneweb.com route table + per-route stop pages (routes 1, 6, 7, 16 fully ordered), citybustimetable.com and buskosh.app route lists, Moovit line index. Route universe on thaneweb spans ~AC58/AC65/AC125/AC126 + numbered 1-140 (70+ routes); only 4 routes had reliably scrapeable ordered stop lists, so the feed materializes those 4 as representative trips in both directions. Timings: route 7 uses the 8 exact published departure times; routes 6 and 16 use even headways across the published first/last-bus window (6: 04:06-26:11 ~10 min; 16: 05:30-23:15 ~20 min); route 1 had no published times, so an even 20-min headway is applied over the site-wide 06:30-23:30 service window (from Moovit). Stop coordinates: major hubs (Thane Station, Yeoor, Upvan/neighborhoods) geocoded from web/known coords; intermediate Thane-West neighborhood stops approximated from local geography; a few obscure stops left null. inter-stop segment times estimated (~2-3 min urban spacing). No stops invented beyond those listed on source pages. Confidence 0.42: route+stop topology for the 4 materialized routes is well evidenced, but exact per-stop schedule times and precise stop coordinates are largely reconstructed, and the feed covers only 4 of ~100 TMT routes.",
+  "source": "llm-normalized"
+}

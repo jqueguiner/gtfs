@@ -1,0 +1,14 @@
+{
+  "operator": "Bangladesh Railway",
+  "city": "Dhaka",
+  "cc": "BD",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 13,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 28
+  },
+  "notes": "Two commuter routes built from aggregator schedules + Wikipedia station sequences + government-portal corridor. TERMINAL times are evidenced from sources; INTERMEDIATE stop times are interpolated (linear along the corridor) because no source publishes per-station times for commuter trains — this is the main confidence limiter. Turag Commuter stop sequence (Kamalapur-Tejgaon-Banani-Airport-Tongi-Dhirashram-Joydebpur) is from BSS/TBS/Wikipedia (Wikipedia says 6 stops; the morning down-train skips some stops but the representative trip uses the full evidenced stop list). Narayanganj Commuter 7-station sequence is directly from Wikipedia (Narayanganj-Chashara-Fatulla-Pagla-Shyampur Baraitala-Gandaria-Kamalapur). All coordinates are from OSM/Wikidata station nodes. Representative trips: 1 per direction per route. Turag: Fri off. Narayanganj: runs daily (Wikipedia) though one aggregator says Fri off — kept daily per Wikipedia. route_type=2 (rail). Other listed commuters (Joydebpur/Tangail/Mohua/Jamalpur) share the same Dhaka-Joydebpur corridor/stops and are not modeled as separate routes here since only headline endpoint times, not stop sequences, are evidenced for them; they are represented by the Turag corridor route. Agency URL is the BR government portal.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "LRT Line 2 — LRTA (operated via LRMC O&M)",
+  "city": "Manila",
+  "cc": "PH",
+  "confidence": 0.7,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 52
+  },
+  "notes": "13-station LRT-2 (Recto<->Antipolo, Purple Line). Station order corroborated across all three sources (expressway.ph, Wikipedia, projectligtas.com) plus topgear/LTO portal. Service: daily from 05:00; last departure 21:30 weekdays / 21:00 weekends (projectligtas). Peak headway ~4 min. Coordinates: Recto and Antipolo terminals from Wikipedia station infoboxes; the 11 intermediate stops from the OpenStreetMap light_rail route relation 8000264 (Recto->Antipolo) stop-role nodes. route_type=1 (metro/rapid transit; LRT-2 is fully grade-separated heavy-capacity). One representative trip per direction per service period (4 trips). Inter-station running time modeled at ~3 min + 30s dwell -> ~42 min end-to-end (real end-to-end ~40 min for 13.8 km). Operator is LRTA; O&M via LRMC per prompt. Holy Week closures and holiday schedule adjustments not modeled (would need calendar_dates). Only 4 seed trips are provided (not the full ~4-min-headway timetable), so this is a schema-valid representative feed rather than a full published timetable -- hence confidence 0.7.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "LRT Line 1 — Light Rail Manila Corporation (LRMC)",
+  "city": "Manila",
+  "cc": "PH",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 25,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 100
+  },
+  "notes": "GTFS for LRT-1 (Manila Light Rail Transit Line 1), operated by Light Rail Manila Corporation. Modeled as the full current network: Fernando Poe Jr. (north terminus, formerly Roosevelt) to Dr. Santos (south terminus), 25 stations, including the 5 Cavite Extension Phase 1 stations (Redemptorist–Aseana, MIA Road, PITX, Ninoy Aquino Avenue, Dr. Santos) opened 16 Nov 2024. route_type=1 (metro/light-metro; LRT-1 is a grade-separated heavy-headway urban rail line).\n\nService hours (effective 26 Mar 2025 extension): Weekdays first train 04:30, last train leaves Fernando Poe Jr. 22:45 / Dr. Santos 22:30. Weekends/holidays first train 05:00, last train FPJ 21:45 / Dr. Santos 21:30. Headway 3-5 min peak, 5-8 min off-peak, 8-10 min late evening (all trains stop at every station; no express).\n\nRepresentative trips: rather than enumerate the ~200+ daily runs, each service pattern (weekday, weekend) gets one representative southbound trip (FPJ->Dr. Santos) and one northbound trip (Dr. Santos->FPJ), with ordered stop_times using realistic cumulative running times (~55 min end-to-end across 25 stations, ~2 min inter-station + dwell). A full production feed would use frequencies.txt or expand these across the service span at the stated headways; that expansion is omitted here but the pattern (stop order, dwell, endpoints, span) is faithful.\n\nCoordinates from OSM / Wikidata / Wikipedia station infoboxes (decimal deg). Source note: the expressway.ph guide lists only the legacy 20-station Roosevelt–Baclaran line; Wikipedia + LRMC + PIA/PNA confirm the current 25-station FPJ–Dr. Santos network and the Mar-2025 extended hours, which is what is modeled. PIA source URL returned HTTP 403; hours corroborated via LRMC/PNA/Rappler/Manila Times. Confidence 0.72: station list, order, coordinates, endpoints and service span are well-evidenced; exact per-trip clock times are representative (headway-derived), not scraped from a published timetable (LRT-1 publishes hours+frequency, not a fixed timetable).",
+  "source": "llm-normalized"
+}
