@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Westerschelde Ferry",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-op-cac8e3adf0",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "ovapi#agency",
+  "status": "active"
+}

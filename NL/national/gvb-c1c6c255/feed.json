@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GVB",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-op-f6cecf2b44",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "ovapi#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "WaterShuttle",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-op-83d3a06fb2",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "ovapi#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NMBS",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-op-cb38fbefc0",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "ovapi#agency",
+  "status": "active"
+}

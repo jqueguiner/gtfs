@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bravo",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-op-01a2da07bf",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "ovapi#agency",
+  "status": "active"
+}
