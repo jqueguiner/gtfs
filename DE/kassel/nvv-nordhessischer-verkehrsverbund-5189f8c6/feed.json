@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NVV (Nordhessischer VerkehrsVerbund)",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Kassel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opendata-oepnv.de/dataset/4c35703c-62d2-463a-8f8d-014594ab6e30/resource/14c51276-9f32-448b-a3bd-57404cb491c0/download/gtfs-b.zip",
+    "mdb_id": "de-eu-nvv-nordhessischer-verkehrsverbund",
+    "license": "DL-DE-BY-2.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

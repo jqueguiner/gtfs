@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTM SpA Cagliari",
+    "country": "IT",
+    "subdivision": "Sardegna",
+    "city": "Cagliari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://flashnetctm.miz.it/download/gtfs/estrazione_gtfs.zip",
+    "mdb_id": "it-eu-ctm-spa-cagliari",
+    "license": "CC BY 3.0 IT"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TUVISA (urban bus)",
+    "country": "ES",
+    "subdivision": "Euskadi",
+    "city": "Vitoria-Gasteiz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/TUVISA/google_transit.zip",
+    "mdb_id": "es-eu-tuvisa-urban-bus",
+    "license": "Open Data Euskadi (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

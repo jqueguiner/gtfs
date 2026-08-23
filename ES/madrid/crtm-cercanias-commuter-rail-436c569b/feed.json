@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CRTM - Cercanias (commuter rail)",
+    "country": "ES",
+    "subdivision": "Comunidad de Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://crtm.maps.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data",
+    "mdb_id": "es-eu-crtm-cercanias-commuter-rail",
+    "license": "CRTM Open Data (datos.crtm.es)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

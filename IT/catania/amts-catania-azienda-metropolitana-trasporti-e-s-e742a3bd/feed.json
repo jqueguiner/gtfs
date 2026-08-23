@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AMTS Catania (Azienda Metropolitana Trasporti e Sosta)",
+    "country": "IT",
+    "subdivision": "Sicilia",
+    "city": "Catania"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.amts.ct.it/GTFS/AMTCT.zip",
+    "mdb_id": "it-eu-amts-catania-azienda-metropolitana",
+    "license": "IODL 2.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

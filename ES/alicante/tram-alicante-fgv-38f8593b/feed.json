@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TRAM Alicante (FGV)",
+    "country": "ES",
+    "subdivision": "Comunitat Valenciana",
+    "city": "Alicante"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.tramalicante.es/google_transit_feed/google_transit.zip",
+    "mdb_id": "es-eu-tram-alicante-fgv",
+    "license": "FGV / Generalitat Valenciana open data"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Busitalia Veneto (BIV) — tram (SIR lines)",
+    "country": "IT",
+    "subdivision": "Veneto",
+    "city": "Padua"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-biv.fsbusitalia.com/GTFS-BIV-TRAM/gtfs-biv-tram.zip",
+    "mdb_id": "it-eu-busitalia-veneto-biv-tram-sir-line",
+    "license": "CC BY"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

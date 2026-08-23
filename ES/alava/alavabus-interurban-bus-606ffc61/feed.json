@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alavabus (interurban bus)",
+    "country": "ES",
+    "subdivision": "Euskadi",
+    "city": "Alava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/Alavabus/google_transit.zip",
+    "mdb_id": "es-eu-alavabus-interurban-bus",
+    "license": "Open Data Euskadi (CC BY 4.0)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

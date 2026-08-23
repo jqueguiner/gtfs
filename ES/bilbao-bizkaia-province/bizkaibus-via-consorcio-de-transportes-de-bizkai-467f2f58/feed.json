@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bizkaibus (via Consorcio de Transportes de Bizkaia)",
+    "country": "ES",
+    "subdivision": "Pais Vasco / Bizkaia",
+    "city": "Bilbao (Bizkaia province)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bizkaibus.zip",
+    "mdb_id": "es-eu-bizkaibus-via-consorcio-de-transpo",
+    "license": "CTB / Open Data Euskadi"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

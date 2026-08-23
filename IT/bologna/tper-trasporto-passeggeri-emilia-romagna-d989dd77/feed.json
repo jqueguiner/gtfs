@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TPER (Trasporto Passeggeri Emilia-Romagna)",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "city": "Bologna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20260709&format=zip",
+    "mdb_id": "it-eu-tper-trasporto-passeggeri-emilia-r",
+    "license": "CC BY 3.0 IT"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

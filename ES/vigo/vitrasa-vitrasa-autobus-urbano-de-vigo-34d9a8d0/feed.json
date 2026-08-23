@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vitrasa (Vitrasa, autobus urbano de Vigo)",
+    "country": "ES",
+    "subdivision": "Galicia",
+    "city": "Vigo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datos.vigo.org/data/transporte/gtfs_vigo.zip",
+    "mdb_id": "es-eu-vitrasa-vitrasa-autobus-urbano-de-",
+    "license": "Concello de Vigo Open Data (CKAN)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

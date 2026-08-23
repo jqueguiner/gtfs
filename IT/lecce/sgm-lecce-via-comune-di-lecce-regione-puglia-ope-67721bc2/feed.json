@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SGM Lecce (via Comune di Lecce / Regione Puglia open data)",
+    "country": "IT",
+    "subdivision": "Puglia",
+    "city": "Lecce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.sgmlecce.it/images/Servizi_trasparenti/GTFS/google_transit.zip",
+    "mdb_id": "it-eu-sgm-lecce-via-comune-di-lecce-regi",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

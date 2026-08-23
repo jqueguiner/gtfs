@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TITSA (Transportes Interurbanos de Tenerife)",
+    "country": "ES",
+    "subdivision": "Canarias",
+    "city": "Santa Cruz de Tenerife"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.titsa.com/Google_transit.zip",
+    "mdb_id": "es-eu-titsa-transportes-interurbanos-de-",
+    "license": "datos.tenerife.es open data"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

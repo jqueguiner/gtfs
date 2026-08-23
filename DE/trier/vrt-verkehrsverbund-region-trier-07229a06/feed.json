@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRT Verkehrsverbund Region Trier",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Trier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vrt-info.de/downloads/2025_gtfs_250408",
+    "mdb_id": "de-eu-vrt-verkehrsverbund-region-trier",
+    "license": "Datenlizenz Deutschland Namensnennung 2.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

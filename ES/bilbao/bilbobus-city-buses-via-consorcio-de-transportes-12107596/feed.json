@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bilbobus (city buses, via Consorcio de Transportes de Bizkaia)",
+    "country": "ES",
+    "subdivision": "Pais Vasco / Bizkaia",
+    "city": "Bilbao"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bilbobus.zip",
+    "mdb_id": "es-eu-bilbobus-city-buses-via-consorcio-",
+    "license": "CTB / Open Data Euskadi"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

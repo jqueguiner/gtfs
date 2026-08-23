@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MVV (Münchner Verkehrs- und Tarifverbund)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Munich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mvv-muenchen.de/fileadmin/mediapool/developer/opendata/gesamt_gtfs.zip",
+    "mdb_id": "de-eu-mvv-munchner-verkehrs-und-tarifver",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

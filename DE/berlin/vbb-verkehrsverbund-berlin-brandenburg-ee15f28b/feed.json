@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VBB (Verkehrsverbund Berlin-Brandenburg)",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vbb.de/vbbgtfs",
+    "mdb_id": "de-vbb-berlin",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-direct",
+  "status": "active"
+}

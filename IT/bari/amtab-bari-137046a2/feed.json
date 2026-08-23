@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AMTAB Bari",
+    "country": "IT",
+    "subdivision": "Puglia",
+    "city": "Bari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.comune.bari.it/dataset/1692384a-748f-47f6-b372-42cca9eaeba0/resource/b40d89da-7499-4703-ab30-80f4344fb2e7/download/google_transit.zip",
+    "mdb_id": "it-eu-amtab-bari",
+    "license": "CC BY"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

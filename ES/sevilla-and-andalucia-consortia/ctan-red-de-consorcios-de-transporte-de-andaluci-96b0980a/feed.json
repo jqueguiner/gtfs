@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTAN - Red de Consorcios de Transporte de Andalucia (incl. Consorcio de Sevilla)",
+    "country": "ES",
+    "subdivision": "Andalucia",
+    "city": "Sevilla (and Andalucia consortia)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip",
+    "mdb_id": "es-eu-ctan-red-de-consorcios-de-transpor",
+    "license": "CTAN / Junta de Andalucia open data"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

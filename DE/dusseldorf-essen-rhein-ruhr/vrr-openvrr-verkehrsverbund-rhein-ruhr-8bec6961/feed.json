@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRR / openVRR (Verkehrsverbund Rhein-Ruhr)",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Düsseldorf/Essen (Rhein-Ruhr)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.opendata-oepnv.de/dataset/496eea5d-d6ef-4dc2-aeb0-d15c4fbf3178/resource/384d7949-4cc2-49c4-9529-68cb6eff4a8d/download/20250715_gtfs_vrr_od.zip",
+    "mdb_id": "de-eu-vrr-openvrr-verkehrsverbund-rhein-",
+    "license": "DL-DE-BY-2.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

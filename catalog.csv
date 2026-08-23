@@ -122,6 +122,7 @@ BR,Itupeva,Sptrans,http://www.sptrans.com.br/umbraco/Surface/PerfilDesenvolvedor
 BR,Nilopolis,Fetranspor,http://dadosabertos2.rio.rj.gov.br/dadoaberto/google-transit/google_transit.zip,f-75cj-fetranspor,http://data.rio/dataset/onibus-gtfs/resource/2de80207-ae46-4955-8adb-9eee0c89febb,active
 BR,Porto Alegre,EPTC Porto Alegre (via World Bank Data Catalog),https://datacatalogfiles.worldbank.org/ddh-published/0038243/1/DR0046590/gtfs_porto_alegre_2020.zip,br-dork-eptc-porto-alegre-via-world-bank-dat,,active
 BR,Porto Alegre,Empresapublicadetransportesecirculação,https://dadosabertos.poa.br/dataset/1fe9c2c1-9fbe-48ea-841b-61e30597ecd6/resource/b3bce61f-78ee-49eb-be57-6236d82bd5e0/download/arquivo-gtfs.zip,f-6fes-empresapublicadetransportesecirculação,CC-BY-4.0,active
+BR,Recife,Grande Recife Consórcio de Transporte,https://www.granderecife.pe.gov.br/gtfs/gtfs.zip,br-eu-grande-recife-consorcio-de-transpo,unknown,active
 BR,Região Metropolitana de Belo Horizonte,Empresa de Transportes e Transito de Belo Horizonte (BHTRANS),https://ckan.pbh.gov.br/dataset/77764a7e-63fc-4111-ace3-fb7d3037953a/resource/f0fa78dc-74c3-49fa-8971-c310a76a07fa/download/gtfsfiles.zip,mdb-9,https://dados.pbh.gov.br/dataset/gtfs-estatico-do-sistema-convencional,active
 BR,Região Metropolitana de Belo Horizonte,Empresa de Transportes e Transito de Belo Horizonte (BHTRANS),https://ckan.pbh.gov.br/dataset/af0c47bb-5a82-4ae1-874f-e45dea1397ff/resource/b2a9341e-4471-45cc-a8c0-11be805590bc/download/gtfsfiles.zip,mdb-687,https://dados.pbh.gov.br/dataset/feed-gtfs-estatico-do-sistema-suplementar,active
 BR,Região Metropolitana de Curitiba,URBS Curitiba,https://github.com/benaytms/urbs-gtfs/releases/download/latest/gtfs_curitiba.zip,mdb-3225,,active
@@ -368,28 +369,40 @@ DE,Aachen,"Rurtalbahn GmbH, ABELLIO Rail, VIAS GmbH, Aachener Straßenbahn und E
 DE,Aschaffenburg,NVBW - Nahverkehrsgesellschaft Baden-Württemberg mbH,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/bwgesamt.zip,mdb-2393,https://www.nvbw.de/open-data/lizenz,active
 DE,Baden-Württemberg,"Regional Bus Stuttgart GmbH RBS, FMO, Regiobus Stuttgart, Friedrich Müller Omnibusunternehmen",https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/rbs.zip,mdb-1093,,active
 DE,Baden-Württemberg,SBG,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/sbg.zip,mdb-918,,active
+DE,Bautzen/Görlitz,ZVON Verkehrsverbund Oberlausitz-Niederschlesien,https://katalog.opendata.sachsen.de/store/6/resource/44,de-eu-zvon-verkehrsverbund-oberlausitz-n,Datenlizenz Deutschland (GovData Soll-Fahrplandaten ZVON),active
 DE,Berlin,VBB (Verkehrsverbund Berlin-Brandenburg),https://vbb-gtfs.jannisr.de/latest/GTFS.zip,de-disc-3,,active
+DE,Berlin,VBB (Verkehrsverbund Berlin-Brandenburg),https://www.vbb.de/vbbgtfs,de-vbb-berlin,,active
 DE,Berlin,Verkehrsverbund Berlin-Brandenburg (VBB),http://vbb.de/vbbgtfs,mdb-782,http://vbb.de/vbbgtfs,active
 DE,Berlin,Verkehrsverbund Berlin-Brandenburg (VBB),https://unternehmen.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-mastscharf/GTFS.zip,mdb-3233,https://creativecommons.org/licenses/by/4.0/deed.en,active
+DE,Chemnitz,VMS Verkehrsverbund Mittelsachsen,https://www.vms.de/GTFS_VMS.zip,de-eu-vms-verkehrsverbund-mittelsachsen,CC BY 4.0,active
 DE,Cologne,Verkehrsverbund Rhein-Sieg (VRS),http://download.vrsinfo.de/gtfs/google_transit.zip,mdb-778,https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice,active
+DE,Cologne/Bonn,VRS (Verkehrsverbund Rhein-Sieg),http://download.vrsinfo.de/gtfs/GTFS_VRS_mit_SPNV.zip,de-eu-vrs-verkehrsverbund-rhein-sieg,CC-BY-4.0,active
+DE,Düsseldorf/Essen (Rhein-Ruhr),VRR / openVRR (Verkehrsverbund Rhein-Ruhr),https://www.opendata-oepnv.de/dataset/496eea5d-d6ef-4dc2-aeb0-d15c4fbf3178/resource/384d7949-4cc2-49c4-9529-68cb6eff4a8d/download/20250715_gtfs_vrr_od.zip,de-eu-vrr-openvrr-verkehrsverbund-rhein-,DL-DE-BY-2.0,active
 DE,Elbe-Elster,Verkehrsverbund Berlin-Brandenburg (VBB),https://unternehmen.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-flex.zip,mdb-3234,https://creativecommons.org/licenses/by/4.0/deed.en,active
 DE,Freiburg,SWEG Markgräflerland,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/sweg.zip,mdb-1084,,active
 DE,Freiburg im Breisgau,"Freiburger Verkehrs AG (VAG), R.A.S.T. Reisen (RAST), Tuniberg Express",https://www.vag-freiburg.de/fileadmin/gtfs/VAGFR.zip,mdb-1115,https://www.vag-freiburg.de/service-infos/downloads/gtfs-daten,active
+DE,Hamburg,HVV (Hamburger Verkehrsverbund),https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/1a176fcb-4971-4baf-bae8-545dc9d4454d/Upload__hvv_Rohdaten_GTFS_Fpl_20250505.ZIP,de-eu-hvv-hamburger-verkehrsverbund,DL-DE-BY-2.0,active
 DE,Hamburg,Hamburger Verkehrsverbund GmbH (HVV),https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/f0073555-962c-4d55-870e-b94bb676ad9d/Upload__hvv_Rohdaten_GTFS_Fpl_20260408.ZIP,mdb-3362,https://www.govdata.de/dl-de/by-2-0,active
 DE,Hügelsheim,Karlsruher Verkehrsverbund,https://projekte.kvv-efa.de/GTFS/google_transit.zip,mdb-2231,https://www.kvv.de/fahrplan/fahrplaene/open-data.html,active
+DE,Kassel,NVV (Nordhessischer VerkehrsVerbund),https://api.opendata-oepnv.de/dataset/4c35703c-62d2-463a-8f8d-014594ab6e30/resource/14c51276-9f32-448b-a3bd-57404cb491c0/download/gtfs-b.zip,de-eu-nvv-nordhessischer-verkehrsverbund,DL-DE-BY-2.0,active
 DE,Landkreis Bad Dürkheim,Rhein-Neckar-Verkehr,https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip,mdb-777,https://opendata.rnv-online.de/dataset/gtfs-general-transit-feed-specification,active
 DE,Landkreis Bad Kissingen,Verkehrsverbund Mittelthüringen (VMT),https://www.vmt-thueringen.de/fileadmin/VMT_Redaktion/OPEN_DATA/VMT_GTFS.zip,mdb-1172,https://creativecommons.org/licenses/by-nd/2.0/de/,active
 DE,Landkreis Böblingen,Verkehrsverbund Pforzheim-Enzkreis (VPE),https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vpe.zip,mdb-1085,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Landkreis Donau-Ries,Hofmann Omnibusverkehr GmbH,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/kvsh.zip,mdb-1082,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Landkreis Schwäbisch Hall,Ver­kehrs­ver­bund Groß­raum Nürn­berg (VGN),http://www.vgn.de/opendata/GTFS.zip,mdb-858,,active
+DE,Leipzig,MDV Mitteldeutscher Verkehrsverbund (mdv_mastscharf_gtfs.zip),https://www.mdv.de/media/file/d2afbc63,de-eu-mdv-mitteldeutscher-verkehrsverbun,CC BY 4.0 DE,active
 DE,Leipzig,Mitteldeutscher Verkehrsverbund GmbH (MDV),https://www.mdv.de/site/uploads/gtfs_mdv.zip,mdb-2360,https://creativecommons.org/licenses/by/4.0/deed.de,active
 DE,Meißen,Polish Trains,https://mkuran.pl/gtfs/polish_trains.zip,mdb-3191,https://bip.plk-sa.pl/ponowne-wykorzystywanie,active
+DE,Munich,MVV (Münchner Verkehrs- und Tarifverbund),https://www.mvv-muenchen.de/fileadmin/mediapool/developer/opendata/gesamt_gtfs.zip,de-eu-mvv-munchner-verkehrs-und-tarifver,CC-BY-4.0,active
 DE,Munich,Münchner Verkehrsgesellschaft (MVG),https://www.mvg.de/static/gtfs/google_transit.zip,mdb-2333,https://www.mvg.de/verbindungen/Fahrplandaten.html,active
 DE,Nationwide (all Germany),DELFI GTFS official / community mirror,https://scraped.data.public-transport.earth/de/gtfs.zip,de-disc-2,,active
+DE,Nuremberg,VGN (Verkehrsverbund Großraum Nürnberg),https://www.vgn.de/opendata/GTFS.zip,de-eu-vgn-verkehrsverbund-groraum-nurnbe,CC-BY-3.0-DE,active
 DE,Schleswig-Flensburg,Flixbus,https://opendata.samtrafiken.se/gtfs/flixbus/flixbus.zip,mdb-3261,https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence,active
 DE,Stuttgart,"OVA-Aalen, OVA-Bopfingen, Beck+Schubert",https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/oam.zip,mdb-772,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Stuttgart,Schweizer Reisen,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/vgf.zip,mdb-774,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Stuttgart,VOLZ,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vgc.zip,mdb-906,,active
+DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart),https://api.opendata-oepnv.de/dataset/d1768457-c717-45ea-8e26-dd1e759d5ffe/resource/c38da9e6-22bf-4504-a9f8-163a5d1b250b/download/gtfs_j26.zip,de-eu-vvs-verkehrs-und-tarifverbund-stut,CC-BY,active
+DE,Trier,VRT Verkehrsverbund Region Trier,https://www.vrt-info.de/downloads/2025_gtfs_250408,de-eu-vrt-verkehrsverbund-region-trier,Datenlizenz Deutschland Namensnennung 2.0,active
 DE,Trier,Verkehrsverbund Rhein-Neckar,https://geoportal.vrn.de/services/sharing/rest/content/items/4ec4b1d131eb46a6bb8e216ce9b90eff/data,mdb-1173,https://www.vrn.de/opendata/datasets/soll-fahrplandaten-gtfs-aktuell,active
 DE,Tuttlingen,TuTicket,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/tuticket.zip,mdb-920,,active
 DE,Ulm,DB ZugBus Regionalverkehr Alb-Bodensee,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rab.zip,mdb-773,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
@@ -917,9 +930,11 @@ ES,A Coruña,La Coruña Tram Company SA,https://nap.transportes.gob.es/api/Fiche
 ES,Abenójar,Samar Buses,https://nap.transportes.gob.es/api/Fichero/download/1165,mdb-2712,https://nap.transportes.gob.es/licencia-datos,active
 ES,Alacant / Alicante,Vectalia Movilidad (Alicante city buses),https://nap.transportes.gob.es/api/Fichero/download/1607,mdb-2822,https://nap.transportes.gob.es/licencia-datos,active
 ES,Alaquas,Emtvalencia,https://nap.transportes.gob.es/api/Fichero/download/1166,f-ezp8-emtvalencia,https://nap.transportes.gob.es/licencia-datos,active
+ES,Alava,Alavabus (interurban bus),ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/Alavabus/google_transit.zip,es-eu-alavabus-interurban-bus,Open Data Euskadi (CC BY 4.0),active
 ES,Alba de Yeltes,Viagón Coaches,https://nap.transportes.gob.es/api/Fichero/download/2073,mdb-2786,https://nap.transportes.gob.es/licencia-datos,active
 ES,Albolote,Public Works Agency of the Andalusian Regional Government (Metro de Grenada),https://nap.transportes.gob.es/api/Fichero/download/1568,mdb-2784,https://nap.transportes.gob.es/licencia-datos,active
 ES,Alcúdia,Baleària Ferry,https://nap.transportes.gob.es/api/Fichero/download/1527,mdb-2814,https://nap.transportes.gob.es/licencia-datos,active
+ES,Alicante,TRAM Alicante (FGV),https://www.tramalicante.es/google_transit_feed/google_transit.zip,es-eu-tram-alicante-fgv,FGV / Generalitat Valenciana open data,active
 ES,Almonacid de la Cuba,La Veloz SA (Buses from the Belchite countryside area to Zaragoza (C12)),https://nap.transportes.gob.es/api/Fichero/download/1914,mdb-2808,https://nap.transportes.gob.es/licencia-datos,active
 ES,Amezketa,Lurraldebus Tolosaldea,https://nap.transportes.gob.es/api/Fichero/download/1235,mdb-2726,https://nap.transportes.gob.es/licencia-datos,active
 ES,Amorebieta-Etxano,Lurraldebus Euskotren bus,https://nap.transportes.gob.es/api/Fichero/download/1202,mdb-2756,https://nap.transportes.gob.es/licencia-datos,active
@@ -943,7 +958,9 @@ ES,Belmonte de Tajo,Consorcio Regional de Transportes de Madrid CRTM Intercity B
 ES,Bermeo,Bermibusa,https://nap.transportes.gob.es/api/Fichero/download/2063,mdb-2799,https://nap.transportes.gob.es/licencia-datos,active
 ES,Bidania-Goiatz,Lurraldebus Guipuzcoana (La Guipuzcoana),https://nap.transportes.gob.es/api/Fichero/download/1204,mdb-2736,https://nap.transportes.gob.es/licencia-datos,active
 ES,Bilbao,Bilbobus,https://nap.transportes.gob.es/api/Fichero/download/1460,mdb-2681,https://nap.transportes.gob.es/licencia-datos,active
+ES,Bilbao,"Bilbobus (city buses, via Consorcio de Transportes de Bizkaia)",https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bilbobus.zip,es-eu-bilbobus-city-buses-via-consorcio-,CTB / Open Data Euskadi,active
 ES,Bilbao,Funicular de Artxanda,https://nap.transportes.gob.es/api/Fichero/download/1264,mdb-2680,https://nap.transportes.gob.es/licencia-datos,active
+ES,Bilbao (Bizkaia province),Bizkaibus (via Consorcio de Transportes de Bizkaia),https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bizkaibus.zip,es-eu-bizkaibus-via-consorcio-de-transpo,CTB / Open Data Euskadi,active
 ES,Bordils,Moventis Sarfa (Sarfa buses),https://nap.transportes.gob.es/api/Fichero/download/1576,mdb-2764,https://nap.transportes.gob.es/licencia-datos,active
 ES,Castelló de la Plana,Castelló de la Plana Town Hall (city bus),https://nap.transportes.gob.es/api/Fichero/download/1572,mdb-2771,https://nap.transportes.gob.es/licencia-datos,active
 ES,Catalonia,Autobusos Interurbans,https://territori.gencat.cat/web/.content/home/serveis/visors-cartografia/bases-cartografiques/infraestructures-mobilitat/autobusos-interurbans/busos-interurbans-GTFS.zip,mdb-2926,,active
@@ -978,12 +995,16 @@ ES,Leioa,Bizkaibus,https://nap.transportes.gob.es/api/Fichero/download/1262,f-ez
 ES,Leioa,Leioa City Council (Lejoan Busa),https://nap.transportes.gob.es/api/Fichero/download/2061,mdb-2791,https://nap.transportes.gob.es/licencia-datos,active
 ES,Lleida,Autobusos de Lleida (Lleida buses),https://nap.transportes.gob.es/api/Fichero/download/1579,mdb-2753,https://nap.transportes.gob.es/licencia-datos,active
 ES,Lloret de Mar,Pujol,https://nap.transportes.gob.es/api/Fichero/download/1577,mdb-2750,https://nap.transportes.gob.es/licencia-datos,active
+ES,Madrid,CRTM - Autobuses Interurbanos,https://crtm.maps.arcgis.com/sharing/rest/content/items/885399f83408473c8d815e40c5e702b7/data,es-eu-crtm-autobuses-interurbanos,CRTM Open Data (datos.crtm.es),active
+ES,Madrid,CRTM - Cercanias (commuter rail),https://crtm.maps.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data,es-eu-crtm-cercanias-commuter-rail,CRTM Open Data (datos.crtm.es),active
 ES,Madrid,CRTM - Consorcio Regional de Transportes de Madrid,https://www.arcgis.com/sharing/rest/content/items/5c7f2951962540d69ffe8f640d94c246/data,es-crtm-red-de-metro,https://www.crtm.es/licencia-de-uso,active
 ES,Madrid,CRTM - Consorcio Regional de Transportes de Madrid,https://www.arcgis.com/sharing/rest/content/items/885399f83408473c8d815e40c5e702b7/data,es-crtm-red-de-autobuses-interurbanos,https://www.crtm.es/licencia-de-uso,active
+ES,Madrid,CRTM - Red de EMT (autobuses urbanos),https://crtm.maps.arcgis.com/sharing/rest/content/items/868df0e58fca47e79b942902dffd7da0/data,es-eu-crtm-red-de-emt-autobuses-urbanos,CRTM Open Data (datos.crtm.es),active
 ES,Madrid,Consorcio Regional de Transportes de Madrid CRTM Commuter Network (Red de Cercanías),https://www.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data,mdb-2720,https://www.crtm.es/licencia-de-uso,active
 ES,Madrid,Consorcio Regional de Transportes de Madrid CRTM Light Rail Network (Red de Metro Ligero),https://www.arcgis.com/sharing/rest/content/items/aaed26cc0ff64b0c947ac0bc3e033196/data,mdb-2802,https://www.crtm.es/licencia-de-uso,active
 ES,Madrid,Empresa Municipal de Transportes de Madrid (EMT Madrid),https://servicios.emtmadrid.es:8443/gtfs/transitemt.zip,mdb-793,,active
 ES,Malaga,Empresamalagueñadetransportes,https://nap.transportes.gob.es/api/Fichero/download/1494,f-eysb-empresamalagueñadetransportes,https://nap.transportes.gob.es/licencia-datos,active
+ES,Mallorca (island-wide),TIB / CTM (Consorci de Transports de Mallorca),https://www.tib.org/documents/20124/478141/ctm-mallorca-es.zip/8481f8a8-7907-5118-4934-5b428b458ae7?t=1786105923724,es-eu-tib-ctm-consorci-de-transports-de-,CC-BY 4.0,active
 ES,Mataró,Autoridad de Transporte Metropolitano del Área de Barcelona (ATM) Buses and trains in Catalonia (simplified version),https://nap.transportes.gob.es/api/Fichero/download/2059,mdb-2832,https://nap.transportes.gob.es/licencia-datos,active
 ES,Mataró,Avanza Grupo (Mataró city bus),https://nap.transportes.gob.es/api/Fichero/download/1173,mdb-2768,https://nap.transportes.gob.es/licencia-datos,active
 ES,Murcia,Transportes de Murcia (Grupo Ruiz),https://nap.transportes.gob.es/api/Fichero/download/1597,mdb-2828,https://nap.transportes.gob.es/licencia-datos,active
@@ -1010,11 +1031,13 @@ ES,Riotorto,Rodil,https://nap.transportes.gob.es/api/Fichero/download/2074,mdb-2
 ES,Salamanca,Salamanca de Transportes S.A. (Grupo Ruiz),https://nap.transportes.gob.es/api/Fichero/download/1598,mdb-2823,https://nap.transportes.gob.es/licencia-datos,active
 ES,San Bartolomé,AECFA (Spanish Association for the Coordination and Facilitation of Time Strips),https://nap.transportes.gob.es/api/Fichero/download/1096,mdb-2727,https://nap.transportes.gob.es/licencia-datos,active
 ES,San Sebastián,dBus (Donostiabus),https://nap.transportes.gob.es/api/Fichero/download/1196,mdb-2682,https://nap.transportes.gob.es/licencia-datos,active
+ES,Santa Cruz de Tenerife,TITSA (Transportes Interurbanos de Tenerife),https://www.titsa.com/Google_transit.zip,es-eu-titsa-transportes-interurbanos-de-,datos.tenerife.es open data,active
 ES,Santa Cruz de Tenerife,Transportes interurbanos de Tenerife (TITSA),http://www.titsa.com/Google_transit.zip,mdb-787,,active
 ES,Santa Eulària des Riu,ALSA buses,https://nap.transportes.gob.es/api/Fichero/download/1133,mdb-2825,https://nap.transportes.gob.es/licencia-datos,active
 ES,Santa Eulària des Riu,TIB Transports of the Balearic Islands - CIE Consell Insular d'Eivissa (Ibiza Island Bus),https://nap.transportes.gob.es/api/Fichero/download/1273,mdb-2797,https://nap.transportes.gob.es/licencia-datos,active
 ES,Santander,Gobierno de Cantabria (Buses in Cantabria),https://nap.transportes.gob.es/api/Fichero/download/1560,mdb-2748,https://nap.transportes.gob.es/licencia-datos,active
 ES,Seseña,Urban Buses of Ciudad Real (AISA),https://nap.transportes.gob.es/api/Fichero/download/1599,mdb-2765,https://nap.transportes.gob.es/licencia-datos,active
+ES,Sevilla (and Andalucia consortia),CTAN - Red de Consorcios de Transporte de Andalucia (incl. Consorcio de Sevilla),https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip,es-eu-ctan-red-de-consorcios-de-transpor,CTAN / Junta de Andalucia open data,active
 ES,Seville,Metro de Sevilla,https://nap.transportes.gob.es/api/Fichero/download/1583,mdb-2781,https://nap.transportes.gob.es/licencia-datos,active
 ES,Seville,TUSSAM (Seville bus and tram),https://nap.transportes.gob.es/api/Fichero/download/1567,mdb-2770,https://nap.transportes.gob.es/licencia-datos,active
 ES,Sitges,TCC Barcelona Buses,https://nap.transportes.gob.es/api/Fichero/download/1580,mdb-2749,https://nap.transportes.gob.es/licencia-datos,active
@@ -1027,14 +1050,17 @@ ES,Toledo,Unauto (Ruiz Group),https://nap.transportes.gob.es/api/Fichero/downloa
 ES,Tolosa,Tolosa City Council (Urbano de Tolosa),https://nap.transportes.gob.es/api/Fichero/download/2067,mdb-2758,https://nap.transportes.gob.es/licencia-datos,active
 ES,Valencia,Empresa Municipal de Transportes de Valencia (EMT Valencia),https://opendata.vlci.valencia.es/dataset/ab058cf8-ad3e-4d9c-ac89-0c6367ecf351/resource/c81b69e6-c082-44dc-acc6-66fc417b4e66/download/google_transit.zip,mdb-795,https://www.valencia.es/val/ajuntament/govern-obert,active
 ES,Valencia,FGV - Generalitat Valenciana Metro de Valencia,https://nap.transportes.gob.es/api/Fichero/download/1168,mdb-2830,https://nap.transportes.gob.es/licencia-datos,active
+ES,Valencia,Metrovalencia (FGV),https://www.metrovalencia.es/google_transit_feed/google_transit.zip,es-eu-metrovalencia-fgv,FGV / Generalitat Valenciana open data,active
 ES,Valladolid,AUVASA (Valladolid city bus),https://nap.transportes.gob.es/api/Fichero/download/1563,mdb-2730,https://nap.transportes.gob.es/licencia-datos,active
 ES,Valladolid,La Regional Vallisoletana S.A,https://drive.usercontent.google.com/u/0/uc?id=1Kzk10f1895vmUF3u2V1YWIpKY0czTTNk&export=download,mdb-2691,,active
+ES,Vigo,"Vitrasa (Vitrasa, autobus urbano de Vigo)",https://datos.vigo.org/data/transporte/gtfs_vigo.zip,es-eu-vitrasa-vitrasa-autobus-urbano-de-,Concello de Vigo Open Data (CKAN),active
 ES,Vilaboa,Xunta de Galicia Buses,https://nap.transportes.gob.es/api/Fichero/download/1584,mdb-2821,https://nap.transportes.gob.es/licencia-datos,active
 ES,Villaconejos,Consorcio Regional de Transportes de Madrid,https://nap.transportes.gob.es/api/Fichero/download/1135,f-ezj-informaciónoficial~consorcioregionaldetransportesdemadrid,https://nap.transportes.gob.es/licencia-datos,active
 ES,Villaverde,Consorcioregionaldetransportesdemadrid,https://nap.transportes.gob.es/api/Fichero/download/1427,f-ezjm-consorcioregionaldetransportesdemadrid,https://nap.transportes.gob.es/licencia-datos,active
 ES,Villaverde,Informaciónoficial~Consorcioregionaldetransportesdemadrid,https://nap.transportes.gob.es/api/Fichero/download/1134,f-ezjm-informaciónoficial~consorcioregionaldetransportesdemadrid,https://nap.transportes.gob.es/licencia-datos,active
 ES,Vitoria-Gasteiz,Alavabus,https://nap.transportes.gob.es/api/Fichero/download/1362,mdb-2824,https://nap.transportes.gob.es/licencia-datos,active
 ES,Vitoria-Gasteiz,TUVISA (Transportes Urbanos de Vitoria),http://www.vitoria-gasteiz.org/we001/http/vgTransit/google_transit.zip,mdb-797,https://www.vitoria-gasteiz.org/wb021/was/contenidoAction.do?idioma=es&uid=app_j34_0021,active
+ES,Vitoria-Gasteiz,TUVISA (urban bus),ftp://ftp.geo.euskadi.net/cartografia/Transporte/Moveuskadi/TUVISA/google_transit.zip,es-eu-tuvisa-urban-bus,Open Data Euskadi (CC BY 4.0),active
 ES,Vélez-Málaga,Network of Metropolitan Transport Consortiums of Andalusia,https://nap.transportes.gob.es/api/Fichero/download/1562,mdb-2721,https://nap.transportes.gob.es/licencia-datos,active
 ES,Zaragoza,Avanza Grupo (Zaragoza urban transport),https://nap.transportes.gob.es/api/Fichero/download/1176,mdb-2773,https://nap.transportes.gob.es/licencia-datos,active
 ES,Zaragoza,Ouigo,https://nap.transportes.gob.es/api/Fichero/download/1766,mdb-2785,https://nap.transportes.gob.es/licencia-datos,active
@@ -3206,10 +3232,14 @@ IT,Barberino Tavarnelle,Autolinee Toscane - Servizi Area Poggibonsi,https://dati
 IT,Barberino di Mugello,Autolinee Toscane - ExtraUrbano Firenze,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/d6dc70c1-24ca-4d18-8f9c-b266d64fe4c9/download/26-extraurbanofirenze.gtfs,tld-6953,,active
 IT,Barga,Autolinee Toscane - Emg Extraurbano Lucca,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/06a988de-61a7-4720-abdd-990e130a4cb7/download/221-emgextraurbanolucca.gtfs,tld-6986,,active
 IT,Barga,Autolinee Toscane - ExtraUrbano Lucca,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/83944446-5fc9-4ff7-8917-e195b4f3285c/download/21-extraurbanolucca.gtfs,tld-6987,,active
+IT,Bari,AMTAB Bari,https://opendata.comune.bari.it/dataset/1692384a-748f-47f6-b372-42cca9eaeba0/resource/b40d89da-7499-4703-ab30-80f4344fb2e7/download/google_transit.zip,it-eu-amtab-bari,CC BY,active
 IT,Bidda Matzràxia/Villamassargia,TRENITALIA,http://www.sardegnamobilita.it/opendata/dati_trenitalia.zip,mdb-1052,,active
+IT,Bologna,TPER (Trasporto Passeggeri Emilia-Romagna),https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20260709&format=zip,it-eu-tper-trasporto-passeggeri-emilia-r,CC BY 3.0 IT,active
 IT,Bologna,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gtfsmex&version=20251223&format=zip,mdb-3041,https://solweb.tper.it/web/tools/open-data/open-data.aspx,active
+IT,Bolzano/Bozen (whole South Tyrol),STA — altoadigemobilità/Südtirolmobil (incl. SASA Bolzano/Merano urban + SAD/regional extra-urban + rail + cable cars),https://gtfs.api.opendatahub.com/v1/dataset/sta-time-tables/raw,it-eu-sta-altoadigemobilita-sudtirolmobi,CC0,active
 IT,Brindisi,STP Brindisi,https://www.stpbrindisi.it/attachments/article/963/Urbano_Brindisi.zip,mdb-2022,https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio,active
 IT,Cagliari,Arstspa~Trasportiregionalidellasardegna,http://www.arstspa.info/arst-cagliari-it.zip,f-s-arstspa~trasportiregionalidellasardegna,https://creativecommons.org/licenses/by/4.0/deed.it,active
+IT,Cagliari,CTM SpA Cagliari,https://flashnetctm.miz.it/download/gtfs/estrazione_gtfs.zip,it-eu-ctm-spa-cagliari,CC BY 3.0 IT,active
 IT,Cagliari - Casteddu,ARST SpA - Trasporti Regionali Della Sardegna,https://www.arstspa.info/arst-cagliari-it.zip,mdb-895,,active
 IT,Camaiore,Autolinee Toscane - Urbano Lucca,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/bdf9de12-5c7d-4285-a690-6dd1497fc9d8/download/43-urbanolucca.gtfs,tld-6991,,active
 IT,Camaiore,Autolinee Toscane - Urbano Viareggio,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/7224a91d-e9f5-4525-8395-857ee06e2245/download/60-urbanoviareggio.gtfs,tld-6994,,active
@@ -3224,6 +3254,7 @@ IT,Carrara,Autolinee Toscane - Urbano Massa e Carrara,https://dati.toscana.it/da
 IT,Cascina,Autolinee Toscane - Debole Urbano Pisa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/860fadbd-9d01-49ec-aaef-51f4f62b77fc/download/144-deboleurbanopisa.gtfs,tld-6985,,active
 IT,Castelfiorentino,Autolinee Toscane - Debole Extraurbano CEV,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/59335ed1-60e2-4258-b067-3426abf904a2/download/127-deboleextraurbanocev.gtfs,tld-6960,,active
 IT,Castell'Azzara,Autolinee Toscane - Emg Extraurbano Siena,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/5c7ddba7-341a-4624-b023-08bda8ccfed0/download/229-emgextraurbanosiena.gtfs,tld-7009,,active
+IT,Catania,AMTS Catania (Azienda Metropolitana Trasporti e Sosta),https://www.amts.ct.it/GTFS/AMTCT.zip,it-eu-amts-catania-azienda-metropolitana,IODL 2.0,active
 IT,Cecina,Autolinee Toscane - ExtraUrbano Pisa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/e2166dd2-5424-4dfe-82f8-486becd15bf2/download/22-extraurbanopisa.gtfs,tld-6967,,active
 IT,Cecina,Autolinee Toscane - Urbano Cecina,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/8d5d8fb7-2fe1-474f-a3bf-65803a9ccb74/download/63-urbanocecina.gtfs,tld-6973,,active
 IT,Ceraxus/Selargius,CTM SpA Cagliari,https://www.ctmcagliari.it/open_data/GTFS.zip,tld-576,,active
@@ -3249,6 +3280,7 @@ IT,Genoa,Azienda Mobilità e Trasporti,http://opendatagoogletransit.comune.genov
 IT,Genoa/Liguria region,"Regione Liguria multi-operator (AMT, ATC La Spezia, TPL Linea, Trenitalia)",https://srvcarto.regione.liguria.it/dtuff/download_statico/opendata/trasporti/GTFS/,it-disc-6,,active
 IT,Granarolo,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260122&format=zip,f-srb-tperspa~ferrara,CC-BY-3.0,active
 IT,Grosseto,Autolinee Toscane - Urbano Grosseto,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/47d0795b-4172-401d-af43-b4dff4004db4/download/51-urbanogrosseto.gtfs,tld-6979,,active
+IT,Lecce,SGM Lecce (via Comune di Lecce / Regione Puglia open data),https://www.sgmlecce.it/images/Servizi_trasparenti/GTFS/google_transit.zip,it-eu-sgm-lecce-via-comune-di-lecce-regi,CC BY 4.0,active
 IT,Lecce,Società Gestione Multipla (SGM),http://dati.comune.lecce.it/trasporti/gtfs/google_transit.zip,mdb-1066,http://creativecommons.org/licenses/by/4.0/deed.it,active
 IT,Liguria,Regione Liguria,https://srvcarto.regione.liguria.it/dtuff/download_statico/opendata/trasporti/GTFS/GTFS-IT-ITC3-AMT-20260618-20260807-pf.zip,it-regione-liguria-gtfs-it-itc3-amt-20260618-20260807-pf,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
 IT,Liguria,Regione Liguria,https://srvcarto.regione.liguria.it/dtuff/download_statico/opendata/trasporti/GTFS/GTFS-IT-ITC3-AMTEXT-20260611-20260804-pf.zip,it-regione-liguria-gtfs-it-itc3-amtext-20260611-20260804-pf,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
@@ -3282,6 +3314,7 @@ IT,Novara,Trenord,https://www.dati.lombardia.it/download/3z4k-mxz9/application%2
 IT,Nùgoro/Nuoro,ATP Nuoro,https://www.atpnuoro.it/media/files/dati_atpnu.zip,mdb-991,https://creativecommons.org/licenses/by/4.0/deed.it,active
 IT,Olbia,ASPO Olbia,https://www.aspo.it/wp-content/uploads/open_data.zip,mdb-2008,https://www.sardegnamobilita.it/open-data,active
 IT,Ostuni,STP Brindisi,https://www.stpbrindisi.it/attachments/article/963/Urbano_Ostuni.zip,mdb-2020,https://www.stpbrindisi.it/index.php/linee-e-orari/open-data-esercizio,active
+IT,Padua,Busitalia Veneto (BIV) — tram (SIR lines),https://gtfs-biv.fsbusitalia.com/GTFS-BIV-TRAM/gtfs-biv-tram.zip,it-eu-busitalia-veneto-biv-tram-sir-line,CC BY,active
 IT,Palaia,Autolinee Toscane - Emg Extraurbano Pisa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/56e3ad2e-f759-47f0-b136-621495b55429/download/222-emgextraurbanopisa.gtfs,tld-6963,,active
 IT,Palermo,AMAT Palermo S.P.A.,https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/amat_gtfs.zip,mdb-2373,https://opendata.comune.palermo.it/opendata-dataset.php?dataset=1303,active
 IT,Palermo,Comune di Palermo,https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/_20122024075520.zip,it-comune-di-palermo-20122024075520,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active

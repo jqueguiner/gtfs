@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CRTM - Red de EMT (autobuses urbanos)",
+    "country": "ES",
+    "subdivision": "Comunidad de Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://crtm.maps.arcgis.com/sharing/rest/content/items/868df0e58fca47e79b942902dffd7da0/data",
+    "mdb_id": "es-eu-crtm-red-de-emt-autobuses-urbanos",
+    "license": "CRTM Open Data (datos.crtm.es)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

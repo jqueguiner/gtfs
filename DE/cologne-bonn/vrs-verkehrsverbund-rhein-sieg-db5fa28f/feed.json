@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRS (Verkehrsverbund Rhein-Sieg)",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Cologne/Bonn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://download.vrsinfo.de/gtfs/GTFS_VRS_mit_SPNV.zip",
+    "mdb_id": "de-eu-vrs-verkehrsverbund-rhein-sieg",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

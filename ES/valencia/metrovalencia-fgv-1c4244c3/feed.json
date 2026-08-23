@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metrovalencia (FGV)",
+    "country": "ES",
+    "subdivision": "Comunitat Valenciana",
+    "city": "Valencia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.metrovalencia.es/google_transit_feed/google_transit.zip",
+    "mdb_id": "es-eu-metrovalencia-fgv",
+    "license": "FGV / Generalitat Valenciana open data"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

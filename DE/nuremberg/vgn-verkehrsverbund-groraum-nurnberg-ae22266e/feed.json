@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VGN (Verkehrsverbund Großraum Nürnberg)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Nuremberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vgn.de/opendata/GTFS.zip",
+    "mdb_id": "de-eu-vgn-verkehrsverbund-groraum-nurnbe",
+    "license": "CC-BY-3.0-DE"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

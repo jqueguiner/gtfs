@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VVS (Verkehrs- und Tarifverbund Stuttgart)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Stuttgart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opendata-oepnv.de/dataset/d1768457-c717-45ea-8e26-dd1e759d5ffe/resource/c38da9e6-22bf-4504-a9f8-163a5d1b250b/download/gtfs_j26.zip",
+    "mdb_id": "de-eu-vvs-verkehrs-und-tarifverbund-stut",
+    "license": "CC-BY"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

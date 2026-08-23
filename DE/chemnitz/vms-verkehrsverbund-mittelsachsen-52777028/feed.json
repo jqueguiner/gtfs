@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VMS Verkehrsverbund Mittelsachsen",
+    "country": "DE",
+    "subdivision": "Sachsen",
+    "city": "Chemnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vms.de/GTFS_VMS.zip",
+    "mdb_id": "de-eu-vms-verkehrsverbund-mittelsachsen",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}
