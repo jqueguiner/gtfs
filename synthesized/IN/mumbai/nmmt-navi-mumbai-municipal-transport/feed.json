@@ -1,0 +1,14 @@
+{
+  "operator": "NMMT (Navi Mumbai Municipal Transport)",
+  "city": "Mumbai",
+  "cc": "IN",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 132,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 274
+  },
+  "notes": "Feed built from scraped HTML sources (citybuses.in, ilovenavimumbai.com, Moovit, navimumbai.com, buskosh.app). BEST-EVIDENCED content: (1) Route 125TAC CBD Belapur -> Borivali (E) — full 98-stop ordered sequence scraped verbatim from citybuses.in; (2) Airport A-series AC shuttles (A-1..A-5) with first/last bus, frequency and fares from ilovenavimumbai.com, and full 29-stop A-1 sequence from citybuses.in.\n\nTiming derivation: 125TAC total trip ~164 min (Moovit) spread ~evenly across its 98 stops; one representative trip per direction anchored to scraped departures (dir0 CBD->Borivali dep 06:40; dir1 Borivali->CBD dep 09:25 from the evening departures shown). A-series: A-1 ~35 min over 29 stops from first-bus 06:30; A-2/A-3/A-4/A-5 use scraped endpoints + evidenced intermediates only, timed to published trip durations (17-22 min). NO stops invented — A-2/A-3/A-4/A-5 are intentionally sparse (endpoints + the few named intermediates in sources) rather than fabricated.\n\nGeocoding: major stations/termini geocoded from known Navi Mumbai coordinates; many 125TAC/A-series intermediate stops have names only, so stop_lat/stop_lon are OMITTED (unknown). Calendar: NMMT runs daily incl. weekends (sources note ~30-40% weekend frequency drop but service continues); single service_id DAILY. Confidence 0.4: stop SEQUENCE for 125TAC and A-1 is strong; clock times largely synthesized from trip-duration/headway, not a published minute-by-minute timetable, and most intermediate coordinates are unknown.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RFR - Reseau Ferroviaire Rapide de Tunis (Societe du RFR)",
+    "country": "TN",
+    "subdivision": null,
+    "city": "Tunis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TN/tunis/rfr-reseau-ferroviaire-rapide-de-tunis-societe-d/gtfs/",
+    "mdb_id": "tn-llm-rfr-reseau-ferroviaire-rapide-de-tunis-s",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

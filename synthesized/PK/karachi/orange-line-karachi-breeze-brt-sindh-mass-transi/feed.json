@@ -1,0 +1,14 @@
+{
+  "operator": "Orange Line (Karachi Breeze) BRT — Sindh Mass Transit Authority",
+  "city": "Karachi",
+  "cc": "PK",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 4,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 8
+  },
+  "notes": "Orange Line (Abdul Sattar Edhi Line), Karachi Breeze BRT. Well-evidenced: 3.88 km corridor, AO Chowk (North Nazimabad) <-> TMO Office (Orangi Town / Nishan-e-Haider Chowk), 4 stations ~1 km apart, operated by Sindh Mass Transit Authority / TransKarachi, active since 2022-09-12, daily service. WEAK: (1) Intermediate station names differ across sources -- I used AO Chowk (North Nazimabad, Green Line transfer at Board Office Chowrangi), Board Office (aka Jinnah University, Green Line transfer), Orangi Town, TMO Office. Sources also list variants (TMA Office, Phone Panch Chowrangi, Abdullah Chowrangi). (2) Coordinates are INTERPOLATED: OSM Overpass/Nominatim did not resolve the individual stops from this sandbox, so I anchored the two terminals to OSM reference points (North Nazimabad ~24.928/67.038; Orangi Town/Nishan-e-Haider ~24.9455/67.0045) and interpolated the 2 intermediate stops evenly along a 3.88 km geodesic corridor -- treat lat/lon as approximate (+/- a few hundred m). (3) No Orange-Line-specific published timetable or headway. I used the integrated Green Line service window 07:00-22:00 daily and a representative 10 min headway; end-to-end run ~6 min (sources say 4-5 min, ~1-2 min/stop). stop_times give one representative trip per direction (first of day). Fare Rs.10-20 (not in GTFS). Sources: en.wikipedia.org/wiki/Orange_Line_(Karachi_Breeze), smta.gos.pk/route-map, dnd.com.pk, zameen.com.",
+  "source": "llm-normalized"
+}

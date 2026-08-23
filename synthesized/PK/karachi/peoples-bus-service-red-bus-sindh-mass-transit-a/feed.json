@@ -1,0 +1,14 @@
+{
+  "operator": "Peoples Bus Service (Red Bus) — Sindh Mass Transit Authority",
+  "city": "Karachi",
+  "cc": "PK",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 63,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 158
+  },
+  "notes": "Sources: SMTA official per-route pages smta.gos.pk/routes/{1..14} (full ordered 'via' stop lists, origin/dest, distance, fleet, active/inactive status) + smta.gos.pk/route-map + Wikipedia. Scope = Peoples Bus Service (Red Bus) ACTIVE routes only: R4, R8, R11, R12, R13, R14. Pink Bus (R1/R2/R3 — women-only) and inactive R5/R6/R7 are excluded as they are a different service / not operational. Stop ORDER and NAMES are directly evidenced by the official route pages (high fidelity). Coordinates are geocoded from well-known Karachi landmark positions (medium fidelity, ~100-300m); shared landmark stops (Tower, ICI, Sorab Goth, Numaish, Guru Mandar, Ayesha Manzil, etc.) are de-duplicated across routes into single stop nodes. SCHEDULE: sources give only operating window (07:00-22:00 daily) and headway (~15 min peak, ~30 min off-peak), NOT timetabled clock times — so stop_times are SYNTHETIC: one representative trip per direction starting 07:00 at ~3 min/stop spacing (even-headway assumption). Real per-stop clock times are unknown, hence confidence 0.55. Service runs all 7 days including public holidays (calendar service_id 'daily'). Fare PKR 50-100 (not encoded). route_type=3 (bus) for all.",
+  "source": "llm-normalized"
+}

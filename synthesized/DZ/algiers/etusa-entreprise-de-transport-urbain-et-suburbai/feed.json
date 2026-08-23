@@ -1,0 +1,14 @@
+{
+  "operator": "ETUSA (Entreprise de Transport Urbain et Suburbain d'Alger)",
+  "city": "Algiers",
+  "cc": "DZ",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 53,
+    "routes": 38,
+    "trips": 75,
+    "stop_times": 172
+  },
+  "notes": "Sources: OSM Overpass (operator~ETUSA, bbox 36.55,2.85,36.90,3.40) + fr.wikipedia Lignes_de_bus_ETUSA_de_1_a_99 (route list, terminals, service hours) + etusa.dz homepage (186 lines / 544 buses; no machine-readable schedule). etusa.dz has NO public timetable/PDF, so exact clock times are not published.\n\nFIDELITY BY ROUTE:\n- Route 615 (Diar El Gharb 2 loop via Bordj El Bahri/El Marsa): HIGH fidelity. All 24 ordered stops are real OSM platform nodes with real names + coordinates, in the true relation order. Times are synthetic (even 3-min hops from 06:00) since none are published.\n- Routes 1,3,4,5,6,8,10,12,14,15,16,18,19,21,27,31,32,34,39,40,43,44,45,48,50,51,54,57,58,59,66,67,72,73,74,79,80: MODERATE. Terminals are evidenced (Wikipedia line list + OSM route relations/geocoded hubs) and service-hour windows are from Wikipedia (daily 06:15-18:45 or 06:20-20:30, no night service). Only the two terminal stops are modeled per route (terminal-to-terminal representative trips each direction) because the intermediate ordered stop sequences are NOT reliably evidenced in the sources for these lines. Wikipedia lists stop COUNTS (e.g. line 12 = 33 stops) but not an ordered stop-by-stop sequence, and OSM only has ordered named platform nodes for line 615. Intermediate stops were deliberately NOT invented. Travel time between terminals is a representative 30 min.\n\nOSM also returned relations for refs 33/35/43/63/89/102/113 but those are built from way geometry without ordered named stop nodes, so they could not yield stop sequences beyond terminals.\n\nOnly 2 representative trips/direction are emitted per Wikipedia line (first departure + one mid window); real headway is not published. Calendar = daily (Mon-Sun) per Wikipedia 'quotidien, pas de service de nuit'. Agency timezone Africa/Algiers (UTC+1). Route long names carry the true terminals; where a stop name is Arabic in OSM it is kept verbatim. Coordinates for major hubs (Place du 1er Mai, Aissat Idir, Martyrs, Maurice Audin, Grande Poste, El Harrach, Ben Aknoun, Bir Mourad Rais, Birkhadem, Kouba, Ain Naadja, Bachdjarah, Hai El Badr, Baraki, Bab Ezzouar, Birtouta, Bouzareah, Chevalley, Staoueli, Souidania, Douera, Ouled Fayet, Beni Messous, Rouiba, Airport) are real OSM station/place nodes; a few small ones (Ben Omar, Rais Hamidou, Hydra) are approximate suburb centroids. Confidence 0.42 reflects: real terminals + real service-day/hour windows + one fully-real ordered route (615), but synthetic times and terminal-only modeling for 37 of 38 routes.",
+  "source": "llm-normalized"
+}

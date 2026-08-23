@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BusCaracas (BRT, operated by Metro de Caracas C.A.)",
+    "country": "VE",
+    "subdivision": null,
+    "city": "Caracas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VE/caracas/buscaracas-brt-operated-by-metro-de-caracas-c-a/gtfs/",
+    "mdb_id": "ve-llm-buscaracas-brt-operated-by-metro-de-cara",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Lusaka minibus & bus network (private operators, fixed numbered routes; RTSA/LCC-regulated)",
+  "city": "Lusaka",
+  "cc": "ZM",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 51,
+    "routes": 66,
+    "trips": 132,
+    "stop_times": 264
+  },
+  "notes": "Route list (66 numbered routes) and their origin/destination termini were extracted directly from the official DT4A / WRI / Transport-for-Cairo \"Lusaka Transit Map v7\" PDF legend (a source listed in the task). This matches the reported DT4A GTFS DB figures of 67 routes / 50 terminals. Terminal prefixes: C=City Market, K=Kulima Tower (Town), L=Lumumba, M=Millenium, R=other-station cross-town routes. 51 unique endpoint stops geocoded.\n\nFIDELITY / LIMITATIONS (why confidence is 0.5, not higher):\n- The full DT4A GTFS database (git.digitaltransport4africa.org/data/africa/lusaka) — which holds the ordered 793 intermediate stops and per-daypart headway + travel-time — was UNREACHABLE: HTTPS cert expired (git clone + curl fail SSL verification), the anonymous GitLab REST/raw endpoints returned empty/403, and a verify-disabled clone stalled without transferring the tree. The zambia-streets.openalfa.com per-route pages returned HTTP 403, and the WRI final-report PDF was not machine-parsed. So intermediate stops could NOT be retrieved.\n- Consequently each route is modeled as terminus -> destination only (2 stops, ordered), NOT the true full stop chain. No intermediate stops were invented (task rule: never invent unevidenced stops). The mitoworks ZedTransit source independently corroborated several of these O-D pairs and terminals (Kulima Tower, City Market, Lumumba, Makeni, Chelstone, Mutendere, UTH, etc.).\n- Times are MODELED, not scraped: minibuses run on demand/headway, not a fixed timetable. One representative outbound + inbound trip per route at 06:00 with a 45-min corridor run time. Real service is high-frequency (~every few min at peak) daily ~05:00-21:00; the report gives 3 dayparts (AM peak / AM off-peak / PM peak) but the numeric headways were behind the blocked GTFS DB.\n- Coordinates: the 4 CBD terminals (Kulima Tower -15.42353,28.28036; Lumumba -15.41304,28.27733; City Market; Millenium) are verified against OSM/search. Township/compound coordinates (Chelstone, Kabanana, Kalingalinga, Mutendere verified; others approximate to neighbourhood centroid) — treat lat/lon as approximate, none left null.\n- calendar: minibuses operate every day; single DAILY service (Mon-Sun) 2025-01-01..2026-12-31. No calendar_dates/exceptions.\nTo reach confidence ~0.9 the DT4A GitLab feed must be fetched (needs a valid TLS chain or authenticated mirror) to import the 793 ordered stops + real headways.",
+  "source": "llm-normalized"
+}

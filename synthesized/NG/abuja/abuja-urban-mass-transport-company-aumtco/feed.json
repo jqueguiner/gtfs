@@ -1,0 +1,14 @@
+{
+  "operator": "Abuja Urban Mass Transport Company (AUMTCO)",
+  "city": "Abuja",
+  "cc": "NG",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 99,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 294
+  },
+  "notes": "Built from the AUMTCO abujainvestments.com \"urban public transportation services\" HTML fare table, which lists 6 named routes with full ordered stop sequences (Circular via AYA, Circular via Berger, Wuse-Gwagwalada, Bwari-Wuse, Zuba-Wuse, Kubwa-Wuse). abujaguide.com.ng corroborated the operator (\"elrufai buses\") and corridors but had no schedule detail. Stop sequences are HIGH fidelity (verbatim from the fare table, no invented stops). Operating hours are stated (Mon-Fri 09:00-18:00, Sat 10:00-13:00, Sun closed) but the source gives NO timetable or headway, so stop_times use an even ~4-min/stop cadence on a single representative 09:00 trip per direction per route -- illustrative, not real clock times (main reason confidence is mid). Coordinates: all 99 stops geocoded. Major hubs (Wuse, Berger, AYA, Kubwa, Zuba, Bwari, Gwagwalada, Kuje, Lugbe, Airport Jct) from web-search/known FCT coords; minor intermediate stops interpolated along the corridor between known anchors (approximate, +/- ~1km). No OSM bus-route relations exist, so ordering comes solely from the fare table. calendar.txt covers Mon-Fri; Sat has reduced hours and Sun is closed per source (a SATURDAY service could be added but no distinct Sat stop list is given). route_id R1..R6 map to the 6 fare-table routes. Circular routes R1/R2 are loops (start=end=Area 1).",
+  "source": "llm-normalized"
+}

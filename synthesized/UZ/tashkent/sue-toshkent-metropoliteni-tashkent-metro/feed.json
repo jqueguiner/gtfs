@@ -1,0 +1,14 @@
+{
+  "operator": "SUE Toshkent Metropoliteni (Tashkent Metro)",
+  "city": "Tashkent",
+  "cc": "UZ",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 50,
+    "routes": 4,
+    "trips": 24,
+    "stop_times": 300
+  },
+  "notes": "Stops: all 50 stations across 4 lines, with lat/lon from OpenStreetMap (station=subway nodes, mail.ru Overpass mirror) except Sirg'ali (Chilonzor line), which is not tagged in OSM and was geocoded from its Wikipedia coordinates (41.22065, 69.20887). Station names/order taken from Wikipedia 'List of Tashkent Metro stations'; stop_name uses OSM name:en where available. Lines: 1 Chilonzor (Red, 17 stns, Buyuk Ipak Yoli<->Chinor), 2 O'zbekiston (Blue, 11 stns, Beruniy<->Do'stlik), 3 Yunusobod (Green, 8 stns, Turkiston<->Ming Urik), 4 Circle/30th-Anniversary (Gold, 14 stns, Texnopark<->Qipchoq). route_type=1 (metro).\n\nSchedule fidelity is the main confidence limiter: the Tashkent Metro is a FREQUENCY-based service (no published clock timetable). Sources (kun.uz, mapa-metro, metroeasy) consistently give service hours 05:00-00:00 daily and headways of ~2-3 min peak, ~5 min daytime off-peak, ~10 min after 21:00. tashmetro.uz only served a directory listing (no schedule extractable). Because a full stop_times.txt requires clock times, I synthesized representative trips: for EACH line, one trip per direction at first (05:00), midday (12:00) and last (23:30) departures, with a uniform ~2 min inter-station run time (realistic for this metro; end-to-end ~30 min matches real figures). These are representative, not the exact real-world departure board -> hence confidence 0.72. A production feed would ideally use frequencies.txt with the documented headways per time band; that can be layered on top of these template trips.\n\nCalendar: single service_id 'daily' Mon-Sun, 2026-01-01..2026-12-31 (metro runs every day).",
+  "source": "llm-normalized"
+}

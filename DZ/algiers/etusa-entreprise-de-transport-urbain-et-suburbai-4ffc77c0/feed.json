@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ETUSA (Entreprise de Transport Urbain et Suburbain d'Alger)",
+    "country": "DZ",
+    "subdivision": null,
+    "city": "Algiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DZ/algiers/etusa-entreprise-de-transport-urbain-et-suburbai/gtfs/",
+    "mdb_id": "dz-llm-etusa-entreprise-de-transport-urbain-et-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

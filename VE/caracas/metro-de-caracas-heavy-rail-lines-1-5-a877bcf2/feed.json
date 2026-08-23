@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro de Caracas (heavy rail, Lines 1-5)",
+    "country": "VE",
+    "subdivision": null,
+    "city": "Caracas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VE/caracas/metro-de-caracas-heavy-rail-lines-1-5/gtfs/",
+    "mdb_id": "ve-llm-metro-de-caracas-heavy-rail-lines-1-5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

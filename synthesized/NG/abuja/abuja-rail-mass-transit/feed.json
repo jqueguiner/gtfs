@@ -1,0 +1,14 @@
+{
+  "operator": "Abuja Rail Mass Transit",
+  "city": "Abuja",
+  "cc": "NG",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 12,
+    "routes": 2,
+    "trips": 16,
+    "stop_times": 104
+  },
+  "notes": "Built from Wikipedia (Abuja Light Rail) for routes/ordered stations/coordinates, plus web sources (abujaguide, sabiabuja, WakaAbuja, ABUJAGIST timetable image) for service pattern. Two of the four requested sources were unreachable: armt.ng/schedules and armt.ng/about returned ECONNREFUSED, and abujaguide.com.ng served a bot-verification wall. Two light-rail lines: Yellow (Abuja Metro CBD -> Nnamdi Azikiwe Airport, 8 stations) and Blue (Idu -> Gbazango/Kubwa, 5 stations sharing Idu interchange). Well-evidenced service pattern: 4 trips/day, Mon-Fri, departing 08:00, 10:00, 15:30, 17:30 (the four Yellow-Line clock times are directly attested). route_type=0 (tram/light rail) chosen over 1(metro)/2(rail) since sources consistently call it 'light rail'. CAVEATS/ASSUMPTIONS (lower confidence): (1) Per-station intermediate times are interpolated to fit the ~40 min Yellow end-to-end travel time reported by riders and an estimated ~30 min Blue; only terminal departure times are sourced. (2) The same four departure clock times are assumed for the Blue Line and for return (inbound) directions - sources confirm 4x daily both lines but do not publish per-direction Blue times. (3) Kubwa is the named terminus area; Wikipedia maps the physical terminus node as Gbazango, so it is stored as 'Gbazango (Kubwa)'. (4) Coordinates for all 12 stations are from Wikipedia's decimal table; none are null. (5) Calendar set to full-year 2026 weekdays; the free-ride window (May-Dec 2024) is historical and not modeled as fare. Airport headsign uses full station name. All stop_times monotonic, first/last stops have times, every trip has >=2 stops, both directions present per route.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Green Line (Karachi Breeze) BRT — Sindh Mass Transit Authority / TransKarachi",
+  "city": "Karachi",
+  "cc": "PK",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 22,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 44
+  },
+  "notes": "Green Line Karachi Breeze BRT, 18 km busway, 22 stations, operational since 25 Dec 2021. Station list and order taken from the Wikipedia stations table (ordered Surjani Town/Abdullah Chowk in the north to Numaish Chowrangi in the south); the SMTA route-map page only names the line and points to a PDF, so it did not add station-level detail. Service span 07:00–22:00 daily and ~3 min headway per Wikipedia/local transit guides (WebSearch). Only one representative trip per direction is modeled (SB Surjani→Numaish at 07:00, NB Numaish→Surjani at 08:00) with even ~2–3 min inter-stop spacing summing to a realistic ~52 min end-to-end run; a full frequency-based schedule would add trips every 3 min across the service span. Coordinates: Numaish Chowrangi, Nagan Chowrangi, Power House Chowrangi, Hyderi/Five Star and the Surjani terminal are anchored to known landmark lat/lon from web search; intermediate stations are placed by reasoned interpolation along the real N–S corridor (Nazimabad axis bending NE at Nagan up North Karachi to Surjani) since a live OSM Overpass query for the PTv2 relation/station nodes was not reachable from this environment. Confidence 0.6: stop names/order and service span are well-evidenced; exact per-stop coordinates (non-anchor) and the reduced trip count are approximate.",
+  "source": "llm-normalized"
+}

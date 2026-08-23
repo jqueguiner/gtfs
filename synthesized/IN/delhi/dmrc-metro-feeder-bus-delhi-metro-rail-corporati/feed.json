@@ -1,0 +1,14 @@
+{
+  "operator": "DMRC Metro Feeder Bus (Delhi Metro Rail Corporation last-mile buses)",
+  "city": "Delhi",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 122,
+    "routes": 12,
+    "trips": 24,
+    "stop_times": 260
+  },
+  "notes": "Route list and ordered stops per route come from the authoritative DMRC \"Route Wise Bus Stop Code\" PDF (delhimetrorail.com/otherdocuments/Bus-stop.pdf), cross-checked against delhimetrorail.info feeder-bus page. 12 feeder routes captured (ML-05, ML-11, ML-12, ML-15, ML-17, ML-19, ML-20, ML-24, ML-35, ML-39, ML-57, MLL-96) with full ordered stop sequences (122 stops total). Note the PDF also implies more routes exist in the network (~13-16 historically) but only these 12 had complete ordered stop tables in the official document, so only evidenced routes are included. 32 of 122 stops are anchored to real coordinates from OSM/Wikipedia (metro-station termini + a few major landmarks like Akshardham, Rani Bagh, Mayapuri, Najafgarh); the remaining ~90 intermediate stops (local mandirs, apartment blocks, chowks) have null coordinates because no reliable geocode was available and inventing them would be dishonest. SERVICE TIMES ARE SYNTHETIC: no per-stop clock schedule is published anywhere; sources only give a general ~06:00-22:00 span, 7 days/week, and 10-15 min headway. Each route therefore has ONE representative trip per direction starting 06:00 with an even ~3-min inter-stop spacing (placeholder pacing, not real running times). A real feed would need frequencies.txt with the 10-15 min headway across 06:00-22:00; that headway is documented but not encoded as separate trips here. route_long_name direction pairs and headsigns derived from the PDF route titles. Confidence 0.55: route topology and stop ORDER are high-fidelity (official DMRC source); coordinates partial; the timetable/clock-times are low-fidelity approximations.",
+  "source": "llm-normalized"
+}

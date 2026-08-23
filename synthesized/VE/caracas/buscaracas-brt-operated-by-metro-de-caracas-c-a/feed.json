@@ -1,0 +1,14 @@
+{
+  "operator": "BusCaracas (BRT, operated by Metro de Caracas C.A.)",
+  "city": "Caracas",
+  "cc": "VE",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 11,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 66
+  },
+  "notes": "Operator: BusCaracas BRT, operated by Metro de Caracas C.A. Corridor: 5.2 km along Av. Fuerzas Armadas (north) and Av. Nueva Granada (south), inaugurated 3 Oct 2012, 11 stations, end-to-end run time 35 min (Wikipedia + Metro de Caracas sources).\n\nEVIDENCED (high confidence): the 11 stations and their exact N->S order (Las Flores, Panteón, Socorro, La Hoyada, El Cristo, Roca Tarpeya, Presidente Medina, El INCES, Roosevelt, La Bandera, Los Ilustres); route_type=3 (bus/BRT); service hours 06:00-20:00 daily; 35-min end-to-end run.\n\nCOORDINATES: 4 stations from Wikipedia/geocoding are near-exact anchors — Panteón ~10.5129,-66.9126; La Hoyada 10.503417,-66.910083; La Bandera 10.478694,-66.901500; Los Ilustres 10.478333,-66.895556. The other 7 (Las Flores, Socorro, El Cristo, Roca Tarpeya, Presidente Medina, El INCES, Roosevelt) are linearly interpolated along the true corridor between anchors (~400 m spacing, matching the documented station separation). All stops lie on the real Fuerzas Armadas/Nueva Granada alignment; interpolated stops may be off by up to ~150 m. Overpass/OSM node lookup was attempted for exact BusCaracas platform node coordinates but the API was unreachable from the sandbox, so anchor+interpolation was used.\n\nMODELED (lower confidence): individual departure times and headway are NOT published in the sources. Service window (06:00-20:00) and 35-min run time are real; within that window I generated 3 representative trips per direction (06:00, 13:00, 19:00 departures) at an even 3.5-min inter-stop pace. Real BusCaracas headway is unknown, so absolute clock times for each trip are illustrative, not from a published timetable. Directions modeled: southbound (headsign Los Ilustres) and northbound (headsign Las Flores). Calendar set to daily for 2026 (BRT operates 7 days/week within stated hours).\n\nmetrodecaracas.com did not expose a machine-readable timetable/PDF; schedule facts came from Wikipedia (en + es) and secondary VE transit press.",
+  "source": "llm-normalized"
+}

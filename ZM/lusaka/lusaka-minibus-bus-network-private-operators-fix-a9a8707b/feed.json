@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lusaka minibus & bus network (private operators, fixed numbered routes; RTSA/LCC-regulated)",
+    "country": "ZM",
+    "subdivision": null,
+    "city": "Lusaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ZM/lusaka/lusaka-minibus-bus-network-private-operators-fix/gtfs/",
+    "mdb_id": "zm-llm-lusaka-minibus-bus-network-private-opera",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

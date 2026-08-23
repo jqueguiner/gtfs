@@ -1,0 +1,14 @@
+{
+  "operator": "JSC Toshshahartransxizmat - Suburban bus routes",
+  "city": "Tashkent",
+  "cc": "UZ",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 27,
+    "routes": 19,
+    "trips": 38,
+    "stop_times": 80
+  },
+  "notes": "Built from tashtrans.uz suburban routes page (prigorodnie-marshruti-tashkenta, last updated 2026-08-08). The source lists route numbers, named endpoints, service hours, frequency/headway and fares, but does NOT publish stop-by-stop sequences. Therefore each route is modeled with its two named endpoints (origin Tashkent hub + suburban destination), both of which are evidenced. Stop coordinates are geocoded from known city/landmark coordinates (Parkent 41.2974/69.6796, Almalyk 40.8447/69.5983, Bekabad 40.2167/69.2167, Akkurgan 40.8764/69.0453, Chorvoq/Charvak 41.6333/69.9417 via Wikipedia/latitude.to; Tashkent hubs approximated from OSM-known landmark positions). No intermediate stops are invented. Trip clock times: routes with explicit departure times (357: 09:00/13:00/17:00) use them; all others use first departure from the published service window with a realistic run duration; a representative trip per direction is provided. Headway not expanded into full frequency-based trips. Confidence 0.42 reflects faithful route list + hours + fares + endpoints, but approximated intermediate geometry and clock times. route_600601 and route_600602 correspond to 606/1 and 606/2 variants. All routes bus (route_type 3). Service assumed daily.",
+  "source": "llm-normalized"
+}

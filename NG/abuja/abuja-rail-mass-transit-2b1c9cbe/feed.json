@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Abuja Rail Mass Transit",
+    "country": "NG",
+    "subdivision": null,
+    "city": "Abuja"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/NG/abuja/abuja-rail-mass-transit/gtfs/",
+    "mdb_id": "ng-llm-abuja-rail-mass-transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

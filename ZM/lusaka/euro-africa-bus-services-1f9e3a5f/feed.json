@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Euro Africa Bus Services",
+    "country": "ZM",
+    "subdivision": null,
+    "city": "Lusaka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ZM/lusaka/euro-africa-bus-services/gtfs/",
+    "mdb_id": "zm-llm-euro-africa-bus-services",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Sabana intermunicipal bus operators (Flota Chia, Flota Ayacucho, Expreso Cundinamarca, Transgalaxia, Rapido El Carmen)",
+  "city": "Bogota",
+  "cc": "CO",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 17,
+    "routes": 8,
+    "trips": 22,
+    "stop_times": 66
+  },
+  "notes": "Sources: terminales.com.co (Flota Chia fares), tutransportesabana.blogspot.com (Chia intermunicipal corridor: service 04:00-23:30 daily, ~10 min headway, ~16.5km/30min), flotachia.com fares (TLS cert broken, read via terminales mirror), flotaayacuchosa.com (destinations only), Moovit/press for Transgalaxia (Soacha-Chia new 2025), redbus/colombuses for Rapido El Carmen (Terminal Salitre, Bogota-Girardot with explicit clock times), expresocundinamarca.com (Terminal Salitre, Villa de Leyva/Honda/Villapinzon). horariodebuses expreso-cundinamarca endpoint refused connection.\n\nModeling: Two evidence classes. (1) Chia<->Bogota suburban intermunicipal corridor = frequency-based; only origin/destination + a couple named intermediate points (Cajica, Cota, Suba) are evidenced, NOT a full ordered stop list, so trips list only evidenced endpoints/majors. Representative trips generated on even ~30-40 min sample headways across the 04:00-23:30 window (real headway ~10 min; sampled sparser to keep feed compact - stop_times reflect realistic clock times). (2) Long-distance corridors (Bogota-Girardot on Rapido El Carmen with real published departure times 04:10,05:20,05:50,06:50...; Bogota-Villa de Leyva on Expreso Cundinamarca 07:00->10:30) use actual published clock times. Flota Ayacucho only has a destination LIST (Facatativa/Zipaquira/Chia/Villeta) with no stop order or times -> one representative Bogota-Facatativa-Villeta trip at nominal times, low fidelity. Transgalaxia Soacha-Chia direct route (2025, <1h) modeled with Soacha+Chia endpoints only.\n\nCoordinates geocoded from known city/terminal centroids and TransMilenio portal locations (Portal Norte 4.7544,-74.0461; Portal 80 ~4.7109,-74.1114; Terminal Salitre ~4.6470,-74.1010; Terminal Chia Cra14b#9-16 ~4.8617,-74.0583). No stops invented beyond evidenced endpoints/majors. Confidence 0.42: endpoints, service hours, some clock times and fares are real; full intermediate stop sequences and exact per-trip timetables for the suburban corridors are NOT published and are approximated.\n\nroute_type=3 (bus) throughout. Service is daily (Mon-Sun) for suburban corridors per blogspot; Girardot/Villa de Leyva daily.",
+  "source": "llm-normalized"
+}

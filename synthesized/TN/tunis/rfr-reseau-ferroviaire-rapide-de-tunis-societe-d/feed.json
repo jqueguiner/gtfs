@@ -1,0 +1,14 @@
+{
+  "operator": "RFR - Reseau Ferroviaire Rapide de Tunis (Societe du RFR)",
+  "city": "Tunis",
+  "cc": "TN",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 14,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 32
+  },
+  "notes": "Built from the official Tunisia transport open-data cartography CSV (station names + coordinates for RFR lines C/D/E/F) plus launch/press + Wikipedia schedule coverage. Only the two OPERATIONAL lines are included: Line E (opened 2023-03-20, Tunis-Barcelone to Bougatfa/Sidi Hassine, 6 revenue stations + Tunis terminus) and Line D (opened 2025-01-25, Tunis to Gobaa, 9 stations). Lines C and F are marked \"Ligne projetee\"/\"En construction\" in the source cartography, so no trips are invented for them (no stops/routes emitted). Coordinates are taken verbatim from the cartography CSV; several CSV rows share latitude 36.792003 (a placeholder in the source) so some stop_lat values along a corridor are approximate. Line E timetable is well-evidenced: Tunis->Bougatfa first 05:00 / last 19:30, Bougatfa->Tunis first 05:20 / last 19:50, 20-min headway, ~14 min end-to-end (directinfo/tekiano/SNCFT). One representative trip per direction is provided per line at the documented first-departure times with even inter-stop spacing summing to the documented end-to-end run time. Line D exact departure clock times are NOT officially published in the sources (sources give ~43 trips/day, ~15 min end-to-end, and a \"40-min interval / 30-min shuttle\" phrasing); its representative trips use the documented ~15-min end-to-end run with first departures at 05:00 (down) / 05:18 (up). Calendar assumes daily service (RFR runs 7 days/week per launch coverage), 2023-03-20 to 2026-12-31. Fare (700 millimes unified) not modeled. Real network operated by SNCFT on behalf of the Societe du RFR.",
+  "source": "llm-normalized"
+}

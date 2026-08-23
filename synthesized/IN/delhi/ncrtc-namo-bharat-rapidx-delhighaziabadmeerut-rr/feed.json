@@ -1,0 +1,14 @@
+{
+  "operator": "NCRTC Namo Bharat / RapidX (Delhi–Ghaziabad–Meerut RRTS, operated by DB RRTS)",
+  "city": "Delhi",
+  "cc": "IN",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 15,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 30
+  },
+  "notes": "Delhi–Ghaziabad–Meerut RRTS (Namo Bharat), fully operational Sarai Kale Khan→Modipuram since 22 Feb 2026 (~82 km, ~57–58 min end-to-end). Feed models the 15 RRTS revenue stops that Namo Bharat trains stop at (the 8 Meerut-Metro-only halts — Partapur, Rithani, Brahmapuri, Meerut Central, Bhaisali, MES Colony, Daurli, Meerut North — are NOT served by RRTS and are excluded). Duhai Depot is included as an operational RRTS stop per Wikipedia. Coordinates from individual Wikipedia RRTS station infoboxes. Service hours 06:00–22:00 (weekdays+Sat), 08:00–22:00 (Sun); ~10-min headway. Inter-station times are estimated to fit the published ~58-min end-to-end run (NCRTC does not publish a full timetable); one representative trip per direction is provided. Confidence 0.6: station list/order/coords and service hours/headway are well-evidenced, but exact per-station clock times are modeled, not from an official timetable. Sources: en.wikipedia.org Delhi–Meerut RRTS + per-station pages, themetrorailguy.com, meerutmetro.in, outlooktraveller.com. route_type=2 (rail) chosen as RRTS is regional rapid rail rather than urban metro.",
+  "source": "llm-normalized"
+}

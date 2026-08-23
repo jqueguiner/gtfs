@@ -2,13 +2,13 @@
   "operator": "TMT (Thane Municipal Transport)",
   "city": "Thane (Mumbai Metropolitan Region)",
   "cc": "IN",
-  "confidence": 0.42,
+  "confidence": 0.5,
   "counts": {
-    "stops": 56,
-    "routes": 4,
-    "trips": 8,
-    "stop_times": 138
+    "stops": 86,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 270
   },
-  "notes": "Sources: thaneweb.com route table + per-route stop pages (routes 1, 6, 7, 16 fully ordered), citybustimetable.com and buskosh.app route lists, Moovit line index. Route universe on thaneweb spans ~AC58/AC65/AC125/AC126 + numbered 1-140 (70+ routes); only 4 routes had reliably scrapeable ordered stop lists, so the feed materializes those 4 as representative trips in both directions. Timings: route 7 uses the 8 exact published departure times; routes 6 and 16 use even headways across the published first/last-bus window (6: 04:06-26:11 ~10 min; 16: 05:30-23:15 ~20 min); route 1 had no published times, so an even 20-min headway is applied over the site-wide 06:30-23:30 service window (from Moovit). Stop coordinates: major hubs (Thane Station, Yeoor, Upvan/neighborhoods) geocoded from web/known coords; intermediate Thane-West neighborhood stops approximated from local geography; a few obscure stops left null. inter-stop segment times estimated (~2-3 min urban spacing). No stops invented beyond those listed on source pages. Confidence 0.42: route+stop topology for the 4 materialized routes is well evidenced, but exact per-stop schedule times and precise stop coordinates are largely reconstructed, and the feed covers only 4 of ~100 TMT routes.",
+  "notes": "Sources: thaneweb.com per-route directional timetable pages, citybustimetable.com per-route stop-by-stop timetables (route 10, 11, 13, 16, 16A), and Moovit/BusKosh for route inventory. Moovit reports the full TMT network as ~142 routes / 941 stops; this feed faithfully encodes 6 routes (10, 11, 13, 16, 16A, 22) for which stop-by-stop sequences AND clock times were actually published, so it is a representative subset, NOT the whole network. All stop NAMES and ORDER are taken directly from the sources (never invented). Departure clock times at the origin are the real published first/last/interval values from the timetable pages; intermediate stop times are the sources' own ~2 min/stop offsets. citybustimetable explicitly states its intermediate per-stop times are estimated. Coordinates: major hubs (Thane Station 19.18611,72.97583; Vartak Nagar 19.20826,72.96101; Majiwada 19.2137,72.9903; Cadbury Junction, Kapurbawdi, Yeoor) use looked-up landmark coordinates; many minor stops are interpolated along the known corridor between anchored hubs and are approximate (good to a few hundred m). No stop is included without textual evidence. Each route has one representative outbound trip (published times) plus a reversed inbound trip (times shifted, sequence reversed). Service assumed daily (sources state 'operational every day'). Confidence 0.5: stop names/order and origin times are well-grounded and real; intermediate times and many minor-stop coordinates are approximate, and only ~6 of ~142 routes are covered.",
   "source": "llm-normalized"
 }

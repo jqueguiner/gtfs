@@ -1,0 +1,14 @@
+{
+  "operator": "Euro Africa Bus Services",
+  "city": "Lusaka",
+  "cc": "ZM",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 5,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 30
+  },
+  "notes": "Source: tiketi.com/euro-africa-bus-services (HTML) + corroborating listings (safaribay, bizbwana, search results). WordPress source returned HTTP 403 and could not be read. Confirmed facts: single corridor Lusaka-Kabwe-Kapiri Mposhi-Ndola-Kitwe; 7 days/week; hourly departures; first bus 06:15, last coach 14:30 each city (per tiketi copy \"11 daily services\", \"First bus leaves each city at 6:15\", \"A final coach leaves each city 14:30\"); ~6h Lusaka-Kitwe journey; main terminal Intercity Bus Terminus, Dedan Kimathi Rd, Kamwala, Lusaka.\n\nINVENTED / ESTIMATED (not directly evidenced): intermediate clock times at Kabwe/Kapiri/Ndola were interpolated by distance/travel-time proportion across the ~6h run, NOT published per-stop times. Only 3 representative trips per direction generated (06:15 early, 10:15 mid, 14:30 last) though ~10-11 hourly departures exist. 5-min dwell at intermediate stops is assumed. Directionality (both ways symmetric, same first/last times per city) is inferred from \"leaves each city\" wording.\n\nCoordinates: Lusaka terminus is the specific Intercity Bus Terminus node (-15.42223, 28.28577). Kabwe/Kapiri Mposhi/Ndola/Kitwe use town-center/main-station coordinates from geocoding sources; exact bus-terminus nodes for these four were not found in OSM/geocoding, so town-center is used as best approximation (all termini are central per sources). No stop left null.\n\nCalendar year 2026 window is a reasonable placeholder; no start/end service dates published.",
+  "source": "llm-normalized"
+}

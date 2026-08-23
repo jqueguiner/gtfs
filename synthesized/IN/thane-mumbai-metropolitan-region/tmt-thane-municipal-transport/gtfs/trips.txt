@@ -1,9 +1,13 @@
 route_id,service_id,trip_id,trip_headsign
-1,daily,1_out_1,Vrindavan Society
-1,daily,1_in_1,Thane Station (W)
-6,daily,6_out_1,Wagle Aagar (Wagle Depot)
-6,daily,6_in_1,Thane Station
-7,daily,7_out_1,Neelkanth Terminus
-7,daily,7_in_1,Thane Station
-16,daily,16_out_1,Yeoor (Patonapada)
-16,daily,16_in_1,Thane Station
+TMT_10,DAILY,TMT_10_out,Neelkanth Terminus (Gawand Baug)
+TMT_10,DAILY,TMT_10_in,Thane Station (W)
+TMT_11,DAILY,TMT_11_out,Gawand Baug (Kokanipada)
+TMT_11,DAILY,TMT_11_in,Thane Station (W)
+TMT_13,DAILY,TMT_13_out,Bhim Nagar
+TMT_13,DAILY,TMT_13_in,Thane Station (W)
+TMT_16,DAILY,TMT_16_out,Yeoor (Patonapada)
+TMT_16,DAILY,TMT_16_in,Thane Station (W)
+TMT_16A,DAILY,TMT_16A_out,Yeoor (Patonapada)
+TMT_16A,DAILY,TMT_16A_in,Anandnagar Depot
+TMT_22,DAILY,TMT_22_out,Kisan Nagar
+TMT_22,DAILY,TMT_22_in,Thane Station (W)

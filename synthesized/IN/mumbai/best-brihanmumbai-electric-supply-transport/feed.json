@@ -1,0 +1,14 @@
+{
+  "operator": "BEST (Brihanmumbai Electric Supply & Transport)",
+  "city": "Mumbai",
+  "cc": "IN",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 95,
+    "routes": 4,
+    "trips": 6,
+    "stop_times": 175
+  },
+  "notes": "Feed covers 4 representative BEST routes (9, 124, 41, 139) out of ~505 in the real network — a faithful but partial sample. Sources: ordered stop lists + endpoint timings + daily trip counts from mumbaicitybus.in (route-no/N pages), cross-checked against xtour.in for route 9. bestundertaking.com confirmed the 505-route / 3800-bus scale and a route-network portal (routenetwork.bestundertaking.com redirects to server.overtures.in:8080, which was unreachable). GTFS Data Exchange and the chalobest.in Wayback GTFS (best_20150714.zip) were inaccessible (cert error / 404 / web.archive.org blocked), so no historical stop coords could be seeded. Moovit index page returned empty. What is REAL: stop names and their order per route; route origins/destinations; first-bus / last-bus clock times; daily trip counts. What is DERIVED: per-stop arrival/departure times are linearly interpolated across each route's known trip duration (mumbaicitybus gives only endpoint times, not per-stop), so a single representative trip is emitted per evidenced direction (routes 9 and 41 have both directions; 124 and 139 only the one direction the source documented). Trip durations: route 9 ~67 min (Moovit), others estimated from stop count. Coordinates: 19 of 95 stops geocoded to confirmed landmark coords (major termini, railway stations, hospitals, chowks) via WebSearch; the remaining 76 minor stops are left with null lat/lon rather than invented. calendar = one DAILY service (all 7 days), matching sources' \"runs daily\" phrasing. Lower confidence reflects (a) only 4/505 routes, (b) interpolated intra-route times, (c) sparse coordinates. No stops were invented — every stop is evidenced in a scraped route page.",
+  "source": "llm-normalized"
+}

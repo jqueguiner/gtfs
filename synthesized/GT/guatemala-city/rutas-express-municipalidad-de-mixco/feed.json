@@ -1,0 +1,14 @@
+{
+  "operator": "Rutas Express — Municipalidad de Mixco",
+  "city": "Guatemala City",
+  "cc": "GT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 46,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 90
+  },
+  "notes": "Built from Moovit line PDFs (extracted via pdftotext) for three Rutas Express / Municipalidad de Mixco lines: Ruta 14 (Comunidad Mixco <-> Terminal, the Express Roosevelt corridor), Ruta 73 (Naranjo <-> Centro Z.1, the Express Naranjo corridor), and Ruta 105 (Tierra Nueva II <-> Mercado La Florida, the Express Minervas / Tierra Nueva corridor). Route lists cross-checked against Wikipedia (three lines: Express Roosevelt, Express Naranjo, Express Minervas, operated by Mixco Municipality) and guatemala.com/cronica.com.gt schedule reporting.\n\nSTOPS: The Moovit PDFs list every ordered stop, but the majority are address-only labels (e.g. \"5 Avenida, 22-08\", \"Calzada Roosevelt, 3568\") that cannot be geocoded to distinct, verifiable coordinates. To avoid inventing false precision I retained the NAMED/landmark stops verbatim from the PDFs (Trebol, Tikal Futura is on-corridor, Boulevard El Naranjo nodes, Bethania, Incienso, San Nicolas, Mercado La Florida, etc.) plus the documented terminals, and interpolated stop_lat/stop_lon for intermediate address-stops along the known corridor between geocoded anchors (Terminal Trebol 14.61517,-90.53606; Tikal Futura ~14.6225,-90.5539; Ciudad San Cristobal 14.60031,-90.58331; Mixco seat 14.63306,-90.60639). Interpolated coordinates are approximate (corridor-level, not door-level). No stop is invented — every stop_id corresponds to a stop present in a Moovit PDF.\n\nTIMES: The PDFs give a service window and total trip duration per direction but NOT per-stop timetables, so stop_times use even spacing across the documented trip duration from the first-departure clock time. Ruta 14 = ~42 min end-to-end, Ruta 73 = ~39 min, Ruta 105 = ~10-11 min.\n\nCALENDAR: Per-route service days reflect the PDFs. Ruta 73 has NO Sunday service in the Mercado 1o de Julio direction (PDF \"Sin Servicio\"); Ruta 14 and Ruta 105 run all 7 days. Fare (not encoded here) is Q5.00 prepaid card (SIGA/Tarjeta), payment card-only, no ayudantes.\n\nConfidence 0.55: routes, ordered stop sequences, service windows and days are faithfully from official Moovit feed PDFs; the weakness is (a) interpolated coordinates for address-only stops and (b) synthesized even-headway per-stop times since real per-stop timetables are not published. The three lines chosen are the Moovit-published Rutas Express Mixco corridors matching Wikipedia's Roosevelt/Naranjo/Minervas trio.\n\nSources: en.wikipedia.org/wiki/Rutas_Express_Guatemala; moovitapp.com line 14/73/105 pages + appassets.mvtdev.com map PDFs 31208236/31208237/31208229; guatemala.com and cronica.com.gt schedule articles.",
+  "source": "llm-normalized"
+}

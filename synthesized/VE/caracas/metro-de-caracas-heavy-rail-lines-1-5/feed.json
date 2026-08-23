@@ -1,0 +1,14 @@
+{
+  "operator": "Metro de Caracas (heavy rail, Lines 1-5)",
+  "city": "Caracas",
+  "cc": "VE",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 48,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 102
+  },
+  "notes": "Built from OSM route_master/route relations (L1=13335174, L3=7927573, L4=13350037, dir routes 5130934/5130935) + English Wikipedia station lists + OSM Overpass station nodes (via mail.ru mirror; official metrodecaracas.com/mapa returned HTTP 403). All 48 operational stations have real OSM lat/lon (0 missing), matching the stated 48 count. 5 routes as route_type=1 (subway; OSM tags route=subway). Ordered stops per line taken from Wikipedia/OSM directional relations. Line 5 modeled as its only two operational stations (Zona Rental–Bello Monte); the rest of L5 is unbuilt and deliberately excluded (never invent unevidenced stops). SCHEDULE FIDELITY IS THE MAIN UNCERTAINTY: OSM gives service hours 05:30–23:00 daily and headways (L1 ~3min, L3 ~5min); no per-trip timetable is published. stop_times are therefore ONE representative trip per direction per line at a 06:00 start with a uniform ~2min inter-station run time (not measured per-segment). Real headways/dwell/express patterns and any weekend variation are not reflected. Calendar = single 'daily' service Mon–Sun for 2026. Interchange stations (e.g. Capuchinos on L2/L4, Plaza Venezuela on L1/L3, Zona Rental on L4/L5) are shared single stops. Note: some post-2018 Line 1 east extension stations (5 de Julio, 19 de Abril, Petare II) exist in OSM but are excluded as their operational status/line integration is unconfirmed and not in the canonical 22-station L1 list.",
+  "source": "llm-normalized"
+}

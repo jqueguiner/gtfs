@@ -1,0 +1,14 @@
+{
+  "operator": "TuBus — Municipalidad de Guatemala (operated by Transmetro)",
+  "city": "Guatemala City",
+  "cc": "GT",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 72,
+    "routes": 7,
+    "trips": 18,
+    "stop_times": 119
+  },
+  "notes": "Sources: guatemala.com and soy502.com schedule articles (route list, endpoints, hours), en.wikipedia.org/wiki/TuBus_Guatemala (operator, fleet, history), and republica.com \"60 paradas\" article which provided a detailed ordered stop list for Route 104 in both directions. The official muniguate.com/movilidadurbana/ruta-104/ page returned HTTP 403 and could not be fetched; Moovit line pages returned empty content.\n\nCONFIDENCE 0.45 rationale:\n- Route 104 stops (both directions, 60 evidenced stops) come from a published address-by-address list and are faithful; these are grouped into outbound (Barrio San Antonio -> Cementerio La Villa) and return (-> Barrio San Antonio) directions. Coordinates for the 104 stops are GEOCODED/APPROXIMATED from the Guatemala City numbered street grid anchored to known zone centroids (Barrio San Antonio z6 ~14.649,-90.503; z1 center ~14.640,-90.513; San Pedrito z5 ~14.620,-90.512; Diagonal 6 / Oakland z10 14.599,-90.507; La Villa z14 ~14.585,-90.505). Individual stop lat/lon are estimates (+/- a few hundred meters), NOT surveyed points.\n- Routes 5, 105, 305, 402, 801, 802: only ENDPOINTS and a few key waypoints are evidenced (no intermediate stop lists were available). Each has one representative trip per direction using the evidenced endpoints/waypoints only; no stops were invented beyond what the sources name.\n- Frequency/headway is NOT published anywhere in the sources. Representative trips use realistic clock departure times spread across the evidenced service hours rather than a real timetable.\n- Service hours (calendar/stop_times): Mon-Sat 05:30-19:00, Sun/holidays 06:00-18:00 for most routes; Route 105 daily 06:00-18:00; Route 402 Mon-Sat 06:00-19:00 (pilot). Route 5 is Transmetro Line 5 operated by TuBus. Routes 105/402/404 were in pilot/testing phase as of the sources; 404 omitted (no evidenced stops). Fare Q5.00. route_type=3 (bus) for all.\n- coordinates confirmed from web: Oakland Mall 14.59891,-90.50689. Others (Parque Los Pinos z7 ~14.628,-90.567; La Terminal z4/9 ~14.612,-90.523; Cementerio La Villa z14 ~14.586,-90.505) are approximate.",
+  "source": "llm-normalized"
+}

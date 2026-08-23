@@ -1,0 +1,14 @@
+{
+  "operator": "JSC Toshshahartransxizmat - City bus network",
+  "city": "Tashkent",
+  "cc": "UZ",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 66,
+    "routes": 31,
+    "trips": 62,
+    "stop_times": 188
+  },
+  "notes": "Sources: tashtrans.uz route directory (primary; 170 active routes with terminals, duration, distance, operating hours, updated 2026-08-18) provided every route's short_name, long_name and service hours. Route 1's full ordered stop list (34 stops per direction) came from wikiroutes.info / 2GIS / findit.city (via web search) and is the only route with evidenced intermediate stops. For the other 30 curated routes only the two evidenced terminal stops are included (no intermediate stops invented). wikiroutes.info/en/tashkent and findit.city returned 404/403 to direct fetch, so per-route OSM PTv2 stop sequences could not be harvested at scale. Geocoding: metro stations, Tashkent railway station, TsUM, Medical Academy, Buyuk Ipak Yuli have precise coords from Wikipedia/Wikidata; district/massiv/market terminals are best-estimate coords within the correct district; 25 intermediate stops on route 1 that could not be geocoded are left null. stop_times: route 1 uses even inter-stop spacing across its published 43.5-min run time from the real 05:35 service start; other routes use their two terminals with the first departure at the published service start and arrival = start + published duration. One representative trip per direction per route; service is daily (calendar Mon-Sun, 2026-01-01..2026-12-31). Confidence 0.42: route list + terminals + service hours are faithful to the operator's published data, but only 1/31 routes has a real stop sequence, headways/frequencies are not modeled (single representative trip per direction), and many terminal coords are approximate. This is a valid, loadable GTFS skeleton, not a full timetable.",
+  "source": "llm-normalized"
+}

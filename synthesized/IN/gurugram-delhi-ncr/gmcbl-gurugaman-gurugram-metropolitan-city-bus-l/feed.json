@@ -1,0 +1,14 @@
+{
+  "operator": "GMCBL / Gurugaman (Gurugram Metropolitan City Bus Ltd, GMDA)",
+  "city": "Gurugram (Delhi NCR)",
+  "cc": "IN",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 171,
+    "routes": 10,
+    "trips": 19,
+    "stop_times": 453
+  },
+  "notes": "Feed covers 10 of ~102 GMCBL/Gurugaman routes (33 listed on gmcbl.in/commuter/bus-routes.html; Moovit reports ~102 routes / 1141 stops). Route lists and ordered stop sequences scraped from yometro.com per-route pages (gmcbl-bus-route-<n>), which mirror the Gurugaman businfo portal (EtaByRouteAndBusStopName.aspx). Routes built: 111A, 114, 116E, 118, 133, 134, 212, 217, 221A, 254 — all with complete evidenced stop sequences. Service window 05:30-22:30 from yometro (GMCBL 'Service Timings: 5:30 AM to 10:30 PM'). Per-route first-bus times are as scraped (e.g. 118=05:50, 116E=06:30, 134=06:00, 212=06:00, 221A=06:15, 133=07:36, 111A=07:49, 217=15:30, 254=15:00); return-direction first departure estimated from journey duration. stop_times use realistic clock times: first trip anchored on the scraped first-bus time and evenly interpolated across the route's scraped journey duration; a second same-direction trip and one reverse trip per route were added at ~30-min headway (headway not published per-route, yometro cites 15-30 min peak for 118). Stop coordinates geocoded only for major hubs/metro stations/bus stands with reliable known lat/lon (HUDA/Millennium City Centre, MG Road, IFFCO Chowk metros; Hero Honda Chowk; Sohna, Gurugram Railway, Farrukhnagar, Manesar, Rajiv/Subhash/Basai Chowk, Badshahpur). Hundreds of minor sector/village stops (e.g. 'Sector-43/Sector-44A') left with null coords — truly unknown, not invented. The businfo portal (authoritative stop coords + tentative ETA schedule) timed out on fetch; Moovit line PDFs are binary and could not be text-extracted. Confidence 0.4: route topology and stop ORDER are well-evidenced and faithful; exact clock times per stop are interpolated (only first-bus + total duration were published), most intermediate stop coordinates are missing, and only ~10% of the network's routes are included. Calendar assumed daily (GMCBL runs 7 days).",
+  "source": "llm-normalized"
+}

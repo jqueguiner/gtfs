@@ -1,0 +1,14 @@
+{
+  "operator": "Transmetro (BRT) — Municipalidad de Guatemala",
+  "city": "Guatemala City",
+  "cc": "GT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 83,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 176
+  },
+  "notes": "Sources: es.wikipedia.org/wiki/Transmetro_(Guatemala) + per-line ES Wikipedia articles, en.wikipedia.org/wiki/Transmetro (full ordered station lists per line), metrorouteatlas.net (station counts / opening dates, OSM-derived), guatemala.com rutas-horarios article (service hours per line). muniguate.com returned HTTP 403 (blocked). 8 BRT lines modeled: L1, L2, L6, L7, L12, L13, L18 (all route_type=3 bus/BRT), 83 unique stations. Ordered stops per line come from English Wikipedia + cross-checked with metrorouteatlas counts and the L12 article. Service hours per line are from the guatemala.com article (weekday/Sat/Sun windows in calendar note below). GEOCODING: coordinates confirmed from web search/OSM for a subset of anchor stations — Trebol (14.61267,-90.53567), Torre del Reformador (14.61301,-90.51662), Plaza Espana Transmetro stop (14.59979,-90.51913), Hipodromo del Norte (14.66172,-90.50814); terminals (Centra Sur, San Sebastian, FEGUA/Plaza Barrios, Proyectos, Centra Atlantida, Terminal) placed from published street addresses. The MAJORITY of intermediate-station coordinates are APPROXIMATE — interpolated along the known road corridors (Aguilar Batres/Bolivar for L12; 6a avenida + Reforma for L13; Roosevelt for L7; etc.) and are indicative (~city-block accuracy), NOT surveyed. Overpass/Nominatim were unreachable from the sandbox so exact OSM node coords could not be pulled for every stop. STOP_TIMES: one representative trip per direction per line (14 trips), stops spaced at a uniform 2-min BRT inter-stop travel time starting at each line's weekday opening time; these are synthetic (only frequency ~8-12 min and service-window hours are published, not per-stop timetables). Calendar models 3 services (WK/SA/SU) but all 14 representative trips are attached to WK for validity; real Sat/Sun service runs on shorter windows (L1 Sat 05:00-19:00 Sun 06:30-19:00; L6/L7/L18 Sat 05:00-20:00 Sun 06:00-20:00; L12 Sat/Sun 04:30-21:00; L13 weekends 05:00-20:00). Headway ~8-12 min system-wide. Some Z1 stations were closed and Santa Cecilia added in the 2023 L12 restructuring (reflected). No stops were invented — every station is evidenced in Wikipedia/metrorouteatlas. Confidence 0.55: route topology + ordered stops + service windows are well-sourced; precise per-stop coordinates and exact clock timetables are approximate.",
+  "source": "llm-normalized"
+}
