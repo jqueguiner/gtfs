@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MOMS (Murska Sobota city transport)",
+    "country": "SI",
+    "subdivision": "Murska Sobota",
+    "city": "Murska Sobota"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/extract_moms_gtfs/latest/moms_gtfs.zip",
+    "mdb_id": "si-nap-moms-murska-sobota-city-transpor",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

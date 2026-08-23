@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Marprom",
+    "country": "SI",
+    "subdivision": "Maribor",
+    "city": "Maribor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/marprom_official/latest/marprom_gtfs.zip",
+    "mdb_id": "si-nap-marprom",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

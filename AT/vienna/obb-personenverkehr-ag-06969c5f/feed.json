@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OBB-Personenverkehr AG",
+    "country": "AT",
+    "subdivision": "AT (national)",
+    "city": "Vienna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip",
+    "mdb_id": "at-nap-obb-personenverkehr-ag",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

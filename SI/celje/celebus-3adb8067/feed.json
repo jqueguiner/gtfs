@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Celebus",
+    "country": "SI",
+    "subdivision": "Celje",
+    "city": "Celje"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/CELEBUS/latest/celje.zip",
+    "mdb_id": "si-nap-celebus",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

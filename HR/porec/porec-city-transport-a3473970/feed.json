@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Porec city transport",
+    "country": "HR",
+    "subdivision": "Istria",
+    "city": "Porec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hoermalmeister.github.io/gtfs-rehost/porec/porec.zip",
+    "mdb_id": "hr-nap-porec-city-transport",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

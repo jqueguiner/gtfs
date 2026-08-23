@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Koper city transport (Arriva)",
+    "country": "SI",
+    "subdivision": "Koper",
+    "city": "Koper"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/koper_gtfs.zip",
+    "mdb_id": "si-nap-koper-city-transport-arriva",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

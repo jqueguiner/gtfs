@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jadrolinija (ferries)",
+    "country": "HR",
+    "subdivision": "Adriatic coast",
+    "city": "National (Croatia ferries)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/hr-jl.gtfs.zip",
+    "mdb_id": "hr-nap-jadrolinija-ferries",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

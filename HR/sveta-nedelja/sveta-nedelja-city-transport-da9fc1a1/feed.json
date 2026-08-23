@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sveta Nedelja city transport",
+    "country": "HR",
+    "subdivision": "Zagreb County",
+    "city": "Sveta Nedelja"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hoermalmeister.github.io/gtfs-rehost/sveta_nedelja/sveta_nedelja.zip",
+    "mdb_id": "hr-nap-sveta-nedelja-city-transport",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pulapromet",
+    "country": "HR",
+    "subdivision": "Istria",
+    "city": "Pula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/pula-gtfs/latest/pulapromet_gtfs.zip",
+    "mdb_id": "hr-nap-pulapromet",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

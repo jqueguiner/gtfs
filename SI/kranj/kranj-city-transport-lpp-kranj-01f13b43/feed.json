@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kranj city transport (LPP Kranj)",
+    "country": "SI",
+    "subdivision": "Kranj",
+    "city": "Kranj"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/kranj/latest/kranj_gtfs.zip",
+    "mdb_id": "si-nap-kranj-city-transport-lpp-kranj",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

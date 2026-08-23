@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Postojna city transport",
+    "country": "SI",
+    "subdivision": "Postojna",
+    "city": "Postojna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/postojna_gtfs.zip",
+    "mdb_id": "si-nap-postojna-city-transport",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

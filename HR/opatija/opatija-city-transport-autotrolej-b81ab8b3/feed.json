@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Opatija city transport (Autotrolej)",
+    "country": "HR",
+    "subdivision": "Primorje-Gorski Kotar",
+    "city": "Opatija"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hoermalmeister.github.io/gtfs-rehost/opatija/opatija.zip",
+    "mdb_id": "hr-nap-opatija-city-transport-autotrole",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

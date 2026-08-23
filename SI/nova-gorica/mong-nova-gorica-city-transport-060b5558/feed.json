@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MONG (Nova Gorica city transport)",
+    "country": "SI",
+    "subdivision": "Nova Gorica",
+    "city": "Nova Gorica"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/mong_gtfs.zip",
+    "mdb_id": "si-nap-mong-nova-gorica-city-transport",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

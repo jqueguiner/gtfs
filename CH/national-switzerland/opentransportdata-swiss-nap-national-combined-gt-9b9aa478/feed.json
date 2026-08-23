@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss (NAP) — national combined GTFS: SBB rail + all cantonal/city operators (VBZ Zurich, TPG Geneva, BVB Basel, BLT, BERNMOBIL, PostAuto, etc.)",
+    "country": "CH",
+    "subdivision": "",
+    "city": "National (Switzerland)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.opentransportdata.swiss/dataset/3d2c18f9-9ef1-463f-a249-5c67604efd74/resource/940f970d-1ab6-4320-9c7e-f8dc5a2af48d/download/gtfs_fp2026_20260729.zip",
+    "mdb_id": "ch-nap-opentransportdata-swiss-nap-nati",
+    "license": "opendata OPT-out / CC-like (Open-Data-CH); free reuse per opentransportdata.swiss terms"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GPP Osijek (Gradski prijevoz putnika)",
+    "country": "HR",
+    "subdivision": "Osijek-Baranja",
+    "city": "Osijek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/hr-osijekgpp.gtfs.zip",
+    "mdb_id": "hr-nap-gpp-osijek-gradski-prijevoz-putn",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

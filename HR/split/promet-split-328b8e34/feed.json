@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Promet Split",
+    "country": "HR",
+    "subdivision": "Split-Dalmatia",
+    "city": "Split"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/split-gtfs/latest/split_gtfs.zip",
+    "mdb_id": "hr-nap-promet-split",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

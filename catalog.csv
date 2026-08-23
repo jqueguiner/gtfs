@@ -29,6 +29,7 @@ AT,Linz,TBO Offenburg,https://www.nvbw.de/fileadmin/user_upload/service/open_dat
 AT,Salzburg,Salzburger Verkehrsverbund (Salzburg Verkehr),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27317/file,at-gtfs-salzburgverkehr-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Salzburg,Salzburger Verkehrsverbund (Salzburg Verkehr),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27318/file,at-gtfs-flex-salzburgverkehr-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Salzburg,Stadtwerke Heilbronn (SWHN),https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/hnv.zip,mdb-783,,active
+AT,Vienna,OBB-Personenverkehr AG,https://static.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip,at-nap-obb-personenverkehr-ag,CC BY 4.0,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27249/file,at-gtfs-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27250/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
@@ -419,6 +420,8 @@ CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/cont
 CD,Kinshasa,Kinshasa~Dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/raw/main/GTFS%20Datasets/Kinshasa_GTFS.zip,f-kinshasa~dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/blob/main/README.md,active
 CD,Kinshasa,Transco (Societe de Transports du Congo),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CD/kinshasa/transco-societe-de-transports-du-congo/gtfs/,cd-llm-transco-societe-de-transports-du-congo,,active
 CH,Mendrisio,European Sleeper,https://jbb.ghsq.de/gtfs/eu-es.gtfs.zip,mdb-3107,,active
+CH,National (Switzerland),geOps — daily-converted national Swiss GTFS (from official HAFAS/HRDF published on opentransportdata.swiss),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-nap-geops-daily-converted-national-s,Derived from official Swiss NAP data (opentransportdata.swiss terms); geOps free feed,active
+CH,National (Switzerland),"opentransportdata.swiss (NAP) — national combined GTFS: SBB rail + all cantonal/city operators (VBZ Zurich, TPG Geneva, BVB Basel, BLT, BERNMOBIL, PostAuto, etc.)",https://data.opentransportdata.swiss/dataset/3d2c18f9-9ef1-463f-a249-5c67604efd74/resource/940f970d-1ab6-4320-9c7e-f8dc5a2af48d/download/gtfs_fp2026_20260729.zip,ch-nap-opentransportdata-swiss-nap-nati,opendata OPT-out / CC-like (Open-Data-CH); free reuse per opentransportdata.swiss terms,active
 CH,Neuchâtel,Systemaufgaben Kundeninformation SKI+,https://data.opentransportdata.swiss/de/dataset/gtfsflex/permalink,mdb-2053,,active
 CH,national,Shuttler~Ch,https://shuttler.ticpoi.com/public/routes/gtfs,f-shuttler~ch,,active
 CH,national,Systemaufgaben Kundeninformation SKI+,https://data.opentransportdata.swiss/dataset/timetable-2026-gtfs2020/permalink,mdb-2898,https://opentransportdata.swiss/en/terms-of-use/#Definitions,active
@@ -3170,10 +3173,26 @@ GT,Guatemala City,Rutas Express — Municipalidad de Mixco,https://raw.githubuse
 GT,Guatemala City,Transmetro (BRT) — Municipalidad de Guatemala,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/GT/guatemala-city/transmetro-brt-municipalidad-de-guatemala/gtfs/,gt-llm-transmetro-brt-municipalidad-de-guatemal,,active
 GT,Guatemala City,TuBus — Municipalidad de Guatemala (operated by Transmetro),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/GT/guatemala-city/tubus-municipalidad-de-guatemala-operated-by-tra/gtfs/,gt-llm-tubus-municipalidad-de-guatemala-operate,,active
 HN,national,GTFS Honduras Open (National Transit Feed),https://github.com/Heysoybruno09/honduras-transit-gtfs/archive/refs/heads/main.zip,mdb-3135,,active
+HR,Crikvenica,Autotrans / Crikvenica city transport,https://hoermalmeister.github.io/gtfs-rehost/crikvenica/crikvenica.zip,hr-nap-autotrans-crikvenica-city-transp,Otvorena dozvola,active
+HR,Dubrovnik,Libertas Dubrovnik,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/libertas-gtfs/latest/libertas_gtfs.zip,hr-nap-libertas-dubrovnik,Otvorena dozvola,active
 HR,Grubine,Greyhound,http://gtfs.gis.flix.tech/gtfs_generic_eu.zip,f-u-flixbus,ODbL-1.0,active
 HR,Hreljin,Autotrolej,https://gt.autotrolej.hr/google-transit.zip,f-u243-autotrolej,https://data.gov.hr/otvorena-dozvola,active
+HR,Karlovac,Autotransport Karlovac / Gradski prijevoz Karlovac,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/karlovac-gtfs/latest/karlovac_gtfs.zip,hr-nap-autotransport-karlovac-gradski-p,Otvorena dozvola,active
+HR,National (Croatia ferries),Jadrolinija (ferries),https://jbb.ghsq.de/gtfs/hr-jl.gtfs.zip,hr-nap-jadrolinija-ferries,Otvorena dozvola,active
+HR,Opatija,Opatija city transport (Autotrolej),https://hoermalmeister.github.io/gtfs-rehost/opatija/opatija.zip,hr-nap-opatija-city-transport-autotrole,Otvorena dozvola,active
 HR,Općina Žakanje,HŽ Passenger Transport,https://www.hzpp.hr/GTFS_files.zip,mdb-3043,,active
+HR,Osijek,GPP Osijek (Gradski prijevoz putnika),https://jbb.ghsq.de/gtfs/hr-osijekgpp.gtfs.zip,hr-nap-gpp-osijek-gradski-prijevoz-putn,Otvorena dozvola,active
+HR,Porec,Porec city transport,https://hoermalmeister.github.io/gtfs-rehost/porec/porec.zip,hr-nap-porec-city-transport,Otvorena dozvola,active
+HR,Pula,Pulapromet,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/pula-gtfs/latest/pulapromet_gtfs.zip,hr-nap-pulapromet,Otvorena dozvola,active
+HR,Rab,Rapska plovidba (ferry),https://hoermalmeister.github.io/gtfs-rehost/rapska_plovidba/rapska_plovidba.zip,hr-nap-rapska-plovidba-ferry,Otvorena dozvola,active
+HR,Rab,Rapska vozidba (island bus),https://owncloud.cesnet.cz/index.php/s/UudJhpom7fgur2X/download,hr-nap-rapska-vozidba-island-bus,Otvorena dozvola,active
+HR,Rijeka,KD Autotrolej Rijeka,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/rijeka-gtfs/latest/autotrolej_gtfs.zip,hr-nap-kd-autotrolej-rijeka,CC-BY-4.0,active
+HR,Sisak,Autopromet Sisak,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/sisak-gtfs/latest/ap_sisak_gtfs.zip,hr-nap-autopromet-sisak,Otvorena dozvola,active
+HR,Slavonski Brod,Terzic (Slavonski Brod city bus),https://hoermalmeister.github.io/gtfs-rehost/slavonski_brod/slavonski_brod.zip,hr-nap-terzic-slavonski-brod-city-bus,Otvorena dozvola,active
 HR,Smokvica,Trenitalia~Contrammobilitascpa~Trasfersocconsarl~Adriabussp,http://www.trasporti.marche.it/downloads/opendata/GTFS_TRASPORTI_UNIFICATO_13-07-2016.zip,f-sr-trenitalia~contrammobilitascpa~trasfersocconsarl~adriabussp,http://creativecommons.org/licenses/by-nc-nd/3.0/it/,active
+HR,Split,Promet Split,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/split-gtfs/latest/split_gtfs.zip,hr-nap-promet-split,Otvorena dozvola,active
+HR,Sveta Nedelja,Sveta Nedelja city transport,https://hoermalmeister.github.io/gtfs-rehost/sveta_nedelja/sveta_nedelja.zip,hr-nap-sveta-nedelja-city-transport,Otvorena dozvola,active
+HR,Zadar,Liburnija Zadar,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/zadar-gtfs/latest/zadar_gtfs.zip,hr-nap-liburnija-zadar,Otvorena dozvola,active
 HR,Zagreb,ZET — Zagrebački električni tramvaj (tram + bus),https://www.zet.hr/gtfs-scheduled/latest,hr-disc-17,,active
 HR,Zagreb,Zagrebački Električni Tramvaj,https://zet.hr/gtfs-scheduled/latest,tld-1071,,active
 HR,Zagreb,bodo Verkehrsverbund,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/bodo.zip,mdb-769,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
@@ -6048,6 +6067,7 @@ NL,Breda,Société nationale des chemins de fer belges (NMBS-SNCB),https://data.
 NL,Breda,Société nationale des chemins de fer belges (NMBS-SNCB),https://gtfs.irail.be/nmbs/gtfs/latest.zip,mdb-686,,active
 NL,Hollum,Delijn,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/static,f-u1-delijn,CC-BY-4.0,active
 NL,National,OVapi — Netherlands national (NS/GVB/RET/HTM/Connexxion/Arriva/Qbuzz/EBS),https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-ovapi-national,CC0,active
+NL,Netherlands (nationwide),OpenOV / NDOV (aggregate: all NL operators),https://gtfs.ovapi.nl/openov-nl/gtfs-openov-nl.zip,nl-nap-openov-ndov-aggregate-all-nl-ope,CC0-1.0,active
 NL,Valkenburg,Nmbs~Sncb,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/static,f-u-nmbs~sncb,CC-BY-4.0,active
 NL,national,Arriva,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-15f2ef8a4b,CC0,active
 NL,national,Blauwnet Arriva,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-58831af92f,CC0,active
@@ -6502,11 +6522,22 @@ SG,Central,Mandai Wildlife Reserve,https://www.mandai.com/content/dam/mandai/mis
 SG,Central,"SMRT, SBS Transit (SBST), Land Transport Authority (LTA), Go Ahead Singapore (GAS), Tower Transit (TTS)",https://cdn.rushowl.app/rushtrail-app/gtfs-feed/gtfs-feed-lta.zip,mdb-1076,,active
 SG,Southeast,Singapore typical weekday,https://github.com/Vorld/singapore-gtfs/releases/download/v2026-07-12/singapore-gtfs.zip,mdb-3409,https://github.com/Vorld/singapore-gtfs#licence,active
 SI,Brežice,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.brezice,mdb-2941,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
+SI,Celje,Celebus,https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/CELEBUS/latest/celje.zip,si-nap-celebus,CC-BY-SA-4.0,active
 SI,Jesenice,Ariva,https://b2b.nap.si/data/b2b.gtfs.jesenice,mdb-2942,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
 SI,Kamnik,"Družbe za upravljanje javnega potniškega prometa, d.o.o.",https://b2b.nap.si/data/b2b.gtfs,mdb-2940,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
+SI,Koper,Koper city transport (Arriva),http://gtfs.derp.si/koper_gtfs.zip,si-nap-koper-city-transport-arriva,CC-BY-SA-4.0,active
+SI,Kranj,Kranj city transport (LPP Kranj),https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/kranj/latest/kranj_gtfs.zip,si-nap-kranj-city-transport-lpp-kranj,CC-BY-SA-4.0,active
 SI,Kranjska Gora,TURIZEM KRANJSKA GORA,https://b2b.nap.si/data/b2b.gtfs.kranjska-gora,mdb-2943,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
 SI,Ljubljana,Ljubljanski Potniski Promet (LPP),https://avl.lpp.si/transit/api/gtfs,si-disc-16,,active
 SI,Ljubljana,Ljubljanski Potniški Promet,https://data.lpp.si/api/gtfs/feed.zip,mdb-1827,,active
+SI,Maribor,Marprom,https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/marprom_official/latest/marprom_gtfs.zip,si-nap-marprom,CC-BY-SA-4.0,active
+SI,Murska Sobota,MOMS (Murska Sobota city transport),https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/extract_moms_gtfs/latest/moms_gtfs.zip,si-nap-moms-murska-sobota-city-transpor,CC-BY-SA-4.0,active
+SI,National (Slovenia),IJPP / OJPP national combined (nap.si National Access Point),https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/IJPP/latest/ijpp_gtfs.zip,si-nap-ijpp-ojpp-national-combined-nap-,CC-BY-SA-4.0,active
+SI,Nova Gorica,MONG (Nova Gorica city transport),http://gtfs.derp.si/mong_gtfs.zip,si-nap-mong-nova-gorica-city-transport,CC-BY-SA-4.0,active
+SI,Novo Mesto,MONM (Novo Mesto city transport),http://gtfs.derp.si/monm_manual.zip,si-nap-monm-novo-mesto-city-transport,CC-BY-SA-4.0,active
+SI,Postojna,Postojna city transport,http://gtfs.derp.si/postojna_gtfs.zip,si-nap-postojna-city-transport,CC-BY-SA-4.0,active
+SI,Ptuj,Ptuj city transport,http://gtfs.derp.si/ptuj_gtfs.zip,si-nap-ptuj-city-transport,CC-BY-SA-4.0,active
+SI,Velenje,Velenje Lokalc (free city bus),http://gtfs.derp.si/velenje_manual.zip,si-nap-velenje-lokalc-free-city-bus,CC-BY-SA-4.0,active
 SI,Šempeter-Vrtojba,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.nova-gorica,mdb-2944,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
 SK,Bratislava,IDS BK Regional Buses,https://transiq.xhyrom.dev/gtfs/sk/ids-bk_regional.zip,mdb-2919,,active
 SK,District of Dunajská Streda,Kompa Vojka-Kyselica,https://github.gtfs.sk/kompa-vojka/gtfs.zip,mdb-3478,,active

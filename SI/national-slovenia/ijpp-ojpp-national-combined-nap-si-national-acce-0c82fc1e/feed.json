@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "IJPP / OJPP national combined (nap.si National Access Point)",
+    "country": "SI",
+    "subdivision": "Slovenia",
+    "city": "National (Slovenia)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/IJPP/latest/ijpp_gtfs.zip",
+    "mdb_id": "si-nap-ijpp-ojpp-national-combined-nap-",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Velenje Lokalc (free city bus)",
+    "country": "SI",
+    "subdivision": "Velenje",
+    "city": "Velenje"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/velenje_manual.zip",
+    "mdb_id": "si-nap-velenje-lokalc-free-city-bus",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

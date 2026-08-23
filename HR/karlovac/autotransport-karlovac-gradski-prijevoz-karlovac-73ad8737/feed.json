@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autotransport Karlovac / Gradski prijevoz Karlovac",
+    "country": "HR",
+    "subdivision": "Karlovac",
+    "city": "Karlovac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/karlovac-gtfs/latest/karlovac_gtfs.zip",
+    "mdb_id": "hr-nap-autotransport-karlovac-gradski-p",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

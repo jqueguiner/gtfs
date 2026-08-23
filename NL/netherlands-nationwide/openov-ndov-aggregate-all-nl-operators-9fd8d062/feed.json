@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OpenOV / NDOV (aggregate: all NL operators)",
+    "country": "NL",
+    "subdivision": "",
+    "city": "Netherlands (nationwide)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/openov-nl/gtfs-openov-nl.zip",
+    "mdb_id": "nl-nap-openov-ndov-aggregate-all-nl-ope",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

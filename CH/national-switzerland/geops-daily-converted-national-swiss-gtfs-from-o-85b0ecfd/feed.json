@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "geOps — daily-converted national Swiss GTFS (from official HAFAS/HRDF published on opentransportdata.swiss)",
+    "country": "CH",
+    "subdivision": "",
+    "city": "National (Switzerland)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-nap-geops-daily-converted-national-s",
+    "license": "Derived from official Swiss NAP data (opentransportdata.swiss terms); geOps free feed"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

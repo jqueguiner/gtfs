@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MONM (Novo Mesto city transport)",
+    "country": "SI",
+    "subdivision": "Novo Mesto",
+    "city": "Novo Mesto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/monm_manual.zip",
+    "mdb_id": "si-nap-monm-novo-mesto-city-transport",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

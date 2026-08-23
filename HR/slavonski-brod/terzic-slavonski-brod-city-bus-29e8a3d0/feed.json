@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Terzic (Slavonski Brod city bus)",
+    "country": "HR",
+    "subdivision": "Brod-Posavina",
+    "city": "Slavonski Brod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hoermalmeister.github.io/gtfs-rehost/slavonski_brod/slavonski_brod.zip",
+    "mdb_id": "hr-nap-terzic-slavonski-brod-city-bus",
+    "license": "Otvorena dozvola"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

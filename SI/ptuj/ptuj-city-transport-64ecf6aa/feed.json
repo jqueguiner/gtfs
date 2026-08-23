@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ptuj city transport",
+    "country": "SI",
+    "subdivision": "Ptuj",
+    "city": "Ptuj"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.derp.si/ptuj_gtfs.zip",
+    "mdb_id": "si-nap-ptuj-city-transport",
+    "license": "CC-BY-SA-4.0"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}
