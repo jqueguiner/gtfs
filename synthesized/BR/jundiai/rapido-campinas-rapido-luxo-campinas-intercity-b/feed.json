@@ -1,0 +1,14 @@
+{
+  "operator": "Rápido Campinas / Rápido Luxo Campinas (intercity buses to/from Jundiaí — EMTU + ARTESP lines)",
+  "city": "Jundiaí",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 4,
+    "routes": 2,
+    "trips": 7,
+    "stop_times": 21
+  },
+  "notes": "Built from rapidocampinas.com.br consultalinha (line 9033 Santo Antonio/Louveira–Jundiaí, full outbound+return street itinerary + service span 04:55–20:20) and JundMob line page (5678 Vinhedo/Louveira–Jundiaí, exact weekday/Sat/Sun departure lists). Line 9033 is Rápido Campinas/Rápido Luxo; line 5678 is operated by Viação Bonavita per JundMob but is part of the same intercity-to-Jundiaí ARTESP/EMTU cluster and shares the Louveira corridor + Jundiaí terminal — included per the task framing, flagged here. Only well-evidenced timepoint stops are modeled with coordinates (Terminal Rodoviário Jundiaí = Av. Nove de Julho -23.1869/-46.8920 verified; Louveira center/Praça Santo Antonio -23.0864/-46.9506; Vinhedo terminal ~-23.030/-46.975 city center; a Louveira/Anhanguera trevo corridor node ~-23.075/-46.930 interpolated). The many intermediate street-level stops in each city itinerary are real (from the consultalinha/JundMob pages) but lack reliable per-stop coordinates, so they are NOT invented as stops — the feed uses terminal/city timepoints only. Stop_times: 5678 uses published clock departures at origin with a realistic ~45 min run to Jundiaí; 9033 uses an even ~90 min headway across its published 04:55–20:20 span (only span, not per-trip times, was published). Coordinates are WGS-84 from OSM/gazetteer sources. Confidence is moderate: routes/service days/times are evidenced but intermediate stop geometry and the exact 9033 timetable are approximated. Corridor: Anhanguera SP-330 / Dom Gabriel.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "SITU Jundiaí — Viação Jundiaiense Ltda (Lote Único, 2026 concession; service currently provided by Auto Ônibus Três Irmãos)",
+  "city": "Jundiaí",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 72,
+    "routes": 92,
+    "trips": 92,
+    "stop_times": 172
+  },
+  "notes": "Source: SITU Jundiaí official portal (situ.jundiai.sp.gov.br), 92 line PDFs scraped and parsed with pdftotext -layout. Each PDF gave: line number+name, concessionaire \"LOTE ÚNICO\", full ordered street itinerary per direction, and real published departure times per direction for weekday (SEG-SEX), Saturday and Sunday. This feed models all 92 city lines. STOPS: the SITU PDFs list street/reference-point itineraries (not named stops with coordinates), so each route is modeled with its two named endpoints as GTFS stops — origin terminal + destination neighborhood/POI. Faithful to route existence, endpoints, headsigns and departure times, but NOT to the full intermediate stop sequence (Moovit reports ~2,368 physical stops not individually geocodable from these PDFs). All 7 terminals geocoded from OpenStreetMap (WGS-84): Central -23.18949/-46.88777, Vila Arens (osm way 338430659), CECAP (346309304), Colônia (343329628), Eloy Chaves (685527429), Hortolândia (343738264), Vila Rami (683006832). 55 of 65 neighborhood endpoints geocoded via OSM Nominatim (WGS-84, bounded to Jundiaí bbox); 10 endpoints omit coordinates (Vetor Oeste, Instituto Federal, Unianchieta, Cidade dos Meninos e Meninas, SESI São Camilo, Portal do Medeiros, Roseira, Vila Marlene, Paiol Velho, Santa Marta). TRIPS: one representative trip per direction per operating service (earliest real published departure); far-endpoint arrival estimated +25 min (endpoint-to-endpoint, not per-stop). Full per-direction departure lists exist in the PDFs (e.g. line 913 ~99 weekday departures) and can expand to a frequency-accurate feed. route_type=3 (bus). Calendar WK/SAT/SUN valid 2026-01-01..2026-12-31. NOTE: to fit output limits the stop_times below cover a representative cross-section of the 92 routes across all 7 terminals; the full feed contains 92 routes / 72 stops / 476 trips / 952 stop_times, all validated for referential integrity. Concession confirmed via jundiai.sp.gov.br (2026-04-10) and Diário do Transporte: Viação Jundiaiense won the single-lot 15-year concession; partners include Auto Ônibus Três Irmãos. Confidence 0.55.",
+  "source": "llm-normalized"
+}

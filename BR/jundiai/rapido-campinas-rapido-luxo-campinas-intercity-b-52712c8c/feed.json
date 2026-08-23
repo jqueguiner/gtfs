@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rápido Campinas / Rápido Luxo Campinas (intercity buses to/from Jundiaí — EMTU + ARTESP lines)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Jundiaí"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/jundiai/rapido-campinas-rapido-luxo-campinas-intercity-b/gtfs/",
+    "mdb_id": "br-llm-rapido-campinas-rapido-luxo-campinas-int",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

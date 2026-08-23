@@ -1,0 +1,14 @@
+{
+  "operator": "TURP - Transporte Urbano de Petrópolis",
+  "city": "Petrópolis",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 6,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 14
+  },
+  "notes": "TURP (Transporte Urbano de Petrópolis) is an urban BUS operator only — no metro/tram/rail/BRT/ferry exists for this operator in Petrópolis, so all routes are route_type 3. onibus.online lists ~56 TURP lines but publishes street-name itineraries and endpoints only (no per-stop coordinates); the official CPTrans timetables (petropolis.rj.gov.br/cptrans) time out on fetch. I built the two best-documented lines with REAL published clock times:\n\nLine 607 (Caitetu x Terminal Corrêas): confirmed short feeder line, ~2 km / ~5 min, 8 stops on Moovit, itinerary via Estrada União e Indústria and R. do Caititu (Corrêas). Real weekday+Saturday departures from T. Corrêas: 05:50, 07:00, 07:50, 09:15, 11:00, 12:05, 13:15, 14:10, 15:30, 16:20, 17:20, 18:20, 19:20, 20:20, 21:15, 23:10; return ~10 min later. NO Sunday/holiday service (0 trips). One representative outbound + return trip included using the first real departure pair (05:50/06:00). Last official schedule revision 13/02/2017.\n\nLine 600 (Terminal Corrêas x Centro): real weekday timetable both directions from onibus.online (T. Corrêas dep 04:40, 05:00, 05:30, 06:00, 06:20, ...; Centro dep 05:00, 05:30, 06:00, ...). Weekday-heavy; Sat/Sun effectively a single late trip. One representative trip per direction built from first weekday departures.\n\nCOORDINATES (WGS-84): Terminal Corrêas (-22.4512,-43.1445) from address Estrada União e Indústria 2853, Corrêas (IBGE/CEP). Centro anchored to Praça Dom Pedro II / Rua do Imperador (-22.5052,-43.1789), the historic-center bus hub. Caititu/Caitetu stops placed along R. do Caititu in Corrêas near the terminal (line is only 2 km). Intermediate line-600 stops (Nogueira, Bingen) are known points on the Estrada União e Indústria corridor between Corrêas and Centro but their exact stop coordinates are approximate (interpolated along the corridor), NOT surveyed — this is the main source of reduced confidence. No stops were invented beyond evidenced endpoints/corridor; per-stop granularity is limited by the sources.\n\nConfidence 0.42: endpoints, route existence, service days and clock times are well-grounded from official/aggregator sources; intermediate stop lists and their coordinates are partial/approximate, and only 2 of ~56 lines are represented.",
+  "source": "llm-normalized"
+}

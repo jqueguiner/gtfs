@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Pinheiral",
+  "city": "Volta Redonda",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 24,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 68
+  },
+  "notes": "Bus operator (route_type 3); no metro/rail exists for this operator. Sources: prefeitura de Volta Redonda horario-de-onibus (lists 5 Viação Pinheiral routes: 210/210B/210C, 245, 420, plus P431/P145 intermunicipal), onibus.online (real weekday departure times for P431 and 210), and a Moovit line-map PDF (appassets.mvtdev.com/map/131/l/4881/51298365.pdf) that gave the FULL ordered stop lists WITH street addresses: 53 stops for the Pinheiral (Direto) direction and 40 stops for Ponte Alta direction. Terminals: Terminal Castelo Branco (Conforto, Volta Redonda) and Terminal José Breves (Pinheiral). Coordinates are OSM/Nominatim WGS-84 (geocoded from the addresses/POIs in the Moovit itinerary); a handful of intermediate stops (jeuropa, spa_conf, colorado, vr_pin, nilton, prefpin, benjamin, tjb, pmaira) are approximate interpolations along the evidenced corridor between geocoded anchors. Two well-documented but unused stops (Terminal Ponte Alta, Parque Maíra) are included as evidenced from the PDF Ponte Alta leg. Built P431 (both directions, real ordered anchor stops, real first-departure clock times from onibus.online: Pinheiral dir 04:25, VR dir 05:40) and line 210 Três Poços/Conforto (endpoints + centro corridor evidenced; times from onibus.online weekday span). Full per-departure schedule (37 weekday trips Pinheiral-bound, 27 VR-bound) was extracted but reduced here to one representative trip per direction per route. Calendar = weekday service (Mon-Fri); P431 also runs Sat/Sun/holiday per sources but only weekday times were transcribed. Confidence 0.55: stop ORDER and street names are strongly evidenced from the operator's Moovit map; some intermediate coords are interpolated, and only 2 of 5+ Pinheiral routes are modeled. NOTE: Vipil (Viação Pinheiral) is under a Detro-RJ transition to Viação Elite as of 2025-2026, so live operation may differ.",
+  "source": "llm-normalized"
+}

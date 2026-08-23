@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Pinheiral",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Volta Redonda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/volta-redonda/viacao-pinheiral/gtfs/",
+    "mdb_id": "br-llm-viacao-pinheiral",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

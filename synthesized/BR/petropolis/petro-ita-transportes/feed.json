@@ -1,0 +1,14 @@
+{
+  "operator": "Petro Ita Transportes",
+  "city": "Petrópolis",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 5,
+    "routes": 4,
+    "trips": 9,
+    "stop_times": 20
+  },
+  "notes": "Source: onibus.online per-line pages (schedules \"atualizado 07/04/2026\"), which list Petro Ita as operator and give real clock-time departure boards. Four lines with fully-evidenced timetables were built end-to-end: 025 (Executivo Bingen<->Quitandinha), 205 (Valparaíso<->Paulo Barbosa/Centro), 412 (Quitandinha<->Terminal Centro), 480 (Terminal Bingen<->Coronel Veiga). Petro Ita operates ~78 lines total but the other line pages expose only endpoint names, not ordered intermediate stops, so they were NOT fabricated. Petrópolis has NO metro/rail/BRT (the historic Estrada de Ferro Petrópolis is defunct), so metro/rail-first does not apply; all routes are route_type=3 bus. Stops are terminal/endpoint stops only (onibus.online does not publish ordered intermediate stop lists); intermediate stops were not invented. OSM Overpass API was unreachable from this environment, so stop coordinates were geocoded from published WGS-84 references: Palácio Quitandinha -22.52727,-43.21278 (Wikipedia); Petrópolis Centro -22.5050,-43.1789 (Wikipedia); Terminal Bingen / Rod. Gov. Leonel Brizola in Bingen; Valparaíso and Coronel Veiga (Rua Cel. Veiga, Centro) approximated to neighborhood centroids (within a few hundred m). Times taken verbatim from the departure boards; where only a terminal->terminal pair is published, one representative trip per direction was created using real board times and a ~30-40 min run time. calendar: weekday (Mon-Fri), Saturday, Sunday services per each line's published day-of-week boards. Not a China feed so GCJ-02 caveat is moot. Confidence 0.55: departure times are real and operator-attributed, but intermediate stop geometry is absent and coords are centroid-level, and only 4 of ~78 lines are represented.",
+  "source": "llm-normalized"
+}

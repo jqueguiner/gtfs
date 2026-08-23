@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cidade Real Transportes",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Petropolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/petropolis/cidade-real-transportes/gtfs/",
+    "mdb_id": "br-llm-cidade-real-transportes",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

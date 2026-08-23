@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TURP - Transporte Urbano de Petrópolis",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Petrópolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/petropolis/turp-transporte-urbano-de-petropolis/gtfs/",
+    "mdb_id": "br-llm-turp-transporte-urbano-de-petropolis",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

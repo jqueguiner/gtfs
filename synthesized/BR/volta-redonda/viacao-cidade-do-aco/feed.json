@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Cidade do Aço",
+  "city": "Volta Redonda",
+  "cc": "BR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 32,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 79
+  },
+  "notes": "Built from the official STMU (Prefeitura de Volta Redonda) ANEXO I QUADRO DE HORÁRIOS and ANEXO II ITINERÁRIO PDFs (voltaredonda.rj.gov.br/horario-onibus/Viação Cidade do Aço/...), extracted with pdftotext -layout. Four routes are officially assigned to Viação Cidade do Aço: 125 (Ponte Alta x Roma I via Siderópolis/Vila Rica, O.S. 002/2026), 180 (Conforto x Roma II, O.S. 045/2026), 520 (Belmonte Circular, O.S. 045/2026), 550 (Siderlândia Circular, O.S. 043/2026). RÓTULO names taken from the PDFs and differ from the onibus.online landing page (e.g. 180 real name = CONFORTO X ROMA II, not 'Santa Barbara'). Departure times in stop_times are the real published first departures for each direction from the QUADRO DE HORÁRIOS; intermediate stop_times are linearly interpolated across the published one-way run time (125 ~51min, 180 ~50min, 520/550 circular ~40min) since the PDFs give terminal departures only, not per-stop times. STMU itineraries are STREET-based (list ruas/avenidas traversed), not named passenger stops; stops here are representative points placed at the major named streets/neighborhood anchors in itinerary order. Coordinates are OSM/Nominatim WGS-84 (correct for GTFS). Confidence 0.6: route list, ordering, endpoints and clock times are faithful to the official source; per-stop coordinates and intermediate stop granularity are approximated from street geocoding rather than a surveyed stop layer. Bus2/Mobilibus VRbus app stop layer and the 174-node OSM VR bbox were referenced for neighborhood anchors. P501/P541 appear on onibus.online under this operator but are intercity/serrinha lines without confirmed STMU municipal itinerary PDFs, so excluded. All routes route_type=3 (bus). Service: dias úteis (Mon-Fri), sábado, domingo all present in the PDFs.",
+  "source": "llm-normalized"
+}

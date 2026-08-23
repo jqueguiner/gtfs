@@ -1,0 +1,14 @@
+{
+  "operator": "Cidade Real Transportes",
+  "city": "Petropolis",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 25,
+    "routes": 13,
+    "trips": 30,
+    "stop_times": 120
+  },
+  "notes": "Sources: onibus.online/rj/petropolis (route list + per-day departure counts/spans), petropolisbus.blogspot.com (full 45-line Cidade Real route roster + line-100 schedule), and CPTrans official itinerary (qhi-l100-2006.htm via cittamobi) which gives the ordered street sequence for Line 100. The CPTrans site (web2.petropolis.rj.gov.br/cptrans/modules/mod_horarios_cpt/) timed out on fetch. Line 100 (Terminal Bingen x Centro) is the only route with a documented ordered street-level itinerary, so it is modelled with all its named streets/landmarks as stops in both directions. All other 44 Cidade Real lines are urban bus routes whose ONLY evidenced stops are their two named endpoints (from the official route names: a neighborhood/terminal and Centro or Terminal Bingen) -- no ordered intermediate stops are published in the sources, so to avoid inventing unevidenced stops each of those routes is modelled endpoint-to-endpoint only. Coordinates are WGS-84 from OSM/known Petropolis geography (city ~ -22.505,-43.178; Terminal Bingen/Rodoviaria Leonel Brizola ~ -22.527,-43.208). Times: Line 100 real span is weekday 04:20-22:55, Sat 04:20-22:30, Sun 04:20-22:30 with ~47-48 weekday trips; representative trips use realistic clock times / even headway within the published span. Neighborhood-terminal endpoint coordinates for the other lines are approximate neighborhood centroids and several are left null where the exact bairro location is not confidently known. No metro/rail exists in Petropolis (mountain bus-only city), so METRO-FIRST is N/A. Confidence 0.42: route roster and Line 100 itinerary/hours are well-evidenced; the endpoint-only modelling of the other 44 lines is faithful to what is published but omits their true intermediate stops.",
+  "source": "llm-normalized"
+}
