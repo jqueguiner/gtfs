@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TPER (Trasporto Passeggeri Emilia-Romagna)",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "city": "Ferrara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260522&format=zip",
+    "mdb_id": "it-eu2-tper-trasporto-passeggeri-emilia",
+    "license": "TPER Open Data (see solweb.tper.it open-data-legal.aspx)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

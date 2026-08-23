@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OV-Datenverbund NRW (openVRR) — NRW-wide unified feed",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "city": "Dusseldorf/Bochum/Duisburg/Bielefeld/Cologne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.openvrr.de/google_transit.zip",
+    "mdb_id": "de-eu2-ov-datenverbund-nrw-openvrr-nrw-",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

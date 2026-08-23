@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AVV (Aachener Verkehrsverbund)",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "city": "Aachen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip",
+    "mdb_id": "de-eu2-avv-aachener-verkehrsverbund",
+    "license": "CC0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Stadtwerke Munster",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen",
+    "city": "Munster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.busradar.conterra.de/data/stadtwerke_feed.zip",
+    "mdb_id": "de-eu2-stadtwerke-munster",
+    "license": "open (Stadtwerke Munster GTFS terms of use)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

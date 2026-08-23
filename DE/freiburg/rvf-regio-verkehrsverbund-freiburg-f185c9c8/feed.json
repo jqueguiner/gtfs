@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RVF - Regio-Verkehrsverbund Freiburg",
+    "country": "DE",
+    "subdivision": "Baden-Wurttemberg",
+    "city": "Freiburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rvf.zip",
+    "mdb_id": "de-eu2-rvf-regio-verkehrsverbund-freibu",
+    "license": "DL-DE-BY-2.0 (attribution: NVBW GmbH)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

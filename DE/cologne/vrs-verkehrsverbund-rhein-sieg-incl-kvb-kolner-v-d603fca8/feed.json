@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRS (Verkehrsverbund Rhein-Sieg) — incl. KVB Kolner Verkehrs-Betriebe",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen (Rhein-Sieg)",
+    "city": "Cologne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.vrs.de/gtfs/GTFS_VRS_mit_SPNV_hID_GlobalID.zip",
+    "mdb_id": "de-eu2-vrs-verkehrsverbund-rhein-sieg-i",
+    "license": "CC BY (dl-de/by)"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

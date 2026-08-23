@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRR (Verkehrsverbund Rhein-Ruhr) — incl. Rheinbahn Dusseldorf, Bogestra Bochum, DVG Duisburg, moBiel Bielefeld",
+    "country": "DE",
+    "subdivision": "Nordrhein-Westfalen (Rhein-Ruhr)",
+    "city": "Dusseldorf/Bochum/Duisburg/Bielefeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.opendata-oepnv.de/dataset/496eea5d-d6ef-4dc2-aeb0-d15c4fbf3178/resource/46ea57c2-506c-4b2a-bc40-b680b1979f93/download/20250829_gtfs_vrr_od.zip",
+    "mdb_id": "de-eu2-vrr-verkehrsverbund-rhein-ruhr-i",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

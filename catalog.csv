@@ -362,6 +362,7 @@ CZ,Prague,naldo Verkehrsverbund,https://www.nvbw.de/fileadmin/user_upload/servic
 CZ,national,Czech national bus feed JDF,https://owncloud.cesnet.cz/index.php/s/IMvVXZIHOuORDrB/download,mdb-2904,,active
 CZ,national,Czptt~Cz,https://data.jr.ggu.cz/results/latest/CZPTT_GTFS.zip,f-czptt~cz,CC0-1.0,active
 CZ,national,Spojenka (CHAPS / CIS JR merge),https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-spojenka-nationwide,,active
+DE,Aachen,AVV (Aachener Verkehrsverbund),https://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip,de-eu2-avv-aachener-verkehrsverbund,CC0,active
 DE,Aachen,Eurostar International Ltd.,https://www.data.gouv.fr/api/1/datasets/r/bfd97acd-63f3-4ea4-bfe8-70e4c7fd8d13,tdg-82199,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 DE,Aachen,Long-distance rail transport in Germany,https://download.gtfs.de/germany/fv_free/latest.zip,mdb-768,,active
 DE,Aachen,Rurtalbahn GmbH | ABELLIO Rail | VIAS GmbH| Aachener Straßenbahn und Energieversorgungs-AG | Rurtalbus GmbH | WestVerkehr GmbH | Staatsbahnen | National Express | ASEAG Netliner,http://opendata.avv.de/current_GTFS/AVV_GTFS_Masten_mit_SPNV.zip,mdb-1224,,active
@@ -375,14 +376,19 @@ DE,Berlin,VBB (Verkehrsverbund Berlin-Brandenburg),https://www.vbb.de/vbbgtfs,de
 DE,Berlin,Verkehrsverbund Berlin-Brandenburg (VBB),http://vbb.de/vbbgtfs,mdb-782,http://vbb.de/vbbgtfs,active
 DE,Berlin,Verkehrsverbund Berlin-Brandenburg (VBB),https://unternehmen.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-mastscharf/GTFS.zip,mdb-3233,https://creativecommons.org/licenses/by/4.0/deed.en,active
 DE,Chemnitz,VMS Verkehrsverbund Mittelsachsen,https://www.vms.de/GTFS_VMS.zip,de-eu-vms-verkehrsverbund-mittelsachsen,CC BY 4.0,active
+DE,Cologne,VRS (Verkehrsverbund Rhein-Sieg) — incl. KVB Kolner Verkehrs-Betriebe,https://download.vrs.de/gtfs/GTFS_VRS_mit_SPNV_hID_GlobalID.zip,de-eu2-vrs-verkehrsverbund-rhein-sieg-i,CC BY (dl-de/by),active
 DE,Cologne,Verkehrsverbund Rhein-Sieg (VRS),http://download.vrsinfo.de/gtfs/google_transit.zip,mdb-778,https://www.vrs.de/fahren/fahrplanauskunft/opendata-/-openservice,active
 DE,Cologne/Bonn,VRS (Verkehrsverbund Rhein-Sieg),http://download.vrsinfo.de/gtfs/GTFS_VRS_mit_SPNV.zip,de-eu-vrs-verkehrsverbund-rhein-sieg,CC-BY-4.0,active
+DE,Dusseldorf/Bochum/Duisburg/Bielefeld,"VRR (Verkehrsverbund Rhein-Ruhr) — incl. Rheinbahn Dusseldorf, Bogestra Bochum, DVG Duisburg, moBiel Bielefeld",https://www.opendata-oepnv.de/dataset/496eea5d-d6ef-4dc2-aeb0-d15c4fbf3178/resource/46ea57c2-506c-4b2a-bc40-b680b1979f93/download/20250829_gtfs_vrr_od.zip,de-eu2-vrr-verkehrsverbund-rhein-ruhr-i,CC BY 4.0,active
+DE,Dusseldorf/Bochum/Duisburg/Bielefeld/Cologne,OV-Datenverbund NRW (openVRR) — NRW-wide unified feed,https://gtfs.openvrr.de/google_transit.zip,de-eu2-ov-datenverbund-nrw-openvrr-nrw-,CC BY 4.0,active
 DE,Düsseldorf/Essen (Rhein-Ruhr),VRR / openVRR (Verkehrsverbund Rhein-Ruhr),https://www.opendata-oepnv.de/dataset/496eea5d-d6ef-4dc2-aeb0-d15c4fbf3178/resource/384d7949-4cc2-49c4-9529-68cb6eff4a8d/download/20250715_gtfs_vrr_od.zip,de-eu-vrr-openvrr-verkehrsverbund-rhein-,DL-DE-BY-2.0,active
 DE,Elbe-Elster,Verkehrsverbund Berlin-Brandenburg (VBB),https://unternehmen.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-flex.zip,mdb-3234,https://creativecommons.org/licenses/by/4.0/deed.en,active
+DE,Freiburg,RVF - Regio-Verkehrsverbund Freiburg,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rvf.zip,de-eu2-rvf-regio-verkehrsverbund-freibu,DL-DE-BY-2.0 (attribution: NVBW GmbH),active
 DE,Freiburg,SWEG Markgräflerland,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/sweg.zip,mdb-1084,,active
 DE,Freiburg im Breisgau,"Freiburger Verkehrs AG (VAG), R.A.S.T. Reisen (RAST), Tuniberg Express",https://www.vag-freiburg.de/fileadmin/gtfs/VAGFR.zip,mdb-1115,https://www.vag-freiburg.de/service-infos/downloads/gtfs-daten,active
 DE,Hamburg,HVV (Hamburger Verkehrsverbund),https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/1a176fcb-4971-4baf-bae8-545dc9d4454d/Upload__hvv_Rohdaten_GTFS_Fpl_20250505.ZIP,de-eu-hvv-hamburger-verkehrsverbund,DL-DE-BY-2.0,active
 DE,Hamburg,Hamburger Verkehrsverbund GmbH (HVV),https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/f0073555-962c-4d55-870e-b94bb676ad9d/Upload__hvv_Rohdaten_GTFS_Fpl_20260408.ZIP,mdb-3362,https://www.govdata.de/dl-de/by-2-0,active
+DE,Hamburg,hvv (Hamburger Verkehrsverbund),https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/7dd559f6-5d5f-455c-b42f-a1b8494b4d1e/Upload__hvv_Rohdaten_GTFS_Fpl_20250806.ZIP,de-eu2-hvv-hamburger-verkehrsverbund,dl-de/by-2.0,active
 DE,Hügelsheim,Karlsruher Verkehrsverbund,https://projekte.kvv-efa.de/GTFS/google_transit.zip,mdb-2231,https://www.kvv.de/fahrplan/fahrplaene/open-data.html,active
 DE,Kassel,NVV (Nordhessischer VerkehrsVerbund),https://api.opendata-oepnv.de/dataset/4c35703c-62d2-463a-8f8d-014594ab6e30/resource/14c51276-9f32-448b-a3bd-57404cb491c0/download/gtfs-b.zip,de-eu-nvv-nordhessischer-verkehrsverbund,DL-DE-BY-2.0,active
 DE,Landkreis Bad Dürkheim,Rhein-Neckar-Verkehr,https://gtfs-sandbox-dds.rnv-online.de/latest/gtfs.zip,mdb-777,https://opendata.rnv-online.de/dataset/gtfs-general-transit-feed-specification,active
@@ -390,11 +396,13 @@ DE,Landkreis Bad Kissingen,Verkehrsverbund Mittelthüringen (VMT),https://www.vm
 DE,Landkreis Böblingen,Verkehrsverbund Pforzheim-Enzkreis (VPE),https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vpe.zip,mdb-1085,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Landkreis Donau-Ries,Hofmann Omnibusverkehr GmbH,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/kvsh.zip,mdb-1082,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Landkreis Schwäbisch Hall,Ver­kehrs­ver­bund Groß­raum Nürn­berg (VGN),http://www.vgn.de/opendata/GTFS.zip,mdb-858,,active
+DE,Leipzig,LVB (Leipziger Verkehrsbetriebe / MDV),https://opendata.leipzig.de/dataset/lvb-fahrplandaten/resource/b38955c4-431c-4e8b-a4ef-9964a3a2c95d/download/gtfsmdvlvb.zip,de-eu2-lvb-leipziger-verkehrsbetriebe-m,CC BY,active
 DE,Leipzig,MDV Mitteldeutscher Verkehrsverbund (mdv_mastscharf_gtfs.zip),https://www.mdv.de/media/file/d2afbc63,de-eu-mdv-mitteldeutscher-verkehrsverbun,CC BY 4.0 DE,active
 DE,Leipzig,Mitteldeutscher Verkehrsverbund GmbH (MDV),https://www.mdv.de/site/uploads/gtfs_mdv.zip,mdb-2360,https://creativecommons.org/licenses/by/4.0/deed.de,active
 DE,Meißen,Polish Trains,https://mkuran.pl/gtfs/polish_trains.zip,mdb-3191,https://bip.plk-sa.pl/ponowne-wykorzystywanie,active
 DE,Munich,MVV (Münchner Verkehrs- und Tarifverbund),https://www.mvv-muenchen.de/fileadmin/mediapool/developer/opendata/gesamt_gtfs.zip,de-eu-mvv-munchner-verkehrs-und-tarifver,CC-BY-4.0,active
 DE,Munich,Münchner Verkehrsgesellschaft (MVG),https://www.mvg.de/static/gtfs/google_transit.zip,mdb-2333,https://www.mvg.de/verbindungen/Fahrplandaten.html,active
+DE,Munster,Stadtwerke Munster,https://api.busradar.conterra.de/data/stadtwerke_feed.zip,de-eu2-stadtwerke-munster,open (Stadtwerke Munster GTFS terms of use),active
 DE,Nationwide (all Germany),DELFI GTFS official / community mirror,https://scraped.data.public-transport.earth/de/gtfs.zip,de-disc-2,,active
 DE,Nuremberg,VGN (Verkehrsverbund Großraum Nürnberg),https://www.vgn.de/opendata/GTFS.zip,de-eu-vgn-verkehrsverbund-groraum-nurnbe,CC-BY-3.0-DE,active
 DE,Schleswig-Flensburg,Flixbus,https://opendata.samtrafiken.se/gtfs/flixbus/flixbus.zip,mdb-3261,https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence,active
@@ -402,6 +410,7 @@ DE,Stuttgart,"OVA-Aalen, OVA-Bopfingen, Beck+Schubert",https://www.nvbw.de/filea
 DE,Stuttgart,Schweizer Reisen,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/vgf.zip,mdb-774,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,Stuttgart,VOLZ,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vgc.zip,mdb-906,,active
 DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart),https://api.opendata-oepnv.de/dataset/d1768457-c717-45ea-8e26-dd1e759d5ffe/resource/c38da9e6-22bf-4504-a9f8-163a5d1b250b/download/gtfs_j26.zip,de-eu-vvs-verkehrs-und-tarifverbund-stut,CC-BY,active
+DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart),https://download.vvs.de/gtfs_realtime.zip,de-eu2-vvs-verkehrs-und-tarifverbund-st,CC BY,active
 DE,Trier,VRT Verkehrsverbund Region Trier,https://www.vrt-info.de/downloads/2025_gtfs_250408,de-eu-vrt-verkehrsverbund-region-trier,Datenlizenz Deutschland Namensnennung 2.0,active
 DE,Trier,Verkehrsverbund Rhein-Neckar,https://geoportal.vrn.de/services/sharing/rest/content/items/4ec4b1d131eb46a6bb8e216ce9b90eff/data,mdb-1173,https://www.vrn.de/opendata/datasets/soll-fahrplandaten-gtfs-aktuell,active
 DE,Tuttlingen,TuTicket,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/tuticket.zip,mdb-920,,active
@@ -3269,6 +3278,7 @@ IT,Colle di Val d'Elsa,Autolinee Toscane - Urbano San Gimignano,https://dati.tos
 IT,Collesalvetti,Autolinee Toscane - Urbano Livorno,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/c56873f2-3a52-4087-afd8-29e896352a58/download/45-urbanolivorno.gtfs,tld-6969,,active
 IT,Empoli,Autolinee Toscane - Urbano Empoli,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/9bf0a1cf-2a24-4716-9de2-0a6272fd997e/download/69-urbanoempoli.gtfs,tld-6990,,active
 IT,Fano,Trenitalia | Contram Mobilita s.c.p.a. | Trasfer Soc. Cons. a.r.l. | Adriabus spa | Soc. Consortile A.T.M.A. | Start Spa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/4f85393b-357d-443d-8378-65de4198505f/download/trenitalia.gtfs,mdb-1319,http://www.opendefinition.org/licenses/cc-by,active
+IT,Ferrara,TPER (Trasporto Passeggeri Emilia-Romagna),https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260522&format=zip,it-eu2-tper-trasporto-passeggeri-emilia,TPER Open Data (see solweb.tper.it open-data-legal.aspx),active
 IT,Florence,Autolinee Toscane - Linee Regionali,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/ae4594d4-d395-4651-a097-446e878e9005/download/90-lineeregionali.gtfs,tld-6957,,active
 IT,Florence,Autolinee Toscane - Urbano Area Metropolitana Fiorentina,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/20813d08-a8dd-48ad-9fd5-38ca16a2fd79/download/48-urbanoareametropolitanafiorentina.gtfs,tld-6959,,active
 IT,Follonica,Autolinee Toscane - Urbano Follonica,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/f3f33691-87ba-4db2-8c97-ae9b724a6c21/download/77-urbanofollonica.gtfs,tld-6980,,active

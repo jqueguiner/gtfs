@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LVB (Leipziger Verkehrsbetriebe / MDV)",
+    "country": "DE",
+    "subdivision": "Sachsen",
+    "city": "Leipzig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.leipzig.de/dataset/lvb-fahrplandaten/resource/b38955c4-431c-4e8b-a4ef-9964a3a2c95d/download/gtfsmdvlvb.zip",
+    "mdb_id": "de-eu2-lvb-leipziger-verkehrsbetriebe-m",
+    "license": "CC BY"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}

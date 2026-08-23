@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hvv (Hamburger Verkehrsverbund)",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Hamburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/7dd559f6-5d5f-455c-b42f-a1b8494b4d1e/Upload__hvv_Rohdaten_GTFS_Fpl_20250806.ZIP",
+    "mdb_id": "de-eu2-hvv-hamburger-verkehrsverbund",
+    "license": "dl-de/by-2.0"
+  },
+  "bbox": null,
+  "source": "eu-portal",
+  "status": "active"
+}
