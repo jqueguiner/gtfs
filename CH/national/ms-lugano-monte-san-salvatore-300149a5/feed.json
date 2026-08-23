@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MS (Lugano-Monte San Salvatore)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-d0b019a94f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

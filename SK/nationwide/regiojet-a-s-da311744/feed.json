@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RegioJet, a.s.",
+    "country": "SK",
+    "subdivision": "Slovakia (intercity bus)",
+    "city": "nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/regiojet-as.zip",
+    "mdb_id": "sk-nap-regiojet-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

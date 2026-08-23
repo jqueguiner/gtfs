@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SBR (Bellwald Sportbahnen AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-1e981f9a3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

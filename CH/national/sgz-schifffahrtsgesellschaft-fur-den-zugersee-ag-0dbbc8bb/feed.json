@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SGZ (Schifffahrtsgesellschaft für den Zugersee AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-f493486a5d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "G3AG (Gstaad 3000 AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-75ebb21c2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

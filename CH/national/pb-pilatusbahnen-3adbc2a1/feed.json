@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PB (Pilatusbahnen)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-83218d54f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

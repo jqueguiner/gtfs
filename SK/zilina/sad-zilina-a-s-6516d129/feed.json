@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Žilina, a.s.",
+    "country": "SK",
+    "subdivision": "Žilina Region",
+    "city": "Žilina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-zilina-as.zip",
+    "mdb_id": "sk-nap-sad-zilina-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

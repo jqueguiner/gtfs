@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pražská integrovaná doprava",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.pid.cz/PID_GTFS.zip",
+    "mdb_id": "cz-op-289b98d651",
+    "license": null
+  },
+  "bbox": null,
+  "source": "cz-nap#agency",
+  "status": "active"
+}

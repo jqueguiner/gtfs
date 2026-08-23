@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arriva Nové Zámky, a.s.",
+    "country": "SK",
+    "subdivision": "Nitra Region",
+    "city": "Nové Zámky"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/arriva-nove-zamky-as.zip",
+    "mdb_id": "sk-nap-arriva-nove-zamky-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

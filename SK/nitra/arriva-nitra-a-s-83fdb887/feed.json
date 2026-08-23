@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arriva Nitra, a.s.",
+    "country": "SK",
+    "subdivision": "Nitra Region",
+    "city": "Nitra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/arriva-nitra-as.zip",
+    "mdb_id": "sk-nap-arriva-nitra-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

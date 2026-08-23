@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BLWE (Busbetrieb Lichtensteig-Wattwil-Ebnat-Kappel)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-cc4e73c110",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

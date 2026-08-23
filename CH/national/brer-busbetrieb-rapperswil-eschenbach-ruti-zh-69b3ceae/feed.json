@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BRER (Busbetrieb Rapperswil-Eschenbach-Rüti ZH)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-eb25fc4e8e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

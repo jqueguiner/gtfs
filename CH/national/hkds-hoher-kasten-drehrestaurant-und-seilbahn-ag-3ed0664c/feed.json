@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "HKDS (Hoher Kasten Drehrestaurant und Seilbahn AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-e1970b99e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

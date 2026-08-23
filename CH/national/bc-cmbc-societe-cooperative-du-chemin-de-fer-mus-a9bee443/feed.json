@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BC-cmBC (Société coopérative du Chemin de fer - Musée Blonay-Chamby)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-35749cf9c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

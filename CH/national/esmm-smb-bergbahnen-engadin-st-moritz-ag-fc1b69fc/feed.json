@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ESMM-smb (Bergbahnen Engadin St. Moritz AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-46edc54f2c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

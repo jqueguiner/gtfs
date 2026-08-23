@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Humenné, a.s.",
+    "country": "SK",
+    "subdivision": "Prešov Region",
+    "city": "Humenné"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-humenne-as.zip",
+    "mdb_id": "sk-nap-sad-humenne-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

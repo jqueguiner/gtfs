@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FUN (Funiculaire Neuchâtel-Université - Neuchâtel-Gare)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-d1ef057877",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

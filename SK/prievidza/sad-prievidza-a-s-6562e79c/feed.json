@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Prievidza, a.s.",
+    "country": "SK",
+    "subdivision": "Trenčín Region",
+    "city": "Prievidza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-prievidza-as.zip",
+    "mdb_id": "sk-nap-sad-prievidza-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DSB",
+    "country": "DK",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-op-3ec6e8d38a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "dk-nap#agency",
+  "status": "active"
+}

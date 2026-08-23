@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MGB/Auto (Automobildienst Matterhorn Gotthard Bahn (fo auto))",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-8766286b24",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

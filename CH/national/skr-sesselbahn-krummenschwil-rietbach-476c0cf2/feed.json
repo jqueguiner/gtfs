@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SKR (Sesselbahn Krümmenschwil-Rietbach)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-76d7d7c92d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

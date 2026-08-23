@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BOGG (Busbetrieb Olten-Gösgen-Gäu)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-7e03dff2f9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Samsø Bus",
+    "country": "DK",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-op-a4e0a747af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "dk-nap#agency",
+  "status": "active"
+}

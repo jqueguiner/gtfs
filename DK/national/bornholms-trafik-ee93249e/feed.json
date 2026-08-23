@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bornholms Trafik",
+    "country": "DK",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-op-2b46c333ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "dk-nap#agency",
+  "status": "active"
+}

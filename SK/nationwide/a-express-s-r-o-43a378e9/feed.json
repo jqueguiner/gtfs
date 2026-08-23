@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "A-Express, s.r.o.",
+    "country": "SK",
+    "subdivision": "Slovakia (bus)",
+    "city": "nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/a-express-sro.zip",
+    "mdb_id": "sk-nap-a-express-s-r-o",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

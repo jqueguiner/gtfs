@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SWEG (SWEG Südwestdeutsche Landesverkehrs-GmbH)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-de29245a28",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

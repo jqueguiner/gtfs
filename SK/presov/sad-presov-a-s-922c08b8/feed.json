@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Prešov, a.s.",
+    "country": "SK",
+    "subdivision": "Prešov Region",
+    "city": "Prešov"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-presov-sk.zip",
+    "mdb_id": "sk-nap-sad-presov-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SMF-lsm (Sportbahnen Melchsee-Frutt (lsm))",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-d6bd95f4cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

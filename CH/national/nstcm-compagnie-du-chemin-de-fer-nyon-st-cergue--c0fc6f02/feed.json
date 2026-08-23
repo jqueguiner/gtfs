@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NStCM (Compagnie du chemin de fer Nyon - St-Cergue - Morez)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-b81ebbbdb5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

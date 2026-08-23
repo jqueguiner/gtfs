@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Zvolen, a.s.",
+    "country": "SK",
+    "subdivision": "Banská Bystrica Region",
+    "city": "Zvolen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-zvolen-as.zip",
+    "mdb_id": "sk-nap-sad-zvolen-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

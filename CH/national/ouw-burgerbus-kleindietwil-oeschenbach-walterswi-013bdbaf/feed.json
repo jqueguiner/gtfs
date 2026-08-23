@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OUW (Bürgerbus Kleindietwil-Oeschenbach-Walterswil)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-7bc114943b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

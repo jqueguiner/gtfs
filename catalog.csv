@@ -423,8 +423,479 @@ CH,Mendrisio,European Sleeper,https://jbb.ghsq.de/gtfs/eu-es.gtfs.zip,mdb-3107,,
 CH,National (Switzerland),geOps — daily-converted national Swiss GTFS (from official HAFAS/HRDF published on opentransportdata.swiss),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-nap-geops-daily-converted-national-s,Derived from official Swiss NAP data (opentransportdata.swiss terms); geOps free feed,active
 CH,National (Switzerland),"opentransportdata.swiss (NAP) — national combined GTFS: SBB rail + all cantonal/city operators (VBZ Zurich, TPG Geneva, BVB Basel, BLT, BERNMOBIL, PostAuto, etc.)",https://data.opentransportdata.swiss/dataset/3d2c18f9-9ef1-463f-a249-5c67604efd74/resource/940f970d-1ab6-4320-9c7e-f8dc5a2af48d/download/gtfs_fp2026_20260729.zip,ch-nap-opentransportdata-swiss-nap-nati,opendata OPT-out / CC-like (Open-Data-CH); free reuse per opentransportdata.swiss terms,active
 CH,Neuchâtel,Systemaufgaben Kundeninformation SKI+,https://data.opentransportdata.swiss/de/dataset/gtfsflex/permalink,mdb-2053,,active
+CH,national,AAGL (Autobus AG Liestal),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d60abe8fe0,,active
+CH,national,AAGR (Auto AG Rothenburg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0451bd5bce,,active
+CH,national,AAGS (Auto AG Schwyz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-65fa824fa6,,active
+CH,national,AAGU (Auto AG Uri),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a6989f5de8,,active
+CH,national,AB Auto (Automobildienst Appenzeller Bahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f3cffc467b,,active
+CH,national,AB-EV (Appenzeller Bahnen Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-435cc445d6,,active
+CH,national,AB-ab (Appenzeller Bahnen (ab)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-307d54470e,,active
+CH,national,ABAG (Aletsch Bahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-59ab868861,,active
+CH,national,ABB (Arosa Bergbahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-084fa16091,,active
+CH,national,ABF (Autobusbetrieb Freienbach),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8ac1df9a25,,active
+CH,national,ABl (Autolinee Bleniesi),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-496b3bf0f7,,active
+CH,national,AFA (AFA Bus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-866fa0e239,,active
+CH,national,AFO (Alpbus Fournier),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1b77059982,,active
+CH,national,ALEX (Aletsch-Express Riederalp-Bettmeralp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-78cac34934,,active
+CH,national,ALTRA (Alpintrans GmbH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-494b309047,,active
+CH,national,ALVS-EV (Alplift AG Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e38d0b13f6,,active
+CH,national,AMG (Aelplibahn Malans Genossenschaft),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2b5303c260,,active
+CH,national,AMP (Aufzug Matte-Plattform (Bern)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-de30c32e89,,active
+CH,national,AMSA (Autolinea Mendrisiense SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0407f53878,,active
+CH,national,ANAT (Association neuchâteloise des Amis du Tramway ANAT),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-fd215ae222,,active
+CH,national,ARAG (Automobil Rottal AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1fba003a64,,active
+CH,national,ARL (Autolinee Regionali Luganesi),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4ef14cec53,,active
+CH,national,AS (Autobetrieb Sernftal),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ae9e1c7cec,,active
+CH,national,ASL (Autoservizi Silvestri Livigno),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-362f8c8c9e,,active
+CH,national,ASM Auto (Automobildienste Aare Seeland mobil),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6db6a29d86,,active
+CH,national,ASM-EV (Aare Seeland mobil Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a0322dec7d,,active
+CH,national,ASM-bti (Aare Seeland mobil (bti)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4b447c3b23,,active
+CH,national,ASM-ltb (Aare Seeland mobil (ltb)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f6ca43f6e3,,active
+CH,national,ASM-rvo (Aare Seeland mobil (rvo)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e52d2e9b82,,active
+CH,national,ASM-snb (Aare Seeland mobil (snb)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9441f8e80f,,active
+CH,national,ASS (Andermatt-Sedrun Sport AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-031813bf4b,,active
+CH,national,AVA-EV (Aargau Verkehr AG Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b1cc0ca507,,active
+CH,national,AVA-bd (Aargau Verkehr AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ce61193ddc,,active
+CH,national,AVA-ltb (Aargau Verkehr AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-28d4c4c801,,active
+CH,national,AVA-wsb (Aargau Verkehr AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-daadf11a23,,active
+CH,national,AVA/Autw (Aargau Verkehr AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f859f78132,,active
+CH,national,AVA/rbz (Aargau Verkehr AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-94ee8f4e4f,,active
+CH,national,AVB (Aroser Verkehrsbetriebe),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c04aeada84,,active
+CH,national,AVJ (Autotransports de la Vallée de Joux),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8035060ae8,,active
+CH,national,AWA (Autobetrieb Weesen-Amden),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d134e8b695,,active
+CH,national,AeS (Ägerisee Schifffahrt AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f599bb682e,,active
+CH,national,BA Auto (Bergbahnen Adelboden AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-37936b408e,,active
+CH,national,BA Auto- (Bergbahnen Adelboden AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dc4d85314e,,active
+CH,national,BAL AG (Bergbahnen Adelboden-Lenk AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d38197a670,,active
+CH,national,BALA (Bus alpin Lombachalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2c49ca029e,,active
+CH,national,BB (Bürgenstock Bahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e12ec8bc4e,,active
+CH,national,BBA (Busbetrieb Aarau),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2c03898ff6,,active
+CH,national,BBB (Bus Buchserberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-aefdef85ac,,active
+CH,national,BBD (Bergbahnen Disentis),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7c0bc56b87,,active
+CH,national,BBE (Bergbahnen Beckenried-Emmetten),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d41f362dde,,active
+CH,national,BBF-mbf (Bergbahnen Flumserberg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-618aed4eac,,active
+CH,national,BBF-pbf (Bergbahnen Flumserberg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-58cc994894,,active
+CH,national,BBMAG (Bergbahnen Malbun AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dcd5c58b24,,active
+CH,national,BBO (Gemeinde St. Gallenkappel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5db11eca97,,active
+CH,national,BBWAG (Bergbahnen Wildhaus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cc2114c4cd,,active
+CH,national,BC-cmBC (Société coopérative du Chemin de fer - Musée Blonay-Chamby),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-35749cf9c7,,active
+CH,national,BCD (Chur-Dreibündenstein),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-05b7868c23,,active
+CH,national,BCR (Bus de la commune de Riddes),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bdca07432d,,active
+CH,national,BDGAG (Bergbahnen Destination Gstaad AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bd077e940f,,active
+CH,national,BEAG (Bergbahnen Engstligenalp AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4d19632fb4,,active
+CH,national,BET (Engelberg-Trübsee-Titlis),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b4a4d632bb,,active
+CH,national,BFL (Weisse Arena Bergbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d714f2b049,,active
+CH,national,BGB (Busbetrieb Gemeinde Bergün),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3591a76497,,active
+CH,national,BGF (Grindelwald-First),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-69e0371655,,active
+CH,national,BGR (Glaris-Rinerhorn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6bf43af5c3,,active
+CH,national,BGST (Berggasthaus Staubern AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1554592586,,active
+CH,national,BGU (Busbetrieb Grenchen und Umgebung),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4389a7d9b5,,active
+CH,national,BHAG (Bergbahnen Hohsaas AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-349ee32874,,active
+CH,national,BHY-lws (Bergbahnen Hoch-Ybrig AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b91d6d4bb1,,active
+CH,national,BHY-ssks (Bergbahnen Hoch-Ybrig AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d43524355b,,active
+CH,national,BHY-sssp (Bergbahnen Hoch-Ybrig AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b1ed044773,,active
+CH,national,BKAG (Biel-Kinzig AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c80daef2f2,,active
+CH,national,BKG (Busbetrieb Kandersteg - Gasterntal),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d42f7e00d9,,active
+CH,national,BLAG (Busland AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0542902a8c,,active
+CH,national,BLM (Lauterbrunnen-Mürren),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6835a612b6,,active
+CH,national,BLS-EV (BLS Netz AG Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-be7c209cb3,,active
+CH,national,BLS-bls (BLS AG (bls)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0fe22fad39,,active
+CH,national,BLS-brs (BLS Schifffahrt AG (brs)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8d0e3e8fdc,,active
+CH,national,BLS-ths (BLS Schifffahrt AG (ths)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-be014e2384,,active
+CH,national,BLT (Baselland Transport),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-744327166a,,active
+CH,national,BLWE (Busbetrieb Lichtensteig-Wattwil-Ebnat-Kappel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cc4e73c110,,active
+CH,national,BMH (Bergbahnen Meiringen-Hasliberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d483acf83f,,active
+CH,national,BNP (Bus Nyon-Prangins),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9621506dbc,,active
+CH,national,BO (Bergbahnen Obersaxen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6e5371a45c,,active
+CH,national,BOB (Berner Oberland-Bahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a042624094,,active
+CH,national,BOB Auto (Busbetrieb BOB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-346025ef39,,active
+CH,national,BOB-spb (Berner Oberland-Bahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ddb03daa39,,active
+CH,national,BOD (FPLAN BOD RAB OMP),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5623ba7897,,active
+CH,national,BOG (Busbetrieb Oberems-Gruben),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1dcd30f66e,,active
+CH,national,BOGG (Busbetrieb Olten-Gösgen-Gäu),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7e03dff2f9,,active
+CH,national,BOS (Bus Ostschweiz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8fbac4fa13,,active
+CH,national,BPB (Comune di Personico),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-45b7e1957a,,active
+CH,national,BPG (Basler Personenschifffahrt AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-fadbb30390,,active
+CH,national,BPM-svcs (Bergbahnen Piz Mundaun AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bf36409839,,active
+CH,national,BPM-svh (Bergbahnen Piz Mundaun AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d88819aa60,,active
+CH,national,BRB (Brienz Rothorn Bahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8ccad37bae,,active
+CH,national,BRER (Busbetrieb Rapperswil-Eschenbach-Rüti ZH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-eb25fc4e8e,,active
+CH,national,BRSB (Braunwald-Standseilbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-050d0febfb,,active
+CH,national,BS (Bus Sierrois),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1326070006,,active
+CH,national,BSAG (Bergbahnen Sörenberg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2cd52655db,,active
+CH,national,BSB (Bodensee-Schiffsbetriebe GmbH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ef8c878f6c,,active
+CH,national,BSG (Bielersee-Schifffahrts-Gesellschaft AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d70b5c9eb3,,active
+CH,national,BSU (Busbetrieb Solothurn und Umgebung),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4e052c9a07,,active
+CH,national,BUM (Bus urbain de Martigny),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-80581b8722,,active
+CH,national,BVB (Basler Verkehrsbetriebe),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-52885400c5,,active
+CH,national,Bamert (Bamert Bus),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-37a8542f95,,active
+CH,national,BuS/cb (Bus und Service AG (Chur)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bcbb438fd1,,active
+CH,national,BuS/eb (Bus und Service AG (Engadin)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-636d9b49cd,,active
+CH,national,But (Réseau de transports de l'Agglomération de Thonon),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9d6b7be4ba,,active
+CH,national,CAS (Cassons AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-71576cfc71,,active
+CH,national,CBV (Chalais-Briey-Vercorin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8c5e22c582,,active
+CH,national,CGN (CGN SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-eec559c876,,active
+CH,national,CIT (Cardada Impianti Turistici),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-db7ec019bc,,active
+CH,national,CJ (Chemins de fer du Jura),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f981b30e88,,active
+CH,national,CJ Auto (Automobiles CJ),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3c32781dc0,,active
+CH,national,CJ-EV (Chemins de fer du Jura Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c0bb0ec9d5,,active
+CH,national,CMA (Remontées Mécaniques Crans-Montana-Aminona),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3764d28ff6,,active
+CH,national,Cent-klv (Verdasio-Rasa),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f9c0fb9d69,,active
+CH,national,DB Regio (DB Regio AG Baden-Württemberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d943d4e5e8,,active
+CH,national,DBZ (Dolderbahn Betriebs AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0af6f4e60c,,active
+CH,national,DFB (Dampfbahn Furka-Bergstrecke),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-123ee77cbf,,active
+CH,national,"DIALA-lb (Bergbahnen Engadin St. Moritz, Bernina-Diavolezza (lbd))",https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7d0799aa0f,,active
+CH,national,DIALA-lc (Curtinatsch-Piz Lagalb),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-732011d906,,active
+CH,national,DIB (DistriBus),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9d6220d517,,active
+CH,national,DIH (Interlaken-Heimwehfluh),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-67ab70a373,,active
+CH,national,DIVINFO (Diverse INFO),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-91405c59e0,,active
+CH,national,DKB-bbbj (Davos Klosters Bergbahnen (bbbj)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7f0afeb486,,active
+CH,national,DKB-dpb (Davos Klosters Bergbahnen (dpb)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-58867017e0,,active
+CH,national,DKB-lkp (Davos Klosters Bergbahnen (lkp)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3e0f3f446a,,active
+CH,national,DMB (Drahtseilbahn Marzili-Stadt Bern AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-07859e769d,,active
+CH,national,DVZO (Dampfbahn-Verein Zürcher Oberland),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ac73d8e302,,active
+CH,national,EAB (Engelberger Auto-Betriebe),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-55604c69bb,,active
+CH,national,EB (Brunni-Bahnen Engelberg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d2af176e22,,active
+CH,national,EBS (ebs Energie AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-82d57c8d09,,active
+CH,national,EBZ (Elektrobus Zermatt),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b58859319c,,active
+CH,national,ESMM (Engadin St. Moritz Mountains AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7a8fb463a4,,active
+CH,national,ESMM-mmb (Celeriner Bergbahnen - Punt Muragl-Muottas Muragl),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3945389790,,active
+CH,national,ESMM-smb (Bergbahnen Engadin St. Moritz AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-46edc54f2c,,active
+CH,national,ESMM-sms (Sesselbahn St. Moritz Suvretta-Randolins),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f48711328d,,active
+CH,national,EWZ-pa (EWZ Bergeller Kraftwerke),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ca480302ee,,active
+CH,national,Evian (Evian),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a8b806c65d,,active
+CH,national,Extrabus (Interimsfahrplan / Horaire interimaire / Orario ad interim),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-03a4f8f060,,active
+CH,national,FART (Ferrovie Autolinee Regionali Ticinesi),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c5f2d1aa2e,,active
+CH,national,FART Aut (Autolinee FART),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-593dd230bc,,active
+CH,national,FART-EV (Ferrovie Autolinee Regionali Ticinesi Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-88f9ef577e,,active
+CH,national,FB (Forchbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-aff7cc35c3,,active
+CH,national,FB-EV (Forchbahn Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9e6b4c082c,,active
+CH,national,FBG (Fähre Beckenried-Gersau),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8d6ccdb6af,,active
+CH,national,FBS (Brusino-Arsizio-Serpiano),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-56f9e1e7e5,,active
+CH,national,FCA (Funicar AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e043ee0b69,,active
+CH,national,FHM (Zürichsee-Fähre Horgen-Meilen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-007af0068b,,active
+CH,national,FLC (Funiculaire St-Luc-Chandolin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-fdcc8cc447,,active
+CH,national,FLMS (Società della Funicolare Locarno-Madonna del Sasso SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1c8565ee0f,,active
+CH,national,FLP (Lugano-Ponte Tresa),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7f45997ef3,,active
+CH,national,FLP-EV (Lugano-Ponte Tresa Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d5802110b7,,active
+CH,national,FMB (Società Funicolare Cassarate-Monte Brè),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-64986aed2b,,active
+CH,national,FML (Funivia Monte Lema SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-84fe5523bb,,active
+CH,national,FPR (Funicolare Ritom SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e98acfdbef,,active
+CH,national,FRG (Förderverein Region Gantrisch),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2d3e753273,,active
+CH,national,FSCR (Funiva San Carlo-Robiei),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c1373836f3,,active
+CH,national,FUN (Funiculaire Neuchâtel-Université - Neuchâtel-Gare),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d1ef057877,,active
+CH,national,G3AG (Gstaad 3000 AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-75ebb21c2b,,active
+CH,national,GAA (Gander Autocar Sàrl),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-436736e7e9,,active
+CH,national,GB (Gurtenbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a6abd5e16a,,active
+CH,national,GCS (Gemeinde Celerina/Schlarigna),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-96e500248b,,active
+CH,national,GDLZ (Gemeinde Luzein),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7c4825fb06,,active
+CH,national,GGB (Gornergratbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-616a613ad0,,active
+CH,national,GGM (Gondelbahn Grindelwald-Männlichen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0dc24073de,,active
+CH,national,GHU (Bürgerbus Gondiswil-Huttwil-Ufhusen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-934301a284,,active
+CH,national,GKO (Gondelbahn Kandersteg-Oeschinensee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-27fd11a9fd,,active
+CH,national,GLIS (Genossenschaft Luftseilbahn Sulwald),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c4c1d45438,,active
+CH,national,GLNM (Genossenschaft Luftseilbahn Morgenholz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2b84ff1a94,,active
+CH,national,GR-fab (Cantone di Grigioni),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e944574349,,active
+CH,national,GR-fsl (Funivia Selma-Landarenca),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bae6b87786,,active
+CH,national,GSUR (Gemeinde Surses - Cumegn Surses),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c5e1e2b227,,active
+CH,national,GTBE (Genossenschaft Tschinglenbahn Elm),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-58fbbd3824,,active
+CH,national,GbB (Parkhotel Giessbach AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5862280ac8,,active
+CH,national,HB (Harderbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4ed367feac,,active
+CH,national,HKDS (Hoher Kasten Drehrestaurant und Seilbahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e1970b99e8,,active
+CH,national,HLAG (Holzegg Liegenschaften AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6b403ace0c,,active
+CH,national,INTT (Intertours ME Sàrl),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c48f8fb3dd,,active
+CH,national,ITRT (Impianti turistici Rivera-Monte Tamaro),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-16cae98900,,active
+CH,national,JAC (Jacquet Autocars),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-82f913ffe4,,active
+CH,national,JB (Jungfraubahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d1f4885773,,active
+CH,national,KBS (Kaisereggbahnen Schwarzsee AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8be44aa1b0,,active
+CH,national,KMB-bkm (Klosters-Madrisa Bergbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f4a4771d9c,,active
+CH,national,KSB (Kriens-Sonnenberg-Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2ce6d7c0a7,,active
+CH,national,KUBUS (Publikation nur Kursbuch/Plakat),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d8b22ab345,,active
+CH,national,KWS (Kraftwerk Sanetsch AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cf99b4c176,,active
+CH,national,LAA (Luftseilbahn Amsteg-Arni),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d0156be909,,active
+CH,national,LABAG (Luftseilbahn Attinghausen-Brüsti AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c60b41e812,,active
+CH,national,LABB (Lauchernalp Bergbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d620fa14fb,,active
+CH,national,LB (Lenk Bergbahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ca3c577bad,,active
+CH,national,LBB (Blatten-Belalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2751fe2f68,,active
+CH,national,LBER (Luftseilbahngenossenschaft Brügg-Eierschwand-Ruogig),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-299b9ce6fa,,active
+CH,national,LDN (Dallenwil-Niederrickenbach),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-aeacfffef3,,active
+CH,national,LDW (Dallenwil-Wirzweli),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c58960ae55,,active
+CH,national,LEB (Lausanne-Echallens-Bercher),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7d9b22a883,,active
+CH,national,"LEE (Elsigenalpbahnen AG Frutigen, Luftseilbahn und Skilifte)",https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-372145a0d4,,active
+CH,national,LEE Bus (Autobusbetrieb LEE),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-39e793281e,,active
+CH,national,LEF (Luftseilbahn Engelberg-Fürenalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c9c3e0fbfa,,active
+CH,national,LFB (Luftseilbahn Fellboden-Bannalpsee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d15339b9db,,active
+CH,national,LFCh (Luftseilbahn Fell-Chrüzhütte),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e2fb887faf,,active
+CH,national,LFE (Luftseilbahn Flüelen-Eggbergen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4cac6b985c,,active
+CH,national,LFüB (Fürgangen-Bellwald),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cd25ca8a87,,active
+CH,national,LGGI (Luftseilbahngenossenschaft Gitschenen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1224b56f41,,active
+CH,national,LGIA (Luftseilbahngenossenschaft Arnisee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5de8ccd9d5,,active
+CH,national,LGJ (Gampel-Jeizinen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-864ade146d,,active
+CH,national,LGP (Grindelwald-Pfingstegg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-255a660c45,,active
+CH,national,LHB (Lenzerheide Bergbahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-814ad8fda1,,active
+CH,national,LHB-ssps (Val Sporz-Piz Scalottas),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1af34d3b95,,active
+CH,national,LIV (Luftseilbahn Illgau - Vorder Oberberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4fdac9551f,,active
+CH,national,LJK (Jakobsbad-Kronberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-24ca691f4e,,active
+CH,national,LKE (Luftseilbahn Kalpetran-Embd),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a73e55a7a1,,active
+CH,national,LKM (Luftseilbahn Kies-Mettmen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-04cc666fca,,active
+CH,national,LKRS (Luftseilbahn Kräbel-Rigi Scheidegg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-839d00686b,,active
+CH,national,LKS (Luftseilbahn Kandersteg-Sunnbüel (Gemmi) AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7408fdd171,,active
+CH,national,LKüS (Küssnacht am Rigi-Seebodenalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-413467da88,,active
+CH,national,LLAT (Torrent-Bahnen Leukerbad-Albinen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4c70b8c059,,active
+CH,national,LLB (Auto Leuk-Leukerbad),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-69082b4738,,active
+CH,national,LLG (Leukerbad-Gemmipass),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c615dd1aba,,active
+CH,national,LMM (Marbach-Marbachegg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-88e88020a6,,active
+CH,national,LMW (Luftseilbahn Matt-Weissenberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a07b4c1a90,,active
+CH,national,LNE (Luftseilbahn Niederbauen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1387554753,,active
+CH,national,LNM (Lacs de Neuchâtel et Morat),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2bbe6d8ab2,,active
+CH,national,LORB (Luftseilbahn Obergschwend-Rigi-Burggeist AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-58ddaa4f05,,active
+CH,national,LPF (La Punt Ferien),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-da9dc0c132,,active
+CH,national,LRE (Raron-Eischoll),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cc52ac073d,,active
+CH,national,LRF (Rhäzüns-Feldis/Veulden),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-db3af7a216,,active
+CH,national,LRR (Rosswald Bahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ea10d04a6c,,active
+CH,national,LRU (Raron-Unterbäch),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-19bd16d96e,,active
+CH,national,LRW (Reigoldswil-Wasserfallen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-255087773e,,active
+CH,national,LS (Bergbahnen Samnaun AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-fff530d87c,,active
+CH,national,LSC (Surlej-Silvaplana-Corvatsch),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d43b38681e,,active
+CH,national,LSG (Stalden-Gspon),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e2f928de9f,,active
+CH,national,LSG-EV (Stalden-Gspon Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4126e23819,,active
+CH,national,LSG/LSG (Staldenried-Gspon),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-453a06823a,,active
+CH,national,LSH (Luftseilbahn Schattdorf-Haldi),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ce5a0fca05,,active
+CH,national,LSKA (Luftseilbahn Kandersteg-Allmenalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f382d57e69,,active
+CH,national,LSMS-lsm (Stechelberg-Mürren-Schilthorn (lsms)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5addadf8be,,active
+CH,national,LSMS-sbm (Schilthornbahn (sbm)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-19255a8c8f,,active
+CH,national,LSMS/MS (Luftseilbahn Mürren-Schilthorn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e7c7c891eb,,active
+CH,national,LSS (Schwägalp-Säntis),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e98e6034dd,,active
+CH,national,LTBAG (LTB Lungern-Turren-Bahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4e04bf1963,,active
+CH,national,LTUO (Turtmann-Unterems-Oberems),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e504eb7c98,,active
+CH,national,LUFAG (Luftseilbahn Unterterzen-Flumserberg AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6c6cfd6023,,active
+CH,national,LWE (Wasserauen-Ebenalp),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-af24cf6215,,active
+CH,national,LWM (Wengen-Männlichen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b0f4ab3322,,active
+CH,national,MBC (Transports de la région Morges-Bière-Cossonay),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5296d0f5eb,,active
+CH,national,MBC Auto (Automobiles MBC),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-74ed1d8bcd,,active
+CH,national,MBC-EV (Transports de la région Morges-Bière-Cossonay Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ff53c5669e,,active
+CH,national,MBC-cg (Transports de la Région Morges-Bière-Cossonay),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7cde7ab957,,active
+CH,national,MG (Ferrovia Monte Generoso),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-943199a12b,,active
+CH,national,MGB-EV (Matterhorn Gotthard Bahn Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-14cc480d7c,,active
+CH,national,MGB-bvz (Matterhorn Gotthard Bahn (bvz)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3d1dd88102,,active
+CH,national,MGB-fo (Matterhorn Gotthard Bahn (fo)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ad6414b2f0,,active
+CH,national,MGB/Auto (Automobildienst Matterhorn Gotthard Bahn (fo auto)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8766286b24,,active
+CH,national,MGsa (Mouettes genevoises SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e1325937a8,,active
+CH,national,MOB (Montreux-Oberland Bernois),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-68c9a62e1d,,active
+CH,national,MOB-EV (Montreux-Oberland Bernois Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2cc3b871a9,,active
+CH,national,MS (Lugano-Monte San Salvatore),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d0b019a94f,,active
+CH,national,MSG (Mühleggbahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-70b7bbd823,,active
+CH,national,MSSG (MS Seestern + Gastro AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f979555762,,active
+CH,national,MVR-EV (Montreux-Vevey-Riviera Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ad3e31ef84,,active
+CH,national,MVR-cev (Montreux-Vevey-Riviera (cev)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5931877d8a,,active
+CH,national,MVR-las (Montreux-Vevey-Riviera (las)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f600b24f89,,active
+CH,national,MVR-mtgn (Montreux-Vevey-Riviera (mtgn)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0e6b99b4c7,,active
+CH,national,MVR-vcp (Montreux-Vevey-Riviera (vcp)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c57e2a06f2,,active
+CH,national,NB (Niesenbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-69636c650e,,active
+CH,national,NHB-bbb (Niederhornbahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-55de5be3d4,,active
+CH,national,NHB-nhb (Niederhornbahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2fe3f59b48,,active
+CH,national,NLJ (Navigation Lac de Joux),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-51a8b57b63,,active
+CH,national,NStCM (Compagnie du chemin de fer Nyon - St-Cergue - Morez),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b81ebbbdb5,,active
+CH,national,NStCM-EV (Chemin de fer Nyon - St-Cergue - Morez Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ef8d656622,,active
+CH,national,NVRM (Remontées mécaniques SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-17fb2470cf,,active
+CH,national,NeTS-DB (NeTS Planung DB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d1c18610c3,,active
+CH,national,NeTS-ÖBB (NeTS Planung ÖBB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3cfb5f42c8,,active
+CH,national,OBA (Ortsbus Andermatt),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d89ff5276f,,active
+CH,national,OBSM (Ortsbus St. Moritz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-56259828cc,,active
+CH,national,OGS (Ortsbus der Gemeinde Silvaplana / Gemeinde Silvaplana),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-994d06a8cb,,active
+CH,national,OSF (Ortsbus Saas-Fee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0a3ce67b2d,,active
+CH,national,OTL (Office du tourisme de Leysin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-801e77b840,,active
+CH,national,OUW (Bürgerbus Kleindietwil-Oeschenbach-Walterswil),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7bc114943b,,active
+CH,national,OeBB (Oensingen-Balsthal-Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7793b9ab26,,active
+CH,national,PAG (PostAuto AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ec52a7c0c5,,active
+CH,national,PAG/BCS (PostAuto AG (Bus Commune Sion)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ac19973b68,,active
+CH,national,PB (Pilatusbahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-83218d54f2,,active
+CH,national,PB Fpl (Kriens-Fräkmüntegg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-fcf2f6d377,,active
+CH,national,PBZ (Poly-Bahn Zürich),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d4e1bb828d,,active
+CH,national,PIZAG (Pizolbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-46c79b841a,,active
+CH,national,PRH (PRO REGIO HUTTWIL Verkehrsverein),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-540c936eec,,active
+CH,national,PSSA (Pendicularas Scuol SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-296a8d53cd,,active
+CH,national,RA (Regionalps),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-570784d322,,active
+CH,national,RA/bus (RegionAlps Bus),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0df8b46b35,,active
+CH,national,RB (Rigi Bahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3d62b6368b,,active
+CH,national,RB Fpl (Weggis-Rigi Kaltbad),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0421e27b75,,active
+CH,national,RBL (Regionalbus Lenzburg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e60b9e3b60,,active
+CH,national,RBS (Regionalverkehr Bern-Solothurn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dacc471551,,active
+CH,national,RBS Auto (Autobusbetrieb RBS),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-549a7ddb0a,,active
+CH,national,RBS-EV (Regionalverkehr Bern-Solothurn Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d8ae8057d2,,active
+CH,national,RDT (RDTAin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7d59226779,,active
+CH,national,REGO (Regiobus Gossau SG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7d4b34ad34,,active
+CH,national,RFB (Reichenbachfall-Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0f70f1ab21,,active
+CH,national,RMA (Remontées Méc. du Wildhorn Anzère),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-85fd4dd059,,active
+CH,national,RMAG (Rotenfluebahn Mythenregion AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8505f02b76,,active
+CH,national,RMGZ (Remontées Mécaniques Grimentz-Zinal SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2ca2a81afe,,active
+CH,national,RSZ (Bürgerbus Rüderswil),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e69e298fd9,,active
+CH,national,RVBW (Regionale Verkehrsbetriebe Baden-Wettingen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4269907efd,,active
+CH,national,RhB (Rhätische Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-42c1815213,,active
+CH,national,RhB Auto (Autoverkehr RhB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8ac7165048,,active
+CH,national,RhB-EV (Rhätische Bahn Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-31c55a23b3,,active
+CH,national,RiT (Riffelalp Resort AG Zermatt),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d7dd4c9cb1,,active
+CH,national,SB (Savognin-Bergbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f8114d44b5,,active
+CH,national,SBA (Sportbahnen Amden),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-535716a1f2,,active
+CH,national,SBAD (Bergün Filisur Tourismus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7e15da1190,,active
+CH,national,SBB (SBB GmbH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2e3e7b18ef,,active
+CH,national,SBB (Schweizerische Bundesbahnen SBB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c4590f7396,,active
+CH,national,SBB GmbH (SBB GmbH (Grenzverkehr)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-218a88de36,,active
+CH,national,SBB-EV (SBB Infrastruktur AG Bahnersatz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-14c695b16a,,active
+CH,national,SBE (Sportbahnen Elm),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f2b85f307a,,active
+CH,national,SBF (Stadtbus Frauenfeld),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9560d2c162,,active
+CH,national,SBG (Südbadenbus),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e04ab38336,,active
+CH,national,SBGG (Seilbahngenossenschaft Golzern),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2a706a37fa,,active
+CH,national,SBP (Sportbahnen Pischa),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-48af2b923b,,active
+CH,national,SBR (Bellwald Sportbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1e981f9a3f,,active
+CH,national,SBS (Schweizerische Bodensee-Schifffahrt AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6ca0670746,,active
+CH,national,SBU (Sportbahnen Unterbäch AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f604b6b646,,active
+CH,national,SBW (Stadtbus Winterthur),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f93d9c3970,,active
+CH,national,SDS (Sportbahnen Davos),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-479e556816,,active
+CH,national,SFE (Gemeinde Grüsch),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4d6580be76,,active
+CH,national,SFM (Sesselbahn Feldis-Mutta),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a0a08791ac,,active
+CH,national,SFT (Sesselbahn Fatschel - Triemel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-02d85e39a8,,active
+CH,national,SGES (Seilbahngenossenschaft Embd-Schalb),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9c3ecd429f,,active
+CH,national,SGG (Schifffahrts-Genossenschaft Greifensee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5f4726bc2b,,active
+CH,national,SGH (Hallwilersee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3e246d5b3b,,active
+CH,national,SGV (Vierwaldstättersee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6227141972,,active
+CH,national,SGZ (Schifffahrtsgesellschaft für den Zugersee AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f493486a5d,,active
+CH,national,SHAG (Sattel-Hochstuckli AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e4d9644d19,,active
+CH,national,SHB (Stockhornbahn AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-af831fb8dd,,active
+CH,national,SIB (SIBRA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-45c654352a,,active
+CH,national,SK (Sportbahnen Kerenzerberg GmbH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-eab6f0f667,,active
+CH,national,SKR (Sesselbahn Krümmenschwil-Rietbach),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-76d7d7c92d,,active
+CH,national,SKRa (Sesselbahn Kiental-Ramslauenen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1708157dd4,,active
+CH,national,SMC (Sierre-Montana-Crans),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-262c8cfb8f,,active
+CH,national,SMF-ldb (Sportbahnen Melchsee-Frutt (ldb)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2dc7718907,,active
+CH,national,SMF-lsm (Sportbahnen Melchsee-Frutt (lsm)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d6bd95f4cf,,active
+CH,national,SMtS (Funiculaire Saint-Imier-Mont-Soleil SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7deb227658,,active
+CH,national,SNCF (Société Nationale des Chemins de fer Français),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-13be215ae8,,active
+CH,national,SNL (Lago di Lugano),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bfbbb2dc69,,active
+CH,national,SNL Auto (Servizio d'automobili),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6eb6cd51d3,,active
+CH,national,SNL-magg (Società Navigazione del Lago di Lugano SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-56bc9e2dd1,,active
+CH,national,SOB-EV (Schweizerische Südostbahn AG Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-77b09428d2,,active
+CH,national,SOB-sob (Schweizerische Südostbahn (sob)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b3959b6fde,,active
+CH,national,SPBR (Sportbahnen Braunwald AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3b4c953856,,active
+CH,national,SPL (Pontresina-Alp Languard),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2cb490ed5e,,active
+CH,national,SRI (Seilbahn Ried Illgau),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5f750212bc,,active
+CH,national,SRN (Sesselbahn Riedli - Nüegg (Wiriehorn)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-33c036815b,,active
+CH,national,SRT (Swiss Rail Traffic AG Glattbrugg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-af182836f1,,active
+CH,national,SS (Schiffahrtsunternehmung Silsersee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dd25b6870a,,active
+CH,national,SSA (Schutt Atzmännig),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-81cf6fdb64,,active
+CH,national,STBAG (Saastal Bergbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-11eb86418a,,active
+CH,national,STGR (Solarfährbetrieb Thomas Geiger Reichenau),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-aa114bc2c2,,active
+CH,national,STI (STI Bus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8003129f2a,,active
+CH,national,STI Berg (STI Bus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a2dd18aa5f,,active
+CH,national,STI-gwb (STI Bus AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-76c44994d3,,active
+CH,national,SUTU (Vischnaunca Sumvitg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b5202b86a4,,active
+CH,national,SVB Auto (Städtische Verkehrsbetriebe Bern),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ba05c4353f,,active
+CH,national,SVG (Sesselbahn Visperterminen-Giw),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d8542a425c,,active
+CH,national,SVGa (Sesselbahn Vals-Gadenstatt),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-35f8d47486,,active
+CH,national,SW (Schiffsbetrieb Walensee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cd671ab73d,,active
+CH,national,SWAG (Seilbahn Weissenstein AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d30b28c7c2,,active
+CH,national,SWEG (SWEG Südwestdeutsche Landesverkehrs-GmbH),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-de29245a28,,active
+CH,national,SZU (Sihltal-Zürich-Uetliberg-Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5db52566ed,,active
+CH,national,SZU Auto (Automobildienst SZU),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-954a302483,,active
+CH,national,SZU-EV (Sihltal-Zürich-Uetliberg-Bahn Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ee7e6e5d3a,,active
+CH,national,SZU-laf (Adliswil-Felsenegg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d8830156f8,,active
 CH,national,Shuttler~Ch,https://shuttler.ticpoi.com/public/routes/gtfs,f-shuttler~ch,,active
+CH,national,StSS (Standseilbahn Schwyz-Stoos AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-15f8d63c50,,active
+CH,national,SthB (Stanserhornbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-71234a2554,,active
+CH,national,StoB-lms (Stoosbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-da44251651,,active
+CH,national,StoB-sb (Stoosbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-98ddb6f3c1,,active
 CH,national,Systemaufgaben Kundeninformation SKI+,https://data.opentransportdata.swiss/dataset/timetable-2026-gtfs2020/permalink,mdb-2898,https://opentransportdata.swiss/en/terms-of-use/#Definitions,active
+CH,national,TAC (Transports Publics de l'agglomération d'Annemasse),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-19308f036b,,active
+CH,national,TBA (Tschentenbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dc9c0ea469,,active
+CH,national,TBBU (Toggenburg Bergbahnen Unterwasser),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-87e3d3b21e,,active
+CH,national,TBR (Télésiège Buttes-La Robella),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c59ef3300b,,active
+CH,national,TCP (Portes du Soleil Suisse SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0bd0825ff7,,active
+CH,national,TCSA (TéléCharmey SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-92c13cb6b7,,active
+CH,national,TDCA (Téléphérique Dorénaz-Champex d'Alesse/Commune de Dorénaz),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-56e8113602,,active
+CH,national,THP (Trägerverein Historische Postautolinie),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-77f0653587,,active
+CH,national,THURBO (THURBO),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0d9138c747,,active
+CH,national,TL (Transports Publics de la Région Lausannoise sa),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4a312a0856,,active
+CH,national,TLFC (TéléLaFouly-ChampexLac SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bd8310e4d6,,active
+CH,national,TLLM (Télésiège Lana-La Meina),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-54676f8fd5,,active
+CH,national,TLML (Télé-Leysin-Col des Mosses - La Lécherette SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cc0631c83a,,active
+CH,national,TMR Auto (Service d'automobiles TMR),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9ea57806bc,,active
+CH,national,TMR-EV (Transports de Martigny et Régions Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-903748d8e1,,active
+CH,national,TMR-mc (Transports de Martigny et Régions (mc)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-d280a84d3c,,active
+CH,national,TOJ (Téléovronnaz SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-85019bceee,,active
+CH,national,TPC (Transports Publics du Chablais),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b8a3d49c05,,active
+CH,national,TPC Auto (Transports Publics du Chablais (Bus)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2a014f6b43,,active
+CH,national,TPC-EV (Transports Publics du Chablais Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c46a117122,,active
+CH,national,TPF (Transports publics fribourgeois),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-784b3013b4,,active
+CH,national,TPF Auto (Service d'automobiles TPF),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-337f3d0707,,active
+CH,national,TPF-EV (Transports publics fribourgeois Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a98bd3d2aa,,active
+CH,national,TPF-nstp (Transports publics fribourgeois),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e6746dff35,,active
+CH,national,TPG (Transports Publics Genevois),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-07e614df7c,,active
+CH,national,TPL    F (Trasporti Pubblici Luganesi SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cb615db5b0,,active
+CH,national,TPL (Trasporti Pubblici Luganesi SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-25ef3a65b7,,active
+CH,national,TPN (Transports Publics de la Région Nyonnaise),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-81fa5f76bd,,active
+CH,national,TRAVYS (Transports Vallée de Joux-Yverdon-Ste-Croix),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4c6564ffca,,active
+CH,national,TRAVYS-E (Transports Vallée de Joux-Yverdon-Ste-Croix Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9be4463ff4,,active
+CH,national,TRAVYS/o (Transports Vallée de Joux-Yverdon-Ste-Croix (oc/bus)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-85d7391df7,,active
+CH,national,TRAVYSAu (Transports Vallée de Joux-Yverdon-Ste-Croix),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-96e9039e09,,active
+CH,national,TRI (Téléphérique Riddes-Isérables),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8da060150e,,active
+CH,national,TRN-EV (Transport Publics Neuchâtelois SA Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5ef6e81c15,,active
+CH,national,TRN-cmn (Transports Publics Neuchâtelois SA (cmn)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-35a2e55cc9,,active
+CH,national,TRN-rvt (Transports Publics Neuchâtelois SA (rvt)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ae9a0bbe1c,,active
+CH,national,TRN-tn (Transports Publics Neuchâtelois SA (tn)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a1ae2cd41e,,active
+CH,national,TRN-tn F (Transports Publics Neuchâtelois SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-8c29cfd7d8,,active
+CH,national,TRN/Auto (Service d'automobiles TRN (vr)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6eafca2909,,active
+CH,national,TRN/Autr (Service d'automobiles TRN (rvt Auto)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-baa511c5c4,,active
+CH,national,TRN/tc (Transports Publics Neuchâtelois SA (tc)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2461d89758,,active
+CH,national,TSB (Treib-Seelisberg-Bahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-733c7f02e9,,active
+CH,national,TSD-asdt (Theytaz Excursions Sion),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-50bc26bc40,,active
+CH,national,TSD-tcld (Theytaz Excursions Sion),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b78fbcc805,,active
+CH,national,TTG (Télé-Torgon SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5177d8db59,,active
+CH,national,TTM (Centre Touristique Moléson),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c151a68549,,active
+CH,national,TTY-tce (Télé-Thyon SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f33410614b,,active
+CH,national,TUG (Touristische Unternehmung Grächen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ac0939b413,,active
+CH,national,TV (Téléverbier),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cbfb596b4d,,active
+CH,national,TVCM (Télécabine Vercorin-Crêt-du-Midi),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c8b1e4ee2b,,active
+CH,national,TVGD (Télé-Villars-Gryon),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f537279e0c,,active
+CH,national,"TWS (Taxi, Bau- und Traxarbeiten Willi Schaad)",https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4665dfdd99,,active
+CH,national,URh (Schweiz. Schifffahrtsgesellschaft Untersee und Rhein AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-dc2dd34154,,active
+CH,national,VB (Verkehrsbetriebe Biel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5e8554addf,,active
+CH,national,VB-be (Verkehrsbetriebe Biel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-23b5fba3cb,,active
+CH,national,VB-bm (Verkehrsbetriebe Biel),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2b65702bc2,,active
+CH,national,VBA (Verein Bus alpin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-2b2a15444f,,active
+CH,national,VBD (Verkehrsbetrieb der Landschaft Davos),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c6b72d473d,,active
+CH,national,VBG (Verkehrsbetriebe Glattal),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f1e5d653c7,,active
+CH,national,VBH (Verkehrsbetriebe Herisau),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-bc48857301,,active
+CH,national,VBL (Verkehrsbetriebe Luzern AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a8a90caa3b,,active
+CH,national,VBSA (Valbianca SA Airolo),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0a040c095e,,active
+CH,national,VBSG (Verkehrsbetriebe der Stadt St.Gallen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b24789acbb,,active
+CH,national,VBSH (Verkehrsbetriebe Schaffhausen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-11c3e1a96e,,active
+CH,national,VBSH-rv (Verkehrsbetriebe Schaffhausen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-cb34e6e1c3,,active
+CH,national,VBZ    F (Verkehrsbetriebe Zürich INFO+),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-390690db43,,active
+CH,national,VBZ (Verkehrsbetriebe Zürich),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-4832e9de99,,active
+CH,national,VDBB (Verein Dampfbahn Bern),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-04ceb383ab,,active
+CH,national,VHB (FPLAN VHB SBP),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a64f63277e,,active
+CH,national,VHB (Verkehrsverbund Hegau-Bodensee),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-7d995abdf0,,active
+CH,national,VLM (Verkehrsbetrieb LIECHTENSTEINmobil),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9da93a0d4f,,active
+CH,national,VMCV (Transports publics Vevey-Montreux-Chillon-Villeneuve),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-85a7b2f6fc,,active
+CH,national,VNB (Verein Naturpark Beverin),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b9c3010b31,,active
+CH,national,VSK-bkk (Verkehrsbetriebe Kreuzlingen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-c57dcd8b5e,,active
+CH,national,VVT (Verkehrsverbund Tirol),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-89557fd60f,,active
+CH,national,VVV (Verkehrsverbund Vorarlberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0e078fa18f,,active
+CH,national,VZO (Verkehrsbetriebe Zürichsee und Oberland),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ab4cea2631,,active
+CH,national,VerAlp (VerticAlp Vallée du Trient SA),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b14867066a,,active
+CH,national,WAB (Wengernalpbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0d25f901f7,,active
+CH,national,WAB-sbge (Wengernalpbahn Grindelwald Grund - Eigergletscher),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-9b40cbf3a1,,active
+CH,national,WETA (Bürgerbus Walperswil-Epsach-Täuffelen-Aarberg),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-b1971052bd,,active
+CH,national,WG-wg (Wasserngrat 2000 AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-f481943848,,active
+CH,national,WSU (Walker's Söhne Urnerboden),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-86a839a222,,active
+CH,national,ZB (Zentralbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-509df84584,,active
+CH,national,ZB Bus F (ZB Bus Fahrplanbedürfnisse),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ce35b5c1c9,,active
+CH,national,ZB-EV (Zentralbahn AG Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-06ff847131,,active
+CH,national,ZBAG (Zermatt Bergbahnen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a58cf34173,,active
+CH,national,ZBB (Zugerbergbahn),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e55bf674b3,,active
+CH,national,ZSG (Zürichsee-Schifffahrtsgesellschaft AG (ZSG)),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-0069b5508d,,active
+CH,national,ZVB (Zugerland Verkehrsbetriebe),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-be4d842988,,active
+CH,national,ÖBB (Österreichische Bundesbahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-3e86e1e514,,active
 CI,Abidjan,Grand~Abidjan,https://gitlab.com/digitaltransport/data/africa/abidjan/raw/master/Donn%C3%A9es/abidjan.zip,f-ebvn-grand~abidjan,https://opendatacommons.org/licenses/odbl/index.html,active
 CI,Abidjan,SOTRA Bateau-Bus (Monbato lagoon ferry),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CI/abidjan/sotra-bateau-bus-monbato-lagoon-ferry/gtfs/,ci-llm-sotra-bateau-bus-monbato-lagoon-ferry,,active
 CI,Abidjan,STL (Société de Transport Lagunaire) - bateau-bus,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CI/abidjan/stl-societe-de-transport-lagunaire-bateau-bus/gtfs/,ci-llm-stl-societe-de-transport-lagunaire-batea,,active
@@ -485,6 +956,7 @@ CZ,Prague,Prazska integrovana doprava (PID),http://data.pid.cz/PID_GTFS.zip,mdb-
 CZ,Prague,naldo Verkehrsverbund,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/naldo.zip,mdb-771,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 CZ,national,Czech national bus feed JDF,https://owncloud.cesnet.cz/index.php/s/IMvVXZIHOuORDrB/download,mdb-2904,,active
 CZ,national,Czptt~Cz,https://data.jr.ggu.cz/results/latest/CZPTT_GTFS.zip,f-czptt~cz,CC0-1.0,active
+CZ,national,Pražská integrovaná doprava,https://data.pid.cz/PID_GTFS.zip,cz-op-289b98d651,,active
 CZ,national,Spojenka (CHAPS / CIS JR merge),https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-spojenka-nationwide,,active
 DE,Aachen,AVV (Aachener Verkehrsverbund),https://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip,de-eu2-avv-aachener-verkehrsverbund,CC0,active
 DE,Aachen,Eurostar International Ltd.,https://www.data.gouv.fr/api/1/datasets/r/bfd97acd-63f3-4ea4-bfe8-70e4c7fd8d13,tdg-82199,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
@@ -1015,6 +1487,32 @@ DE,national,ÖBB,https://download.gtfs.de/germany/free/latest.zip,de-ag-669e4841
 DE,national,Öchsle-Bahn-Betriebsgesellschaft mbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-b74313aed9,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,ÜWAG direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-2351a3aa87,CC-BY-4.0 (gtfs.de / DELFI),active
 DK,Region of Southern Denmark,OVapi,http://gtfs.ovapi.nl/gtfs-nl.zip,mdb-1077,,active
+DK,national,Bornholms Trafik,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-2b46c333ac,,active
+DK,national,DSB,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-3ec6e8d38a,,active
+DK,national,DSB S-tog,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-83a0ab4c03,,active
+DK,national,FYNBUS,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-43bfaba01a,,active
+DK,national,Fanø Kommune,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-942ae28ee0,,active
+DK,national,GoCollective,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-14a1798818,,active
+DK,national,Hovedstadens Letbane,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-ed48000448,,active
+DK,national,Lokaltog A/S,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-bd3e49536b,,active
+DK,national,Metroselskabet,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-25d3071362,,active
+DK,national,Midttrafik,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-288e1eea27,,active
+DK,national,Mols-Linien,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-bcdc9a90c3,,active
+DK,national,Movia,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-0db3b93fc6,,active
+DK,national,NT,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-cb48af3e40,,active
+DK,national,Nuup Bussii A/S,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-addd3cc995,,active
+DK,national,Odense Letbane,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-fc631f015a,,active
+DK,national,Samsø Bus,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-a4e0a747af,,active
+DK,national,Samsø Rederi,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-bdb965538a,,active
+DK,national,Skånetrafiken,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-b0e584e388,,active
+DK,national,Snälltåget AB,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-5269daf3af,,active
+DK,national,Sporvejsmuseet Skjoldenæsholm,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-d5bda37031,,active
+DK,national,"Svendborg Havn, Færge- og Sundfart",https://www.rejseplanen.info/labs/GTFS.zip,dk-op-0071b468f5,,active
+DK,national,Sydtrafik,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-0f03ee4da2,,active
+DK,national,Thinggaard Express,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-138298d024,,active
+DK,national,Ærø Kommune,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-1ae0fca1ef,,active
+DK,national,ÆrøXpressen A/S,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-9a07818298,,active
+DK,national,Ærøfærgerne,https://www.rejseplanen.info/labs/GTFS.zip,dk-op-5f307fe760,,active
 DO,Santo Domingo,OMSA - Operadora Metropolitana de Servicios de Autobuses,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/omsa-operadora-metropolitana-de-servicios-de-aut/gtfs/,do-llm-omsa-operadora-metropolitana-de-servicio,,active
 DO,Santo Domingo,OPRET - Metro de Santo Domingo (Line 1 & Line 2),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/opret-metro-de-santo-domingo-line-1-line-2/gtfs/,do-llm-opret-metro-de-santo-domingo-line-1-line,,active
 DO,Santo Domingo,OPRET - Teleférico de Santo Domingo,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/DO/santo-domingo/opret-teleferico-de-santo-domingo/gtfs/,do-llm-opret-teleferico-de-santo-domingo,,active
@@ -3167,6 +3665,8 @@ GL,Sermersooq,Nuup Bussii A/S,https://github.com/thomasryde/nuup-bussii-gtfs/rel
 GR,Athens,"OASA — Athens Urban Transport Organisation (bus OSY, trolley, metro+ISAP+tram STASY, suburban rail)",https://www.geodata.gov.gr/dataset/244cfb87-21a0-4f9f-90af-25e9a232af41/resource/d94179a0-a2bd-432f-8c5e-e05eae2886cf/download/googletransit.zip,gr-disc-33,,active
 GR,Municipal Unit of Kamatero,Athens Urban Transport Organization (OASA) - Road Transport Routes,https://data.gov.gr/dataset/fb049bb1-aea6-4443-95fa-8b941dd6a057/resource/119db488-16ea-4c76-b560-41c472872390/download/osy_gtfs.zip,mdb-3220,,active
 GR,Municipality of Piraeus,Athens Urban Transport Organization (OASA) - Rail Routes,https://data.gov.gr/dataset/4e897a75-975a-4ce7-af65-f32ea01f93b9/resource/5e3858ee-d9ba-48c2-9015-744ea160976d/download/stasy_gtfs.zip,mdb-3221,,active
+GR,Thessaloniki,OASTH (Thessaloniki Urban Transport Organization),https://data.gov.gr/dataset/87f127e9-9d06-42b8-8793-029761e28bce/resource/4d2d57e3-de31-4d44-b8b9-98ae605c6bcd/download/oasth.gtfs.zip,gr-nap-oasth-thessaloniki-urban-transpo,CC-BY (Greek NAP),active
+GR,Thessaloniki,OSETH (Transport Authority of Thessaloniki S.A.),https://data.gov.gr/dataset/42c9a7da-c86c-48b1-914c-f340e8bef00d/resource/4ad67d72-d443-4969-97fc-6c1ada64b87a/download/20260812_gtfs.zip,gr-nap-oseth-transport-authority-of-the,CC-BY (Greek NAP),active
 GR,national,Hellenic~Train~Gr,https://jbb.ghsq.de/gtfs/gr-hellenic-train.gtfs.zip,f-hellenic~train~gr,ODbL-1.0,active
 GR,national,Oseth~Thessaloniki~Gr,https://data.gov.gr/dataset/42c9a7da-c86c-48b1-914c-f340e8bef00d/resource/8edcc617-7d0e-4832-9804-96c9811fabfd/download/20260717_gtfs.zip,f-oseth~thessaloniki~gr,,active
 GT,Guatemala City,Rutas Express — Municipalidad de Mixco,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/GT/guatemala-city/rutas-express-municipalidad-de-mixco/gtfs/,gt-llm-rutas-express-municipalidad-de-mixco,,active
@@ -6540,11 +7040,31 @@ SI,Ptuj,Ptuj city transport,http://gtfs.derp.si/ptuj_gtfs.zip,si-nap-ptuj-city-t
 SI,Velenje,Velenje Lokalc (free city bus),http://gtfs.derp.si/velenje_manual.zip,si-nap-velenje-lokalc-free-city-bus,CC-BY-SA-4.0,active
 SI,Šempeter-Vrtojba,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.nova-gorica,mdb-2944,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
 SK,Bratislava,IDS BK Regional Buses,https://transiq.xhyrom.dev/gtfs/sk/ids-bk_regional.zip,mdb-2919,,active
+SK,Bratislava,"Slovak Lines Express, a.s.",https://transiq.xhyrom.dev/gtfs/sk/slovak-lines-express-as.zip,sk-nap-slovak-lines-express-a-s,Open data (planydopravy.sk NAP),active
 SK,District of Dunajská Streda,Kompa Vojka-Kyselica,https://github.gtfs.sk/kompa-vojka/gtfs.zip,mdb-3478,,active
 SK,District of Senec,"Dopravný podnik Bratislava, a.s.",https://www.arcgis.com/sharing/rest/content/items/aba12fd2cbac4843bc7406151bc66106/data,tld-3363,,active
 SK,District of Skalica,Integrated Transit System of the South Moravian Region (IDS JMK),https://www.arcgis.com/sharing/rest/content/items/379d2e9a7907460c8ca7fda1f3e84328/data,mdb-2155,https://data.brno.cz/datasets/379d2e9a7907460c8ca7fda1f3e84328/about,active
+SK,Dunajská Streda,"SAD Dunajská Streda, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-dunajska-streda-as.zip,sk-nap-sad-dunajska-streda-a-s,Open data (planydopravy.sk NAP),active
+SK,Humenné,"SAD Humenné, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-humenne-as.zip,sk-nap-sad-humenne-a-s,Open data (planydopravy.sk NAP),active
 SK,Kosice,"Dopravny podnik mesta Kosice, a.s. (DPMK) — tram/trolley/bus MHD",https://www.arcgis.com/sharing/rest/content/items/ba941d7bc56a462684a261d4f35ce17d/data,sk-kosice,,active
 SK,Košice,DZK,https://www.detskazeleznica.sk/files/2026-04-07-112452-DZK_GTFS_2026_final.zip,mdb-3154,,active
+SK,Lučenec,"SAD Lučenec, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-lucenec-as.zip,sk-nap-sad-lucenec-a-s,Open data (planydopravy.sk NAP),active
+SK,Michalovce,"Arriva Michalovce, a.s.",https://transiq.xhyrom.dev/gtfs/sk/arriva-michalovce-as.zip,sk-nap-arriva-michalovce-a-s,Open data (planydopravy.sk NAP),active
+SK,Nitra,"Arriva Nitra, a.s.",https://transiq.xhyrom.dev/gtfs/sk/arriva-nitra-as.zip,sk-nap-arriva-nitra-a-s,Open data (planydopravy.sk NAP),active
+SK,Nové Zámky,"Arriva Nové Zámky, a.s.",https://transiq.xhyrom.dev/gtfs/sk/arriva-nove-zamky-as.zip,sk-nap-arriva-nove-zamky-a-s,Open data (planydopravy.sk NAP),active
+SK,Poprad,DPMP (Dopravný podnik mesta Poprad),https://transiq.xhyrom.dev/gtfs/sk/dpmp.zip,sk-nap-dpmp-dopravny-podnik-mesta-popra,Open data (planydopravy.sk NAP),active
+SK,Poprad,"SAD Poprad, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-poprad-as.zip,sk-nap-sad-poprad-a-s,Open data (planydopravy.sk NAP),active
+SK,Prešov,"SAD Prešov, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-presov-sk.zip,sk-nap-sad-presov-a-s,Open data (planydopravy.sk NAP),active
+SK,Prievidza,"SAD Prievidza, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-prievidza-as.zip,sk-nap-sad-prievidza-a-s,Open data (planydopravy.sk NAP),active
+SK,Ružomberok,"Arriva Liorbus, a.s.",https://transiq.xhyrom.dev/gtfs/sk/arriva-liorbus-as.zip,sk-nap-arriva-liorbus-a-s,Open data (planydopravy.sk NAP),active
+SK,Trenčín,"SAD Trenčín, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-trencin-as.zip,sk-nap-sad-trencin-a-s,Open data (planydopravy.sk NAP),active
+SK,Trnava,"Arriva Trnava, a.s.",https://transiq.xhyrom.dev/gtfs/sk/arriva-trnava-as.zip,sk-nap-arriva-trnava-a-s,Open data (planydopravy.sk NAP),active
+SK,Zvolen,"SAD Zvolen, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-zvolen-as.zip,sk-nap-sad-zvolen-a-s,Open data (planydopravy.sk NAP),active
+SK,nationwide,"A-Express, s.r.o.",https://transiq.xhyrom.dev/gtfs/sk/a-express-sro.zip,sk-nap-a-express-s-r-o,Open data (planydopravy.sk NAP),active
+SK,nationwide,Cestovná kancelária DAKA,https://transiq.xhyrom.dev/gtfs/sk/cestovna-kancelaria-daka.zip,sk-nap-cestovna-kancelaria-daka,Open data (planydopravy.sk NAP),active
+SK,nationwide,"RegioJet, a.s.",https://transiq.xhyrom.dev/gtfs/sk/regiojet-as.zip,sk-nap-regiojet-a-s,Open data (planydopravy.sk NAP),active
+SK,nationwide,Železnice Slovenskej republiky (ŽSR) / ZSSK,https://data.slovensko.sk/download?id=c5a63281-3c44-4dba-82c9-7b7ad603db5d,sk-nap-zeleznice-slovenskej-republiky-z,"Open data (data.slovensko.sk NKOD, CC-BY)",active
+SK,Žilina,"SAD Žilina, a.s.",https://transiq.xhyrom.dev/gtfs/sk/sad-zilina-as.zip,sk-nap-sad-zilina-a-s,Open data (planydopravy.sk NAP),active
 SN,Dakar,Dakar Dem Dikk (DDD),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/SN/dakar/dakar-dem-dikk-ddd/gtfs/,sn-llm-dakar-dem-dikk-ddd,,active
 SN,Dakar,SunuBRT (Dakar Mobilité),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/SN/dakar/sunubrt-dakar-mobilite/gtfs/,sn-llm-sunubrt-dakar-mobilite,,active
 SN,Dakar,TER Dakar (Train Express Regional - SETER / SENTER SA),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/SN/dakar/ter-dakar-train-express-regional-seter-senter-sa/gtfs/,sn-llm-ter-dakar-train-express-regional-seter-s,,active

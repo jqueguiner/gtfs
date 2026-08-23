@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cestovná kancelária DAKA",
+    "country": "SK",
+    "subdivision": "Slovakia (bus)",
+    "city": "nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/cestovna-kancelaria-daka.zip",
+    "mdb_id": "sk-nap-cestovna-kancelaria-daka",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

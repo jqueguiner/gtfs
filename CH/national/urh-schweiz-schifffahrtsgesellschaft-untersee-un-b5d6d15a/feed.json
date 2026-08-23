@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "URh (Schweiz. Schifffahrtsgesellschaft Untersee und Rhein AG)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-dc2dd34154",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

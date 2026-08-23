@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OGS (Ortsbus der Gemeinde Silvaplana / Gemeinde Silvaplana)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-994d06a8cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Slovak Lines Express, a.s.",
+    "country": "SK",
+    "subdivision": "Slovakia (intercity bus)",
+    "city": "Bratislava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/slovak-lines-express-as.zip",
+    "mdb_id": "sk-nap-slovak-lines-express-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MVR-EV (Montreux-Vevey-Riviera Ersatzverkehr)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-ad3e31ef84",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

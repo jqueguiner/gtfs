@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TRN/Autr (Service d'automobiles TRN (rvt Auto))",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-baa511c5c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

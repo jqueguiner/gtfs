@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OASTH (Thessaloniki Urban Transport Organization)",
+    "country": "GR",
+    "subdivision": "Central Macedonia",
+    "city": "Thessaloniki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.gov.gr/dataset/87f127e9-9d06-42b8-8793-029761e28bce/resource/4d2d57e3-de31-4d44-b8b9-98ae605c6bcd/download/oasth.gtfs.zip",
+    "mdb_id": "gr-nap-oasth-thessaloniki-urban-transpo",
+    "license": "CC-BY (Greek NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

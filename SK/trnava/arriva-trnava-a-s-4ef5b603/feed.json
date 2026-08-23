@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arriva Trnava, a.s.",
+    "country": "SK",
+    "subdivision": "Trnava Region",
+    "city": "Trnava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/arriva-trnava-as.zip",
+    "mdb_id": "sk-nap-arriva-trnava-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

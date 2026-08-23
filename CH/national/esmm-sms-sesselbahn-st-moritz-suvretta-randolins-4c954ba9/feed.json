@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ESMM-sms (Sesselbahn St. Moritz Suvretta-Randolins)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-f48711328d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

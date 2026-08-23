@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arriva Michalovce, a.s.",
+    "country": "SK",
+    "subdivision": "Košice Region",
+    "city": "Michalovce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/arriva-michalovce-as.zip",
+    "mdb_id": "sk-nap-arriva-michalovce-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

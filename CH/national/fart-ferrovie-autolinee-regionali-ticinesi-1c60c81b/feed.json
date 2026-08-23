@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FART (Ferrovie Autolinee Regionali Ticinesi)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-c5f2d1aa2e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}

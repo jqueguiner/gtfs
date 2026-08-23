@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DPMP (Dopravný podnik mesta Poprad)",
+    "country": "SK",
+    "subdivision": "Prešov Region",
+    "city": "Poprad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/dpmp.zip",
+    "mdb_id": "sk-nap-dpmp-dopravny-podnik-mesta-popra",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

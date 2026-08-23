@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAD Lučenec, a.s.",
+    "country": "SK",
+    "subdivision": "Banská Bystrica Region",
+    "city": "Lučenec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transiq.xhyrom.dev/gtfs/sk/sad-lucenec-as.zip",
+    "mdb_id": "sk-nap-sad-lucenec-a-s",
+    "license": "Open data (planydopravy.sk NAP)"
+  },
+  "bbox": null,
+  "source": "eu-nap",
+  "status": "active"
+}

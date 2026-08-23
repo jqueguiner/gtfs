@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SZU-EV (Sihltal-Zürich-Uetliberg-Bahn Ersatzverkehr)",
+    "country": "CH",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-op-ee7e6e5d3a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "ch-nap#agency",
+  "status": "active"
+}
