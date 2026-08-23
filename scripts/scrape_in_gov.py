@@ -20,6 +20,12 @@ FEEDS = [
      "https://kochimetro.org/opendata/KMRLOpenData.zip", None),
     ("in-kochi-transport", "KochiTransport (Jungle Bus / OSM community)", "Kochi", "Kerala",
      "https://jungle-bus.github.io/KochiTransport/KochiTransport.zip", "ODbL-1.0"),
+    # Delhi OTD — official open transit data, no key (per-file form POST, no login).
+    # GTFS served as individual .txt via a usage form; producer_url = the portal page.
+    ("in-delhi-otd-bus", "Delhi OTD — DTC + DIMTS cluster buses", "Delhi", "Delhi",
+     "https://otd.delhi.gov.in/data/static/", "GoI-OGDL"),
+    ("in-delhi-otd-dmrc", "Delhi OTD — DMRC (Delhi Metro)", "Delhi", "Delhi",
+     "https://otd.delhi.gov.in/data/staticDMRC/", "GoI-OGDL"),
 ]
 
 
