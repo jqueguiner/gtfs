@@ -1,0 +1,14 @@
+{
+  "operator": "Londrisul - Londrina Sul Transporte Coletivo",
+  "city": "Londrina",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 12,
+    "routes": 2,
+    "trips": 50,
+    "stop_times": 288
+  },
+  "notes": "Londrina (PR) has NO metro/light-rail/BRT/suburban-rail — it is an all-bus system regulated by CMTU and operated by the Grande Londrina / Londrisul consortium (branded \"Mov Londrina\") plus TCGL, so route_type is 3 (bus) throughout; the metro-first priority did not apply. The four given SOURCES are portals/aggregators: cmtu.londrina.pr.gov.br and horariodeonibus.net expose the line list; csr.mov1.com.br (MOV1/ITS real-time) and bus2.info are JS/loading-only (WebFetch timed out / returned only a loading splash) so no machine-readable timetable could be pulled from them. Overpass/OSM could not be reached from this sandbox (all direct outbound curl returned HTTP 000; WebFetch/WebSearch only), so the 323 OSM bus_stop nodes could not be fetched; stop coordinates were instead obtained by geocoding the named terminals/landmarks that the published per-line itineraries demonstrably serve.\n\nTwo Londrisul-attributed lines are built, both weekday service:\n- 913 Robert Koch / Gleba Palhano: confirmed operated by \"Grande Londrina / Londrisul\" (Moovit), longest line in the system (~17 km, ~56 real stops), began 27-Sep-2021, perimetral line skipping Terminal Central; full street-by-street itinerary evidenced from horariodeonibus.net/onibus.online. Clock times are synthesized on an even ~30-min weekday headway across the documented service window (source gives only frequency, not a per-stop table).\n- 703 Rápido Aquiles Stenghel / Centro: full PUBLISHED departure times used verbatim (12 bairro deps, 16 Centro deps); intermediate times interpolated.\n\nStops are the discrete NAMED anchors (terminals + major landmarks: Terminal Shopping Catuaí, UEL, Av. Ayrton Senna/Gleba Palhano, Hospital Evangélico/Av. Bandeirantes, Terminal Central, Terminal Milton Gavetti, Conjunto Aquiles Stenghel, etc.) that each itinerary provably passes; the sources describe routes street-by-street rather than as a coordinate-tagged stop list, so intermediate on-street stops between anchors are NOT enumerated (per \"never invent stops that aren't evidenced\"). Coordinates are WGS-84: Terminal Shopping Catuaí (-23.34375,-51.18624) and UEL (-23.32531,-51.19998) are precise published values; Av. Ayrton Senna (-23.33074,-51.17747) from CEP geocode; the remaining anchors are approximate from verified street addresses (not exact-surveyed). Confidence 0.4: operator/city/route identity and the 703 timetable are solid, but stop granularity is coarse (anchors not every stop), 913 times are headway-synthesized, and no OSM coordinate layer could be attached. Sat/Sun service exists in reality but no reliable weekend table was recoverable, so calendar is Mon-Fri only.",
+  "source": "llm-normalized"
+}

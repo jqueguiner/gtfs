@@ -1,0 +1,14 @@
+{
+  "operator": "SMTT Aracaju (SIT + SIM integrated bus network — RS Transportes, Viação Tropical, Auto Viação Paraíso/Modelo, et al.)",
+  "city": "Aracaju",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 75,
+    "routes": 6,
+    "trips": 8,
+    "stop_times": 161
+  },
+  "notes": "Built from the official SMTT Aracaju itinerary PDF (intinerario_linha_urbana.pdf, COPOB/D.T.P.), which gives full street-by-street sequences for 6 line variants: 100 CS1, 100 CS2, 074 (UNIT/Centro, both directions), 401 (UNIT/D.I.A., both directions), 410-1 and 410-2 (Inácio Barbosa/D.I.A.). The onibus.online + Moovit sources confirm SMTT operates ~118 lines total (SIT ~1049 stops + SIM ~597 stops per Moovit), so this feed covers only the subset with published street-level itineraries — the rest of the network is NOT represented. Stops are the named streets/terminals from the PDF, in itinerary order (terminals, avenues, and \"Retorno\"/turnaround points collapsed). Coordinates were geocoded from Aracaju's road network (OSM/WGS-84 knowledge); Aracaju is compact and its major avenues (Tancredo Neves, Adélia Franco, Heráclito Rollemberg, Beira Mar, Santos Dumont/Orla, Murilo Dantas/UNIT, Geraldo Barreto Sobral/Shopping Jardins) and the 3 integration terminals (D.I.A., Zona Sul, Centro) are well-mapped, so terminal + major-avenue coords are reliable (~50-150m); minor lettered streets (Rua A-2, H-4, Canal 3/4/5 side streets in Conj. Augusto Franco) are approximate within the known neighborhood. No official per-line clock schedule or headway table was available in machine-readable form; onibus.online indicates daily service ~04:30-24:00 (Sat from ~05:00, Sun from ~04:00). Stop_times therefore use realistic clock times spread evenly across a representative morning trip per direction; they are illustrative, not the exact published timetable. Circular lines (100 CS1/CS2, 410-1/410-2) are single-direction loops. Confidence 0.42: itineraries/stop ORDER are faithful to the official PDF; coordinates good for terminals/major avenues; times synthesized; network coverage partial.",
+  "source": "llm-normalized"
+}

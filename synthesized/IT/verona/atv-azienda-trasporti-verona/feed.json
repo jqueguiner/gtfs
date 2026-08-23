@@ -1,0 +1,14 @@
+{
+  "operator": "ATV - Azienda Trasporti Verona",
+  "city": "Verona",
+  "cc": "IT",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 24,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 98
+  },
+  "notes": "Sources: ATV official routes-and-timetables pages (atv.verona.it), MyCicero ATV-VR portal (JS-rendered, no static tables), and Moovit line pages for line/terminal/hour confirmation; hub coordinates geocoded from Wikipedia/Wikidata/latitude.to (WGS-84). Overpass (multiple endpoints) refused/500'd so OSM node-level stop coords were unavailable; hub coords are geocoded landmark centroids.\n\nRoute roster is complete and evidenced: ATV runs 22 urban lines (11,12,13,21,22,23,24,30,41,51,52,61,73,90-98). This feed builds the 8 best-documented backbone lines (11,12,13,21,22,23,24,51) whose terminals and hub sequences are confirmed. Each has one representative trip per direction over documented major hub stops (Porta Nuova being the common interchange).\n\nLIMITATIONS driving the 0.42 confidence: (1) MyCicero portal is JS-only and Overpass was unreachable, so full ordered intermediate stop lists per line could NOT be extracted - trips list only the documented major hubs, not every pole. (2) Exact published clock times were not extractable; stop_times use even headways across the confirmed weekday service window (~05:30-20:20, Moovit line 11). (3) Stop coords are landmark centroids, not per-pole bus_stop nodes. No stops were invented - every stop is an evidenced hub/terminal named in ATV/Moovit route descriptions. Remaining 14 urban lines + suburban/Legnago network omitted for lack of extractable ordered stops.",
+  "source": "llm-normalized"
+}

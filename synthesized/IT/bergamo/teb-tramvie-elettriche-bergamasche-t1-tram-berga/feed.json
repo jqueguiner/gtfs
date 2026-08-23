@@ -1,0 +1,14 @@
+{
+  "operator": "TEB (Tramvie Elettriche Bergamasche) - T1 tram Bergamo-Albino",
+  "city": "Bergamo",
+  "cc": "IT",
+  "confidence": 0.83,
+  "counts": {
+    "stops": 16,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 96
+  },
+  "notes": "Single tram line T1 Bergamo FS <-> Albino (route_type=0), 12.5 km, 16 stations opened 2009, operated by TEB. Stop ordering from teb.bergamo.it 'Fermate e orari' + it.wikipedia Tranvia Bergamo-Albino. Coordinates are OSM WGS-84 from the two tram route=tram relations in the province bbox (rel 399912 Bergamo=>Albino, rel 2423981 Albino=>Bergamo); all 16 'stop' role member nodes resolved with real lat/lon (verified via overpass.openstreetmap.fr mirror). Per-stop clock times taken directly from TEB's published Jan-2025 weekday timetable revision (Albino->Bergamo: Albino 5:50, Pradalunga 5:52, N.Saletti 5:54, N.Centro 5:55, N.Camozzi 5:57, Alzano Sopra 5:59, Alzano Centro 6:01, Ranica 6:03, Torre Boldone 6:07, Martinella 6:09, Negrisoli 6:10, Redona 6:12, Bianzana 6:14, S.Fermo 6:15, Borgo Palazzo 6:17, Bergamo FS 6:20 = 30 min end-to-end); southbound is the mirror. Headways from TEB summer-2026 notice: weekday every 15 min, Saturday every 20 min, Sun/holiday every 30 min (20 in afternoons). Representative first trip per direction per service-type is emitted with full 16-stop ordered stop_times; the real feed runs these at the stated headways from ~05:50 to ~22:10 (holidays from ~07:00). Original PDF (teb_orari_dal_7_gennaio_2026.pdf) only covers a temporary Jan 7 - Feb 21 2026 service suspension between BG Bianzana and Bergamo FS (T2 connection works, replacement TEB shuttles) and does not contain the normal full timetable; the standard schedule is modeled here instead. The 3 sources: teb.bergamo.it fermate-e-orari, atb-cdn teb_orari PDF, appassets.mvtdev.com/Moovit line map PDF.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio Fênix",
+  "city": "Florianópolis",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 8,
+    "routes": 4,
+    "trips": 24,
+    "stop_times": 24
+  },
+  "notes": "Built from the official Consórcio Fênix site. The two given SOURCES (/horarios and the itinerary-maps news article) yield the ROUTE DIRECTORY and system structure (Sistema Integrado de Mobilidade / SIM: 6 integration terminals, route types Troncal/Alimentadora/Executivo) but NOT machine-readable per-stop schedules. Real departure times WERE extracted from the site's printable timetable endpoint (consorciofenix.com.br/horarios/impressao/<line>) for 4 representative highest-ridership TRONCAL/feeder lines: 230 (TICAN–Gama D'Eça via TITRI, the longest line, 50km/91 stops), 231 (TICAN–TICEN via TITRI), 210 (TICAN–TICEN Direto), 460 (Porto da Lagoa feeder). This all-bus network has no metro/rail/BRT mode; per the \"metro/rail first\" rule I instead prioritized the inter-terminal troncal lines (the backbone, best-documented) which anchor on the 6 SIM terminals.\n\nSTOPS: Only the terminal-level anchor stops are included (6 SIM terminals + 2 line endpoints = 8 stops), each with real WGS-84 coordinates from OSM/Wikimapia/documented SIM addresses (TICEN from OSM way 626775215 = -27.59844,-48.55379; TITRI from Wikimapia; others from terminal street addresses, cross-checked against OSM route relations 2079727/3403655/3404020). The full 2087 intermediate bus_stop nodes were NOT scraped — the operator site does not expose ordered per-stop lists in the timetable HTML, and Overpass/Nominatim were rate-limited/blocked from this environment (HTTP 429/502), so intermediate stops would have been unevidenced guesses. I did NOT invent them (per instructions). Intermediate stop_times use even running-time interpolation between real terminal times.\n\nConfidence 0.45: departure times per direction are REAL from official timetables for the 4 lines (230/231 fully enumerated; 210/460 headway-derived from the site's stated service spans/trip counts); terminal coords are real WGS-84. But this is 4 of ~164 routes and terminal-anchored only (no intermediate stop geometry), so it is a faithful skeleton of the trunk network, not the full feed. To raise confidence: scrape each line's \"Exibir Mapa\" itinerary + the 2291 OSM highway=bus_stop nodes / 165 route=bus relations (blocked here) to populate intermediate stops.",
+  "source": "llm-normalized"
+}

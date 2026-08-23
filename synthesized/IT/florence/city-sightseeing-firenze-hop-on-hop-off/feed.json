@@ -1,0 +1,14 @@
+{
+  "operator": "City Sightseeing Firenze (hop-on hop-off)",
+  "city": "Florence",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 19,
+    "routes": 2,
+    "trips": 2,
+    "stop_times": 27
+  },
+  "notes": "Open-top hop-on hop-off sightseeing bus, operator City Sightseeing Firenze. Two lines: Linea A (blue, ~60 min city-center loop) and Linea B (~120 min, Florence + Fiesole hill town). Source pages (city-sightseeing.it and hop-on-hop-off-tickets.com routes/timetable) are JS-rendered and returned no tabular data via fetch; route/stop sequences and hours were reconstructed from two consistent web searches over reseller listings. Stop numbering and exact sequence vary by season/year across sources, so ordering is a best-effort representative loop. Timetable used: Linea A first dep 09:00, last dep 17:45, headway 25 min (spring 2026 schedule); Linea B first dep 11:00, last dep 16:00, headway 60 min. Line B is seasonally suspended Mon-Fri in winter (3 Nov 2025-31 Mar 2026); calendar here reflects the summer full-week operation. Coordinates are WGS-84 for well-known Florence/Fiesole landmarks (Piazzale Michelangelo, SMN, Porta Romana, Piazza Mino da Fiesole, etc.); a few intermediate stops approximated to the named piazza/street. Demidoff stop omitted (suspended). No stop directly at the Duomo (ZTL); nearest is SMN. Trips built as one representative loop per line at first departure with even inter-stop spacing across the published loop duration.",
+  "source": "llm-normalized"
+}

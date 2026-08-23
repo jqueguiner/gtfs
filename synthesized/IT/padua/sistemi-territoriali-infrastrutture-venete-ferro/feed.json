@@ -1,0 +1,14 @@
+{
+  "operator": "Sistemi Territoriali / Infrastrutture Venete - Ferrovia Adria-Mestre",
+  "city": "Padua",
+  "cc": "IT",
+  "confidence": 0.78,
+  "counts": {
+    "stops": 18,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 35
+  },
+  "notes": "Source: official \"Murale AdriaMestre 14 dic 2025\" timetable PDF (infrastrutturevenete.it), valid 14 Dec 2025 - 28 Mar 2026, cross-checked against PIR2024 station order and it.wikipedia Ferrovia Adria-Mestre. Coordinates are OSM WGS-84 railway=station/halt nodes queried via Overpass (all 17 line stations matched; Venezia S. Lucia is the well-known FS terminus). The line is operated as regional rail (route_type=2); infrastructure manager Infrastrutture Venete, rail service run by Trenitalia since 1 Sep 2024 (previously Sistemi Territoriali). Two representative full-length trains modelled: 91568 Adria->Venezia S.Lucia (dir 0) and 91583 Venezia S.Lucia->Adria (dir 1), with exact published clock times per station. NOTE: several early/late runs in the murale are 'BUS' (servizio automobilistico sostitutivo / rail-replacement bus) and a few trains short-turn at Piove di Sacco or Venezia Mestre; these variants and the many additional daily frequencies (roughly hourly across the service day) are NOT enumerated as separate trips. Timetable-name -> OSM-name mappings: 'Campagnal-Campon.' = Camponogara-Campagna Lupia; 'Pontelongo fermata' = Pontelongo Fermata halt (distinct from the older Pontelongo station node ~0.6km away). Calendar: full daily service; the murale shows distinct Mon-Fri, Saturday and Sunday/holiday columns but the two representative trips run on all days, so a single always-on service is used. Confidence 0.78: station list/order/coords and the two trip times are faithful to the official PDF; reduced because only 1 trip/direction is materialised out of ~20 daily runs, bus-replacement segments are folded into rail, and Venezia S.Lucia coords are from general knowledge not the Overpass bbox.",
+  "source": "llm-normalized"
+}

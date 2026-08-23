@@ -1,0 +1,14 @@
+{
+  "operator": "Arriva Italia (Brescia extra-urban / interurban, ex-SIA)",
+  "city": "Brescia",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 35,
+    "routes": 13,
+    "trips": 26,
+    "stop_times": 98
+  },
+  "notes": "LS013 (Brescia-Pontevico-Cremona) is built at FULL fidelity: the arriva.it line-ls013 PDF is a text-based (non-scanned) annual timetable valid from 2026-06-09, so all its main stops are real and its stop_times are the actual published clock times. Two representative trips are included: trip LS013_out_0725 (Brescia->Cremona, the 07:25 FER departure) and trip LS013_in_0700 (Cremona->Brescia, the 07:00 FER departure) - both taken directly from the PDF grid. Corte de' Frati is a rare detour stop (marked * / conditional) and is omitted from the representative trips (it appears only on select runs). LS013 stop coordinates are WGS-84 comune/piazza centroids from Wikipedia/Wikidata/OSM (Cremona autostazione next to rail station; Brescia autostazione via Solferino from OSM 45.533/10.215). The OTHER SIA lines (LS/LN/RL series) are evidenced by name and origin-destination only from the three timetable index pages (brescia.arriva.it, sia.arriva.it); their per-line PDFs were not parsed, so for a representative subset of major corridors I include routes whose stops are the ENDPOINT towns only (evidenced from the line list), geocoded to comune centroids, with a single even-spaced representative trip per direction across daytime service hours. These lower-fidelity lines are labelled and should not be read as complete stop sequences. No published GIS stops layer exists for SIA; intermediate stops for non-LS013 lines were NOT invented. Service days: FER = Mon-Sat (every day except Sunday/holidays), the dominant SIA pattern; a school-days variant exists in the PDF but is folded into the Mon-Sat calendar here. Timezone Europe/Rome.",
+  "source": "llm-normalized"
+}

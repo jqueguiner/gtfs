@@ -1,0 +1,14 @@
+{
+  "operator": "Metro Brescia (Brescia Mobilità S.p.A.)",
+  "city": "Brescia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 17,
+    "routes": 1,
+    "trips": 20,
+    "stop_times": 340
+  },
+  "notes": "Single automated (driverless) light-metro line, Prealpino <-> Sant'Eufemia Buffalora, 17 stations, ~13.7 km, opened 2 Mar 2013. Station names/order and operating span from Wikipedia (Brescia Metro / List of Brescia metro stations); coordinates are WGS-84 decimal degrees geocoded from the per-station English Wikipedia infobox coordinates (cross-checked against OSM positions). Operating hours: first train ~05:00, last departure ~24:00, every day. Published headways: ~4 min weekday peak, ~10 min off-peak. GTFS models the line as route_type=1 (metro), one route (BS_L1), both directions. End-to-end run time ~21 min matches the published journey time; inter-station times computed by proportional haversine distance along the ordered station list. Because the real feed uses frequency-based headways rather than a fixed clock timetable, trips here are a representative even sample: 10 trips per direction departing every 2 hours from 05:00 to 23:00 (a downsample of a 5-min representative headway) to keep the feed compact while spanning the full service day. Confidence 0.72: stops/order/coords and service span are well-evidenced and accurate; exact per-departure times and true peak/off-peak frequency variation are approximated, not scraped from a minute-level timetable (the official bresciamobilita.it/metro/orari page is frequency-based). A2A Lamarmora reflects the 2023 sponsorship rename (formerly Lamarmora). Sources: en.wikipedia.org/wiki/Brescia_Metro, en.wikipedia.org/wiki/List_of_Brescia_metro_stations, per-station Wikipedia articles.",
+  "source": "llm-normalized"
+}

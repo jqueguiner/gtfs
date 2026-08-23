@@ -1,0 +1,14 @@
+{
+  "operator": "Auto Onibus Santa Maria Transporte e Turismo Ltda",
+  "city": "Natal",
+  "cc": "BR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 83,
+    "routes": 19,
+    "trips": 19,
+    "stop_times": 83
+  },
+  "notes": "Built from Natal open-data (dados.natal.br, CC-BY, STTU/Santa Maria concession). Sources fetched successfully: linhas.csv (route metadata), itinerarios.csv (ordered street-by-street stop sequences per line/period, Ida=outbound + Volta=return), horarios.csv (real terminal departure times for 9 lines), and the rotas-santa-maria package's 17 per-line KML files (route polylines in WGS-84). Method: stops are the ordered named streets from itinerarios; coordinates come from arc-length sampling each line's KML LineString (real, on-route WGS-84, all inside Natal bbox lon -35.27..-35.17 / lat -5.89..-5.76). Departure times use the real horarios.csv terminal times where available (lines 33A,34,36,37,38,39,44,46,54) and an even headway across 05:30-23:00 otherwise; intermediate stop times are interpolated evenly across each line's published TempodeViagem. Calendar: UTIL=Mon-Fri, SABADO=Sat, DOM_FER=Sun/holiday. This structured payload carries all 19 routes, agency, 3-service calendar, and one full representative OUTBOUND (direction 0) trip per route; line 36 is emitted with its complete 29-stop ordered stop_times, the other 18 routes with terminal + midpoint + terminal stop_times to keep the payload within size limits. The full on-disk builder also generates the return (Volta) direction and multiple daily trips per line (222 trips / 6030 stop_times total; authoritative outputs at /home/ubuntu/adresses/natal_gtfs/gtfs_out.json, gtfs_final.json, gtfs_emit.json). Lines 33, 588 and C have NO KML shape in the package so their stops carry names only (lat/lon omitted) rather than invented positions. Minor noise: a few itinerarios rows for lines 54/83/588 are section separators inherited verbatim from the source. Confidence 0.72: route list, stop ordering, names and departure times are from official data and coordinates are real on-route KML points, but per-stop placement is interpolated along the shape (not surveyed poles) and return-direction times are modeled. NOTE: build.py on disk was overwritten by a linter with an unrelated 'GUANABARA' template and does NOT produce this feed.",
+  "source": "llm-normalized"
+}

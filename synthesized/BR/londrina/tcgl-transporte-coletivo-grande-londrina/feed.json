@@ -1,0 +1,14 @@
+{
+  "operator": "TCGL - Transporte Coletivo Grande Londrina",
+  "city": "Londrina",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 25,
+    "routes": 4,
+    "trips": 16,
+    "stop_times": 78
+  },
+  "notes": "Londrina has NO metro/tram/BRT/suburban rail; the system is bus-only (route_type=3), so the metro/rail-first directive does not apply. TCGL/CMTU publish ~75+ lines but the source index pages (horariodeonibus.net TCGL index, cmtu.londrina.pr.gov.br) only link to per-line pages; real-time/full schedules live behind mov1 (csr.mov1.com.br) and bus2.info interactive apps that WebFetch cannot read. I built the 4 lines whose full street-by-street itineraries AND published departure times I could actually fetch from horariodeonibus.net: 900 (Vivi Xavier/Ouro Verde/Gavetti/HU), 504 (Gavetti/Central Parador), 505 (Expresso Vivi Xavier/Central). Line 800 (Vivi Xavier/Acapulco) has confirmed terminals but its mid-route stops and frequency were NOT published, so its intermediate stops and headway are approximate/synthesised.\n\nCoordinates: Overpass API and Nominatim were unreachable/rate-limited (429) from this environment, so I could NOT pull the 323 OSM bus_stop nodes as intended. Terminal coordinates (Central, Vivi Xavier, Ouro Verde, Milton Gavetti, HU, Acapulco) are WGS-84 from web-search/OSM landmark references and are reliable (~terminal-level). The 19 intermediate named-street stops carry the correct street NAMES from the published itineraries but their lat/lon are INTERPOLATED along the corridor between anchored terminals (not exact OSM nodes) — good to a few hundred metres, adequate for routing shape but not survey-grade.\n\nStop_times: line 900 and 504 use REAL published clock departure times (weekday + Saturday). Line 505 real first/last times are published but only frequency descriptions between, so I used an even 20-min weekday / 30-min Saturday headway across the published span. Line 800 has no published times → even 30-min headway (fully synthetic). Intra-trip stop timings are even 2-4 min spacings (not measured). No Sunday service modelled (900/505 explicitly note none or none published; Acapulco terminal runs Sun but no line data).\n\nFull feed written to /home/ubuntu/adresses/gtfs_tcgl_londrina/ (agency.txt, stops.txt=25, routes.txt=4, trips.txt=320, stop_times.txt=2054, calendar.txt) and passed referential-integrity + monotonic-time validation. The structured output above carries all stops/routes/calendar plus one representative trip per route/direction/service (full ordered stop_times for 900/504-out/505-out, abbreviated for the synthesised replicas).",
+  "source": "llm-normalized"
+}

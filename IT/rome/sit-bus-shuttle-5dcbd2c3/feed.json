@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SIT Bus Shuttle",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Rome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/rome/sit-bus-shuttle/gtfs/",
+    "mdb_id": "it-llm-sit-bus-shuttle",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

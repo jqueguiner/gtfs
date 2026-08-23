@@ -1,0 +1,14 @@
+{
+  "operator": "STIE S.p.A.",
+  "city": "Milan",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 61,
+    "routes": 2,
+    "trips": 5,
+    "stop_times": 67
+  },
+  "notes": "Built from STIE official per-line PDF timetables at stie.it/orari-autobus (528_2024-07-01areaMI.pdf, 542_2024-07-01areaMI.pdf; extracted with pdftotext -layout). Stop names, codes and ordering come directly from the PDFs and are exact; service times are the real published clock times (representative first trip per direction taken from each PDF column). Coordinates are WGS-84, placed along the known street corridors using OSM/Wikidata anchors (Rho Fiera FS/M1 45.5201/9.0880, Pero M1 45.5097/9.0894, Molino Dorino M1 ~45.5045/9.0960, Piazzale Cimitero Maggiore 45.5041/9.1206) and Rho/Pero/Milano/Mazzo/Terrazzano/Passirana/Bollate street geography; intermediate street-corner stops are interpolated along the corridor so may be off by up to ~100-200m but ordering and side are correct. Line 528: Rho Capuana <-> Milano P.le Cimitero Maggiore via Pero/Cerchiate & M1 Molino Dorino (both directions, separate stop sets RH0xx/PR0xx outbound, MLxx/PRxx inbound as per PDF). Line 542: two services in one route -- the linear RHO Fiera <-> Passirana (Mazzo/Terrazzano) both directions, plus the RHO Fiera <-> Carcere di Bollate circular (542/). Calendars: FR5 Mon-Fri, FR6 Mon-Sat, GRN daily, SAB Sat only -- modelled as three services (weekday, saturday, daily). Note \"(a) sospesa 2 settimane agosto\" (Aug suspension) and festivi reductions not encoded. Confidence 0.72: times/stops/order faithful to published PDF; main uncertainty is exact lat/lon of intermediate corner stops and full trip-frequency expansion (one representative trip per direction/service given, not every numbered corsa).",
+  "source": "llm-normalized"
+}

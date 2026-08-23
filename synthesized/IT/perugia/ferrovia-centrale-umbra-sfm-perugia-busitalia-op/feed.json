@@ -1,0 +1,14 @@
+{
+  "operator": "Ferrovia Centrale Umbra / SFM Perugia (Busitalia-operated regional rail)",
+  "city": "Perugia",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 4,
+    "routes": 1,
+    "trips": 26,
+    "stop_times": 104
+  },
+  "notes": "Ferrovia Centrale Umbra (FCU) urban branch Perugia Sant'Anna <-> Perugia Ponte San Giovanni, the \"SFM Perugia\" metropolitan rail service. The two Busitalia source URLs (orari-linee-umbria.html and orari-servizi-urbani-umbria.html) contain NO rail data (bus-only hubs), so stops and ordering were taken from OSM/Wikidata/Wikipedia as instructed (osm-first). 4 stations, confirmed order Sant'Anna -> Pallotta -> Piscille -> Ponte San Giovanni (longitude monotonically increasing W->E confirms sequence). Coordinates are WGS-84 from Wikidata/Wikipedia: Sant'Anna Q3970441 (43.1064,12.3900), Pallotta Q3970435 (43.0958,12.3945), Piscille (43.095136,12.410233), Ponte San Giovanni (43.091587,12.438304). Branch length 5.2 km; travel time ~12 min PSG->Sant'Anna per Trenitalia connection data (first train PSG 06:29, last ~18:20, ~15-24 daily runs). NOTE: since 1 Jan 2024 the service is operated by Trenitalia (not Busitalia) on RFI-owned track, electrified 3kV DC (Minuetto trainsets); OSM still tags the relation network=FCU route=light_rail. Route_type set to 2 (heavy rail) as it is a standard-gauge RFI regional branch. Individual clock times are SYNTHESIZED at ~45-min headway across published operating hours (06:29-18:20) since the exact per-run timetable PDF was not retrievable (fsbusitalia rail-timetable page returned 404); headway/first/last are evidence-based, individual departure minutes are representative not exact. Both directions provided. Calendar = daily (service runs feriale + festivo per reopening notes). No stops invented; all 4 are OSM/Wikidata-evidenced.",
+  "source": "llm-normalized"
+}

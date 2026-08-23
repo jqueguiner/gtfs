@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transcol - Transporte Coletivo Ltda",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Teresina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/teresina/transcol-transporte-coletivo-ltda/gtfs/",
+    "mdb_id": "br-llm-transcol-transporte-coletivo-ltda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

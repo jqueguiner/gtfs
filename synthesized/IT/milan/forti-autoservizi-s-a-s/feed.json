@@ -1,0 +1,14 @@
+{
+  "operator": "FORTI Autoservizi S.a.s.",
+  "city": "Milan",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 16,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 27
+  },
+  "notes": "Single interurban bus line \"FORTI\" (Ospedaletto Lodigiano - Casalpusterlengo - Codogno) in the Lodi province (Lombardy), operated by FORTI Autoservizi S.a.s. Schedule times are transcribed VERBATIM from the operator's official 2025 PDF (autoserviziforti.com/images/forti/pdf/orari-linea.2025.pdf, \"IN VIGORE DAL 12/09/2022\"), which has full andata (outbound) and ritorno (return) tables. The stop names/sequence and per-direction stop counts were cross-checked against the Moovit PDF (appassets.mvtdev.com/map/77/l/223/40305478.pdf), which lists 3 directional variants (Casalpusterlengo FS 10 stops, Ospedaletto L. 14 stops, Codogno FS 13 stops). GTFS modeled as one bus route_id=FORTI (route_type=3) with two representative trips: andata (Ospedaletto->Casalpusterlengo->Codogno, service col.13 08:45->09:35, a full-length weekday run) and ritorno (Codogno->Casalpusterlengo->Ospedaletto, service col.14 11:40->12:35). Only stops served by the chosen trip (marked with a time, not \"I\") get stop_times; the \"I\" cells mean the bus does not call at that stop on that run. Coordinates are WGS-84: railway stations (Casalpusterlengo FS 45.18219/9.65342, Codogno FS ~45.1618/9.7010) are precise; village street stops are geocoded to the correct town/frazione center (Ospedaletto Lodigiano, Senna Lodigiana, Mirabello, Somaglia, San Martino Pizzolano, Casalpusterlengo, Codogno) from Wikidata/Tuttocitta town centroids and offset toward the named street where known. Service: Mon-Sat feriali (no Sunday; \"Non in Servizio\" domenica per Moovit); the operator uses fer6/fer5/scol/scol5 day-types (feriali, feriali-no-Sat, school-days, school-days-no-Sat) which are simplified here to a single Mon-Sat calendar for the representative trips. Confidence 0.72: times and stop order are faithful to the official PDF; the fine-grained day-type/frequency variants and exact street-level stop coordinates are approximated.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STIE S.p.A.",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Milan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/milan/stie-s-p-a/gtfs/",
+    "mdb_id": "it-llm-stie-s-p-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

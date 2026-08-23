@@ -1,0 +1,14 @@
+{
+  "operator": "ATB (Azienda Trasporti Bergamo)",
+  "city": "Bergamo",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 20,
+    "routes": 3,
+    "trips": 18,
+    "stop_times": 120
+  },
+  "notes": "Scope: built the rail/light-rail modes first per instructions (best documented, correct WGS-84). Feed covers the T1 tramway (Tramvie Elettriche Bergamasche, marketed jointly with ATB) Bergamo FS–Albino, the Funicolare Città Alta (Città Bassa–Città Alta), and the Funicolare San Vigilio (Colle Aperto–San Vigilio). Urban buses (lines 1,2,3,5,6,7,8,9,10,15,21,26,51,52, eBRT etc.) were NOT built: their per-stop timetables are only in dozens of separate PDFs and no machine-readable stop list/coords were retrievable in-session (Overpass/OSM was unreachable behind the sandbox), so inventing bus stops would violate the \"never invent stops\" rule.\n\nEvidence: T1 stop list + full clock times extracted from atb-cdn.dp365.it linea-t1.pdf (pdftotext): 16 stops, Bergamo FS→Albino ~25 min, 15-min weekday base headway (confirmed 6.20→6.45 first run). Funicular timetables extracted from funicolare_citta.pdf (Città Alta, weekday first 06:55, service to ~01:16, ~8-min headway) and funicolare-s.-vigilio.pdf (San Vigilio, summer weekday 10:21→00:24 @16 min, festivo from 09:06). Route names/list from atb.bergamo.it/trasporti-pubblici/linee.\n\nCoordinates: Bergamo FS (45.69056,9.67500) and funicular general location (45.7018,9.6654) are from Wikipedia (WGS-84). The 15 other T1 stops are placed along the documented former Ferrovia della Valle Seriana corridor (Bergamo→Torre Boldone→Ranica→Alzano→Nembro→Pradalunga→Albino) using town-center WGS-84 positions — geographically sound and in-corridor but not surveyed platform points (typical error 100–400 m), so they should be refined against OSM tram_stop nodes when reachable. Funicular station coords are approximate (two-station short lines).\n\nroute_type: funiculars coded 7 (GTFS core Funicular); T1 coded 0 (tram/light-rail).\n\nTrips/stop_times: full generated feed has 1388 trips / 7172 stop_times across WEEKDAY/SATURDAY/SUNDAY at documented headways (T1 15/20/30 min; funiculars 8-16 min). The arrays below are the representative subset (one forward + one backward trip per route per service, with complete ordered stop_times) to keep the payload compact; the generator (atb_gtfs/build.py) reproduces the full set. Calendar is a 2026 annual span; real service has seasonal (estivo/invernale) and scholastic variants not modeled.\n\nConfidence 0.62: stop ordering, service hours, headways and endpoints are real and sourced; intermediate stop coordinates and even-headway synthesis (vs. exact per-run times) are the main fidelity gaps, and the bus network is omitted.",
+  "source": "llm-normalized"
+}

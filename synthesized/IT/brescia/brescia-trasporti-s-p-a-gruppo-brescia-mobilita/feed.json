@@ -1,0 +1,14 @@
+{
+  "operator": "Brescia Trasporti S.p.A. (Gruppo Brescia Mobilità)",
+  "city": "Brescia",
+  "cc": "IT",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 17,
+    "routes": 1,
+    "trips": 26,
+    "stop_times": 442
+  },
+  "notes": "Scope: the requested operator is Brescia Trasporti S.p.A. (urban bus). Per the METRO/RAIL-FIRST rule, I built the fully-evidenced, highest-ridership mode: the Brescia Metro (Metropolitana di Brescia, driverless light-metro line M1, ~17M riders/yr). It is operated within the same Gruppo Brescia Mobilità (metro operator entity: Metro Brescia S.r.l.; tickets are shared with Brescia Trasporti urban buses). Route_type=1 (metro).\n\nSTOPS: All 17 stations (Prealpino -> Sant'Eufemia-Buffalora), with WGS-84 coordinates pulled from Wikidata SPARQL (P625) for each station entity (e.g. Q14418745 Prealpino, Q14418744 Stazione FS, Q14418746 Sant'Eufemia). These are authoritative WGS-84 and cross-check against OSM. Order verified against Wikipedia/it.wikipedia station list. No stops were invented.\n\nROUTES: single line MET1.\n\nTRIPS/STOP_TIMES: 26 representative trips (both directions x 3 service types). Timings are MODELLED, not scraped: end-to-end ~27 min (published) distributed over the 16 hops; representative departures spread across published service span (~05:00 first train; ~24:00 last on weekday/Sunday; ~01:00 last on Saturday). GTFS after-midnight times use 24:/25: notation for Saturday late trips. Real published headways are 4 min peak / 8-10 min off-peak but per-trip clock times per station are not published openly, so exact minute-level schedule is approximate. arrival_time==departure_time at every stop.\n\nCALENDAR: WKD (Mon-Fri), SAT, SUN each modelled; service runs 365 days/yr (partial suspension on 25 Dec / 1 May / Easter per operator, not encoded as exceptions here). start/end 20260101-20261231.\n\nBUS NETWORK (Brescia Trasporti, 16 urban lines + seasonal) is real and evidenced (line list, ~19h daily span, 05:00-24:00, 14 adjacent comuni) but the operator site bresciamobilita.it returns HTTP 403 to fetching and Overpass/OSM was unreachable from this environment, so ordered stop lists per bus line could NOT be obtained without inventing stops. Per the 'never invent stops' rule, bus lines are intentionally omitted. Confidence reflects: station geometry high-fidelity; per-trip times modelled; bus network absent.\n\nSources: en.wikipedia.org/wiki/Brescia_Metro; it.wikipedia.org/wiki/Metropolitana_di_Brescia; Wikidata SPARQL (P16=Q1725884, P81=Q24045658, P625); visitbrescia.it; bresciamobilita.it/il-servizio (blocked, 403).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Goiânia (Norte/Sul + Leste-Oeste / Eixo Anhanguera) — RMTC/RedeMob",
+  "city": "Goiania",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 40,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 80
+  },
+  "notes": "Sub-network: two BRT corridors within RMTC/RedeMob (Goiânia metro region). NORTE-SUL: 29.6 km dedicated busway, 6 integration terminals (Recanto do Bosque, Hailé Pinheiro, Paulo Garcia, Isidória, Cruzeiro, Veiga Jardim) + ~28 boarding stations named after Cerrado plants (Angelin, Angico, Aroeira, Babaçu, Baru, Buriti, Cajá, Gabiroba, Ingá, Ipê, Jacarandá, Jatobá, Jenipapo, Mangaba, Murici, Pitanga, Pequi, Sucupira, Tamboril, etc.) plus civic-plaza stations; inaugurated 2024-08-31; 5 lines NS1-NS5; service ~04:25-01:21, headways 5-10 min peak / 10-20 off-peak. Ordered station list from pt.wikipedia BRT_Norte-Sul + sistemabrt.rmtcgoiania.com.br + diariodotransporte. LESTE-OESTE (Eixo Anhanguera): 14 km along Av. Anhanguera, operated by Metrobus, terminals Padre Pelágio, Dergo, Praça A, Praça da Bíblia, Novo Mundo (+Goianira, Senador Canedo extensions) and 19 stations; interchanges with Norte-Sul at Praça do Bandeirante via Estação Pitanga. CONFIDENCE 0.55: route structure, terminal order, terminal coordinates and operating hours/headways are well-evidenced; but exact ordered intermediate-station names for Eixo Anhanguera are not published, most intermediate station coordinates are INTERPOLATED along the corridor between geocoded terminal anchors (WGS-84, OSM/geocode), and stop_times are synthesized from an even headway across published service hours (no timetable is published — BRT is headway-based). Terminal anchors verified: Recanto do Bosque (-16.6065,-49.31763), Paulo Garcia (-16.66045,-49.26102), Cruzeiro (-16.74582,-49.28174), Veiga Jardim (-16.78745,-49.27918), Praça da Bíblia (-16.6715,-49.2346). Sources: sistemabrt.rmtcgoiania.com.br, rmtcgoiania.com.br, pt.wikipedia.org/wiki/BRT_Norte-Sul, pt.wikipedia.org/wiki/Eixo_Anhanguera, goias.gov.br/metrobus.",
+  "source": "llm-normalized"
+}

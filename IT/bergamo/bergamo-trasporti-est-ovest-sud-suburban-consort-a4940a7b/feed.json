@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bergamo Trasporti Est / Ovest / Sud (suburban consortia; operated by Arriva Italia, SAB Autoservizi, SAV Visinoni, SAI Autolinee, Autoservizi Locatelli)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Bergamo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bergamo/bergamo-trasporti-est-ovest-sud-suburban-consort/gtfs/",
+    "mdb_id": "it-llm-bergamo-trasporti-est-ovest-sud-suburban",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

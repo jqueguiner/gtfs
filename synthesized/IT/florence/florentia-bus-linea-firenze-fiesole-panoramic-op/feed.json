@@ -1,0 +1,14 @@
+{
+  "operator": "Florentia Bus - Linea Firenze-Fiesole (panoramic open-top)",
+  "city": "Florence",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 12,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 22
+  },
+  "notes": "Florence-Fiesole panoramic open-top hop-on-hop-off bus (\"Line B\" / Linea B, Red Line), operated by Florentia Bus S.r.l. under the City Sightseeing brand. One-way panoramic loop starting at Piazzale Galileo and ending at Porta Romana, ~2h round trip. Timetable effective from 28 March 2026: first departure from Stop 1 at 11:00, last at 16:00, every 60 min. Modeled as an hourly panoramic loop (route_type 3 bus). Stop sequence from official page + City Sightseeing route descriptions: 1 Piazzale Galileo, 2 Piazzale Michelangelo, 3 Lungarno Serristori/Demidoff (SUSPENDED until further notice - EXCLUDED from stop_times but retained in stops with note), 4 Via Ghibellina, 5 Lungo l'Affrico, 6 Museo del Calcio, 7 San Domenico, 8 Piazza Mino da Fiesole (Fiesole), 9 Via di San Domenico, 10 Viale Fratelli Rosselli-Porta al Prato, 11 Viale Vasco Pratolini, 12 Porta Romana. Stop coordinates geocoded from well-known Florence/Fiesole OSM landmarks (WGS-84). Seasonal note: Line B is suspended Mon-Fri from Nov-late Mar; calendar reflects daily operation for the standard (spring-autumn) season. Stop_times are evenly spaced across the ~120-min loop (frequency-derived, not published per-stop clock times). Two representative trips provided (11:00 first, 12:00) to show the hourly cadence; all remaining hourly departures (to 16:00) follow the same 60-min headway. PDF map (city-sightseeing.it CDN) returned HTTP 403; stop list corroborated across multiple City Sightseeing Firenze sources. Confidence 0.55: route and stop set well-evidenced; exact per-stop times and precise stop coordinates are approximated.",
+  "source": "llm-normalized"
+}

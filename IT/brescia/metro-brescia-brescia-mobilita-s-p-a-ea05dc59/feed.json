@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Brescia (Brescia Mobilità S.p.A.)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Brescia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/brescia/metro-brescia-brescia-mobilita-s-p-a/gtfs/",
+    "mdb_id": "it-llm-metro-brescia-brescia-mobilita-s-p-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

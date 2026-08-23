@@ -1,0 +1,14 @@
+{
+  "operator": "T.A.M. Bus (Tirreno Azienda Mobilita / Tambus)",
+  "city": "Rome",
+  "cc": "IT",
+  "confidence": 0.66,
+  "counts": {
+    "stops": 4,
+    "routes": 1,
+    "trips": 16,
+    "stop_times": 64
+  },
+  "notes": "Single bus route (route_type=3) Roma Termini <-> Fiumicino Aeroporto operated by T.A.M. Bus (Tambus), sourced from official tambus.it/en/rome-fiumicino/ and tambus.it/roma-fiumicino/ (Moovit line page returned empty). 4 evidenced stops with exact addresses from the official site: Roma Termini (Via Giolitti 34), Roma Ostiense (Piazzale XII Ottobre 1492, in front of Eataly), Fiumicino Citta (Via Portuense 2400, ParkinGo), Fiumicino Aeroporto Terminal 3 (stall 17). Coordinates are WGS-84 from OSM/Wikipedia geocoding of each address. Stop ORDER differs by direction: outbound Termini->Ostiense->Aeroporto->Citta; return Aeroporto->Citta->Ostiense->Termini (per official direction lists). Official first/last departures: from Termini 00:00-23:30 (39 daily runs), from Airport 01:30-00:15 (~35 runs) - full time lists were captured. Modeled 8 representative trips per direction spread across the 24h span rather than all 39/35 runs. Intermediate stop_times are INTERPOLATED: total trip ~57-58 min; used offsets Termini+0/Ostiense+12/Aeroporto+48/Citta+58 outbound and Aeroporto+0/Citta+7/Ostiense+43/Termini+55 return - real published intermediate times vary and some night runs skip Ostiense (online-ticket-only restriction). Service is daily/year-round. Note Ostiense->Airport boarding requires online ticket. This is an informal airport shuttle, not metro/rail; no higher-mode line existed for this operator.",
+  "source": "llm-normalized"
+}

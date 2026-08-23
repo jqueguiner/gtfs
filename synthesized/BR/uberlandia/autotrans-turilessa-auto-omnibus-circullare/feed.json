@@ -1,0 +1,14 @@
+{
+  "operator": "Autotrans / Turilessa (Auto Omnibus Circullare)",
+  "city": "Uberlândia",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 178,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 208
+  },
+  "notes": "Operator \"Autotrans / Turilessa (Turilessa Ltda, Grupo Saritur)\" is one of the concessionaires of Uberlândia's SIT integrated bus network (alongside São Miguel and Sorriso). It runs ~39 lines total per onibus.online/Moovit.\n\nSTOPS & ROUTING (high confidence): All 178 stops and their ordering come from OpenStreetMap route=bus relations explicitly tagged operator=Turilessa/Autotrans (queried via Overpass, mail.ru mirror; the .de/kumi mirrors were 5xx/timeout at build time). Coordinates are OSM WGS-84 (correct for GTFS), all verified inside the Uberlândia bbox. 5 routes have both-direction relations mapped: A105, A115, A116 (feeder/trunk to Terminal Central), T131 (via Av. João Naves de Ávila), T132 (via Av. Segismundo Pereira). Route I360 is OSM-tagged Autotrans but has 0 stop members mapped, so it was dropped rather than invented.\n\nSTOP NAMES (low confidence): OSM platform nodes are almost entirely unnamed (only \"Praça Tubal Vilela\" carried a name). Endpoints are named from the relation from/to tags (Terminal Central, Terminal Santa Luzia, Santa Mônica, Saraiva); intermediate stops are placeholders \"Parada <line> <n>\" — geometry/coords are real, human-readable names are not evidenced.\n\nTIMES (synthesized): onibus.online lists route names/destinations but not per-trip clock times, and Moovit/tonoponto/Prefeitura pages render client-side or return 403 to fetch. So one representative trip per direction is generated at a 07:00 departure with a uniform ~2 min inter-stop spacing (no scraped headway/first-last). This is the main reason confidence is capped ~0.55: stop geometry is authentic, but the timetable is a plausible placeholder, not the published schedule.\n\nCALENDAR: WEEKDAY/SATURDAY/SUNDAY services defined; the 10 representative trips are all attached to WEEKDAY. Sources: onibus.online/empresas/sit-uberlandia, onibus.online/mg/uberlandia, onibusbrasil.com/empresa/autotransturilessa, Moovit line 855605, OSM/Overpass.",
+  "source": "llm-normalized"
+}

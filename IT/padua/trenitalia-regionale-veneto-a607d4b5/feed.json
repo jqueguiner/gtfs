@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trenitalia Regionale (Veneto)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Padua"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/padua/trenitalia-regionale-veneto/gtfs/",
+    "mdb_id": "it-llm-trenitalia-regionale-veneto",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

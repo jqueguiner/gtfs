@@ -1,0 +1,14 @@
+{
+  "operator": "Integração Transportes",
+  "city": "Cuiabá",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 56,
+    "routes": 20,
+    "trips": 40,
+    "stop_times": 127
+  },
+  "notes": "Operator \"Integração Transportes\" is the dominant municipal bus operator in Cuiabá, Mato Grosso (BR). NO metro/light-rail/BRT-rail feed was built: the Cuiabá VLT (light rail) was never completed, construction suspended 2015, officially cancelled 2020, its 40 CAF trams sold to Salvador — it has never carried passengers, so there is no rail schedule/stations to encode. Public transit is bus-only (route_type=3). The integration \"Estações\" (Bispo Dom José / Ipiranga / Alencastro) and \"Terminais\" (CPA 1/CPA 3/Antártica) are bus transfer stations, not rail, and are geocoded from OSM/Nominatim WGS-84.\n\nData provenance: route list (98 line entries incl. variants) from onibus.online/empresas/onibus-cuiaba and onibus.online/mt/cuiaba (schedule tables updated 2026-04-07 per operator). Full ordered stop lists were only recoverable for line 106 (Cidade Verde / Estação Ipiranga) from its Moovit PDF (appassets.mvtdev.com/map/131/l/1762/243927.pdf), which gives 4 itineraries with real street-level stops and per-day-type hours — that route is encoded faithfully (two directions, real stop order, published 05:15-22:55 span). onibus.online per-line pages only exposed the two terminal endpoints (not the full intermediate stop chains), and the Moovit/Cittamobi per-line HTML pages returned empty to the fetcher, so the remaining representative routes are encoded as origin→destination terminal pairs only, with one trip per direction at an even headway across their published operating hours. Intermediate stops for those routes are intentionally NOT invented.\n\nCoordinates: stop_lat/stop_lon are OSM/Nominatim WGS-84. Precisely geocoded: the integration stations, terminals, and named landmarks. Neighborhood-terminus stops (e.g. Pedra 90, Tijucal, Osmar Cabral) use the neighborhood centroid from Nominatim — approximate but correct region. A handful of line-106 mid-route \"Rua X, number\" micro-stops that could not be individually geocoded are left with null coordinates rather than guessed.\n\nConfidence 0.42: route identities, operator, terminal endpoints and operating-hour spans are well evidenced; but only 1 of 27 real routes has a true ordered stop sequence, headways are synthesized from hour-spans (real schedules are irregular/table-based, not fixed-headway), and most trips have only endpoint stops. Faithful where evidenced, honest about the gaps.",
+  "source": "llm-normalized"
+}

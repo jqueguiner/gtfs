@@ -1,0 +1,14 @@
+{
+  "operator": "MOB Linhas Semiurbanas (Grande São Luís)",
+  "city": "São Luís",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 17,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 58
+  },
+  "notes": "Semi-urban (semiurbano) feeder bus system of the São Luís metropolitan region (Ilha de São Luís), regulated by the state agency MOB, connecting São Luís with São José de Ribamar, Paço do Lumiar and Raposa. Route type = 3 (bus); no metro/rail/BRT exists in São Luís, so bus is the only mode. WELL-EVIDENCED: operator name and semi-urban status (O Imparcial 2023, Imirante 2023-2026, mobilidade360); specific line codes and route names from Moovit (973 Raposa/Ribamar, A996 Ribamar/Terminal Cohab, A997 Panaquatira/Terminal Cohab, 958 Ribamar/Rodoviária, 966 Ribamar/Deodoro/São Francisco, 968 Ribamar/Bandeira Tribuzi/João Paulo, A952 Residencial Turiúba/Terminal São Cristóvão); endpoints (Ponto Final Raposa, Guarapiranga, Praia de Panaquatira, Terminal Cohab, Rodoviária); A996 published span at IFMA-Ribamar stop first 06:26 / last 23:40; integration terminals of the SIT (Praia Grande, Cohab-Cohatrac, São Cristóvão). INFERRED/LOWER CONFIDENCE: the full ordered intermediate-stop list per line could NOT be scraped — Moovit line/stop pages are JS-rendered (returned empty to WebFetch) and the route PDF was image-only; so I include only anchor stops that are individually evidenced (terminals, municipality centers, named endpoints, named waypoints like Maioba/Deodoro/São Francisco/João Paulo/Bandeira Tribuzi) in plausible geographic order, NOT every physical bus stop. Per-trip clock times are synthesized as even headways across the evidenced service span (~06:00-23:40), not scraped timetables. COORDINATES: WGS-84 from Wikipedia/Wikidata/geografos.com.br and OSM-derived (Terminal Cohab -2.5435,-44.2174 via MAPS.ME/OSM; Praça Deodoro -2.5296,-44.2944; São José de Ribamar centro -2.5504,-44.0702; Panaquatira ~-2.475,-44.043; Raposa centro -2.4372,-44.1022; Paço do Lumiar/Maioba -2.5319,-44.1078). A few intermediate-neighborhood stops left with null coords where no reliable point was found. Nominatim was rate-limited (HTTP 429) during the build. Sources: moovitapp.com line/stop pages (Sao_Luis-4043-887144); oimparcial.com.br 2023; imirante.com 2023-2026; geografos.com.br; en.wikipedia.org Raposa/Paço do Lumiar; pt.wikipedia.org Sistema Integrado de Transporte em São Luís.",
+  "source": "llm-normalized"
+}

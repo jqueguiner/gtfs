@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SAIS Autolinee / SAIS Trasporti",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Catania"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/catania/sais-autolinee-sais-trasporti/gtfs/",
+    "mdb_id": "it-llm-sais-autolinee-sais-trasporti",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

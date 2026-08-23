@@ -1,0 +1,14 @@
+{
+  "operator": "RS Transportes (replaced Viação Progresso, April 2025)",
+  "city": "Aracaju",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 12,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 66
+  },
+  "notes": "Operator: RS Transportes took over ~6 lines from Viação Progresso in April 2025 (Decree 8042/2025, fleet-age rule). The 6 lines it started operating are documented by SMTT/press: 501 Povoado São José/Zona Sul, 503 Conj. Beira Mar/Zona Sul, 600-CP1 Circular Praias 01, 600-CP2 Circular Praias 02, 710 Veneza/Centro via DER, 717 Mosqueiro/Mercado via Beira Mar (sources: onibusetransporte.com, infonet.com.br, f5news, aracaju.se.gov.br). Schedules (departure clock times per direction, weekday/Sat/Sun) come from onibus.online per-line pages and are used verbatim for the first representative trip each direction. LIMITATION: onibus.online/SMTT pages publish only route ENDPOINTS (terminals) plus timetables, NOT full street-by-street ordered stop lists. Therefore intermediate stops here are well-known corridor landmarks along each route (geocoded from OSM/Nominatim WGS-84), not an authoritative published stop sequence — so ordering/placement of intermediate stops is approximate. Endpoint terminals and all coordinates are real OSM data. Aracaju is all-bus (route_type 3); no metro/rail exists, so the metro-first directive does not apply. Trip times: representative trips use the earliest published departure each direction; intermediate stop_times interpolated evenly across a realistic run time (~40-70 min per corridor). Calendar: daily service (all lines run Mon-Sun) with slightly reduced weekend frequency in reality, modelled here as a single 7-day service. Confidence 0.45: operator→line mapping and timetables are well-evidenced; full intermediate stop geometry is not published so it is reconstructed.",
+  "source": "llm-normalized"
+}

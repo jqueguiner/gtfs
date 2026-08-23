@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ATV - Azienda Trasporti Verona",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Verona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/verona/atv-azienda-trasporti-verona/gtfs/",
+    "mdb_id": "it-llm-atv-azienda-trasporti-verona",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

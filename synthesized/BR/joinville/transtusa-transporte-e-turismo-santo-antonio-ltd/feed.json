@@ -1,0 +1,14 @@
+{
+  "operator": "Transtusa - Transporte e Turismo Santo Antônio Ltda.",
+  "city": "Joinville",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 5,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 26
+  },
+  "notes": "Joinville has NO metro/light-rail/BRT/suburban rail — it is an integrated trunk-feeder (tronco-alimentador) BUS system operated by two concessionaires: Gidion (South) and Transtusa (North/East/West). All routes here are route_type=3 (bus). Transtusa operates ~91 urban lines / ~179-191 buses; this feed models 5 well-evidenced trunk/feeder lines in its Norte/Leste(Iririú)/Oeste(Guanabara) zones. The onibus.info/onibus.online portals are JS SPAs whose backend /api/ was not reachable from this environment (no outbound bash network; Overpass/Nominatim blocked), and the site only exposes terminal-to-terminal itineraries — intermediate on-street stops are NOT published on the fetched pages, so I did NOT invent them. Stops are therefore the 5 closed terminals/stations each line connects; no unevidenced stops were fabricated. Stop coordinates are WGS-84 from geocoded official addresses (R. 9 de Março 1351 Central; R. João Colin Norte; R. Pref. Helmuth Fallgatter Tupy; R. Iririú 1735 Estação Iririú; R. Guanabara 2013 Guanabara), consistent with OSM; Terminal Norte -26.2732,-48.8506 and Tupy came from precise sources, Central/Iririú/Guanabara from address-level geocode (±100-200 m). Departure times are REAL weekday clock times scraped from onibus.online line pages (0040: Tupy 05:45 / Norte 19:09; 0130: Norte 04:07; 0800: Iririú 04:12 / Central 04:25; 0140: Tupy 04:19 / Guanabara 04:12); intermediate terminal arrivals interpolated on realistic run times. 0136 uses an even-headway representative time (only frequency known). One representative trip per direction per route (10 trips). Calendar = weekday service (Mon-Fri); the sources show Sat/Sun run too but with different schedules not fully modelled. Confidence 0.4: operator/routes/terminals/first-departure times are real and faithful; but only 5 of ~91 lines are covered, intermediate stops are absent, and most trips are single representatives rather than the full timetable. GTFS zip at /home/ubuntu/adresses/gtfs_transtusa/transtusa_joinville_gtfs.zip. Sources: onibus.online/empresas/onibus-joinville, onibus.online/sc/joinville/{0040,0130,0800,0140}, joinville.sc.gov.br servicos/consultar-itinerarios, onibusdobrasil.fandom (Transtusa zones), moovit/waze/buser for terminal addresses.",
+  "source": "llm-normalized"
+}

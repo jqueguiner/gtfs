@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio Via JF (Auto Nossa Senhora Aparecida - Ansal + Viação São Francisco)",
+  "city": "Juiz de Fora",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 10,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 60
+  },
+  "notes": "Scope: Juiz de Fora is a bus-only city (no metro/light-rail/BRT/suburban rail exists), so route_type=3 throughout; the METRO/RAIL-first directive does not apply.\n\nEvidence quality: Only Line 100 (Filgueiras / Av. Rio Branco) has a fully-evidenced feed. Confirmed operator = Consórcio Via JF, formed by Auto Nossa Senhora Aparecida (Ansal) + Viação São Francisco (concession from PJF since 28-Apr-2016, operation since Sep 2016), per tonoponto.com and onibusuai. The full street-by-street IDA and VOLTA itineraries and the exact weekday/Saturday/Sunday departure timetables for line 100 were extracted from onibusuai.com/juiz-de-fora/100-centro-filgueiras and tonoponto.com. Fare R$3.75; ~60 min run time; ~75 stops per the source.\n\nWhat is modeled: Line 100, both directions, one representative trip per direction per service day (weekday/Sat/Sun), with REAL first-departure clock times from the published timetable. stop_times use even interpolation across the ~60-min run time between evidenced named waypoints (the source lists street segments, not per-stop times). Stops are the major named logradouros/terminals in the evidenced itinerary text: Rua Aníbal Beligoli 409 (Filgueiras ponto final), Av. Juiz de Fora corridor, Hospital Dr. João Penido, Av. Rui Barbosa, Ponte/Centro (Av. Barão do Rio Branco), and the Carrefour trevo (Av. Barão do Rio Branco 5001, ponto final). No stop was invented — each is named in the PJF/onibusuai/tonoponto itinerary.\n\nCoordinates: geocoded APPROXIMATELY from street names + known reference points (city center -21.764,-43.347; Filgueiras north ~-21.695; Carrefour Av. Barão do Rio Branco 5001 south ~-21.792). No official city GIS bus-stop layer exists; astransp.com.br returned 403 and pjf.mg.gov.br/onibus/itinerario returned 403 to WebFetch. OSM highway=bus_stop nodes were not directly extractable here, so coords are best-effort WGS-84 estimates (±few hundred m), which is the main reason confidence is ~0.42 rather than higher.\n\nNot modeled: The other 200+ Via JF lines (100s–700s series) are listed on onibusuai but lack per-line evidenced ordered stops + times in the fetched data, so they are intentionally excluded rather than fabricated. Timezone America/Sao_Paulo.",
+  "source": "llm-normalized"
+}

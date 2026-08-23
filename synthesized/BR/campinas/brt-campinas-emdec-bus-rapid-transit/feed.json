@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Campinas (EMDEC bus rapid transit)",
+  "city": "Campinas",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 35,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 154
+  },
+  "notes": "Routes, station names and station ordering per corridor are taken verbatim from Portuguese Wikipedia (BRT de Campinas) and cross-checked against EMDEC news/press. 7 BRT lines (BRT10/11/12/20/21/25/26) plus the Perimetral spur are modeled. 8 terminal coordinates plus Roseiras/PUCC are EXACT from OSM Nominatim (WGS-84). Intermediate station coordinates (BRS stops and mid-corridor stations) are LINEARLY INTERPOLATED along each corridor between exact terminal anchors — they are approximate (~within a few hundred m), not surveyed. The Aurocan endpoint of the Perimetral corridor is a rough estimate (OSM did not resolve it precisely). Service times are NOT published per-trip: EMDEC states ~10-min headways; I modeled ONE representative trip per direction per line departing 05:00 with a realistic 2-min inter-stop hop (4-min for semi-express BRT21/26). BRT21 and BRT26 are peak-only weekday semi-express (service_id WKDAY); all others daily (DAILY). Original consultalinha/EMDEC HTML source returned HTTP 410/400 (portal down), so schedule specifics could not be scraped — this lowers confidence. Feed is structurally valid GTFS but trip-level timetable fidelity is low; station geometry fidelity is high at terminals, medium mid-corridor. Corridor length ~36.6 km across Campo Grande, Ouro Verde, Perimetral matches the brief.",
+  "source": "llm-normalized"
+}

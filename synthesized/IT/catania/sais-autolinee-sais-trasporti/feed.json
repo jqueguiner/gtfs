@@ -1,0 +1,14 @@
+{
+  "operator": "SAIS Autolinee / SAIS Trasporti",
+  "city": "Catania",
+  "cc": "IT",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 7,
+    "routes": 3,
+    "trips": 7,
+    "stop_times": 20
+  },
+  "notes": "Feed covers 3 evidenced SAIS long-distance/regional coach corridors out of Catania Autostazione (Via D'Amico): Catania-Palermo (A19), Catania-Messina (A18), and the Enna - Sicilia Outlet Village - Fontanarossa Airport - Catania line. Terminals, route existence and service spans are well-sourced (saisautolinee.it official route pages, Moovit line 52687597, SAIS service notices). Coordinates are WGS-84 from OSM/Wikidata: Catania Autostazione 37.508/15.09814 (OSM), Fontanarossa airport, Palermo Via Fazello, Messina P.za Repubblica, Enna, Sicilia Outlet Village (Dittaino). Long-haul Catania-Palermo and Catania-Messina are modeled as direct point-to-point (no confirmed intermediate boarding stops from the sources). The Enna line stop ordering (airport, outlet, Enna Bassa/Kore, Enna Alta) is from Moovit's published sequence. Exact per-departure timetables are only partially evidenced (CT-PA 07:00/19:00/20:30/23:00; span 06:00-22:05 on Enna line); representative departures per direction were built from evidenced clock times, with intermediate arrival times interpolated across the corridor. The Sicily Region SAIS TRASPORTI ORARI PDF (primary source) timed out on fetch, so no additional regional TPL sub-routes (Caltanissetta/Agrigento/Gela corridors) were added. Confidence 0.4 reflects solid geometry/terminals but reconstructed detailed timetables.",
+  "source": "llm-normalized"
+}

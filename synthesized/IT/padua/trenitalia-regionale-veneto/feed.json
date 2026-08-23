@@ -1,0 +1,14 @@
+{
+  "operator": "Trenitalia Regionale (Veneto)",
+  "city": "Padua",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 16,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 34
+  },
+  "notes": "Rail-first GTFS for Trenitalia Regionale services through the Padova (Padua) node. Two well-documented lines built, both directions:\n- R1: Verona Porta Nuova - Caldiero - San Bonifacio - Montebello Vicentino - Vicenza - Grisignano di Zocco - Padova - Ponte di Brenta - Vigonza-Pianiga - Dolo - Mira-Mirano - Venezia Mestre - Venezia Santa Lucia (main Milan-Venice corridor, route_type=2 rail).\n- R2: Padova - Terme Euganee-Abano-Montegrotto - Monselice - Rovigo (Padova-Bologna line southbound, route_type=2 rail).\n\nSTOPS: all stops are real, evidenced railway stations on these lines. Coordinates are WGS-84 from Wikipedia/Wikidata (verified decimal degrees). Note: Ponte di Brenta halt was suppressed in 2015 (replaced by Busa di Vigonza under the SFMR project) but retained here as an evidenced stop on the line; if strict currency is needed it should be dropped.\n\nTIMES: representative clock times per direction using realistic regional run-times (Verona->Padova ~55min, Padova->Venezia SL ~40min, Padova->Rovigo ~40min) anchored to typical Veneto regional departures. These are plausible reconstructions, NOT the exact published minute-by-minute timetable (the Trenitalia PDF/HTML schedule sources and Moovit line pages did not return machine-readable tabular times), so headway/exact minutes are approximate. One representative trip per direction provided per route; real service runs roughly every 30-60 min 05:00-23:00.\n\nCALENDAR: daily service (Trenitalia regional runs 7 days/week with reduced weekend frequency; modeled here as everyday for the representative trips).\n\nCONFIDENCE 0.55: station identity, ordering and coordinates are high-confidence and real; exact departure minutes and full trip frequency are reconstructed, not scraped verbatim. Only the two best-evidenced corridors through Padova are included (not the full Veneto network e.g. Bassano, Calalzo, Adria, Treviso branches).",
+  "source": "llm-normalized"
+}

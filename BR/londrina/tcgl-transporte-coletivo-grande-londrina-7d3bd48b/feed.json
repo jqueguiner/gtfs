@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TCGL - Transporte Coletivo Grande Londrina",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Londrina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/londrina/tcgl-transporte-coletivo-grande-londrina/gtfs/",
+    "mdb_id": "br-llm-tcgl-transporte-coletivo-grande-londrina",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

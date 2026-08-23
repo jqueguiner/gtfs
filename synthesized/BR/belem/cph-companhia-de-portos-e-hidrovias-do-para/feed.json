@@ -1,0 +1,14 @@
+{
+  "operator": "CPH - Companhia de Portos e Hidrovias do Para",
+  "city": "Belem",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 7,
+    "routes": 5,
+    "trips": 17,
+    "stop_times": 34
+  },
+  "notes": "Ferry/hidroviario feed for CPH-administered Terminal Hidroviario de Belem (Armazem 10, Av. Marechal Hermes) and its evidenced passenger destinations. The three requested sources could not be scraped: cph.pa.gov.br (WebFetch timed out repeatedly + the official site is suspended \"ate o fim das eleicoes 2026\" per electoral law), belemtur and artran also timed out, and agenciapara.com.br is behind the same electoral suspension. Schedule and stop data were therefore reconstructed from cached/secondary reporting (Agencia Para, Roma News, portalcanaa, solarencantodomarajo, Henvil, marajoguia) that quote the CPH terminal programming.\n\nROUTES (all route_type=4 ferry):\n- R_MOSQ Belem<->Mosqueiro (municipal line, ~1h40): weekday Mosq->Belem 05:30, Belem->Mosq 18:30; Sat 05:30 & 16:30 both ways. Note: this line is Semob-operated but departs from THB.\n- R_CAMARA Belem<->Porto do Camara/Salvaterra (Marajo, ~3h): Mon-Sat 06:30 & 14:30, Sun 10:00 outbound; return 07:00 daily (Arapari/Banav).\n- R_SOURE Belem<->Soure direct lancha (~1h30): 08:00 out, 05:30 return daily (Golfinho).\n- R_PPEDRAS Belem<->Ponta de Pedras (Marajo, ~2h): intermunicipal line; exact clock times not published in sources, so 08:00 out / 14:00 return used as representative.\n- R_COTIJUBA Icoaraci<->Cotijuba (~20min crossing): representative daytime departures (08:00/12:00 out, 13:00/17:00 in); the Icoaraci tourist terminal opened late 2025 to serve Cotijuba.\n\nCOORDINATES (WGS-84): THB from DHN nautical chart 320 (01deg26'28\"S 048deg29'42\"W). Camara from Google/PEAVEP 00deg56'31.34\"S 048deg36'26.70\"W. Icoaraci trapiche from R. Siqueira Mendes IBGE point. Cotijuba OSM village node. Ponta de Pedras 01deg23'24\"S 048deg52'15\"W town seat. Soure and Mosqueiro-Vila are town-center approximations (exact dock pins unavailable; Overpass/Nominatim were rate-limited/unreachable from sandbox).\n\nNot modeled (evidenced but under-detailed): Cachoeira do Arari and Santa Cruz do Arari destinations, Barcarena/Combu from the new Terminal da Tamandare, and interstate Macapa line - schedules for these were too incomplete to build faithful trips. THB overall hours: daily 06:00-18:30.",
+  "source": "llm-normalized"
+}

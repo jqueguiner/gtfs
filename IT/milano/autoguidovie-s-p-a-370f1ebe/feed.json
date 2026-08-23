@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autoguidovie S.p.A.",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Milano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/milano/autoguidovie-s-p-a/gtfs/",
+    "mdb_id": "it-llm-autoguidovie-s-p-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

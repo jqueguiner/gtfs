@@ -1,0 +1,14 @@
+{
+  "operator": "Transporte Urbano São Miguel de Resende",
+  "city": "Uberlândia",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 25,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 44
+  },
+  "notes": "Uberlândia's bus system (SIT) is operated by a consortium of concessionaires; \"Transporte Urbano São Miguel de Resende Ltda\" (CNPJ 04.699.128/0002-27, Av. José Andraus Gassani, Distrito Industrial) is a confirmed real Uberlândia concessionaire, named among operators (São Miguel, Viação Sorriso de Minas, Autotrans, Expresso Araguari, CAF Transportes). IMPORTANT CAVEAT: onibus.online groups ALL lines under the integrated \"SIT Uberlândia\" network and does NOT publish per-operator route attribution, so the specific routes assigned to São Miguel are NOT authoritatively evidenced — the 3 routes here (A100, A105, A109) are real SIT Uberlândia lines with real published itineraries/schedules but their attribution to São Miguel specifically is INFERRED, hence moderate confidence. Route itineraries and departure spans/headways are from onibus.online schedule pages (real). Stop coordinates: terminals from OSM/geocoding (Terminal Central ~-18.9137,-48.2666; Terminal Santa Luzia OSM way 286426446 -18.93748,-48.22997; Rodoviária/Praça da Bíblia -18.9056,-48.2852; Terminal Umuarama ~Av. João Pinheiro 4790). Intermediate street-corner stops are geocoded approximately along the known corridor or left null where truly unknown — none are invented (all are named stops from the published itineraries). Representative trips: one per direction per route with realistic clock times built from the published first departures and even headways across service hours. Calendar: weekday + Saturday + Sunday services per published operating days. The OSM Overpass \"13+ relation[route=bus] operator=São Miguel, network=PMU, 638 bus_stop nodes\" described in the task prompt was not directly queryable via the available web tools (no Overpass access), so stops derive from onibus.online itineraries + geocoding. No metro/rail/BRT-rail exists as a separate rail mode in Uberlândia (the \"BRT João Naves de Ávila\" corridor is served by ordinary buses T131/E131, route_type=3), so no rail feed applies.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "JOTUR",
+  "city": "Florianópolis",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 8,
+    "routes": 4,
+    "trips": 9,
+    "stop_times": 46
+  },
+  "notes": "Bus operator (route_type=3) serving the Grande Florianópolis metro region (Palhoça, São José, Florianópolis), SC, Brazil. No metro/rail/tram/ferry modes exist for this operator, so METRO-FIRST does not apply; all routes are urban/intercity buses.\n\nEVIDENCE: Full route list (~230 line variants) scraped from https://www2.jotur.com.br/linhas/. Real departure times for the main Palhoça<->Florianópolis (TICEN) trunk corridor (line 0380 / \"Paradora\") extracted from horariosdeonibus.net and onibus.online (weekday + Saturday timetables). Corridor waypoint coordinates from OSM (TICEN -27.59844,-48.55447) and IBGE CEP geocoding (Palhoça Mercado Público -27.6440,-48.6651; Kobrasol/Ivo Silveira -27.5967,-48.6197). Line 0380 confirmed to have 54 stops one direction per Moovit; only the major named terminal/corridor waypoints are geocoded and included here (intermediate on-street stops were NOT individually evidenced with coordinates and are therefore NOT invented).\n\nCONFIDENCE 0.42: The route inventory and the 0380 trunk timetable are faithful to published sources, and the terminal coordinates are correct WGS-84. However, only 4 of ~230 line variants are modeled, and the per-trip stop lists are reduced to the evidenced corridor terminals/waypoints rather than the full 54-stop sequences (which were not available with coordinates). Times for 0370, 720 and 213 are even-headway synthesized across published service hours (only 0380 has fully published clock times). Stop coordinates for corridor waypoints are neighborhood/street-level, not exact pole positions.\n\nSERVICE: Weekday (dias úteis) and Saturday (sábado) services modeled. 0380 has essentially no Sunday service from Palhoça (only a single 05:35 TICEN departure noted), so Sunday is not modeled.\n\nSources: https://www2.jotur.com.br/linhas/ ; https://horariosdeonibus.net/sc-palhoca-florianopolis-paradora ; https://onibus.online/sc/palhoca/0380-palhoca-florianopolis/ ; https://moovitapp.com/index/en/public_transit-line-0380...-211221794-1 ; OSM/IBGE geocoding.",
+  "source": "llm-normalized"
+}

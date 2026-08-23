@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ATB (Azienda Trasporti Bergamo)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Bergamo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bergamo/atb-azienda-trasporti-bergamo/gtfs/",
+    "mdb_id": "it-llm-atb-azienda-trasporti-bergamo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

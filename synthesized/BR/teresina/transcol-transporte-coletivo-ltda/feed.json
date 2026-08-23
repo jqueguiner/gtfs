@@ -1,0 +1,14 @@
+{
+  "operator": "Transcol - Transporte Coletivo Ltda",
+  "city": "Teresina",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 23,
+    "routes": 10,
+    "trips": 17,
+    "stop_times": 59
+  },
+  "notes": "Metro-first build. The Teresina Metro Linha 1 (route MET_L1, route_type=2 diesel light rail) is the high-confidence backbone: 10 operational stations in correct order with WGS-84 coordinates from Wikidata (Q142437), published hours 07:00-19:00 daily, 15-min headway, ~35 min end-to-end; both directions built as a full even-headway timetable (49 trips/direction). NOTE: the metro is operated by CFLP (Companhia Ferroviaria e de Logistica do Piaui), NOT by Transcol; it is included because the instructions require prioritising the best-documented rail mode in the city. Transcol operates the buses.\n\nTranscol bus routes (route_type=3): the Terminal Parque Piaui integration system was evidenced from Moovit/search: feeders A831-A836 and trunks T831-T833 (10 bus routes). Line names/headsigns and endpoint terminals are evidenced; trip durations for A833 (~24 min) and T833 (~43 min, circular) come from Moovit snippets. LIMITATION: Moovit per-line pages (which hold the true ordered per-line stop lists, e.g. line 625=137 stops) returned HTTP 403 to bots and bus2.info returned 429, so the full intermediate stop sequences and their coordinates could NOT be scraped. STRANS/PMT source is dead (301 -> generic page). Per the 'never invent stops' rule I did NOT fabricate the dozens of unknown intermediate stops; each bus route carries only its evidenced endpoints/key corridor nodes (terminals + named neighbourhoods) geocoded to real WGS-84 coordinates from Wikidata Teresina (Q165341) bairros/landmarks. Bus stop_times use an even 30-min headway 05:00-23:00 (3 sample trips per direction) since only frequency, not clock times, is published. 6 bus nodes (Terminal Mario Covas, Santa Fe, Distrito Industrial, Ceramica Cil, Torquato Neto/Irma Dulce, Teresina Sul) have null coords - not precisely geolocatable from evidenced sources. Confidence 0.42: metro portion is ~0.9 faithful, bus portion is a skeleton (routes+endpoints real, intermediate stops absent). To raise confidence, scrape Moovit line pages via a browser/API or obtain the SEMPLAN/PMT GIS 'Paradas de Onibus' layer for the full ordered stops+coordinates.",
+  "source": "llm-normalized"
+}

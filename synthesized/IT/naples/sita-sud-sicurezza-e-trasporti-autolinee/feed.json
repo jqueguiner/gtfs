@@ -1,0 +1,14 @@
+{
+  "operator": "SITA Sud (Sicurezza e Trasporti Autolinee)",
+  "city": "Naples",
+  "cc": "IT",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 35,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 73
+  },
+  "notes": "Built from the official SITA Sud Campania timetable PDF (5120_5110_5070, valid from 13/07/2026), extracted via pdftotext -layout. Route list cross-checked against https://sitasudtrasporti.it/campania/orari/. This PDF covers the Amalfi Coast corridor (province of Salerno / Campania region, the operator's Naples-region network). SITA Sud is a pure bus operator, so route_type=3 throughout (no metro/rail/tram exists for this operator). Five corridors modeled, each with a representative trip in both directions using real published clock times (first full departure column per direction from the PDF): 5120 Amalfi-Maiori-Salerno, 5070 Amalfi-Positano-Sorrento, 5110 Scala/Ravello-Amalfi, POG Amalfi-Pogerola, 5001 Amalfi-Napoli. Stop coordinates are WGS-84 from Wikipedia/OSM/geocoding of these well-known Amalfi Coast towns; sub-hamlet stops (Pontone, Minuta, S.Pietro, Sambuco, Pontone) use their parent-comune centroid where a precise node was not confirmed, and a few very-minor stops (Colli Fontanelle, Bivio S.Agata, Priora, S.Agata, Colli S.Pietro) are approximated along the SS163/Nastro Verde corridor. Times are real; only one representative departure per direction is included (the PDF holds ~40 daily trips per corridor with F=feriale/H=festivo/G=daily variants). Napoli stop = Varco Immacolatella (port). Confidence 0.6: stops/order/times faithful to the source PDF, but only a single representative trip pair per route rather than the full daily table, and some minor-stop coordinates are approximate.",
+  "source": "llm-normalized"
+}

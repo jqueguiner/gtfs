@@ -1,0 +1,14 @@
+{
+  "operator": "SIT Bus Shuttle",
+  "city": "Rome",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 7,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 19
+  },
+  "notes": "Built from the SIT Bus Shuttle (SIT - Societa Italiana Trasporti) official English timetable pages for the two Rome airport shuttle lines that the sources fully support: Fiumicino<->Rome and Ciampino<->Rome. The Civitavecchia<->Rome and Fiumicino<->Civitavecchia lines are advertised on the overview page but no ordered-stop timetables were scraped, so they are omitted (no invented stops).\n\nStops and their addresses come directly from the operator timetable pages (Fiumicino Aeroporto T3 stall 16, Fiumicino citta P.zza Gen. Dalla Chiesa, Roma Aurelia Circonv. Aurelia 19, Roma Vaticano Via Crescenzio, Roma Termini Via Marsala 5, Ciampino Aeroporto stall 2, Ciampino citta Via Luigi Einaudi/Leroy Merlin). All coordinates are WGS-84, geocoded from the addresses and cross-checked against OSM/Wikidata/Tuttocitta:\n - Fiumicino Airport T3: 41.79557,12.25033 (OSM terminal building)\n - Fiumicino City P.zza Gen. Dalla Chiesa: 41.77008,12.22708 (Tuttocitta / municipio)\n - Roma Aurelia Circonv. Aurelia 19: 41.9008,12.4448 (Aurelio district road; approx house-number segment)\n - Roma Vaticano Via Crescenzio: 41.9066,12.4620 (Prati, near Vatican; SIT drop-off is Via Crescenzio 2/19)\n - Roma Termini Via Marsala 5: 41.9016,12.5028 (near start of Via Marsala, by Hotel Royal Santina)\n - Ciampino Airport stall 2: 41.79944,12.59722 (Wikipedia CIA)\n - Ciampino City Via Luigi Einaudi (Leroy Merlin): 41.80299,12.59893 (street coords)\n\nCONFIDENCE 0.72: Route structure, stop order, stop names/addresses and coordinates are faithful to the operator's published data. Fiumicino<->Rome full timetables were scraped (54 inbound / 49 outbound departures) and the representative trips use the first published departure of each direction with realistic segment travel times (published ~55 min total). Ciampino<->Rome uses the exact published departure+arrival clock times (e.g. Ciampino 10:30 -> Termini 11:05; Termini 04:10 -> Ciampino Airport 04:40 -> City 04:50). Intermediate-stop times on the Fiumicino line are interpolated (the operator only publishes origin departure + total duration), which is the main source of imprecision. GTFS holds one representative trip per direction per route; the full frequency-based expansion of every published departure is not enumerated. Service assumed daily (airport shuttles run 7 days/week); exact seasonal variation and the fact that Ciampino appears to have far fewer daily runs than the site's contact-for-more note implies are not captured. Vatican is a drop-off-only point on several directions.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Cidade Sorriso de Minas",
+  "city": "Uberlândia",
+  "cc": "BR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 73,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 154
+  },
+  "notes": "Operator confirmed: \"Viação Cidade Sorriso Ltda\" / fantasy name \"Sorriso de Minas\" (CNPJ 84.924.448/0002-72, Av. do Pinho 895, Uberlândia-MG), one of the SIT Uberlândia (Ubertrans-governed) concessionaires. Per the Uberlândia prefeitura site it operates the WEST region of the city; per the June 2025 electric-bus test coverage, confirmed Sorriso-operated lines are I480 (Planalto/Canaã), T140 (Planalto/Central) and T121 (Luizote/Umuarama). The West region is served from Terminals Planalto and Canaã plus the Luizote/Umuarama corridor, so I additionally included T141, A801 and A401 as West-region lines under the same concessionaire.\n\nSOURCES: onibus.online line pages gave the operator (\"Transporte Público de Uberlândia\" — SIT generic, no per-line company breakdown), full street-by-street ordered itineraries per direction, and first/last departure times per weekday/Sat/Sun. The Moovit line-index page returned empty. Overpass API and Nominatim direct curl were blocked in-sandbox (HTTP 000/429/502); Overpass via WebFetch was ECONNREFUSED, so OSM route=bus operator tags could NOT be pulled to definitively partition all 122 SIT lines by company — line-to-operator assignment beyond the 3 confirmed lines is an evidence-based inference from the West-region designation. Coordinates for the 4 terminals + 8 major avenues were geocoded via Nominatim (WGS-84) through WebFetch; the remaining ~61 minor cross-street stops are left null (schema-permitted) since precise per-street node coords weren't retrievable.\n\nTimes: itineraries are the real published stop order per direction; stop_times use the real first-departure clock time from the schedule with a uniform 2-min inter-stop dwell (published feeds give only first/last departure, no per-stop times or headways), so intermediate times are modeled, not measured. One representative WEEKDAY trip per direction per route. Calendar covers Mon-Fri / Sat / Sun service groups (all three days served per published hours) though only WEEKDAY trips are instantiated.\n\nConfidence 0.5: operator identity, region, route list (6 West lines incl. 3 confirmed Sorriso), stop names/order and service hours are well-evidenced; the exact company-per-line split and intermediate stop timings/coords are the weak points.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Autoguidovie S.p.A.",
+  "city": "Milano",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 177,
+    "routes": 8,
+    "trips": 24,
+    "stop_times": 90
+  },
+  "notes": "Feed covers the Milano Sud-Ovest suburban network operated by Autoguidovie S.p.A. (for ATM, STIBM tariff area). Stop sequences and WGS-84 coordinates are taken directly from OpenStreetMap route=bus relations tagged operator=Autoguidovie, members of the OSM network relation 971328 \"Rete automobilistica suburbana e interurbana di Milano (ATM)\" (e.g. rel 1574862 line 201). 8 lines built (165, 201, 220, 222, 230, 328, 423, 433), one representative direction each, 177 unique stops. STOP GEOMETRY IS REAL (high confidence). SERVICE TIMES are synthesized: the operator PDF timetable given as a source (milanosudest .../Linea z401_FER EST.pdf) returned HTTP 404 and the autoguidovie.it subsites are JS-rendered so WebFetch could not read line lists or timetables. Operating windows and headways were taken from published ATM/Moovit/Comune di Rozzano data per line (e.g. 201 ~06:00-00:30 daily; 220 ~05:25-23:25, ~15 min peak) and turned into an even-headway clock schedule with ~2-3 min inter-stop travel; individual stop times are interpolated, not the exact published quadri-orari. Trimmed to 3 trips per line (first / midday / last); the full generator produces 324 trips across the day. Line 201 night service crosses midnight and uses GTFS >24h times (24:xx/25:xx). Calendar is a single DAILY service Mon-Sun for 2026 (real per-day/feriale-festivo variants not modeled). No z401 (Milano Sud-Est) line included because its PDF source was unreachable; only OSM-evidenced Sud-Ovest lines were built. No stops were invented.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "STP S.p.A. (Società Trasporti Provinciale)",
+  "city": "Bari",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 54,
+    "routes": 10,
+    "trips": 20,
+    "stop_times": 135
+  },
+  "notes": "Source: STP winter \"Programma Invernale\" quadri-orari PDF (valid 2025-09-01 to 2026-06-30, updated 23/06/2026, 27 pages) parsed with pdftotext -layout; route index (SOMMARIO) plus per-route timetable tables gave route names, ordered town/hamlet stop lists (quadri-orari row headers) and real clock departure/arrival times. Summer PDF confirmed same network. The ssl.autoroute.it/apps/STP_BARI interactive search was under maintenance (\"Funzione in aggiornamento\") so stop lists came from the PDF headers. OSM has essentially no STP route relations in the Bari area, so stops were geocoded from PDF town/hamlet names to well-known WGS-84 comune coordinates (ISTAT/OSM place-node centroids), not lifted from OSM. This is an extra-urban (interurban) bus network across the Bari/BAT provinces; route_type=3 for all. Modeled a representative subset of the network (11 lines, most with both directions) with one representative trip per direction using genuine schedule times; STP runs many more daily corse per line than the single representative trips encoded here. Service: Mon-Sat, no Sundays/holidays (\"NON SI EFFETTUA LA DOMENICA ED I GIORNI FESTIVI\") except the Gravina/Molfetta-Taranto ILVA long-haul corse marked \"G\" which also run Sundays (calendar svc_daily). Coordinates are approximate town-centre / hub points (WGS-84), since exact bus-stop positions are not published in the PDF. Confidence 0.62: route list, stop ordering, town coordinates and representative clock times are faithful to the published schedule; not faithful to full trip frequency/every-run coverage, exact stop geolocation, or COTRAP sub-operator (Dongiovanni/Scoppio/Topputo) trip splits.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transporte Urbano São Miguel de Resende",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Uberlândia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/uberlandia/transporte-urbano-sao-miguel-de-resende/gtfs/",
+    "mdb_id": "br-llm-transporte-urbano-sao-miguel-de-resende",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

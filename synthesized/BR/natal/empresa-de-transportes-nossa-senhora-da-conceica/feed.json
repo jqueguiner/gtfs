@@ -1,0 +1,14 @@
+{
+  "operator": "Empresa de Transportes Nossa Senhora da Conceicao Ltda (STTU concession)",
+  "city": "Natal",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 29,
+    "routes": 23,
+    "trips": 4,
+    "stop_times": 46
+  },
+  "notes": "Operator = \"Rotas Conceicao\" dataset on dados.natal.br (CKAN pkg rotas-conceicao, org \"Natal\", notes: \"Detalhamento das rotas da empresa Conceicao\"). Route geometry is HIGH fidelity: 23 official per-line KML route shapes (lines 21,21A,22,30,31,41,41A,59,63,63A,71,76,83,83A,587,588,599,599A,905,2369,3001,3101A,6301) with correct WGS-84 coordinates in Natal RN (lat -5.72..-5.89, lon -35.16..-35.28). Each KML has a \"Pistas\" LineString + a \"Pontos\" folder, but the \"Pontos\" placemarks are the polyline vertices of the trace (count == shape vertex count), NOT surveyed/named bus stops. So stops were derived by down-sampling each official route trace to ~500m spacing (typical urban spacing) -> 1062 deduped stops (coords rounded to ~11m to merge co-located stops across lines). Stop coordinates are therefore real/evidenced points on the official path; stop NAMES are generic (\"Terminal Linha N\", \"Linha N - Parada K\") because no name data exists in the source (itinerarios.csv/horarios.csv/linhas.csv on dados.natal.br cover a DIFFERENT operator, AUTO ONIBUS SANTA MARIA LTDA, so they were NOT used for Conceicao stop names or times). SCHEDULE is synthesized: no Conceicao timetable was published, so service hours 05:00-23:00 and a 20-min headway were inferred from the sibling STTU operator's horarios.csv (median freq 20min, service 04:00-23:40, travel-time median ~100min) and encoded via frequencies.txt (out/frequencies.txt: 05:00:00-23:00:00, 1200s headway, all 46 trips). Each of the 23 routes has 2 representative trips (direction 0 forward along trace, direction 1 reversed) with realistic clock times at 20 km/h avg. Calendar = Mon-Fri (WEEK) 2026-01-01..2026-12-31; Sat/Sun not modeled (no evidence of weekend variants for Conceicao). Full valid feed written to /home/ubuntu/adresses/natal_gtfs/out/*.txt and zipped to /home/ubuntu/adresses/natal_gtfs/conceicao_natal_gtfs.zip (agency, stops[1062], routes[23], trips[46], stop_times[2444], calendar, frequencies). Validation: 0 referential-integrity errors, monotonic stop_sequence, valid HH:MM:SS, both directions per route, all stops inside Natal bbox. Below: all 23 routes + calendar + full stop_times/stops/trips for 2 representative lines (21 loop, 587 short circular); remaining 21 lines follow the identical structure in the on-disk feed. Confidence 0.4: geometry real, but stops are trace-derived (not surveyed), stop names generic, and timetable inferred not published.",
+  "source": "llm-normalized"
+}

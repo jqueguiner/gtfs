@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**8561 feeds · 3505 cities · 111 countries** · updated automatically.
+**8621 feeds · 3527 cities · 111 countries** · updated automatically.
 
 ## Layout
 ```
@@ -22,9 +22,9 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇩🇪 Germany | 528 | 35 | 528 |
 | 🇸🇻 SV | 295 | 1 | 295 |
 | 🇪🇸 Spain | 200 | 101 | 200 |
+| 🇮🇹 Italy | 169 | 106 | 169 |
 | 🇨🇦 Canada | 166 | 133 | 166 |
 | 🇵🇱 Poland | 149 | 107 | 149 |
-| 🇮🇹 Italy | 141 | 101 | 141 |
 | 🇮🇪 Ireland | 112 | 26 | 112 |
 | 🇫🇮 Finland | 101 | 22 | 101 |
 | 🇸🇪 Sweden | 78 | 45 | 78 |
@@ -32,6 +32,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇳🇴 Norway | 58 | 24 | 58 |
 | 🇽🇽 XX | 57 | 1 | 57 |
 | 🇦🇺 Australia | 50 | 41 | 50 |
+| 🇧🇷 Brazil | 49 | 30 | 49 |
 | 🇵🇹 Portugal | 39 | 31 | 39 |
 | 🇱🇻 Latvia | 37 | 10 | 37 |
 | 🇹🇭 Thailand | 32 | 13 | 32 |
@@ -43,7 +44,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇹🇷 Turkey | 21 | 19 | 21 |
 | 🇨🇳 CN | 19 | 12 | 19 |
 | 🇺🇦 UA | 19 | 16 | 19 |
-| 🇧🇷 Brazil | 17 | 13 | 17 |
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
 | 🇷🇸 Serbia | 14 | 10 | 14 |
 | 🇨🇾 Cyprus | 14 | 10 | 14 |

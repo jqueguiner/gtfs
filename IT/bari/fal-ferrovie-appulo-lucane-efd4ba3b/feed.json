@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FAL - Ferrovie Appulo Lucane",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Bari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bari/fal-ferrovie-appulo-lucane/gtfs/",
+    "mdb_id": "it-llm-fal-ferrovie-appulo-lucane",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

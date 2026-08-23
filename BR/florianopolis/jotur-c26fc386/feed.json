@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JOTUR",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Florianópolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/florianopolis/jotur/gtfs/",
+    "mdb_id": "br-llm-jotur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

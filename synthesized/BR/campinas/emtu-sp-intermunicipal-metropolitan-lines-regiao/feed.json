@@ -1,0 +1,14 @@
+{
+  "operator": "EMTU/SP — intermunicipal metropolitan lines (Região Metropolitana de Campinas)",
+  "city": "Campinas",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 11,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 26
+  },
+  "notes": "Source: EMTU 'Itinerários e Tarifas' (emtu.sp.gov.br/Sistemas/linha/resultado.htm?numlinha=NNN) confirmed line numbers, origin/destination, operator (Consórcio \"BUS+\") and fares; the EMTU itinerary tool only returns endpoints in static HTML (full street list requires the interactive JS view), so intermediate stops were derived from published route data (Moovit/horariodeonibus/terminalcastelo) and the metropolitan corridor description. Departure times for lines 600, 604 and 606 are REAL published EMTU/Consórcio Bus+ timetables (weekday/Saturday/Sunday). Line 642 (Americana×Unicamp, seletivo) has only 2 real weekday departures each way. MODE: bus only (route_type=3). NO metro/rail was built because EMTU operates none in the RMC — the Campinas VLT (1990–1995) is defunct, the current BRT de Campinas is run by EMDEC (municipal, not EMTU), and the Sumaré/Viracopos/Santos-Dumont VLT + new BRT corridors are only 2026 BNDES study proposals (unbuilt). EMTU/SP itself was legally liquidated 2025-03-20; the lines continue under Consórcio Bus+. Coordinates are WGS-84: Terminal Metropolitano Magalhães Teixeira verified from Wikidata Q10380624 / Maps.me (-22.906096,-47.072243); endpoint terminals/cities geocoded from their published addresses and city-centroid coordinates (latitude.to / Wikipedia). Intermediate on-street stops along each corridor are represented by the endpoint terminals plus the served city/corridor node (Paulínia, Cosmópolis, Sumaré, Nova Odessa) rather than every physical pole, since EMTU's static tool does not expose per-pole coordinates. Only endpoints geocoded to a specific building are high-precision; city-node stops are approximate (city centroid). One representative trip per direction per line at real clock times (even-headway only where a frequency but no timetable was given — not needed here). calendar: weekday service (BUS+ WEEKDAY), Saturday (SAT) and Sunday (SUN) covering the full observed 2026 operating window.",
+  "source": "llm-normalized"
+}

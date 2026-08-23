@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CBTU João Pessoa — Sistema de Trens Urbanos (VLT / metric-gauge commuter rail)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "João Pessoa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/joao-pessoa/cbtu-joao-pessoa-sistema-de-trens-urbanos-vlt-me/gtfs/",
+    "mdb_id": "br-llm-cbtu-joao-pessoa-sistema-de-trens-urbano",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

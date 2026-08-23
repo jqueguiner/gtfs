@@ -1,0 +1,14 @@
+{
+  "operator": "Golfo Paradiso (Battellieri del Golfo Paradiso)",
+  "city": "Genoa",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 7,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 27
+  },
+  "notes": "Ferry operator Golfo Paradiso (Battellieri del Golfo Paradiso), Camogli/Genoa, Liguria. Built from golfoparadiso.it route pages (HTML). Two evidenced ferry routes (route_type=4):\n\n1) GP_BLU \"Linea Blu\" Camogli - San Fruttuoso: ordered stops Recco (seasonal Apr-Sep), Camogli, Punta Chiappa, San Fruttuoso. Modeled trips run Camogli<->Punta Chiappa<->San Fruttuoso using the published summer 2026 hourly timetable (outbound Camogli deps 09:00-17:00; return San Fruttuoso deps 09:30-18:00). I sampled 3 outbound + 3 return representative trips rather than all hourly departures. 15-min inter-stop hops per the site (\"intervals ~15 minutes\"). Recco is only a seasonal/limited stop (Sat/holiday) and is NOT included on the Linea Blu trips here to avoid overstating frequency; it is served by the Two Gulfs tour instead.\n\n2) GP_2GULFS \"Tour of the Two Gulfs\": ordered stops Genova Porto Antico, Genova Nervi, Recco, Camogli, San Fruttuoso, Portofino. Half-day Mar-Oct outbound uses published deps (Porto Antico 14:00, Nervi 14:30, Recco 14:45, Camogli 14:50); San Fruttuoso/Portofino legs interpolated (~15-20 min hops). Return uses the published full-day return times (Portofino 16:50, San Fruttuoso 17:10, Camogli 17:30). Note the site lists slightly different outbound (14:50 Camogli) vs return (16:50 Portofino) times; return here reflects the published Portofino 16:50/17:10/17:30 sequence.\n\nCoordinates are WGS-84 from web geocoding: Camogli 44.349/9.156 (Marina Vecchia boarding pier, near Molo Esterno lighthouse 44.3518/9.1492); San Fruttuoso 44.31649/9.17519 (abbey cove landing); Punta Chiappa 44.3175/9.156 (Imbarcadero della Foce / Porto Pidocchio, approximate); Recco 44.3614/9.1437; Genova Porto Antico/Ponte Spinola 44.4103/8.9265 (approx, next to Aquarium); Genova Nervi porticciolo 44.3824/9.0329; Portofino 44.30389/9.20778.\n\nNOT modeled (insufficient schedule/stop detail on the fetched pages): Tour Genova - Cinque Terre and the two Whale Watching tours (Genova/East, Imperia/West) - destinations named but no ordered stops or times published in the scraped content.\n\nConfidence 0.62: routes, ordered stops and coordinates are well-evidenced and correct; exact clock times are partially published (Linea Blu hourly grid and Two Gulfs outbound times are real; some intermediate leg times and the season boundaries are interpolated/simplified). Seasonal variation (Apr-May/Oct reduced, Nov-Dec limited) is simplified to a single summer service window for Linea Blu and a Mar-Oct window for Two Gulfs.",
+  "source": "llm-normalized"
+}

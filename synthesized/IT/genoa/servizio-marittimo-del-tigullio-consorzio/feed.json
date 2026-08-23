@@ -1,0 +1,14 @@
+{
+  "operator": "Servizio Marittimo del Tigullio (Consorzio)",
+  "city": "Genoa",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 11,
+    "routes": 4,
+    "trips": 6,
+    "stop_times": 25
+  },
+  "notes": "Built from operator site (traghettiportofino.it) route descriptions and two PDFs: the 2025 lecinqueterre.org timetable (Lines 4 and 5 Cinque Terre excursions, with explicit departure times and service days) and the traghettiportofino proposte-2024.pdf group brochure (Line 1 Rapallo/Santa Margherita/Portofino/San Fruttuoso full-day itineraries with explicit clock times). Line 1 stop_times use the brochure full-day itinerary (Rapallo 10:00 -> San Fruttuoso 11:00 -> Portofino 13:00; a Santa Margherita variant is folded into a single representative eastbound trip and a return trip from Portofino at 15:00). Line 4 and Line 5 times are directly from the 2025 PDF (SML 08:25/Rapallo 08:40 to Cinque Terre; Chiavari 09:05/Lavagna 09:20/Sestri 09:40 to Cinque Terre); Cinque Terre destination stop_times are estimated (crossing ~2h, returns 'comunicati a bordo' = announced onboard, so only outbound legs are timed and a nominal Riomaggiore arrival is added). Line 2 (Sestri/Lavagna/Chiavari -> Portofino -> San Fruttuoso) is confirmed to exist on the operator's line pages but the sources give no explicit Line 2 clock times, so its stop_times are modeled on the Line 1 full-day structure (morning outbound ~09:00 from Sestri, afternoon return) and flagged as approximate. Stop coordinates: Rapallo, Portofino, San Fruttuoso, Chiavari from OSM/Nominatim (ferry molo / porto turistico); Santa Margherita Ligure, Lavagna, Sestri Levante piers from known WGS-84 dock locations (Nominatim rate-limited on the final two). Cinque Terre villages (Riomaggiore, Monterosso, Vernazza, Manarola) added as stops for the Line 4/5 destinations. Service is strongly seasonal (summer). calendar.txt approximates the two documented service windows for Lines 4/5 and a broad summer daily window for Lines 1/2. Confidence 0.55: routes/stops/service-days are well evidenced and coordinates are accurate, but several individual departure times (esp. Line 2 and all return legs) are modeled rather than published.",
+  "source": "llm-normalized"
+}

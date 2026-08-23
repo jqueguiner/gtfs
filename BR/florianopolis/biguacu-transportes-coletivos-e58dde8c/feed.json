@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Biguaçu Transportes Coletivos",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Florianópolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/florianopolis/biguacu-transportes-coletivos/gtfs/",
+    "mdb_id": "br-llm-biguacu-transportes-coletivos",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

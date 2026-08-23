@@ -1,0 +1,14 @@
+{
+  "operator": "FAL - Ferrovie Appulo Lucane",
+  "city": "Bari",
+  "cc": "IT",
+  "confidence": 0.75,
+  "counts": {
+    "stops": 17,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 52
+  },
+  "notes": "Built from FAL official \"Quadro Orari Ferroviari Feriali\" PDF effective 03 Aug 2026 (ORARIO-TRENI-DA-E-PER-BA-03-AGO-2026-2.pdf), converted with pdftotext -layout. Real clock times used. Two rail routes on the shared Bari-Altamura trunk: Bari-Matera (full trunk to Matera Sud) and Bari-Gravina (Altamura->Gravina branch). Route_type=2 (rail); FAL is a 950mm narrow-gauge railway. One representative weekday trip per direction per route, all time-monotonic:\n- Bari-Matera SB = train 105 (Bari 06:02 -> Matera Sud 08:18); NB = train 104 (Matera Sud 06:18 -> Bari 08:19).\n- Bari-Gravina SB = train 101 (Bari 03:59 -> Gravina 05:37); NB = train 100 (Gravina 04:41 -> Bari 06:16).\nStation order and coordinates confirmed via Wikidata/Wikipedia (WGS-84): Bari Centrale FAL Q3968978, Modugno FAL Q29366606, Palo del Colle Q29366594, Binetto Q29366570, Grumo Appula FAL Q29366543, Toritto Q29366652, Mellitto Q29366664, Pescariello Q3970449 (not on the chosen representative trips), Altamura FAL Q3968866, Gravina FAL Q22662379, Venusio Q3971263, Matera Serra Rifusa Q29582883, Matera Villa Longo Q28940998, Matera Centrale Q6786531, Matera Sud Q3970069.\nCaveats: (1) There is currently a track interruption Bari C.le - Grumo Appula; on that segment trains are replaced by buses, but the published timetable gives through times, so times are faithful to the operator schedule even if the Bari-Grumo leg is temporarily bus-operated. (2) Bari Policlinico and Bari Scalo are the substitute-bus stops named in the timetable; coordinates are geocoded from their Bari street addresses (via Ennio / via Pasteur) and are approximate (~50-150m). (3) Bari Centrale FAL coord from Wikidata (41.1185,16.869); the timetable's boarding point is the FS Terminal BUS via Capruzzi, physically adjacent. (4) OSM bus routes 206/512/540/213 mentioned in the brief are Bari urban (AMTAB) lines, not FAL services, so they are excluded; FAL's own scheduled service in-area is the rail trunk plus its substitute buses, which are captured by the rail routes above. (5) Only representative trips included, not the full ~40-train daily service; frequency is roughly hourly across ~04:00-23:00 weekdays. Service suspended Sundays and holidays per the PDF legend (\"Il Servizio Ferroviario e sospeso nei giorni di domenica e festivi\").",
+  "source": "llm-normalized"
+}

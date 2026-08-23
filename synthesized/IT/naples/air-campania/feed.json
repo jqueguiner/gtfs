@@ -1,0 +1,14 @@
+{
+  "operator": "AIR Campania",
+  "city": "Naples",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 24,
+    "routes": 2,
+    "trips": 7,
+    "stop_times": 52
+  },
+  "notes": "Built from AIR Campania official PDF timetables. Line 01-BN (Benevento-Napoli, both directions) came from the full PDF at .../2026/07/01__BN____.pdf which extracted cleanly with pdftotext -layout: complete ordered stop list + real clock times for every column (in vigore dal 01/10/2025). Line 21-AV: the supplied URL (.../2026/07/21_AV_.pdf) 404'd; found the real published PDF (.../2024/10/Orari-Avellino-Caianello-Roma.pdf, in vigore dal 04/11/2024) with 3 stops (Avellino Autostazione, Caianello via Ceraselle, Roma Tiburtina) and FE6/DOM times. This is an intercity/suburban coach operator, no metro/rail/tram mode applies (route_type=3 bus for both). Trips: 01-BN gets a rep dir-1 mainline trip (05:00->06:30 to Napoli Metropark), a dir-1 Caserta-branch trip (06:30, serving Maddaloni/Caserta), a dir-2 trip (Napoli 06:30 -> Benevento 08:30); 21-AV gets FE6+DOM trips in both directions. Times are exact from the PDFs. Calendar: FE6 (Mon-Sat feriale) and DOM (Sun/holiday) per the timetable Legenda cadenze. Coordinates are WGS-84 from OSM/Wikidata municipality centres + geocoded landmarks (Napoli Metropark 40.8511,14.2746 verified via Foursquare/Moovit; Cancello Scalo station 41.0117,14.4814; Montesarchio 41.0611,14.6333). Some intermediate-stop coords are town-center approximations (Apollosa, Tufara Valle, Forchia, Arienzo etc.) rather than exact bus-stop nodes, hence confidence 0.72. Only stops evidenced in the PDFs were included; no invented stops. Full-column detail (many time columns per direction with per-code validity like A6_FE6/SA_FE6) was collapsed to representative trips per GTFS instructions.",
+  "source": "llm-normalized"
+}

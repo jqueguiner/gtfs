@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Cidade de Maceió (CIMA) — SIMM Lote 100",
+  "city": "Maceió",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 103,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 183
+  },
+  "notes": "Built from SMTT Maceió itinerario.jsf HTML for lines 0022 (São Jorge/Centro/Farol Via Jacintinho) and 0035 (Ouro Preto/Mercado Via Jacintinho), both confirmed operator \"CIDADE DE MACEIÓ\". Operator = CIMA, which the maceio.al.gov.br SIMM page and press confirm holds SIMM Lote 100 (Serraria + adjacências, yellow/amarela). The al.gov.br SIMM URL returned HTTP 403 and Moovit rendered empty, so lot assignment is corroborated via SMTT + TNH1/onibusalagoaslinhas coverage. FULL ordered stop lists (Ida + Volta) are evidenced directly from itinerario.jsf — 103 unique stops across the two routes. STOPS ARE STREET/LANDMARK SEQUENCES, not point-level GPS: SMTT publishes ordered street names, not coordinates. Nominatim (HTTP 429) and Overpass (connection refused/blocked from host) were unreachable for per-node geocoding, so only 15 well-anchored terminals/squares/major avenues carry WGS-84 coordinates (Terminal Mercado da Produção, Terminal Ouro Preto, Terminal Novo Mundo, Praça dos Palmares, Praça do Centenário, Praça das Graças, Av. Fernandes Lima, Av. Juca Sampaio, Rua Boa Vista/Ouro Preto ~-9.6498,-35.7089, etc.); the ~88 intermediate street stops are left stop_lat/stop_lon null rather than invented. NO TIMETABLE is published by SMTT (times not in HTML; al.gov.br notes clock times are per-line in the internal OSO), so stop_times use a representative single trip per direction per route at a synthetic even 2-min inter-stop spacing starting near the typical ~05:15–06:20 first-departure window; these are placeholder clock times, NOT the real schedule. This is a bus operator (route_type=3) — no metro/rail applies (Maceió VLT is a separate operator, out of scope). Calendar: WEEKDAY service carries the trips; SATURDAY/SUNDAY service_ids defined for the year but no distinct trips modeled. Confidence 0.42: route identity, operator/lot, direction and stop ORDERING are faithful (from official source); coordinates are largely missing and all times are synthetic.",
+  "source": "llm-normalized"
+}

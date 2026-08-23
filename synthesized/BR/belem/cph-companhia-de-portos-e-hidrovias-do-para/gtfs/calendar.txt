@@ -1,0 +1,6 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+S_DAILY,1,1,1,1,1,1,1,20260101,20261231
+S_MONSAT,1,1,1,1,1,1,0,20260101,20261231
+S_SUN,0,0,0,0,0,0,1,20260101,20261231
+S_WEEKDAY,1,1,1,1,1,0,0,20260101,20261231
+S_SAT,0,0,0,0,0,1,0,20260101,20261231

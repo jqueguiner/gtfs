@@ -1,0 +1,14 @@
+{
+  "operator": "Biguaçu Transportes Coletivos",
+  "city": "Florianópolis",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 24,
+    "routes": 26,
+    "trips": 97,
+    "stop_times": 420
+  },
+  "notes": "Bus-only operator in the Grande Florianópolis metropolitan system (Biguaçu, Florianópolis, São José, Antônio Carlos, Governador Celso Ramos, Palhoça). No metro/rail/BRT operated, so route_type=3 throughout. Sources: operator site tcbiguacu.com.br/horarios (interactive JS per-line selector — could not be scraped directly), operator active-lines and new-schedule news posts, clubedoonibus.com.br, horariodeonibus.net, Moovit. FIDELITY BY ROUTE: (1) Line 8800 Biguaçu/Palhoça is the most faithful — full published weekday + Saturday timetables both directions (12+12 wd, 4+4 sat), and real ordered reference stops (Rodoviária Biguaçu -> Praça -> Estreito -> Itaguaçu -> Via Catarina -> Ponto Final Palhoça) from Moovit; does not run Sundays. (2) 13 lines (9900,10000,10400,11300,11302,14600,43100,43400,43402,44300,54600,76400,84500) have REAL individual departure times from the operator's news post, applied to representative outbound trips (+ one return each). (3) Remaining lines have real numbers+names but no published times/stop order — represented by a single outbound+return trip each along plausible ordered stops via TICEN/Estreito/Rodoviária Biguaçu. COORDINATES: TICEN is exact OSM WGS-84 (-27.59844,-48.55447); all other stops are approximate neighborhood/terminal centroids (WGS-84) — intermediate stops between endpoints are NOT modeled (only terminals + key reference points), and inter-stop times are a uniform 4-min placeholder, not from real running times except 8800 endpoints. Nominatim geocoding was rate-limited (429) from this host, so centroids come from web results + known geography. Executive Class (Amarelinho) lines excluded. Calendar reflects typical BR metro service (weekday Mon-Fri, Saturday); Sunday not modeled (8800 confirmed no Sunday; others unknown).",
+  "source": "llm-normalized"
+}

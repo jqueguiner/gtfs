@@ -1,0 +1,14 @@
+{
+  "operator": "CBTU João Pessoa — Sistema de Trens Urbanos (VLT / metric-gauge commuter rail)",
+  "city": "João Pessoa",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 51,
+    "stop_times": 52
+  },
+  "notes": "Single 30.03 km metric-gauge VLT line, Santa Rita–João Pessoa–Bayeux–Cabedelo, 13 stations. Modeled as route_type=0 (light rail / VLT, matching CBTU's own \"VLT\" branding and OSM's \"light rail route\" classification for relation 3182693). STOPS: all 13 station coordinates pulled from OSM relation 3182693 via the OSM API (WGS-84, verified in-order Santa Rita→Cabedelo). SCHEDULE FRAME is from official CBTU + press sources (gov.br horarios page + web search of MaisPB/Jornal da Paraíba/Portal Correio, Oct-2024 timetable): 32 trips Mon–Fri (16 per direction) and 19 on Saturday (10 outbound Santa Rita→Cabedelo + 9 inbound), first departures 04:30 (to Cabedelo) / 04:40 (to Santa Rita), last arrival 19:23, single fare R$2,50, no Sunday service. LIMITATION: the individual per-departure clock times are NOT published in any accessible text (gov.br shows only route images; MaisPB/gov.br news pages returned HTTP 403 / auth-required; only aggregate counts + first/last times are documented). Therefore departure times are synthesized as EVEN HEADWAYS across the documented 04:30–19:23 window (weekday headway ~56 min/direction, Saturday wider), and inter-station running times (~45 min end-to-end) are apportioned from the OSM great-circle distances between stations. So station list, order and coordinates are high-fidelity; trip envelope (days, counts, span) is faithful to the source; but exact minute-by-minute departures are approximate, hence confidence 0.55. Calendar start_date set to 2024-10-01 (effective date of the current timetable) with an open end_date of 2027-12-31. Diacritics preserved in stop names (Várzea Nova, João Pessoa, Mandacaru, Jacaré, Poço). Sources: en.wikipedia.org/wiki/Sistema_de_Trens_Urbanos_de_João_Pessoa; gov.br/cbtu horarios-e-linhas; OSM relation 3182693; MaisPB/Jornal da Paraíba/Portal Correio Oct-2024 coverage.",
+  "source": "llm-normalized"
+}

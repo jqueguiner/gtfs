@@ -1,0 +1,14 @@
+{
+  "operator": "AST — Azienda Siciliana Trasporti",
+  "city": "Catania",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 3,
+    "routes": 1,
+    "trips": 3,
+    "stop_times": 9
+  },
+  "notes": "AST S.p.A. extra-urban flagship line Catania–Nicolosi–Etna (Rifugio Sapienza / Etna Sud), the only public transport reaching Etna's south base. Route commonly referenced as line 607. Only 3 principal stops are published/evidenced (Catania Piazza Papa Giovanni XXIII in front of Catania Centrale station; Nicolosi town centre; terminus Rifugio Sapienza/Piazzale Cantoniera at ~1900 m). AST does not publish the intermediate SP92 halts, so none were invented.\n\nSchedule (cross-confirmed across guidetna, guidevulcanologicheetna, apartmentincatania, nicolosietna sources): OUTBOUND Catania 08:15 → Nicolosi ~09:05 → Rifugio Sapienza ~10:00–10:15. RETURN Rifugio Sapienza 16:30 → Nicolosi ~17:30 → Catania ~18:30 (~2h drive). A documented summer supplementary outbound (Catania 11:00) is included as a second outbound trip on the same everyday service (nicolosietna.it lists a Catania 11:00 dep / 13:30 arr). Round-trip fare €6.60, bought on board.\n\nService: runs every day except 25 Dec, 1 Jan, 1 May, 15 Aug and Easter Sunday — modelled here as a daily (7-day) calendar; the ~4–5 holiday exceptions per year are not encoded as calendar_dates and would be a minor faithfulness gap.\n\nCoordinates WGS-84: Catania Piazza Papa Giovanni XXIII 37.5066,15.0997 (Catania Centrale square); Nicolosi centro 37.6147,15.0263 (OSM village node); Rifugio Sapienza 37.70028,14.99853 (Wikidata Q3935621 / OSM). Return-direction stop_times use the same physical stop IDs in reverse order with the published return clock times.\n\nConfidence 0.62: endpoints, ordering, both directions, principal times and service days are well-evidenced for this heavily-documented tourist line; deductions for the omitted intermediate SP92 stops, approximate (rounded) intermediate/arrival times, and the unencoded holiday exceptions. The official astsicilia.it PDF and astorario.onrender.com could not be fetched (self-signed TLS / HTTP 503) so exact minute-level intermediate timings are inferred from consistent secondary sources.",
+  "source": "llm-normalized"
+}

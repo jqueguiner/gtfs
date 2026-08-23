@@ -1,0 +1,14 @@
+{
+  "operator": "Minimetro S.p.A. (Perugia people mover)",
+  "city": "Perugia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 7,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 42
+  },
+  "notes": "Single automatic cable-drawn people-mover line (Leitner), 3,027 m, 7 stations, Pian di Massiano <-> Pincetto. Order confirmed via minimetrospa.it/percorso-e-stazioni and it.wikipedia: Pian di Massiano, Cortonese, Madonna Alta, Fontivegge, Case Bruciate, Cupa, Pincetto. Coordinates WGS-84 from OSM (Nominatim 'Minimetrò' funicular nodes) + Wikidata for terminals: terminals Pian di Massiano (43.1090,12.3608) and Pincetto (43.1102,12.3906) cross-checked with Wikidata Q335828; Fontivegge is adjacent to Perugia Fontivegge rail station. route_type=1 (metro) chosen as the closest GTFS-required type for a grade-separated automatic people mover (true GTFS extended type would be 1400 funicular). Operating hours from minimetrospa.it main page: weekdays 07:00-21:05, Sun/holidays 09:00-20:45; Saturdays extended to ~01:05 through Dec 2026. Headway ~1.5-2.5 min (Wikipedia ~1.5 min, site ~2'30 avg) -- too frequent to enumerate every run, so one representative first-departure trip per direction per service is provided with realistic ~2 min/hop times (full line ~12 min). NOTE: maintenance closure Aug 3-23 2026 (not modeled as calendar_dates exception). Confidence 0.72: stops/order/coords and hours are well-evidenced; per-trip departure enumeration is a headway-based representative sample, not the full published run list; Fontivegge/Cupa exact platform points inferred from line ordering + nearest OSM funicular node.",
+  "source": "llm-normalized"
+}

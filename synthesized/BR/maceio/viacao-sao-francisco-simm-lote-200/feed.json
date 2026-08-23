@@ -1,0 +1,14 @@
+{
+  "operator": "Viação São Francisco — SIMM Lote 200",
+  "city": "Maceió",
+  "cc": "BR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 67,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 99
+  },
+  "notes": "Line 0202 = \"CIRCULAR II\" scraped VERBATIM from SMTT Maceió itinerario.jsf (numeroLinha=0202): 54 ordered ida stops + 45 ordered volta stops. Operator: the SMTT portal labels 0202 as \"VELEIRO\", but corroborating sources (maceio.al.gov.br SIMM page, tnh1, gazetaweb) confirm SIMM Lote 200 (Fernão Velho, blue) is operated by Viação São Francisco and uses the 200-series numbering (201=Circular I, 202=Circular II); the VELEIRO label reflects the portal's stale operator field after Veleiro's Lote 300 lines were reassigned. Stop ordering/names are authoritative from SMTT. COORDINATES: automated geocoding was unavailable in this environment — Nominatim returned HTTP 429 (shared-IP rate limit) and Overpass endpoints were unreachable/500. 13 of 67 unique stops (major terminals, malls, cemetery, named avenues) were assigned known WGS-84 coordinates from established Maceió landmark positions; the remaining 54 minor street-corner stops are left null rather than invented. SCHEDULE: SMTT itinerario.jsf provides no timetable (horários not published on the itinerary page), so stop_times use an even ~2-min inter-stop cadence from a representative early-morning start (ida 05:00, volta 06:00) — realistic clock times but NOT the operator's published schedule. Calendar: weekday service (Mon–Fri) as a representative service window; actual Sat/Sun operation not confirmed. This is a BUS operator (route_type 3); no metro/rail/BRT lines apply. Confidence 0.5: stop list + ordering are real and sourced; operator attribution is well-corroborated; coordinates are partial and schedule times are synthetic (headway-based).",
+  "source": "llm-normalized"
+}

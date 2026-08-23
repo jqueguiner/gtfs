@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio Urbanus",
+  "city": "Teresina",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 22,
+    "routes": 17,
+    "trips": 42,
+    "stop_times": 146
+  },
+  "notes": "Bus-only operator (Consórcio Urbanus / SETUT), zona Leste-Norte of Teresina, PI. All routes route_type=3 — Teresina has NO metro/light-rail/BRT for this operator (the local \"METRÔ\" is a separate diesel line run by CMTP, and the Timon-Teresina ferry is separate; neither is Urbanus). OSM effectively empty for these lines. 17 routes evidenced by name (Moovit line index + STRANS + SETUT integration list): 245, 365, 401, 402, 403, 404, 405, 501, 502, 503, 512, 513, 518, 521, 522, 523, 610.\n\nFIDELITY BY ROUTE: Line 610 (Três Andares - Cidade Nova/Monte Castelo) is HIGH fidelity — real published SETUT departure times (weekday/Saturday/Sunday from horariodeonibus.net) and a real named-stop ordering (Terminal dos Três Andares → Cidade Nova/Av. Gil Martins → Itararé → Av. Barão de Castelo Branco → Frei Serafim/Parque da Cidadania → Centro → Praça da Bandeira → Monte Castelo). Operator of 610 confirmed as Consórcio Urbanus (empresa Santana). The other 16 routes have CORRECT names, endpoints and \"via\" corridors, but intermediate stops and clock times are INFERRED on an even headway across the real system service window (weekday 05:00-22:00 hw~20min; Sat 05:30-21:00 hw~30; Sun 06:00-20:00 hw~45), because Moovit per-line stop pages are JS-rendered and could not be fetched (WebFetch returned empty; bus2.info rate-limited HTTP 429). Real named stop lists per line (e.g. 405=144 stops, 610=51 stops) exist on Moovit but were not machine-readable here.\n\nCOORDINATES: WGS-84. Central stops are grounded (Praça da Bandeira from Wikidata Q10353414; Frei Serafim/Parque da Cidadania from Av. Frei Serafim 110; Terminal dos Três Andares from IBGE CEP 64017-780). Zona-Leste anchors (Vila Bandeirante, Socopo, Satélite, Pedra Mole, Vale do Gavião, Nova Teresina, etc.) are bairro-level approximations, not surveyed stop points. Full-day expanded feed (3458 trips / 13038 stop_times) written to disk at /home/ubuntu/adresses/gtfs_urbanus_teresina/ (agency/stops/routes/trips/stop_times/calendar .txt); the payload here carries a representative subset (one trip per route+direction plus several real-schedule 610 trips). To raise confidence, ingest the SEMPLAN/PMT 'Paradas de Ônibus' GIS layer for exact stop coordinates and the per-line Moovit stop sequences + SETUT quadro-de-horário PDFs for the remaining 16 lines.",
+  "source": "llm-normalized"
+}

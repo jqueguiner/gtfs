@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Integração Transportes",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Cuiabá"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/cuiaba/integracao-transportes/gtfs/",
+    "mdb_id": "br-llm-integracao-transportes",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

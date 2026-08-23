@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consórcio Urbanus",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Teresina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/teresina/consorcio-urbanus/gtfs/",
+    "mdb_id": "br-llm-consorcio-urbanus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Bergamo Trasporti Est / Ovest / Sud (suburban consortia; operated by Arriva Italia, SAB Autoservizi, SAV Visinoni, SAI Autolinee, Autoservizi Locatelli)",
+  "city": "Bergamo",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 115,
+    "routes": 5,
+    "trips": 7,
+    "stop_times": 142
+  },
+  "notes": "Built from the bergamotrasporti.it printable PDF timetables (edition valid 9 Jun - 13 Sep 2026; line A PDF referenced the 2025 summer edition). The five provided line PDFs (BS1, C, A, M, U) all carried an extractable text layer (pdftotext), so stop sequences and clock times were read directly from the printed grids - no OCR needed. The line index page lists ~90 suburban line codes across the three consortia (Est/Ovest/Sud); only the 5 PDFs given as sources were built into trips, so this feed is a representative sample, not the full network. Each of the 5 routes has one representative outbound trip at real timetabled clock times; lines C and U additionally have a return trip (their PDFs printed both andata/ritorno grids). route_type=3 (bus) for all - these are suburban/interurban bus lines, no metro/rail/tram in the sourced lines. Stop coordinates are municipality centroids (WGS-84) from Wikipedia/Wikidata/geodatos, with small deterministic per-stop offsets where several stops share one municipality; they are town-accurate (~within a few hundred m of the true stop) rather than surveyed stop points, which is the main confidence limiter. The OSM route-relation extraction of exact stop nodes/shapes described in the brief was not performed (no Overpass access in this run); stop names/sequences instead come straight from the PDF headers. For line M the printed Morengo/Bariano/Fornovo branch stops were dropped from the representative trip (they belong to a separate routing column) to keep a single monotonic through-trip Bergamo->Cologno->Mozzanica->Crema. All 142 stop_times are time-monotonic and referentially clean (no orphan stop/route/trip refs). Calendar: 'weekday' service Mon-Fri, 'daily' service Mon-Sat (FER = every day except Sun/holidays), both 20260609-20260913. Files written to /home/ubuntu/adresses/gtfs_bergamo/ (agency.txt, stops.txt, routes.txt, trips.txt, stop_times.txt, calendar.txt; build.py is the generator).",
+  "source": "llm-normalized"
+}

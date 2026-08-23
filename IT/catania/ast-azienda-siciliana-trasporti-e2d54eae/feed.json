@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AST — Azienda Siciliana Trasporti",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Catania"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/catania/ast-azienda-siciliana-trasporti/gtfs/",
+    "mdb_id": "it-llm-ast-azienda-siciliana-trasporti",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

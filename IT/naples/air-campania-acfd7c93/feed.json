@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AIR Campania",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Naples"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/naples/air-campania/gtfs/",
+    "mdb_id": "it-llm-air-campania",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

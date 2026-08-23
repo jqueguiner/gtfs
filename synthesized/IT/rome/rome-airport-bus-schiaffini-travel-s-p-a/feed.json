@@ -1,0 +1,14 @@
+{
+  "operator": "Rome Airport Bus (Schiaffini Travel S.p.A.)",
+  "city": "Rome",
+  "cc": "IT",
+  "confidence": 0.78,
+  "counts": {
+    "stops": 3,
+    "routes": 2,
+    "trips": 20,
+    "stop_times": 40
+  },
+  "notes": "Direct airport-shuttle operator Schiaffini Travel S.p.A. Two non-stop routes, both terminating at Roma Termini / Via Giovanni Giolitti (in front of Mercato Centrale). Route FCO: Fiumicino Airport Terminal 3 coach station (arrivals, stand 15/19) <-> Roma Termini, ~50 min, timetable to Mar 2025 from romeairportbus.it. Route CIA: Ciampino Airport bus terminal <-> Roma Termini, ~40 min, timetable updated 13 Jul 2026 (via Moovit/operator). Both non-stop (only origin+destination stops each direction). Full published departure times were used to build multiple representative trips per direction (not a synthetic even headway). Stop coordinates: Ciampino bus terminal from OSM node 262146095 (41.79916,12.59059, WGS-84); Roma Termini Via Giolitti curbside ~41.9008,12.5035; Fiumicino T3 coach station ~41.7999,12.2462 (T3 arrivals coach bay). Arrival times at destination computed from departure + published journey duration (50 min FCO, 40 min CIA). Confidence 0.78: routes/stops/times are well-evidenced and directly published; minor uncertainty on exact curbside lat/lon of the two Termini/FCO coach bays and on the FCO timetable being slightly dated (Mar 2025). No intermediate stops exist (direct service), so stop lists are complete. Sources: romeairportbus.it timetables + Fiumicino shuttle schedule page; Moovit line 858655; ADR Aeroporti di Roma stand list; OSM/Wikipedia for coordinates.",
+  "source": "llm-normalized"
+}
