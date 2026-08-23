@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Feira de Santana",
+  "city": "Feira de Santana",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 12,
+    "routes": 2,
+    "trips": 12,
+    "stop_times": 78
+  },
+  "notes": "Sources: PMFS/prefeitura news (idn=27977), brtdata.org (18.95 km, 2 corridors, 16 stations + 3 terminals, avg spacing 585.91 m, SMTT regulator), Moovit, plus WebSearch of Acorda Cidade / Diario do Transporte / Waze. WELL-EVIDENCED: two trunk corridors (Linha 1 = Av. Getulio Vargas; Linha 2 = Av. Joao Durval Carneiro / Av. Ayrton Senna), the three transbordo terminals (Noide Cerqueira next to Shopping Avenida, Pampalona, Ayrton Senna), Terminal Central downtown, operating hours 06:00-21:00 (from the assisted-operation announcement), and ~10-min headways at terminals (Ayrton Senna). CONFIRMED STATION NAME: Estacao BRT Maria Quiteria on Av. Getulio Vargas (Waze). NOT PUBLISHED: no official ordered station-by-station list with names exists in the sources; brtdata gives counts only (6 stations Terminal Central->end of Getulio Vargas, 4 more on Joao Durval). Coordinates were DIGITIZED along the documented, fixed avenue alignments radiating NE/N from Feira de Santana Centro (-12.250,-38.950) using WGS-84; terminal + Maria Quiteria positions anchored to their known avenues, intermediate BRT station points interpolated along the corridors at ~500-860 m spacing (documented avg 586 m). OSM Overpass / Nominatim were unreachable from this environment, so exact station node coordinates could not be pulled; intermediate-station lat/lon are approximate (avenue-accurate, +/- a few hundred m along-corridor). Intermediate station NAMES other than terminals + Maria Quiteria are placeholders derived from the avenue/neighbourhood they sit on and should not be treated as official. Schedule uses 3 representative trips/direction/line (06:00 / 12:00 / 20:00 departures) over the daily 06:00-21:00 span at an even ~2-min inter-station hop; real published timetable is frequency-based, not a fixed clock timetable. Confidence 0.4: modes/corridors/terminals/hours/headway are real; per-station names+coords and exact trip times are reconstructed, not scraped from an official GTFS/timetable.",
+  "source": "llm-normalized"
+}

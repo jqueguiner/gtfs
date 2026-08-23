@@ -1,0 +1,14 @@
+{
+  "operator": "SINETRAM / IMMU consortium (Manaus city bus network — ACOP)",
+  "city": "Manaus",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 34,
+    "routes": 27,
+    "trips": 54,
+    "stop_times": 174
+  },
+  "notes": "Bus-only feed. METRO/RAIL check: Manaus has NO operating metro/monorail/BRT/rail — the 20km Manaus Monorail (9 stations, planned 2011-2014) was never built (construction never began; Wikipedia \"Manaus Monorail\" status = planned). So route_type is 3 (bus) for all. Route list (line numbers, terminals, directional variants) is REAL, scraped from Cittamobi (linhas.cittamobi.com.br IMMU page, GTFS-derived) — ~100+ lines exist across 3 pages; this feed includes 27 representative lines spanning all 5 integration terminals and all city zones (Centro/Sul, Norte T3/T4, Leste T5, Oeste). SINETRAM's own schedule page carries no timetable (redirects to Cademeuonibus/Mobilibus apps); onibusja and Moovit returned 403/empty. So per-stop clock times are NOT published in machine-readable form: stop_times use an even ~20-min headway pattern across realistic service hours (buses run ~05:00-24:00 daily; SINETRAM credit posts open 04:00-00:00) with ~4-min inter-node hops — these are synthesized, not observed. Stops are the integration terminals + key neighborhood/avenue nodes on each line's evidenced endpoint chain (from Cittamobi terminals), NOT full ordered street-level stop lists (per-line itinerary detail was not retrievable). Coordinates: WGS-84. 8 nodes have exact OSM/Nominatim coords (Terminal 2, Centro, Compensa, Coroado, Ponta Negra, Sao Raimundo, Educandos, Alvorada — fetched before Nominatim rate-limited us; Overpass was unreachable/HTTP000 from this sandbox). Remaining terminals (T1 Constantino Nery, T3 Noel Nutels/Cidade Nova, T4 Camapua/Jorge Teixeira, T5 Autaz Mirim/Sao Jose) and neighborhood nodes use documented avenue/neighborhood locations (accurate to ~within the correct bairro, roughly ±0.5-1km for a few). No invented stops — every node corresponds to a real Manaus place named in the Cittamobi line endpoints. Confidence 0.42 reflects: real network topology & terminals, but synthesized times and coarse (endpoint-level, not full-itinerary) stop sequences.",
+  "source": "llm-normalized"
+}

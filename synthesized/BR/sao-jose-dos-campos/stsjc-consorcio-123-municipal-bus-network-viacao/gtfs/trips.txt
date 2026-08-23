@@ -1,0 +1,43 @@
+route_id,service_id,trip_id,trip_headsign
+LV,WEEKDAY,LV_S_wd_1,Estação Sul
+LV,WEEKDAY,LV_N_wd_1,Estação Maurício Cury (Centro)
+LV,SAT,LV_S_sat_1,Estação Sul
+LV,SAT,LV_N_sat_1,Estação Maurício Cury (Centro)
+LV,WEEKDAY,LV_RS_wd_1,Estação Sul (via Rodoviária)
+LV,WEEKDAY,LV_RN_wd_1,Estação Vila Bandeirantes (Rodoviária)
+101,WEEKDAY,101_tc_wd_1,Terminal Central
+101,WEEKDAY,101_br_wd_1,Bairro Rio das Cobras
+101,SAT,101_tc_sat_1,Terminal Central
+101,SAT,101_br_sat_1,Bairro Rio das Cobras
+101,SUN,101_tc_sun_1,Terminal Central
+101,SUN,101_br_sun_1,Bairro Rio das Cobras
+130,WEEKDAY,130_sjc_wd_1,São José dos Campos
+130,WEEKDAY,130_sjc_wd_2,São José dos Campos
+130,WEEKDAY,130_sjc_wd_3,São José dos Campos
+130,WEEKDAY,130_sjc_wd_4,São José dos Campos
+130,WEEKDAY,130_sjc_wd_5,São José dos Campos
+130,WEEKDAY,130_sfx_wd_1,São Francisco Xavier
+130,WEEKDAY,130_sfx_wd_2,São Francisco Xavier
+130,WEEKDAY,130_sfx_wd_3,São Francisco Xavier
+130,WEEKDAY,130_sfx_wd_4,São Francisco Xavier
+130,SAT,130_sjc_SAT_1,São José dos Campos
+130,SAT,130_sjc_SAT_2,São José dos Campos
+130,SAT,130_sjc_SAT_3,São José dos Campos
+130,SAT,130_sjc_SAT_4,São José dos Campos
+130,SAT,130_sfx_SAT_1,São Francisco Xavier
+130,SAT,130_sfx_SAT_2,São Francisco Xavier
+130,SAT,130_sfx_SAT_3,São Francisco Xavier
+130,SUN,130_sjc_SUN_1,São José dos Campos
+130,SUN,130_sjc_SUN_2,São José dos Campos
+130,SUN,130_sjc_SUN_3,São José dos Campos
+130,SUN,130_sjc_SUN_4,São José dos Campos
+130,SUN,130_sfx_SUN_1,São Francisco Xavier
+130,SUN,130_sfx_SUN_2,São Francisco Xavier
+130,SUN,130_sfx_SUN_3,São Francisco Xavier
+225,WEEKDAY,225_c_wd_1,Centro (Santa Casa)
+225,WEEKDAY,225_c_wd_2,Centro (Santa Casa)
+225,WEEKDAY,225_c_wd_3,Centro (Santa Casa)
+225,WEEKDAY,225_b_wd_1,Galo Branco
+225,WEEKDAY,225_b_wd_2,Galo Branco
+225,WEEKDAY,225_b_wd_3,Galo Branco
+500,SUN_WED_FRI,500_c_1,Centro / Rodoviária

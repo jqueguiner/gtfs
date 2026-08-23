@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTCP - Consórcio de Transporte Coletivo de Pelotas (urban network, umbrella)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Pelotas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/pelotas/ctcp-consorcio-de-transporte-coletivo-de-pelotas/gtfs/",
+    "mdb_id": "br-llm-ctcp-consorcio-de-transporte-coletivo-de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Trenitalia Regionale - Abruzzo (Pescara Centrale hub)",
+  "city": "Pescara",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 14,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 60
+  },
+  "notes": "Regional rail feed for the Trenitalia Regionale hub at Pescara Centrale, Abruzzo (IT). Two representative regional routes are modelled, each with both directions:\n- R1 Pescara Centrale <-> Sulmona: the Abruzzo segment of the Rome-Sulmona-Pescara railway (Pescara Porta Nuova, Chieti, Manoppello, Alanno, Scafa-San Valentino, Popoli-Vittorito, Sulmona).\n- R2 Teramo <-> Pescara Centrale: Teramo-Giulianova branch + Adriatic coast (Teramo, Mosciano Sant'Angelo, Giulianova, Roseto degli Abruzzi, Pineto-Atri, Silvi, Pescara Centrale). Sources report ~72 min Teramo->Pescara over ~11 stops; times built around that.\n\nSTATION LIST & ORDER: from Wikipedia Rome-Sulmona-Pescara railway route map + Pescara Centrale / Chieti station pages, and Trenitalia/RFI regional service descriptions (Teramo-Giulianova-Pescara-Chieti-Sulmona-Avezzano; Rimini-...-Pescara Adriatic).\nCOORDINATES: WGS-84 from Wikipedia/Wikidata station entries (Pescara Centrale 42.46778/14.20417; Chieti 42.35694/14.13833; Sulmona 42.06083/13.90750; Popoli-Vittorito 42.17237/13.82613; Scafa 42.26737/13.99833; Pescara Porta Nuova 42.45722/14.21194; Roseto 42.68111/14.01528; Pineto-Atri 42.60765/14.06874; Mosciano 42.71046/13.90848). Manoppello (Scalo), Alanno (Scalo), Giulianova and Silvi use OSM/town-scalo WGS-84 positions on the line (Wikidata gave town-level or DMS-only), accurate to a few hundred m.\n\nSCHEDULE FIDELITY: The requested PDF timetable was not machine-readable via the given sources; exact published clock times were not extracted. Service times are REALISTIC even ~hourly headways across a ~06:00-21:00 service span, anchored to the sourced ~72 min Teramo-Pescara run time and typical regional inter-station spacings - NOT the exact Trenitalia timetable. Hence confidence 0.55: route topology, stop order and coordinates are well-evidenced; individual departure minutes are synthesized. calendar = daily (regional service runs 7 days, with reduced frequency on weekends in reality; modelled as everyday for the representative trips).\n\nNo stops were invented - every stop is an evidenced station on these two lines.\nSources: en.wikipedia.org/wiki/Rome-Sulmona-Pescara_railway ; en.wikipedia.org/wiki/Pescara_Centrale_railway_station ; en.wikipedia.org/wiki/Chieti_railway_station ; Wikidata Q3971055/Q3970553/Q16609875/Q3970720/Q20009824/Q3970445 ; trenitalia.com regional-abruzzo.",
+  "source": "llm-normalized"
+}

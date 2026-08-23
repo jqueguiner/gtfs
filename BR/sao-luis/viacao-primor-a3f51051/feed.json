@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Primor",
+    "country": "BR",
+    "subdivision": null,
+    "city": "São Luís"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/sao-luis/viacao-primor/gtfs/",
+    "mdb_id": "br-llm-viacao-primor",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

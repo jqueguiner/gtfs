@@ -1,0 +1,14 @@
+{
+  "operator": "Tram di Opicina (Trieste-Opicina tramway, Line 2, Trieste Trasporti)",
+  "city": "Trieste",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 24
+  },
+  "notes": "Trieste-Opicina tramway (line 2, \"Tram di Opicina\"), operated by Trieste Trasporti, reactivated 2025. Route + ordered stops taken directly from the operator (triestetrasporti.it linea-2-tram) and tplfvg.it/servizi/tramopicina: Opicina (stazione trenovia) <-> piazza Dalmazia, 13 stops. NOTE: the current lower terminus is piazza Dalmazia (temporary during Piazza Oberdan redevelopment), NOT piazza Oberdan/Villa Opicina as the task brief stated; sources are authoritative. Real full-service headway is ~28 min (3-vehicle operation), NOT 20 min. Timetable from Il Piccolo / TriesteAllNews reporting the orario in vigore dal 20 luglio 2026: departures from Opicina 07:00,07:28,...,20:04; first from p. Dalmazia 07:22, last 20:26; daily Mon-Sun 07:00-20:00; ~30 min travel time. piazza Casali is \"momentaneamente non attiva\" and is excluded from stop_times (kept as a stop record with a note in name). Route_type=0 (tram; the line is a tram/funicular hybrid but classified as urban tram line 2). Stop coordinates are WGS-84: termini (piazza Dalmazia ~45.6540/13.7752, Opicina stazione trenovia ~45.6870/13.7889) and Obelisco (45.68045/13.78080) from Wikipedia/geo sources/OSM; intermediate stops interpolated along the well-mapped historic single-track corridor (OSM tram relation) and are approximate (+/- ~150 m). Two representative trips (one per direction) at first departures; even ~28-min headway could be expanded to the full 29-run day. Confidence 0.72: route order and schedule are well-evidenced; intermediate stop coordinates are approximate.",
+  "source": "llm-normalized"
+}

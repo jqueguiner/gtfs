@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Volkmann",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Blumenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/blumenau/volkmann/gtfs/",
+    "mdb_id": "br-llm-volkmann",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

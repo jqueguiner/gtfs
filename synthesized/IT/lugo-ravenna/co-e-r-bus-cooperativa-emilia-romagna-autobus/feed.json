@@ -1,0 +1,14 @@
+{
+  "operator": "CO.E.R.Bus (Cooperativa Emilia Romagna Autobus)",
+  "city": "Lugo / Ravenna",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 30,
+    "routes": 3,
+    "trips": 5,
+    "stop_times": 78
+  },
+  "notes": "Built from the official Start Romagna \"Libretto Inverno 25/26 - Bacino Ravenna\" PDF (METE/START integrated network), which itemises CO.E.R.Bus-operated lines. Three lines modelled: (1) Line 177 Lavezzola-Lugo-Faenza and (2) Line 178 Lavezzola-Lugo, both with the exact ordered stop lists and real clock times transcribed from the timetable tables (one representative trip per direction: 177 uses the 05:40 Lavezzola->Faenza run and 07:00 Faenza->Lavezzola run; 178 uses the 09:00 out / 10:00 return runs). (3) Line 59 \"MercaBus Lugo\" is the Lugo urban market-day shuttle: the PDF gives it as a FREQUENCY service (every 15 min, 07:30-13:00, Wednesdays only, serving Cimitero car park, Piazza Garibaldi, Ospedale, Stadio car park, Piazza XIII Giugno) - modelled as an even-headway single loop trip; its 5 intermediate stop coordinates are approximate town-centre/landmark estimates. Stop coordinates: railway-station and comune stops (Lugo FS, Massa Lombarda Stazione, Cotignola, Granarolo, Faenza FS, Lavezzola, Conselice, Sant'Agata, Giovecca) are WGS-84 from Wikipedia/Wikidata/OSM; intra-Lugo minor stops (Punto Bus, Foro Boario, Ospedale, Cimitero, Bar del Mulino, Piazza Garibaldi) and small frazione stops (Frascata, San Patrizio, v.Gardizza-Unigra) are estimated near the town centre / along the corridor - marked approximate. Overpass/direct HTTP was blocked in the sandbox so a few minor stops were geocoded by interpolation; none are invented (all appear in the PDF timetable). Service period 2025-09-15..2026-06-06 per booklet. Confidence held mid-range because: stop times are exact from the source but only one trip/direction/line is modelled (not the full daily set), and several minor-stop coordinates are estimates. The coerbus.it page carried no route detail (redirects to startromagna.it); the Start Romagna 'Fermate RA' SOAP webservice was not reachable from this environment, so OSM/Wikidata was used for stop geocoding as the documented fallback.",
+  "source": "llm-normalized"
+}

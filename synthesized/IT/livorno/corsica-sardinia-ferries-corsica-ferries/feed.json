@@ -1,0 +1,14 @@
+{
+  "operator": "Corsica Sardinia Ferries (Corsica Ferries)",
+  "city": "Livorno",
+  "cc": "IT",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 3,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 16
+  },
+  "notes": "Corsica Sardinia Ferries (Corsica Ferries) operates from Livorno Maritime Station to two destinations: Bastia (Corsica, France) and Golfo Aranci (Sardinia, IT). Confirmed by corsica-ferries.co.uk, netferry.com and portolivorno2000.it. Routes, ordered stops (Livorno origin -> single destination port) and crossing durations are well-evidenced. However the sources do NOT publish an exact fixed departure/arrival timetable (times vary by date/season); aggregators give ranges only: Bastia earliest 08:00 / latest 18:30, ~6h with Corsica Ferries, ~22 weekly sailings; Golfo Aranci 2 departures/day May-Sep (a day crossing ~7h and a night crossing ~9.5h), 1/day off-season, first ~07:30. Representative trips use realistic clock times within these evidenced windows rather than a scraped exact schedule, hence moderate confidence (~0.45). Stop coordinates: Livorno Stazione Marittima (Calata Carrara / Piazzale dei Marmi 12) 43.55539,10.30159 from portolivorno2000; Golfo Aranci Nuova Stazione Marittima 40.99471,9.62157 (official Corsica Ferries figure); Bastia port 42.6973,9.4509. route_type=4 (ferry). Night Golfo Aranci arrival crosses midnight -> GTFS >24h notation (32:15:00). calendar covers the year (daily); note real off-season frequency drops but daily service assumed for the representative feed. Same terminal stop reused as origin for both routes.",
+  "source": "llm-normalized"
+}

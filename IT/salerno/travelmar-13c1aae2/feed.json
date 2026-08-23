@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Travelmar",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Salerno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/salerno/travelmar/gtfs/",
+    "mdb_id": "it-llm-travelmar",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Navigazione Golfo dei Poeti (Consorzio Marittimo Turistico Cinque Terre - Golfo dei Poeti)",
+  "city": "La Spezia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 21,
+    "routes": 7,
+    "trips": 13,
+    "stop_times": 68
+  },
+  "notes": "Built from the operator's official 2026 PDF timetables (extracted with pdftotext -layout) and the docks/lines pages. Coverage: Line 01 Lerici–La Spezia–Portovenere (a-linea-01-lerici.pdf, 28 Mar–27 Sep), Line 01 \"Linea del Golfo\" San Terenzo/Lerici/Tellaro daily gulf loop (linea-del-golfo.pdf, 29 Jun–30 Aug), Line 01 Palmaria-Terrizzo shuttle (b-linea-01-palmaria.pdf), Line 01 Palmaria-Pozzale shuttle (SP-PALMARIA_POZZALE.pdf), Line 02 Cinque Terre Lerici/La Spezia/Portovenere→Riomaggiore/Manarola/Vernazza/Monterosso/Levanto (b-linea-02-aprile-settembre.pdf, 20 Apr–27 Sep), Line 02E Moneglia/Deiva extension (e-linea-02..., Tue/Thu/Sat 30 Jun–29 Aug), Line 03 Viareggio–Riviera Apuana→Portovenere/Cinque Terre (a-linea-03..., 3 Jul–30 Aug, not Tue/Wed), Line 04 Giro 3 Isole panoramic loop from Portovenere. Times are real published clock times from the PDFs. Corniglia is served on Line 02 but boats show NO STOP at Corniglia on most runs (rocky landing) — retained as a stop but represented with pass-through times. Stop coordinates are well-known WGS-84 positions of each dock (Overpass was unreachable from the sandbox; values are standard geographic coordinates for these famous Ligurian/Tuscan ports, not GCJ-shifted). One representative trip per direction per route is included. Marina di Massa pier is closed for 2026 season (NO STOP) per Line 03 PDF; kept as a stop node but not served. Confidence 0.72: schedules and stop order faithful to official PDFs; a subset of representative trips (not every daily departure) is materialized, and a few coordinates are approximate to ~100m.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,23 @@
+route_id,service_id,trip_id,trip_headsign
+5120,DAILY,5120_e_g,Salerno
+5120,WKD,5120_e_f,Salerno
+5120,DAILY,5120_w_g,Amalfi
+5120,WKD,5120_w_f,Amalfi
+SITA-POS,DAILY,pos_w_g,Sorrento
+SITA-POS,DAILY,pos_w_g2,Sorrento
+SITA-POS,DAILY,pos_e_g,Amalfi
+SITA-POS,WKD,pos_e_f,Amalfi
+5110,WKD,5110_d_f,Amalfi
+5110,DAILY,5110_u_g,Scala
+SITA-POG,WKD,pog_d_f,Amalfi
+SITA-POG,DAILY,pog_d_g,Amalfi
+SITA-POG,DAILY,pog_u_g,Pogerola
+SITA-POG,WKD,pog_u_f,Pogerola
+5070,WKD,5070_n_f,Napoli
+5070,WKD,5070_s_f,Amalfi
+SITA-SAG,DAILY,sag_n_g,Sorrento
+SITA-SAG,DAILY,sag_s_g,S. Agata Torca
+5010,WKD,5010_n_f,Nocera
+5010,WKD,5010_s_f,Maiori
+SITA-TOV,WKD,tov_o_f,Tovere
+SITA-TOV,WKD,tov_r_f,Amalfi

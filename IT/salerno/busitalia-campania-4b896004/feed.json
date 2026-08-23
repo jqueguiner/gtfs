@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Busitalia Campania",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Salerno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/salerno/busitalia-campania/gtfs/",
+    "mdb_id": "it-llm-busitalia-campania",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

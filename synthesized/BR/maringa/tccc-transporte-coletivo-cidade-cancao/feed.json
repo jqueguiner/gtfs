@@ -1,0 +1,14 @@
+{
+  "operator": "TCCC - Transporte Coletivo Cidade Canção",
+  "city": "Maringá",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 67,
+    "routes": 90,
+    "trips": 2,
+    "stop_times": 74
+  },
+  "notes": "Stops, route topology and ordered stop sequences come from OpenStreetMap bus-route relations for Maringá filtered to operator \"Transporte Coletivo Cidade Canção\"/\"Cidade Verde\" (231 direction-relations, 91 unique lines, 2,317 unique stop nodes all with WGS-84 coordinates — matching Moovit's ~2,316 figure). Coordinates are accurate OSM WGS-84. Route list corroborated against horariodeonibus.net and Moovit. The FULL feed (87 routes, 164 trips both directions, 2,317 stops, 5,435 stop_times) is saved to /home/ubuntu/adresses/mga_output.json. This structured payload inlines: all 87 routes (route names verified), the agency, a DAILY calendar, and ONE fully-worked line at complete fidelity — line 233 \"Conjunto Guaiapó\", both directions (67 stops, 74 stop_times), whose street sequence (Terminal Intermodal -> Av. Duque de Caxias -> Av. Colombo -> Av. Guaiapó) matches the aggregator itinerary. Confidence is capped at 0.62 because: (1) real per-line departure times/headways are NOT published per line by TCCC — the aggregators only give operating-hour windows and a flat fare (R$4.50); stop_times therefore use a representative 07:00 start with an even ~2-min inter-stop spacing rather than the true timetable; (2) only line 233's stop_times are inlined here (the other 86 routes' full stop_times are in mga_output.json but not inlined due to payload size). Maringá has NO metro/rail/BRT — it is a bus-only municipal + metropolitan network, so route_type=3 throughout. No stops were invented; every stop is an OSM node. Timezone America/Sao_Paulo.",
+  "source": "llm-normalized"
+}

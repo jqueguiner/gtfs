@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TUA - Trasporto Unico Abruzzese (Urbano Pescara)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Pescara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/pescara/tua-trasporto-unico-abruzzese-urbano-pescara/gtfs/",
+    "mdb_id": "it-llm-tua-trasporto-unico-abruzzese-urbano-pes",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

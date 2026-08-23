@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BRT Sorocaba (MobiBrasil)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Sorocaba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/sorocaba/brt-sorocaba-mobibrasil/gtfs/",
+    "mdb_id": "br-llm-brt-sorocaba-mobibrasil",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

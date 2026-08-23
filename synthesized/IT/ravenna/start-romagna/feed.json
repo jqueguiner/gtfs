@@ -1,0 +1,14 @@
+{
+  "operator": "Start Romagna",
+  "city": "Ravenna",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 55,
+    "routes": 6,
+    "trips": 28,
+    "stop_times": 150
+  },
+  "notes": "Ravenna-basin (RA) feed for Start Romagna, winter timetable valid 2025-09-15 to 2026-06-06 (source: official Libretto_Inverno-25-26_RA PDF, 212pp). Coverage is a faithful REPRESENTATIVE subset, not the full 100-line network: the open-data SOAP WebService (servizi.startromagna.it/opendata, CC-BY 3.0 IT) provides authoritative stop names + fare zones (2828 stops) and the full line list (100 lines) BUT no coordinates and NO route->ordered-stop mapping, so a complete feed cannot be reconstructed from it. Built 6 well-evidenced routes: (1) Traghetto/Candiano ferry Marina di Ravenna<->Porto Corsini, route_type=4 -- real service window 05:00-00:30 winter every ~15' per PDF, modelled as 79 trips/direction daily; (2) urban Ravenna Line 1 -- FULL ordered stop list + REAL clock times transcribed from the PDF timetable, both directions, FERIALE (Mon-Sat); (3) Line 70 litorale and (4) Line 90 litorale -- termini + key stops from PDF, geocoded via Nominatim; (5) Faenza Line 51 and (6) Faenza Line 52 -- ordered stop geometry + WGS-84 coords from OSM route=bus relations (operator=Start Romagna, rel 17531417/15920742), stop times synthesized as even 2-3'/stop headway across published service hours.\n\nCoordinates: Ravenna/Faenza/ferry stops geocoded via OSM Nominatim (WGS-84); Faenza 51/52 coords are exact OSM platform nodes. A few central-Ravenna Line 1 stops without a clean geocode (v.Vicoli, Cinema City, Baldini, Ostello, poggi, stradone) use approximate coords interpolated within the corridor (all within 44.0-44.7N,11.7-12.5E province bbox). Faenza intermediate stops carry generic 'Faenza L51/L52 stop N' names because OSM platform nodes are unnamed and could not be reliably joined to the open-data stop dictionary; termini are correctly named.\n\nData acquisition notes: overpass-api.de / kumi / WebFetch could not reach Overpass (network-blocked in sandbox); overpass.openstreetmap.fr was the only working interpreter. Open-data .aspx pages redirect to landing pages; real data is at Opendata.asmx/{FERMATE_RA,LINEE_RA,LOCALITA_RA}_JSON. Not built: the ~90 other lines (extraurbano Lugo/Alfonsine/Cervia, Navetto Mare 65/66/67, night lines) -- evidenced in PDF/open-data but omitted for scope. Confidence 0.55: ferry hours + Line 1 stop order/times are high-fidelity; Faenza geometry high-fidelity coords but generic names + synthetic times; litorale lines coarse; overall network coverage ~6/100 lines.",
+  "source": "llm-normalized"
+}

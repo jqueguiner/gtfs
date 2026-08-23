@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Conerobus S.p.A.",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Ancona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/ancona/conerobus-s-p-a/gtfs/",
+    "mdb_id": "it-llm-conerobus-s-p-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

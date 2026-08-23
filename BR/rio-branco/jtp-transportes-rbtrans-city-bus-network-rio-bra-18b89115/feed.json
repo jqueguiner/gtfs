@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JTP Transportes (RBTrans city bus network, Rio Branco/AC)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Rio Branco"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/rio-branco/jtp-transportes-rbtrans-city-bus-network-rio-bra/gtfs/",
+    "mdb_id": "br-llm-jtp-transportes-rbtrans-city-bus-network",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

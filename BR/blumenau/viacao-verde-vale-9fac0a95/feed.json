@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Verde Vale",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Blumenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/blumenau/viacao-verde-vale/gtfs/",
+    "mdb_id": "br-llm-viacao-verde-vale",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "SITA Sud (Sicurezza Trasporti Autolinee)",
+  "city": "Salerno",
+  "cc": "IT",
+  "confidence": 0.68,
+  "counts": {
+    "stops": 44,
+    "routes": 8,
+    "trips": 22,
+    "stop_times": 136
+  },
+  "notes": "Built from the SITA Sud \"ORARI COSTIERA ESTATE 2025\" PDF (valid 09/06/2025-14/09/2025), which contains full per-quadro stop sequences and clock times for the Amalfi Coast + Sorrentine peninsula network. The costiera PDF parsed cleanly with pdftotext -layout (the WebFetch small-model could not read the binary, so I extracted text locally). 8 routes modelled, all route_type=3 (bus): 5120 Amalfi-Maiori-Salerno, Amalfi-Positano-Sorrento, 5110 Scala/Ravello-Amalfi, Amalfi-Pogerola, 5070 Amalfi-Agerola-Gragnano-Castellammare-Napoli, Sant'Agata-Massa Lubrense-Sorrento, 5010 Maiori-Tramonti-Nocera, and Amalfi-Conca dei Marini-Tovere. Each route has >=1 representative trip per direction (22 trips total, 136 stop_times), using real published clock times from the PDF (a mix of the 8:00/9:00 daily and early feriale runs). Stop ordering follows the PDF quadro; spur/loop points that broke strict time monotonicity (Pontone, terminal-frazione arrivals) were trimmed or time-adjusted by <=15min so every trip is non-decreasing. Coordinates are WGS-84 from well-known OpenStreetMap geography of these towns (Amalfi Coast is very well mapped); OSM Overpass and Nominatim were unreachable/HTTP-429 from this sandbox, so coordinates were assigned from geographic knowledge rather than a live Overpass pull, hence they are town/stop-centroid accurate rather than exact bus-pole positions. Service codes mapped: F=Mon-Sat (WKD), H=Sun/holiday (SUN), G=daily (DAILY), L=Mon-Fri (MONFRI); the SUN and MONFRI calendars are defined but the representative trips only reference DAILY and WKD. The line-5001 (Salerno-Nocera-Napoli) and 5110/5070/5120 standalone PDFs were downloaded but the costiera booklet already supersedes their coastal content; the network has far more daily trips than the 22 representative ones encoded. Confidence 0.68: stop names, ordering and times are faithful to the official PDF; coordinates are OSM-grade town centroids not surveyed poles, and only a representative subset of the ~300 daily trips is included.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BRT Amazônia (BRT Metropolitano de Belém)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Belém"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/belem/brt-amazonia-brt-metropolitano-de-belem/gtfs/",
+    "mdb_id": "br-llm-brt-amazonia-brt-metropolitano-de-belem",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

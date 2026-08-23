@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consórcio Sorocaba",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Sorocaba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/sorocaba/consorcio-sorocaba/gtfs/",
+    "mdb_id": "br-llm-consorcio-sorocaba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

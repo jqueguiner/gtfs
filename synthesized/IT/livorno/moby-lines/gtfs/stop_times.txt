@@ -1,0 +1,13 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+OLB_day_out,09:30:00,09:30:00,LIV,1
+OLB_day_out,17:30:00,17:30:00,OLB,2
+OLB_day_ret,09:00:00,09:00:00,OLB,1
+OLB_day_ret,17:00:00,17:00:00,LIV,2
+OLB_night_out,22:00:00,22:00:00,LIV,1
+OLB_night_out,30:30:00,30:30:00,OLB,2
+OLB_night_ret,22:30:00,22:30:00,OLB,1
+OLB_night_ret,30:15:00,30:15:00,LIV,2
+BAS_out,12:00:00,12:00:00,LIV,1
+BAS_out,16:05:00,16:05:00,BAS,2
+BAS_ret,17:00:00,17:00:00,BAS,1
+BAS_ret,21:05:00,21:05:00,LIV,2

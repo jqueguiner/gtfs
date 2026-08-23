@@ -1,0 +1,14 @@
+{
+  "operator": "SITA SUD / SEAT / Pugliairbus (Lecce airport shuttles)",
+  "city": "Lecce",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 3,
+    "routes": 2,
+    "trips": 22,
+    "stop_times": 44
+  },
+  "notes": "Line 793 (Lecce City Terminal <-> Brindisi Airport) is built from the official SITA Sud PDF timetable (ORBA793-19B.xlsx, in force from 31 Mar 2019, https://www.sitabus.it/wp-content/uploads/2019/08/Orari-Bus-Linea-793-Lecce-Aeroporto-di-Brindisi.pdf), extracted via pdftotext -layout. All 9 daily departures per direction use the exact published clock times. Service is 'GIOR' = daily (festivi runs operated by SEAT Srl for SITA Sud; the late 3 runs (2) operated daily by SEAT); suspended only on Christmas and New Year (not modeled as calendar_dates exceptions here). Fare EUR 6.50 (+1.50 onboard). Trip 793_BL_9 arrives 00:30 next day, encoded as 24:30:00 per GTFS convention. The route is a direct express with only 2 timing points (Lecce, Brindisi Airport); no intermediate stops are evidenced in the PDF, so none were invented.\n\nPugliairbus route (Bari Airport <-> Brindisi Airport) is documented as a year-round Aeroporti di Puglia connection (aeroportidipuglia.it/bus-pugliairbus, torrevado.info). The official aeroportidipuglia.it and pugliairbus.aeroportidipuglia.it endpoints returned 403/ECONNREFUSED, so a full structured timetable could not be scraped. Two representative trips per direction are included using a documented sample runtime (~1h40m, e.g. Brindisi 11:10 -> Bari 12:50). These 4 trips are lower-confidence placeholders reflecting known service existence and duration, not a verified full daily timetable.\n\nCoordinates: Lecce City Terminal (Piazzale Carmelo Bene / ex Foro Boario) 40.36348,18.16867; Brindisi/Papola Casale Airport BDS 40.65750,17.94694 (Wikipedia WGS-84); Bari Karol Wojtyla Airport BRI 41.13886,17.76059 -> 16.76059 (Wikipedia WGS-84).",
+  "source": "llm-normalized"
+}

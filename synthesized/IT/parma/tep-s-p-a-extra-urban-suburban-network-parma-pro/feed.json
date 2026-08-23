@@ -1,0 +1,14 @@
+{
+  "operator": "TEP S.p.A. — Extra-urban / suburban network (Parma province)",
+  "city": "Parma",
+  "cc": "IT",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 52,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 119
+  },
+  "notes": "Extra-urban (suburban) bus feed for TEP S.p.A. in Parma province (IT). Built from TEP official per-line pages (tep.pr.it/en/linea/{ref}/) which publish ordered route stop lists, the \"orari alle principali fermate cittadine\" page, and the line 2205 PDF timetable (via Moovit mirror). Five representative corridors are modelled, each with one trip per direction: 2205 Salsomaggiore–Fidenza–Parma, 2670 Langhirano–Torrechiara–Corcagnano–Parma, 2700 Langhirano–Lesignano–Basilicanova–Parma, 2830 Coltaro–Colorno–Torrile–Vicomero–Parma, and 2210 Bore–Pellegrino–Salsomaggiore–Fidenza. TEP operates 100+ extraurban lines; only these 5 evidenced corridors are included. Stop lists per corridor are the full ordered TEP-published lists condensed to the major/evidenced anchor stops (endpoints, town centres, frazioni, shared Parma terminals) so no coordinates are invented for micro-stops. Coordinates come from Wikidata/OSM/Wikipedia (WGS-84) at municipality/frazione/station level; intermediate hamlet stops kept but geocoded to their parent locality. Line 2205 uses real clock times from the official PDF; the other four use even headways across the published weekday operating window (approx 06:00–20:00) since only frequency/window was available. Service: Monday–Saturday (feriale) per TEP extraurbano scheduling; validity 2026-06-07 to 2026-09-14 (summer timetable shown on source pages). Confidence moderate: route ordering and stop identity are well-evidenced; exact intermediate-stop times and full network coverage are approximate.",
+  "source": "llm-normalized"
+}

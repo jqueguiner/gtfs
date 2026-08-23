@@ -1,0 +1,14 @@
+{
+  "operator": "SOU Palmas (Sancetur / Santa Cecília Turismo Ltda)",
+  "city": "Palmas",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 12,
+    "routes": 47,
+    "trips": 282,
+    "stop_times": 564
+  },
+  "notes": "SOU Palmas runs a trunk-feeder (BRT-style) network of 47 bus lines anchored on 6 named terminal stations (Estações Apinajé, Krahô, Xambioá, Xerente, Karajá, Javaé) plus the Rodoviária, all on the Av. Teotônio Segurado / Eixão corridor. The 47-line route list (numbers + names) is well-evidenced and consistent across onibus.online, soutransportes.com.br, prefeitura de Palmas and Moovit. Station coordinates are WGS-84 from OSM/Nominatim: Estação Apinajé (OSM way 259819168 center -10.178782,-48.334082), Estação Javaé, Estação Xambioá, Estação Krahô, Rodoviária, Aeroporto de Palmas, and Taquaralto are exact lookups. Estação Karajá and Estação Xerente were Nominatim-rate-limited and are corridor-placed approximations on Av. Teotônio Segurado (Aureny I area / near airport entrance); SENAI Taquaralto and UFT are also approximate endpoint anchors. cittamobi.com.br provides full ordered per-line stop lists (line 011 = 44 stops, line 560 = 23 stops) but most intermediate stops lack coordinates and the Overpass API was unreachable from this environment, so each line is modeled as a representative origin->destination trip between its two evidenced terminal endpoints rather than the full intermediate chain.\n\nCONFIDENCE 0.4: route inventory + terminal geography are real and solid, but (a) no published clock-time schedule was retrievable (cittamobi showed \"Não há mais horários programados\"; no timetable PDF reachable), so stop_times use assumed even headways (WD 20min 05:00-23:30, Sat 30min 05:30-23:00, Sun 40min 06:00-22:30) with segment run-times estimated from inter-terminal distance at ~20 km/h -- plausible but NOT the real published times; and (b) trips are terminal-to-terminal, not full itineraries. Structurally valid, geographically anchored skeleton feed; not schedule-faithful. Feed has 12 stops, 47 routes, 282 trips (2 directions x 3 service classes x 47 lines), 564 stop_times. Timezone America/Araguaina (UTC-3, no DST).\n\nSources: onibus.online/empresas/sou-palmas + /to/palmas (route list), soutransportes.com.br/palmas, palmas.to.gov.br horários page, moovitapp.com Palmas, linhas.cittamobi.com.br (ordered stops), OSM way 259819168 + Nominatim (coordinates).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Visate / Caxias Urbano",
+  "city": "Caxias do Sul",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 20,
+    "routes": 4,
+    "trips": 15,
+    "stop_times": 77
+  },
+  "notes": "Bus-only urban network operated by Viação Santa Teresa (Visate) under the Caxias Urbano brand in Caxias do Sul, RS, Brazil. No metro/rail/BRT exists (checked: system is 71-74 conventional bus lines around two closed pre-boarding integration stations, EPI Floresta and EPI Imigrante, plus the TR01 trunk). This feed is a REPRESENTATIVE subset of 4 well-documented lines out of ~74 total, chosen for coverage and evidence quality: TR001 Troncal (the flagship trunk EPI Floresta<->EPI Imigrante), L0002 Salgado Filho/Ana Rech (highest-ridership radial), AL024 Forqueta (feeder), and LC086 Coletora Central (collector). Itineraries (ordered street/EPI lists) and clock times are taken verbatim from horariodeonibus.net line-detail pages. Coordinates: EPI Floresta -29.17513,-51.20597 and central streets from OSM/Wikidata (Praça Dante Alighieri Marco Zero -29.1682,-51.1794); EPI Imigrante placed next to the Monument to the Immigrant on BR-116 (Wikidata 29.167S,51.158W); Ana Rech from IBGE BR-116 CEP centroid; intermediate street stops geocoded to their corridor and are approximate. Endpoint departure times are the real published first/typical departures; intermediate stop_times are interpolated with even spacing across a ~28-35 min end-to-end run since only terminal departure boards are published. Calendar: weekday, Saturday, Sunday/holiday services derived from the published Dias Uteis / Sabados / Domingos e Feriados boards. Confidence 0.55: route existence, ordering, endpoints, service days and terminal times are faithful to the real schedule; intermediate stop coordinates/times and the fact this is only 4 of ~74 lines lower it. caxiasurbano.com.br and visate.com.br main pages are JS-rendered (no server-side tables); tonoponto.com returned HTTP 403.",
+  "source": "llm-normalized"
+}

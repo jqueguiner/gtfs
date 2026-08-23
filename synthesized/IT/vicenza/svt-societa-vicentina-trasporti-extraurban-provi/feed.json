@@ -1,0 +1,14 @@
+{
+  "operator": "SVT - Societa Vicentina Trasporti (extraurban / provincial lines)",
+  "city": "Vicenza",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 58,
+    "routes": 9,
+    "trips": 18,
+    "stop_times": 150
+  },
+  "notes": "Built from the official SVT winter 2025-2026 extraurban timetable booklet PDF (Libretto Orari Extraurbano, in vigore 8 Sept 2025 - 6 June 2026, 224 pages), extracted with pdftotext -layout. The booklet's index gives the full authoritative line list (52 lines E01-E84). This feed models 9 representative lines (E01, E02, E05, E13, E15, E23, E31, E47, E80) covering the main corridors (Vicenza-Recoaro, Vicenza-Chiampo, Vicenza-Bassano, Vicenza-Schio-Pasubio, Vicenza-Thiene, Thiene-Asiago/Gallio, Vicenza-Noventa, Vicenza-Bassano via Nove, Vicenza-Padova). For each line the ordered stop sequence is taken directly from the PDF timetable's stop column (real named fermate/localita). Each line has one forward + one return representative weekday trip. FIRST DEPARTURE TIME per line is the real value read from the PDF; intermediate stop times are modelled with an even 5-minute inter-stop spacing anchored on that real origin departure (the PDF's multi-column per-stop times could not be reliably column-aligned from text extraction, so a uniform cadence was used rather than risk mis-assigned times). Stop coordinates are WGS-84 town/locality centres for the Vicenza-province municipalities served (verified known coordinates; Nominatim was rate-limited 429 so town-centre coords were used) - they place each stop in the correct town but are not the exact bus-stop pole. Calendar covers Mon-Fri (school+regular weekday service) for the winter validity period. This is a faithful-structure subset, not the complete 52-line network; confidence reflects real routes/stops/origin-times but modelled intermediate times, town-centre (not pole-exact) coords, and partial line coverage.",
+  "source": "llm-normalized"
+}

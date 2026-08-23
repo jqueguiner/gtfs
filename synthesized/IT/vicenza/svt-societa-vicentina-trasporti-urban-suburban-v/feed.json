@@ -1,0 +1,14 @@
+{
+  "operator": "SVT - Società Vicentina Trasporti (urban/suburban Vicenza)",
+  "city": "Vicenza",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 84,
+    "routes": 20,
+    "trips": 40,
+    "stop_times": 198
+  },
+  "notes": "Built from SVT's official winter urban timetable booklet (Libretto Orari Urbano Vicenza, servizio invernale 2025/26, https://www.svt.vi.it/sites/default/files/2025-09/invernale-2025-2026-urbano-vicenza-2025-09-02.pdf), extracted with pdftotext -layout. That PDF is the authoritative source and yielded the complete urban line roster (1-20 + Centrobus 10/20/30) with per-direction ordered timepoint sequences and real first-departure clock times, cross-checked against SVT/Moovit line pages (e.g. line 7 full stop list). Stop coordinates: matched libretto timepoint names against 618 OSM highway=bus_stop nodes in the Vicenza bbox (WGS-84) via Overpass; outlying comune/frazione terminals (Costabissara, Caldogno, Cresole, Lanzè, Altavilla, Creazzo, Sovizzo, Monteviale, Gambugliano, Fimon, Debba, Costozza, Lumignano, Cavazzale, etc.) filled with known WGS-84 place centroids (~100-300m accuracy for those). Nominatim was rate-limited from this host, so precise stop-level geocoding was done via OSM Overpass only. IMPORTANT SCOPE/FIDELITY CAVEATS: (1) The libretto lists only major TIMEPOINTS per line, not every intermediate stop; the full route has more stops (line 7 alone has 36 vs the 6 timepoints here). So stops are a faithful subset of real timepoints, not the complete ~996-stop urban network. (2) Intermediate stop_times between the two published anchor times (terminal first-departure and the last timepoint) are interpolated at an even ~3 min/hop; only the first departure of each direction is a true published value, downstream timepoints are estimated. (3) One representative trip per direction (early-service) is emitted per line; the real schedule runs ~10-15 min headways all day (feriale Mon-Sat + festivo) — not modelled. (4) route_long_name and headsigns are from the libretto direction headers. (5) The Autostazione SVT and Stazione FS piazzale coordinates are approximate hub points. All 20 lines are route_type=3 (bus); this is a pure urban bus network (no metro/rail/tram/ferry). This is a schematic but structurally valid GTFS suitable for routing skeletons, not a fare/departure-accurate operational feed. The extraurbano source (52 provincial lines) was NOT built out — it would require the separate extraurban libretti; only the urban/suburban Vicenza network is covered here.",
+  "source": "llm-normalized"
+}

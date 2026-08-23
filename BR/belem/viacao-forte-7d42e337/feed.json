@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Forte",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Belém"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/belem/viacao-forte/gtfs/",
+    "mdb_id": "br-llm-viacao-forte",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

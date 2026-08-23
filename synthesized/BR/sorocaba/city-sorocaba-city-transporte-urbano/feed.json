@@ -1,0 +1,14 @@
+{
+  "operator": "City+ Sorocaba (City Transporte Urbano)",
+  "city": "Sorocaba",
+  "cc": "BR",
+  "confidence": 0.52,
+  "counts": {
+    "stops": 53,
+    "routes": 2,
+    "trips": 6,
+    "stop_times": 118
+  },
+  "notes": "Bus operator (STU / City+ Sorocaba). Cittamobi per-line pages are the only source giving ordered stops + real schedule. Built the 2 best-documented lines: 44 Centro (full 38-stop ordered list from Cittamobi, weekday first 04:30/last 23:25 @27min, Sat 04:20-23:30 @41min, Sun 05:40-23:30 @41min) and 71 Centro (~15 stops, weekday 05:20-23:30 @68min, no Sat/Sun). Operator actually runs ~55 lines; only these 2 are captured, so coverage is partial (hence confidence ~0.5). URBES/onibus.online cover the municipal URBES network, not this operator, so not used for stops. Return (outbound) trips are the reverse of the published inbound stop sequence — direction is real, individual outbound stop points are approximated. Stop coordinates: Terminal Santo Antonio is exact from OSM way 671827318 (-23.49585,-47.45955, WGS-84); corridor anchors (Moreira Cesar, A.C.Comitre/Campolim) from OSM/GuiaMapa; intermediate stops interpolated along the known street corridors in Sorocaba/Votorantim — realistic to ~100-400m, not surveyed. No metro/rail/BRT for this operator (separate BRT Sorocaba operator exists on Cittamobi but was out of scope). No stop invented without an evidenced street/neighborhood in the source itinerary.",
+  "source": "llm-normalized"
+}

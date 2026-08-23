@@ -1,0 +1,14 @@
+{
+  "operator": "Bonelli Bus / F.lli Benedettini S.p.A.",
+  "city": "Rimini",
+  "cc": "IT",
+  "confidence": 0.86,
+  "counts": {
+    "stops": 10,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 40
+  },
+  "notes": "Built from the two official Bonelli Bus PDF timetables (winter valid 15 Sep 2025–6 Jun 2026, three sub-periods all with identical 8-trip \"every day\" schedule; summer valid 7 Jun–14 Sep, 16 trips/day). PDFs were binary-only via WebFetch so extracted locally with pdftotext -layout; both directions and both seasons parsed exactly. Route uses the operator's published 10-stop timetable structure (Rimini FS, Arco d'Augusto, Cerasolo Ex Stazione, Rovereta/SM Outlet, Dogana Confine, Serravalle Sovrappasso, Domagnano Croce, Borgo Maggiore, SM Murata, SM Centro Storico) - the more granular ~27-stop benedettinispa list was NOT used to avoid inventing intermediate stops with times. One representative trip per direction per season is encoded with EXACT clock times from the PDFs; real service runs 8 (winter) / 16 (summer) daily round trips at those anchor times. Ticket EUR 7 one-way. Coordinates: Rimini FS from OSM/Wikidata Q801364 (WGS-84); Arco d'Augusto known monument; Dogana Confine from Wikidata border point 43.9813,12.4895; SM castelli centers (Serravalle/Domagnano/Borgo Maggiore/Murata/Centro) placed along SS72 corridor from OSM/known geography. Intermediate SS72 stop coords accurate to ~200-400m.",
+  "source": "llm-normalized"
+}

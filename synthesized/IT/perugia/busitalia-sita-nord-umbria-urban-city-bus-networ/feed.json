@@ -1,0 +1,14 @@
+{
+  "operator": "Busitalia - Sita Nord (Umbria) — urban city bus networks",
+  "city": "Perugia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 59,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 143
+  },
+  "notes": "Built from the OFFICIAL Busitalia Perugia urban timetable PDF (fsbusitalia.it, \"ORARIO ESTIVO PERUGIA servizio urbano\", in effect 10 Jun–13 Sep, weekday/feriale table), extracted via pdftotext. The PDF lists the full lettered urban network (~40 lines: A,B,C,D,E,F,G,I,K,L,M,N,O,P,Q,R,TS,Y, plus 100-series and Z-series). I built 5 representative main lines (A, B, D, E, G) with BOTH directions = 10 trips, using the FIRST FULL real clock trip from the PDF for each direction; stop names and stop ORDER are taken verbatim from the timetable rows so sequences are faithful. calendar covers the weekday (Mon–Sat) summer service band 20260610–20260913 (feriale table); Sunday=0 because these representative trips come from the feriale timetable (a festivo/holiday table also exists in the PDF for A,B,C,G,P,Q,R). \n\nCOORDINATES: Overpass API and Nominatim were blocked/hard-rate-limited (429) from this sandbox egress IP, so stop_lat/stop_lon are approximate WGS-84 positions derived from known Perugia geography (city centre ~43.107,12.376; anchors: Fontivegge FS 43.104,12.376; centre Piazza Italia; Pila SW; S.Marco N; Ellera/Ferro di Cavallo W). Interchange/landmark nodes (Fontivegge, Madonna Alta MM, Cortonese MM, S.Erminio, Pila, S.Marco, Ponticelli) are near-correct; minor intermediate street stops may be off by 100–400 m. No stops were invented — every stop appears in the PDF timetable. \n\nNOT INCLUDED / caveats: (1) The Perugia Minimetrò (automated light-rail, 7 stations Pian di Massiano↔Pincetto, WGS-84, ~2.5 min headway, Mon–Sat 07:00–21:05) is the highest-ridership best-documented mode, but it is operated by Minimetrò S.p.A., a DIFFERENT operator than the requested \"Busitalia - Sita Nord\", so it was excluded to keep the feed faithful to the named operator; its stations connect to these bus lines at Fontivegge/Cortonese/Madonna Alta. (2) Only 5 of ~40 lines are modelled (representative subset), and one representative trip per direction rather than the full daily frequency (real headways ~30–60 min off-peak, ~15–20 min peak on trunk corridors). (3) The network map PDF was a non-text vector graphic and unusable; the region-wide ~11,146-stop figure is the whole Umbria Busitalia network on Moovit, far beyond Perugia urban. Confidence 0.72: route list, stop names/order and clock times are authoritative from the official operator PDF; coordinates and coverage completeness are the main gaps.",
+  "source": "llm-normalized"
+}

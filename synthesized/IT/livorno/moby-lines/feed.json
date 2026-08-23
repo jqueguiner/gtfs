@@ -1,0 +1,14 @@
+{
+  "operator": "Moby Lines",
+  "city": "Livorno",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 3,
+    "routes": 2,
+    "trips": 6,
+    "stop_times": 12
+  },
+  "notes": "Ferry GTFS for Moby Lines out of Livorno. Two routes evidenced: Livorno<->Olbia (Sardinia, year-round) and Livorno<->Bastia (Corsica, seasonal May-Sept). moby.it returned HTTP 403 so schedule detail is from web-search aggregation of Moby/ferry-comparison sources (netferry, directferries, ferryhopper, mobylines.com routes pages). Times are representative typical Moby sailings, NOT a scraped official per-date timetable: Olbia day dep ~09:30 arr ~17:30 (~8h), Olbia night dep ~22:00 arr next-morning ~06:30 (GTFS 30:30:00 = 06:30 next day); Bastia dep ~12:00 arr ~16:05 (~4h05). Stop coords are WGS-84: Livorno Calata Carrara/Stazione Marittima (43.55539,10.30159), Olbia Isola Bianca (40.9236,9.5223), Bastia Nouveau Port (42.705386,9.454291). Calendar: Olbia service_id daily year-round; Bastia service_id daily but bounded to summer season (start 2026-05-01, end 2026-09-30). One representative trip per direction per route (Olbia has both a day and a night trip per direction to reflect the 2 daily crossings). route_type=4 (ferry). Confidence 0.55: routes/ports/ordering are solid and real; exact clock times are typical-season approximations, not date-exact official timetables.",
+  "source": "llm-normalized"
+}

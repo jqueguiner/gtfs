@@ -1,0 +1,14 @@
+{
+  "operator": "ATMA S.c.p.a. (Azienda Trasporti e Mobilità di Ancona e Provincia)",
+  "city": "Ancona",
+  "cc": "IT",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 6,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 12
+  },
+  "notes": "ATMA S.c.p.a. is the contracting agency / basin consortium for the Ancona province TPL; the service is physically operated by Conerobus S.p.A. The Conerobus source pages (servizio-extraurbano, servizio-tpl) expose only downloadable PDF timetables with no in-HTML route/stop tables, so full ordered stop lists and per-trip times for the extraurban and urban network could not be extracted reliably. The one route that is fully evidenced by the sources (plus two independent corroborating sources: Conerobus aerobus-raffaello page and Moovit) is the AEROBUS RAFFAELLO airport shuttle (line RAF): confirmed ordered 6-stop chain Piazza Cavour <-> Piazza Kennedy <-> Ancona Stazione FS <-> Torrette Stazione FS <-> Falconara Stazione FS <-> Aeroporto delle Marche, published service hours 07:00-22:30 daily, ~30 min end-to-end. That route is built here with both directions. Stop coordinates are WGS-84 geocoded from OSM/Wikidata/RFI: Piazza Cavour, Piazza Kennedy, Ancona Centrale and Falconara Marittima stations are precise; Ancona Torrette station is approximate (~43.599,13.470, near the regional hospital) as exact RFI coordinates were not published. Trip times are a realistic even headway across the published 07:00-22:30 window (roughly hourly), NOT the exact flight-coordinated PDF timetable, which varies daily with flights. No metro/tram/rail line exists in this network. Other Conerobus lines (urban Ancona/Jesi/Falconara/Osimo, extraurban, scolastico) are real but were not built because the sources did not expose their stops/times outside unparsed PDFs; inventing them would violate the no-fabrication rule. Confidence 0.4 reflects one solid real route out of a much larger real network.",
+  "source": "llm-normalized"
+}

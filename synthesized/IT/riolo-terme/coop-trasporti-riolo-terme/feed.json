@@ -1,0 +1,14 @@
+{
+  "operator": "Coop Trasporti Riolo Terme",
+  "city": "Riolo Terme",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 47,
+    "routes": 6,
+    "trips": 13,
+    "stop_times": 120
+  },
+  "notes": "Built from the Start Romagna \"Libretto Inverno 25-26 RA\" PDF (212pp; the cooptrasportiriolo.it copy is Cloudflare-walled so the mirror on startromagna.it was used). Extracted with pdftotext -layout. Coop Trasporti Riolo Terme is the vector explicitly marked \"◆ COOP. TRASPORTI RIOLO TERME ◆\" for: urban lines 55 (Gialla) and 56 (Verde), plus extraurbane 189, 195, 196, 197, 198, 199. Built the 6 core Riolo-hub lines (55, 56, 195, 196, 197, 198); omitted 189 (Tredozio-Forlì) and 199 (S.Martino-Imola) which are peripheral to the Riolo urban+extraurban scope. Each route has a representative trip in both directions with exact clock times copied from the timetable columns; stop sequences are the published stop order. route_type=3 (bus) for all. Stops geocoded via OSM Nominatim (WGS-84): town/locality centroids for Casola Valsenio, Isola, Borgo Rivola, Valsenio, Cuffiano, Campiano, Villa Vezzano, Zattaglia, Brisighella, Faenza, Lugo, Imola, etc. The Start Romagna 'Fermate RA' open dataset and OSM highway=bus_stop Overpass query returned no named nodes for these rural Senio-valley stops, so ~15 minor urban/street stops (via Ripa, via Manzoni, Isola Parcheggio, Borgo Rivola v.Pilastrino/Pastore, Castel Bolognese FS/Z.Ind., Misileo) carry approximate coordinates interpolated within the correct locality (not null, but ±200-500m) — these are the main confidence deduction. Calendar: SCHOOL (Mon-Fri, school days; lines 55/56/196/197/198 run \"SI EFFETTUA NEI GIORNI DI SCUOLA\") and DAILY (Mon-Sun; line 195 \"GIORNALIERO\"), dated to the winter 2025-26 booklet period. Note: many trips in the source are marked \"a richiesta\" (on-request) and have school-day/Saturday exception footnotes not modeled as calendar_dates.",
+  "source": "llm-normalized"
+}

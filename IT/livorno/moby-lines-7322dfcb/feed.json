@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Moby Lines",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Livorno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/livorno/moby-lines/gtfs/",
+    "mdb_id": "it-llm-moby-lines",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

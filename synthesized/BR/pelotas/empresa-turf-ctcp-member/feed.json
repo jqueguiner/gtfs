@@ -1,0 +1,14 @@
+{
+  "operator": "Empresa Turf (CTCP member)",
+  "city": "Pelotas",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 28,
+    "routes": 6,
+    "trips": 48,
+    "stop_times": 532
+  },
+  "notes": "Live site empresaturf.com.br is DEAD (NXDOMAIN via system + Google DNS). All 7 sources recovered from the Wayback Machine (snapshots ~2010-2011). Itinerary pages (it-gotuz.htm, it-guabi.htm, seletivo.htm) gave ordered street-by-street routing; schedule pages (gotuzzo/guabiroba/fragata/cohab.htm) linked to per-day timetable sub-pages (e.g. 3003.htm weekday, S3003.htm Sat, D3003.htm Sun) whose real clock-time grids I fetched from Wayback. Pelotas has NO metro/rail/BRT/ferry (metro-first directive N/A) - all-bus municipal network (route_type 3). Built 6 representative routes, one per source family (Gotuzzo, Guabiroba Esquerda, Guabiroba Direita, Fragata, Cohab, Seletivo micro-bus). Real weekday departure times used per route (5:35-23:56 span). Stops = the itinerary streets, geocoded to WGS-84 via Photon/Komoot + OSM (Nominatim was IP-blocked here). Trips: I emit 4 evenly-spaced representative departures per direction per route (48 trips, 532 stop_times) drawn from the actual timetables; the full recovered grids hold ~254 departures/day. Interstop times synthesized at 2 min/segment (source gives only terminal departure times, not per-stop). CAVEATS lowering confidence: (1) data is ~15 yrs old and the operator/network may have changed; (2) route variants collapsed to one representative per family; (3) stop coords are street-level centroids, not exact bus-stop points; (4) Sat/Sun services exist in the source but only WEEKDAY calendar built; (5) 'CTCP member' affiliation not independently re-verified. Real per-departure times + real ordered itineraries make this materially faithful, hence 0.55 rather than higher.",
+  "source": "llm-normalized"
+}

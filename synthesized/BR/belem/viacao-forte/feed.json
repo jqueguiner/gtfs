@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Forte",
+  "city": "Belém",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 142,
+    "routes": 2,
+    "trips": 2,
+    "stop_times": 184
+  },
+  "notes": "Bus operator (route_type=3); no metro/rail/BRT operated by Viação Forte, so METRO-FIRST does not apply here. Two best-documented lines built with FULL ordered stop sequences taken verbatim from official Moovit route-map PDFs (line 548: 88 stops, appassets.mvtdev.com/map/131/l/3183/597227.pdf; line 900: 96 stops, .../635589.pdf). Both are single-itinerary loop routes in Moovit (start terminal = end terminal), so one representative loop trip per line faithfully covers \"both directions\" — the outbound and return legs are distinct stops within the one ordered sequence. Operating hours are the REAL published windows (548: Mon-Fri 04:40-23:00, Sat 05:00-22:30, Sun 05:30-22:00; 900: Mon-Fri 04:15-23:10, Sat 05:00-23:00, Sun 05:30-22:40); trip durations are the published Moovit values (548=92min, 900=108min). stop_times use a representative 07:00 departure with times spread evenly across the published trip duration (Moovit gives no per-stop clock times). Coordinates: 11 well-known anchor stops (Ver-o-Peso, Estação das Docas, Praça Dom Pedro II, Bosque Rodrigues Alves, Shopping/Terminal São Brás, Mercado de São Brás, Terminal Vicente Rabelo, Praça Três Corações, Passagem Dalva) geocoded to verified WGS-84 from Wikipedia/geocoding; the remaining ~130 minor street-corner stops are left lat/lon null because Overpass/OSM was unreachable in this environment and per-corner coordinates could not be honestly verified (cittamobi/Moovit do not expose stop coordinates). Sources confirm Viação Forte (fleet prefix AF) operates ~16 Moovit routes in Belém/Ananindeua; the other lines (901,902,904,905,907,754,964,984,985,986,987,906,911,930,932,960,999) are real but their full ordered stop lists were not extracted, so they are intentionally omitted rather than invented. calendar.txt modeled as a single daily service (all lines run every day); Sat/Sun run reduced windows but same route/stops. Confidence 0.55: stop lists and hours are real and precise for the 2 built lines, but most coordinates are null and only 2 of ~16 lines are covered.",
+  "source": "llm-normalized"
+}

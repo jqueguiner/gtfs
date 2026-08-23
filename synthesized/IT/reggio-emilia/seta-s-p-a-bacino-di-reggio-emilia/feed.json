@@ -1,0 +1,14 @@
+{
+  "operator": "SETA S.p.A. (Bacino di Reggio Emilia)",
+  "city": "Reggio Emilia",
+  "cc": "IT",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 44,
+    "routes": 17,
+    "trips": 34,
+    "stop_times": 140
+  },
+  "notes": "Source constraints: the official SETA site (setaweb.it/re/*) returns HTTP 403 to WebFetch and curl (bot-blocked), and all Overpass API mirrors were unreachable/500 during this build, so the ~2458 OSM per-stop pull and per-line Fermate principali/secondarie lists could NOT be scraped. Route list is well-evidenced: 17 urban/suburban lines (1, 1+, 2, 3, 4, 4+, 5, 5+, 6, 9, 10, 11, 12, 13, E, G, H) with endpoints/via, cross-confirmed from orariautobus.it and Moovit. SETA Reggio Emilia is bus-only (no metro/tram/rail), so all route_type=3. Stops are locality/landmark-level nodes (endpoints + via points named in each route description), NOT the full per-stop fermate list; each has a real WGS-84 coordinate from Wikipedia (comuni: Rubiera, Scandiano, Cavriago, Quattro Castella/Puianello/Montecavolo, Albinea), blia.it geodirectory (Roncocesi 44.7309/10.5758, Sesso 44.7301/10.6146, Canali, Rivalta), and known RE landmarks (Stazione FS 44.69778/10.64306, Mediopadana AV 44.72389/10.5925, Duomo/centro). A few minor city nodes (Foscato, Botteghe, Bellarosa, Borzano, deposito, parkings) are approximate city-block placements within the correct frazione (~within a few hundred m). Trips: one representative trip per direction per line (34 trips) on the weekday service, with even 5-min hops between listed locality nodes starting 06:30 — these are placeholder clock times, NOT the published SETA timetable (first/last corsa and headways were not accessible). Calendar defines WKD/SAT/SUN service patterns for 2026; only WKD trips are populated. To raise confidence: fetch OSM SETA route relations (route_type=bus, network~SETA) via Overpass for full ordered stops+coords, and the per-line orario PDFs from setaweb.it/re/mappe-e-guide-orari for real departure times.",
+  "source": "llm-normalized"
+}

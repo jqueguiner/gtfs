@@ -1,0 +1,17 @@
+trip_id,arrival_time,departure_time,stop_id,stop_sequence
+LI-BAS-out-am,08:00:00,08:00:00,livorno,1
+LI-BAS-out-am,14:00:00,14:00:00,bastia,2
+LI-BAS-out-pm,16:30:00,16:30:00,livorno,1
+LI-BAS-out-pm,22:30:00,22:30:00,bastia,2
+LI-BAS-in-pm,09:00:00,09:00:00,bastia,1
+LI-BAS-in-pm,15:00:00,15:00:00,livorno,2
+LI-BAS-in-night,18:30:00,18:30:00,bastia,1
+LI-BAS-in-night,24:30:00,24:30:00,livorno,2
+LI-GA-out-day,08:30:00,08:30:00,livorno,1
+LI-GA-out-day,15:30:00,15:30:00,golfo_aranci,2
+LI-GA-out-night,22:45:00,22:45:00,livorno,1
+LI-GA-out-night,32:15:00,32:15:00,golfo_aranci,2
+LI-GA-in-day,09:00:00,09:00:00,golfo_aranci,1
+LI-GA-in-day,16:00:00,16:00:00,livorno,2
+LI-GA-in-night,22:00:00,22:00:00,golfo_aranci,1
+LI-GA-in-night,31:30:00,31:30:00,livorno,2

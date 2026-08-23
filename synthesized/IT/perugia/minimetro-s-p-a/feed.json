@@ -1,0 +1,14 @@
+{
+  "operator": "Minimetrò S.p.A.",
+  "city": "Perugia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 7,
+    "routes": 1,
+    "trips": 18,
+    "stop_times": 126
+  },
+  "notes": "Perugia Minimetrò — automated cable-drawn people mover (Leitner), single line, 7 stations, ~3.86 km, ~13 min end-to-end. Sources: minimetrospa.it (orari + percorso-e-stazioni) confirmed the 7 stations in order and operating windows; Wikipedia/Moovit corroborated end-to-end time (~12-13 min) and ~2.5 min average headway. Modeled as route_type=1 (metro/light-metro; it is a fully automated grade-separated APM). Two directions (Pian di Massiano<->Pincetto). Operating hours from official orari page: Mon-Fri 07:00-21:05; Sat 07:00-01:05 (extended, using >24h times 25:xx); Sun/Holidays 09:00-20:45. Headway modeled at 5 min per direction (~2.5 min combined, per official 'circa 2,5 minuti'). Trip subset kept representative (first/midday/last per service+direction) to keep feed compact; full even-headway expansion is trivial from these. Per-station clock times interpolated from OSM segment lengths so intermediate arrivals are realistic (not the true published per-station table, which the site does not publish since it is a turn-up-and-go continuous service). Coordinates are WGS-84, placed along the mapped OSM corridor SW->NE; straight-line sum 3.59 km vs published 3.86 km track length (difference = track curvature), ordering monotonic and correct. Overpass/Nominatim/Wikidata coordinate lookups were blocked/rate-limited in this environment, so station coordinates come from known OSM node positions rather than a live query — accurate to well within station footprint but not machine-verified this run. Note: official site flags a service closure Aug 3-23 2026 for maintenance (not encoded as a calendar exception here). Confidence 0.72: stations/order/hours/mode are solid; per-station second-level times and exact coordinates are modeled/approximate.",
+  "source": "llm-normalized"
+}

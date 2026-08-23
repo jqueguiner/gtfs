@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Nova Integração (Integração Transportes)",
+  "city": "Manaus",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 14,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 44
+  },
+  "notes": "Operator \"Viação Nova Integração / Integração Transportes\" is a SINETRAM-member bus operator in Manaus (active since 1987; Moovit reports 51 routes / 1115 stops). METRO/RAIL FIRST check: Manaus has NO operating metro, LRT or suburban rail — the planned Manaus Monorail was never built, and rapid transit is BRT/BRS bus corridors only (Wikipedia). Therefore all routes here are route_type=3 (bus); no rail route exists to prioritise.\n\nData sourcing: The two given schedule sources (Moovit operator page 1743-859025 and Cittamobi/IMMU) are JavaScript-rendered — every WebFetch of a Moovit line/operator page returned blank, so the discrete 1115 named stops WITH coordinates could NOT be extracted and are deliberately NOT invented. Instead, real ordered itineraries for representative Integração lines were scraped as static HTML from onibusmanaus.com.br (transitomanaus): 621 (Jorge Teixeira ⇆ Centro), 062 (Terminal 4 ⇆ Jorge Teixeira / bairro), 640 (T4 ⇆ Praça da Matriz via T3/T1), 641 (T4 ⇆ Ponta Negra via Aeroporto — PEAK HOURS ONLY per source), 678 (T4 ⇆ Ponta Negra via T5 São José). Stops modelled = the real terminals and major named waypoints from those itineraries (the geocodable, evidenced anchors shared across the network); this is coarser than Moovit's per-block stops.\n\nCoordinates: WGS-84. T2 Cachoeirinha (-3.1272,-60.0055), T3 Cidade Nova (-3.0321,-59.9863), T5 São José (-3.0749,-59.9547), Praça da Matriz (-3.1354,-60.0254) from OSM/Nominatim geocoding this session; T1 Constantino Nery, T4 Jorge Teixeira, Aeroporto Eduardo Gomes, Praia da Ponta Negra from well-documented landmark coordinates (Nominatim rate-limited on the retry).\n\nService: 062 confirmed daily 04:00–00:50 (Moovit); 621 weekdays; 640/678 daily; 641 peak-only. Clock times below are realistic representative departures on an even headway across the service window (Moovit gives frequency, not a full timetable). Two service_ids: daily and weekday.\n\nHonest confidence 0.42: operator, mode (bus, not rail), the 5 lines' existence/directions/terminal ordering, and service windows are real and sourced; but stop granularity is terminal/waypoint level (not the full 1115 discrete Moovit stops, which were unfetchable), most stop_times are headway-derived rather than a published timetable, and only ~10% of the operator's 51 lines are represented.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TCCC - Transporte Coletivo Cidade Canção",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Maringá"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/maringa/tccc-transporte-coletivo-cidade-cancao/gtfs/",
+    "mdb_id": "br-llm-tccc-transporte-coletivo-cidade-cancao",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

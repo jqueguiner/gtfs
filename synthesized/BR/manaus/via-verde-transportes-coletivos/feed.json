@@ -1,0 +1,14 @@
+{
+  "operator": "Via Verde Transportes Coletivos",
+  "city": "Manaus",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 24,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 53
+  },
+  "notes": "Manaus has NO operational metro/rail/BRT: the Manaus Monorail (planned 2011, contract 2012) was never built (still \"planned\" as of 2018). All Via Verde service is bus (route_type 3). Via Verde Transportes Coletivos is a real SINETRAM/IMMU operator (founded 2007-11-24, ~38-41 lines, fare R$5.00). Primary sources moovitapp.com (HTTP 403) and cittamobi were partly blocked; line 205 full 72-stop ordered list + headways came through cittamobi/horariosdeonibus, and lines 110/205/502/601 schedule summaries via search. Feed models the 4 best-documented Via Verde lines (110, 205, 502, 601), NOT the full ~38-line network. Coordinates are WGS-84 from OSM/Nominatim for ~14 geocoded anchors (terminals, shoppings, Rio Negro Clube, Praça da Matriz, Parque do Idoso, named avenues); numbered street-level stops (e.g. \"Rua 23 01\") were collapsed into their parent avenue/named anchor rather than fabricating per-point coordinates, so stop counts here (5-19 per trip) are representative anchors, not the full 70-72 physical points reported by Moovit. Stop_times: line 205 uses real published span (05:20 first departure, 41min headway weekday / 43min weekend) with proportional interpolation over the ~76min loop; 601 uses real 05:00 first departure; 110/502 use realistic interpolated clock times over their reported ~62/~23min run times. Terminal coordinates: T2 Cachoeirinha and Parque do Idoso are exact OSM hits; T1, Petrópolis, Vieiralves, Compensa, Cachoeirinha bairro are approximate (neighborhood/avenue centroids). Directions: 205 is a loop (single direction trip covering both legs); 110/502/601 modeled with one trip each way.",
+  "source": "llm-normalized"
+}

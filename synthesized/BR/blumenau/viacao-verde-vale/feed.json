@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Verde Vale",
+  "city": "Blumenau",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 7,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 26
+  },
+  "notes": "Built from published Verde Vale timetables on horariodeonibus.net and onibus.online (schedule source viacaoverdevale.com.br was unreachable/ECONNREFUSED; the mundoonibus PDF was flate-encoded and not machine-readable). Three intermunicipal routes are well-evidenced: Gaspar<->Blumenau(FURB), Ilhota<->Blumenau via Gaspar/Porto de Areia, and Baú<->Blumenau via Gaspar. Terminal endpoints (Terminal Vereador Norberto Willy Schossland in Gaspar, FURB/Terminal Fortaleza in Blumenau) are named and confirmed. Departure times in stop_times are REAL published clock times at the endpoints; intermediate named-stop times (Bela Vista, Santa Terezinha, Porto de Areia, Baú) are linearly interpolated along each corridor and are approximate. Stop coordinates are WGS-84, geocoded from OSM/IBGE street data and municipal addresses: Gaspar terminal at Rua José Honorato Müller/Coloninha (~-26.929,-48.969), FURB Blumenau (~-26.905,-49.072), Ilhota centro on SC-470 (~-26.900,-48.828). Coordinates for the terminals and city centres are reliable to ~100-300m; intermediate neighborhood stops (Bela Vista, Santa Terezinha, Porto de Areia, Baú) are approximate corridor points. Confidence 0.55: route list, direction times and endpoints are faithful to the published schedule, but the full ordered intermediate stop list is only partially evidenced (from itinerary descriptions, not a stop-by-stop table) and intermediate times/coords are interpolated. Only ONE representative trip per direction per route is included (the earliest published departure) to keep the feed valid and honest; the full daily frequency is documented in notes. Weekday+Saturday service published; no Sunday service found. Route naming: line \"long names\" reflect the corridor. This is an informal/intermunicipal bus operator, not metro/rail, so route_type=3.",
+  "source": "llm-normalized"
+}

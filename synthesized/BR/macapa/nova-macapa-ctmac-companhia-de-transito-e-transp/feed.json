@@ -1,0 +1,14 @@
+{
+  "operator": "Nova Macapá / CTMac (Companhia de Trânsito e Transporte de Macapá)",
+  "city": "Macapá",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 20,
+    "routes": 12,
+    "trips": 24,
+    "stop_times": 84
+  },
+  "notes": "Mode: bus only — Macapá has NO metro/light-rail/BRT/suburban rail, so metro-first does not apply. Sources: onibus.online (/ap/macapa/ + /empresas/onibus-macapa/) and Moovit give a consistent 12-line CTMac network with real line names, origin terminals and published operating hours/headways; the Cittamobi landing page enumerated ~61 route-direction entries (many are ida/volta halves and school variants) but exposed no schedule/stop detail without the app, and bus2.mobilibus had no route data. So the feed covers the 12 well-documented trunk lines, NOT all 54–61 Cittamobi entries.\n\nTimetables: departure spans + headways are taken verbatim from onibus.online/Moovit (e.g. 211 weekday 05:55–23:40 ~15min; 212 06:00–23:48 ~12min; 411/421 seven fixed departures 06:00…20:45). Lines given only as frequency were expanded to even-headway departures across the published span; 411/421 use the explicit published departure list. The full generated feed on disk has 1448 trips / 5532 stop_times (every published departure, both directions, WK+SA+SU); the payload here is the representative weekday set (24 trips = 12 routes × 2 directions) plus the full 3-service calendar — SA/SU services exist in calendar.txt and in the on-disk feed.\n\nStops: only endpoint terminals/neighbourhoods are evidenced for most lines (the route name is a terminal pair e.g. \"Brasil Novo / São Camilo\"), plus Centro as the common downtown hub. Line 211 additionally has real named intermediate stops from Moovit (Av. dos Timbiras, R. Leopoldo Machado, Av. Jovino Dinoá). No unevidenced intermediate stops were invented — most trips are terminal→(Centro)→terminal. Inter-stop times are a nominal 6-min hop (spacing not published).\n\nCoordinates: WGS-84 from Photon/Komoot geocoder (Nominatim was IP-rate-limited/HTTP 429 and all Overpass mirrors were down/500 during the build). Terminal-level precision (neighbourhood centroid or named POI), good to ~city-block; not survey-grade stop poles.\n\nConfidence 0.45: route list + names + operating hours are faithful and cross-source-verified; per-route ORDERED intermediate stop sequences are largely unavailable (only 211 has them), so stop granularity is coarse and stop_times are modelled, not scraped. Full GTFS text files written to /home/ubuntu/adresses/gtfs_ctmac/ (agency.txt, stops.txt, routes.txt, trips.txt, stop_times.txt, calendar.txt).",
+  "source": "llm-normalized"
+}

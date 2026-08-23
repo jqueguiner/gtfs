@@ -1,0 +1,14 @@
+{
+  "operator": "TEP S.p.A. — Urban network (city bus + trolleybus/filobus)",
+  "city": "Parma",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 16,
+    "routes": 2,
+    "trips": 40,
+    "stop_times": 335
+  },
+  "notes": "Sources: TEP official site (tep.pr.it) urban-lines index + per-line pages + summer-2026 timetable PDFs (Linea-1-1.pdf / Linea-1.pdf), plus Nominatim/OSM and Wikidata for WGS-84 coordinates. Parma has NO metro/tram/rail-transit of its own (RFI Stazione FS is national rail, not part of TEP), so the urban network is bus/trolleybus only (route_type=3); the \"metro/rail first\" guidance is N/A here. Two representative routes are modeled: Line 1 (Strada Farnese/Parma Mia <-> Stazione FS) is HIGH fidelity — its full 9-stop ordering AND real clock-face times come directly from the TEP Line-1 PDF timetables (feriali daytime ~15-min headway, festivi ~20-min; the PDF's per-stop minute deltas were used verbatim: Parma Mia +5 Farnese +4 Villetta +3 Bixio +3 Corridoni +1 Mazzini +2 Teatro +2 B.Garibaldi +1 Stazione). Line 3 (San Lazzaro <-> Crocetta) ordering is taken from TEP's published street-by-street route description (Crocetta-Ospedale-B.Santa Croce-Ponte di Mezzo-Mazzini-P.Garibaldi/Municipio-B.Repubblica-San Lazzaro); its per-stop times/headways are NOT published on the page (only downloadable PDFs), so headways are inferred at typical TEP urban cadence and travel times estimated — lower fidelity. TRIP SAMPLING: to keep the feed compact, trips are a representative subset across the service span (Line 1 hourly at 07/10/13/16/19/20h; Line 3 every ~4h) rather than every headway; real network runs Line 1 every 15 min feriali. Line 1 stops all evidenced+geocoded (WGS-84); Parma Mia/Strada Farnese termini coordinates are approximate (southern Strada Farnese within Parma comune) since Nominatim resolved the street ambiguously. Service window modeled ~07:00–20:20; summer schedule validity 2026-06-01..2026-09-13 (approx). Only Lines 1 and 3 are built here; the other ~20 urban lines (2,4,5,6,7,8,9,11,12,13,15,16,21,23 + shuttles) are listed on the source index but were not modeled (their per-line PDFs were not all parsed). No stops were invented — every stop is from a TEP route description.",
+  "source": "llm-normalized"
+}

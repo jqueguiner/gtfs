@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio Sorocaba",
+  "city": "Sorocaba",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 130,
+    "routes": 4,
+    "trips": 4,
+    "stop_times": 130
+  },
+  "notes": "Built from CittaMobi per-line pages under the ConsorcioSorocaba network (linhas.cittamobi.com.br). 4 lines scraped with full ordered stop lists and published operating hours: 08 Centro/Trujillo (23 stops, weekday-only peak data), 28 Mineirao (26 stops, daily), 56 Iguatemi (46 stops, daily, evening-heavy weekdays), 57 Centro (35 stops, daily). All are city buses (route_type=3); Sorocaba has NO metro/rail (a BRT is under construction but not yet operating these lines). One representative outbound trip per line, ordered stop_times with even inter-stop spacing across a realistic run time, starting at a published service-start clock time. HONEST LIMITATIONS: (1) CittaMobi lists ordered stops but the site did not expose per-stop coordinates, so only terminals and named plazas are geocoded from OSM/known data (Terminal Santo Antonio -23.49585,-47.45955 from OSM way 671827318); the ~120 street-address stops have null lat/lon rather than invented coordinates. (2) Only outbound direction per line was available from the scraped pages; return direction not built. (3) Times are even-headway interpolations from published service windows, not exact departure boards. (4) Frequencies from CittaMobi (e.g. 26min L28 weekday, 90min L56 weekday) not encoded as frequencies.txt. URBES itinerary/onibus.online confirmed the operator/line inventory (~126 lines) but did not add per-stop geometry. This is a faithful subset (4 of ~100+ lines), not the full network.",
+  "source": "llm-normalized"
+}

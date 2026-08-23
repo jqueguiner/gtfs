@@ -1,0 +1,14 @@
+{
+  "operator": "STSJC / Consórcio 123 (municipal bus network — Viação Saens Peña, Joseense Transporte, Expresso Maringá do Vale)",
+  "city": "São José dos Campos",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 29,
+    "routes": 5,
+    "trips": 42,
+    "stop_times": 229
+  },
+  "notes": "Built from the São José dos Campos Prefeitura official itinerary PDFs (pdftotext -layout extraction of image/text PDFs) plus the Consórcio 123 operator page. Covers 5 of the ~70+ system lines corresponding exactly to the provided sources: LV (Linha Verde BRT-style trunk corridor — highest ridership, prioritized), 101 Represa/Terminal Central, 130 Alimentadora São Francisco Xavier, 225 Galo Branco/Av. São José semi-express, 500 Aeroporto/Hotéis.\n\nSCHEDULE FIDELITY: departure times are taken directly from the PDF HORÁRIOS tables where published — Line 130 (weekday SFX 05:00/09:20/13:00/16:30/20:10, SJC 07:40/11:00/14:40/18:10; weekend variants), Line 225 (weekday-only, bairro 06:05/07:15/08:40, centro 15:30/16:50/18:10), Line 500 (Sun/Wed/Fri, 19:00 from airport). For each direction a representative trip at the first published departure is emitted with even inter-stop interpolation across a realistic run time. Linha Verde runs a dense ~10-min headway (weekday 81 departures 05:30–23:20 from Estação Sul, plus Rodoviária variant); one representative trip per direction/variant is provided rather than all 81, to keep the feed compact.\n\nSTOPS: no open GIS/GTFS stop layer exists (~2,460 stops per Moovit, unreleased). Modeled stops are the named terminals, BRT stations and major landmarks from the itinerary sequences (not every street). Coordinates are grounded WGS-84: airport SBSJ -23.2289/-45.8711 and Terminal Central/city-centre verified via web search; Linha Verde corridor stations and other landmarks placed along the documented Av. Dr. Sebastião H. da Cunha Pontes corridor and central grid. Landmark coordinates are approximate (station-level, not GPS-surveyed), which is the main confidence limiter along with representative-trip modeling.\n\nCAVEATS: Nominatim (429) and Overpass (500/timeout) were unreachable from this environment, so per-stop reverse geocoding of every itinerary street was not possible; coordinates are anchored to verified points and the known corridor geometry. Consórcio 123 site and Expresso Maringá do Vale page did not expose machine-readable route data (the latter had a TLS cert error). Per-line operator assignment is not published per route, so the agency represents the consortium as a whole. Calendars: WEEKDAY, SAT, SUN, and SUN_WED_FRI (line 500), spanning calendar year 2026 per the PDFs' 2024–2026 revision dates.",
+  "source": "llm-normalized"
+}

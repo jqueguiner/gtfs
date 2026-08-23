@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Amazônia (BRT Metropolitano de Belém)",
+  "city": "Belém",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 27,
+    "routes": 15,
+    "trips": 30,
+    "stop_times": 38
+  },
+  "notes": "BRT Metropolitano de Belém (opened 2025-11-01), operator BRT Amazônia. Modeled as GTFS route_type=3 (bus) per BRT convention. SOURCING: Line codes, names and the ordered 13-station BR-316 corridor + 2 integration terminals (Marituba, Ananindeua) come from Wikipedia (pt), the Pra Já help center summary, Diário do Pará, O Liberal and the Benevides prefeitura itinerary — all real/evidenced. Trunk lines M101/M102/M103 (Marituba) and A101/A102/A103/A201 (Ananindeua) with Ver-o-Peso / Praça da Bandeira / Presidente Vargas / São Brás termini are documented. Feeder lines (M311 Benevides — full street itinerary published; M304/M307/M308, A301/A308/A309/A310) modeled terminal↔neighborhood. COORDINATES: OSM Overpass and Nominatim were both blocked/rate-limited from this environment, so corridor-station lat/lon are INTERPOLATED linearly along BR-316 between two documented WGS-84 anchors (Terminal Marituba ≈ -1.3604,-48.3425 at km10.7; Entroncamento/Guanabara ≈ -1.362,-48.421 at km3.2); central-Belém trunk stops (São Brás, Praça da Bandeira, Ver-o-Peso, Presidente Vargas) and feeder termini placed at documented neighborhood centroids. These are approximate (±few hundred m) not surveyed nodes. TIMES: No published timetable/headway exists in sources; the fare is R$4.60 (free Sundays/holidays). Service hours modeled 05:00–23:00 (WD/SA), 06:00–22:00 (SU) with representative even-headway departures (WD 20min, SA 30min, SU 40min) — these clock times are SYNTHETIC, only the span is plausible. Each route has representative trips in both directions. Feed validates: 0 referential-integrity errors, monotonic stop_times, all routes bidirectional. Files at /home/ubuntu/adresses/gtfs_brt_belem/.",
+  "source": "llm-normalized"
+}

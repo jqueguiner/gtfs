@@ -1,0 +1,14 @@
+{
+  "operator": "Busitalia Campania",
+  "city": "Salerno",
+  "cc": "IT",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 61,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 146
+  },
+  "notes": "Built from Busitalia Campania official per-line PDF timetables (fsbusitalia.it \"Orari urbani di Salerno\"). Route list = 25 urban lines published; this feed models 6 representative high-use weekday lines (2, 11, 13, 19, 20, 25), each with both directions (Ascendente/Discendente), full ordered stop sequences and REAL clock times taken from the earliest weekday trip column in each PDF (route_type=3, bus — Busitalia operates no metro/tram/rail in Salerno). 61 unique stops, 12 trips, 146 stop_times. Stop coordinates are OSM/WGS-84: exact OSM bus_stop nodes where available (Garibaldi Barrella, Vinciprova, Concordia, Teatro Verdi, Pertini, Lungomare Trieste) and OSM place/hamlet/suburb/hospital nodes for the district-named stops (Ogliara, Sordina, S.Angelo, Rufoli, Fratte, Matierno, Croce, Casa Manzo, Giovi Piegolelle/Casa D'Amato/S.Bartolomeo, Mariconda, Arbostella, S.Eustachio, Mercatello, Pastena, S.Leonardo hospital, Salerno Irno station). ~20 fine-grained street-name stops (e.g. Via Manganario, Via Roma Municipio/Provincia, Via Ligea 40, Carso/Asiago/Premuda, Pio XI, Cavaliero) are placed at approximate on-corridor coordinates within their known district (10-200 m accuracy) since they are not individually mapped in OSM; none are invented — every stop comes from a PDF timetable. Nominatim geocoding was 429-blocked, so all coords come from Overpass/OSM. OSM has essentially NO Busitalia route relations for Salerno (only Flixbus/SITA), so ordering/times come from the PDFs, not OSM relations. Intermediate stop times within a trip are monotonic: PDF cell times used where reliable, +2 min interpolation where the PDF column was sparse for that stop. Calendar = weekday (Feriale) service only; lines 2/13/20/25 also run holiday variants (Festivo) and A/B are holiday-only — not modelled. Remaining ~19 published lines (3,5,6,12,14,15,16,18,21,26,28,39,40,41,42,43,A,B) not built. Confidence 0.62: stop sequences and headline times are faithful to the official PDFs; deductions for partial line coverage (6/25), single representative trip per direction (not the full daily frequency), weekday-only calendar, and ~30% of stops at district-approximate rather than exact platform coordinates.",
+  "source": "llm-normalized"
+}

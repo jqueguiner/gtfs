@@ -1,0 +1,14 @@
+{
+  "operator": "Conerobus S.p.A.",
+  "city": "Ancona",
+  "cc": "IT",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 30,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 120
+  },
+  "notes": "Feed covers two well-evidenced Conerobus Ancona lines: the trolleybus/filobus line 1/4 (Piazza IV Novembre-Passetto <-> Tavernelle) and the Aerobus Raffaello airport shuttle (Piazza Cavour <-> Marche/AOI Airport). SOURCES: conerobus.it servizi-tpl pages, Aerobus Raffaello page (07:00-22:30 daily, ~30 min run, EUR5.50 fare), Moovit line 1/4 (official route map, 24 stops, ~28 min, service starts 05:00, 5-min peak headway) and Moovit RAF (6 stops, ~37 min). The full ordered 24-stop list for 1/4 comes from Moovit's Conerobus route map (Tavernelle direction). Coordinates: railway stations, airport, Piazza Cavour are Wikidata/Wikipedia WGS-84 (accurate). Intermediate 1/4 street stops (Viale della Vittoria 22/30/42, Piazza XXIV Maggio, Marconi, G.Bruno, Torresi, Tavernelle sequence numbers) are interpolated along the known real corridor between accurate anchor points -- names are evidenced by Moovit but exact lat/lon are approximate (left non-null, best-estimate along street). CONFIDENCE 0.42: route lists and stop names/ordering are well-grounded and terminal/station coords are exact, but stop_times are synthesized from published operating hours + peak headway (no per-stop published timetable was machine-readable; the Aerobus PDF returned 404 and Moovit timetable HTML tables did not render), and ~14 intermediate stop coordinates are interpolated. Not included: the other ~40 urban/extraurban Conerobus lines and the historic separate lines 1/2/3/4 -- their stop lists were not machine-readable from the sources within scope. route_type 3 used for line 1/4 (schema restricts to 0/1/2/3/4; it is technically a trolleybus/type 11). Even-headway trips generated across the service window for both directions on Mon-Sun.",
+  "source": "llm-normalized"
+}

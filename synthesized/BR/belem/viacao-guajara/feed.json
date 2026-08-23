@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Guajará",
+  "city": "Belém",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 20,
+    "routes": 9,
+    "trips": 10,
+    "stop_times": 38
+  },
+  "notes": "Scope & provenance. Operator \"Viação Guajará\" (Belém/PA, SeMOB network) confirmed with 9 routes / 88 stops via Moovit operator page 854453 and onibus.online. OSM (operator=Guajará, source=SeMOB) only maps route 307 UFPA–Padre Eutíquio (rel 5300132 ida / 5300133 volta); no other Guajará route relations exist in OSM. onibus.online/CittaMobi confirm the 9-route list and give real schedule window times, but not per-stop coordinates.\n\nLine 307 (HIGH fidelity): the 11 stops are the exact ordered stop nodes SeMOB mapped in OSM rel 5300132 (ida) with real WGS-84 coordinates (verified: corridor runs UFPA/Guamá -1.472,-48.456 → centro -1.455,-48.498, correct for Belém). This is a SPARSE subset — the official SeMOB/CittaMobi itinerary has 72 stops (Terminal UFPA Lado A → Av. Perimetral 290, via Bernardo Sayão / Alcindo Cacela / Tv. Padre Eutíquio) — so 307 stop_times are the 11 real mapped points, not all 72. Stop names derived from the CittaMobi street sequence along the corridor. The OSM volta relation had no stop nodes mapped, so the 307 volta trip reuses the ida stops in reverse (real coords, corridor-faithful, ordering approximate). Times: real service window from onibus.online (wkdy 05:20–22:30, Sat 05:30–21:45, Sun 05:50–21:20); intra-trip stop times are even-headway (~40 min end-to-end), not a published per-stop timetable.\n\nOther 8 routes (LOW fidelity — endpoints only): 113 Cremação–Estrada Nova, 114 Cremação–Alcindo Cacela, 306 UFPA–Pedreira, 308 UFPA–Alcindo Cacela, 309 UFPA–Ver-o-Peso, 310 UFPA–Presidente Vargas, 315 UFPA–Centro Histórico, 914 Marituba–UFPA. No per-stop coordinates exist in any source and OSM has no relations, so — per the no-invented-stops rule — each is represented by only its TWO evidenced endpoints (origin + named terminus). Endpoint coordinates are real known Belém landmarks (UFPA terminal from OSM 307 stop#1; Ver-o-Peso -1.4522,-48.5036 from Wikipedia; Pres. Vargas / Centro Histórico / Cidade Velha, Pedreira, Cremação, Estrada Nova, Alcindo Cacela corridor, Marituba centro). Intermediate stops are deliberately omitted, not fabricated. 306 uses real onibus.online times (wkdy 05:12–22:37); the other 7 use representative first/last within the operator's typical 05:1x–22:3x window. Confidence 0.45 reflects: route list + 307 stops/coords + service windows are real; full stop sequences for 8 routes and 307's 61 unmapped stops are absent.\n\nSources: moovitapp.com operator 854453; onibus.online/pa/belem (307,306); linhas.cittamobi.com.br 307 (SeMOB, 72-stop itinerary); OpenStreetMap rel 5300132/5300133 (operator=Guajará, source=SeMOB); Wikipedia Ver-o-Peso.",
+  "source": "llm-normalized"
+}

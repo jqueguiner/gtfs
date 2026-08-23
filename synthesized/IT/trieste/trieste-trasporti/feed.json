@@ -1,0 +1,14 @@
+{
+  "operator": "Trieste Trasporti",
+  "city": "Trieste",
+  "cc": "IT",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 34,
+    "routes": 4,
+    "trips": 4,
+    "stop_times": 34
+  },
+  "notes": "Built from Trieste Trasporti's own per-line route pages (triestetrasporti.it/linee-orari/linea-N), which publish the ORDERED stop names (fermate) per line and the summer-2026 validity window \"dal 7 giugno al 13 settembre 2026\". Four representative urban lines are included, one direction each: L1 (largo Città di Santos/stazione FS - via Svevo), L4 (Villa Carsia/Opicina - piazza Oberdan, plateau line), L6 (San Giovanni - Grignano/Miramare), L30 (piazza della Libertà - via Locchi). Stop ORDER is authoritative (from operator pages). Stop COORDINATES are geocoded to known Trieste WGS-84 locations by street/piazza name (approximate, ~50-150 m), NOT taken from the exact OSM route-relation platform nodes: Overpass API and the raw OSM API were unreachable from this environment (ECONNREFUSED/HTTP 500 via the fetch proxy across overpass-api.de, kumi, private.coffee), so the confirmed relations (bus42 rel7289842, bus44 rel10306412, G21 rel14341380) could not be dereferenced for exact platform lat/lon. Times are REPRESENTATIVE: each route has one morning trip with an even inter-stop run time (the PDF timetables give clock times but were not machine-readable here; departure headways are ~12-15 min in summer). The historic tram line 2 (Opicina) is intentionally excluded (suspended since 2016). Sunday/holiday routing variants (via Paisiello on L1, via Giaggioli extension + piazza Tommaseo on L30, etc.) are noted by the operator but modeled as the single daily service here. Confidence reflects: authoritative route/stop lists and validity dates, but approximate coordinates and representative (not extracted) timetable times, and only 4 of ~50 lines built.",
+  "source": "llm-normalized"
+}

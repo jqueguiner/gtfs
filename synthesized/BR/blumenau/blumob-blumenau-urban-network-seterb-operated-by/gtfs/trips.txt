@@ -1,0 +1,29 @@
+route_id,service_id,trip_id,trip_headsign
+10,WEEKDAY,10_ida,Terminal Proeb via Rua São Paulo
+10,WEEKDAY,10_volta,Terminal Aterro via Rua São Paulo
+11,WEEKDAY,11_ida,Terminal Proeb via Rua 2 de Setembro
+11,WEEKDAY,11_volta,Terminal Fortaleza via Rua 2 de Setembro
+12,WEEKDAY,12_ida,Terminal Proeb via Escola Agrícola
+12,WEEKDAY,12_volta,Terminal Garcia via Escola Agrícola
+15,WEEKDAY,15_ida,Terminal Proeb via Ponte Tamarindo
+15,WEEKDAY,15_volta,Terminal Velha via Ponte Tamarindo
+30,WEEKDAY,30_ida,Terminal Proeb via Gov. Jorge Lacerda
+30,WEEKDAY,30_volta,Terminal Fonte via Gov. Jorge Lacerda
+31,WEEKDAY,31_ida,Terminal Proeb via Rua dos Caçadores
+31,WEEKDAY,31_volta,Terminal Fonte via Rua dos Caçadores
+32,WEEKDAY,32_ida,Terminal Proeb via Água Verde
+32,WEEKDAY,32_volta,Terminal Velha via Água Verde
+70,WEEKDAY,70_ida,Terminal Aterro
+70,WEEKDAY,70_volta,Terminal Proeb
+80,WEEKDAY,80_ida,Terminal Aterro via Pedro Zimmermann
+80,WEEKDAY,80_volta,Terminal Proeb via Pedro Zimmermann
+81,WEEKDAY,81_ida,Terminal Aterro via Gustavo Zimmermann
+81,WEEKDAY,81_volta,Terminal Proeb via Gustavo Zimmermann
+82,WEEKDAY,82_ida,Terminal Aterro via Jacob Ineichen
+82,WEEKDAY,82_volta,Terminal Proeb via Jacob Ineichen
+300,WEEKDAY,300_ida,Terminal Velha via Interbairros
+300,WEEKDAY,300_volta,Terminal Fortaleza via Interbairros
+10,SATURDAY,10_sat_ida,Terminal Proeb via Rua São Paulo
+10,SUNDAY,10_sun_ida,Terminal Proeb via Rua São Paulo
+MADRUGUEIRA,DAILY,MAD_1,Circular terminais (madrugada)
+MADRUGUEIRA,DAILY,MAD_2,Circular terminais (madrugada)

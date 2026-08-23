@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio PróUrbano / Ritmo (Ribeirão Mobilidade) — members Rápido D'Oeste + Transcorp, regulated by Transerp/RP Mobi",
+  "city": "Ribeirão Preto",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 13,
+    "routes": 103,
+    "trips": 205,
+    "stop_times": 56
+  },
+  "notes": "Bus-only network (route_type=3); no metro/rail/BRT mode exists in Ribeirão Preto, so METRO-FIRST is N/A. Route list (all 103 lines with numbers + names) is FULLY authoritative — scraped from onibus.online operator page and consistent with rpmobilidade.com.br. Stop coordinates are OSM/Overpass WGS-84 (via maps.mail.ru mirror; the main overpass-api.de endpoint refused connections from this host) for the major terminals: Terminal Urbano (Dra. Evangelina Passig) + platforms B/E/G, Terminal Leste, Nordeste, Sudeste, das Clínicas, Bonfim Paulista, Satélite Oeste/Estação Oeste, plus Rua Martim Afonso de Souza (line 107 Sumarezinho, geocoded to the actual PONTO 671/672 street addresses). Real published schedules were captured for 3 sampled lines and reproduced faithfully: line 107 Sumarezinho (05:00–23:18, ~50min headway both directions), line 803 José Sampaio/Centro (05:22–22:25, ~35min), and line 1 Noturno Norte (real departures 01:10/02:20/03:25). CONFIDENCE LIMITER: onibus.online per-line pages only expose the two TERMINAL endpoints (origin/destination PONTO), not the full intermediate itinerary — the official Ritmo per-line PONTO itineraries and the Diagrama da Rede are behind an interactive JS app ('Ribeirão Ponto a Ponto') that WebFetch could not render, and Overpass route-relation member ordering was not retrievable per-line under mirror rate limits. Therefore the other 100 lines have a representative 2-stop trip per direction (neighborhood-region terminal <-> Terminal Urbano) on an even 40-min daytime headway (60-min for the 8 Noturno lines, 01:00–04:00). These endpoints use real OSM terminal coordinates but the intermediate stop chains are NOT enumerated (not invented — only evidenced terminal stops are used). Calendar is a single DAILY service (Mon–Sun) since the network including Noturno lines runs 7 days; per-day frequency differences (weekday/Sat/Sun) from the sources are not split into separate calendars. To reach a high-fidelity feed, the official Ritmo per-line PONTO itinerary API and the 211 OSM route relations' ordered members would need to be harvested.",
+  "source": "llm-normalized"
+}

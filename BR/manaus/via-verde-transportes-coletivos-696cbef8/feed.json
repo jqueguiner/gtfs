@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Via Verde Transportes Coletivos",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Manaus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/manaus/via-verde-transportes-coletivos/gtfs/",
+    "mdb_id": "br-llm-via-verde-transportes-coletivos",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

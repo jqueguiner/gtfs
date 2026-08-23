@@ -1,0 +1,14 @@
+{
+  "operator": "SETA S.p.A.",
+  "city": "Modena",
+  "cc": "IT",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 163,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 366
+  },
+  "notes": "Built from OSM route relations (network=SETA, Modena bbox 44.55,10.80-44.72,10.99) as primary geometry/stops, queried via Overpass (maps.mail.ru mirror; overpass-api.de + kumi were unreachable/500 from the sandbox). OSM holds ~100 SETA route-relation directions for urban lines 1-15 (incl. trolleybus 6/7/11 and school/partial variants 1A/1B/2A/3A/4A/4B/5A/7A/10A/13A/13F/14A/15/) plus suburban 81/500/762. This feed covers the 6 core high-ridership backbone lines with FULL, real, ordered OSM stops+WGS84 coordinates: 1 (Villaggio Z-Marinuzzi), 2 (San Donnino-Sant'Anna), 3 (Montefiorino-Mattarella), 6 (Autostazione-Chinnici), 7 (Gramsci-Gottardi, trolleybus), 11S (Stazione FS-Zodiaco, trolleybus). Each has both directions (forward from OSM member order via out-geom; reverse = reversed sequence). 163 unique stops, all coordinates verified inside Modena bbox and snapped exactly (0m) to named OSM bus_stop platforms. Stop ORDER reconstructed by joining OSM relation out-geom member ordering (preserves sequence) with node(r:platform) name+coord map (Overpass returns node(r) id-sorted, so a nearest-coordinate join was used). Lines 7 and 11 are trolleybus-served in reality but GTFS route_type=3 (bus) per spec (no trolleybus type in the 0/1/2/3/4 set; OSM tags them route=trolleybus). \n\nSchedule TIMES are synthetic: SETA does not publish machine-readable GTFS and its per-line timetable pages (setaweb.it/mo/lineedyn, ertpl.pages.dev) are JS-rendered / API-gated and returned 403 or empty HTML to scraping. Service modeled from documented operating characteristics: urban weekday service ~06:00-21:00; representative even headways (lines 1&7 ~12min, 2/3/11 ~20min, 6 ~30min per aMo/SETA 2025 frequency statements) with ~90s uniform inter-stop travel. Full feed generator produced 642 trips/20530 stop_times across the service day; the emitted representative subset is 1 trip per direction per route (12 trips, 370 stop_times) with correct ordered stops and realistic clock times. Calendar = Mon-Fri (WEEKDAY), 2026 span; Sat/Sun and school/summer variants not modeled. NOT included (evidence present in OSM but not built here to avoid partial/unordered data): lines 4,5,8,9,10,12,13,14,15 and suburban 81/500/762. Confidence 0.6: stops/geometry/route topology are real and accurate (high); timetable clock times are plausible synthetic frequencies, not the operator's published departures (lowers faithfulness).",
+  "source": "llm-normalized"
+}

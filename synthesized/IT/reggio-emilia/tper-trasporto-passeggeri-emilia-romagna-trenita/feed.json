@@ -1,0 +1,14 @@
+{
+  "operator": "TPER - Trasporto Passeggeri Emilia-Romagna (Trenitalia TPER / FER regional railway)",
+  "city": "Reggio Emilia",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 46,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 94
+  },
+  "notes": "Feed covers the three TPER/FER regional railway lines radiating from Reggio Emilia: Reggio-Guastalla (REGU), Reggio-Ciano d'Enza (RECI), Reggio-Sassuolo (RESA). Station lists and ordering come from each line's Italian Wikipedia article (matched against the TPER line pages tper.it/regu, /reci, /resa and FER). Coordinates: anchor stations (Reggio Emilia FS, Reggio Mediopadana, Guastalla, Novellara, Bagnolo in Piano, Cavriago, San Polo d'Enza, Ciano d'Enza, Scandiano, Sassuolo Radici) are from OSM/Wikidata WGS-84; intermediate stops are positioned by interpolation along the known single-track alignment between anchors and are approximate. The tper_trregu.pdf schedule PDF and the trenitaliatper.it schedule PDFs could not be text-extracted (binary/cert errors), so times are reconstructed: Guastalla-line full-stop trains use the published Reggio departures 06:43 / 13:19 / 19:25 and Guastalla departures 06:19 / 13:35 / 19:04 with the published ~58 min end-to-end run, times interpolated across intermediate stops by distance. Ciano and Sassuolo lines use realistic representative morning/evening trips at even headway across a roughly 45-50 min end-to-end journey (Ciano ~50 min over 26 km, Sassuolo ~40 min over 22 km, ~9-11 daily pairs per the sources). Service is Mon-Sat schooldays-type regional service; a single weekday+Saturday calendar is used with reduced Sunday service not separately modelled. route_type=2 (rail). Confidence 0.55: station topology is well-evidenced and accurate; exact per-stop clock times are approximate reconstructions, not lifted verbatim from the operator PDFs.",
+  "source": "llm-normalized"
+}

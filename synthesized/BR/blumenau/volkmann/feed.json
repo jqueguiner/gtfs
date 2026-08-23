@@ -1,0 +1,14 @@
+{
+  "operator": "Volkmann",
+  "city": "Blumenau",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 24,
+    "routes": 2,
+    "trips": 3,
+    "stop_times": 34
+  },
+  "notes": "Empresa de Transporte Coletivo Volkmann (VTRANS), based in Testo Rega, Pomerode-SC (Rua Presidente Costa e Silva, 557). Operates 2 lines documented on onibus.online: (1) Pomerode/Blumenau intermunicipal along BR-470 passing the IFC Campus Blumenau, and (2) Circular Pomerode urban loop. Moovit source returned empty HTML; IFC page had a TLS cert error. Route/schedule times taken from onibus.online (departure lists per direction/day). Two versions of the Pomerode->Blumenau timetable were found (onibus.online vs an iamphoda/blog table); I used the onibus.online set as primary. Coordinate anchors are well-established: Terminal Aterro Blumenau (-26.8709,-49.0954), IFC Campus Badenfurt BR-470 km59 (~-26.8355,-49.1330), Volkmann garage Testo Rega (~-26.7032,-49.1617), Pomerode centro/Av.21 de Janeiro (~-26.7408,-49.1769). Intermediate corridor and Pomerode-urban stops are geocoded approximately (interpolated along the known Pomerode->BR-470->Blumenau axis and within Pomerode's urban area); they are real evidenced stop NAMES from the itineraries but their exact lat/lon are best-effort, not surveyed. No metro/rail/BRT exists for this operator (pure bus, route_type=3). trip_headsign and ordered stop_times are representative first-departures per direction; intermediate stop_times interpolated evenly between anchor endpoints. Confidence 0.55: route list, direction endpoints, service days and departure clock times are well-evidenced; exact intermediate stop ordering/coordinates and the full Blumenau in-city street sequence are approximate.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Busitalia - Sita Nord (Umbria)",
+  "city": "Perugia",
+  "cc": "IT",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 97,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 228
+  },
+  "notes": "Source: official Busitalia Sita Nord \"Perugia Extraurbano\" summer 2026 timetable PDF (012-Extra_Perugia_Ann_Bacino1.PDF) linked from fsbusitalia.it extra-urban page. Extracted with pdftotext -layout. Modeled 7 representative Perugia-basin interurban lines (E001 Gubbio, E002 Gualdo Tadino via Valfabbrica, E003 Marsciano, E006 Assisi-Bettona, E007 Petrignano-Assisi, E012 Deruta-Todi, E017 Lake Trasimeno-Terontola), each with one representative trip per direction using REAL clock times read from the PDF timetable columns. Ordered stop lists are taken directly from the PDF. Coordinates: major towns/stations (Perugia Fontivegge, Deruta, Todi, Gubbio, Assisi, Bastia, Magione, Passignano, Marsciano, Valfabbrica, Gualdo Tadino, S.M. degli Angeli, S.Egidio airport) are WGS-84 from Wikipedia/Wikidata/web search. Intermediate hamlets/wayside stops are placed at approximate WGS-84 points interpolated along the route corridor (not survey-grade). Service calendar reflects the PDF validity 29 Jun–13 Sep 2026 with FLS=Mon–Sat, FLV=Mon–Fri, FE=Sun/holiday note codes. Full basin has ~40+ extra-urban lines (E001–F022 plus Altre_Linee E201–E241) plus Spoleto/Terni basins not modeled here. Inbound trips for some lines were reconstructed by mirroring the outbound stop order where the return column mapped to a different clock departure. route_type=3 (bus); no metro/rail/tram in this operator's extra-urban network.",
+  "source": "llm-normalized"
+}

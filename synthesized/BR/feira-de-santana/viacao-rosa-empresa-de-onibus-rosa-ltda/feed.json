@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Rosa (Empresa de Ônibus Rosa Ltda.)",
+  "city": "Feira de Santana",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 15,
+    "routes": 17,
+    "trips": 34,
+    "stop_times": 110
+  },
+  "notes": "All-bus feed (route_type=3); Feira de Santana has NO operating metro/light-rail/BRT/suburban rail — the \"300 BRT\" listed on aggregators is a planned/informal corridor, not a built rail/BRT line, so no rail feed was built. Operator confirmed via onibusbrasil.com (Rosa Feira de Santana) and Moovit operator page 5891-1616882. Route list & itineraries from horariodeonibus.net and onibus.online (95 city lines total; Rosa runs ~52). Built 17 lines that search evidence attributes to Viação Rosa: 003, 068, 077, 078, 079, 081, 082, 083, 084, 087, 088, 106, 111, 119 plus the three Rosa \"Leva e Panha\" reinforcement lines 20000/21000/22000. STOPS: Moovit per-line pages carry exact ordered stops+coords but are fully JS-rendered and returned empty via WebFetch; Overpass/Nominatim direct HTTP was unreachable from the sandbox (only WebFetch/WebSearch have network), so I geocoded each route's documented terminals + neighborhood endpoints/corridor waypoints via Nominatim/OSM (WGS-84). 15 real, named, geocoded stops are used; NO fictitious intermediate street stops were invented — each route is modeled as terminal↔origin-neighborhood with documented via-points only, so the stop granularity is coarser than the real ~875-stop network. TIMES: FSA bus schedules are published as headway/real-time, not open per-trip timetables, so each route gets one representative trip per direction starting 06:00 with an even 6-min inter-stop spacing (placeholder clock times, realistic ordering). Calendar = daily (bus runs all week in FSA). Confidence 0.42 reflects: correct operator/city/route-identity and correct WGS-84 endpoint coords, but coarse stop lists and synthetic times. To raise fidelity: render Moovit line pages (headless browser) for full ordered stops+coords, and obtain SMTT Feira de Santana published grades horárias for real departure times.",
+  "source": "llm-normalized"
+}

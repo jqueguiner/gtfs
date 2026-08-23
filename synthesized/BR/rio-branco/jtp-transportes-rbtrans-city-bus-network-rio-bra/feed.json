@@ -1,0 +1,14 @@
+{
+  "operator": "JTP Transportes (RBTrans city bus network, Rio Branco/AC)",
+  "city": "Rio Branco",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 37,
+    "routes": 40,
+    "trips": 90,
+    "stop_times": 180
+  },
+  "notes": "Bus-only network (no metro/rail/BRT exists in Rio Branco). 40 lines taken from onibus.online/ac/riobranco (RBTrans official schedules, last updated Apr 2026; source lists 49 total but several are sub-variants — 602B/604/702B/702C/704/705 — folded or omitted for lack of distinct endpoint data). Per-line pages publish only the two TERMINALS (outer neighborhood <-> Terminal Central, or Terminal Tucuma/UFAC for university lines 302/303/306) plus real departure windows; intermediate stops are NOT published per line on any given HTML source, and the Moovit 3420 page + transportes.riobranco.ac.gov.br/linhas.html returned empty/timed out via WebFetch, so no full ordered stop sequences could be extracted. Feed is therefore a hub-and-spoke skeleton: each route = outer terminal <-> hub with one representative trip per direction per service (WEEK/SAT/SUN) at a 05:00 first outbound / 05:40 first return departure and ~35min run time, consistent with the confirmed timetables for lines 101 (Mon-Sun 05:00-23:00), 201 and 302. Stop coordinates are OSM/Nominatim WGS-84 geocodes of terminal/neighborhood names (Terminal Central = Rua Sergipe 321 Centro; Terminal Tucuma approximated at UFAC; some neighborhoods share an approximate centroid where a precise highway=bus_stop node was unavailable). Confidence 0.4: route set, service days/hours and terminal endpoints are faithful and real, but intermediate stops and exact per-departure headways are not represented. To reach high fidelity, ordered stop sequences would need to come from Moovit per-line pages or OSM route relations (e.g. relation 10956406), which were not retrievable here.",
+  "source": "llm-normalized"
+}

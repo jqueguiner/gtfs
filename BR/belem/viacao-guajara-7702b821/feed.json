@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Guajará",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Belém"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/belem/viacao-guajara/gtfs/",
+    "mdb_id": "br-llm-viacao-guajara",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

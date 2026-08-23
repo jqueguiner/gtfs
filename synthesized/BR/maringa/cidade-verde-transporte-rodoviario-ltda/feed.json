@@ -1,0 +1,14 @@
+{
+  "operator": "Cidade Verde Transporte Rodoviário Ltda.",
+  "city": "Maringá",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 27,
+    "routes": 25,
+    "trips": 150,
+    "stop_times": 336
+  },
+  "notes": "Route list (all 25 lines) is faithful, taken directly from onibus.online/empresas/cidade-verde (line numbers + destinations verified against Moovit line index). Line 901 timetable is the real published schedule (horariodeonibus.net: WD/Sat/Sun departure sets); other routes use realistic clock times seeded from the 901 pattern and typical Maringá terminal-to-neighborhood run times (~33-39 min urban 254x; 50-75 min intercity). CONFIDENCE IS MODERATE because the per-line ordered stop lists could NOT be extracted: Moovit line pages are JS-rendered (empty via WebFetch), the DER-PR PDF (REG0511 line 001.0254-410) is a scanned/binary PDF whose text did not extract, tonoponto returned HTTP 403, and the horariodeonibus 480 page had no data. As a result each route is modeled as an origin-destination skeleton (Terminal <-> endpoint, with the known intermediate for the Paiçandu corridor: Guanabara/Paiçandu) rather than the full 40-76-stop itinerary. Intercity endpoints use Wikipedia/Wikidata WGS-84 municipal centroids (Ivatuba, Itambé, Paiçandu, Doutor Camargo, Floresta, Sarandi) - accurate. The Terminal Intermodal Urbano Dr. Said Felício Ferreira (Av. Horácio Raccanello Filho 667, Zona 01) and the Aeroporto Regional de Maringá coords are correct. Maringá neighborhood-endpoint coords (Jd. Ouro Verde, Independência, etc.) are approximate placements within the municipality (OSM/Nominatim geocoding was blocked by 429/network failures and the main Overpass endpoint was unreachable from the sandbox), so they should be treated as neighborhood-level, not stop-precise. No stops were invented beyond documented line endpoints. To raise confidence: render the Moovit line pages (headless) or OCR the DER-PR PDFs for the full ordered stop lists + km, and geocode each stop via Overpass/OSM. Longest line is 801 Ivatuba (~51 km, ~76 stops per Moovit) - modeled here as Terminal-Paiçandu-Ivatuba. Build script: /home/ubuntu/adresses/build_maringa_cidadeverde.py; feed JSON: /home/ubuntu/adresses/gtfs_maringa_cidadeverde.json",
+  "source": "llm-normalized"
+}

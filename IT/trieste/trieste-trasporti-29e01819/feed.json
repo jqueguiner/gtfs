@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trieste Trasporti",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Trieste"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/trieste/trieste-trasporti/gtfs/",
+    "mdb_id": "it-llm-trieste-trasporti",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

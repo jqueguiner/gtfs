@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Sorocaba (MobiBrasil)",
+  "city": "Sorocaba",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 32,
+    "routes": 1,
+    "trips": 8,
+    "stop_times": 136
+  },
+  "notes": "Covers BRT Sorocaba line T240 \"Expresso Ipiranga (via General Carneiro)\" in BOTH directions, the only line for which the sources gave an explicit ordered stop list. Sources: Cittamobi line pages for T240 Terminal Ipiranga (15 stops) and T240 Terminal Santo Antonio (19 stops) gave full ordered stop sequences with street addresses and published operating hours + headways (weekday 04:15/04:45-23:50 ~11min; Sat ~19min; Sun ~36min). diariodotransporte / prefeitura PPP / brtsorocaba.com.br confirmed operator (BRT Sorocaba Concessionaria = MobiBrasil + CS Brasil/JSL), the Terminal Ipiranga + Corredor Estrutural Oeste (opened 2024-05-04), and corridor streets (General Carneiro, Armando Pannunzio, Americo Figueiredo, Benedito Ferreira Telles). The Cittamobi/Moovit PDF route map and Moovit line page could not be parsed (binary PDF; Moovit returned empty/403).\n\nCoordinates: geocoded via Photon/Komoot (OSM WGS-84). Terminal endpoints and named streets (Av. General Carneiro -23.5032,-47.4691; Av. Americo Figueiredo -23.5042,-47.4947; Rua Benedito Ferreira Telles -23.5068,-47.4907; R. Joaquim Jose Batista Ferreira -23.5086,-47.4859; Av. Moreira Cesar; Rua Cesario Mota; Praca Nicolau Scarpa; Av. Luiz Ferraz de Sampaio Jr) are directly geocoded; intermediate numbered-address stops along General Carneiro / Americo Figueiredo / Benedito Ferreira Telles are interpolated along the corridor between geocoded anchors (accurate to ~50-150m, correct street + ordering). Nominatim/Overpass were rate-limited/blocked from the sandbox so per-address geocoding was not possible; hence not all midpoint coords are surveyed.\n\nThe two directions use different one-way street pairs (westbound outbound via Av. General Carneiro then Av. Americo Figueiredo to Terminal Ipiranga; eastbound return via Benedito Ferreira Telles / Joaquim Jose Batista Ferreira back onto Gen. Carneiro then Moreira Cesar/Cesario Mota to downtown), so the 15+19 stops are largely distinct = 32 unique stops (correct, not duplicated).\n\nRepresentative trips: 2 weekday + 1 Saturday + 1 Sunday per direction (8 trips), with a ~14-18 min run time matching the published Moovit ride estimate. Headways are documented but full timetable grid is not published per-departure, so times are first-departure + realistic run time rather than the complete daily schedule. Confidence 0.62: stop names/order/streets and operating window are well-sourced from Cittamobi; exact per-stop times and some intermediate coordinates are modeled. route_type=3 (BRT runs as bus in GTFS).",
+  "source": "llm-normalized"
+}

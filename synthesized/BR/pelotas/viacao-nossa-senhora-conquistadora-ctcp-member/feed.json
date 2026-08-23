@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Nossa Senhora Conquistadora (CTCP member)",
+  "city": "Pelotas",
+  "cc": "BR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 93,
+    "routes": 2,
+    "trips": 5,
+    "stop_times": 243
+  },
+  "notes": "Built from CittaMobi line pages for the Conquistadora \"1701 Passo do Salso\" family (the only Conquistadora Pelotas lines exposed in the given sources); the operator's own site conquistadora.com.br refused all connections (ECONNREFUSED), so no additional routes/itinerary \"texto/[linha]\" pages could be scraped. Two line variants captured: 1751 (Passo do Salso VIA PELOTENSE, 47 raw stops from the CittaMobi HTML line page, outbound Centro->Fragata) and 1703 (Passo do Salso FRAGATA, 53 stops from the CittaMobi PDF, extracted locally with pdftotext, inbound Fragata->Centro). Stops deduped by name to 93 unique. Ordered stop lists and street/house-number addresses are directly evidenced. SCHEDULE: line 1703 PDF gave a full \"tabela horaria\" (Mon-Thu 05:55-21:05 hdwy 70min; Fri 07:40-19:55 hdwy 105min; Sat 07:05-20:10 hdwy 71min; Sun 07:40-19:55 hdwy 105min) - one representative trip per service day built at the published start times, ~60min run. Line 1751 only exposed single \"next departure\" samples (weekday 07:05, Sat 18:12, no Sunday), so representative weekday+Saturday trips built at those clock times, ~55min run; no full timetable available for 1751. COORDINATES: OSM/Photon (Komoot) WGS-84 street/neighbourhood anchors (Nominatim was rate-limiting HTTP 429 from this IP); Photon does not resolve individual Brazilian house numbers, so per-stop lat/lon are interpolated along each avenue's OSM geometry between geocoded anchors (Passeio dos Rodoviarios, Gen. Osorio, Bento Goncalves, Duque de Caxias, Cidade de Lisboa, Rua Um/Vila Governaco, Praca 20 de Setembro, Andrade Neves). All 93 stops verified inside the Pelotas bounding box; positions are approximate (street-level, not exact address). No stops invented - every stop corresponds to an evidenced CittaMobi entry. Confidence 0.5: stop lists/order strong and 1703 schedule real, but 1751 timetable is a sample only, coords are interpolated not exact, and the operator's full route roster could not be retrieved.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "BluMob (Blumenau urban network — SETERB, operated by Viação Piracicabana)",
+  "city": "Blumenau",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 6,
+    "routes": 13,
+    "trips": 28,
+    "stop_times": 60
+  },
+  "notes": "Sources: blumob.com.br (schedule landing page links out to bus2.info + BluMob app; no inline tables), onibus.online/empresas/blumob (full route list: 96 lines by class + trunk line names/vias), Blumenau SETERB official page (6 named terminals with street addresses, service structure: 12 trunk / 64 feeder / 4 health lines + Madrugueira midnight-04:00 night service, fares R$5.50 pre-paid / R$6.80 on-board). bus2.info report and per-line pages are JS-rendered and were NOT machine-fetchable, so exact per-stop street sequences and published clock times per line could not be extracted.\n\nWhat IS well-evidenced and modeled faithfully: the 6 official urban terminals (names + addresses), the full trunk-line list with real names/vias (10 via Rua São Paulo, 11 via 2 de Setembro, 12 via Escola Agrícola, 15 via Ponte Tamarindo, 30 via Gov. Jorge Lacerda, 31 via Rua dos Caçadores, 32 via Água Verde, 70 Proeb/Aterro, 80 via Pedro Zimmermann, 81 via Gustavo Zimmermann, 82 via Jacob Ineichen), and the Interbairros/Alimentador integration structure.\n\nWhat is APPROXIMATE / synthesized (hence confidence 0.42): stop coordinates — only Terminal Aterro is precisely anchored (-26.8709,-49.0954, taxi stand at the terminal); the other 5 terminals are geocoded from their documented street addresses/neighborhoods (WGS-84, correct ~±300m). Trips are anchored ONLY at terminals (no intermediate street stops, since per-line stop sequences were not extractable) and use even headways across the documented service span (day service ~05:00–24:00, Madrugueira 24:00–04:00) rather than the real published timetable. No stops were invented — every stop is a documented SETERB terminal.\n\nThis is a terminal-level trunk-network skeleton, not a full stop-level feed. A faithful full feed needs the bus2.info per-line tables or the BluMob app GTFS.\n\nSources:\n- https://onibus.online/empresas/blumob/\n- https://www.blumenau.sc.gov.br/governo/seterb/pagina/transportes-seterb/coletivo-seterb\n- https://www.blumob.com.br/noticias/horario-das-linhas/28\n- https://moovitapp.com/index/en/public_transit-Terminal_Aterro-Blumenau (coordinate anchor)",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SINETRAM / IMMU consortium (Manaus city bus network — ACOP)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Manaus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/manaus/sinetram-immu-consortium-manaus-city-bus-network/gtfs/",
+    "mdb_id": "br-llm-sinetram-immu-consortium-manaus-city-bus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Start Romagna",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Ravenna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/ravenna/start-romagna/gtfs/",
+    "mdb_id": "it-llm-start-romagna",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

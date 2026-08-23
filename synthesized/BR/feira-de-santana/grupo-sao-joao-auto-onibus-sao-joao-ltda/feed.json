@@ -1,0 +1,14 @@
+{
+  "operator": "Grupo São João (Auto Ônibus São João Ltda.)",
+  "city": "Feira de Santana",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 6,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 16
+  },
+  "notes": "Operator = Auto Ônibus São João Ltda. (\"Grupo São João\"), CNPJ 71.445.555, part of the Feira Mob / Via Feira integrated system (SIT) in Feira de Santana, BA. Official site gruposaojoao.com.br. NO metro/rail/BRT-with-stations exists for this operator — it runs urban/metropolitan buses only (all route_type=3), so the \"metro/rail first\" priority does not apply. Sources report ~40 São João lines with 754 stops total, but the per-line ordered intermediate-stop lists on Moovit are JavaScript-rendered and returned EMPTY via WebFetch, and onibus.online/horariodeonibus.net only publish the departure timetable plus route endpoints (not the full ordered stop sequence). To avoid inventing stops, only endpoints + evidenced intermediates were modeled. Real published departure timetables WERE obtained from onibus.online for 3 representative São João lines and used for the first-departure trips: 009 Polo Industrial (weekday from TC 04:45; from Polo 05:00), 012 Humildes via Limoeiro (weekday from TC 05:20; from Humildes 05:30; the 012 is documented as the operator's longest line, Terminal Central→Conceição do Jacuípe, 22 km / 36 stops, so it is extended to CJAC with Limoeiro+Humildes as evidenced waypoints), and 038 Monte Pascoal (weekday only, from TC 05:50; from Monte Pascoal 06:05). Intermediate arrival times between endpoints are interpolated (even spacing) since only terminal departure times are published. Coordinates are WGS-84: Conceição do Jacuípe from Wikidata Q988781 (-12.3269,-38.7650); Terminal Central, Humildes, Limoeiro, Polo Industrial/CIS and Monte Pascoal are placed at their established Feira de Santana localities/neighborhoods from local geography (Nominatim was HTTP-429 rate-limited at build time). Confidence 0.45: departure timetables and route identity are faithful to the real published schedule, but the feed covers only 3 of ~40 lines and omits the unpublished intermediate stops, and intermediate coordinates/times are approximate.",
+  "source": "llm-normalized"
+}

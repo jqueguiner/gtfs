@@ -1,0 +1,14 @@
+{
+  "operator": "Cidade de Boa Vista Transportes Urbanos Ltda",
+  "city": "Boa Vista",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 17,
+    "routes": 1,
+    "trips": 8,
+    "stop_times": 92
+  },
+  "notes": "Boa Vista (RR) has NO metro/rail/BRT — bus-only system operated by the concessionaire \"Cidade de Boa Vista Transportes Urbanos Ltda\" under EMHUR (municipal regulator). Only Linha 104 (Bairro União / Terminal Centro <-> Cidade Satélite) has a full stop-by-stop published itinerary on the EMHUR itinerarios pages, so that is the single route built here with both directions (104B Centro->Satélite, 104C Satélite->Centro). EMHUR lists ~16 lines and bus2.info/onibus.online list up to 19, but only 104's ordered paradas are documented; the rest are not built to avoid inventing stops. The published paradas (24 in dir B, ~40 in dir C) were consolidated into distinct geocodable street/neighborhood locations. Coordinates from OSM/Nominatim (WGS-84): Ene Garcez (via UFRR node), Brig. Eduardo Gomes, Princesa Isabel, Joca Farias/Caranã, Rui Barauna/União, Av. Universo/Cidade Satélite, Av. Gêmeos, Consolação de Matos, Vila Jardim, Carlos Pereira de Melo, Félix Valois, Barreto Leite terminal. A few streets (Deco Fontele, Dom Aparecido Dias, Sebastião Correa Lira, Josemar Batista Souza) did not geocode and were interpolated from adjacent anchors along the corridor; Rua Rui Barauna resolved to an adjacent União-district road (~same corridor). Schedule: EMHUR 104 page gives first departure 05:14 and last 23:15 from Satélite; distinct weekday/Saturday/Sunday schedule PDFs exist (Carta-Corrida-*), so service runs daily. Representative trips use realistic clock times (early + midday) across the ~05:00-23:15 span; individual per-parada times are not published so even running times are used. Frota-e-horario page only links PDFs (not machine-read here). Confidence 0.42: operator/route/direction/stop-ordering are well-evidenced for 104; exact stop coordinates and per-trip timetable are approximate; 15+ other lines omitted for lack of documented stop lists.",
+  "source": "llm-normalized"
+}

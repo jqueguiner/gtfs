@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SVT - Societa Vicentina Trasporti (extraurban / provincial lines)",
+    "country": "IT",
+    "subdivision": null,
+    "city": "Vicenza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/vicenza/svt-societa-vicentina-trasporti-extraurban-provi/gtfs/",
+    "mdb_id": "it-llm-svt-societa-vicentina-trasporti-extraurb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

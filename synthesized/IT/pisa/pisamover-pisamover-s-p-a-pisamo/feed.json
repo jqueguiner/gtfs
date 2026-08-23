@@ -1,0 +1,14 @@
+{
+  "operator": "PisaMover (Pisamover S.p.A. / PisaMo)",
+  "city": "Pisa",
+  "cc": "IT",
+  "confidence": 0.82,
+  "counts": {
+    "stops": 3,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 6
+  },
+  "notes": "Pisa Mover is an automated people mover / cable-drawn funicular (OSM route=funicular, operator PisaMo, wikidata Q17651321) linking Pisa Airport and Pisa Centrale FS station via one intermediate stop (San Giusto/Aurelia park-and-ride). Classified route_type=7 (funicular). Service: daily ~06:00-24:00 (extended to 01:00 Jun 1-Sep 30), every 15 min, ~5 min end-to-end (pisatickets.com timetable + operator shuttle page). Full even-headway schedule = 72 trips/direction (06:00 first, 23:45 last dep, 15-min headway); one representative trip per direction is provided here with realistic clock/dwell times. Coordinates: two termini from OSM relation 7085517 nodes (WGS-84) cross-checked with Wikidata; intermediate stop from OSM stop_position node 5491005869, matching the operator 'Where we are' Via Aurelia/Via delle Colombaie location. Confidence 0.82: stops/order/coords and operating hours+headway are well-evidenced; exact per-stop dwell times and the summer extended-hours calendar variant are approximated, and only representative trips (not all 72) are enumerated.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "JTP Transportes / COM Porto Velho (COMPVH)",
+  "city": "Porto Velho",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 40,
+    "routes": 38,
+    "trips": 200,
+    "stop_times": 14
+  },
+  "notes": "Built from the official COMPVH \"Horários e Itinerários\" PDF (compvh.grupojtp.com.br, updated 24/07/2026, 18 pages) linked from the operator portal and cross-referenced with the Semtran Porto Velho page. The PDF gave, per line, the full weekday/Saturday/Sunday departure timetables for BOTH directions AND the ordered via-street itinerary lists — these are the load-bearing source. All 38 lines/variants (110–319A) are captured with route_type=3 (bus; COMPVH runs no metro/rail — Porto Velho has none). \n\nSTOPS: the operator/city publish NO stops layer, and the itineraries are ordered STREET lists, not named stops with coordinates. I therefore built a 40-stop network from the real named termini plus the major shared corridor avenues that recur across lines (Farquar, Sete de Setembro, Calama, Amazonas, Mamoré, Jorge Teixeira, Rio Madeira, Jatuarana, Guaporé, etc.). Each trip's stop sequence is the ordered subset of these network anchors that its official itinerary passes through — every stop is evidenced by the itinerary text; none invented.\n\nCOORDINATES: WGS-84, assigned from known Porto Velho street geography (city centre -8.7619,-63.9039 confirmed via WebSearch; UNIR on BR-364 km9.5). OSM Overpass and Nominatim were both hard-blocked (HTTP 429 / connection-refused) from this environment, so precise per-anchor OSM centroids could not be fetched; coordinates are corridor-level approximations (typically within a few hundred metres of the true avenue), NOT surveyed stop points — this is the main confidence limiter.\n\nTRIPS: one representative trip per direction per service day, timed from the FIRST real departure in each schedule block; intermediate stop_times use an even ~4-min inter-anchor spacing (real dwell/segment times aren't published). Lines 217/218/219/220 are circular Interbairros/Grande-Circular loops (single direction). Line 122 (Santa Marcelina) runs all days; line 222 (Vila Teotônio) is a rural Tue/Fri + Sunday service (service_id TUEFRI/SUN). Full per-departure frequency is in the PDF but only first-departure trips are materialised here.\n\nFor a higher-confidence feed, geocode the 40 anchors + intermediate points against OSM bus_stop nodes / route=bus relations (blocked here) and expand each schedule block's full departure list into individual trips.",
+  "source": "llm-normalized"
+}

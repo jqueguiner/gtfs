@@ -1,0 +1,14 @@
+{
+  "operator": "SETA S.p.A. - Modena filovia (trolleybus)",
+  "city": "Modena",
+  "cc": "IT",
+  "confidence": 0.66,
+  "counts": {
+    "stops": 159,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 251
+  },
+  "notes": "Modena trolleybus (filovia) network operated by SETA S.p.A. Stops, ordering and WGS-84 coordinates are AUTHORITATIVE from OpenStreetMap route=trolleybus relations operator=SETA (rels 5823629/5823691 line 6; 7272066/7272067 line 7; 15677819/15677820 line 7A; 7272068/7272069 line 11N; 15692986/15692987 line 11S) plus highway=bus_stop nodes (overpass.openstreetmap.fr). Route list, route codes and ordered stop names cross-validated against the live SETA backend (setaapi.serverissimo.com /routecodes + /routestops/{code}, the API behind ertpl.pages.dev/SetaAPI): line 6 -> Chinnici/Autostazione (+6A Santi, +6B Villanova branches), line 7 Gramsci<->Gottardi (+7/ Stazione FS variant, 7A weekend), line 11 split into 11N (Sant'Anna<->Autostazione) and 11S (Zodiaco<->Stazione FS). setaweb.it per-line pages and corse-tabella timetable endpoint are Cloudflare-403 to non-browser clients, so exact published clock times could not be scraped. STOP TIMES are SYNTHESISED: even headways over published service windows (line 6 = 20 min all day ~05:45-21:05 incl. weekends; line 7 = ~12 min peak Mon-Sat 06:00-20:30; line 7A = Sunday variant; line 11N/11S = feriale Mon-Sat ~15 min, suppressed on festivi -> no Sunday service, replaced in reality by line 13F) with ~1.5 min inter-stop urban spacing. This structured object carries all 159 stops, 5 routes and 1 representative trip PER DIRECTION per route (10 trips, 251 stop_times); the full even-headway build expands to 1140 trips / 29265 stop_times. route_type=3 (bus) used for trolleybus (GTFS has no distinct trolleybus type; extended 800 optional). Modena is NOT metro/rail; trolleybus is the flagship high-frequency mode here and was prioritised. Stop pairs (both platforms of a street stop) are kept as distinct nodes with their own OSM coords. Confidence 0.66: geometry/stops/coords/route topology are real and verified; timetable clock times are frequency-derived, not the exact SETA published schedule.",
+  "source": "llm-normalized"
+}

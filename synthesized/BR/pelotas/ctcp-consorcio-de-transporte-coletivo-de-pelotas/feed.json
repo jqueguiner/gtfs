@@ -1,0 +1,14 @@
+{
+  "operator": "CTCP - Consórcio de Transporte Coletivo de Pelotas (urban network, umbrella)",
+  "city": "Pelotas",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 96,
+    "routes": 1,
+    "trips": 8,
+    "stop_times": 100
+  },
+  "notes": "Built from CittaMobi per-line data for CTCP Pelotas line 1701 \"Passo do Salso\" (operated by Conquistadora, the operator CTCP mapped to CittaMobi). Two directions are well-evidenced: outbound 1703 (Vila Governaço/Fragata -> Passeio dos Rodoviários/Centro, 53 stops) came from the downloadable CittaMobi PDF route map (document dated 04/04/2026) with full street-level stop list AND a published schedule table (TABELA HORÁRIA); inbound 1751 (Centro -> Fragata, 47 stops) came from the CittaMobi line HTML page. Real published schedule used: Mon-Thu 05:55-21:05 (~70min headway), Fri 07:40-19:55 (~105min), Sat 07:05-20:10 (~71min), Sun 07:40-19:55 (~105min). Trips generated at those even headways across the real service windows; ~50min end-to-end run time assumed. route_type=3 (bus). Only line 1701 is included: the Moovit source returned empty content and the Prati/portalprati schedule portal is a city-selector wall (no machine-readable line data), so the other ~40 CTCP lines could not be sourced. GEOCODING CAVEAT (main confidence driver): Overpass and Nominatim were unreachable/rate-limited from this sandbox, so stop coordinates are NOT direct OSM node lookups. They are interpolated along the real corridor between WGS-84 anchor points obtained via WebSearch (city center -31.7719,-52.3425; Praça Cel. Pedro Osório -31.7700,-52.3410; Av. Duque de Caxias/Fragata IBGE -31.7556,-52.3897; OSM -31.7563,-52.3825). Street names, ordering, origin/terminus, stop counts and schedule are faithful to the source; individual stop lat/lon are approximate (corridor-accurate to ~100-400m, all inside the Pelotas admin bbox and on the correct avenues). No stops were invented. To raise confidence: re-run the Overpass geocode (script at /home/ubuntu/adresses/gtfs_ctcp_pelotas/build.py) for exact bus_stop nodes, and add the remaining CTCP lines from CittaMobi PDFs. GTFS files written to /home/ubuntu/adresses/gtfs_ctcp_pelotas/ (agency.txt, stops.txt, routes.txt, trips.txt=84 trips, stop_times.txt=4200 rows, calendar.txt); validated: 0 referential/coordinate/time-monotonicity errors. The stop_times below include the two full representative WEEK trips (one per direction, 53+47 rows); the on-disk feed has all 84 trips.",
+  "source": "llm-normalized"
+}

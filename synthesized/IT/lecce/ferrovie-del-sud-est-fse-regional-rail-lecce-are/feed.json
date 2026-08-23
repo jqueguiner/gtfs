@@ -1,0 +1,14 @@
+{
+  "operator": "Ferrovie del Sud Est (FSE) - regional rail (Lecce area)",
+  "city": "Lecce",
+  "cc": "IT",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 19,
+    "routes": 2,
+    "trips": 20,
+    "stop_times": 250
+  },
+  "notes": "Operator: Ferrovie del Sud Est (FSE), regional rail in the Salento / Lecce area, Apulia, Italy. Scope: the Lecce-Otranto railway (Lecce->Zollino->Maglie->Otranto corridor) and its Zollino-Gallipoli branch (Zollino->Galatina->Nardo->Gallipoli).\n\nSTOPS: Station list from Wikipedia (Lecce-Otranto railway and Zollino-Gallipoli railway route diagrams). Coordinates from Wikipedia station infoboxes and Wikidata (WGS-84), cross-referenced with OSM railway=station nodes. All stops are evidenced stations; none invented. Coordinates verified per-station:\n- Lecce 40.34556,18.16611 (Wikipedia/OSM node 1764652046)\n- San Cesario di Lecce 40.30389,18.16639\n- San Donato di Lecce 40.26972,18.18528\n- Galugnano 40.25639,18.20639\n- Sternatia 40.21806,18.22528\n- Zollino 40.19889,18.23722\n- Corigliano d'Otranto 40.16180,18.26235\n- Melpignano 40.14793,18.27717\n- Maglie 40.12583,18.29972\n- Bagnolo del Salento 40.14630,18.35430\n- Cannole 40.15604,18.37292\n- Giurdignano 40.14282,18.43950\n- Otranto 40.14944,18.48028\n- Soleto (halt near Zollino/Galatina) 40.18000,18.20800 (approx from town/OSM; no dedicated station infobox)\n- Galatina 40.17904,18.16468 (Wikidata Q57084171)\n- Nardo Centrale 40.16171,18.04928 (Wikidata Q26882832)\n- Sannicola 40.09010,18.05600 (Wikidata Q86662023)\n- Alezio 40.06850,18.05230 (Wikidata Q86662032)\n- Gallipoli 40.05750,17.98806 (Wikipedia/Wikidata)\n\nROUTES / SCHEDULE: FSE line structure confirmed (Line 5 Lecce-Gallipoli, Line 7 Maglie-Otranto, plus Lecce-Zollino-Maglie trunk). The FSE official site (fseonline.it / fssudest.it) is a JS-rendered Salesforce page and did not expose timetable HTML/PDF to the fetcher; Omio/aggregator pages were 403. Frequency was documented via aggregator: ~5 daily services each direction on the Lecce-Otranto corridor, journey Lecce->Otranto ~1h35-1h55 (change at Maglie), Lecce->Gallipoli ~1h. Because exact published clock times could not be scraped, stop_times use realistic even-headway clock times across the documented service window (approx 06:00-21:00) with inter-station running times scaled to the km posts from Wikipedia (Lecce km0, Zollino km19, Maglie km29, Otranto km47). Two representative routes built, each with both directions and 5 trips/direction.\n\nCONFIDENCE 0.55: stops, ordering and coordinates are high-fidelity (Wikipedia/Wikidata/OSM); route existence and service span are documented; exact departure clock times are synthesized (even headway) rather than scraped from the official timetable, so times are approximate.",
+  "source": "llm-normalized"
+}
