@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Urbano~De~Burgos",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2150",
+    "mdb_id": "f-autobús~urbano~de~burgos",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

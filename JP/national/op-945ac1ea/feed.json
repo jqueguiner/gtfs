@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "西尾市~いっちゃんバス",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/nishiocity/feeds/ichanbus/files/feed.zip",
+    "mdb_id": "f-西尾市~いっちゃんバス",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

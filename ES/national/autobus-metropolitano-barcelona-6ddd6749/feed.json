@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Metropolitano~Barcelona",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1496",
+    "mdb_id": "f-autobús~metropolitano~barcelona",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

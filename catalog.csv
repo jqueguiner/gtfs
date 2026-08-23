@@ -32,6 +32,10 @@ AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
 AT,Wels,BBS Schapfl,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/ding.zip,mdb-770,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 AT,national,Oebb~At,https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip,f-oebb~at,CC-BY-4.0,active
+AT,national,U3W4~Morag,https://files.girlc.at/gtfs/morag.zip,f-u3w4~morag,CC0-1.0,active
+AT,national,U3W~Orneta,https://files.girlc.at/gtfs/orneta.zip,f-u3w~orneta,CC0-1.0,active
+AT,national,U3W~Piecki,https://files.girlc.at/gtfs/piecki.zip,f-u3w~piecki,CC0-1.0,active
+AT,national,U3W~Powiat~Olsztynski,https://files.girlc.at/gtfs/powiat_olsztynski.zip,f-u3w~powiat~olsztynski,CC0-1.0,active
 AT,national,ÖBB-Personenverkehr / EVU (nationwide rail),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27321/file,at-gtfs-evu-2026,Data License Mobilitätsverbünde Österreich,active
 AU,Alexandra,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip#2/google_transit.zip,f-r1r-ptv,CC-BY-4.0,active
 AU,Alexandra,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip#4/google_transit.zip,f-r1r-ptv~4,CC-BY-4.0,active
@@ -624,6 +628,10 @@ DE,national,Nordbahn Eisenbahngesellschaft,https://download.gtfs.de/germany/free
 DE,national,Norddeutsche Eisenbahn Gesellschaft,https://download.gtfs.de/germany/free/latest.zip,de-ag-fa63ed9a1f,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Nordsachsen Mobil,https://download.gtfs.de/germany/free/latest.zip,de-ag-e4c92e4e6a,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,Nordseebad Spiekeroog GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-7774e9cc1b,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,Nvbw~Filsland,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/filsland.zip,f-nvbw~filsland,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,Nvbw~Naldo,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/naldo.zip,f-nvbw~naldo,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,Nvbw~Rxr,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rxr.zip,f-nvbw~rxr,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+DE,national,Nvbw~Swhn,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/swhn.zip,f-nvbw~swhn,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,national,Nvh~De,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/nvh.zip,f-nvh~de,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 DE,national,O.K. Reisen - Kleinhenz GmbH,https://download.gtfs.de/germany/free/latest.zip,de-ag-30aea67f0b,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,OREG direkt,https://download.gtfs.de/germany/free/latest.zip,de-ag-00ecea2b51,CC-BY-4.0 (gtfs.de / DELFI),active
@@ -1035,9 +1043,59 @@ ES,Zarautz,Lurraldebus Zarautz,https://nap.transportes.gob.es/api/Fichero/downlo
 ES,el Campello,FGV - Generalitat Valenciana Trains and trams in Alicante and the Costa Blanca,https://nap.transportes.gob.es/api/Fichero/download/1167,mdb-2829,https://nap.transportes.gob.es/licencia-datos,active
 ES,es Castell,TIB Transports of the Balearic Islands - CIME Consell Insular de Menorca (Menorca Island Bus),https://nap.transportes.gob.es/api/Fichero/download/1363,mdb-2763,https://nap.transportes.gob.es/licencia-datos,active
 ES,l'Hospitalet de Llobregat,Transports Metropolitans de Barcelona (TMB),https://api.tmb.cat/v1/static/datasets/gtfs.zip?app_id=ca07cd5b,mdb-2359,https://developer.tmb.cat/,active
+ES,national,Arroyobus,https://nap.transportes.gob.es/api/Fichero/download/2151,f-arroyobus,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobuses~Cinco~Villas,https://nap.transportes.gob.es/api/Fichero/download/2116,f-autobuses~cinco~villas,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobuses~Del~Área~De~La~Serranía~De~Albarracín~Con~Teruel~C10,https://nap.transportes.gob.es/api/Fichero/download/1913,f-autobuses~del~área~de~la~serranía~de~albarracín~con~teruel~c10,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobuses~Interurbanos~De~La~Comunidad~De~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1361,f-autobuses~interurbanos~de~la~comunidad~de~madrid,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobuses~Junta~De~Extremadura,https://nap.transportes.gob.es/api/Fichero/download/1769,f-autobuses~junta~de~extremadura,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobuses~Vega~De~Tirados,https://nap.transportes.gob.es/api/Fichero/download/2153,f-autobuses~vega~de~tirados,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Interurbano~Comunidad~Valenciana,https://nap.transportes.gob.es/api/Fichero/download/1526,f-autobús~interurbano~comunidad~valenciana,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Interurbano~De~Navarra,https://nap.transportes.gob.es/api/Fichero/download/1164,f-autobús~interurbano~de~navarra,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Interurbano~De~Tenerife,https://nap.transportes.gob.es/api/Fichero/download/1331,f-autobús~interurbano~de~tenerife,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Metropolitano~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1496,f-autobús~metropolitano~barcelona,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Urbano~De~Aranda~De~Duero,https://nap.transportes.gob.es/api/Fichero/download/2083,f-autobús~urbano~de~aranda~de~duero,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Urbano~De~Burgos,https://nap.transportes.gob.es/api/Fichero/download/2150,f-autobús~urbano~de~burgos,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Urbano~De~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1097,f-autobús~urbano~de~madrid,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autobús~Urbano~De~Vic,https://nap.transportes.gob.es/api/Fichero/download/2162,f-autobús~urbano~de~vic,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autocares~Autocorb,https://nap.transportes.gob.es/api/Fichero/download/2160,f-autocares~autocorb,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autocares~Galán~Gómez,https://nap.transportes.gob.es/api/Fichero/download/2081,f-autocares~galán~gómez,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autocares~J~Cristeto,https://nap.transportes.gob.es/api/Fichero/download/2082,f-autocares~j~cristeto,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autocares~Medina,https://nap.transportes.gob.es/api/Fichero/download/2076,f-autocares~medina,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Autoperiferia,https://nap.transportes.gob.es/api/Fichero/download/2428,f-autoperiferia,https://nap.transportes.gob.es/licencia-datos,active
 ES,national,Centro Comercial RÍO Shopping (La Regional Vallisoletana S.A),https://github.com/10198aprieto/rioshoppingbus-gtfs/archive/refs/heads/main.zip,mdb-3181,,active
+ES,national,Cercanías~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1163,f-cercanías~madrid,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Cercanías~Renfe,https://nap.transportes.gob.es/api/Fichero/download/1130,f-cercanías~renfe,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Empresa~Gilsanz,https://nap.transportes.gob.es/api/Fichero/download/2207,f-empresa~gilsanz,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Empresa~Martín,https://nap.transportes.gob.es/api/Fichero/download/2429,f-empresa~martín,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Empresa~Ruiz,https://nap.transportes.gob.es/api/Fichero/download/2426,f-empresa~ruiz,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Emtf~Empresa~Municipal~De~Transportes~De~Fuenlabrada,https://nap.transportes.gob.es/api/Fichero/download/2152,f-emtf~empresa~municipal~de~transportes~de~fuenlabrada,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Ferrocarriles~De~La~Generalitat~De~Cataluña,https://nap.transportes.gob.es/api/Fichero/download/1571,f-ferrocarriles~de~la~generalitat~de~cataluña,https://nap.transportes.gob.es/licencia-datos,active
 ES,national,Itinerarios y horarios de los servicios de transporte público interurbano en autobús,https://dadesobertes.gva.es/dataset/2f380ffd-b389-4ff4-9f7c-be92b30fbf28/resource/3c8a2e6b-5b5e-49f5-872f-5f33fcd52547/download/gtfs.zip,es-dadesobertes-gtfs,Open data (datos.gob.es / DCAT-AP-ES),active
+ES,national,La~Hispano~Del~Cid~S~A~Hicid,https://nap.transportes.gob.es/api/Fichero/download/2117,f-la~hispano~del~cid~s~a~hicid,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Manresa~Bus,https://nap.transportes.gob.es/api/Fichero/download/2170,f-manresa~bus,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Metrotenerife,https://nap.transportes.gob.es/api/Fichero/download/1690,f-metrotenerife,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Metro~Malaga,https://nap.transportes.gob.es/api/Fichero/download/1497,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Pérez~Cubero,https://nap.transportes.gob.es/api/Fichero/download/2079,f-pérez~cubero,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Renfe~Media~Larga~Distancia~Y~Ave,https://nap.transportes.gob.es/api/Fichero/download/1098,f-renfe~media~larga~distancia~y~ave,https://nap.transportes.gob.es/licencia-datos,active
 ES,national,RíoBUS,https://files.catbox.moe/mk9df1.zip,mdb-3455,,active
+ES,national,Sagalés~Bages~Transbages,https://nap.transportes.gob.es/api/Fichero/download/2202,f-sagalés~bages~transbages,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Bages~Transports~Castellá,https://nap.transportes.gob.es/api/Fichero/download/2203,f-sagalés~bages~transports~castellá,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Caldentey~Mallorca,https://nap.transportes.gob.es/api/Fichero/download/2174,f-sagalés~caldentey~mallorca,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Costa,https://nap.transportes.gob.es/api/Fichero/download/2172,f-sagalés~costa,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Mataró~St~Celoni,https://nap.transportes.gob.es/api/Fichero/download/2173,f-sagalés~mataró~st~celoni,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Mataró~St~Celoni~Ferrocarriles~Y~Transportes,https://nap.transportes.gob.es/api/Fichero/download/2204,f-sagalés~mataró~st~celoni~ferrocarriles~y~transportes,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Mataró~St~Celoni~Sagalés,https://nap.transportes.gob.es/api/Fichero/download/2205,f-sagalés~mataró~st~celoni~sagalés,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Sagalés~Osona,https://nap.transportes.gob.es/api/Fichero/download/2169,f-sagalés~osona,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Taxitur,https://nap.transportes.gob.es/api/Fichero/download/2075,f-taxitur,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transgran,https://nap.transportes.gob.es/api/Fichero/download/2171,f-transgran,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transportes~Urbanos~De~Linares,https://nap.transportes.gob.es/api/Fichero/download/2427,f-transportes~urbanos~de~linares,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transporte~Interurbano~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2077,f-transporte~interurbano~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transporte~Metropolitano~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2078,f-transporte~metropolitano~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transporte~Metropolitano~De~Barcelona~Bus~Y~Metro,https://nap.transportes.gob.es/api/Fichero/download/1328,f-transporte~metropolitano~de~barcelona~bus~y~metro,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Transporte~Rural~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2080,f-transporte~rural~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Tranvía~Metropolitano~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1329,f-tranvía~metropolitano~barcelona,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Tranvía~Metropolitano~Besós~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1330,f-tranvía~metropolitano~besós~barcelona,https://nap.transportes.gob.es/licencia-datos,active
+ES,national,Tubasa~Transportes~Urbanos~De~Badajoz,https://nap.transportes.gob.es/api/Fichero/download/2459,f-tubasa~transportes~urbanos~de~badajoz,https://nap.transportes.gob.es/licencia-datos,active
 ES,national,Zaratán,https://files.catbox.moe/giiq3a.zip,mdb-3454,,active
 ES,national,archivos gtfs,http://www.files.opendatalapalma.es/google_transit.zip,es-files-google-transit,Open data (datos.gob.es / DCAT-AP-ES),active
 ET,Addis Ababa,Addis Ababa City Bus Service Enterprise (Anbessa),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/ET/addis-ababa/addis-ababa-city-bus-service-enterprise-anbessa/gtfs/,et-llm-addis-ababa-city-bus-service-enterprise-,,active
@@ -2147,6 +2205,8 @@ FR,Vitré,Région Bretagne,https://www.data.gouv.fr/api/1/datasets/r/b7a835d4-7a
 FR,Voreppe,Syndicat Mixte des Mobilités de l'Aire Grenobloise,https://www.data.gouv.fr/api/1/datasets/r/b6ec7ba4-09bc-46df-b9a1-79a2c2668cf2,tdg-83459,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,Yvetot,Syndicat mixte Atoumod,https://transport.data.gouv.fr/resources/81975/download?token=xdgqKBTAzhw4DSPz6zeGc4c5eW0LhwztcGv4-vpzP4U,tdg-81975,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 FR,national,Agglobus~Bourges~Fr,https://data.centrevaldeloire.fr/api/explore/v2.1/catalog/datasets/agglobus-offre-theorique-mobilite-reseau-urbain-de-bourges/files/03b395ff43085db427c8f51d83e88643,f-agglobus~bourges~fr,ODbL-1.0,active
+FR,national,Agglobus~Guyane,https://api-data.cacl-guyane.fr/v1/gtfs-agglobus-agency/%21sourcefiles,f-agglobus~guyane,https://transport.data.gouv.fr/datasets/agence-agglobus,active
+FR,national,Amibusintercomdelavireaunoireau~Seau~Amibus,https://transport.data.gouv.fr/resources/82316/download,f-amibusintercomdelavireaunoireau~seau~amibus,ODbL-1.0,active
 FR,national,Autun~Fr,https://www.data.gouv.fr/fr/datasets/r/0fd67eb8-24a4-4ae0-b98b-b442f74244e1,f-autun~fr,ODbL-1.0,active
 FR,national,Azalys~Blois~Fr,https://data.centrevaldeloire.fr/api/explore/v2.1/catalog/datasets/agglopolys-offre-theorique-mobilite-reseau-urbain-blois/files/af673e7cbb43033c60c117ddf5f4ecaa,f-azalys~blois~fr,ODbL-1.0,active
 FR,national,Bacs~Ecouflant~Cantenaypinard~Fr,https://transport.data.gouv.fr/resources/83579/download,f-bacs~ecouflant~cantenaypinard~fr,ODbL-1.0,active
@@ -2171,6 +2231,7 @@ FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDAT
 FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=TED,tdg-80423,lov2,active
 FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=TIM,tdg-80427,lov2,active
 FR,national,Forbus~Seau~Fr,https://transport.data.gouv.fr/resources/80467/download,f-forbus~seau~fr,ODbL-1.0,active
+FR,national,Grand~Poitiers~Vitalis,https://data.grandpoitiers.fr/api/v2/catalog/datasets/mobilite-arret-services-theoriques-bus-hiver/files/400d7da94eaacb5e52c612f8ac28e420,f-grand~poitiers~vitalis,https://transport.data.gouv.fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/,active
 FR,national,Imagine~Seau~Depinal~Fr,https://transport.data.gouv.fr/resources/80461/download,f-imagine~seau~depinal~fr,ODbL-1.0,active
 FR,national,Keolis~Dijon~Fr,https://www.data.gouv.fr/fr/datasets/r/e0dbd217-15cd-4e28-9459-211a27511a34,f-keolis~dijon~fr,ODbL-1.0,active
 FR,national,Keolis~Orleans~Fr,https://chouette.enroute.mobi/api/v1/datas/keolis_orleans.gtfs.zip,f-keolis~orleans~fr,,active
@@ -2194,6 +2255,11 @@ FR,national,Public Transport Germany,https://download.gtfs.de/germany/nv_free/la
 FR,national,RENFE VIAJEROS SOCIEDAD MERCANTIL ESTATAL SA,https://ssl.renfe.com/gtransit/Fichero_AV_INT/Renfe_AVE_Int.zip,tdg-82386,lov2,active
 FR,national,Red~Seau~Fr,https://transport.data.gouv.fr/resources/83512/download,f-red~seau~fr,ODbL-1.0,active
 FR,national,Remi~Fr,https://data.centrevaldeloire.fr/api/explore/v2.1/catalog/datasets/offre-theorique-mobilite-remi/files/eeb5dcb26f8ef4bc4aedcae5193a9e8d,f-remi~fr,ODbL-1.0,active
+FR,national,Reseau~Interurbain~Cars~Region~Allier,https://mobi-iti-ara.okina.fr/static/mobiiti_allier/gtfs.zip,f-reseau~interurbain~cars~region~allier,ODbL-1.0,active
+FR,national,Reseau~Interurbain~Cars~Region~Cantal,https://mobi-iti-ara.okina.fr/static/mobiiti_cantal/gtfs.zip,f-reseau~interurbain~cars~region~cantal,ODbL-1.0,active
+FR,national,Reseau~Interurbain~Cars~Region~Haute~Loire,https://mobi-iti-ara.okina.fr/static/mobiiti_haute_loire/gtfs.zip,f-reseau~interurbain~cars~region~haute~loire,ODbL-1.0,active
+FR,national,Reseau~Interurbain~Cars~Region~Puy~De~Dome,https://mobi-iti-ara.okina.fr/static/mobiiti_puy_de_dome/gtfs.zip,f-reseau~interurbain~cars~region~puy~de~dome,ODbL-1.0,active
+FR,national,Reseau~Maelis~Montlucon~Communaute,https://www.data.gouv.fr/api/1/datasets/r/d352885f-3d43-43f8-b0c6-caa1a8313f56,f-reseau~maelis~montlucon~communaute,ODbL-1.0,active
 FR,national,Retz~En~Valois~Fr,https://www.data.gouv.fr/fr/datasets/r/eff9558e-4575-429f-bbe1-0cd37f1e6432,f-retz~en~valois~fr,ODbL-1.0,active
 FR,national,Rezo~Seau~Dugrandverdun~Fr,https://transport.data.gouv.fr/resources/80772/download,f-rezo~seau~dugrandverdun~fr,ODbL-1.0,active
 FR,national,Rhdf59P3B~Seau~Arc~Fr,https://transport.data.gouv.fr/resources/83396/download,f-rhdf59p3b~seau~arc~fr,ODbL-1.0,active
@@ -3119,6 +3185,7 @@ IN,Thane (Mumbai Metropolitan Region),TMT (Thane Municipal Transport),https://ra
 IN,Vapi Taluka,Vapi City Bus Service,https://github.com/shubhamvelani/VapiGTFS/releases/download/v1.0.0/Vapi_GTFS.zip,mdb-3426,https://github.com/shubhamvelani/VapiGTFS/,active
 IN,Vasai,"Mumbai Bus (BEST, KDMT)",https://github.com/croyla/mumbai-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3138,,active
 IN,national,"Ahmedabad Janmarg Ltd, Ahmedabad Municipal Transit Services",https://github.com/croyla/amd-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3131,,active
+IN,national,Mmts~Hyderabad,https://data.telangana.gov.in/sites/default/files/Open_Data_MMTS_Hyd.zip,f-mmts~hyderabad,https://data.telangana.gov.in/dataset/gtfs-mmts-hyderabad,active
 IN,national,PMPML,https://raw.githubusercontent.com/croyla/pmpml-gtfs/refs/heads/main/pmpml_gtfs_compat.zip,mdb-3137,,active
 IS,Kopavogur,"Strætó BS, Reykjanesbær, Akureyri",http://opendata.straeto.is/data/gtfs/gtfs.zip,tld-4056,,active
 IS,national,"Strætó bs (de facto national feed) / Samgöngustofa (nominal NAP body, no portal)",https://opendata.straeto.is/data/gtfs/gtfs.zip,is-national-bulk,,active
@@ -3249,6 +3316,12 @@ IT,Venice,Azienda del Consorzio Trasporti Veneziano (ACTV) Navigazione,http://ac
 IT,Vercelli,Azienda Trasporti Automobilistici Pubblici delle Province di Biella e Vercelli (ATAP),http://www.magellanoprogetti.it/atap/google_transit.zip,mdb-854,,active
 IT,Villa San Giovanni,It~Atm~Aziendatrasportidimessina,http://smartme-data.unime.it/dataset/f9badaf7-3862-4407-a25a-d347d93a32dd/resource/f0393b28-eb72-4c22-bbbe-b52bcea37f3e/download/atmfeedgtfs.zip,f-sqg1-it~atm~aziendatrasportidimessina,,active
 IT,Volterra,Autolinee Toscane - Emg Urbano Volterra,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/38ba32a8-01b9-4ffd-baed-2551ad765180/download/262-emgurbanovolterra.gtfs,tld-6981,,active
+IT,national,Airpullman~Spa,https://usbshare.agenziatpl.it/index.php/s/NCX252ombsxjzzz/download/2025-01-03_Airpullman.zip,f-airpullman~spa,CC-BY-4.0,active
+IT,national,Autolinee Toscane,https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs,f-s-lineeregionali,,active
+IT,national,Movibus~Srl,https://usbshare.agenziatpl.it/index.php/s/awfA3t8jy3D46dM/download/2025-01-17_Movibus.zip,f-movibus~srl,CC-BY-4.0,active
+IT,national,Net~Nord~Est~Trasporti,https://usbshare.agenziatpl.it/index.php/s/k3Aera76R2BYjit/download/2025-04-30_NET.zip,f-net~nord~est~trasporti,CC-BY-4.0,active
+IT,national,Pmt~Pavia~Milano~Trasporti~Srl,https://usbshare.agenziatpl.it/index.php/s/r93xAJ3f3KtnRF9/download,f-pmt~pavia~milano~trasporti~srl,CC-BY-4.0,active
+IT,national,Societàtrasportipubblicibrindisi,http://www.stpbrindisi.it/attachments/article/963/Urbano_gen.zip,f-s-societàtrasportipubblicibrindisi,,active
 JP,Abashiri,網走バス,https://www.abashiribus.com/open_data/gtfs_abashiribus_latest.zip,f-網走バス,CC-BY-4.0,active
 JP,Achi,南信州地域交通問題協議会（南信州広域連合）,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-seibu-1/files/feed.zip?rid=current,jbda-minamishinshu-Minamishinshu-seibu-1,https://creativecommons.org/licenses/by/4.0/deed.ja,active
 JP,Adachi,Tokyo Metropolitan Bureau of Transportation - Toei Bus,https://api-public.odpt.org/api/v4/files/Toei/data/ToeiBus-GTFS.zip,mdb-3175,https://creativecommons.org/licenses/by/4.0/,active
@@ -5083,6 +5156,7 @@ JP,national,Abashiri~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f
 JP,national,Abiracho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/7f011237-1284-4063-8c55-ba4945031793/download/abiracho_com.zip,f-abiracho~com~jp,CC-BY-4.0,active
 JP,national,Akan~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e3bb6e27-d2bb-4925-a42c-adb5f49bb924/download/akan_bus.zip,f-akan~bus~jp,CC-BY-4.0,active
 JP,national,Ama~Gtfs~Jp,https://www.city.ama.aichi.jp/_res/projects/default_project/_page_/001/002/512/ama_GTFS.zip,f-ama~gtfs~jp,CC-BY-4.0,active
+JP,national,Annakacity~Annakashi~Rosenbus,https://api.gtfs-data.jp/v2/organizations/annakacity/feeds/annakashi-rosenbus/files/feed.zip?uid=e227b54b-93dd-4920-af87-92b611221948,f-annakacity~annakashi~rosenbus,CC-BY-4.0,active
 JP,national,Asahikawa~Denki~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/41ea2ac6-c6e4-47b2-9c1c-b482feaee17c/download/asahikawa_denki.zip,f-asahikawa~denki~jp,CC-BY-4.0,active
 JP,national,Asahi~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/asahi_gtfs.zip,f-asahi~gtfs~jp,CC-BY-4.0,active
 JP,national,Atsuma~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/40e699d6-03c7-4191-b328-5e9c13841ab2/download/atsuma_bus.zip,f-atsuma~bus~jp,CC-BY-4.0,active
@@ -5256,10 +5330,12 @@ JP,national,Ise~Jp,https://bus-vision.jp/gtfs_v2/ise/gtfsFeed,f-ise~jp,CC-BY-4.0
 JP,national,Iwanaicho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a3be17ab-40ab-4b7d-9051-03562baf2ed4/download/iwanaicho_com.zip,f-iwanaicho~com~jp,CC-BY-4.0,active
 JP,national,Iyoshi~Gtfs~Jp,https://www.city.iyo.lg.jp/keizaikoyou/matidukuri/documents/gtfs.zip,f-iyoshi~gtfs~jp,,active
 JP,national,Joutetsu~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/fef98fef-6fe2-472f-bde3-9d4f0a509a4a/download/joutetsu.zip,f-joutetsu~jp,CC-BY-4.0,active
+JP,national,Jr四国バス高知支店~大栃線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Jrbus_Localbus.zip,f-jr四国バス高知支店~大栃線,CC-BY-4.0,active
 JP,national,Kaetsunou~Gtfs~Himi~Jp,https://toyama-pref.box.com/shared/static/tdu8l9t46rifwo2vx8a5o1qede4g3xhc.zip,f-kaetsunou~gtfs~himi~jp,CC0-1.0,active
 JP,national,Kaetsunou~Gtfs~Ippan~Jp,https://toyama-pref.box.com/shared/static/ufgq55b2oxb6i0b15r9ih9q82w3q3jj5.zip,f-kaetsunou~gtfs~ippan~jp,CC0-1.0,active
 JP,national,Kaetsunou~Gtfs~Sekaiisan~Jp,https://toyama-pref.box.com/shared/static/ix5so7pza4m5d5yo3ikbfv4xk4tms80x.zip,f-kaetsunou~gtfs~sekaiisan~jp,CC0-1.0,active
 JP,national,Kahoku~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/kahoku_gtfs.zip,f-kahoku~gtfs~jp,CC-BY-4.0,active
+JP,national,Kaicity~Kaicitybus,https://api.gtfs-data.jp/v2/organizations/kaicity/feeds/kaicitybus/files/feed.zip?uid=185b63f7-d97c-4887-8816-7e396ae92033,f-kaicity~kaicitybus,CC0-1.0,active
 JP,national,Kaigan~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/kaigan_bus.zip,f-kaigan~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Kaminoyama~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/kaminoyama_gtfs.zip,f-kaminoyama~gtfs~jp,CC-BY-4.0,active
 JP,national,Kanbaratetsudo~Jp,https://loc.bus-vision.jp/gtfs_v2/kanbaratetsudo/gtfsFeed,f-kanbaratetsudo~jp,CC-BY-4.0,active
@@ -5267,7 +5343,11 @@ JP,national,Kaneyama~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/kaneya
 JP,national,Kashima~Jp,http://www.docodemo-bus.net/opendata/kashima.zip,f-kashima~jp,CC-BY-4.0,active
 JP,national,Keifuku~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/keifuku_bus.zip,f-keifuku~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Kibichuo~Jp,https://loc.bus-vision.jp/gtfs_v2/kibichuo/gtfsFeed,f-kibichuo~jp,CC-BY-4.0,active
+JP,national,Kimitsucity~Ic~Local~Buses~Via~Kimitsu~City~And~Kimitsu~City~Community~Bus,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/IC_Local_buses_via_Kimitsu_City_and_Kimitsu_City_Community_Bus/files/feed.zip?uid=3df38e7e-cb7b-42e3-a73b-1f4dba8733d2,f-kimitsucity~ic~local~buses~via~kimitsu~city~and~kimitsu~city~community~bus,CC0-1.0,active
+JP,national,Kimitsucity~Ic~Sp~Local~Buses~Via~Kimitsu~City,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/IC-SP_Local_buses_via_Kimitsu_City/files/feed.zip?uid=8f728c13-7b60-4867-a5eb-1f109468cfbb,f-kimitsucity~ic~sp~local~buses~via~kimitsu~city,CC0-1.0,active
+JP,national,Kimitsucity~Kimitsu~City~Community~Bus,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Kimitsu_City_Community_Bus/files/feed.zip?uid=1eb94b2a-cacf-4c88-b13b-d829c56441d6,f-kimitsucity~kimitsu~city~community~bus,CC0-1.0,active
 JP,national,Kimobetsucho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/7727a55e-856d-4a49-aaa4-4ae4a605ba47/download/kimobetsucho_com.zip,f-kimobetsucho~com~jp,CC-BY-4.0,active
+JP,national,Kisotown~Kisotown,https://api.gtfs-data.jp/v2/organizations/kisotown/feeds/kisotown/files/feed.zip?uid=19f7e6f8-8c89-435b-8a64-24ba8a106a05,f-kisotown~kisotown,,active
 JP,national,Kitamishi~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d4ecb0d3-4b28-4fff-897f-f56979e9b5c9/download/kitamishi_com.zip,f-kitamishi~com~jp,CC-BY-4.0,active
 JP,national,Kubikijidosha~Jp,https://loc.bus-vision.jp/gtfs_v2/kubikijidosha/gtfsFeed,f-kubikijidosha~jp,CC-BY-4.0,active
 JP,national,Kuriyamacho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2365427f-ee06-40cc-a7d0-364a31d7afc8/download/kuriyamacho_com.zip,f-kuriyamacho~com~jp,CC-BY-4.0,active
@@ -5279,6 +5359,7 @@ JP,national,Kuwana~Jp,https://bus-vision.jp/gtfs_v2/kuwana/gtfsFeed,f-kuwana~jp,
 JP,national,M1~Miho~Jp,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/M1_Miho.zip,f-m1~miho~jp,CC-BY-4.0,active
 JP,national,Makubetsucho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/95c715ca-21de-4206-a345-b781e0952dd0/download/makubetsucho_com.zip,f-makubetsucho~com~jp,CC-BY-4.0,active
 JP,national,Mamurogawa~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/mamurogawa_gtfs.zip,f-mamurogawa~gtfs~jp,CC-BY-4.0,active
+JP,national,Maniwacity~Maniwakun,https://api.gtfs-data.jp/v2/organizations/maniwacity/feeds/maniwakun/files/feed.zip?uid=683286aa-ccb7-4a1c-a483-4b2b136b6e71,f-maniwacity~maniwakun,CC0-1.0,active
 JP,national,Matsusaka~Jp,https://bus-vision.jp/gtfs_v2/matsusaka/gtfsFeed,f-matsusaka~jp,CC-BY-4.0,active
 JP,national,Meishi~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/4bddd9a6-5edf-4887-82aa-b61cb93afc9e/download/meishi_bus.zip,f-meishi~bus~jp,CC-BY-4.0,active
 JP,national,Memurocho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/2a15bf71-a472-4e7b-9722-1e304ba8e400/download/memurocho_com.zip,f-memurocho~com~jp,CC-BY-4.0,active
@@ -5288,9 +5369,15 @@ JP,national,Miike~Shimabara~Jp,https://data.bodik.jp/dataset/2b03e4b2-83a1-4c53-
 JP,national,Mikasashi~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/b529697a-82c2-4f78-b6b1-19fce6c9c3dc/download/mikasashi_com.zip,f-mikasashi~com~jp,CC-BY-4.0,active
 JP,national,Mir~Data~Mir~Train~Gtfs~Jp,https://api.odpt.org/api/v4/files/MIR/data/MIR-Train-GTFS.zip,f-mir~data~mir~train~gtfs~jp,,active
 JP,national,Miyama~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/miyama_bus.zip,f-miyama~bus~jp,CC-BY-SA-2.1-JP,active
+JP,national,Mizuhotown~Demandresponsivetransport,https://api.gtfs-data.jp/v2/organizations/mizuhotown/feeds/DemandResponsiveTransport/files/feed.zip?uid=73c516be-a530-4482-af05-5cccdfc52824,f-mizuhotown~demandresponsivetransport,CC-BY-4.0,active
 JP,national,Mogamigawakotsu~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/mogamigawakotsu_gtfs.zip,f-mogamigawakotsu~gtfs~jp,CC-BY-4.0,active
 JP,national,Moritan~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/moritan_bus.zip,f-moritan~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Murayama~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/murayama_gtfs.zip,f-murayama~gtfs~jp,CC-BY-4.0,active
+JP,national,Nagadenbus~Nagadenbus~Exp,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-exp/files/feed.zip?uid=35b7e83d-5115-4d1e-8ba4-867e48bd3274,f-nagadenbus~nagadenbus~exp,CC-BY-4.0,active
+JP,national,Nagadenbus~Nagadenbus~Iizuna,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-iizuna/files/feed.zip?uid=7ea6e0f9-3035-4999-8cf2-16cfee89709b,f-nagadenbus~nagadenbus~iizuna,CC-BY-4.0,active
+JP,national,Nagadenbus~Nagadenbus~Nagano,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-nagano/files/feed.zip?uid=2cca54d9-3b0c-4aa3-a962-e0068dc0cf50,f-nagadenbus~nagadenbus~nagano,CC-BY-4.0,active
+JP,national,Nagadenbus~Nagadenbus~Nakano,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-nakano/files/feed.zip?uid=87544e4f-a185-44e9-af19-b48c3f9b6c9d,f-nagadenbus~nagadenbus~nakano,CC-BY-4.0,active
+JP,national,Nagadenbus~Obuse~Romango,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/obuse-romango/files/feed.zip?uid=2dcd4103-ffbb-4e05-a1f0-15863b85c4a1,f-nagadenbus~obuse~romango,CC-BY-4.0,active
 JP,national,Nagai~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/nagai_gtfs.zip,f-nagai~gtfs~jp,CC-BY-4.0,active
 JP,national,Nagakute~Nbus~Gtfs~Current~Data~Jp,https://www.city.nagakute.lg.jp/material/files/group/4/Nagakute_Nbus_gtfs_current_data.zip,f-nagakute~nbus~gtfs~current~data~jp,CC-BY-4.0,active
 JP,national,Naganumacho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/16e0d070-789e-41ae-bc2a-0d0f7f63c80f/download/naganumacho_com.zip,f-naganumacho~com~jp,CC-BY-4.0,active
@@ -5333,10 +5420,12 @@ JP,national,Sanuki~Gtfs~Jp,https://www.city.sanuki.kagawa.jp/wp-content/uploads/
 JP,national,Saromacho~Com~Zip~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/be66e348-db27-423f-8668-8b90b828c871/download/saromacho_com.zip,f-saromacho~com~zip~jp,CC-BY-4.0,active
 JP,national,Sasakikanko~Jp,https://ajt-mobusta-gtfs.mcapps.jp/static/17/current_data.zip,f-sasakikanko~jp,CC0-1.0,active
 JP,national,Seikan~Ferry~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/16a31295-1709-4e5e-abcf-fa17ae7853b7/download/seikan_ferry.zip,f-seikan~ferry~jp,CC-BY-4.0,active
+JP,national,Sentetsu~Sentetsubus,https://api.gtfs-data.jp/v2/organizations/sentetsu/feeds/Sentetsubus/files/feed.zip?uid=3089d77c-c4ce-47cc-88aa-72f6324873fa,f-sentetsu~sentetsubus,CC-BY-4.0,active
 JP,national,Sharicho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/e59d88f1-2236-41bb-ba8c-75fd4754af1a/download/sharicho_com.zip,f-sharicho~com~jp,CC-BY-4.0,active
 JP,national,Shibetsu~Kido~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/a5702fbb-eac7-401c-8dff-e7675091fd26/download/shibetsu_kido.zip,f-shibetsu~kido~jp,CC-BY-4.0,active
 JP,national,Shibus~Current~Jp,https://www.city.aomori.aomori.jp/toshi-seisaku/opendata/documents/shibus_current.zip,f-shibus~current~jp,CC-BY-4.0,active
 JP,national,Shihorocho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3c8f82fe-c997-45c8-9307-c904b206a450/download/shihorocho_com.zip,f-shihorocho~com~jp,CC-BY-4.0,active
+JP,national,Shimacity~Agowanteikisen,https://api.gtfs-data.jp/v2/organizations/shimacity/feeds/agowanteikisen/files/feed.zip?uid=4512ea7d-23d4-450f-bcce-456edb07f388,f-shimacity~agowanteikisen,CC-BY-4.0,active
 JP,national,Shimane~Jp,http://www.docodemo-bus.net/opendata/shimane.zip,f-shimane~jp,CC-BY-4.0,active
 JP,national,Shima~Jp,https://bus-vision.jp/gtfs_v2/shima/gtfsFeed,f-shima~jp,CC-BY-4.0,active
 JP,national,Shimodengtfs~Jp~Jp,http://shimoden.net/busmada/opendata/GTFS-JP.zip,f-shimodengtfs~jp~jp,CC-BY-4.0,active
@@ -5371,6 +5460,7 @@ JP,national,Tozawa~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/tozawa_g
 JP,national,Tsukigatacho~Com~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/d5e7795d-6c36-4468-ac2c-245e7f3378e1/download/tsukigatacho_com.zip,f-tsukigatacho~com~jp,CC-BY-4.0,active
 JP,national,Tsuruga~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/tsuruga_bus.zip,f-tsuruga~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Tsuruoka~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs.zip,f-tsuruoka~gtfs~jp,CC-BY-4.0,active
+JP,national,Ugokotsu~Ugokotsu~Honjo,https://api.gtfs-data.jp/v2/organizations/ugokotsu/feeds/ugokotsu_honjo/files/feed.zip?uid=14666d77-ce2a-4e39-b8ce-cbfabe440812,f-ugokotsu~ugokotsu~honjo,CC-BY-4.0,active
 JP,national,Uzura~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/uzura_bus.zip,f-uzura~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Wakasa~Bus~Jp,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/wakasa_bus.zip,f-wakasa~bus~jp,CC-BY-SA-2.1-JP,active
 JP,national,Y010~Kawaraguchi~Jp,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/Y010_Kawaraguchi.zip,f-y010~kawaraguchi~jp,CC-BY-4.0,active
@@ -5404,8 +5494,15 @@ JP,national,Yokosuka~Gtfs~Jp,https://www.city.yokosuka.kanagawa.jp/0830/opendata
 JP,national,Yonezawa~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/yonezawa_gtfs.zip,f-yonezawa~gtfs~jp,CC-BY-4.0,active
 JP,national,Ysw1~Shinyabahigashi~Jp,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip,f-ysw1~shinyabahigashi~jp,CC-BY-4.0,active
 JP,national,Yutetsu~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip,f-yutetsu~bus~jp,CC-BY-4.0,active
+JP,national,さいたま市見沼区大砂土東地区乗合タクシーみぬま号,https://opendata.pref.saitama.lg.jp/resource_download/6357,f-さいたま市見沼区大砂土東地区乗合タクシーみぬま号,CC-BY-4.0,active
+JP,national,さかわ~おち花＊花ループバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Niyodoblue_Shuttlebus.zip,f-さかわ~おち花＊花ループバス,CC-BY-4.0,active
+JP,national,つくば市~筑波地区支線型バスつくばね号,https://www.city.tsukuba.lg.jp/material/files/group/126/GTFS.zip,f-つくば市~筑波地区支線型バスつくばね号,CC-BY-4.0,active
 JP,national,つくば観光交通株式会社,https://api.odpt.org/api/v4/files/odpt/TsukubaKankouKotsu/CoCoBusNogawa.zip?date=current,f-tsukubakankoukotsu~cocobusnogawa~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,とさでん交通~一般路線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Tosaden-Traffic_Regularbus.zip,f-とさでん交通~一般路線,CC-BY-4.0,active
+JP,national,ふじみ野市内循環バスふじみん号,http://cms2nd.nec.asp.lgwan.jp/material/local/1177/files/group/5/112453_basujoho.zip,f-ふじみ野市内循環バスふじみん号,CC-BY-4.0,active
+JP,national,ふれあいバス大府市循環バス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/bus/obu-gtfs-current-data.zip,f-ふれあいバス大府市循環バス,CC-BY-4.0,active
 JP,national,みどり市,https://api.odpt.org/api/v4/files/odpt/MidoriCity/AllLines.zip?date=current,f-midoricity~alllines~jp,CC-BY-4.0,active
+JP,national,みよし市~さんさんバス,https://www.city.aichi-miyoshi.lg.jp/shisei/opendata/documents/sansanbus.zip,f-みよし市~さんさんバス,CC-BY-4.0,active
 JP,national,オクシリアイランドフェリー株式会社,https://api.odpt.org/api/v4/files/odpt/OkushiriIslandFerry/Okushiri_Esashi_Ferry_Route.zip?date=current,f-okushiriislandferry~okushiri~esashi~ferry~route~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,マルエーフェリー,https://api.odpt.org/api/v4/files/odpt/ALineFerry/AllLines.zip?date=current,f-alineferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,七ヶ浜町,https://api.odpt.org/api/v4/files/odpt/ShichigahamaTown/All_Gururinko.zip?date=current,f-shichigahamatown~all~gururinko~jp,CC-BY-4.0,active
@@ -5424,18 +5521,29 @@ JP,national,京都バス株式会社,https://api.odpt.org/api/v4/files/odpt/Kyot
 JP,national,京都バス株式会社,https://api.odpt.org/api/v4/files/odpt/KyotoBus/AllLinesAnotherversion.zip?date=current,f-kyotobus~alllinesanotherversion~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,京都市交通局,https://api.odpt.org/api/v4/files/odpt/KyotoMunicipalTransportation/Kyoto_City_Bus_GTFS.zip?date=current,f-kyotomunicipaltransportation~kyoto~city~bus~gtfs~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,京都市交通局,https://api.odpt.org/api/v4/files/odpt/KyotoMunicipalTransportation/Kyoto_City_Subway_GTFS.zip?date=current,f-kyotomunicipaltransportation~kyoto~city~subway~gtfs~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,仁淀川町民バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Niyodogawa-Town.zip,f-仁淀川町民バス,CC-BY-4.0,active
 JP,national,仙台市交通局,https://api.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus_realtime_information.zip?date=current,f-sendaimunicipal~bus~realtime~information~jp,CC-BY-4.0,active
+JP,national,仙台市営バス,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,f-仙台市営バス,CC-BY-SA-2.1-JP,active
+JP,national,仙台市営バス~1,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_date.zip,f-仙台市営バス~1,CC-BY-SA-2.1-JP,active
 JP,national,伊予鉄バス株式会社,https://api.odpt.org/api/v4/files/odpt/IyotetsuBus/AllLines.zip?date=current,f-iyotetsubus~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,伊豆箱根バス株式会社,https://api.odpt.org/api/v4/files/odpt/IzuhakoneBus/IZHB.zip?date=current,f-izuhakonebus~izhb~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,佐川町~さかわぐるぐるバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Sakawa-Town.zip,f-佐川町~さかわぐるぐるバス,CC-BY-4.0,active
 JP,national,備後商船,https://api.odpt.org/api/v4/files/odpt/BingoShosen/AllLines.zip?date=current,f-bingoshosen~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,函館市企業局,https://api.odpt.org/api/v4/files/odpt/HakodateCity/Alllines.zip?date=current,f-hakodatecity~alllines~jp,,active
+JP,national,北海道北見バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus-1.zip,f-北海道北見バス,CC-BY-4.0,active
+JP,national,北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/gtfs_takushoku_bus.zip,f-北海道拓殖バス,CC-BY-4.0,active
 JP,national,北海道拓殖バス株式会社,https://api.odpt.org/api/v4/files/odpt/HokkaidoTakushokuBus/Takusyoku_highway_line.zip?date=current,f-hokkaidotakushokubus~takusyoku~highway~line~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,北海道拓殖バス株式会社,https://api.odpt.org/api/v4/files/odpt/HokkaidoTakushokuBus/Takusyoku_regular_line.zip?date=current,f-hokkaidotakushokubus~takusyoku~regular~line~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/20211121gtfs-dia.zip,f-十勝バス,CC-BY-4.0,active
 JP,national,十王自動車株式会社,https://api.odpt.org/api/v4/files/odpt/JuoBus/Isesaki_Honjo_Line.zip?date=current,f-juobus~isesaki~honjo~line~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,可児市~Yaoバス,https://www.city.kani.lg.jp/secure/12816/202303_yao_bus.zip,f-可児市~yaoバス,CC-BY-SA-2.1-JP,active
+JP,national,可児市~さつきバス~Ｋバス,https://www.city.kani.lg.jp/secure/12816/202210_satuki_K_bus.zip,f-可児市~さつきバス~ｋバス,CC-BY-SA-2.1-JP,active
 JP,national,台東区,https://api.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurin.zip?date=current,f-tokyotaitocity~megurin~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,台東区,https://api.odpt.org/api/v4/files/odpt/TokyoTaitoCity/megurinCCBY40.zip?date=current,f-tokyotaitocity~megurinccby40~jp,CC-BY-4.0,active
 JP,national,名古屋市住宅都市局,https://api.odpt.org/api/v4/files/odpt/NagoyaHousingCityPlanningBureau/NagoyaSRT_AllLines.zip?date=current,f-nagoyahousingcityplanningbureau~nagoyasrt~alllines~jp,CC-BY-4.0,active
 JP,national,周防灘フェリー,https://api.odpt.org/api/v4/files/odpt/SuonadaFerry/AllLines.zip?date=current,f-suonadaferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,和光市内循環バス,https://opendata.pref.saitama.lg.jp/resource_download/5210,f-和光市内循環バス,CC-BY-4.0,active
+JP,national,四国交通~四交~1,https://api.gtfs-data.jp/v2/organizations/yonkoh/feeds/shikokukoutsuu/files/feed.zip,f-四国交通~四交~1,CC-BY-4.0,active
 JP,national,四国開発フェリー株式会社,https://api.odpt.org/api/v4/files/odpt/OrangeFerry/AllLines.zip?date=current,f-orangeferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,国分寺市,https://api.odpt.org/api/v4/files/odpt/KokubunjiCity/kokubunji_city_bunbus.zip?date=current,f-kokubunjicity~kokubunji~city~bunbus~jp,CC-BY-4.0,active
 JP,national,国立市道路交通課,https://api.odpt.org/api/v4/files/odpt/KunitachiCity/kunitachi_city_aoyagikko.zip?date=current,f-kunitachicity~kunitachi~city~aoyagikko~jp,CC-BY-4.0,active
@@ -5444,16 +5552,30 @@ JP,national,土佐市,https://api.odpt.org/api/v4/files/odpt/TosaCity/AllLines.z
 JP,national,大利根交通自動車株式会社,https://api.odpt.org/api/v4/files/odpt/OtoneKotsu/AllLines.zip?date=current,f-otonekotsu~alllines~jp,CC-BY-4.0,active
 JP,national,大島旅客自動車株式会社,https://api.odpt.org/api/v4/files/odpt/OshimaBus/AllLines.zip?date=current,f-oshimabus~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,大新東株式会社,https://api.odpt.org/api/v4/files/odpt/Daishinto/Radiantcity_Yokohama.zip?date=current,f-daishinto~radiantcity~yokohama~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,大月町~まちなか循環線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Otsuki-Town.zip,f-大月町~まちなか循環線,CC-BY-4.0,active
 JP,national,姫島村（大分県）,https://api.odpt.org/api/v4/files/odpt/HimeshimaVill/AllLines.zip?date=current,f-himeshimavill~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,宇和島運輸株式会社,https://api.odpt.org/api/v4/files/odpt/UwajimaUnyu/AllLines.zip?date=current,f-uwajimaunyu~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,安芸市観光シャトルバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Aki-Shuttlebus.zip,f-安芸市観光シャトルバス,CC-BY-4.0,active
 JP,national,小田急バス株式会社,https://api.odpt.org/api/v4/files/odpt/OdakyuBus/AIILines.zip?date=current,f-odakyubus~aiilines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,山形鉄道,https://www.pref.yamagata.jp/documents/20978/flower-liner_gtfs_1.zip,f-山形鉄道,CC-BY-4.0,active
+JP,national,岩国市生活交通バス~由宇地区バス,https://yamaguchi-opendata.jp/ckan/dataset/2dbaeb43-5134-4880-90a3-62870504f1d3/resource/31d5dd9c-113c-4fc5-bfa6-31d832f830fc/download/352080_gtfs-jp.zip,f-岩国市生活交通バス~由宇地区バス,CC-BY-4.0,active
 JP,national,川崎市交通局,https://api.odpt.org/api/v4/files/odpt/TransportationBureau_CityOfKawasaki/AllLines.zip?date=current,f-transportationbureau~cityofkawasaki~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,川崎鶴見臨港バス株式会社,https://api.odpt.org/api/v4/files/odpt/KawasakiTsurumiRinkoBus/allrinko.zip?date=current,f-kawasakitsurumirinkobus~allrinko~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,川越市内循環バス川越シャトル,https://opendata.pref.saitama.lg.jp/resource_download/91,f-川越市内循環バス川越シャトル,CC-BY-4.0,active
+JP,national,川越町~ふれあいバス,https://www.town.kawagoe.mie.jp/wp-content/themes/kawagoecho/images/hureaibus202208.zip,f-川越町~ふれあいバス,CC-BY-4.0,active
+JP,national,庄内交通,https://www.pref.yamagata.jp/documents/20978/syonaikotsu_gtfs.zip,f-庄内交通,CC-BY-4.0,active
+JP,national,徳島市営バス,https://opendata.pref.tokushima.lg.jp/dataset/2649/url_resource/66/GTFS-JP.zip,f-徳島市営バス,CC-BY-4.0,active
+JP,national,志賀町コミュニティバスしかばす,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/65de3540-4781-4329-bc8f-634870e5a69c/resource/cfb1baaa-4808-408b-ab09-2f3a0a08aacb/download,f-志賀町コミュニティバスしかばす,CC-BY-4.0,active
 JP,national,斎島汽船,https://api.odpt.org/api/v4/files/odpt/ItsukishimaKisen/AllLines.zip?date=current,f-itsukishimakisen~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,日本中央バス奥多野線,https://ncb.jp/route/GTFS/latest/GTFS(OT).zip,f-日本中央バス奥多野線,CC-BY-4.0,active
 JP,national,日立自動車交通株式会社,https://api.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/AllLines.zip?date=current,f-hitachiautomobiletransportation~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,日立自動車交通株式会社,https://api.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip?date=current,f-hitachiautomobiletransportation~chiyoda~alllines~jp,CC-BY-4.0,active
 JP,national,日立自動車交通株式会社,https://api.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/KitaAllLines.zip?date=current,f-hitachiautomobiletransportation~kitaalllines~jp,CC-BY-4.0,active
+JP,national,春日部市コミュニティバス,https://opendata.pref.saitama.lg.jp/resource_download/6515,f-春日部市コミュニティバス,CC-BY-4.0,active
+JP,national,本庄市はにぽんシャトル,https://opendata.pref.saitama.lg.jp/resource_download/1684,f-本庄市はにぽんシャトル,CC-BY-4.0,active
 JP,national,杉並区,https://api.odpt.org/api/v4/files/odpt/TokyoSuginamiCity/GreenSlowMobility.zip?date=current,f-tokyosuginamicity~greenslowmobility~jp,CC-BY-4.0,active
+JP,national,杉戸町町内巡回バスあいあい号,https://opendata.pref.saitama.lg.jp/resource_download/3750,f-杉戸町町内巡回バスあいあい号,CC-BY-4.0,active
+JP,national,東みよし町営バス,https://api.gtfs-data.jp/v2/organizations/higashimiyoshitown/feeds/hitashimiyoshitownbus/files/feed.zip,f-東みよし町営バス,CC-BY-4.0,active
 JP,national,東京都観光汽船株式会社,https://api.odpt.org/api/v4/files/odpt/TokyoCruiseShip/AllLines.zip?date=current,f-tokyocruiseship~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,東大和市,https://api.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CC0.zip?date=current,f-higashiyamatocity~alllines~cc0~jp,CC0-1.0,active
 JP,national,東大和市,https://api.odpt.org/api/v4/files/odpt/HigashiyamatoCity/AllLines_CCBY4.zip?date=current,f-higashiyamatocity~alllines~ccby4~jp,CC-BY-4.0,active
@@ -5468,24 +5590,52 @@ JP,national,松江市交通局,https://api.odpt.org/api/v4/files/odpt/MatsueCity
 JP,national,株式会社上信観光バス,https://api.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=current,f-joshinkankobus~alllines~jp,CC-BY-4.0,active
 JP,national,株式会社名門大洋フェリー,https://api.odpt.org/api/v4/files/odpt/MeimonTaiyoFerry/AllLines.zip?date=current,f-meimontaiyoferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,株式会社群馬バス,https://api.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current,f-gunmabus~alllines~jp,CC-BY-4.0,active
+JP,national,桐生市~おりひめバス,https://www.city.kiryu.lg.jp/_res/common/opendata/1014528/20230320_kiryu_gtfs.zip,f-桐生市~おりひめバス,CC-BY-4.0,active
 JP,national,横浜市交通局,https://api.odpt.org/api/v4/files/odpt/YokohamaMunicipal/Bus.zip?date=current,f-yokohamamunicipal~bus~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,横浜市交通局,https://api.odpt.org/api/v4/files/odpt/YokohamaMunicipal/Train.zip?date=current,f-yokohamamunicipal~train~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,橋本市コミュニティバス~デマンドタクシー,https://www.city.hashimoto.lg.jp/material/files/group/67/hashimoto_gtfsjp.zip,f-橋本市コミュニティバス~デマンドタクシー,CC-BY-SA-2.1-JP,active
+JP,national,津幡町営バス,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/26e2ba58-a46f-4f53-8350-8588ad8aacf1/resource/8f63902b-c8f7-40e3-b5b7-0fe3d12f5950/download,f-津幡町営バス,CC-BY-4.0,active
+JP,national,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namiokabus_current.zip,f-浪岡地区コミュニティバス,CC-BY-4.0,active
 JP,national,清瀬市,https://api.odpt.org/api/v4/files/odpt/KiyoseCity/KiyoBus.zip?date=current,f-kiyosecity~kiyobus~jp,CC-BY-4.0,active
+JP,national,熊谷市ゆうゆうバス,https://opendata.pref.saitama.lg.jp/resource_download/3194,f-熊谷市ゆうゆうバス,CC-BY-4.0,active
 JP,national,瑞穂町,https://api.odpt.org/api/v4/files/odpt/MizuhoTown/AllLines.zip?date=current,f-mizuhotown~alllines~jp,CC-BY-4.0,active
 JP,national,瑞穂町,https://api.odpt.org/api/v4/files/odpt/MizuhoTown/Mizuho_Area.zip?date=current,f-mizuhotown~mizuho~area~jp,CC-BY-4.0,active
 JP,national,秋田市,https://api.odpt.org/api/v4/files/odpt/AkitaCity/AkitaCityBus.zip?date=current,f-akitacity~akitacitybus~jp,CC-BY-4.0,active
 JP,national,秋葉バスサービス株式会社,https://api.odpt.org/api/v4/files/odpt/AkihaBusService/AllLines.zip?date=current,f-akihabusservice~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,秩父市営バス浦山線川又線,https://opendata.pref.saitama.lg.jp/resource_download/1499,f-秩父市営バス浦山線川又線,CC-BY-4.0,active
 JP,national,種子屋久高速船,https://api.odpt.org/api/v4/files/odpt/TaneyakuKousokusen/AllLines.zip?date=current,f-taneyakukousokusen~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,稲城市,https://api.odpt.org/api/v4/files/odpt/InagiCity/ibas_A_course.zip?date=current,f-inagicity~ibas~a~course~jp,CC-BY-4.0,active
 JP,national,立川市,https://api.odpt.org/api/v4/files/odpt/TachikawaCity/kururin_bus_alllines.zip?date=current,f-tachikawacity~kururin~bus~alllines~jp,CC-BY-4.0,active
+JP,national,美波町~美波病院連絡バス,https://opendata.pref.tokushima.lg.jp/dataset/2636/resource/7707/GTFSJP3_minami-town_20220601.zip,f-美波町~美波病院連絡バス,CC-BY-4.0,active
+JP,national,羽咋市~市内循環バスるんるんバス,https://www.city.hakui.lg.jp/material/files/group/2/GTFS20230401.zip,f-羽咋市~市内循環バスるんるんバス,CC-BY-4.0,active
+JP,national,羽後交通,https://www.akita-bus.or.jp/~akita-gtfs/ugo-bus-jp.zip,f-羽後交通,CC-BY-4.0,active
+JP,national,能美市~のみバス,https://www.city.nomi.ishikawa.jp/www/contents/1683514558086/simple/GTFS_nomi_20230401.zip,f-能美市~のみバス,CC-BY-4.0,active
 JP,national,船木鉄道株式会社,https://api.odpt.org/api/v4/files/odpt/SentetsuBus/AllLines.zip?date=current,f-sentetsubus~alllines~jp,CC-BY-4.0,active
+JP,national,藤岡市~めぐるん,https://www.city.fujioka.gunma.jp/material/files/group/7/fujiokaGTFS.zip,f-藤岡市~めぐるん,CC-BY-4.0,active
+JP,national,西尾市~いっちゃんバス,https://api.gtfs-data.jp/v2/organizations/nishiocity/feeds/ichanbus/files/feed.zip,f-西尾市~いっちゃんバス,,active
 JP,national,西東京バス株式会社,https://api.odpt.org/api/v4/files/odpt/NishiTokyoBus/NTBus.zip?date=current,f-nishitokyobus~ntbus~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,西東京市,https://api.odpt.org/api/v4/files/odpt/NishitokyoCity/AllLines.zip?date=current,f-nishitokyocity~alllines~jp,CC-BY-4.0,active
+JP,national,金沢ふらっとバス,https://catalog-data.city.kanazawa.ishikawa.jp/dataset/1196beb4-f9f9-463c-9723-5b38d8127425/resource/191bd7bd-8e97-4919-b3ad-a87757993a79/download/20230401.zip,f-金沢ふらっとバス,CC-BY-SA-2.1-JP,active
+JP,national,長岡市~小国地域生活交通~八王子線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-10.zip,f-長岡市~小国地域生活交通~八王子線,CC-BY-4.0,active
+JP,national,長岡市~小国地域生活交通~大貝線オーケーバス,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-09.zip,f-長岡市~小国地域生活交通~大貝線オーケーバス,CC-BY-4.0,active
+JP,national,長岡市~小国地域生活交通~法末線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-11.zip,f-長岡市~小国地域生活交通~法末線,CC-BY-4.0,active
+JP,national,長岡市~山古志地域クローバーバス~小千谷線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-06.zip,f-長岡市~山古志地域クローバーバス~小千谷線,CC-BY-4.0,active
+JP,national,長岡市~山古志地域クローバーバス~小松倉線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-08.zip,f-長岡市~山古志地域クローバーバス~小松倉線,CC-BY-4.0,active
+JP,national,長岡市~山古志地域クローバーバス~村松線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-05.zip,f-長岡市~山古志地域クローバーバス~村松線,CC-BY-4.0,active
+JP,national,長岡市~山古志地域クローバーバス~種苧原線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-07.zip,f-長岡市~山古志地域クローバーバス~種苧原線,CC-BY-4.0,active
+JP,national,長岡市~川口地域バス上川線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-12.zip,f-長岡市~川口地域バス上川線,CC-BY-4.0,active
+JP,national,長岡市~川口地域バス木沢~和南津線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-14.zip,f-長岡市~川口地域バス木沢~和南津線,CC-BY-4.0,active
+JP,national,長岡市~川口地域バス西川口~田麦山線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-13.zip,f-長岡市~川口地域バス西川口~田麦山線,CC-BY-4.0,active
 JP,national,関東バス株式会社,https://api.odpt.org/api/v4/files/odpt/KantoBus/AllLines.zip?date=current,f-kantobus~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,関越交通株式会社,https://api.odpt.org/api/v4/files/odpt/Kan_etsuTransportation/AllLines.zip?date=current,f-kan~etsutransportation~alllines~jp,CC-BY-4.0,active
 JP,national,阪九フェリー株式会社,https://api.odpt.org/api/v4/files/odpt/HankyuFerry/schedul_hankyu.zip?date=current,f-hankyuferry~schedul~hankyu~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,階上町コミュニティバス,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/16908/gtfs_hashikamicho_com.zip,f-階上町コミュニティバス,,active
+JP,national,階上町コミュニティバス~1,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/19655/gtfs_hashikamicho_com_latest.zip,f-階上町コミュニティバス~1,,active
 JP,national,青森市,https://api.odpt.org/api/v4/files/odpt/UrbanDevelopment_AomoriCity/AllLines.zip?date=current,f-urbandevelopment~aomoricity~alllines~jp,CC-BY-4.0,active
 JP,national,高崎市,https://api.odpt.org/api/v4/files/odpt/TakasakiCity/yosiibus.zip?date=current,f-takasakicity~yosiibus~jp,CC-BY-4.0,active
+JP,national,高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,https://www.city.takasaki.gunma.jp/docs/2020060400037/files/bus-takasaki-gunma-jp_20230414.zip,f-高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,CC-BY-4.0,active
+JP,national,高知観光コンベンション協会~My遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-Yubus.zip,f-高知観光コンベンション協会~my遊バス,CC-BY-4.0,active
+JP,national,鶴岡市~羽黒地域市営バス朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs_1.zip,f-鶴岡市~羽黒地域市営バス朝日地域市営バス,CC-BY-4.0,active
 JP,national,鹿児島市船舶局,https://api.odpt.org/api/v4/files/odpt/KagoshimaCityMaritimeBureau/AllLines.zip?date=current,f-kagoshimacitymaritimebureau~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 KE,Nairobi,Digital Matatus,https://www.digitalmatatus.com/data/GTFS_FEED_2015.zip,ke-dork-digital-matatus-3,,active
 KE,Nairobi,Digital Matatus,https://www.digitalmatatus.com/data/GTFS_FEED_2017.zip,ke-dork-digital-matatus-2,,active
@@ -5906,6 +6056,7 @@ PL,Zabki,Miasto Zabki transit,https://cdn.zbiorkom.live/gtfs/warsaw-zabki.zip,pl
 PL,Zaluski,U3Qd~Zakroczym,https://feed.gtfs.cc/zakroczym/gtfs.zip,f-u3qd~zakroczym,MIT,active
 PL,Zyrardow,U3Q8~Zyrardow,https://files.girlc.at/gtfs/zyrardow.zip,f-u3q8~zyrardow,CC0-1.0,active
 PL,national,Arriva RP,https://cdn.zbiorkom.live/gtfs/pkp-ar.zip,pl-pkp-ar,,active
+PL,national,Bialostocka~Komunikacja~Miejska,http://komunikacja.bialystok.pl/cms/File/download/gtfs/google_transit.zip,f-bialostocka~komunikacja~miejska,CC0-1.0,active
 PL,national,Koleje Poludniowe / RegioJet-type,https://cdn.zbiorkom.live/gtfs/pkp-rj.zip,pl-pkp-rj,,active
 PL,national,PKP Intercity,https://cdn.zbiorkom.live/gtfs/pkp-ic.zip,pl-pkp-ic,,active
 PL,national,POLREGIO,https://cdn.zbiorkom.live/gtfs/pkp-pr.zip,pl-pkp-pr,,active
@@ -8300,134 +8451,43 @@ VN,Hanoi,World Bank Data Catalog (Hanoi GTFS MD),https://datacatalogfiles.worldb
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS PM),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046584/hanoi_gtfs_pm.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-p,,active
 VN,Ho Chi Minh City,"Ho Chi Minh City bus network (Trung tâm Quản lý Giao thông công cộng / Management Centre of Public Transport, MCPT)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VN/ho-chi-minh-city/ho-chi-minh-city-bus-network-trung-tam-quan-ly-g/gtfs/,vn-llm-ho-chi-minh-city-bus-network-trung-tam-q,,active
 XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-NYU.zip,f-adirondack~trailways~nyu,https://data.ny.gov/download/77gx-ii52/application/pdf,active
-XX,national,Agglobus~Guyane,https://api-data.cacl-guyane.fr/v1/gtfs-agglobus-agency/%21sourcefiles,f-agglobus~guyane,https://transport.data.gouv.fr/datasets/agence-agglobus,active
-XX,national,Airpullman~Spa,https://usbshare.agenziatpl.it/index.php/s/NCX252ombsxjzzz/download/2025-01-03_Airpullman.zip,f-airpullman~spa,CC-BY-4.0,active
 XX,national,Amarillo~City~Transit,http://gtfs-source-feeds.transit.land/amarillo-tx-us.zip,f-amarillo~city~transit,,active
-XX,national,Amibusintercomdelavireaunoireau~Seau~Amibus,https://transport.data.gouv.fr/resources/82316/download,f-amibusintercomdelavireaunoireau~seau~amibus,ODbL-1.0,active
-XX,national,Annakacity~Annakashi~Rosenbus,https://api.gtfs-data.jp/v2/organizations/annakacity/feeds/annakashi-rosenbus/files/feed.zip?uid=e227b54b-93dd-4920-af87-92b611221948,f-annakacity~annakashi~rosenbus,CC-BY-4.0,active
-XX,national,Arroyobus,https://nap.transportes.gob.es/api/Fichero/download/2151,f-arroyobus,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobuses~Cinco~Villas,https://nap.transportes.gob.es/api/Fichero/download/2116,f-autobuses~cinco~villas,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobuses~Del~Área~De~La~Serranía~De~Albarracín~Con~Teruel~C10,https://nap.transportes.gob.es/api/Fichero/download/1913,f-autobuses~del~área~de~la~serranía~de~albarracín~con~teruel~c10,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobuses~Interurbanos~De~La~Comunidad~De~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1361,f-autobuses~interurbanos~de~la~comunidad~de~madrid,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobuses~Junta~De~Extremadura,https://nap.transportes.gob.es/api/Fichero/download/1769,f-autobuses~junta~de~extremadura,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobuses~Vega~De~Tirados,https://nap.transportes.gob.es/api/Fichero/download/2153,f-autobuses~vega~de~tirados,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Interurbano~Comunidad~Valenciana,https://nap.transportes.gob.es/api/Fichero/download/1526,f-autobús~interurbano~comunidad~valenciana,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Interurbano~De~Navarra,https://nap.transportes.gob.es/api/Fichero/download/1164,f-autobús~interurbano~de~navarra,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Interurbano~De~Tenerife,https://nap.transportes.gob.es/api/Fichero/download/1331,f-autobús~interurbano~de~tenerife,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Metropolitano~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1496,f-autobús~metropolitano~barcelona,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Urbano~De~Aranda~De~Duero,https://nap.transportes.gob.es/api/Fichero/download/2083,f-autobús~urbano~de~aranda~de~duero,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Urbano~De~Burgos,https://nap.transportes.gob.es/api/Fichero/download/2150,f-autobús~urbano~de~burgos,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Urbano~De~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1097,f-autobús~urbano~de~madrid,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autobús~Urbano~De~Vic,https://nap.transportes.gob.es/api/Fichero/download/2162,f-autobús~urbano~de~vic,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autocares~Autocorb,https://nap.transportes.gob.es/api/Fichero/download/2160,f-autocares~autocorb,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autocares~Galán~Gómez,https://nap.transportes.gob.es/api/Fichero/download/2081,f-autocares~galán~gómez,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autocares~J~Cristeto,https://nap.transportes.gob.es/api/Fichero/download/2082,f-autocares~j~cristeto,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autocares~Medina,https://nap.transportes.gob.es/api/Fichero/download/2076,f-autocares~medina,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Autolinee Toscane,https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs,f-s-lineeregionali,,active
-XX,national,Autoperiferia,https://nap.transportes.gob.es/api/Fichero/download/2428,f-autoperiferia,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Bandelier~National~Monument~Shuttle,https://www.nps.gov/external-resources/gtfs/band/bandelier-national-monument.zip,f-bandelier~national~monument~shuttle,,active
 XX,national,Benton~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/benton-or-us/benton-or-us--flex-v1.zip,f-benton~or~us~flex,,active
-XX,national,Bialostocka~Komunikacja~Miejska,http://komunikacja.bialystok.pl/cms/File/download/gtfs/google_transit.zip,f-bialostocka~komunikacja~miejska,CC0-1.0,active
 XX,national,Capital~Area~Rural~Transportation,https://myride.ridecarts.com/realtime/google_transit.zip,f-capital~area~rural~transportation,,active
-XX,national,Cercanías~Madrid,https://nap.transportes.gob.es/api/Fichero/download/1163,f-cercanías~madrid,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Cercanías~Renfe,https://nap.transportes.gob.es/api/Fichero/download/1130,f-cercanías~renfe,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,City~Of~Lompoc~Transit,https://www.cityoflompoc.com/home/showpublisheddocument/29896,f-city~of~lompoc~transit,,active
 XX,national,Columbiacounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/columbiacounty-or-us/columbiacounty-or-us--flex-v1.zip,f-columbiacounty~or~us~flex,,active
 XX,national,Dubai~Rta,http://gtfs-source-feeds.transit.land/dubai-rta.zip,f-dubai~rta,https://www.dubaipulse.gov.ae/data/rta_gtfs-open/datafiles/605e9d34-cfea-4bed-9b31-3b2ce86c7a25/rta-public-transports#preview,active
-XX,national,Empresa~Gilsanz,https://nap.transportes.gob.es/api/Fichero/download/2207,f-empresa~gilsanz,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Empresa~Martín,https://nap.transportes.gob.es/api/Fichero/download/2429,f-empresa~martín,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Empresa~Ruiz,https://nap.transportes.gob.es/api/Fichero/download/2426,f-empresa~ruiz,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Emtf~Empresa~Municipal~De~Transportes~De~Fuenlabrada,https://nap.transportes.gob.es/api/Fichero/download/2152,f-emtf~empresa~municipal~de~transportes~de~fuenlabrada,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Fairmont~Marion~County,https://fmcta.com/gtfs/google_transit.zip,f-fairmont~marion~county,,active
-XX,national,Ferrocarriles~De~La~Generalitat~De~Cataluña,https://nap.transportes.gob.es/api/Fichero/download/1571,f-ferrocarriles~de~la~generalitat~de~cataluña,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Grahamtransit~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/grahamtransit-va-us/grahamtransit-va-us--flex-v2.zip,f-grahamtransit~va~us~flex,,active
-XX,national,Grand~Poitiers~Vitalis,https://data.grandpoitiers.fr/api/v2/catalog/datasets/mobilite-arret-services-theoriques-bus-hiver/files/400d7da94eaacb5e52c612f8ac28e420,f-grand~poitiers~vitalis,https://transport.data.gouv.fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/,active
 XX,national,Hmrl~Hyderabad,https://drive.google.com/uc?export=download&id=1q8hqxY6WVZYYqd2LE8vNNQ4RjFPkfORJ,f-hmrl~hyderabad,https://hmrl.co.in/open-data.html,active
 XX,national,Humboldt~Transit~Authority~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/HumboldtTransitAuthorityDialARideFlex.zip,f-humboldt~transit~authority~dial~a~ride~flex,,active
-XX,national,Jr四国バス高知支店~大栃線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-Jrbus_Localbus.zip,f-jr四国バス高知支店~大栃線,CC-BY-4.0,active
-XX,national,Kaicity~Kaicitybus,https://api.gtfs-data.jp/v2/organizations/kaicity/feeds/kaicitybus/files/feed.zip?uid=185b63f7-d97c-4887-8816-7e396ae92033,f-kaicity~kaicitybus,CC0-1.0,active
-XX,national,Kimitsucity~Ic~Local~Buses~Via~Kimitsu~City~And~Kimitsu~City~Community~Bus,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/IC_Local_buses_via_Kimitsu_City_and_Kimitsu_City_Community_Bus/files/feed.zip?uid=3df38e7e-cb7b-42e3-a73b-1f4dba8733d2,f-kimitsucity~ic~local~buses~via~kimitsu~city~and~kimitsu~city~community~bus,CC0-1.0,active
-XX,national,Kimitsucity~Ic~Sp~Local~Buses~Via~Kimitsu~City,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/IC-SP_Local_buses_via_Kimitsu_City/files/feed.zip?uid=8f728c13-7b60-4867-a5eb-1f109468cfbb,f-kimitsucity~ic~sp~local~buses~via~kimitsu~city,CC0-1.0,active
-XX,national,Kimitsucity~Kimitsu~City~Community~Bus,https://api.gtfs-data.jp/v2/organizations/kimitsucity/feeds/Kimitsu_City_Community_Bus/files/feed.zip?uid=1eb94b2a-cacf-4c88-b13b-d829c56441d6,f-kimitsucity~kimitsu~city~community~bus,CC0-1.0,active
-XX,national,Kisotown~Kisotown,https://api.gtfs-data.jp/v2/organizations/kisotown/feeds/kisotown/files/feed.zip?uid=19f7e6f8-8c89-435b-8a64-24ba8a106a05,f-kisotown~kisotown,,active
-XX,national,La~Hispano~Del~Cid~S~A~Hicid,https://nap.transportes.gob.es/api/Fichero/download/2117,f-la~hispano~del~cid~s~a~hicid,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v1.zip,f-lincolncounty~or~us~flex,,active
-XX,national,Maniwacity~Maniwakun,https://api.gtfs-data.jp/v2/organizations/maniwacity/feeds/maniwakun/files/feed.zip?uid=683286aa-ccb7-4a1c-a483-4b2b136b6e71,f-maniwacity~maniwakun,CC0-1.0,active
 XX,national,Mankato~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/mankato-mn-us/mankato-mn-us--flex-v2.zip,f-mankato~mn~us~flex,,active
-XX,national,Manresa~Bus,https://nap.transportes.gob.es/api/Fichero/download/2170,f-manresa~bus,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Manteca~Transit~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/MantecaTransitParatransitFlex.zip,f-manteca~transit~paratransit~flex,,active
-XX,national,Metrotenerife,https://nap.transportes.gob.es/api/Fichero/download/1690,f-metrotenerife,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Metro~Malaga,https://nap.transportes.gob.es/api/Fichero/download/1497,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Mizuhotown~Demandresponsivetransport,https://api.gtfs-data.jp/v2/organizations/mizuhotown/feeds/DemandResponsiveTransport/files/feed.zip?uid=73c516be-a530-4482-af05-5cccdfc52824,f-mizuhotown~demandresponsivetransport,CC-BY-4.0,active
-XX,national,Mmts~Hyderabad,https://data.telangana.gov.in/sites/default/files/Open_Data_MMTS_Hyd.zip,f-mmts~hyderabad,https://data.telangana.gov.in/dataset/gtfs-mmts-hyderabad,active
-XX,national,Movibus~Srl,https://usbshare.agenziatpl.it/index.php/s/awfA3t8jy3D46dM/download/2025-01-17_Movibus.zip,f-movibus~srl,CC-BY-4.0,active
 XX,national,Murfreesboro~Transit,https://murfreesborotransit.tripsparkhost.com/gtfs/google_transit.zip,f-murfreesboro~transit,,active
-XX,national,Nagadenbus~Nagadenbus~Exp,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-exp/files/feed.zip?uid=35b7e83d-5115-4d1e-8ba4-867e48bd3274,f-nagadenbus~nagadenbus~exp,CC-BY-4.0,active
-XX,national,Nagadenbus~Nagadenbus~Iizuna,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-iizuna/files/feed.zip?uid=7ea6e0f9-3035-4999-8cf2-16cfee89709b,f-nagadenbus~nagadenbus~iizuna,CC-BY-4.0,active
-XX,national,Nagadenbus~Nagadenbus~Nagano,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-nagano/files/feed.zip?uid=2cca54d9-3b0c-4aa3-a962-e0068dc0cf50,f-nagadenbus~nagadenbus~nagano,CC-BY-4.0,active
-XX,national,Nagadenbus~Nagadenbus~Nakano,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/nagadenbus-nakano/files/feed.zip?uid=87544e4f-a185-44e9-af19-b48c3f9b6c9d,f-nagadenbus~nagadenbus~nakano,CC-BY-4.0,active
-XX,national,Nagadenbus~Obuse~Romango,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/obuse-romango/files/feed.zip?uid=2dcd4103-ffbb-4e05-a1f0-15863b85c4a1,f-nagadenbus~obuse~romango,CC-BY-4.0,active
-XX,national,Net~Nord~Est~Trasporti,https://usbshare.agenziatpl.it/index.php/s/k3Aera76R2BYjit/download/2025-04-30_NET.zip,f-net~nord~est~trasporti,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
-XX,national,Nvbw~Filsland,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/filsland.zip,f-nvbw~filsland,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
-XX,national,Nvbw~Naldo,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/naldo.zip,f-nvbw~naldo,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
-XX,national,Nvbw~Rxr,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/rxr.zip,f-nvbw~rxr,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
-XX,national,Nvbw~Swhn,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/swhn.zip,f-nvbw~swhn,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 XX,national,Omniride~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/omniride-va-us/omniride-va-us--flex-v2.zip,f-omniride~va~us~flex,,active
 XX,national,Ord~Aa~Bus,https://ORDAABUS.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-ord~aa~bus,,active
 XX,national,Orlando~Airport~People~Mover,http://gtfs-source-feeds.transit.land/orlando-airport-people-mover.zip,f-orlando~airport~people~mover,ODbL-1.0,active
 XX,national,Paratransitservices~Wa~Us~Flex,https://data.trilliumtransit.com/gtfs/paratransitservices-wa-us/paratransitservices-wa-us--flex-v2.zip,f-paratransitservices~wa~us~flex,,active
 XX,national,Placer~County~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/PlacerCountyDialARideFlex.zip,f-placer~county~dial~a~ride~flex,,active
-XX,national,Pmt~Pavia~Milano~Trasporti~Srl,https://usbshare.agenziatpl.it/index.php/s/r93xAJ3f3KtnRF9/download,f-pmt~pavia~milano~trasporti~srl,CC-BY-4.0,active
 XX,national,Psesd~Wa~Us~Flex,https://data.trilliumtransit.com/gtfs/psesd-wa-us/psesd-wa-us--flex-v2.zip,f-psesd~wa~us~flex,,active
-XX,national,Pérez~Cubero,https://nap.transportes.gob.es/api/Fichero/download/2079,f-pérez~cubero,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Rdoeste,https://drive.google.com/uc?export=download&id=1uzZ2gGJelxkKpb5PQIDSrG5rLdmYYgkn,f-e-rdoeste,CC0-1.0,active
-XX,national,Renfe~Media~Larga~Distancia~Y~Ave,https://nap.transportes.gob.es/api/Fichero/download/1098,f-renfe~media~larga~distancia~y~ave,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Reseau~Interurbain~Cars~Region~Allier,https://mobi-iti-ara.okina.fr/static/mobiiti_allier/gtfs.zip,f-reseau~interurbain~cars~region~allier,ODbL-1.0,active
-XX,national,Reseau~Interurbain~Cars~Region~Cantal,https://mobi-iti-ara.okina.fr/static/mobiiti_cantal/gtfs.zip,f-reseau~interurbain~cars~region~cantal,ODbL-1.0,active
-XX,national,Reseau~Interurbain~Cars~Region~Haute~Loire,https://mobi-iti-ara.okina.fr/static/mobiiti_haute_loire/gtfs.zip,f-reseau~interurbain~cars~region~haute~loire,ODbL-1.0,active
-XX,national,Reseau~Interurbain~Cars~Region~Puy~De~Dome,https://mobi-iti-ara.okina.fr/static/mobiiti_puy_de_dome/gtfs.zip,f-reseau~interurbain~cars~region~puy~de~dome,ODbL-1.0,active
-XX,national,Reseau~Maelis~Montlucon~Communaute,https://www.data.gouv.fr/api/1/datasets/r/d352885f-3d43-43f8-b0c6-caa1a8313f56,f-reseau~maelis~montlucon~communaute,ODbL-1.0,active
 XX,national,Rideconnection~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/rideconnection-or-us/rideconnection-or-us--flex-v2.zip,f-rideconnection~or~us~flex,,active
 XX,national,Rochester~Mn~Us~Paratransit,https://data.trilliumtransit.com/gtfs/rochester-mn-us/rochester-mn-us--flex-v2.zip,f-rochester~mn~us~paratransit,,active
-XX,national,Sagalés~Bages~Transbages,https://nap.transportes.gob.es/api/Fichero/download/2202,f-sagalés~bages~transbages,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Bages~Transports~Castellá,https://nap.transportes.gob.es/api/Fichero/download/2203,f-sagalés~bages~transports~castellá,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Caldentey~Mallorca,https://nap.transportes.gob.es/api/Fichero/download/2174,f-sagalés~caldentey~mallorca,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Costa,https://nap.transportes.gob.es/api/Fichero/download/2172,f-sagalés~costa,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Mataró~St~Celoni,https://nap.transportes.gob.es/api/Fichero/download/2173,f-sagalés~mataró~st~celoni,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Mataró~St~Celoni~Ferrocarriles~Y~Transportes,https://nap.transportes.gob.es/api/Fichero/download/2204,f-sagalés~mataró~st~celoni~ferrocarriles~y~transportes,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Mataró~St~Celoni~Sagalés,https://nap.transportes.gob.es/api/Fichero/download/2205,f-sagalés~mataró~st~celoni~sagalés,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Sagalés~Osona,https://nap.transportes.gob.es/api/Fichero/download/2169,f-sagalés~osona,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Saginaw~Stars,http://gtfs-source-feeds.transit.land/saginaw-stars.zip,f-saginaw~stars,,active
-XX,national,Sentetsu~Sentetsubus,https://api.gtfs-data.jp/v2/organizations/sentetsu/feeds/Sentetsubus/files/feed.zip?uid=3089d77c-c4ce-47cc-88aa-72f6324873fa,f-sentetsu~sentetsubus,CC-BY-4.0,active
-XX,national,Shimacity~Agowanteikisen,https://api.gtfs-data.jp/v2/organizations/shimacity/feeds/agowanteikisen/files/feed.zip?uid=4512ea7d-23d4-450f-bcce-456edb07f388,f-shimacity~agowanteikisen,CC-BY-4.0,active
-XX,national,Societàtrasportipubblicibrindisi,http://www.stpbrindisi.it/attachments/article/963/Urbano_gen.zip,f-s-societàtrasportipubblicibrindisi,,active
 XX,national,Societàtrasportocerignola,https://mazzarino.gq/index.php/s/Bo56mFd57aGc9MZ/download,f-s-societàtrasportocerignola,,active
 XX,national,Soundgenerations~Wa~Us~Flex,https://data.trilliumtransit.com/gtfs/soundgenerations-wa-us/soundgenerations-wa-us-hyde--flex-v2.zip,f-soundgenerations~wa~us~flex,,active
 XX,national,Suffolk~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/suffolk-va-us/suffolk-va-us--flex-v2.zip,f-suffolk~va~us~flex,,active
 XX,national,Tahoe~Truckee~Regional~Transportation~Tart~Connect~Dial~A~Ride~Placer~Tart~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/TahoeTruckeeRegionalTransportationTARTConnectDialARidePlacerTARTParatransitFlex.zip,f-tahoe~truckee~regional~transportation~tart~connect~dial~a~ride~placer~tart~paratransit~flex,,active
-XX,national,Taxitur,https://nap.transportes.gob.es/api/Fichero/download/2075,f-taxitur,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Thousand~Oaks~Dial~A~Ride~Paratransitand~Connect~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/ThousandOaksDialARideParatransitandConnectFlex.zip,f-thousand~oaks~dial~a~ride~paratransitand~connect~flex,,active
 XX,national,Tillamookcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us--flex-v1.zip,f-tillamookcounty~or~us~flex,,active
-XX,national,Transgran,https://nap.transportes.gob.es/api/Fichero/download/2171,f-transgran,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Transportes~Urbanos~De~Linares,https://nap.transportes.gob.es/api/Fichero/download/2427,f-transportes~urbanos~de~linares,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Transporte~Interurbano~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2077,f-transporte~interurbano~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Transporte~Metropolitano~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2078,f-transporte~metropolitano~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Transporte~Metropolitano~De~Barcelona~Bus~Y~Metro,https://nap.transportes.gob.es/api/Fichero/download/1328,f-transporte~metropolitano~de~barcelona~bus~y~metro,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Transporte~Rural~Del~Gobierno~De~La~Rioja,https://nap.transportes.gob.es/api/Fichero/download/2080,f-transporte~rural~del~gobierno~de~la~rioja,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Transport~For~London,http://gtfs-source-feeds.transit.land/uk-tfl.zip,f-transport~for~london,,active
 XX,national,Transport~For~West~Midlands,http://api.tfwm.org.uk/gtfs/tfwm_gtfs.zip?app_id=9c2ed2e7,f-transport~for~west~midlands,,active
-XX,national,Tranvía~Metropolitano~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1329,f-tranvía~metropolitano~barcelona,https://nap.transportes.gob.es/licencia-datos,active
-XX,national,Tranvía~Metropolitano~Besós~Barcelona,https://nap.transportes.gob.es/api/Fichero/download/1330,f-tranvía~metropolitano~besós~barcelona,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Tricityroadrunner~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/tricityroadrunner-ne-us/tricityroadrunner-ne-us--flex-v2.zip,f-tricityroadrunner~ne~us~flex,,active
-XX,national,Tubasa~Transportes~Urbanos~De~Badajoz,https://nap.transportes.gob.es/api/Fichero/download/2459,f-tubasa~transportes~urbanos~de~badajoz,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Turlock~Transit~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/TurlockTransitDialARideFlex.zip,f-turlock~transit~dial~a~ride~flex,,active
-XX,national,U3W4~Morag,https://files.girlc.at/gtfs/morag.zip,f-u3w4~morag,CC0-1.0,active
-XX,national,U3W~Orneta,https://files.girlc.at/gtfs/orneta.zip,f-u3w~orneta,CC0-1.0,active
-XX,national,U3W~Piecki,https://files.girlc.at/gtfs/piecki.zip,f-u3w~piecki,CC0-1.0,active
-XX,national,U3W~Powiat~Olsztynski,https://files.girlc.at/gtfs/powiat_olsztynski.zip,f-u3w~powiat~olsztynski,CC0-1.0,active
-XX,national,Ugokotsu~Ugokotsu~Honjo,https://api.gtfs-data.jp/v2/organizations/ugokotsu/feeds/ugokotsu_honjo/files/feed.zip?uid=14666d77-ce2a-4e39-b8ce-cbfabe440812,f-ugokotsu~ugokotsu~honjo,CC-BY-4.0,active
 XX,national,Uk~Rail,http://gtfs-source-feeds.transit.land/uk-rail.zip,f-uk~rail,,active
 XX,national,Union~City~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/UnionCityParatransitFlex.zip,f-union~city~paratransit~flex,,active
 XX,national,Valley~Express~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/ValleyExpressDialARideFlex.zip,f-valley~express~dial~a~ride~flex,,active
@@ -8439,74 +8499,14 @@ XX,national,Wintran~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/wintran-va-
 XX,national,Zenbus~Arche,https://zenbus.net/gtfs/static/download.zip?dataset=lr11-arche,f-zenbus~arche,ODbL-1.0,active
 XX,national,Zenbus~Coeur~De~Tarentaise,https://zenbus.net/gtfs/static/download.zip?dataset=coeur-de-tarentaise,f-zenbus~coeur~de~tarentaise,ODbL-1.0,active
 XX,national,Zenbus~Ile~De~Re,https://zenbus.net/gtfs/static/download.zip?dataset=iledere-rna,f-zenbus~ile~de~re,ODbL-1.0,active
-XX,national,さいたま市見沼区大砂土東地区乗合タクシーみぬま号,https://opendata.pref.saitama.lg.jp/resource_download/6357,f-さいたま市見沼区大砂土東地区乗合タクシーみぬま号,CC-BY-4.0,active
-XX,national,さかわ~おち花＊花ループバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Niyodoblue_Shuttlebus.zip,f-さかわ~おち花＊花ループバス,CC-BY-4.0,active
-XX,national,つくば市~筑波地区支線型バスつくばね号,https://www.city.tsukuba.lg.jp/material/files/group/126/GTFS.zip,f-つくば市~筑波地区支線型バスつくばね号,CC-BY-4.0,active
-XX,national,とさでん交通~一般路線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Tosaden-Traffic_Regularbus.zip,f-とさでん交通~一般路線,CC-BY-4.0,active
-XX,national,ふじみ野市内循環バスふじみん号,http://cms2nd.nec.asp.lgwan.jp/material/local/1177/files/group/5/112453_basujoho.zip,f-ふじみ野市内循環バスふじみん号,CC-BY-4.0,active
-XX,national,ふれあいバス大府市循環バス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/bus/obu-gtfs-current-data.zip,f-ふれあいバス大府市循環バス,CC-BY-4.0,active
-XX,national,みよし市~さんさんバス,https://www.city.aichi-miyoshi.lg.jp/shisei/opendata/documents/sansanbus.zip,f-みよし市~さんさんバス,CC-BY-4.0,active
 XX,national,マリックスライン~クイーンコーラルプラス~クイーンコーラル８,https://www.ottop.databed.org/transitfeed/9340001004024,f-マリックスライン~クイーンコーラルプラス~クイーンコーラル８,CC-BY-4.0,active
 XX,national,マルエーフェリー~鹿児島航路~フェリーあけぼの,https://www.ottop.databed.org/transitfeed/5340001010554,f-マルエーフェリー~鹿児島航路~フェリーあけぼの,CC-BY-4.0,active
-XX,national,仁淀川町民バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Niyodogawa-Town.zip,f-仁淀川町民バス,CC-BY-4.0,active
-XX,national,仙台市営バス,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_data.zip,f-仙台市営バス,CC-BY-SA-2.1-JP,active
 XX,national,仙台市営バス2026.3.2～,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=current,f-仙台市営バス2026.3.2～,CC-BY-4.0,active
 XX,national,仙台市営バス2026.3.2～~1,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=latest,f-仙台市営バス2026.3.2～~1,CC-BY-4.0,active
-XX,national,仙台市営バス~1,https://www.city.sendai.jp/joho-kikaku/shise/security/kokai/documents/gtfs-jp_sendaicitybus_current_date.zip,f-仙台市営バス~1,CC-BY-SA-2.1-JP,active
-XX,national,佐川町~さかわぐるぐるバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Sakawa-Town.zip,f-佐川町~さかわぐるぐるバス,CC-BY-4.0,active
 XX,national,北九州市~おでかけ交通~小倉南区東谷地区,https://ckan.open-governmentdata.org/dataset/0ae9bb0b-9aea-40e6-9cdf-486b9421bf33/resource/55618aea-0a7a-472d-bc61-d54757d8b35a/download/401005_odekakekotsugtfs_higashitani.zip,f-北九州市~おでかけ交通~小倉南区東谷地区,CC-BY-4.0,active
-XX,national,北海道北見バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/ae0e85ab-b317-4acd-b982-2ceda019309f/download/kitami_bus-1.zip,f-北海道北見バス,CC-BY-4.0,active
-XX,national,北海道拓殖バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/3870b272-dabb-4527-9d51-67afc2c9a2d5/download/gtfs_takushoku_bus.zip,f-北海道拓殖バス,CC-BY-4.0,active
-XX,national,十勝バス,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/9ad9de7f-73a9-4695-858f-c09cdf13437a/download/20211121gtfs-dia.zip,f-十勝バス,CC-BY-4.0,active
-XX,national,可児市~Yaoバス,https://www.city.kani.lg.jp/secure/12816/202303_yao_bus.zip,f-可児市~yaoバス,CC-BY-SA-2.1-JP,active
-XX,national,可児市~さつきバス~Ｋバス,https://www.city.kani.lg.jp/secure/12816/202210_satuki_K_bus.zip,f-可児市~さつきバス~ｋバス,CC-BY-SA-2.1-JP,active
-XX,national,和光市内循環バス,https://opendata.pref.saitama.lg.jp/resource_download/5210,f-和光市内循環バス,CC-BY-4.0,active
-XX,national,四国交通~四交~1,https://api.gtfs-data.jp/v2/organizations/yonkoh/feeds/shikokukoutsuu/files/feed.zip,f-四国交通~四交~1,CC-BY-4.0,active
-XX,national,大月町~まちなか循環線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Otsuki-Town.zip,f-大月町~まちなか循環線,CC-BY-4.0,active
-XX,national,安芸市観光シャトルバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Aki-Shuttlebus.zip,f-安芸市観光シャトルバス,CC-BY-4.0,active
-XX,national,山形鉄道,https://www.pref.yamagata.jp/documents/20978/flower-liner_gtfs_1.zip,f-山形鉄道,CC-BY-4.0,active
-XX,national,岩国市生活交通バス~由宇地区バス,https://yamaguchi-opendata.jp/ckan/dataset/2dbaeb43-5134-4880-90a3-62870504f1d3/resource/31d5dd9c-113c-4fc5-bfa6-31d832f830fc/download/352080_gtfs-jp.zip,f-岩国市生活交通バス~由宇地区バス,CC-BY-4.0,active
-XX,national,川越市内循環バス川越シャトル,https://opendata.pref.saitama.lg.jp/resource_download/91,f-川越市内循環バス川越シャトル,CC-BY-4.0,active
-XX,national,川越町~ふれあいバス,https://www.town.kawagoe.mie.jp/wp-content/themes/kawagoecho/images/hureaibus202208.zip,f-川越町~ふれあいバス,CC-BY-4.0,active
-XX,national,庄内交通,https://www.pref.yamagata.jp/documents/20978/syonaikotsu_gtfs.zip,f-庄内交通,CC-BY-4.0,active
-XX,national,徳島市営バス,https://opendata.pref.tokushima.lg.jp/dataset/2649/url_resource/66/GTFS-JP.zip,f-徳島市営バス,CC-BY-4.0,active
-XX,national,志賀町コミュニティバスしかばす,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/65de3540-4781-4329-bc8f-634870e5a69c/resource/cfb1baaa-4808-408b-ab09-2f3a0a08aacb/download,f-志賀町コミュニティバスしかばす,CC-BY-4.0,active
-XX,national,日本中央バス奥多野線,https://ncb.jp/route/GTFS/latest/GTFS(OT).zip,f-日本中央バス奥多野線,CC-BY-4.0,active
-XX,national,春日部市コミュニティバス,https://opendata.pref.saitama.lg.jp/resource_download/6515,f-春日部市コミュニティバス,CC-BY-4.0,active
-XX,national,本庄市はにぽんシャトル,https://opendata.pref.saitama.lg.jp/resource_download/1684,f-本庄市はにぽんシャトル,CC-BY-4.0,active
-XX,national,杉戸町町内巡回バスあいあい号,https://opendata.pref.saitama.lg.jp/resource_download/3750,f-杉戸町町内巡回バスあいあい号,CC-BY-4.0,active
-XX,national,東みよし町営バス,https://api.gtfs-data.jp/v2/organizations/higashimiyoshitown/feeds/hitashimiyoshitownbus/files/feed.zip,f-東みよし町営バス,CC-BY-4.0,active
-XX,national,桐生市~おりひめバス,https://www.city.kiryu.lg.jp/_res/common/opendata/1014528/20230320_kiryu_gtfs.zip,f-桐生市~おりひめバス,CC-BY-4.0,active
-XX,national,橋本市コミュニティバス~デマンドタクシー,https://www.city.hashimoto.lg.jp/material/files/group/67/hashimoto_gtfsjp.zip,f-橋本市コミュニティバス~デマンドタクシー,CC-BY-SA-2.1-JP,active
-XX,national,津幡町営バス,https://ckan.opendata.pref.ishikawa.lg.jp/dataset/26e2ba58-a46f-4f53-8350-8588ad8aacf1/resource/8f63902b-c8f7-40e3-b5b7-0fe3d12f5950/download,f-津幡町営バス,CC-BY-4.0,active
-XX,national,浪岡地区コミュニティバス,https://www.city.aomori.aomori.jp/n-somu/documents/namiokabus_current.zip,f-浪岡地区コミュニティバス,CC-BY-4.0,active
 XX,national,滑川市~のる~My~Car,https://toyama-pref.box.com/shared/static/jpxqjqmxqrbu47o2f45i84f3m43qkxzi.zip,f-滑川市~のる~my~car,,active
-XX,national,熊谷市ゆうゆうバス,https://opendata.pref.saitama.lg.jp/resource_download/3194,f-熊谷市ゆうゆうバス,CC-BY-4.0,active
 XX,national,秋田市~マイタウン~バス中心市街地循環バスぐるる,https://api-public.odpt.org/api/v4/files/odpt/AkitaCity/AkitaCityBus.zip?date=current,f-秋田市~マイタウン~バス中心市街地循環バスぐるる,CC-BY-4.0,active
 XX,national,秋田市~マイタウン~バス中心市街地循環バスぐるる~1,https://api-public.odpt.org/api/v4/files/odpt/AkitaCity/AkitaCityBus.zip?date=latest,f-秋田市~マイタウン~バス中心市街地循環バスぐるる~1,CC-BY-4.0,active
-XX,national,秩父市営バス浦山線川又線,https://opendata.pref.saitama.lg.jp/resource_download/1499,f-秩父市営バス浦山線川又線,CC-BY-4.0,active
-XX,national,美波町~美波病院連絡バス,https://opendata.pref.tokushima.lg.jp/dataset/2636/resource/7707/GTFSJP3_minami-town_20220601.zip,f-美波町~美波病院連絡バス,CC-BY-4.0,active
-XX,national,羽咋市~市内循環バスるんるんバス,https://www.city.hakui.lg.jp/material/files/group/2/GTFS20230401.zip,f-羽咋市~市内循環バスるんるんバス,CC-BY-4.0,active
-XX,national,羽後交通,https://www.akita-bus.or.jp/~akita-gtfs/ugo-bus-jp.zip,f-羽後交通,CC-BY-4.0,active
-XX,national,能美市~のみバス,https://www.city.nomi.ishikawa.jp/www/contents/1683514558086/simple/GTFS_nomi_20230401.zip,f-能美市~のみバス,CC-BY-4.0,active
-XX,national,藤岡市~めぐるん,https://www.city.fujioka.gunma.jp/material/files/group/7/fujiokaGTFS.zip,f-藤岡市~めぐるん,CC-BY-4.0,active
-XX,national,西尾市~いっちゃんバス,https://api.gtfs-data.jp/v2/organizations/nishiocity/feeds/ichanbus/files/feed.zip,f-西尾市~いっちゃんバス,,active
-XX,national,金沢ふらっとバス,https://catalog-data.city.kanazawa.ishikawa.jp/dataset/1196beb4-f9f9-463c-9723-5b38d8127425/resource/191bd7bd-8e97-4919-b3ad-a87757993a79/download/20230401.zip,f-金沢ふらっとバス,CC-BY-SA-2.1-JP,active
-XX,national,長岡市~小国地域生活交通~八王子線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-10.zip,f-長岡市~小国地域生活交通~八王子線,CC-BY-4.0,active
-XX,national,長岡市~小国地域生活交通~大貝線オーケーバス,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-09.zip,f-長岡市~小国地域生活交通~大貝線オーケーバス,CC-BY-4.0,active
-XX,national,長岡市~小国地域生活交通~法末線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-11.zip,f-長岡市~小国地域生活交通~法末線,CC-BY-4.0,active
-XX,national,長岡市~山古志地域クローバーバス~小千谷線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-06.zip,f-長岡市~山古志地域クローバーバス~小千谷線,CC-BY-4.0,active
-XX,national,長岡市~山古志地域クローバーバス~小松倉線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-08.zip,f-長岡市~山古志地域クローバーバス~小松倉線,CC-BY-4.0,active
-XX,national,長岡市~山古志地域クローバーバス~村松線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-05.zip,f-長岡市~山古志地域クローバーバス~村松線,CC-BY-4.0,active
-XX,national,長岡市~山古志地域クローバーバス~種苧原線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-07.zip,f-長岡市~山古志地域クローバーバス~種苧原線,CC-BY-4.0,active
-XX,national,長岡市~川口地域バス上川線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-12.zip,f-長岡市~川口地域バス上川線,CC-BY-4.0,active
-XX,national,長岡市~川口地域バス木沢~和南津線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-14.zip,f-長岡市~川口地域バス木沢~和南津線,CC-BY-4.0,active
-XX,national,長岡市~川口地域バス西川口~田麦山線,https://www.city.nagaoka.niigata.jp/shisei/cate10/gis/file/28-13.zip,f-長岡市~川口地域バス西川口~田麦山線,CC-BY-4.0,active
-XX,national,階上町コミュニティバス,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/16908/gtfs_hashikamicho_com.zip,f-階上町コミュニティバス,,active
-XX,national,階上町コミュニティバス~1,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/19655/gtfs_hashikamicho_com_latest.zip,f-階上町コミュニティバス~1,,active
-XX,national,高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,https://www.city.takasaki.gunma.jp/docs/2020060400037/files/bus-takasaki-gunma-jp_20230414.zip,f-高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,CC-BY-4.0,active
-XX,national,高知観光コンベンション協会~My遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-Yubus.zip,f-高知観光コンベンション協会~my遊バス,CC-BY-4.0,active
-XX,national,鶴岡市~羽黒地域市営バス朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs_1.zip,f-鶴岡市~羽黒地域市営バス朝日地域市営バス,CC-BY-4.0,active
 ZA,Cape Town,MyCiTi,https://gtfs.s3.amazonaws.com/myciti_20131022_0552.zip,za-dork-myciti,,active
 ZA,Cape Town,MyCiTi BRT (City of Cape Town),http://gtfs.s3.amazonaws.com/myciti_20131022_0552.zip,za-disc-60,,active
 ZA,Nelson Mandela Bay Metropolitan Municipality,Algoa Bus,https://drive.google.com/uc?export=download&id=1aznf-L6ejtttrmdF897uoGNR28AL3oaz,mdb-3133,,active

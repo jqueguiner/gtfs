@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "庄内交通",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.pref.yamagata.jp/documents/20978/syonaikotsu_gtfs.zip",
+    "mdb_id": "f-庄内交通",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

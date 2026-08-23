@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Cinco~Villas",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2116",
+    "mdb_id": "f-autobuses~cinco~villas",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

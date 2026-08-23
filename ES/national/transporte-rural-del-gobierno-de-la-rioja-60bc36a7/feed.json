@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transporte~Rural~Del~Gobierno~De~La~Rioja",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2080",
+    "mdb_id": "f-transporte~rural~del~gobierno~de~la~rioja",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

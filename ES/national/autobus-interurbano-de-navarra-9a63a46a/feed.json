@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Interurbano~De~Navarra",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/1164",
+    "mdb_id": "f-autobús~interurbano~de~navarra",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

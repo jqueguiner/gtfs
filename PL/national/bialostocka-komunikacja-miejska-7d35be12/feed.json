@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bialostocka~Komunikacja~Miejska",
+    "country": "PL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://komunikacja.bialystok.pl/cms/File/download/gtfs/google_transit.zip",
+    "mdb_id": "f-bialostocka~komunikacja~miejska",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

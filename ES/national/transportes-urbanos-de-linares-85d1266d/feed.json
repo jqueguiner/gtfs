@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transportes~Urbanos~De~Linares",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2427",
+    "mdb_id": "f-transportes~urbanos~de~linares",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

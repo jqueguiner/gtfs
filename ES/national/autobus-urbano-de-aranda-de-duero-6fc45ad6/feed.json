@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Urbano~De~Aranda~De~Duero",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2083",
+    "mdb_id": "f-autobús~urbano~de~aranda~de~duero",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Agglobus~Guyane",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-data.cacl-guyane.fr/v1/gtfs-agglobus-agency/%21sourcefiles",
+    "mdb_id": "f-agglobus~guyane",
+    "license": "https://transport.data.gouv.fr/datasets/agence-agglobus"
+  },
+  "bbox": null,
+  "source": "transitland-atlas+tld",
+  "status": "active"
+}
