@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Beijing MTR Corporation (BJMTR)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Beijing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/beijing/beijing-mtr-corporation-bjmtr/gtfs/",
+    "mdb_id": "cn-llm-beijing-mtr-corporation-bjmtr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

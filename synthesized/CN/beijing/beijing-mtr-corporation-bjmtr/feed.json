@@ -1,0 +1,14 @@
+{
+  "operator": "Beijing MTR Corporation (BJMTR)",
+  "city": "Beijing",
+  "cc": "CN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 113,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 236
+  },
+  "notes": "Source: official mtr.bj.cn EN timetable pages for Lines 14, 4/Daxing, 16, 17 (station lists + first/last-train times extracted via WebFetch). Coordinates are WGS-84 from Wikipedia/Wikidata/OSM knowledge of the Beijing subway (verified anchors: Xizhimen 39.9405,116.355; Wangjing 39.9985,116.4694; Wangjing Nan 39.9845,116.4817) — NOT GCJ-02/Amap/Baidu. route_type=1 (metro). Each line has one representative trip per direction, starting at the published first-train time, with an even ~2.5 min inter-station cadence (the official pages give station lists + first/last-train times but no per-station full timetable or explicit headways, so exact clock times between termini are modeled, not scraped). Shared interchange stations are deduplicated across lines (Beijing South Railway Station, Lize Shangwuqu, National Library, Xi Yuan, Shilihe) → 113 unique stops from 118 line-station entries. Line 17 uses the full 20-station official list (central section fully opened by Jan 2026; Guangqumen Wai not yet open and correctly excluded by the source). Calendar = daily (metro runs 7 days/week). Confidence 0.55: station lists, ordering, termini, coordinates and service span are faithful and evidenced; intermediate stop times and headways are modeled from first/last-train + even spacing rather than the real published minute-by-minute schedule.",
+  "source": "llm-normalized"
+}

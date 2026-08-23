@@ -1,0 +1,14 @@
+{
+  "operator": "Zhengzhou Metro Group (郑州地铁集团)",
+  "city": "Zhengzhou",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 86,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 182
+  },
+  "notes": "Scope: 3 lines (1, 5, 8) fully modeled per the provided EN/ZH Wikipedia sources, which had complete ordered station lists for these lines. The system has 13 lines / 284 stations total; the other 10 lines are not modeled here (no per-line station tables in the given SOURCES), so this is a faithful-but-partial feed — hence confidence 0.62. Coordinates are WGS-84 from EN Wikipedia station articles (verified per station where available); a subset (~15 stations) whose exact article coords were not retrieved were linearly interpolated along the known WGS-84 corridor between adjacent confirmed stations (sub-km accuracy) rather than left null — none use GCJ-02/Amap/Baidu. Interchange stations shared between modeled lines use a single shared stop_id (Zhengzhou East = ZZ_ZHENGZHOUDONG on L1/L5/L8; Wuyigongyuan on L1/L5; Zhengzhou University on L1/L8). Service: first/last train 06:00–22:00 confirmed for Line 1 (travelchinaguide + zzmetro), applied system-wide (typical for Zhengzhou Metro). Headways from Line 1 published timetable (~5.8 min peak, ~7.5 min off-peak); representative trips built at a uniform ~2 min inter-station run time starting 06:00 for each direction. Line 5 is a loop — modeled as two directional trips (inner/outer) starting and ending at Yueji Gongyuan. Only one representative trip per direction per line is emitted (schema requirement); full headway-expanded timetables were not generated. calendar: daily service (metro runs 7 days/week). Not modeled: fares, shapes, transfers, exact per-station dwell/run times.",
+  "source": "llm-normalized"
+}

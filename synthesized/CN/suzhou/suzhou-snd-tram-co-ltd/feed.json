@@ -1,0 +1,14 @@
+{
+  "operator": "Suzhou SND Tram Co., Ltd. (苏州高新有轨电车有限公司)",
+  "city": "Suzhou",
+  "cc": "CN",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 31,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 64
+  },
+  "notes": "Suzhou High-Tech District (SND) tram, 2 lines. Station sequences and operating hours from zh.wikipedia (苏州高新有轨电车1号线/2号线) and en.wikipedia Suzhou_Tram, reflecting the 2024-2025 network (稼先路 opened 2024, 南京大学南/东 opened 2025). Line 1: 16 stations Shizishan(狮子山)->Xiyangshan(西洋山), 25.76 km; Line 2: 16 stations Nanjing Univ East(南京大学东)->Wenchang Lu(文昌路). Longkang Lu (龙康路) is the shared interchange stop.\n\nSCHEDULE: Real published hours used — first train 06:10, last train ~22:30 (source: zh.wiki + suzhou.bendibao). Normal weekday headway 15 min on Line 1; Line 2 ~10 min shared / 20 min branch. Feed contains ONE representative trip per direction per line (4 trips total) with even ~3 min inter-stop hops derived from line length and 32-33 km/h avg speed (48/45 min end-to-end); a full frequency-expanded timetable was not published in machine-readable form. Fare is flat CNY 2.\n\nCOORDINATES: WGS-84 from Nominatim/OpenStreetMap geocoding bounded to the Suzhou New District bbox (120.28-120.66E, 31.12-31.52N) — NOT GCJ-02/Amap. Most stops geocoded directly to named roads/places along the confirmed west-east corridor. 4 stops (xinqu_park/新区公园, snd_admin/高新区管委会, nju_east/南京大学东) were positioned by interpolation between confirmed neighboring stops on the route because direct geocoding hit ambiguous or out-of-district matches — these carry ~200-400m positional uncertainty. All others are geocoder hits.\n\nLIMITATIONS: OSM has no route=tram relations or railway=tram_stop nodes for this system (checked overpass; main endpoint IPv6-only/unreachable from host, mirrors empty/broken), and Wikidata has no station items — so stop coordinates rely on Nominatim place matching rather than authoritative platform nodes. No published per-trip timetable, so headway-derived times are approximate. Confidence 0.6: routes/stops/order are well-evidenced; clock times and 4 interpolated coords are approximations.",
+  "source": "llm-normalized"
+}

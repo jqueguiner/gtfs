@@ -1,0 +1,14 @@
+{
+  "operator": "Guangzhou Bus Rapid Transit (GBRT, operated by GZ Bus Group 3rd branch)",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 27,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 162
+  },
+  "notes": "Scope: Guangzhou BRT (GBRT) Zhongshan Avenue trunk busway corridor, the operator named in the request. Stops: all 27 corridor stations in official west->east order from Wikipedia (Guangzhou_Bus_Rapid_Transit) corroborated by the Guangzhou gov tourism page (22.5 km, 27 stations, Gold-rated busway, opened Feb 2010). Coordinates: WGS-84. 13 stations anchored to real Wikidata coordinates of co-located metro/rail stations (Tianhe Sports Center, Shipaiqiao, Gangding, SCNU, Tangdong, Chebei, Huangcun, Zhucun/Tianhe Zhucun, Shuanggang/Wenyuan, Miaotou, Xiayuan). The other ~14 evidenced corridor stops have no individual public geocode, so their lat/lon are LINEARLY INTERPOLATED along the near-straight arterial (Zhongshan Ave -> Huangpu Ave E) between known neighbors; along this straight dedicated busway that is accurate to a few hundred metres. Per guidance, deliberately did NOT use Amap/Baidu GCJ-02 coords. Routes: the corridor is served by ~31-43 B-prefixed direct-service routes (B1..B31) that enter/exit the busway; I modeled ONE representative trunk route B1 running the full corridor Tianhe Sports Center <-> Xiayuan/Lumingshan (B1 documented as BRT Xiayuan <-> BRT Sports Center). Service: operating window ~06:00-23:00 (B2 documented 06:00-22:48); BRT is extremely high-frequency (peak ~300-350 buses/hr/direction, i.e. one every 10-12 s). I emit representative clock-face trips (06:00 / 12:00 / 22:00 departures per direction) with even ~2 min inter-stop travel; a real feed would use frequencies.txt headways of 20-60 s at peak. calendar: daily service. Confidence 0.55: station set + order + corridor geometry + operating span are well-evidenced; per-route stop patterns, exact per-route timetables, individual per-stop platform coordinates, and true (very short) headways are approximated. Metro was NOT built here because the request's operator is specifically GBRT; the Guangzhou Metro (19 lines / ~399 stations) is the better-evidenced mode if a rail feed is wanted instead.",
+  "source": "llm-normalized"
+}

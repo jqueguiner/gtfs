@@ -1,0 +1,14 @@
+{
+  "operator": "Xiongchu Avenue BRT (雄楚大道BRT), operated by Wuhan Public Transport Group",
+  "city": "Wuhan",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 15,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 30
+  },
+  "notes": "Wuhan BRT Line 1 (雄楚大道BRT / 武汉公交BRT1路), the city's only BRT, opened 2016-12-28. Runs E-W along Xiongchu Ave + Gaoxin Ave, 13.6 km, 14 median station pairs, west terminus Wuchang Railway Station East Square, east terminus Guanggu (Optics Valley) Ave. Station list corroborated across zh.wikipedia (武汉快速公交), bendibao and multiple route pages; operating hours 06:00-22:00 confirmed (2021 official smart-transit platform). EVIDENCE STRENGTH: station identity/order and service window are well-evidenced; exact per-station clock times and headway are NOT published, so stop_times use an even ~2.5 min inter-stop spacing (35 min end-to-end, realistic for 13.6 km/14 stops) and the two representative trips depart at 06:00. COORDINATES: all WGS-84 from OpenStreetMap (highway=bus_stop / public_transport=platform nodes) via Overpass. Explicit '雄楚大道BRT…'/'高新大道BRT…' platform nodes used where present (石牌岭路, 书城路, 珞雄路, 关山大道, 光谷大道, 元宝山, 省荣军医院, 楚平路, 熊家咀/华城新都, 民族大道口); west-end stations (武昌火车站, 静安路, 丁字桥路, 珞狮路, 卓刀泉南路) anchored to adjacent OSM Xiongchu-Ave corridor stops. No Amap/Gaode/Baidu (GCJ-02) coordinates used. Note: line was later extended east to Wuhan East Railway Station (via bus 690) — not modeled here; feed reflects the classic BRT1 core corridor. Calendar = daily (BRT operates 7 days/week).",
+  "source": "llm-normalized"
+}

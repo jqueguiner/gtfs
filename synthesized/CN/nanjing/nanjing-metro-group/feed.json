@@ -1,0 +1,14 @@
+{
+  "operator": "Nanjing Metro Group (南京地铁集团有限公司)",
+  "city": "Nanjing",
+  "cc": "CN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 168,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 384
+  },
+  "notes": "Scope: 7 core urban metro lines (1, 2, 3, 4, 5, 7, 10) — highest-ridership, best-evidenced. Suburban S-lines (S1/S3/S4/S6/S7/S8/S9) omitted for this pass. Ordered station sequences from per-line English Wikipedia articles (List of Nanjing Metro stations confirmed line set). Coordinates from Wikidata SPARQL (P16=Q429366 Nanjing Metro), all WGS-84, 168/168 unique stops matched (0 missing), all within Nanjing bbox (lat 31.2-32.7, lon 118.2-119.4) — NOT GCJ-02/Baidu. Interchange stations are deduplicated and shared across lines (e.g. Xinjiekou S013 on L1+L2; Nanjing Railway Station S008 on L1+L3; Gulou, Daxinggong, Yunnanlu, Fuzimiao, Sanshanjie, Andemen, Zhongsheng, Yuantong, Olympic Stadium, Fujianlu, Caochangmen, Jimingsi, Jinmalu, Mochouhu, Shanghailu, Nanjing South Rwy, Chengxindadao, Zhushanlu, Kazimen also shared). Timing model: each route has 1 representative trip per direction departing 06:00 from the terminus, ~120s interstation hop + 45s dwell (realistic urban-metro pacing); this is an even-headway/representative-trip feed, NOT the full published multi-departure timetable, hence confidence 0.55. Real service ~06:00-23:00 daily, peak headways 3-5 min on lines 1/2/3, 5-10 min on 4/5/7/10 (headways not encoded as separate trips). A few coords approximated via nearest-name fallback where a distinct Wikidata node was absent (NMU, NJCI, SEU Chengxian College, Xinzhuang, SEU Jiulonghu = Jiulonghu, Nanjing Tech/Nanjing Xi Rwy tied to Nanjing Rwy node). route_type=1 (metro). Sources: en.wikipedia per-line articles, Wikidata Q429366, OSM network 11789439, njmetro.com.cn.",
+  "source": "llm-normalized"
+}

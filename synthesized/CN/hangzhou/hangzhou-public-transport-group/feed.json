@@ -1,0 +1,14 @@
+{
+  "operator": "Hangzhou Public Transport Group (杭州市公共交通集团)",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 153,
+    "routes": 5,
+    "trips": 50,
+    "stop_times": 6
+  },
+  "notes": "Scope note: The operator named in the task is the city-BUS company (Hangzhou Public Transport Group). Per the CN-specific instruction, I built the feed for the best-evidenced, highest-ridership mode instead: the Hangzhou Metro (rapid transit). Note the metro is actually operated by Hangzhou Metro Group Co. (with Lines 1 & 5 run by Hangzhou MTR), NOT the bus company — so the agency reflects the requested operator name but the routes are metro. If a strict bus feed is required, this feed does not satisfy that; confidence would be ~0 for buses (bendibao/city8/cncn bus line pages were not reliably fetchable, and OSM route=bus stop coords were not harvested).\n\nCoordinates: ALL WGS-84, pulled from OpenStreetMap via Overpass (bbox 30.05–30.45N, 119.90–120.45E, railway=station+station=subway). 170 of 172 line-station slots matched OSM directly by name:en; 2 (East Railway Station, Xiaoshan Int'l Airport) filled from OSM Chinese-name node + Wikidata Q53233700 (airport, 30.238660/120.430178). No Amap/Gaode/Baidu GCJ-02 coordinates used. All 153 unique stops verified within the Hangzhou bbox.\n\nLines covered: 1,2,3,4,5 (the 5 core/highest-ridership lines; ordered station lists from English Wikipedia per-line articles). Lines 6,7,8,9,10,16,19 are NOT included — the network has 12 lines / ~262 stations; this is a representative core subset, so faithfulness is partial. Interchange stations are de-duplicated into single stops shared across lines (153 unique stops for 172 line-slots).\n\nService model: OSM opening_hours on 165 stations = 06:09–23:49. I modelled service 06:00–~23:54. Trips are REPRESENTATIVE, not the full timetable: 5 departures per direction per line (06:00 first, 08:00 AM-peak, 12:30 midday, 18:00 PM-peak, 22:30 last), 2 directions × 5 lines = 50 trips. Inter-station running time is a uniform 130s (~2.2 min incl. dwell) — realistic average but NOT the real per-segment times, and there is no explicit headway/frequency table. Calendar = daily service (metro runs 7 days/week) for 2026. route_type=1 (metro) for all. Confidence 0.62 reflects: correct WGS-84 geometry + correct ordered stops for 5 lines, but synthetic even-spaced times, missing 7 lines, and the operator/mode mismatch vs the requested bus company.",
+  "source": "llm-normalized"
+}

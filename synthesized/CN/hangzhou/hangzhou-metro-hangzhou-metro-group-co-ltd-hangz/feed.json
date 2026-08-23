@@ -1,0 +1,14 @@
+{
+  "operator": "Hangzhou Metro (Hangzhou Metro Group Co., Ltd. / Hangzhou MTR)",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 66,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 264
+  },
+  "notes": "Per China guidance, built the metro (highest-ridership, best-evidenced mode) rather than the BRT/bus network named in the prompt, because BRT stop geometry is poorly evidenced in WGS-84 and Amap/Baidu coords are GCJ-02 (wrong). Covers the two flagship, oldest lines: Line 1 (Xianghu - Xiaoshan Int'l Airport, 33 stations) and Line 2 (Chaoyang - Liangzhu, 33 stations). Ordered station lists from travelchinaguide + Wikipedia. All coordinates are WGS-84 from OpenStreetMap (Overpass, railway=station+station=subway) except two Line-1 stations from Wikipedia (Jinsha Lake/Jinshahu and Xiaoshan Int'l Airport 30.23866,120.430178) - no GCJ-02/Amap/Baidu data used. Service hours from multiple guides: first train ~06:00, last ~22:30-23:00; peak headway 2-6 min, off-peak 5-10 min. Each route has one representative trip per direction at 06:00 and 08:00 with even ~2.5 min inter-station spacing (realistic run time ~80 min end-to-end for Line 1's 52 km). Confidence 0.6: station order + coordinates are accurate and real; individual stop_time clock values are synthesized from published frequency (no per-station published timetable was scraped), and the other 10 operating lines (3,4,5,6,7,8,9,10,16,19) plus the BRT bus routes are NOT included. Calendar is daily (metro runs 7 days/week). Interchange stations shared between lines are modeled as separate per-line stop nodes.",
+  "source": "llm-normalized"
+}

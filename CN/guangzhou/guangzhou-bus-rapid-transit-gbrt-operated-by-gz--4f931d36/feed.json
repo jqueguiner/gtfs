@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Guangzhou Bus Rapid Transit (GBRT, operated by GZ Bus Group 3rd branch)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Guangzhou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/guangzhou/guangzhou-bus-rapid-transit-gbrt-operated-by-gz-/gtfs/",
+    "mdb_id": "cn-llm-guangzhou-bus-rapid-transit-gbrt-operate",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

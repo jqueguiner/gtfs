@@ -1,0 +1,14 @@
+{
+  "operator": "Shanghai Metro (Shanghai Shentong Metro Group Co., Ltd.)",
+  "city": "Shanghai",
+  "cc": "CN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 420,
+    "routes": 19,
+    "trips": 46,
+    "stop_times": 148
+  },
+  "notes": "Metro-only feed (19 lines: 1-18 + Pujiang). Per China guidance the metro is the best-evidenced mode; all coordinates are WGS-84 pulled from Wikidata (network Q462201, props P625 coord / P81 line / P197 adjacency), NOT GCJ-02/Amap/Baidu which are offset ~50-500m and wrong for GTFS. 420 unique stops (interchanges deduplicated, matching the ~414-station published map). Station order derived from Wikidata P197 adjacency, with geographic nearest-neighbour repair for newest-extension nodes whose adjacency was unlinked; Y-branch lines (5,10,11,14) are modelled as separate trunk+branch trips. Service ~05:30-23:00 daily. Headways used for realistic spacing (peak/off-peak min): L9 2/5, L1/2/5/7/8/10 3/6, L16/17 6/10, others 4-8. This representative feed carries one trip per direction per branch (46 trips) at the 05:30 first departure with ~2.5min inter-station running (195s arrival step, 45s dwell); full-day even-headway expansion is mechanical from the same generator (the un-sampled build produces ~1500 trips). The requested suburban BUS operators (Jinshan/Minhang/Songjiang/Fengxian/Qingpu/Chongming/Baoshan district bus companies) are deliberately NOT rendered as bus routes: gongjiao.com and m.sh.bendibao.com per-route stop lists carry GCJ-02 coordinates that would be wrong for GTFS, so per instructions they were not used and no bus stops were invented. Those suburbs are instead served by the metro lines in this feed (Minhang: L5; Songjiang: L9; Fengxian: L5; Qingpu: L17; Baoshan: L1/L3/L7/L15). Jinshan (served only by the Jinshan suburban railway) and Chongming (no metro) have no WGS-84-evidenced rapid-transit stops in the source and are omitted rather than fabricated. Confidence 0.72 reflects: coordinates and station lists are authoritative and route ordering validated (max inter-station hop matches real express gaps), but exact per-trip timetables/headways are approximated from published operating-hour and frequency figures rather than a scraped minute-by-minute schedule, and only a representative trip set is emitted.",
+  "source": "llm-normalized"
+}

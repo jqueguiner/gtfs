@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hangzhou Public Transport Group (杭州市公共交通集团)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Hangzhou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/hangzhou/hangzhou-public-transport-group/gtfs/",
+    "mdb_id": "cn-llm-hangzhou-public-transport-group",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

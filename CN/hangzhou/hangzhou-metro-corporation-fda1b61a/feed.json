@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hangzhou Metro Corporation (杭州地铁)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Hangzhou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/hangzhou/hangzhou-metro-corporation/gtfs/",
+    "mdb_id": "cn-llm-hangzhou-metro-corporation",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

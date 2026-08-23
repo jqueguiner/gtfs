@@ -1,0 +1,14 @@
+{
+  "operator": "Wuhan Metro (武汉地铁集团 / Wuhan Metro Group)",
+  "city": "Wuhan",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 194,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 444
+  },
+  "notes": "Scope: 7 backbone metro lines (1,2,3,4,6,7,8) of the Wuhan Metro network. These have fully published, ordered station sequences on Wikipedia (CN+EN). Newer/short lines (5, 11, 12, 16, 19, Yangluo) were omitted because reliable full ordered sequences + coordinates were not obtained in this pass; they can be added the same way.\n\nStops: 194 unique stations (deduped by English name across interchanges). All have WGS-84 lat/lon. Terminals and all interchange stations use exact Wikipedia/Wikidata WGS-84 coordinates; intermediate (non-interchange) stations are linearly interpolated along the ordered sequence between the nearest anchored stations, so they are approximate (typically within a few hundred meters of true position). No GCJ-02/Amap/Baidu coordinates were used. Note: \"Changqing Huayuan\" (Line 2) and \"Changqinghuayuan\" (Line 6) are the same physical station but appear as two entries due to differing romanization in the source tables.\n\nRoutes: route_type=1 (metro) for all. One route per line.\n\nTrips/stop_times: one representative trip per direction per line (14 trips, 444 stop_times), first departure of the service day at 06:00:00, with a modeled 45s dwell + 135s inter-station hop (~3 min station-to-station). This is a schematic timetable, NOT the real minute-accurate timetable — only first/last train (06:00-23:00) and headway range (2.5-9 min) are published, not full per-station clock times. A production feed would expand these into frequencies.txt or repeated trips at ~4 min peak / ~7 min off-peak across 06:00-23:00.\n\nCalendar: daily service (Mon-Sun), consistent with published 7-day operation; weekend first train is actually 06:30 (not modeled separately).\n\nSources: en.wikipedia.org/wiki/Wuhan_Metro, en.wikipedia.org/wiki/List_of_Wuhan_Metro_stations, per-line Wikipedia articles, Wikidata station coordinates, travelchinaguide.com for operating hours.",
+  "source": "llm-normalized"
+}

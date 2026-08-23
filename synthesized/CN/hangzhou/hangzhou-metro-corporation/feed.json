@@ -1,0 +1,14 @@
+{
+  "operator": "Hangzhou Metro Corporation (杭州地铁)",
+  "city": "Hangzhou",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 187,
+    "routes": 10,
+    "trips": 20,
+    "stop_times": 22
+  },
+  "notes": "Built from OSM route=subway relations (network 杭州地铁 / Hangzhou Metro, mail.ru Overpass mirror; overpass-api.de and kumi were unreachable/erroring from this environment) for the 10 requested lines (2,3,4,6,7,8,9,10,16,19), cross-checked against Wikipedia. Ordered stations + WGS-84 coords are taken directly from OSM node members (no GCJ-02/Gaode/Baidu used). 187 unique stops (interchanges deduplicated by name, e.g. Wulinmen shared L2/L3), 10 routes (route_type=1 metro), 20 trips (one representative trip per direction), 422 stop_times, DAILY calendar.\n\nCAVEATS affecting confidence:\n- Schedule TIMES are synthetic: OSM/Wikipedia give no per-station timetable, so I used first departure 06:00 with an even 2-min inter-station spacing per direction (realistic for these lines but not the operator's published times; real service ~06:00-23:00 with 3-8 min headways). Only ONE trip per direction is emitted, not a full frequency-based day.\n- Two OSM relations are OUTDATED vs Wikipedia current extent: Line 3 relation (Xingqiao→Shima) has 28 stations vs Wikipedia's ~37 (branch/extension not in this relation), and Line 6 relation (Shuangpu→Goujulong) has 25 vs Wikipedia's ~34. Other lines match Wikipedia station counts (L2=33, L4=32, L8=9, L10=12, L16=12, L19=17). Line 7 = 24, Line 9 = 19.\n- ~57 stations lacked name:en in OSM and were transliterated to pinyin (e.g. SanBa=三坝, ChuYunLu=储运路); these are approximate romanizations. Terminals and major interchanges use curated Wikipedia English names.\n- Operator field: OSM tags several sub-operators (集团, 杭港, etc.); modeled as single agency \"Hangzhou Metro\". Lines 1 and 5 (MTR-operated) were excluded per the requested line list.\nCoordinates verified within Hangzhou WGS-84 bounds (lat 30.118-30.458, lon 119.692-120.536).",
+  "source": "llm-normalized"
+}

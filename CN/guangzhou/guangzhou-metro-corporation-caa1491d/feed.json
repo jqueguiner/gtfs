@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Guangzhou Metro Corporation (广州地铁集团)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Guangzhou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/guangzhou/guangzhou-metro-corporation/gtfs/",
+    "mdb_id": "cn-llm-guangzhou-metro-corporation",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

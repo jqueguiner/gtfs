@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nanjing Metro Group (南京地铁集团有限公司)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Nanjing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/nanjing/nanjing-metro-group/gtfs/",
+    "mdb_id": "cn-llm-nanjing-metro-group",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Guangzhou Metro Corporation (广州地铁集团)",
+  "city": "Guangzhou",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 125,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 280
+  },
+  "notes": "Scope: 6 highest-ridership lines of the Guangzhou Metro (Lines 1, 2, 3 incl. airport branch, 5, 6) plus the Zhujiang New Town APM. The full network has 16+ heavy-rail lines + Guangfo + APM (~300 stations); this feed covers the best-evidenced core (125 stations). Sources: Wikipedia line articles gave ordered station lists per line (Line 1/2/3/5/6, APM); the iPT Guangzhou system-map page (ipt.kopisee.com) was behind a CAPTCHA and could not be read, and gzmtr.com was not machine-readable, so station orders were taken from Wikipedia line articles and cross-checked against the Wikipedia system overview. Coordinates: WGS-84 from the Wikipedia MediaWiki coordinates API (prop=coordinates) per station article — 122/125 stations. Three Line 2/3 stations (Xiaogang, Tonghe, Renhe) have no coordinate on Wikipedia/Wikidata and were interpolated as the midpoint of their two geocoded on-line neighbors (accurate to ~one station spacing); flagged rather than left null to keep line geometry intact. NO Amap/Gaode or Baidu (GCJ-02) coordinates were used. Bounds-checked: all 125 coords fall within Guangzhou (22.9–23.4N, 113.2–113.5E). Schedule: published service span 06:00–24:00 daily; GZMtr publishes frequency (peak ~2–4 min, off-peak ~5–8 min) rather than full timetables, so each route has ONE representative trip per direction departing the origin terminus at 06:00 with an even inter-station running time (~2.5 min heavy rail, ~2 min APM) — realistic travel times but a single sample trip, not the full daily service. To model true frequency, replicate each trip at the line headway across 06:00–24:00 (frequencies.txt would be the cleaner GTFS representation). route_type=1 (metro) for all incl. APM. Line 3 modeled as the single Airport North–Haibang service (its Tianhe Coach Terminal spur is a separate branch, omitted). Confidence 0.62 reflects: station lists/orders and coordinates are solid and well-evidenced; the timetable is frequency-derived sample trips (not true published clock times) and only ~1/3 of the network's lines are included.",
+  "source": "llm-normalized"
+}

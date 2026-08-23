@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Wuhan Metro (武汉地铁集团 / Wuhan Metro Group)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Wuhan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/wuhan/wuhan-metro-wuhan-metro-group/gtfs/",
+    "mdb_id": "cn-llm-wuhan-metro-wuhan-metro-group",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

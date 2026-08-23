@@ -1,0 +1,14 @@
+{
+  "operator": "Zhengzhou Metro Group Co., Ltd. (郑州地铁集团)",
+  "city": "Zhengzhou",
+  "cc": "CN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 84,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 170
+  },
+  "notes": "Scope decision: the named operator is Zhengzhou's city bus + BRT company, but per the CN-specific guidance (bus stop coordinates are only available as GCJ-02/Baidu offsets, which are wrong for GTFS), I built the feed for the highest-ridership, best-evidenced mode — the Zhengzhou Metro — using authoritative WGS-84 coordinates from Wikidata SPARQL (P625) and station sequences from English Wikipedia. Bus/BRT routes from the requested sources (cncn.com, hc12306, Wikipedia route list) lack any WGS-84 stop coordinates and were therefore not included rather than fabricated.\n\nCoverage: 3 metro lines fully modeled with real station geometry — Line 1 (30 stations, WGS-84), Line 2 (22 stations, WGS-84), Line 5 loop (32 stations, WGS-84). 84 stops total (shared interchanges like Zijingshan/Huanghelu/Nanwulibao are duplicated per line as separate stop_ids for simplicity; a production merge would consolidate them via parent_station). All 13 operational lines exist but only these 3 were built as representative, verified trips.\n\nTrips: one trip per direction per line (Line 5 gets outer + inner loop, closing back to the origin station at seq 33). Station coordinates are real (Wikidata); stop_times are SYNTHESIZED from an even ~2m45s inter-station cadence starting 06:00 (documented service window ~06:00–22:00/23:00), NOT scraped per-minute timetables — Zhengzhou does not publish per-station clock times, only first/last train + headway. Line 1 end-to-end ≈80 min matches the documented ~75-76 min. Real headways are ~4-8 min peak / ~8-10 min off-peak; only a single representative trip is emitted per direction, so frequency is not fully modeled.\n\nData sources used: Wikidata SPARQL (Q15303225 L1, Q15908164 L2, Q15928521 L5 — P81 line membership + P625 coordinates, all WGS-84); en.wikipedia.org line articles for ordered station sequences and operating hours; travelchinaguide.com for fares/hours cross-check. Fare CNY2–7 distance-based (not encoded — no fares.txt in schema).\n\nConfidence 0.55: station identities, order and coordinates are accurate and correctly WGS-84; the weakness is that stop_times are synthetic even-headway estimates rather than a real published timetable, only 3 of 13 lines are covered, and interchange stations aren't consolidated. It faithfully represents network topology and geography but not exact scheduled times.",
+  "source": "llm-normalized"
+}

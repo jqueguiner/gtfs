@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Guangzhou Public Transport Group bus companies (一汽/二汽/三汽/电车巴士 - Yiqi, 2nd, 3rd, Trolleybus)",
+    "country": "CN",
+    "subdivision": null,
+    "city": "Guangzhou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/guangzhou/guangzhou-public-transport-group-bus-companies-y/gtfs/",
+    "mdb_id": "cn-llm-guangzhou-public-transport-group-bus-com",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

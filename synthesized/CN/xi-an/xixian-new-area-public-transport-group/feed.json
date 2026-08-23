@@ -1,0 +1,14 @@
+{
+  "operator": "Xixian New Area Public Transport Group (西咸公交集团)",
+  "city": "Xi'an",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 9,
+    "routes": 1,
+    "trips": 10,
+    "stop_times": 90
+  },
+  "notes": "Focused on the metro per China guidance (WGS-84 coords from Wikidata/Wikipedia; Amap/Baidu GCJ-02 avoided). The Xixian New Area's flagship rail mode is Xi'an Metro Line 16 (西安地铁16号线), the first driverless (GoA4) intercity metro linking Chang'an District (Xi'an) and Qindu District (Xianyang) through the Fengdong/Fengxi new-city corridor — opened 27 Jun 2023, 9 stations, 15.03 km, ~20 min end-to-end. NOTE on operator: the Xixian New Area local BUS network is run by Xixian New Area Public Transport Group, but Line 16 itself is operated by Xi'an Rail Transit Group; agency_name kept as the requested operator since Line 16 is the defining Xixian intercity transit line and the only mode with solid WGS-84 evidence. The official bus route-query site (xixiangongjiao.com/gjxlcx.html) refused all connections (ECONNREFUSED) and every Overpass mirror was unreachable/timed out from this environment, so the per-route bus stop lists could not be scraped and no bus routes are included — I did not invent them. Station coordinates: 8/9 from Wikidata P625 (WGS-84, verified to lie on a smooth N–S line 34.229–34.339 N, 108.743–108.782 E, consistent with the real corridor). Happy Valley (欢乐谷, wd Q55431593, a Line 5 interchange) has no P625 in Wikidata/zhwiki and Overpass was down, so its lat/lon are left null rather than fabricated (it sits between Fengdong City Square 34.261 and Shijingli 34.229). Service model: real span 06:00–22:00 (source: travelchinaguide, north terminus southbound; south terminus ~06:15 first / 22:15 last), real min headway ~7 min (=> ~138 trips/direction/day). stop_times give 5 representative trips per direction spanning the span; inter-stop times are interpolated to sum to the documented ~20 min end-to-end (not from a published per-station timetable), which is the main fidelity gap. Calendar = daily (metro runs 7 days/week). Confidence 0.62: station list + termini + span + headway are well-evidenced; per-stop dwell/run times and the reduced trip set are modeled.",
+  "source": "llm-normalized"
+}
