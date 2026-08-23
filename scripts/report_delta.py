@@ -112,6 +112,53 @@ def main():
 
     top = sorted(((c, n) for c, n in cur["per_country"].items() if c != "XX"), key=lambda x: -x[1])[:15]
     B.append("<p style='font-size:13px;color:#5f6368'>Top: " + " · ".join(f"{c} {n}" for c, n in top) + "</p>")
+
+    # ---- Global coverage vs Google Maps ----
+    pc = cur["per_country"]
+    GMAPS = {"countries": 115, "metros": 500, "operators": 10000, "cities": 10000}
+    rows = [
+        ("Countries", cur["countries"], GMAPS["countries"]),
+        ("Operators/feeds", cur["feeds"], GMAPS["operators"]),
+        ("Cities", cur["cities"], GMAPS["cities"]),
+    ]
+    B.append("<h3 style='color:#1a73e8;margin-bottom:4px'>Global coverage vs Google Maps (est.)</h3>")
+    B.append("<table style='border-collapse:collapse;font-size:13px'><tr style='background:#f1f3f4'>"
+             "<td style='padding:5px'><b>Dimension</b></td><td style='padding:5px'><b>Ours</b></td>"
+             "<td style='padding:5px'><b>Google≈</b></td><td style='padding:5px'><b>%</b></td></tr>")
+    for name, ours, g in rows:
+        pctv = round(100 * ours / g)
+        col = "#137333" if pctv >= 70 else ("#e37400" if pctv >= 40 else "#c5221f")
+        B.append(f"<tr><td style='padding:5px'>{name}</td><td style='padding:5px'>{ours}</td>"
+                 f"<td style='padding:5px'>~{g}</td><td style='padding:5px;color:{col}'><b>{pctv}%</b></td></tr>")
+    B.append("<tr><td style='padding:5px'>Real-time (GTFS-RT)</td><td style='padding:5px'>~static</td>"
+             "<td style='padding:5px'>near-universal</td><td style='padding:5px;color:#c5221f'><b>~15%</b></td></tr></table>")
+    B.append("<p style='font-size:12px;color:#5f6368'>Blended static ≈ <b>~65%</b>; weighted by major-metro ridership ≈ <b>~80%</b>. "
+             "Google's edge = private partner feeds + real-time (not openly published).</p>")
+
+    # ---- Where the gaps are ----
+    # rough 'healthy floor' of feeds for big-transit countries; deficit = gap
+    FLOOR = {"CN": 45, "IN": 200, "BR": 120, "ID": 40, "RU": 40, "MX": 60, "NG": 20, "PK": 20,
+             "BD": 15, "EG": 15, "IR": 15, "TR": 40, "VN": 20, "PH": 25, "TH": 35, "ET": 8,
+             "CD": 5, "TZ": 8, "KE": 8, "DZ": 12, "SA": 12, "IQ": 6, "MM": 8, "UZ": 8, "GH": 6,
+             "AO": 4, "SD": 4, "UA": 30, "PL": 120, "IT": 200, "ES": 200, "GB": 250, "DE": 600}
+    gaps = []
+    for cc, floor in FLOOR.items():
+        have = pc.get(cc, 0)
+        if have < floor:
+            gaps.append((cc, have, floor, floor - have))
+    gaps.sort(key=lambda x: -x[3])
+    B.append("<h3 style='color:#1a73e8;margin-bottom:4px'>Where the gaps are</h3>")
+    if gaps:
+        B.append("<table style='border-collapse:collapse;font-size:13px'><tr style='background:#f1f3f4'>"
+                 "<td style='padding:5px'><b>Country</b></td><td style='padding:5px'><b>Have</b></td>"
+                 "<td style='padding:5px'><b>Target</b></td><td style='padding:5px'><b>Gap</b></td></tr>")
+        for cc, have, floor, deficit in gaps[:15]:
+            B.append(f"<tr><td style='padding:5px'>{cc}</td><td style='padding:5px'>{have}</td>"
+                     f"<td style='padding:5px'>~{floor}</td><td style='padding:5px;color:#c5221f'>-{deficit}</td></tr>")
+        B.append("</table>")
+    B.append("<p style='font-size:12px;color:#5f6368'>Structural gaps: <b>China</b> (GTFS closed → metros via Wikipedia/OSM), "
+             "<b>real-time</b> (GTFS-RT endpoints not yet ingested), <b>small-town long tail</b> (JP/US/EU), "
+             f"and <b>{cur['per_country'].get('XX', 0)} unplaced</b> feeds. India/Brazil/big-EU floors reflect bus-level depth still to add.</p>")
     B.append("<p style='font-size:12px'><a href='https://github.com/jqueguiner/gtfs'>github.com/jqueguiner/gtfs</a></p></div>")
     open(OUT, "w").write("\n".join(B))
 
