@@ -1,0 +1,14 @@
+{
+  "operator": "BMTC (Bengaluru Metropolitan Transport Corporation) — city bus",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 113,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 226
+  },
+  "notes": "Metro-first build. The 3 operational Namma Metro lines (Purple, Green, Yellow; route_type=1, operated by BMRCL) are built in full: all stations in real travel order, both directions, WGS-84 coordinates from Wikipedia/Wikidata (correct for GTFS), and realistic clock times based on published operating hours (first train ~06:00, Sun 07:00, last ~23:05) and even ~2-2.5min inter-station running derived from documented end-to-end journey times. These are HIGH fidelity in geometry/ordering; individual trip departure headways are simplified to one representative trip per direction rather than the full peak (8min)/off-peak (10-15min) schedule.\n\nBMTC city bus: The Vonter/bmtc-gtfs dataset (github.com/Vonter/bmtc-gtfs, derived from the Namma BMTC app) and TUMI Datahub confirm a large bus network (thousands of route variants), but its stops.csv is too large to fetch inline and the repo itself warns timetables/stop-timings are unreliable. Rather than invent thousands of unverified stops, I included 2 well-documented, high-ridership representative BMTC routes (335E Majestic-Kadugodi; 500D Central Silk Board-Hebbal ORR) with their major stops in order (from onefivenine/Moovit/mycityroutes), geocoded terminals from Wikipedia/latlong. Bus stop_times are even-headway approximations (~6min hops), NOT published clock schedules, so bus fidelity is lower than metro.\n\nMetro coords: ~65% are exact Wikipedia/Wikidata WGS-84; the rest (~15 stations) are accurate known-location coordinates for those well-established Bengaluru localities (sub-few-hundred-metre accuracy). No stops were invented without evidence. Timezone Asia/Kolkata. Agency name spans BMTC (bus) + BMRCL (metro) since the feed is metro-first per instructions.\n\nTo scale bus coverage to the full network, download Vonter/bmtc-gtfs gtfs/bmtc.zip directly (not via WebFetch) and merge its stops.txt/routes.txt/trips.txt/stop_times.txt.",
+  "source": "llm-normalized"
+}

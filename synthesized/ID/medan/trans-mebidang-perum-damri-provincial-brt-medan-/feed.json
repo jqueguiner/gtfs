@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Mebidang (Perum DAMRI, provincial BRT Medan-Binjai-Deli Serdang)",
+  "city": "Medan",
+  "cc": "ID",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 20,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 41
+  },
+  "notes": "Provincial BRT for the Medan-Binjai-Deli Serdang (Mebidang) metropolitan area, operated by Perum DAMRI. Electric-bus BRT launched for free trial on 2026-08-20 at Terminal Lubuk Pakam; full paid operation targeted 2026-12-08 (fare Rp4,300 general / Rp3,000 student-disabled-elderly). Two corridors: Koridor 11 Teladan<->Terminal Lubuk Pakam (14 buses, press cites 68 stopping points) and Koridor 12 Simpang Barat / Medan Pusat Pasar<->Binjai (13 buses, 53 stopping points); 3 reserve. The 2026 corridors retrace the documented 2015 Trans Mebidang street itineraries (Wikipedia id + provincial-gov press): Binjai corridor via Terminal Binjai - Jl Soekarno-Hatta - Gatot Subroto - Iskandar Muda - Gajah Mada - S Parman - Raden Saleh - Balai Kota - Stasiun - MT Haryono - Sutomo - Pusat Pasar; Lubuk Pakam corridor via Pusat Pasar - Jl Asia/Sutomo - Perintis Kemerdekaan - Sisingamangaraja/SM Raja - Jl Medan - Tanjung Morawa - Terminal Lubuk Pakam. IMPORTANT LIMITATIONS: (1) The full named list of 68+53 individual haltes is NOT published anywhere public (only in the Transumut app); this feed models ONE representative stop per evidenced named street/major point along each corridor, NOT every physical halte. No stops were invented beyond named streets/terminals in the sources. (2) Operating hours and exact headway are NOT published; stop_times use an assumed 05:00-21:00 daily span with ~20 min even headway and the Wikipedia-documented ~90 min (Binjai) / ~100 min (Lubuk Pakam) end-to-end run times. (3) Coordinates are WGS-84 placed on the named central Medan/Binjai streets (OSM/known central-corridor locations); terminal coordinates from town/terminal references. Confidence 0.42 reflects solid route/corridor/street evidence but unpublished per-halte lists, hours and headways.",
+  "source": "llm-normalized"
+}

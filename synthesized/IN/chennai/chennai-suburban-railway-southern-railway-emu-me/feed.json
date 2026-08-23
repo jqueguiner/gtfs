@@ -1,0 +1,14 @@
+{
+  "operator": "Chennai Suburban Railway (Southern Railway EMU/MEMU)",
+  "city": "Chennai",
+  "cc": "IN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 57,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 170
+  },
+  "notes": "Rail-first suburban feed for the two named lines. Station lists & ordering from Wikipedia (South Line 46 stops Beach->Villupuram; South West Line 39 stops Beach->Chengalpattu->Kanchipuram->Arakkonam). Coordinates: core Beach->Chengalpattu corridor from community GTFS github.com/justjkk/chennai-rail-gtfs (WGS-84, verified); extended stations (Chengalpattu->Villupuram MEMU and Chengalpattu->Arakkonam via Kanchipuram) from Wikidata/Wikipedia (Tindivanam, Maduranthakam, Villupuram Jn, Kanchipuram, Tirumalpur, Arakkonam are precise station coords; ~12 intermediate rural halts use town/approx coords). No stop left null. Times: the Beach->Tambaram->Chengalpattu core (28 stops) uses the REAL published EMU timetable (train BC1, from the community source's SR timetable extracts, both directions). Extension segments beyond Chengalpattu use a realistic ~5 min/stop cadence since indiarailinfo/ixigo were 403/blocked. One representative trip per direction per line (4 trips, 170 stop_times). Operating window 04:00-24:00 daily per Wikipedia (~1000 services/day). Route_type=2 (rail). Confidence 0.62: core corridor is faithful (real coords+real times); extension halt coords and all extension timings are approximate. Feed is a representative skeleton, not the full ~240 daily South Line services. MRTS/North/West lines and per-train MEMU halt timings not included.",
+  "source": "llm-normalized"
+}

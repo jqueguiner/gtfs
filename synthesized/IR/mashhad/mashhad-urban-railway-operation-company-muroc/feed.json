@@ -1,0 +1,14 @@
+{
+  "operator": "Mashhad Urban Railway Operation Company (MUROC)",
+  "city": "Mashhad",
+  "cc": "IR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 39,
+    "routes": 3,
+    "trips": 10,
+    "stop_times": 156
+  },
+  "notes": "Metro-first GTFS for Mashhad Urban Railway (قطار شهری مشهد). Source of truth for line structure and ordered station lists: EN Wikipedia (Mashhad_Urban_Railway) cross-checked against FA Wikipedia, yometro, and Wikidata/OSM. Coverage: Line 1 (24 stations, Vakil Abad ↔ Hasheminejad Airport, operational since 2011), Line 2 (13 stations, Tabarsi ↔ Shahid Fakouri, operational since 2018, southern extension to Shahid Fakouri opened 2025-05-03), and Line 3 Phase 1 (4 operational stations near Imam Reza shrine, opened 2025-05-08). Total distinct active stations = 38 (Shariati is a Line1/Line2 interchange; Shohada/Basij shared with Line 3 — near the ~40 active-station figure). Line 4 is under construction and excluded (no evidenced stops). \n\nCOORDINATES: WGS-84 from Wikidata/Wikipedia infoboxes and OSM (relation 453141 for Line 1). Stations with published coordinates are exact; a minority of intermediate stations without a published infobox coordinate (Seyed Razi, Azadi, Palestine, Hefdah-e-Shahrivar, Parvin-e-Etessami, Bustan-e Reyhaneh on L1; Nabovvat, Raah Ahan, Kuhesangi, Shahid Fakouri on L2; Imam Reza Terminal, Bab Ol-Javad, L3-Basij on L3) are interpolated along the known corridor between adjacent geocoded stations and are approximate (within a few hundred metres) — none left null.\n\nSCHEDULE: Published operating hours 06:00–22:00 (Fri 07:00–22:00). Headways from sources: L1 5 min peak / 7 min off-peak (6 min avg used), L2 ~11 min, L3 ~12–20 min. Representative timetable: stop_times built with even ~1.7 min inter-station spacing (realistic dwell+run) from the first service departure; one trip per direction per line. calendar has weekday, friday, and holiday services (holiday = 12-min L1 headway per source). confidence 0.62: line topology / station order / coordinates are well-evidenced and faithful; exact per-trip clock times are synthesised from published headways (no official minute-level timetable is publicly posted), and a few intermediate coordinates are interpolated.",
+  "source": "llm-normalized"
+}

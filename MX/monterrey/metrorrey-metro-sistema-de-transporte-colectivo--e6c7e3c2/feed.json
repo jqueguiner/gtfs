@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metrorrey (Metro - Sistema de Transporte Colectivo Metrorrey)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Monterrey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MX/monterrey/metrorrey-metro-sistema-de-transporte-colectivo-/gtfs/",
+    "mdb_id": "mx-llm-metrorrey-metro-sistema-de-transporte-co",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

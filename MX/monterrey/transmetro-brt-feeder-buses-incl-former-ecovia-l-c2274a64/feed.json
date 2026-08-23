@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transmetro (BRT + feeder buses, incl. former Ecovia = Lincoln-Ruiz Cortines line)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Monterrey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MX/monterrey/transmetro-brt-feeder-buses-incl-former-ecovia-l/gtfs/",
+    "mdb_id": "mx-llm-transmetro-brt-feeder-buses-incl-former-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

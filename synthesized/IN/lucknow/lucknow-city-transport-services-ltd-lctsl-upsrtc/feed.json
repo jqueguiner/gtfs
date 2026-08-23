@@ -1,0 +1,14 @@
+{
+  "operator": "Lucknow City Transport Services Ltd (LCTSL / UPSRTC city bus) — feed also covers Lucknow Metro (UPMRC) Red Line",
+  "city": "Lucknow",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 29,
+    "routes": 3,
+    "trips": 38,
+    "stop_times": 128
+  },
+  "notes": "METRO-FIRST per guidance. The Lucknow Metro Red Line (route_type=1, UPMRC) is the highest-ridership, best-documented mode and is built with HIGH fidelity: all 21 stations in correct order with WGS-84 coordinates from individual Wikipedia/Wikidata station articles (CCS Airport -> Munshi Pulia, 22.87 km). Real operating hours 06:00-22:30 daily; documented headway ~5.5 min peak / 7-10 min off-peak and ~40 min end-to-end. For payload compactness I emitted a REPRESENTATIVE hourly-headway sample of trips (17 per direction, 06:00-22:00 departures) rather than the full ~5.5-min service; inter-station timing is a uniform 2 min/hop consistent with the 40-min published end-to-end. Both directions included. The Blue Line (East-West) is under construction (opening ~2029) and was correctly EXCLUDED.\n\nLCTSL city buses (route_type=3): the requested sources (lctsl.co.in, citybustimetable, whatlucknow, routemaps) publish a ROUTE LIST with numbers + endpoints (e.g. 105 Rajajipuram-Chinhat, 502 Charbagh-Kamta, 202, 301, 402, 502, 801-E, 105, 106, PMI01/02, 1201E) but do NOT reliably publish ordered per-stop sequences or clock times. lctsl.co.in/en/page/routes and routemaps returned no/blocked per-route stop data; citybustimetable and whatlucknow gave route pairs and hubs only. I therefore built only the 2 best-evidenced routes (105, 502) as terminal-to-terminal trips with geocoded terminals plus intermediate hubs that appear in the corroborated stop lists (Rajajipuram, Mawaiya, Charbagh, GPO Hazratganj, 1090 Chauraha, Polytechnic, Chinhat, Kamta). Bus stop coordinates are locality/terminal centroids from latlong.net/Wikipedia (WGS-84), so they are approximate (~100-300 m) and the intra-route stop ORDER and 10-min hop timing are inferred, not from a published timetable. Kamta lacks a precise published fix (~26.88,81.05 near Chinhat). Bus service modeled as one representative trip per direction departing 07:00; real LCTSL runs ~06:00-22:00 frequency-based. Did not invent unevidenced stops. Confidence blends HIGH metro fidelity with LOW bus-schedule fidelity.\n\nagency_url uses UPMRC for the metro backbone; LCTSL portal is lctsl.co.in. Timezone Asia/Kolkata.",
+  "source": "llm-normalized"
+}

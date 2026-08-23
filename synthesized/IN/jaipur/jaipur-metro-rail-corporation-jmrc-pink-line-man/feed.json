@@ -1,0 +1,14 @@
+{
+  "operator": "Jaipur Metro Rail Corporation (JMRC) - Pink Line (Mansarovar-Badi Chaupar)",
+  "city": "Jaipur",
+  "cc": "IN",
+  "confidence": 0.75,
+  "counts": {
+    "stops": 11,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 22
+  },
+  "notes": "Jaipur Metro Pink Line (Line 1), the only operational line. 11 operational stations Mansarovar<->Badi Chaupar, ~12 km corridor (Wikipedia: 11.97 km). Station list and ordering confirmed across all sources; coordinates from Wikipedia route-table infobox (WGS-84 decimal degrees), consistent monotonic west-to-east progression. Operating hours from jaipurmetro.com: weekdays 06:00-22:00, weekends 07:00-22:00 (modeled as daily 06:00 first / ~22:00 last). Peak headway 5-7 min, off-peak 10-12 min. End-to-end run ~37 min (Mansarovar 06:00 -> Badi Chaupar ~06:37 per source). Representative trips: one eastbound (Mansarovar->Badi Chaupar) and one westbound (Badi Chaupar->Mansarovar) with realistic cumulative stop_times; a full timetable would repeat these at the stated headways across service hours. Sindhi Camp is a future interchange with the planned Orange Line. Confidence 0.75: stops/order/coordinates well-evidenced; exact per-station clock times and headway modeling are approximate.",
+  "source": "llm-normalized"
+}

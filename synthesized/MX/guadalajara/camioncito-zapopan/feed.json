@@ -1,0 +1,14 @@
+{
+  "operator": "Camioncito Zapopan",
+  "city": "Guadalajara",
+  "cc": "MX",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 26
+  },
+  "notes": "Mi Camioncito Zapopan is a FREE municipal shuttle service (Gobierno de Zapopan) launched 2025-11-10, feeding SITEUR Line 3 (Tren Ligero) at Arcos de Zapopan. Service days/hours: Mon-Fri, official 06:00-22:00 (Moovit lists 07:00-22:00). Built one aggregated bus route (route_type=3) as Moovit lists the operator's single \"Camioncito Zapopan\" line with 13 stops spanning Arcos de Zapopan (south) <-> Hacienda Copala (north) via the Juan Gil Preciado / Carretera a Colotlan (Tesistan / Valle de los Molinos) corridor.\n\nCOORDINATE PROVENANCE: Two anchors are precise WGS-84: Arcos de Zapopan SITEUR L3 station = 20.74111,-103.40722 (Wikidata Q28133472, at Av. Juan Gil Preciado x Arco del Triunfo); Hacienda Copala fraccionamiento centroid ~= 20.8694,-103.4351. The 11 intermediate stops (Colinas de Cristo Rey, Calle Lopez Mateos 1123, Chorritos, Alamo, Santa Lucia, Avenida de los Lirios 426, Valle de los Molinos, Manitoba 17, Albaterra, Mirador del Bosque, Av. Juan Gil Preciado) are EVIDENCED stop/colonia NAMES from Moovit + Zapopan gov + news sources, but their lat/lon are INTERPOLATED linearly along the corridor between the two anchors (not surveyed) - approximate placement only, ordering is plausible but not confirmed against a Moovit sequence dump.\n\nSCHEDULE: No published departure-by-departure timetable exists; the official page is a driver login. Only the service span (06:00-22:00, weekday) is published. I emitted ONE representative trip per direction at the start of service (dep 06:00 to Hacienda Copala; dep 06:30 to Arcos), ~40 min end-to-end at ~3-4 min stop spacing. A real feed would replicate these on an even headway (~30 min => 33 trips/direction) across the span.\n\nCAVEAT: The operator itself describes its 8 pilot routes as EXPRESS with only 2 stops each (origin colonia + Arcos de Zapopan L3, no intermediate stops). The 13-stop single line here reflects Moovit's aggregation of the corridor (as instructed by the task), NOT a single physical express run. route_short_name kept as operator name; the underlying colonias (Valle de los Molinos, Hacienda Copala, Albaterra, Mirador del Bosque, Alamo, Santa Lucia, Chorritos, Cristo Rey) are the 8 documented pilot destinations.\n\nSources: moovitapp.com line 1032290/310985289; camioncito.zapopan.gob.mx; zapopan.gob.mx; informador.mx; ejecentral.com.mx; Wikidata Q28133472 (Arcos de Zapopan station). Moovit/official pages are JS-rendered (WebFetch returned empty), so stop list assembled from search snippets + gov/news articles, not a direct HTML table scrape.",
+  "source": "llm-normalized"
+}

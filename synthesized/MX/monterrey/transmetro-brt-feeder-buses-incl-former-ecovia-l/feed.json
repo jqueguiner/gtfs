@@ -1,0 +1,14 @@
+{
+  "operator": "Transmetro (BRT + feeder buses, incl. former Ecovia = Lincoln-Ruiz Cortines line)",
+  "city": "Monterrey",
+  "cc": "MX",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 41,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 82
+  },
+  "notes": "Ecovia BRT line (former standalone Ecovia, merged into Transmetro / STC Metrorrey on 2024-08-26; officially \"TransMetro Garcia-Monterrey-Guadalupe\"). Corridor: Av. Abraham Lincoln (west) -> Av. Adolfo Ruiz Cortines (east), 30.1 km, 41 stations Lincoln terminal (poniente) to Valle Soleado terminal (oriente) through Monterrey/San Nicolas/Guadalupe. Station names and ordering cross-confirmed by two independent sources (metrodemonterrey.com and elmetromonterrey.com), consistent with Wikipedia's 40-station figure (transfer stations Mitras/Regina/Ruiz Cortines counted inline). Transfers: Mitras->Metro L1, Regina->Metro L2, Ruiz Cortines->Metro L3. Service 04:00-24:00, 365 days/yr (per lineasdelmetro/movilidadmonterrey).\n\nCOORDINATES: WGS-84. OSM had NO route relation for Ecovia and NO tagged stops; the Datos Abiertos NL CKAN API (paradas-oficiales-stc-metrorrey) blocks datacenter IPs (HTTP 403). Coordinates therefore anchored on verified terminals (Lincoln poniente ~25.722,-100.384; Valle Soleado oriente in Guadalupe ~25.677,-100.212) and Metro-transfer stations (Mitras/Regina/Ruiz Cortines), with intermediate stops interpolated along the known avenue geometry. They are corridor-accurate (within a few hundred m) but not surveyed per-stop -- reflected in confidence 0.55.\n\nSCHEDULE: Sources give operating hours + frequency (\"real-time displays\", ~7 min peak / ~12 min off-peak) but no published timetable. Emitted one representative trip per direction (EB dep 05:00, WB dep 06:30) with even spacing across a ~62 min end-to-end run; production feed would expand to full-headway frequencies (or frequencies.txt).\n\nOriginal Ecovia feeder buses are excluded: sources report nearly all feeder routes were discontinued (fully gone ~2025-05-05, only ~2 remaining, no named-stop/coord data), so no feeders were invented. route_type=3 (BRT modeled as bus per GTFS convention).",
+  "source": "llm-normalized"
+}

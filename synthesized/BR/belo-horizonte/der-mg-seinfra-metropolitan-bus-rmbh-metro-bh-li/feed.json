@@ -1,0 +1,14 @@
+{
+  "operator": "DER-MG / SEINFRA metropolitan bus (RMBH) + Metrô BH Linha 1 — concessionaires Saritur, Turi, Via Ouro, Expresso Unir, Viação Cisne, Viação Brasília",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 24,
+    "routes": 3,
+    "trips": 8,
+    "stop_times": 98
+  },
+  "notes": "METRO/RAIL FIRST: Metrô BH Linha 1 (Laranja) is the highest-ridership, best-documented mode and is built here in full — all 21 stations in correct order Vilarinho→Novo Eldorado with WGS-84 coordinates from Wikipedia/Wikidata (incl. the two 2026 stations Nova Suíça, opened 2026-07-03, and Novo Eldorado, opened 2026-02-09). Coordinates are high-confidence except Novo Eldorado, which is derived from its published address (Via Expressa de Contagem 1839, Conjunto Água Branca, near Arena MRV) rather than an exact WGS-84 point. Metro operating window 05:15–23:00 daily (~49 min end-to-end); representative trips at ~2.45 min/hop, two per direction to show peak headway (~8 min). Real per-station clock times are interpolated evenly across the published 49-min run time — the operator does not publish a station-by-station timetable (metro runs on headway, not fixed clock).\\n\\nBUS: DER-MG/SEINFRA metropolitan lines are operated by the named concessionaires. The official DER-MG consulta_linha.xhtml is a JSF app that could not be scraped headless; timetables were taken from the movemetropolitano.com.br per-line mirror, which was verified to carry real first/last departures, day-type breakdown and fares (R$10,40) for lines 3830 (Nova Lima/Bela Fama–BH) and 3832 (Nova Lima–BH). Those two lines are included with evidenced fares and evidenced operating windows, modeled as headway-based trips between their evidenced terminals (Nova Lima ↔ BH centre via São Gabriel integration). The mirror is THIN on intermediate stop lists, so only evidenced terminal/anchor stops are used — no intermediate stops are invented. Dozens of other RMBH line numbers were seen in the index (3827/3828/3831, 2550/2552, 3210/3212/3293/3304, 4988/4991, 4100/4110/4126, 6100-series, etc.) but are NOT included because their ordered stops were not evidenced. Confidence 0.55 reflects: metro portion faithful and complete; bus portion faithful on fares/windows/endpoints but lacking full itineraries and exact per-trip times. Not CN, so no GCJ-02 concern.",
+  "source": "llm-normalized"
+}

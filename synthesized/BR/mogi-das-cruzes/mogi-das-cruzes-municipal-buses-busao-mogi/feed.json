@@ -1,0 +1,14 @@
+{
+  "operator": "Mogi das Cruzes municipal buses (Busao Mogi)",
+  "city": "Mogi das Cruzes",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 105,
+    "routes": 4,
+    "trips": 16,
+    "stop_times": 60
+  },
+  "notes": "Scope: This feed prioritises the well-documented CPTM Line 11-Coral suburban rail segment through Mogi das Cruzes (4 stations, exact WGS-84 from Wikipedia/Wikidata) plus 3 representative municipal bus lines (of the ~81-83 total) whose full ordered itineraries were obtained from official Cittamobi PDF itineraries (mirrored from the Secretaria de Mobilidade e Transito portal). The two named .gov.br sources in the task are JS-rendered SPAs that return no static HTML, so I sourced the same operator's line detail via the Cittamobi/Moovit mirrors of the official data.\n\nCONFIDENCE breakdown:\n- Rail (L11): HIGH. 4 station names + coords are exact and evidenced; station ordering correct. Times are representative (05:00 sample departure, ~4-5 min inter-station), not a full timetable — Line 11 runs 04:00-00:00 daily, 4 min peak / 8-10 min off-peak headways.\n- Bus stop SEQUENCES + NAMES/ADDRESSES: HIGH — every bus stop name is a real evidenced address from the official Cittamobi itinerary PDFs (C107=34 stops, C202=23 stops, E104=44 stops).\n- Bus stop COORDINATES: LOW-MEDIUM — only the terminal/anchor endpoints (Terminal Central, Terminal Estudantes, Braz Cubas, Conj Santo Angelo) are precise WGS-84; intermediate stops are LINEARLY INTERPOLATED along the evidenced street corridor between anchors, so they lie on/near the correct streets and neighbourhoods but are not surveyed points (typically within a few hundred m of true position).\n- Bus TIMES: MEDIUM — first/last operating windows and the C107 weekday departure list come from Moovit/onibus.online (real); intermediate stop times are evenly spread across a realistic ~50-90 min run. The Cittamobi 'tabela horaria' summary was garbled and not used.\n\nOnly 3 of ~81 bus lines are included (representative, both terminals covered: 2 Central 'C' lines + 1 Estudantes 'E' line). Operators: MogiMob / Princesa do Norte / CS Brasil under Secretaria de Mobilidade e Transito. Fare R$5.30. Rail operated by CPTM (concession Trivia Trens), included as the metro/rail-first mode. Sources: Cittamobi PDFs (linhas.cittamobi.com.br), Moovit (moovitapp.com), onibus.online, en.wikipedia.org CPTM station articles, official portal mobilidadeservicos.mogidascruzes.sp.gov.br.",
+  "source": "llm-normalized"
+}

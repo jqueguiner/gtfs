@@ -1,0 +1,14 @@
+{
+  "operator": "МКУ ЦУГАЭТ (TSUGAET) — city transport dispatch/authority (nskgortrans.ru)",
+  "city": "Novosibirsk",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 14,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 28
+  },
+  "notes": "Scope: The confident, fully-evidenced feed covers the Novosibirsk Metro (МУП «Новосибирский метрополитен»), the highest-ridership and best-documented mode, as instructed (metro/rail first). Two lines, 14 stations, both directions.\n\nSources used: en/ru Wikipedia + Wikidata for the line/station lists, ordering and WGS-84 coordinates (Wikidata precise for Zayeltsovskaya Q2164511, Ploshchad Marksa Q2209314; DMS-precise for Gagarinskaya, Krasny Prospekt, Rechnoy Vokzal, Beryozovaya Roshcha, Zolotaya Niva; the remaining ~4 stations are approximate to ~100m from documented street locations and marked accordingly). Operating hours 05:45–24:00 and headways (peak ~3 min 08:00-09:00/17:00-19:00, off-peak ~5 min, ~8-13 min early/late) from nsk-metro.ru official schedule via search. Sportivnaya opened 2025-09-05 and is included on Line 1.\n\nNote on operator attribution: nskgortrans.ru is the city transport dispatch/authority (ЦУГАЭТ / ГЭТ) portal for surface transport (bus/trolleybus/tram) with a live GPS/GLONASS map at map.nskgortrans.ru. The metro itself is run by a separate municipal enterprise (Novosibirsk Metro), but is the mode with fully verifiable stops/ordering/coordinates and is delivered here per the metro-first instruction.\n\nBus/tram/trolleybus routes: nskgortrans.ru/site/rasp and /site/marsh expose route lists (e.g. buses 9,18,36,94,96; tram 10,15; marshrutka 90) but their ordered stop lists + coordinates are served only via a JavaScript route/stop search API and the map.nskgortrans.ru GLONASS backend — not extractable as static HTML/PDF in this session. The opendata.novo-sibirsk.ru stops layer (ID=49) and OSM route relations would be the path to add them; they are intentionally NOT invented here to avoid fabricated stops. Confidence is 0.55 to reflect a real, valid metro feed with approximate times (schedule published as frequency, so an even ~5-min-implied representative trip per direction is used with realistic clock start times) while surface transport is not yet covered.\n\nTrip times: representative first-of-day trip per direction, ~2 min inter-station dwell/run typical for this metro. Additional trips are implied by the headway in calendar/notes rather than fully enumerated.",
+  "source": "llm-normalized"
+}

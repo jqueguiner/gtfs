@@ -1,0 +1,14 @@
+{
+  "operator": "Chennai MRTS (Mass Rapid Transit System, Southern Railway)",
+  "city": "Chennai",
+  "cc": "IN",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 21,
+    "routes": 1,
+    "trips": 8,
+    "stop_times": 168
+  },
+  "notes": "Single MRTS line, Chennai Beach <-> St. Thomas Mount, 21 stations, ~24 km, broad-gauge rail interlined with Southern Railway suburban South line (route_type=2). Station list, order and coordinates from Wikipedia/Wikidata (WGS-84) and metroeasy; all 3 schedule sources agree on the 21-station ordered list. Velachery->St.Thomas Mount extension (Puzhuthivakkam, Adambakkam, St. Thomas Mount) opened 2026-03-14; note per Southern Railway that trains currently do NOT halt at Adambakkam, but it is a real evidenced station so it is included in stops and stop_times (timetable order). Operating hours (weekday 06:00-22:00, Sun 08:00-22:00) and headways (peak 10 min, off-peak 15 min) are published (metroeasy). One-way run time ~65 min => ~3.25 min/segment used to build stop_times. Exact per-trip published clock times were not available, so trips are synthesized on an even off-peak (15 min) headway across service hours in both directions -> confidence 0.6. Moovit source returned empty. Fares/first-class omitted (not GTFS-required). Two service ids: weekday (Mon-Sat) and sunday.",
+  "source": "llm-normalized"
+}

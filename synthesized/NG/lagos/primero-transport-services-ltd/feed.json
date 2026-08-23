@@ -1,0 +1,14 @@
+{
+  "operator": "Primero Transport Services Ltd",
+  "city": "Lagos",
+  "cc": "NG",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 27,
+    "routes": 2,
+    "trips": 76,
+    "stop_times": 162
+  },
+  "notes": "Primero (blue BRT buses, LAMATA-licensed) operates two BRT corridors: Ikorodu-TBS (flagship) and Oshodi-Abule Egba. The operator bus-routes page and the p3mediafrica 'OUR-BRT-ROUTES_LAGOS' PDF confirm the Ikorodu-TBS ordered stops verbatim (Ikorodu, Mile 12, Ketu, Ojota, (Ikeja/Oshodi), Palmgrove, Onipanu, Fadeyi, (Yaba), Stadium, Costain, CMS, TBS) and the Oshodi-Abule Egba corridor. Full ordered stop lists cross-confirmed by two schedule guides (ridetransport, transportlog). Stops added between PDF anchors (Benson, Sabo, Majidun, Owode Onirin, Maryland, Anthony, Obanikoro) are evidenced by OSM highway=bus_stop / BRT-named nodes on the same corridor. COORDINATES: WGS-84 from OSM Overpass (highway=bus_stop, BRT-named nodes via mail.ru mirror; overpass-api.de and nominatim were 429/500 throttled) plus 5 Nominatim geocodes for the Ikorodu-end terminals. Coords for Costain, CMS, National Stadium, Onipanu bus stop, Bolade, Iyana Ipaja, Egbeda, Egbe are published-landmark WGS-84 (approx, +/-200-500m) since OSM bus_stop nodes were not returned for those under throttling. SCHEDULE: no published minute-by-minute timetable exists; sources give operating hours (weekday/Sat 06:00-21:00, Sun 07:00-20:00) and headways (peak 3-8 min, off-peak 10-15 min). stop_times use even headways across service hours with estimated inter-stop run times (~75 min end-to-end Ikorodu-TBS, ~48 min Oshodi-Abule Egba) -- realistic but NOT the operator's actual clock times, hence confidence 0.55. FEED CONTENT: This structured output embeds all 76 trip records and 12 fully-ordered representative trips (2 routes x 2 directions x 3 service days) with complete stop_times (162 rows); the full generated feed contained 76 trips / 1026 stop_times (7 weekday, 6 Sat, 6 Sun departures per direction). Validation: 0 non-monotonic trips, 0 orphan stop_times. Sources: primerotsl.com/bus-routes, p3mediafrica OUR-BRT-ROUTES_LAGOS.pdf, autojosh, ridetransport.com.ng, transportlog.com.ng; OSM relation 13921854 + Overpass bus_stop nodes.",
+  "source": "llm-normalized"
+}

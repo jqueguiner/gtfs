@@ -1,0 +1,14 @@
+{
+  "operator": "CBTU / Metrorec (Metrô do Recife)",
+  "city": "Recife",
+  "cc": "BR",
+  "confidence": 0.68,
+  "counts": {
+    "stops": 36,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 100
+  },
+  "notes": "Recife Metro operated by CBTU/Metrorec. 4 lines: Centro-1 (Recife-Camaragibe, 16 stns incl. Cavaleiro), Centro-2 (Recife-Jaboatao, 13 stns), Sul (Recife-Cajueiro Seco, 12 stns), and VLT/Linha Diesel (Curado-Cabo, 9 stns). 36 unique stations. STOPS: all coordinates from Recife open-data portal GeoJSON 'Estacoes de Trem do Grande Recife' (dados.recife.pe.gov.br, ODbL, WGS-84) - every station matched, 0 nulls. ROUTE ORDER: from Wikipedia Recife Metro station lists (cross-checked with OSM/mapa-metro). C1/C2 share Recife->Coqueiral; C1/C2/Sul share Recife->Joana Bezerra. route_type: metro lines=1, VLT diesel light-rail=0. SCHEDULE: metrorecife.com.br/horarios and gov.br/cbtu were behind bot-verification / image-only schedule grids, so exact per-station clock times are NOT published in machine-readable form. Established facts used: service daily ~05:00-23:00 (metro), VLT Mon-Sat (no Sunday, Sat shorter); end-to-end run times Wikipedia (C1 28min, C2 24min, Sul 25min, VLT 54min); headways ~5min peak/7min offpeak on Centro, ~16min on Sul. Each route has 1 representative trip per direction (8 trips, 100 stop_times) departing 08:00, times interpolated evenly across the published run time - directions/ordering/coords are faithful; individual clock times are representative not the exact published timetable. calendar: metro_daily (7 days), vlt_mon_sat (Mon-Sat). Confidence 0.68: topology/stations/coords high fidelity; exact departure times synthetic due to image-only official grids. Sources: Wikipedia Recife Metro, dados.recife.pe.gov.br GeoJSON, metrorecife.com.br, gov.br/cbtu.",
+  "source": "llm-normalized"
+}

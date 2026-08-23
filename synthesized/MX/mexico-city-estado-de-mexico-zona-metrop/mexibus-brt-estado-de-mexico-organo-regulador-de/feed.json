@@ -1,0 +1,14 @@
+{
+  "operator": "Mexibus (BRT - Estado de México, Órgano Regulador de Transporte / ORT Edomex)",
+  "city": "Mexico City (Estado de México / Zona Metropolitana del Valle de México)",
+  "cc": "MX",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 114,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 228
+  },
+  "notes": "Mexibús BRT feed for the 4 operating lines, built from Wikipedia (ES/EN) + SITRAMYTEM official station lists surfaced via WebSearch, and terminal/transfer coordinates from Wikipedia/Wikidata (WGS-84). The primary sources given (lineasdelmexibus.com, masivoedomex.wordpress.com) were unreachable: lineasdelmexibus.com sits behind a JS/bot-verification wall (returns only a \"verifying your request\" placeholder) and masivoedomex.wordpress.com returns HTTP 403. OSM Overpass was unreachable both from the sandbox (no egress) and via WebFetch (ECONNREFUSED / HTTP 500 on mirrors), so per-stop OSM node coords could not be pulled in bulk.\n\nSTATION LISTS: L1 (24 troncal stations Ciudad Azteca–Ojo de Agua; the AIFA extension of 8 more stations exists but is not included), L2 (30 of ~42 official stations La Quebrada–Las Américas; the middle segment list from Wikipedia was partial so intermediate stops may be incomplete/approximate), L3 (30 troncal stations Pantitlán–Chimalhuacán; the Chicoloapan branch/parabuses that bring the count to ~45 are not included), L4 (30 stations Universidad Mexiquense del Bicentenario–La Raza). Station NAMES and ORDER are well-evidenced from official/Wikipedia lists.\n\nCOORDINATES: Only terminal and transfer-station coordinates are from authoritative WGS-84 sources (Ciudad Azteca, Ojo de Agua, Las Américas, Pantitlán, Nezahualcóyotl, Chimalhuacán, Indios Verdes, La Raza, Martín Carrera, Coacalco, La Quebrada, Universidad Mexiquense). Intermediate stops are LINEARLY INTERPOLATED along the corridor between anchor stations — they are approximate (typically within a few hundred meters of the true location, following the avenue path) and NOT surveyed positions. This is why confidence is 0.55.\n\nSCHEDULE: Official operating hours are 04:30–00:30 daily (L1/L3/L4) and 04:00–01:00 (L2); a single daily service (Mon–Sun) is used. Each line has one representative trip per direction with even ~2.5 min inter-station spacing (BRT-realistic) starting 05:30; these are illustrative peak-time runs, not the full published frequency table (Mexibús runs high-frequency ~3–6 min headways with Ordinario/Exprés/Servicio Rosa variants that are not modeled). route_type=3 (bus) for all lines since Mexibús is BRT.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "LAMATA — Lagos Rail Mass Transit (Red Line)",
+  "city": "Lagos",
+  "cc": "NG",
+  "confidence": 0.9,
+  "counts": {
+    "stops": 8,
+    "routes": 1,
+    "trips": 9,
+    "stop_times": 72
+  },
+  "notes": "Source: LAMATA official Red Line schedule page (lamata-ng.com/our-schedule/redline-train-schedule/) which enumerates all 8 operational Phase-1 stations (Agbado, Iju, Agege, Ikeja, Oshodi, Mushin, Yaba, Oyingbo) with exact per-station clock times for every daily trip. Timetable is fully published: 9 trains/day (4 northbound Oyingbo→Agbado, 5 southbound Agbado→Oyingbo), Monday–Friday, ~50 min end-to-end. Stop_times use the real published clock times verbatim (12h→24h converted). Coordinates are WGS-84 from OpenStreetMap (Nominatim) railway-station nodes and Wikidata (Oyingbo = Q130542160, Point(3.381611 6.483478)); Agege uses the dedicated 'Agege LRMT Station' OSM node. Coordinates form a clean monotonic north→south chain (lat 6.687→6.483, lon 3.303→3.382) matching the published station order, which self-validates the sequencing. route_type=2 (rail): the Red Line is a heavy commuter/suburban-rail service sharing the Lagos–Kano standard-gauge right-of-way. Phase-2 stations (Ebute Metta/Iddo/Ebute Ero/Marina) are under construction and NOT included (no service, not evidenced). Commercial service began 2024-10-15; no published end date, so calendar end set open (2027-12-31). Confidence 0.9: timetable and station list are authoritative; only residual uncertainty is exact platform-node coordinates vs station-building centroids (sub-100m) and whether headways/times have been revised since the fetched schedule snapshot ('UPDATED 9 Trains Daily').",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "EMUP Gortrans — Tram (ЕМУП «Гортранс», трамвай)",
+  "city": "Yekaterinburg",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 61,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 146
+  },
+  "notes": "Yekaterinburg tram (EMUP Gortrans / ЕМУП «Гортранс», ТТУ). City network has ~22-23 active tram routes and ~272 stops. This feed models 3 high-ridership routes with FULLY EVIDENCED ordered stop lists (2GIS/Yandex/avtobus24/gde-tramvai-ekaterinburg/malyegorodarossii, 2024-updated): route 2 Эльмаш↔ВИЗ (26 stops), route 4 Метро Ботаническая↔Шарташ (19 stops), route 8 40 лет ВЛКСМ↔ул.Машиностроителей (28 stops). 61 unique stops (shared central-corridor stops deduped: Гостиница Исеть, Шарташская, Шевченко, Пионерская, УрФУ, Восточная, Бажова, Калининская/Педуниверситет, etc.). Coordinates: WGS-84 anchors verified from Wikipedia (metro Ботаническая/Уралмаш/Машиностроителей) and stop pages (пл.1905=56.838,60.597; Гост.Исеть=56.839,60.614; Шарташ=56.830,60.647; 40 лет ВЛКСМ=56.834,60.694); intermediate stops linearly interpolated along the known street corridor between anchored stops (correct line, approximate exact point — GTFS-standard). Service window 06:00-23:20 daily (from route-2/route-4 published timetables). Each route has representative trips both directions at 06:00/08:00/12:00/17:00 departures; full feed on disk has 24 trips/584 stop_times; structured output includes 6 representative trips (one per direction per route, 146 stop_times) covering every route in both directions with realistic clock times derived from published end-to-end run times (route2~95min, route4~45min, route8~90min). ettu.ru/pass/routes and ettu.ru/pass/timetable/tram were unreachable (TLS cert altname mismatch on HTTPS upgrade); roster/stops/hours sourced from mirror aggregators + OSM/Wikipedia instead. NOT modeled: routes 1,3,5,5A,6,7,9,10,11,12,13,14,15,16,17,18,19,21,22,23,24,25,27,32,33,333 (roster known, ordered stop-lists not all fetched); per-route peak/off-peak headway variation; short-turn/depot variants. Confidence 0.55: route topology + stop order + coords + hours are faithful for the 3 modeled routes; intermediate coords interpolated, and this covers ~3/23 of the network.",
+  "source": "llm-normalized"
+}

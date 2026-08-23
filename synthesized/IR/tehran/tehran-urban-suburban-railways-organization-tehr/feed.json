@@ -1,0 +1,14 @@
+{
+  "operator": "Tehran Urban & Suburban Railways Organization (Tehran Metro / TUSRC)",
+  "city": "Tehran",
+  "cc": "IR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 129,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 292
+  },
+  "notes": "Stops and per-line ordering from the Wikipedia line articles (Line 1-4) and List_of_Tehran_Metro_stations (Lines 6, 7) - authoritative complete ordered station lists. Coordinates are OSM WGS-84 fetched via Overpass (maps.mail.ru mirror; overpass-api.de was unreachable and kumi/private.coffee were 500-erroring from the sandbox) using the requested route relations: L1 r19967673, L2 r2431321, L3 r5366249, L4 r443307, L6 r5697303, L7 r7429356 (all six fetched successfully; stations tagged railway=stop / public_transport=stop_position with name/name:en). Interchange stations are shared as a single stop record across lines (Imam Khomeini S016 on L1+L2; Shahid Beheshti S010 on L1+L3; Teatr-e Shahr S065 on L3+L4; Darvazeh Dowlat S014, Darvazeh Shemiran S040, Meydan-e Shohada S085 shared; Towhid S082, Shahid Navvab-e Safavi S034 on L4/L7+L2; Daneshgah-e Tarbiat Modares S101 on L6+L7; Meydan-e Vali Asr S064 on L3+L6; etc). Sheykh-o-raeis (L4) uses its renamed-station Ebn-e Sina coordinates from Wikipedia (35.6904, 51.4568). SIX newer/under-construction extension stations were NOT present as stop nodes in the OSM relations and could not be reliably geocoded (Nominatim returned nothing), so rather than fabricate coordinates they were DROPPED from the feed: L6 south branch Cheshme Ali, Ebn-e Babvieh, Meydan-e Hazrat-e Abdol Azim, Haram-e Hazrat-e Abdol Azim (L6 now ends at Shahr-e Rey S025); and L7 west end Daneshgah-e Azad Eslami, Chahar Divari (L7 now starts at Meydan-e Ketab). All 129 remaining stops have real OSM WGS-84 coordinates verified inside the Tehran bbox (35.4-35.85N, 51.1-51.7E). Lines 1-4, 6, 7 are route_type=1 (metro). Line 5 (Tehran-Karaj suburban rail) and the Line 1 airport branch (Shahr-e Aftab / IKA / Parand) were outside the requested relation set and are omitted. SCHEDULE FIDELITY IS LOW (main reason confidence is not higher): neither Wikipedia nor OSM carry a per-stop timetable, so stop_times are SYNTHETIC - one representative trip per direction per line, first departure 05:30, with a flat 2-minute inter-station interval (no real dwell/run-time data; L6-south and L7 first stops offset accordingly after the dropped stations). System operating window from travel-guide sources is ~05:30-22:00 daily, 7 days/week (headways ~2-5 min peak, 5-15 off-peak; Line 1 additionally runs 24h for airport service - not modeled). calendar = single DAILY service (all 7 days, 2026 full year). To raise fidelity, replace stop_times with a frequencies.txt built from published peak/off-peak headways or an official TUSRC timetable, and add the 6 missing extension-station coordinates.",
+  "source": "llm-normalized"
+}

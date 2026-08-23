@@ -1,0 +1,14 @@
+{
+  "operator": "Transportes del Valle de Tala (TVT)",
+  "city": "Guadalajara",
+  "cc": "MX",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 112,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 192
+  },
+  "notes": "Built from Moovit route PDFs (appassets.mvtdev.com map exports) for the two TVT lines: \"TVT - POR COLON\" (line 1582129) and \"TVT - POR VALLARTA\" (line 1582123), each in both directions (Tala / Central Vieja). Full ordered stop lists were extracted via pdftotext -layout from the Moovit schedule PDFs (the moovitapp.com HTML endpoints returned JS-only content and the PDFs are image-embedded, but the map PDFs also contained readable text layers with the complete stop sequences). Stop sequences are faithful to the source. Service: daily (Mon-Sun) 05:00-22:00 towards Tala, 05:00-21:00 towards Central Vieja. Trip durations from Moovit: COLON 79-80 min, VALLARTA 78-82 min. Each route has one representative trip per direction with stop_times evenly interpolated across the published trip duration starting at 05:00 (frequency/operating-hours only source; no per-stop timetable is published). Coordinates: identifiable landmark / light-rail / mall / corridor stops geocoded to WGS-84 from Wikipedia and known Guadalajara-Zapopan geography and the Tala-El Arenal-Central Vieja (Carr. Guadalajara-Tepic / Mex-70) corridor; genuinely ambiguous generic street-corner stops (e.g. Calle 5, Ganso, Condor, Codorniz) have their coordinates omitted rather than invented. The third provided source (Moovit line 1386601 \"TALA\") is operated by Flecha Amarilla, NOT TVT, so it was excluded from this operator feed. Confidence 0.6: stop names/order and the daily service window are well-evidenced; exact per-stop clock times are interpolated (not published), and a subset of stop coordinates are approximate or omitted.",
+  "source": "llm-normalized"
+}

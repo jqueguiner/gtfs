@@ -1,0 +1,14 @@
+{
+  "operator": "MetrôRio (Concessão Metroviária do Rio de Janeiro)",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 41,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 104
+  },
+  "notes": "Metro-first build for MetrôRio (Rio de Janeiro, BR). Sources: metrorio.com.br/Estacoes official station directory, metrodorio.info (linha-1, horario, mapa), and Wikipedia List_of_Rio_de_Janeiro_metro_stations + per-station articles/Wikidata for WGS-84 coordinates. Three metro lines modeled: L1 Uruguai<->General Osorio (20 stops), L2 Pavuna<->Botafogo (26 stops, sharing the central L1 corridor Central..Botafogo), L4 Jardim Oceanico<->General Osorio (6 stops). L1/L2 share 10 central-corridor platforms (Central, Presidente Vargas, Uruguaiana, Carioca, Cinelandia, Gloria, Catete, Largo do Machado, Flamengo, Botafogo) which are single physical stops reused by both routes. 36 unique physical stations total. All stop coordinates are real WGS-84 from Wikipedia/Wikidata (not GCJ-02). Service hours are official (Mon-Sat 05:00-24:00, Sun/holiday 07:00-23:00). CONFIDENCE 0.62: station lists, ordering and coordinates are faithful/well-evidenced; but stop_times are SYNTHESIZED from a plausible ~2min inter-station run time and an even representative single trip per direction per line at a mid-service departure -- MetroRio publishes headways/operating hours but not a full timetable, so exact per-trip clock times are illustrative, not the real published schedule. Nossa Senhora da Paz coord from Wikidata (approx). Only one representative trip per direction is included (not the full ~6min-headway frequency fleet).",
+  "source": "llm-normalized"
+}

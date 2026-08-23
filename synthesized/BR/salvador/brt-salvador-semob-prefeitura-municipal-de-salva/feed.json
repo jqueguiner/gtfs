@@ -1,0 +1,14 @@
+{
+  "operator": "BRT Salvador (SEMOB / Prefeitura Municipal de Salvador)",
+  "city": "Salvador",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 17,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 90
+  },
+  "notes": "BRT Salvador (Lapa–Iguatemi/Pituba corridor), a bus rapid transit system operated on behalf of SEMOB / Prefeitura Municipal de Salvador. 14 evidenced stations across trecho 1 (Rodoviária/Shopping da Bahia, Hiper, Cidadela), trecho 3 (Parque da Cidade, Itaigara, Pituba) and trecho 2 (Cidade Jardim, Vale das Pedrinhas, Rio Vermelho, HGE, Ogunjá, Vasco da Gama, Barris, Lapa), plus 3 named off-busway stops (APAE, Praça Belo Horizonte, Praça N.S. da Luz) used by the extended lines B2/B3. Five lines (B1, B2, B3, B4, B5) confirmed by pt.wikipedia and the official brt.salvador.ba.gov.br / brtsalvador.com.br sites. Operating hours: 05:30–22:00 Mon–Sat and 06:00–22:00 Sun/holidays; headway ~3 min at peak, 5–10 min off-peak/weekend (source: SEMOB / mobilidade.salvador.ba.gov.br). Station COORDINATES are approximate positions derived from documented landmarks/avenues (Av. ACM, Av. Juracy Magalhães, Av. Vasco da Gama) and OSM/Wikidata Q118933160 — not exact survey nodes, so lat/lon are best-effort WGS-84. Route type = 3 (bus / BRT; GTFS has no distinct BRT code). route_type 0/1/2 not used. Stop_times are REPRESENTATIVE morning trips built on documented even headways (B1/B3 ~2 min between stations on the segregated lane, B2/B4/B5 ~3 min), one trip per direction per line — NOT the full published timetable (SEMOB does not publish a machine-readable stop-by-stop schedule). B2 terminates at Rio Vermelho via off-busway stops toward the orla; B3 is a Rodoviária↔Pituba variant via Av. Paulo VI (represented on the core corridor). Confidence 0.55: station list/order/lines are well-evidenced; exact coordinates and clock times are reconstructed.",
+  "source": "llm-normalized"
+}

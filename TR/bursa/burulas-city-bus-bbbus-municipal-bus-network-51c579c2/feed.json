@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Burulaş - City Bus (BBBUS / municipal bus network)",
+    "country": "TR",
+    "subdivision": null,
+    "city": "Bursa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TR/bursa/burulas-city-bus-bbbus-municipal-bus-network/gtfs/",
+    "mdb_id": "tr-llm-burulas-city-bus-bbbus-municipal-bus-net",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

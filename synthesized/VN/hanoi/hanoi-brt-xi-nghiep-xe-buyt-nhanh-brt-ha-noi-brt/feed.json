@@ -1,0 +1,14 @@
+{
+  "operator": "Hanoi BRT — Xí nghiệp Xe buýt nhanh BRT Hà Nội (BRT01, Kim Ma–Yen Nghia)",
+  "city": "Hanoi",
+  "cc": "VN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 23,
+    "routes": 1,
+    "trips": 10,
+    "stop_times": 62
+  },
+  "notes": "Single BRT line BRT01 (Kim Mã <-> Bến xe Yên Nghĩa), 14.5 km, opened 2016-12-31. All 23 stations and their coordinates come from OSM route relation 12031904 (ref=BRT01, operator Xí nghiệp Xe buýt nhanh BRT Hà Nội), WGS-84, cross-verified against the published Wikipedia/Moovit station list (exact match, same order). Service window 05:00-22:00 daily and ~37 min end-to-end run time are from Moovit; headways 5 min peak / 7 min daytime off-peak / 10 min evening from C40 Cities. Stop_times use realistic clock departures (05:00, 07:30, 12:00, 17:30, 21:40) per direction with per-segment travel time distributed by geodesic distance so the run totals 37 min. Two terminals modeled as platform_entry_only/exit_only in OSM but represented as normal stops here. Physical stations are shared between directions (same stop_id); direction encoded via trip_id and headsign. Confidence 0.72: station list/coords and operating hours are well-evidenced; the exact per-station timetable and individual dwell times are interpolated from published frequency + total run time rather than an official stop-level timetable. Sources: OSM Overpass (rel 12031904/12031903), en.wikipedia.org/wiki/Hanoi_BRT, Moovit BRT01, c40.org case study.",
+  "source": "llm-normalized"
+}

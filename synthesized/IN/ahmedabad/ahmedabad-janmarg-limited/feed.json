@@ -1,0 +1,14 @@
+{
+  "operator": "Ahmedabad Janmarg Limited",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 94,
+    "routes": 6,
+    "trips": 6,
+    "stop_times": 180
+  },
+  "notes": "Ahmedabad BRTS (Janmarg) — a bus rapid transit system (route_type=3). Built from 6 representative route-directions covering all major trunk corridors: 1U (Bopal/Ghuma-Iskcon-Maninagar), 3U & 3D (RTO Circle <-> Maninagar via Anjali, both directions), 15D (Iskcon Cross Road -> Airport spur), 12U (Chandkheda/Sabarmati -> CTM/Narol, the ~29km trunk), and 5U (Vasna -> Naroda/Hanspura via Narol ring). 94 unique BRTS stations, in-order, extracted from Moovit's official offline route PDFs (appassets.mvtdev.com), which mirror Janmarg/ahmedabadbrts.org data. Operating hours are REAL and per-route from those PDFs (e.g. 3U 06:07-22:41; 1U 06:00-22:45; 15D 06:00-23:00; 3D 06:05-20:45), applied as the trip start time; intermediate stop_times use an even ~2min inter-stop spacing (headway/exact intermediate clock times not published per stop). One representative trip per route; reverse trips modelled only where a distinct PDF direction was captured (route 3 has both 3U and 3D). The real system has 18 lines / ~197 stations — this feed intentionally covers the highest-ridership trunk lines, not every feeder/shuttle. 30 of 94 stops have WGS-84 coordinates anchored to well-known Ahmedabad landmarks (RTO Circle, Maninagar, Kankariya, Iskcon, University, Chandkheda, Narol, Airport, Naroda, etc.); the remaining lesser-known stops are left null rather than invented (OSM Overpass was unreachable from this sandbox; official brts.org and Moovit HTML pages timed out / rendered empty, so ordered stops came from the Moovit PDF exports). Service assumed daily (Mon-Sun) per the PDF timetables which list identical hours all 7 days. Sources: en.wikipedia.org/wiki/Ahmedabad_Bus_Rapid_Transit_System; ahmedabadbrts.org/time-table; moovitapp.com Ahmedabad (AMTS BRTS) line PDFs.",
+  "source": "llm-normalized"
+}

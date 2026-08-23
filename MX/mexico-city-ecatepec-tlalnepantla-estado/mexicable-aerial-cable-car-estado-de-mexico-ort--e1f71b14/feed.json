@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mexicable (aerial cable car - Estado de Mexico, ORT Edomex)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Mexico City (Ecatepec / Tlalnepantla, Estado de Mexico)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MX/mexico-city-ecatepec-tlalnepantla-estado/mexicable-aerial-cable-car-estado-de-mexico-ort-/gtfs/",
+    "mdb_id": "mx-llm-mexicable-aerial-cable-car-estado-de-mex",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

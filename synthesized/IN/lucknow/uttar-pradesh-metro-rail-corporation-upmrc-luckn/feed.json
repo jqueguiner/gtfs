@@ -1,0 +1,14 @@
+{
+  "operator": "Uttar Pradesh Metro Rail Corporation (UPMRC) - Lucknow Metro Red Line",
+  "city": "Lucknow",
+  "cc": "IN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 21,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 42
+  },
+  "notes": "Single-line feed for the Lucknow Metro Red Line (North-South corridor, CCS Airport <-> Munshi Pulia, 22.87 km, 21 stations). Sources: Wikipedia (Red_Line_(Lucknow_Metro), List_of_Lucknow_Metro_stations) for the ordered 21-station list; OpenStreetMap Overpass (station=subway / railway=station nodes within Lucknow, via mail.ru mirror since overpass-api.de was unreachable) for WGS-84 coordinates - all 21 stations matched 1:1 and coordinates progress monotonically SW->NE confirming order. upmetrorail.com returned HTTP 403; operating hours/headway taken from web sources: service daily 06:00-22:00, peak headway ~5.5 min (07:30-10:30, 17:00-20:00), off-peak ~7-10 min, end-to-end ~45 min. HIGH-CONFIDENCE: stops, coordinates, station ordering, route, service span. MODELED/APPROXIMATE: exact per-station running times (uniform ~2:15 hop + 25s dwell tuned to the published ~45 min end-to-end) and exact last-train time (sources vary 22:00 vs 22:30; used 22:00). One representative trip per direction at 06:00 is provided; the real service runs on ~5.5-10 min headways across the span (encode via frequencies.txt if needed). calendar covers all 7 days. IDs are stable per-station codes.",
+  "source": "llm-normalized"
+}

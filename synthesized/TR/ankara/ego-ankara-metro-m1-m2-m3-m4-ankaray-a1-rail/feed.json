@@ -1,0 +1,14 @@
+{
+  "operator": "EGO — Ankara Metro (M1/M2/M3/M4) & Ankaray (A1) rail",
+  "city": "Ankara",
+  "cc": "TR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 54,
+    "routes": 5,
+    "trips": 60,
+    "stop_times": 238
+  },
+  "notes": "Sources: Wikipedia (Ankara Metro + per-line pages) for route list and ordered station lists; EGO hareketsaatleri returned HTTP 403, so operating hours/headways came from EGO-derived press/timetable summaries (ankaramasasi.com.tr, hurriyet, metroeasy). Coordinates: all 54 stops from Wikidata SPARQL (P625, WGS-84) — authoritative, not Amap/GCJ. Overpass/OSM was unreachable from this environment, so Wikidata WGS-84 was used instead (equivalent quality). 5 routes (M1,M2,M3,M4,A1), route_type=1 for metro lines and A1 Ankaray (light-rail, tagged 1 as a rapid-transit rail line). Service 06:00–01:00, 7 days/week (calendar service_id 'daily'). Representative trips: 6 per direction per line at 06:00/08:00(peak)/12:00/17:30(peak)/21:00/~00:36(last) anchors; last trips spill past midnight using GTFS >24h times (up to 25:04). Real headways are 5–7 min peak / 10–15 min off-peak — the feed samples representative departures rather than every trip, so exact per-minute frequencies are approximated. Interstation travel modeled at ~2 min + 30s dwell (uniform), not measured per segment. Known simplification: in reality M1↔M3 through-run via Batıkent and M2 shares Kızılay; here each line is modeled as one independent route per the task spec. Station names in Turkish (UTF-8). Kızılay = '15 Temmuz Kızılay Milli İrade' interchange shared by M1/M2/M4/A1.",
+  "source": "llm-normalized"
+}

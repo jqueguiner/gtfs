@@ -1,0 +1,14 @@
+{
+  "operator": "Orange Line Metro Train (OLMT) — Punjab Mass Transit Authority (PMA)",
+  "city": "Lahore",
+  "cc": "PK",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 26,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 52
+  },
+  "notes": "26 stations Ali Town<->Dera Gujran in fixed sequence (Wikipedia + PMA official page). Coordinates are WGS-84 from Wikidata/OSM (all 26 stations resolved via Wikidata SPARQL; Overpass API endpoints were returning 500/timeout at build time). route_type=1 (metro; driverless automated rapid transit, 27.1 km, 24 elevated + 2 underground Anarkali/GPO). Service window 06:15-22:00 (Wikipedia authoritative). Headway modeled 5 min peak (07:00-10:00, 17:00-20:00) and 10 min off-peak (published PMA/press figures for 2026; system design min headway is 2 min). End-to-end ~45 min (Wikipedia) modeled as ~94s run + 15s dwell per segment. Full generated feed has 262 trips (131/direction even-headway) and 6812 stop_times; emitted here as one representative 08:00 trip per direction with full ordered stop_times. Exact per-trip published timetable is not available, hence confidence 0.72 (station list, order, coords and service window are high-confidence; individual departure times are synthetic even-headway).",
+  "source": "llm-normalized"
+}

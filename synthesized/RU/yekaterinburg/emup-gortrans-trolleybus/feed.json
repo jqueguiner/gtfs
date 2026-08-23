@@ -1,0 +1,14 @@
+{
+  "operator": "EMUP Gortrans — Trolleybus (ЕМУП «Гортранс», троллейбус)",
+  "city": "Yekaterinburg",
+  "cc": "RU",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 224,
+    "routes": 14,
+    "trips": 27,
+    "stop_times": 567
+  },
+  "notes": "Network (routes 25-38, all current trolleybus lines) confirmed from ettu.ru official timetable route selector (track_head options) and route register. Ordered stops + WGS-84 coordinates come from OSM PTv2 trolleybus route relations (route=trolleybus, both directions; named platform members only, resolved via maps.mail.ru Overpass mirror since overpass-api.de/kumi were unreachable/500 in-sandbox). 14 routes, 224 physical stops (same-name stops at distinct locations kept separate), 27 representative trips (2 per route; route 30 is a single-relation loop so 1 trip). Route 39 exists in OSM but is NOT on the current ettu.ru selector, so it was excluded to match the official register. CAVEAT ON TIMES: the ettu.ru timetable table is rendered client-side/AJAX and its per-departure grid could not be extracted by a plain HTTP client (POST returns only the form; the /rasptm endpoint 404s). Therefore stop_times are SYNTHESIZED: one representative early trip per direction starting 05:30 with ~2.2 min inter-stop dwell (realistic urban trolleybus pacing), NOT the literal published departures. Service model per ettu.ru is будни/суббота/воскресенье (daily); a single 'daily' calendar is used. Stop names in Russian as tagged in OSM. Real operating span is roughly 05:30–00:00 with ~8-20 min headways — a production feed would expand each representative trip across that span via frequencies or explicit trips once the real departure grid is obtained.",
+  "source": "llm-normalized"
+}

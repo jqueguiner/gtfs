@@ -1,0 +1,14 @@
+{
+  "operator": "TrensRJ",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 100,
+    "routes": 8,
+    "trips": 32,
+    "stop_times": 193
+  },
+  "notes": "TrensRJ commuter rail (ex-SuperVia; took over operation 2026-05-30), Rio de Janeiro metropolitan network. Built from Wikipedia (Trens Urbanos do RJ), ex-SuperVia 'operacao por ramais' pages, and diariodorio station lists for ordered station lists per ramal; coordinates from Wikidata SPARQL (WGS-84). Coverage: 5 main ramais (Deodoro, Santa Cruz, Japeri, Belford Roxo, Saracuruna) all radiating from Central do Brasil, plus 3 extensions (Paracambi off Japeri; Vila Inhomirim and Guapimirim off Saracuruna) = 8 routes, 100 unique stops (shared trunk stations deduplicated), route_type=2 (rail). Each route has one representative trip per direction (outbound + inbound) per service (weekday WD + weekend WE) = 32 trips, 492 stop_times. Direct/Overpass network access was blocked in-sandbox, so all coords came via Wikidata over WebFetch; ~40 mainline stations have exact Wikidata coords, ~20 branch/Baixada stations (Nilopolis, Mesquita, Presidente Juscelino, Austin, Coelho da Rocha, Tomas Coelho, Jardim Primavera, Lages, and the Vila Inhomirim + inner Guapimirim branch stops) use interpolated approximate coords along the alignment (still WGS-84, correct region, +/- a few hundred m). No station has null coords. CONFIDENCE 0.55: station lists and ordering are faithful (real, sourced); coordinates are exact for main trunk but approximate for ~20 branch stops; stop_times are SYNTHETIC (even ~3-min inter-station spacing on a representative departure), NOT the real published timetable — sources gave only sparse example times and headway ranges (4-28 min), not full per-station clock times or peak/off-peak per-line frequencies. Service window and headway structure not modeled per-line. To raise confidence, ingest SuperVia/TrensRJ per-station published timetables (the 'planeje sua viagem' journey planner / horarios PDFs) for real arrival/departure times and add peak/off-peak frequency-based trips.",
+  "source": "llm-normalized"
+}

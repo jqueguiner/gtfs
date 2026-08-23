@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Pioneira (STPC/DF Bacia 2)",
+  "city": "Brasília",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 69,
+    "routes": 4,
+    "trips": 10,
+    "stop_times": 133
+  },
+  "notes": "Source: SEMOB DF \"DF no Ponto\" per-line itinerary/schedule pages (dfnoponto.com), operator \"Viação Pioneira Bacia - 02\" (STPC/DF Bacia 2, Sudeste: Gama, Santa Maria, São Sebastião, Park Way, Jardim Botânico, etc.). Four representative routes were scraped with full ordered stop lists and published departure times: 3312 (Garagem Pioneira/Alagado/Terminal BRT Santa Maria, 37 stops, circular-ish Santa Maria), 147.2 (São Sebastião/W3 Sul via Ponte JK, 81 stops), 2205 (Terminal BRT Gama/W3 Sul, BRT trunk), 0.030 (W3 Norte-Sul/Aeroporto circular). This is a REPRESENTATIVE feed, not the operator's full ~200 lines. Coordinates: verified WGS-84 for major terminals (BRT Gama -15.99206,-48.04967; Terminal Asa Sul -15.83708,-47.93269; BRT Santa Maria ~QR119 Av. Alagados; São Sebastião terminal; W3 Sul/Pátio Brasil) from OSM/Wikidata. Many intermediate stops along known linear corridors (Av. Alagado in Santa Maria, W3 Sul grid) were interpolated between verified endpoints; stops that could not be reliably placed are left null (lat/lon omitted) per instructions rather than invented. Trips per direction: for 3312 and 147.2 real published departure times are used at the origin with cumulative offsets across the ~90 min route duration; return direction uses a representative departure. 2205 and 0.030 use an even headway across published service hours (frequency-only data). Calendar: two services — weekday (Mon–Fri) and weekend (Sat+Sun), reflecting DF no Ponto's separate weekday/Saturday/Sunday tables. Times exceeding 24:00 (post-midnight) were kept in 00:xx form as published. Confidence 0.55: stop ordering and schedules are faithful to the published source for the 4 routes, but the feed covers only a small slice of the operator and a majority of intermediate-stop coordinates are interpolated/approximate rather than surveyed.",
+  "source": "llm-normalized"
+}

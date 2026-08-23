@@ -1,0 +1,14 @@
+{
+  "operator": "Rawalpindi–Islamabad Metrobus — Red & Orange Lines (BRT)",
+  "city": "Islamabad",
+  "cc": "PK",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 32,
+    "routes": 2,
+    "trips": 12,
+    "stop_times": 198
+  },
+  "notes": "Rawalpindi–Islamabad Metrobus BRT, two operational lines. RED LINE (opened 4 Jun 2015): 24 stations Pak Secretariat (Islamabad) <-> Saddar (Rawalpindi), 22.5 km along Kashmir Hwy / Murree Rd corridor. ORANGE LINE (opened 18 Apr 2022): 9 stations Faiz Ahmed Faiz <-> Islamabad International Airport, 25.6 km along Srinagar/Kashmir Hwy west then Motorway M-1. Faiz Ahmed Faiz is the Red<->Orange interchange (shared stop id r11 = o1). Both lines run 06:15-22:00 daily. Red headway ~3-6 min peak (modeled ~6 min); Orange ~10 min (airport segment runs 24h at 60 min but not modeled here). route_type=3 (BRT operates as bus). Station ORDER from Wikipedia + INCPak + propakistani + CDA transit map, cross-checked. COORDINATES are WGS-84 approximations placed along the known corridor from OSM/Wikidata mapped BRT station nodes and the CDA transit map; most main stations (termini, Faizabad, Faiz Ahmed Faiz, PIMS, NUST, Golra, airport) are well anchored, intermediate Blue-Area/Murree-Rd stations are interpolated along the corridor and may be +/-200-400m. Schedule modeled: 3 representative trips per direction per line (morning/midday/evening) with even-headway realistic clock times and cumulative run times (Red ~50 min end-to-end, Orange ~45 min). Sources: en.wikipedia.org Rawalpindi-Islamabad_Metrobus; incpak.com; cda.gov.pk transit map PDF; metro-status.com; propakistani.pk. INCPak/propakistani returned HTTP 403 to WebFetch; recovered via WebSearch. Confidence 0.62: station lists and hours are solid; exact per-stop clock times and some intermediate coordinates are modeled/interpolated, not from a published timetable (only frequency is published).",
+  "source": "llm-normalized"
+}

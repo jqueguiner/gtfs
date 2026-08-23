@@ -1,0 +1,14 @@
+{
+  "operator": "AO SZPPK (North-Western Suburban Passenger Company / Северо-Западная пригородная пассажирская компания)",
+  "city": "Saint Petersburg",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 41,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 82
+  },
+  "notes": "SZPPK (СЗППК) is the RZD/October Railway suburban passenger operator for St. Petersburg and NW Russia. Built 4 representative radial suburban-rail (elektrichka) directions from the 4 St. Petersburg terminals: Finlyandsky->Vyborg (northern/Karelian isthmus), Baltiysky->Oranienbaum (SW coastal), Vitebsky->Pavlovsk (Tsarskoye Selo/Pushkin), Moskovsky->Tosno (SE main line). Station lists and ordering cross-checked against Wikipedia suburban-line articles, ppk-piter.ru direction descriptions and Yandex/2GIS route stop lists; coordinates are WGS-84 from Wikidata/OSM (terminals and major stations verified: Ligovo 59.82333/30.17889, Strelna 59.84734/30.03246, Novy Peterhof 59.86420/29.92530, Oranienbaum I 59.91761/29.77079). CONFIDENCE 0.55: station identities/order/coords are solid, but exact per-trip departure times could not be scraped live -- ppk-piter route-scheme pages did not expose tables, tutu.ru/Yandex returned CAPTCHA/blocked. stop_times use realistic elektrichka timings (2-4 min inter-station spacing, ~55-70 min end-to-end) and ONE representative morning trip per direction each way, NOT the full published timetable. A production feed would need the full numbered-service timetables (services like 6301/6601 etc.) and every minor platform. Northern line collapsed to major/junction stations (many small halts between Zelenogorsk and Vyborg omitted rather than invented). Daily service (elektrichki run 7 days/week). agency_timezone Europe/Moscow (MSK, UTC+3) applies to St. Petersburg.",
+  "source": "llm-normalized"
+}

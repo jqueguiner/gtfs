@@ -1,0 +1,14 @@
+{
+  "operator": "Burulaş - Burtram (T1 / T2 / T3 tram + light rail)",
+  "city": "Bursa",
+  "cc": "TR",
+  "confidence": 0.7,
+  "counts": {
+    "stops": 36,
+    "routes": 3,
+    "trips": 5,
+    "stop_times": 56
+  },
+  "notes": "Bursa tram/light-rail network (Burulaş/Burtram): T1 modern tram (16-station city-centre loop, 6.5 km, opened 2013-10-12), T2 light rail (11 stations Kent Meydanı<->Terminal, 9.5 km, opened 2022-07-02), T3 heritage/nostalgic metre-gauge tram (9 stations Zafer Plaza<->Çınarönü, 2.5 km, opened 2011-05-28). SOURCES: en.wikipedia Trams_in_Bursa + tr.wikipedia T1/BurTram gave line list, ordered station lists and operating hours (07:00-23:00). COORDINATES: all WGS-84 from OpenStreetMap. T1 (16 stops) and T3 (9 stops) coordinates are exact OSM tram_stop node positions (T1 from route relation 11322581 + OSM /map bbox; T3 all 9 tram_stop nodes fetched from OSM /map of the historic core). T2 (11 stops): terminal endpoints (Kent Meydanı, Terminal/otogar) are exact OSM node/geocode; the 9 intermediate stops are INTERPOLATED evenly along the real OSM T2 track polyline (relation 14502329, 8.97 km stitched) because the T2 relation had no stop nodes mapped — positions are on the actual alignment but the exact platform spacing is approximate. Overpass API was unreachable/500 and Nominatim rate-limited (429) mid-build, so per-stop geocoding fell back to the OSM editing API /map + route-relation geometry. TIMES: schedule sources give only span+frequency (07:00-23:00, ~8-15 min headway T1/T2), not per-station timetables, so stop_times use even run-times interpolated across published end-to-end trip durations (T1 loop ~16 min, T2 ~22 min, T3 ~10 min) from a 07:00 representative departure. Headway not encoded as full-day frequency expansion — one representative trip per direction is provided (T1 is a one-way loop so single direction; T2 and T3 bidirectional). T3 heritage-tram weekend/seasonal operation may differ; modelled as daily. burulas.com.tr homepage had no machine-readable tram schedule; Moovit corroborated station lists/frequencies. Stop 'İncirli Hamamı' = Wikipedia 'İncirlik Pazarı' (same stop). route_type=0 (tram) for all three (T2 is officially light rail but street-running tram stock; kept as 0).",
+  "source": "llm-normalized"
+}

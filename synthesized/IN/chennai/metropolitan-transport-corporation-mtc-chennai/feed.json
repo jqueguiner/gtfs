@@ -1,0 +1,14 @@
+{
+  "operator": "Metropolitan Transport Corporation (MTC Chennai)",
+  "city": "Chennai",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 132,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 276
+  },
+  "notes": "Operator requested is MTC Chennai, which operates city BUSES only (route_type 3). Chennai Metro (Blue/Green lines) is run by a DIFFERENT operator, CMRL/Chennai Metro Rail Ltd, so it is intentionally NOT included here; the metro-first heuristic doesn't apply to a bus operator's feed. 5 representative MTC routes were built with FULLY ORDERED stop sequences scraped from chennaicitybus.in per-route pages (21G Broadway-Tambaram 42 stops; 51 Velachery Vijayanagar-Tambaram West 24; 15B CMBT-Broadway 20; 23C Ayanavaram-Besant Nagar 39; route 1 Thiruvottriyur-Thiruvanmiyur, 13 major corridor landmarks only, partial). Each route has one representative trip per direction (10 trips, 276 stop_times). First-bus departure times are the real published start times from the source; INTER-STOP times are synthesized at a flat 2 min/stop from that start (chennaicitybus.in publishes per-stop timings but they were not machine-extracted for every stop), so absolute clock times downstream of the first stop are approximate. Headways (7/12/10/8/10 min) are the published frequencies but only one trip/direction was materialized, not the full daily frequency expansion. Coordinates are WGS-84 locality/landmark centroids for Chennai (matched to OSM/known positions, all within the Chennai bbox 12.8-13.3N, 80.0-80.4E); they are stop-area approximations, not surveyed pole positions. Referential integrity verified: 0 orphan stop_times, 0 orphan trips, 0 stops missing coordinates. Confidence 0.55 reflects: stop lists and ordering are real and well-evidenced, but per-stop clock times and full-day frequency are modeled, and route 1's stop list is a partial corridor subset. Source files: /home/ubuntu/adresses/gtfs_mtc/build.py and /home/ubuntu/adresses/gtfs_mtc/feed.json.",
+  "source": "llm-normalized"
+}

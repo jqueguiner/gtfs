@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "МКП «Горэлектротранспорт» (GorElektroTransport / GET)",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Novosibirsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/novosibirsk/gorelektrotransport-get/gtfs/",
+    "mdb_id": "ru-llm-gorelektrotransport-get",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

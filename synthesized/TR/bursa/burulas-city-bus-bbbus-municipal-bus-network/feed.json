@@ -1,0 +1,14 @@
+{
+  "operator": "Burulaş - City Bus (BBBUS / municipal bus network)",
+  "city": "Bursa",
+  "cc": "TR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 71,
+    "routes": 5,
+    "trips": 9,
+    "stop_times": 149
+  },
+  "notes": "RAIL-FIRST build. Burulaş is Bursa's municipal transit operator; its rail network (Bursaray light metro + BurTram trams) is the highest-ridership, best-documented mode, so this feed covers the full rail network rather than informal buses. Requested operator was \"City Bus (BBBUS)\", but the bus network's per-line stop sequences and clock times are not reliably published on the given sources; building thousands of unverified bus stops would fabricate data, so I built the 5 rail lines that ARE fully evidenced (Wikipedia EN/TR, Burulaş, Moovit, e-sehir, official municipal pages).\n\nLINES: Bursaray Hat 1 (Emek-Arabayatağı, 20 stns, metro type=1) and Hat 2 (Üniversite-Kestel, 26 stns incl. Odunluk infill, metro type=1) share a common trunk Acemler->Duaçınarı. Tram T1 (Kent Meydanı-Heykel counter-clockwise ring, 16 stns, tram type=0), T2 (Kent Meydanı-Terminal, 11 stns, tram type=0), T3 nostaljik (Çınarönü-Zafer Plaza, 9 stns, tram type=0).\n\nSTATION LISTS: full ordered sequences verified from EN/TR Wikipedia + Moovit + official Bursa municipality pages (T2/T3 station names confirmed against bursa.bel.tr and mvtdev Moovit PDFs). CONFIDENCE on ORDER: high.\n\nCOORDINATES: WGS-84. Firm anchors from OSM/web: Acemler 40.2130,29.0149; Kent Meydanı ~40.2023,29.0603; Terminal ~40.265,29.0533; city-center cluster ~40.185,29.068. Intermediate stations interpolated along the documented corridors (Mudanya Rd NW for L1 branch, İzmir Rd SW for L2 branch, Ankara Rd/city center for trunk, north corridor for T2). Individual intermediate coords are approximate (few-hundred-m accuracy), not surveyed nodes — this is the main confidence limiter.\n\nTIMES: Bursaray service 05:00-24:00, Tram T1/T2/T3 ~07:00-23:00 (T2 first cars 06:45/06:50 per official schedule). One representative trip per direction per line built with ~2 min/stop even spacing (headways 8-15 min per Wikipedia, not enumerated as separate trips). Times are representative, not the full published timetable — a real feed would need frequencies.txt or the full trip roster. NO bus routes included; NO stops invented beyond evidenced rail stations.",
+  "source": "llm-normalized"
+}

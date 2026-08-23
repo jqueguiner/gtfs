@@ -1,0 +1,14 @@
+{
+  "operator": "Metro Jabar Trans (MJT / BRT Bandung Raya)",
+  "city": "Bandung",
+  "cc": "ID",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 223,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 450
+  },
+  "notes": "Built from OpenStreetMap (network=Metro Jabar Trans, operator=DAMRI): all 8 route_masters present (K1-K6 main corridors + FD1/FD2 feeders), each with directional route relations of mapped stop_position + platform nodes carrying names and WGS-84 coordinates. Stop names/order/coords come 100% from OSM member order (one direction extracted per corridor, reverse synthesized for the opposite direction). Operating hours and headways come from Wikipedia (en.wikipedia.org/wiki/Metro_Jabar_Trans) and transportforbandung.org: K1 04:40-20:30 ~18min, K2 04:30-20:00 ~12min, K3 04:30-20:00 ~12min, K4 04:30-20:30 ~12min, K5 04:30-20:40 ~9min, K6 06:00-13:00 ~30min, FD1 05:00-20:00 ~9min, FD2 05:00-20:00 ~8min. All routes route_type=3 (BRT/bus; no exclusive-ROW metro). CAVEATS lowering confidence: (1) OSM corridors are partially mapped — extracted stop counts are lower than Wikipedia's documented totals (e.g. OSM K2=28 vs Wiki 37, K3=29 vs 56, FD1=51 vs 103, FD2=63 vs 116); the real feeders have far more halte than OSM currently maps. (2) Stop_times use a synthetic even ~2min inter-stop travel from the published start/headway, NOT real per-stop timetables (MJT publishes frequencies, not clock timetables). (3) Only 3 representative departures per direction are emitted (first / midday / last) rather than the full frequency expansion; a production feed would expand every headway across the service window. (4) K1 OSM sequence mixed Soreang-end and Leuwipanjang-end stops; direction labeling follows OSM 'from/to'. Live tracking exists at mjt.trans.my.id/pis/web (not machine-scrapable here). Calendar = daily (BTS service runs 7 days/wk). Coordinates are OSM WGS-84, all within Bandung metro bounding box.",
+  "source": "llm-normalized"
+}

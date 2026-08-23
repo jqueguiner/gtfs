@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMUP Gortrans — Municipal Bus branch (Филиал ЕМУП «Гортранс» Автобусные перевозки, ex-МОАП)",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Yekaterinburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/yekaterinburg/emup-gortrans-municipal-bus-branch-ex/gtfs/",
+    "mdb_id": "ru-llm-emup-gortrans-municipal-bus-branch-ex",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

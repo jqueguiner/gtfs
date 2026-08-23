@@ -1,0 +1,14 @@
+{
+  "operator": "Moskovsky Metropoliten (Moscow Metro, incl. MCC / Line 14)",
+  "city": "Moscow",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 116,
+    "routes": 5,
+    "trips": 8,
+    "stop_times": 192
+  },
+  "notes": "Covers 5 of the highest-ridership, best-documented Moscow Metro lines: Line 1 Sokolnicheskaya (27 stn), Line 2 Zamoskvoretskaya (24), Line 3 Arbatsko-Pokrovskaya (23), Line 5 Koltsevaya/Circle (11, loop), and Line 14 Moscow Central Circle/MCC (31, loop, route_type=2 rail). Station lists and order are from Wikipedia/Wikidata; coordinates are WGS84 from Wikipedia/Wikidata/OSM. The data.mos.ru 'Entrances to vestibules' dataset page is a JS-heavy portal that timed out on fetch, so entrance-level coords and per-station first/last-train times could not be extracted; station-centroid WGS84 coords were used instead (a handful of intermediate Line 3 stations e.g. Volokolamskaya, Myakinino, Troitse-Lykovo, Molodyozhnaya are approximated from adjacent stations / map position). Confidence is limited by SCHEDULE fidelity, not geometry: the network geometry/station order/coords are solid, but stop_times are SYNTHETIC. GTFS has no native concept of frequency-only metro service without frequencies.txt, so each route has one representative trip per direction (circle lines: one loop) starting at the 05:25 opening, with a uniform ~2.5 min interstation travel + 30s dwell. Real service is 05:25-01:00 daily with 80-90s peak / 2.5-10 min off-peak headways (MCC: first ~05:45, ~4 min peak / 8 min off-peak). To make this production-grade, add frequencies.txt per period and replace synthetic times with published timetables. calendar is DAILY (metro runs 7 days/week). Stops are namespaced per line (L{line}_{name}) so interchange stations appear once per line rather than merged. Sources: en.wikipedia.org/wiki/Moscow_Metro, /wiki/List_of_Moscow_Metro_stations, /wiki/Moscow_Central_Circle, /wiki/Koltsevaya_line, /wiki/Arbatsko-Pokrovskaya_line, plus per-station Wikipedia/Wikidata for coords. NOTE: Koltsevaya line has exactly 11 stations excluding an erroneous 'Dostoevskaya' returned by one fetch (Dostoevskaya is on Line 10, not the Circle).",
+  "source": "llm-normalized"
+}

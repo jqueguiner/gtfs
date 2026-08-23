@@ -1,0 +1,14 @@
+{
+  "operator": "KPUM (Koperasi Pengangkutan Umum Medan)",
+  "city": "Medan",
+  "cc": "ID",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 22,
+    "routes": 14,
+    "trips": 28,
+    "stop_times": 108
+  },
+  "notes": "KPUM is Medan's largest informal angkot (yellow minibus) operator. Routes and ordered street/landmark itineraries were extracted from three corroborating Indonesian sources (Waspada Online via WebSearch since the page 403s, KIBUS.net, and an Info Angkutan Dishub Medan listing that matched the Scribd document). The two primary requested URLs (Waspada, KIBUS direct) and the Scribd/Tribun pages returned 403/406/ECONNREFUSED to WebFetch, so route data came from search snippets of the same content plus the accessible Dishub blog which enumerated ~45 KPUM trayek verbatim.\n\nMODELING DECISIONS: Angkots are hail-anywhere with NO formal stops, so per instructions I built stop NODES only from evidenced major termini/landmarks along each published itinerary, geocoded to real WGS-84 coordinates via OSM Nominatim and Wikipedia (Teladan Stadium, Istana Maimun, Port of Belawan, Sun Plaza, Lapangan Merdeka from Wikipedia; terminals, suburbs, and named streets from OSM). Intermediate on-street pickup points are NOT modeled (no evidence for exact locations). No published timetable exists; angkots run on frequency, so stop_times use one representative trip per direction with an even ~4-min inter-landmark spacing starting 06:00/06:30 within the typical ~05:30-21:00 daily operating window (calendar = every day).\n\nCAVEATS lowering confidence: (1) only 14 of ~45 KPUM routes are included — those whose full ordered landmark chain could be geocoded with confidence; (2) a handful of waypoint names could not be pinned (Pancing/Jl. Willem Iskandar near UNIMED, Karya Jasa, Tj. Selamat, Simpang Limun, Pancur Batu, Sambo) and were either substituted with a nearby corroborated landmark on the same corridor or omitted from that route's chain; (3) 'Pringgan' and 'Kelambir V/Pancing' Nominatim hits were disambiguated manually (Pasar Pringgan in Medan Baru, not the Marelan road; Kampung Lalang market for the Kelambir V corridor); (4) UMA coordinate is an approximate OSM location on the Amplas corridor. Route_type=3 (bus) for all. A97 is the red medium-bus KPUM line.\n\nSources: waspada.co.id daftar-trayek-angkot; kibus.net/2023/07/daftar-trayek-angkot-kota-medan; infoangkutandishub.blogspot.com (mirrors the Scribd KOTA MEDAN trayek list); OSM Nominatim; Wikipedia (Teladan Stadium, Maimun Palace, Port of Belawan).",
+  "source": "llm-normalized"
+}

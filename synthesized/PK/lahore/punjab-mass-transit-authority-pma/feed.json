@@ -1,0 +1,14 @@
+{
+  "operator": "Punjab Mass Transit Authority (PMA)",
+  "city": "Lahore",
+  "cc": "PK",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 53,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 106
+  },
+  "notes": "Scope: The prompt's METRO/RAIL-FIRST directive was applied. Built the two highest-ridership, best-documented, WGS-84-accurate lines operated by PMA: (1) Orange Line Metro (route_type=1, 26 stations, Ali Town–Dera Gujran, 27.1km, driverless) and (2) Lahore Metrobus / Green Line BRT (route_type=3, 27 stations, Shahdara–Gajjumata, Ferozepur/Multan Rd corridor). Both directions per line = 4 representative trips.\n\nCoordinates: All 53 stop coords come from live OpenStreetMap route relations (WGS-84, correct): Orange Line rel 11803500 (ordered stop members) and Metrobus rel 19984670 (27 station nodes, re-sorted N→S by latitude to restore corridor order — the OSM member list had Chungi Amar Sidhu out of sequence). Two OSM station names were in Urdu script and were transliterated to English (e.g., گجو متہ→Gajjumata). OSM node #8 on Orange Line is named \"Shahnoor\" in OSM; some tourist sources call this stop area Sabzazar/Khatam-e-Nabuwat — kept the OSM authoritative name.\n\nService model: Orange Line hours 06:15–22:00, ~2-min headway (Wikipedia); Metrobus 06:00–22:00, <2-min peak headway (Wikipedia). Representative trips use an even ~2-min inter-station clock from first departure; a true frequencies.txt/full timetable is not published, so stop_times are one indicative trip per direction (times are illustrative, station order + coords are real). calendar = daily service (both run 7 days/week), Jan–Dec 2026.\n\nNOT included (honest confidence reduction): the 34 informal \"Speedo\" feeder bus routes (RT-03…RT-28, LFR01, FRT16, etc.). icons.com.pk and safar.fyi provide only route endpoints + stop counts + operating windows (no geocoded ordered intermediate stops); the PMA node pages (466/520/524/551/553) timed out on fetch and Nominatim/most Overpass mirrors were blocked/erroring from this host. I did not fabricate feeder-bus stops or coordinates. The metro+BRT backbone is fully evidenced and geospatially accurate; feeder buses are absent, hence confidence 0.62.\n\nSources used: en.wikipedia.org/wiki/Orange_Line_(Lahore_Metro), en.wikipedia.org/wiki/Lahore_Metrobus (station lists + hours/headways); OpenStreetMap route relations 11803500 & 19984670 via Overpass (all coordinates). icons.com.pk / safar.fyi / pma.punjab.gov.pk consulted for feeder-route context.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Pune Suburban Railway (Central Railway, Indian Railways)",
+  "city": "Pune",
+  "cc": "IN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 18,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 102
+  },
+  "notes": "Pune Suburban Railway (Central Railway EMU locals), Pune Jn <-> Lonavala, 63.7 km, 18 stations. Station order and names from Wikipedia (Pune_Suburban_Railway) and confirmed against timetable sources. Coordinates are WGS-84 from Wikipedia/Wikidata station infoboxes (DataMeet railways dataset). Route modeled as one rail route (route_type=2) with 6 representative trips: 4 DOWN (Pune->Lonavala: 99804/99808/99810/99820) and 2 UP (Lonavala->Pune: 99801/99825). Pune-side departure times (99802 00:15, 99804 04:45, 99806 05:45, 99808 06:30, 99810 08:10, 99812 09:57, 99814 11:17, 99816 12:05, 99818/99820 15:00, ...) and Lonavala arrivals verified across metrotraintimings.in, nexttrain.in and punelocaltime.com; the 06:40 Pune arrival for UP train 99801 and per-station tail (Dapodi 06:18, Khadki 06:22, Shivajinagar 06:27) confirmed via railyatri/indiarailinfo. ~17 trains/day run Pune Jn-Lonavala plus 4 short Shivajinagar-Talegaon; only a representative subset is encoded here. Intermediate per-station times are interpolated from station spacing/distance and typical 1-min EMU halts (total run ~80-95 min) because full per-station timetables were not machine-readable (indiarailinfo returned HTTP 403); endpoint times and station sequence are evidence-based. Service runs all 7 days. calendar window is the current year.",
+  "source": "llm-normalized"
+}

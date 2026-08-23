@@ -1,0 +1,14 @@
+{
+  "operator": "EGO Genel Müdürlüğü",
+  "city": "Ankara",
+  "cc": "TR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 54,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 118
+  },
+  "notes": "Scope: Ankara rail network (EGO-operated metro M1/M2/M3/M4 + Ankaray A1 light rail) — the highest-ridership, best-documented mode, built first per METRO/RAIL FIRST guidance. The city-bus portion of EGO could NOT be built: the primary schedule source https://www.ego.gov.tr/hareketsaatleri returned HTTP 403 to the fetcher, the e-sehir source was unreachable, and OSM Overpass was network-blocked from this sandbox — so the ~10,098 bus stops (Moovit) are NOT included rather than being fabricated. No bus stop/route was invented.\n\nDATA PROVENANCE (all WGS-84, correct for GTFS):\n- Station lists & ordering: English Wikipedia \"Ankara Metro\" (M1 Kızılay–Batıkent 12 stops; M2 Kızılay–Koru 12; M3 Batıkent–OSB-Törekent 12; M4 Kızılay–Şehitler/Keçiören 12; Ankaray A1 AŞTİ–Dikimevi 11). Note M1/M2/M3 physically through-run as one service but are modeled as 3 separate published lines (route_type=1). Ankaray modeled as light rail (route_type=0).\n- Coordinates: Wikidata SPARQL (query.wikidata.org) + English Wikipedia station infoboxes. A few (İvedik, Yenimahalle, Bahçelievler-Ankaray) are DMS-derived from Wikipedia/Wikidata rather than exact-decimal from SPARQL — accurate to ~a few hundred m at worst.\n- Service hours & headways: EGO 2024-2025/2025-2026 winter service program (m.ego.gov.tr PDFs, via search): first train 06:00 all lines; last departure from Kızılay ~00:00–01:10; Ankaray peak ~4.2–5 min, off-peak 6–10 min; M4 peak 9 min, midday 11, early/late 15 min. Modeled headways: M1=5, M2=8, M3=8, M4=9, A1=5 min (representative peak-ish constant headway across the full 06:00→last span).\n\nWHY confidence 0.55: station lists, ordering, coordinates and operating hours are faithful to the real network (high confidence). BUT (a) the whole informal-bus network the operator name implies is absent; (b) stop_times use a synthetic even headway + uniform 2-min interstation hop + 30s dwell rather than the real per-time-band headway tables and real running times; (c) one calendar (DAILY) is used — weekend hours actually start 06:00 too but late-night spans differ slightly; (d) a couple of coordinates are DMS-rounded. The rail feed alone would rate ~0.8; the missing bus mode pulls the operator-level faithfulness down.\n\nFull GTFS .txt files written to /home/ubuntu/adresses/gtfs_ego_ankara/ (agency.txt, stops.txt=54 stops, routes.txt=5, trips.txt=1688 even-headway trips, stop_times.txt=19802 rows, calendar.txt). Validated: stop_times monotonic per trip, past-midnight service correctly encoded up to 25:xx. The trips/stop_times returned in this payload are the representative subset (1 trip per direction per route = 10 trips, 118 stop_times); the on-disk feed contains the full every-headway trip set.",
+  "source": "llm-normalized"
+}

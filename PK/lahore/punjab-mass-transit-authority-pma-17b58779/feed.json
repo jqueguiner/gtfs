@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Punjab Mass Transit Authority (PMA)",
+    "country": "PK",
+    "subdivision": null,
+    "city": "Lahore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PK/lahore/punjab-mass-transit-authority-pma/gtfs/",
+    "mdb_id": "pk-llm-punjab-mass-transit-authority-pma",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

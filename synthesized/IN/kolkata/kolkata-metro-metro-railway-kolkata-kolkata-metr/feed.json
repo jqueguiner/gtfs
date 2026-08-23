@@ -1,0 +1,14 @@
+{
+  "operator": "Kolkata Metro (Metro Railway Kolkata + Kolkata Metro Rail Corporation, KMRC)",
+  "city": "Kolkata",
+  "cc": "IN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 58,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 116
+  },
+  "notes": "GTFS for the 5 operational Kolkata Metro lines (as of Aug 2026), built from Wikipedia line articles + per-station Wikipedia/Wikidata coordinates (WGS-84). Operator = Metro Railway Kolkata (Blue/Purple/Orange/Yellow) and KMRCL (Green/East-West). Blue Line (metro, type 1): Dakshineswar-Kavi Subhash, 26 stations; Kavi Subhash was temporarily closed for Orange-Line integration works but is the canonical terminus/interchange so it is retained. Green Line (East-West): Howrah Maidan-Salt Lake Sector V, 12 stations. Purple Line: Joka-Majerhat, 7 stations. Orange Line: Kavi Subhash-Beleghata, 9 stations. Yellow Line: Noapara-Jai Hind (airport), 4 stations. All 58 operational stations covered.\n\nService modeling: one representative trip per direction per line, with even ~2-min inter-station travel and first trip at published first-train time. Because published sources give operating hours + headway (not full timetables), stop_times reflect a realistic single trip per direction, not the full daily set. route_type=1 (metro) for all lines (heavy-rail rapid transit).\n\nCalendar: Blue/Green/Yellow run daily (SUN kept, real Sun hours differ slightly - modeled same). Purple = Mon-Sat (no Sunday service as of source; Saturday added Nov 2025). Orange = weekdays only (no Sat/Sun). Headways: Blue ~10min, Green 6-12min, Purple ~21min, Orange 25min, Yellow ~18min.\n\nCoordinates all WGS-84 from Wikipedia infoboxes / Wikidata. Two Blue-Line stations (Gitanjali, Kavi Nazrul) had corrupted coords in the aggregate list and were corrected from individual station articles.\n\nConfidence 0.72: stations/order/coords are well-evidenced and accurate; operating hours and headways are published and faithful; but full per-trip timetables are not published so stop_times are representative single trips derived from headway/hours rather than the operator's exact trip sheet.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "АО «НГТ» + АО «НСК ТРАНС» + МКП «Горэлектротранспорт» + ~30 private carriers; Новосибирский метрополитен (metro)",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Novosibirsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/novosibirsk/30-private-carriers-metro/gtfs/",
+    "mdb_id": "ru-llm-30-private-carriers-metro",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Urbi Mobilidade (Viação HP-ITA) (STPC/DF Bacia 3)",
+  "city": "Brasília",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 16,
+    "routes": 3,
+    "trips": 12,
+    "stop_times": 81
+  },
+  "notes": "Source: SEMOB DF \"DF no Ponto\" line data as republished on inforbrasilia.com.br (line pages carry the SEMOB line number, official itinerary name, ordered itinerary and published clock times). DF no Ponto portal itself (dfnoponto.semob.df.gov.br) and urbimobilidade.com.br are client-side JS apps that returned no static schedule HTML to WebFetch, so per-line data was taken from the inforbrasilia mirror, which cites SEMOB/DFTRANS. Operator confirmed = URBI - MOBILID. URBANA - BACIA 03 (Viação HP-ITA), Bacia 3 = Núcleo Bandeirante, Samambaia, Recanto das Emas, Riacho Fundo I/II.\n\n3 representative lines built with real published departure times (clock times, not synthetic headways): 396.3 (Samambaia Sul/W3 via EPNB-ParkShopping), 0.853 (Samambaia Sul/Terminal Asa Norte via L2), 340.3 (Água Quente/Samambaia Sul via Estação Samambaia Metrô). Weekday+Saturday+Sunday times captured where published; a representative subset of trips (first, mid-day, late) is materialised per direction to keep feed size sane while staying faithful to schedule shape.\n\nMETRO/RAIL note: task asked to prioritise rail, but Urbi is a pure city-bus concessionaire (route_type=3). No metro/rail is operated by Urbi; Metrô-DF (Orange line) is a separate operator and is NOT included. Urbi feeder lines connect to Estação Samambaia / Samambaia Sul metro stations (used here as geocoded anchors).\n\nCOORDINATES (WGS-84, Wikipedia/OSM/Wikidata): Terminal Samambaia -15.873694,-48.084972; Samambaia Sul metro -15.869028,-48.071611; ParkShopping/EPNB -15.8336,-47.95539; Núcleo Bandeirante -15.87000,-47.96778; Rodoviária Plano Piloto -15.79389,-47.88278; Setor Terminal Norte (Asa Norte) ~-15.7868,-47.8889; Recanto das Emas centre -15.90806,-48.07306. Água Quente stop (-15.930,-48.095) is an APPROXIMATE placement of the Água Quente locality in SW Recanto das Emas - not an exact SEMOB stop pole (schema requires a numeric coordinate, so no exact verified point was available). Intermediate street-segment stops (AV2/ADE/QR/W3/L2/Esplanada) are landmark-anchored approximations, not exact stop poles.\n\nThe full SEMOB itineraries list dozens of street-segment \"stops\" (avenue/SQS/SQN names) that are not discrete geocodable bus-stop nodes; only endpoints, terminals, metro stations and named landmarks were kept and geocoded. Confidence 0.55: line numbers, names, itinerary ordering and clock times are faithful to SEMOB via a secondary mirror; stop coordinates are landmark-anchored (some approximate) rather than exact per-stop poles, and only 3 of Urbi's ~175 lines are represented.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BMTC (Bengaluru Metropolitan Transport Corporation) — city bus",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bmtc-bengaluru-metropolitan-transport-corporatio/gtfs/",
+    "mdb_id": "in-llm-bmtc-bengaluru-metropolitan-transport-co",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

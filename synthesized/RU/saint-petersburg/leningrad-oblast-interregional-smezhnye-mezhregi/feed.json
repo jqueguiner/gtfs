@@ -1,0 +1,14 @@
+{
+  "operator": "Leningrad Oblast interregional (smezhnye mezhregionalnye) carriers - Trans-Balt, Avtoaldis, ATP-31, Gatchinamarshrutavto, IP Krylov, et al.",
+  "city": "Saint Petersburg",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 30,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 60
+  },
+  "notes": "Feed built from the Leningrad Oblast interregional (smezhnye mezhregionalnye) route registry (transport.lenobl.ru reestr, at47.ru/Lenobltrans carrier pages) plus per-route schedule/stop aggregators (ingatchina.ru, transportspb.com, rasp.yandex.ru, moovitapp.com). The carrier at47.ru and transport.lenobl.ru pages use client-side JS search and do not expose route rosters in static HTML, so route numbers/endpoints came from the registry search snippets and the aggregator pages.\n\nTHREE interregional routes are modeled, all operated within this carrier group (predominantly OOO Trans-Balt / AO ATP-31 / Gatchina ATP):\n- 431: Gatchina (Varshavsky vokzal) - SPb m. Moskovskaya - ul. Kostyushko. FULL ordered stop list AND full departure timetable from both terminals (ingatchina.ru, 26 departures each way). Highest fidelity route.\n- 610: Tosno vokzal - SPb m. Kupchino / m. Zvyozdnaya (Tosnensky district). Full ordered stop list from moovit/transportspb; operating span 06:30-22:00 daily; ~30 min headway synthesized (frequency not published as an exact table). Operator OOO Trans-Balt.\n- 434: SPb m. Prospekt Prosveshcheniya - 41 km Vyborgskoye sh. (Sertolovo, Vsevolozhsky district). Endpoints + operating info known; only anchor stops (metro terminal, Sertolovo, 41 km) modeled with reliable coords; ~30 min even headway synthesized. Intermediate stops omitted rather than invented.\n\nCOORDINATES: metro terminals (Moskovskaya, Zvyozdnaya, Kupchino, Prospekt Prosveshcheniya, Devyatkino) and rail-station anchors (Gatchina Varshavsky, Tosno vokzal) are Wikipedia/Wikidata WGS-84 (high confidence). Intermediate corridor stops for 431/610 are geolocated from known landmark positions along the corridor where confident; a few minor intermediate stops have null coords (truly unknown precise position) rather than fabricated points.\n\nTIMES: 431 stop_times use the real first-departure clock times from the published table with realistic inter-stop running times distributed across the ~56 min / 38 km route. 610 and 434 representative trips use realistic running times anchored to the published operating span and typical headway. calendar = daily (these interregional routes run ежедневно year-round).\n\nconfidence 0.55: route 431 is faithful (real stops + real times); 610 stop order faithful but headway synthesized; 434 is anchor-only. Not all ~30+ carrier-group routes are included (only the 3 best-documented interregional ones), and some intermediate coordinates are approximate.",
+  "source": "llm-normalized"
+}

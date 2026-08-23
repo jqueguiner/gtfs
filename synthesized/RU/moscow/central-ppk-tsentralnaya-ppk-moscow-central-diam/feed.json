@@ -1,0 +1,14 @@
+{
+  "operator": "Central PPK (Tsentralnaya PPK) - Moscow Central Diameters MCD D1-D4",
+  "city": "Moscow",
+  "cc": "RU",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 135,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 292
+  },
+  "notes": "Moscow Central Diameters (MCD) D1-D4, operated by Central PPK (Tsentralnaya Prigorodnaya Passazhirskaya Kompaniya). Suburban rail (route_type=2). Station lists and ordering taken directly from the per-line English Wikipedia articles for D1/D2/D3/D4 (terminuses: D1 Lobnya-Odintsovo, D2 Nakhabino-Podolsk, D3 Zelenograd-Kryukovo-Ramenskoye, D4 Zheleznodorozhnaya-Aprelevka). 135 unique stops after deduplicating shared interchange stations across lines (e.g. Petrovsko-Razumovskaya, Rizhskaya, Dmitrovskaya, Maryina Roshcha, Serp i Molot, Kurskaya, Ploschad Tryokh Vokzalov, Belorusskaya, Savyolovskaya, Begovaya on multiple diameters). Coordinates are WGS-84 from OSM/Wikidata for Moscow-area rail stations; the well-known termini (Lobnya, Odintsovo, Dolgoprudnaya, Belorusskaya) were web-verified, the remaining station coordinates are placed from OSM/Wikidata knowledge of the corridors and are approximate (typically within a few hundred metres) rather than surveyed. Service window 05:30-01:00 with ~5-7 min peak / ~10-12 min off-peak headways is documented (matches Moscow Metro hours), but Central PPK does not publish a machine-readable GTFS/HTML timetable, so stop_times use one representative trip per direction per line starting 06:00 with an even ~3 min inter-station spacing rather than real published clock times. Calendar is daily (Mon-Sun) for 2026, matching the everyday MCD operation. Confidence 0.62 reflects: station names/order/route structure are solid; coordinates good-but-approximate for non-terminal stops; trip times are synthesized (headway-based), not scraped from an actual timetable.",
+  "source": "llm-normalized"
+}

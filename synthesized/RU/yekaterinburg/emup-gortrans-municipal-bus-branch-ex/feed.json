@@ -1,0 +1,14 @@
+{
+  "operator": "EMUP Gortrans — Municipal Bus branch (Филиал ЕМУП «Гортранс» Автобусные перевозки, ex-МОАП)",
+  "city": "Yekaterinburg",
+  "cc": "RU",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 62,
+    "routes": 28,
+    "trips": 8,
+    "stop_times": 152
+  },
+  "notes": "Operator is the municipal BUS branch of EMUP \"Gortrans\" (ex-МОАП), Yekaterinburg. Route register (28 bus routes with terminals) from ekarta-ek.ru register; ordered stop lists + operating hours for bus 57 and bus 66 and bus 019/52 from public route pages (2gis/wikiroutes/kudikina/malyegorodarossii). Per metro-first directive I also included Yekaterinburg Metro Line 1 (9 stations, WGS-84 coords from Wikipedia) even though metro is operated by the tram/metro branch, not this bus branch — flagged as such. \n\nCONFIDENCE 0.45: The route register and terminals are well-evidenced, and 3 bus routes + the metro line have real ordered stops from sources. Stop coordinates: metro = exact Wikipedia WGS-84; major bus interchange nodes (Avtovokzal/Yuzhny, pl.1905 goda, ZhD Vokzal, Botanicheskaya, Koltsovo airport/station) geocoded to known coordinates; many intermediate bus stops have stop_lat/stop_lon = null (truly unknown to the required precision — not invented). Stop_times use even headways across published service hours (bus 57: 07:05–21:27; bus 66: ~06:00–23:00; metro: 06:00–24:00) because full timetables are not published stop-by-stop. The 25 remaining register routes are NOT expanded into trips (no evidenced stop lists) to avoid inventing stops. Dec 2023 renumbering: old 019->52, 057a->67 etc; register uses new numbers. route_type: metro=1, bus=3.",
+  "source": "llm-normalized"
+}

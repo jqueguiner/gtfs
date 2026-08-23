@@ -1,0 +1,14 @@
+{
+  "operator": "Lahore Metrobus (BRT / Red-Green corridor) — Punjab Mass Transit Authority (PMA)",
+  "city": "Lahore",
+  "cc": "PK",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 27,
+    "routes": 1,
+    "trips": 14,
+    "stop_times": 378
+  },
+  "notes": "Lahore Metrobus BRT, single corridor (Shahdara <-> Gajjumata), 27.0 km, 27 stations in fixed sequence — station list confirmed identical across Wikipedia and PMA (pma.punjab.gov.pk). Route modeled as route_type=3 (BRT bus, dedicated corridor). Service hours 06:00-22:00 daily (Wikipedia); headway ~3 min peak (07:00-10:00, 16:00-20:00) and ~5-10 min off-peak per academic/press sources. COORDINATES: 8 stations have precise WGS-84 anchors from Wikipedia station infoboxes / documented sources (Shahdara, Niazi Chowk, Timber Market, Qaddafi Stadium, Kalma Chowk, Chungi Amar Sidhu, Youhanabad, Gajjumata); the other 19 are linearly interpolated along the corridor between those anchors using published inter-station distances — positioned within a few hundred meters along the Ravi Road / Ferozepur Road alignment, monotonic and plausible, but not surveyed exactly. Overpass/OSM API was blocked in this sandbox so exact per-station OSM node coords could not be pulled for the interpolated stations. SCHEDULE: source publishes frequency/headway, not a per-trip timetable, so stop_times are synthesized on an even headway across service hours with runtime proportional to inter-station distance (45 min end-to-end per Wikipedia). Representative subset emitted: 14 trips (7 per direction at 06:00/08:00/10:00/14:00/18:00/20:00/22:00) — a full-day feed at true headway would be ~500 trips/day. Confidence 0.62: station identity and ordering are strong; terminal + several intermediate coords exact; other coords and exact clock times are modeled.",
+  "source": "llm-normalized"
+}

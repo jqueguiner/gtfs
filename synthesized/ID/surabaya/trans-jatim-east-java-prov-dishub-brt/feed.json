@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Jatim (East Java Prov. Dishub BRT)",
+  "city": "Surabaya",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 215,
+    "routes": 7,
+    "trips": 70,
+    "stop_times": 162
+  },
+  "notes": "Trans Jatim is the East Java provincial BRT (operated by Dinas Perhubungan Prov. Jawa Timur), a Gerbangkertosusila-region interurban bus network hubbed on Surabaya (Terminal Purabaya/Bungurasih). Built all 7 corridors (K1-K7), both directions, from full named-halte sequences published by detik.com, IDN Times and Wikipedia. Stop sequences are strong/faithful (directly transcribed, incl. direction-specific stop naming like \"Semampir 1\"/\"Semampir 2\" on K5). CONFIDENCE 0.55 mainly because timetables are frequency-based not clock-based: service runs daily 05:00-21:00 WIB; K1 headway 9 min (peak)/13 min (off-peak); other corridors publish operating window + fare but not exact per-trip times. I therefore generated representative trips (5 per direction, every ~4h across the service window) with an even ~3 min/stop-hop cadence rather than real clock times, so departure times are synthetic. To fully populate an operational feed one would expand to true headway-based trips (or use frequencies.txt). Fares: Rp5,000 general / Rp2,500 students-santri, 2-hour transfer integration (not encoded, GTFS fares optional). COORDINATES: 54 of 215 unique stops geocoded to WGS-84 (all terminals + major named anchors: Purabaya, Porong, Bunder, Bangkalan, Kertajaya, Krian, Mojosari, Lamongan, Paciran, alun-aluns, stadiums, universities, Surabaya port/Kenjeran district stops). The remaining 161 minor halte (village \"Rambu/Shelter\", desa, pasar, school stops) are left null as instructed rather than invented — they are precise named shelters but lack published coords and were not individually geocoded. Terminal Porong uses district-level coords (~-7.5397,112.6857); a few Surabaya inner stops use approximate district centroids. Some corridor pairs are asymmetric in the sources (different stop counts per direction, e.g. K1 20 vs 19, K2 16 vs 16 with variant stops, K5 33 southbound vs 23 northbound) — preserved as published. Sources: detik d-8164098 (all 7 koridor), detik d-7940450, id.wikipedia Koridor 1, IDN Times Koridor V halte list, Traveloka (405, not fetched). route_type=3 (bus/BRT). No dedicated Wikidata/OSM feed exists for this operator.",
+  "source": "llm-normalized"
+}

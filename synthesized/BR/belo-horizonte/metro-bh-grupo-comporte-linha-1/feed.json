@@ -1,0 +1,14 @@
+{
+  "operator": "Metrô BH (Grupo Comporte) — Linha 1",
+  "city": "Belo Horizonte",
+  "cc": "BR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 21,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 42
+  },
+  "notes": "Linha 1 (Laranja) rail line, Novo Eldorado <-> Vilarinho. Station list and order from pt.wikipedia (21 operating stations) cross-checked with OSM route relation 6087653 and individual Wikipedia/Wikidata station articles. Coordinates are WGS-84 from English Wikipedia / Wikidata station articles (all verified). Exceptions: Santa Efigenia coords approximate (~19.9175,-43.9265, exact decimal not found - derived from Rua Conselheiro Rocha address; between Central and Santa Tereza); Nova Suica interpolated (~-19.9247,-43.9793) along the corridor between Gameleira and Calafate as its precise coord was not published. \"Central Supermercados BH\" in the Wikipedia list = the station Moovit/Wikipedia call \"Central\" (Praca Rui Barbosa). Service hours 05:15-23:00 daily (metrobh.com / Diario do Metro BH). Headways: weekdays 7.5 min peak (06:00-08:00 & 16:30-18:30), 15 min off-peak; Sat 7.5 min 06:00-08:00 then 15 min; Sun/holidays 15 min all day. route_type=1 (metro/subway). Two representative trips built (one per direction), stop_times spaced ~2.5-3 min for a ~55 min end-to-end run over the 29.8 km line at realistic clock times; not a full frequency-expanded timetable, so stop_times represent single trips per direction. Ongoing modernization works can temporarily change headways (18-28 min after 20:00) - not modeled. Calendar = single daily service covering all 7 days. Confidence 0.72: stops/order/coords and published hours/headways are solid; exact per-trip departure clock times and inter-station running times are modeled/estimated rather than from a published timetable, and 2 coords are approximate.",
+  "source": "llm-normalized"
+}

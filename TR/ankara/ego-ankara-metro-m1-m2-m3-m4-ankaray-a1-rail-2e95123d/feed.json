@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EGO — Ankara Metro (M1/M2/M3/M4) & Ankaray (A1) rail",
+    "country": "TR",
+    "subdivision": null,
+    "city": "Ankara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TR/ankara/ego-ankara-metro-m1-m2-m3-m4-ankaray-a1-rail/gtfs/",
+    "mdb_id": "tr-llm-ego-ankara-metro-m1-m2-m3-m4-ankaray-a1-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

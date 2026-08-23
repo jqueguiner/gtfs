@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mashhad Bus Organization — سازمان اتوبوسرانی شهرداری مشهد (city bus, suburban, minibus/van)",
+    "country": "IR",
+    "subdivision": null,
+    "city": "Mashhad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IR/mashhad/mashhad-bus-organization-city-bus-suburban-minib/gtfs/",
+    "mdb_id": "ir-llm-mashhad-bus-organization-city-bus-suburb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

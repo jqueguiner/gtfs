@@ -1,0 +1,14 @@
+{
+  "operator": "ÖHO — Özel Halk Otobüsleri (private public buses)",
+  "city": "Ankara",
+  "cc": "TR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 149,
+    "routes": 19,
+    "trips": 10,
+    "stop_times": 211
+  },
+  "notes": "Operator is the ÖHO (private public buses) subset regulated by EGO in Ankara; mode is 100% bus (route_type 3) so the metro/rail-first directive does not introduce rail lines here (ÖHO runs no rail). Route list (19 routes) scraped from e-sehir.com/turkiye-haritasi/ankara-oho-seferleri.php. Full ordered stop sequences + published operating hours were scraped for 5 representative routes from their e-sehir detail pages (internal hat numbers): 160=163-3 KONUTKENT-ÜMİTKÖY-KIZILAY, 199=202-3 YENİMAHALLE-KIZILAY, 439=442-3 HAVAALANI-AŞTİ-KIZILAY, 259=263-4 ETLİK-AŞAĞI EĞLENCE-BAKANLIK-BALGAT, 410=413-3 ALTINPARK-ÇANKAYA. These 5 are fully evidenced (stops + hours) and are the backbone of the feed. The remaining 14 ÖHO routes (111,142,182,200,217,218,260,294,314,336,408,418,424,479) have confirmed numbers + termini names but their intermediate stop lists were not scraped; they are included as route records only, with NO fabricated stops or trips (per the 'never invent stops' rule). Stop coordinates: major hubs (Kızılay, Sıhhiye, AŞTİ, Esenboğa Havalimanı, Ulus/Hacı Bayram, Balgat, Çankaya, Etlik, Cevizlidere/Öveçler) geocoded to WGS-84 from Wikipedia/Wikidata/known squares; remaining street-level stops placed at their mahalle (neighborhood) centroid as an approximation. stop_times use each route's published first/last departure with an even headway; one representative trip per direction. Loop routes (163-3, 202-3, 413-3, 263-4) are modelled as a single directional loop trip returning to origin plus a second offset departure; 442-3 (airport corridor) has an outbound + a reverse trip. Times are realistic clock times derived from published operating hours, not the actual per-run timetable, hence confidence 0.55. Calendar: two services — weekday+Saturday and Sunday — reflecting the site's distinct weekday/Saturday vs Sunday operating windows.",
+  "source": "llm-normalized"
+}

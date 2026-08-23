@@ -1,0 +1,14 @@
+{
+  "operator": "Jaipur City Transport Services Limited (JCTSL) - city bus / low-floor",
+  "city": "Jaipur",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 80,
+    "routes": 28,
+    "trips": 56,
+    "stop_times": 330
+  },
+  "notes": "METRO FIRST: Pink Line (route_type=1) is the operational JMRC metro line — its 11 stations, order and coordinates are exact from Wikipedia station pages (WGS-84); both directions built with a representative first-train at 06:20 (service 06:20-21:30, headway 10 min peak / 15 min off-peak per JMRC). NOTE: Pink Line is operated by JMRC, not JCTSL, but included as the highest-ridership/best-documented Jaipur mode per instructions.\n\nBUSES: 27 JCTSL city-bus routes (incl. AC and RBP-2 circular) from jaipurinsider.com/bus-routes, which gives origin, destination, distance, stop count, fare band and the key ordered 'Via' landmarks per route. Only the EVIDENCED origin→via→destination landmark stops are encoded (3-7 stops per route), NOT the full 18-48 intermediate stop lists — the official Rajasthan transport-dept JCTSL Routes PDF (source #1/#2) is a FlateDecode-compressed binary that WebFetch could not extract, so the fine-grained ordered stop sequences per route are not available. Bus stop coordinates are geocoded to known Jaipur landmark positions (OSM/Nominatim-level WGS-84); most are neighborhood-centroid accurate (±few hundred m), a few outlying towns (Chomu, Chaksu, Renwal, Bagru) approximate.\n\nService window 05:00-21:30 (jaipurinsider: 'buses run 5:00 AM to 9:30 PM'). Each bus route has one representative trip per direction departing 05:00 with an even 6-min inter-landmark spacing (frequency-only source, no per-trip timetable). Calendar = daily, all 7 days, 2026 full year. Stop counts and headsigns preserved from source. Confidence 0.55: route topology + termini + metro are faithful; per-route full stop lists and exact timetables are not (PDF unreadable), hence honest mid-confidence.\n\nSources: jaipurinsider.com/bus-routes; en.wikipedia.org Jaipur Metro + Pink Line station pages; transport.rajasthan.gov.in JCTSL routes portal (PDF binary, unreadable).",
+  "source": "llm-normalized"
+}

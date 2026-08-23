@@ -1,0 +1,14 @@
+{
+  "operator": "Metrorrey (Metro - Sistema de Transporte Colectivo Metrorrey)",
+  "city": "Monterrey",
+  "cc": "MX",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 38,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 82
+  },
+  "notes": "3 operating metro lines (L1 Talleres-Exposicion 19 stops; L2 Sendero-Zaragoza 13 stops; L3 Hospital Metropolitano-Santa Lucia 8 own stops + through-service to Zaragoza). Station lists and ordering from EN/ES Wikipedia (List of Metrorrey stations, Linea 3 del Metrorrey). Coordinates: Line 1 & Line 2 all from Wikipedia WGS-84; shared stations Cuauhtemoc (L1/L2), Felix U. Gomez (L1/L3), General I. Zaragoza (L2/L3) deduplicated. Line 3 terminus coords are exact (Hospital Metropolitano 25.71389,-100.27361 from ES Wikipedia; Santa Lucia ~25.6725,-100.3075 from Plus Code MPC2+HH; Felix U. Gomez transfer exact); the 4 intermediate L3 stations (Los Angeles, Ruiz Cortines, Colonia Moderna, Metalurgicos, Colonia Obrera) are interpolated along the elevated Av. Felix U. Gomez / Av. Adolfo Lopez Mateos alignment between known anchors -- accurate to within a few hundred meters, not surveyed. Service hours from metrorrey.mx + Wikipedia: first train 05:00, last ~23:30, network open until 00:00, daily incl weekends. Frequency: L3 stated 'cada 4 minutos' (peak 11 trains / off-peak 8); L1/L2 ~4-6 min not precisely published. Modeled as even 6-minute headway across 05:00-23:30, both directions, giving realistic clock times. Datos Abiertos NL 'Paradas Oficiales STC Metrorrey' dataset referenced but station geometry taken from Wikipedia/Wikidata WGS-84 as instructed (metro-first). Full feed on disk at /home/ubuntu/adresses/gtfs_metrorrey/ has 1116 trips and 15252 stop_times; the trips/stop_times below are one representative trip per line per direction (the on-disk feed contains the full even-headway set). Lines 4/6 under test/construction excluded (not yet operating). route_color included in CSV (L1 yellow, L2 green, L3 red).",
+  "source": "llm-normalized"
+}

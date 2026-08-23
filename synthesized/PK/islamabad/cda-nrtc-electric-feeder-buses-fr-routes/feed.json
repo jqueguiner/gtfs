@@ -1,0 +1,14 @@
+{
+  "operator": "CDA / NRTC Electric Feeder Buses (FR routes)",
+  "city": "Islamabad",
+  "cc": "PK",
+  "confidence": 0.82,
+  "counts": {
+    "stops": 273,
+    "routes": 17,
+    "trips": 34,
+    "stop_times": 589
+  },
+  "notes": "Built from the Capital Development Authority's own machine-readable route timetables at cda.gov.pk/Assets/metro_transit_route/{FR-xx}_{Forward|Backward}.pdf (linked from the CDA Islamabad transit map, one of the requested PDF sources) — these are GTFS-style tables giving Route ID, short/long name, direction, average headway, and per-trip ordered stop lists with real published arrival/departure clock times. 17 feeder routes captured (FR-01, FR-03A, FR-04, FR-04A, FR-05, FR-06, FR-07, FR-08A, FR-08C, FR-09, FR-10, FR-11, FR-12, FR-13, FR-14, FR-14A, FR-15). All are electric feeder BUS routes (route_type=3) operated by NRTC under CDA; the parent Rawalpindi-Islamabad Metrobus (Red/Orange/Blue/Green BRT) is a separate operator (PMTA) and is intentionally NOT included here since the requested operator is the CDA/NRTC feeder network. FR-02/FR-03/FR-08/FR-08B route PDFs were not published (404) and are omitted rather than invented. For each route one representative trip per direction (the first departure) is emitted with the full ordered stop_times exactly as published (realistic non-even times reflecting real inter-stop run times); average headways per route range 5-60 min. Service modeled as DAILY 06:00-22:30 (published operating window). Coordinates: 124 of 273 stops geocoded to real OSM WGS-84 nodes (Overpass, Islamabad-Rawalpindi-Taxila-Wah bbox) or hand-verified anchors for the metro/BRT interchange hubs (PIMS, NUST, Faizabad, Chaman, Golra Morh, IJP, G-10/G-13/N5 metro stations, etc.); the remaining 149 minor named stops were linearly interpolated along their route corridor between geocoded anchors (all fall within the correct metro-area bbox, monotonic sequence order preserved). No stop was invented — every stop is evidenced in a CDA route table. Interpolated coordinates are approximate (corridor-accurate, typically within a few hundred m) which is the main reason confidence is 0.82 rather than higher; route lists, stop ordering, and times are high-fidelity to the official source. Nominatim was blocked in this environment; a mail.ru Overpass mirror supplied OSM coords.",
+  "source": "llm-normalized"
+}

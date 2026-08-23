@@ -1,0 +1,14 @@
+{
+  "operator": "Regio Ruta (municipal free circulator, Municipio de Monterrey)",
+  "city": "Monterrey",
+  "cc": "MX",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 166,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 59
+  },
+  "notes": "Route list, corridors, service hours (Mon-Sat 05:00-23:00, Sun/holidays 07:00-23:00) and frequency (15-20 min weekday, 25 min weekend) from monterrey.gob.mx/regio-ruta, Milenio and MVS Noticias. Route A: full 88-stop ordered loop from Milenio (verbatim stop names); lat/lon geocoded along the evidenced arterials (Centro grid, Rio Nazas, Av. Lazaro Cardenas, Garza Sada/Mederos, Carretera Nacional, Av. La Rioja) - WGS-84, approximate to street level. Routes B,C,D,E,F,G: evidenced named landmark stops only - the official per-route 'Puntos de ascenso y descenso' PDFs on storage.googleapis.com/mty-cms-media are geo-blocked ('service not available in your location') and the MVS stop-list pages return 403, so these routes carry their evidenced key stops rather than the full 62/64/34/60 point sequences. Coordinates from Monterrey landmarks and Metrorrey station positions (Wikipedia WGS-84). Regio Ruta is an all-bus circulator (route_type 3); Metrorrey metro and Ecovia BRT are separate operators and appear here only as Regio Ruta connection stops, so no rail line was added. stop_times use an even-headway representative trip per direction across published hours. No stops were invented beyond the evidenced named stops. Service start_date 20250908 reflects Route A launch; routes phased in Jul-Nov 2025.",
+  "source": "llm-normalized"
+}

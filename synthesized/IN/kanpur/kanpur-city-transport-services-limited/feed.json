@@ -1,0 +1,14 @@
+{
+  "operator": "Kanpur City Transport Services Limited",
+  "city": "Kanpur",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 32,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 72
+  },
+  "notes": "METRO (Orange Line) is high-fidelity: 14 operational stations in correct order with WGS-84 coordinates from Wikipedia/Wikidata/OSM, published hours 06:00-22:30 and ~5-min headway (UPMRC). Nayaganj coordinate interpolated between adjacent Bada Chauraha and Kanpur Central (Karachikhana). BUS side is a skeleton: route list + origin/terminus (and via-lists for routes 1,2,7) are from the Wikipedia KCTSL route table; a subset of well-known intermediate localities/chaurahas geocoded from OSM/mapping sources (WGS-84). KCTSL does NOT publish per-route clock times in a scrapeable form (official uputd.gov.in page timed out; it states ~85 buses route-wise at Fazalganj depot, fleet ~340), so bus stop_times use even ~headway schedules across a 06:00-22:00 service span rather than real published times, and most intermediate stops between origin/terminus are omitted (not invented). Only representative bus routes with reliably-geocodable termini are included. IMPORTANT: this feed mixes a faithful metro line with an approximate bus skeleton; do not treat bus timings as authoritative. Agency listed as KCTSL (requested operator); the metro Orange Line is actually operated by UPMRC and is included per the metro-first priority. Sources: en.wikipedia.org/wiki/Kanpur_City_Transport_Services_Limited, en.wikipedia.org/wiki/Kanpur_Metro, per-station Wikipedia/Wikidata pages, uputd.gov.in/kanpurctsl, chalo.com/kanpur.",
+  "source": "llm-normalized"
+}

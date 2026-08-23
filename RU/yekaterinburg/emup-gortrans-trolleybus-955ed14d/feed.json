@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMUP Gortrans — Trolleybus (ЕМУП «Гортранс», троллейбус)",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Yekaterinburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/yekaterinburg/emup-gortrans-trolleybus/gtfs/",
+    "mdb_id": "ru-llm-emup-gortrans-trolleybus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

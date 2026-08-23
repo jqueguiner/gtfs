@@ -1,0 +1,14 @@
+{
+  "operator": "Tehran Line 5 Suburban Commuter Rail (Sadeghiyeh-Karaj-Hashtgerd) - TUSRC",
+  "city": "Tehran",
+  "cc": "IR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 52
+  },
+  "notes": "Tehran Metro Line 5 = suburban/regional commuter rail (route_type=2, standard-gauge 25kV, double-deck locomotive-hauled coaches) operated by Tehran Urban and Suburban Railway Company (TUSRC), running Sadeghiyeh <-> Karaj <-> Hashtgerd.\n\nSTOPS (13, high confidence): Full ordered 13-station list from Wikipedia (Tehran_Metro_Line_5) matches the OSM route relation r443301 station nodes exactly. All stop_lat/stop_lon are WGS-84 taken directly from OSM relation r443301 station nodes (verified per-station, unique coords). Note: the Wikipedia Hashtgerd station infobox returned wrong coords (duplicated Golshahr's 35.8249,50.9329); the OSM node for Shahid Qasem Soleimani (Hashtgerd) gives the correct terminus at 35.9587,50.7191. Direction of r443301 is eastbound (from Shahid Qasem Soleimani / Hashtgerd -> Tehran Sadeghiyeh); the terminal Sadeghiyeh node was tagged role=stop_exit_only in OSM but is the genuine eastern terminus (interchange with Line 2; Eram-e Sabz interchanges with Line 4).\n\nSCHEDULE (lower confidence): Wikipedia gives no timetable. From secondary web sources: main Sadeghiyeh-Golshahr section runs ~05:00-22:30; the Golshahr-Hashtgerd branch extension has a shorter span (~08:00-15:40); reported headways ~6-10 min peak, 10-15 off-peak, up to 15-25 late evening; full end-to-end run ~70-80 min (matches Sadeghiyeh<->Golshahr ~50 min + branch ~40 min figures). I modeled a single uniform 15-min headway across the whole line 05:00-22:30 both directions (a simplification: I did NOT model the two-tier peak/off-peak headways, the separate shorter operating window of the Hashtgerd branch, or the express \"high-speed\" trains that only stop at Sadeghiyeh/Eram-e Sabz/Karaj/Golshahr). Per-segment run times are realistic estimates (longer spacing on the western Karaj-Hashtgerd branch), not published dwell/run data.\n\nThe full generated feed (in-memory) contains 142 trips (71 per direction at 15-min headway) and 1846 stop_times; this output carries 4 representative trips (first 2 EB + first 2 WB) with complete ordered stop_times covering both directions, plus all 13 stops, the route, agency, and a 7-day calendar. Confidence 0.62: stops/ordering/coords are solid and evidenced; the timetable is an even-headway approximation of published operating-hours/frequency ranges rather than a real published timetable.",
+  "source": "llm-normalized"
+}

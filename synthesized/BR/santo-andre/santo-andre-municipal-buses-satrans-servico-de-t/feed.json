@@ -1,0 +1,14 @@
+{
+  "operator": "Santo André municipal buses (SATRANS - Serviço de Transporte de Santo André)",
+  "city": "Santo André",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 7,
+    "routes": 25,
+    "trips": 8,
+    "stop_times": 26
+  },
+  "notes": "Source: SATRANS official portal (satrans.santoandre.sp.gov.br/portal/paginas-dinamicas-categoria/2/itinerarios), which lists ~25 municipal bus lines with per-line HTML pages giving ordered itineraries (named streets/praças/terminals) and departure timetables split by weekday / Saturday / Sunday-holiday. The second source (web.santoandre.sp.gov.br) returned empty on fetch. What is faithfully captured: the route list (route_id, short_name, long_name, endpoints) and, for two representative lines fetched in full (I-05 Vila Rica<->Est. Utinga, T-15 Jd Guarará<->Est. Santo André), the REAL published departure times of the first trip of the day per direction. For the remaining lines, one representative trip per direction is generated at an even headway across published service span (approx). STOPS: the SATRANS itineraries name streets/praças but publish NO stop coordinates; only the major terminal endpoints are geocodable with confidence. I included the evidenced anchor stops with real WGS-84 coords: Terminal Metropolitano Santo André Oeste (-23.65281,-46.52919), Terminal Santo André Leste (~-23.6510,-46.5265, adjacent to Oeste near R. João Gago), Estação Utinga CPTM (-23.6261442,-46.544078, from pt.wikipedia), Pref. Celso Daniel-Santo André CPTM (-23.652244,-46.528221), and Praça Ademar de Barros / Centro (-23.6543,-46.5333). Intermediate street stops are NOT included because their coordinates are not evidenced and inventing per-street stop nodes would be fabrication. Therefore trips use terminal-to-terminal (2-3 stop) skeletons rather than the full ~30-stop street chains. This is a valid but COARSE feed: correct agency, correct route catalogue, correct endpoints/coords, real first-departure clock times for 2 lines, headway-approximated for the rest, correct calendar (daily service, all lines run 7 days). Confidence 0.42 reflects: route list & endpoints solid; terminal coords solid; but intermediate stops and full ordered stop_times per line are not reconstructed from evidence. To raise confidence: scrape each of the 25 line pages for full itinerary + all departure times, and obtain a GIS stop layer from Santo André 'Dados Abertos' or OSM route relations for per-stop coordinates.",
+  "source": "llm-normalized"
+}

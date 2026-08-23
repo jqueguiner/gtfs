@@ -1,0 +1,14 @@
+{
+  "operator": "CDA Blue Line & Green Line (metro bus, expressway corridors)",
+  "city": "Islamabad",
+  "cc": "PK",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 25,
+    "routes": 2,
+    "trips": 12,
+    "stop_times": 168
+  },
+  "notes": "Rawalpindi-Islamabad Metrobus feeder services operated by the Capital Development Authority (CDA). Two feeder routes covered: Blue Line (Islamabad Expressway corridor, Gulberg <-> PIMS) and Green Line (Srinagar Highway corridor, PIMS <-> Barakahu), both opened 7 July 2022. Station lists and ordering taken from Wikipedia (Rawalpindi-Islamabad Metrobus), cross-checked against metro-status.com and INCPak; Wikipedia's fuller lists (Blue Line 17 stations, Green Line 10 stations) were used. metro-status and INCPak list slightly fewer stations and differ in a couple of names (e.g. Khanna Pul vs Lehtrar/Khanna, Foreign Office vs Serena Hotel/CDA HQ) - name variants noted where they occur. Coordinates: geocoded from OSM / Wikipedia / Wikidata / lat-long sources for named landmarks along the Islamabad Expressway (Koral, Fazaia, Faizabad/Khanna, Sohan, I-8/H-8/G-8) and Srinagar Highway (PIMS, Aabpara, Lake View Park, Malpur, Barakahu). Several corridor stops (Gangal, Zia Masjid, Kuri Road, Iqbal Town, Dhoke Kala Khan, Centaurus/Tipu Market, CDA/Fire brigade HQ, Dhok Jilani/Shahdara) are interpolated along the corridor between well-fixed endpoints - approximate to a few hundred metres; a handful left null where no reliable point was found. The CDA transit map PDF (Transit-Map-Islamabad-V-07.pdf) could not be text-extracted (binary/FlateDecode) and INCPak returned HTTP 403; confidence reflects reliance on secondary sources. Operating hours 06:15-22:00 with published 6-minute headway (metro-status/INCPak cite 10 min for these feeders; Wikipedia cites 6 min - 6 min used, per-direction representative trips generated at first/peak/last across the service window rather than all ~150 runs). Service runs daily. Route_type 3 (bus/BRT feeder). Fare Rs.50 (not encoded). Both lines terminate at/share PIMS-area stations.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Nagpur Metro (Maha Metro / Maharashtra Metro Rail Corporation Ltd)",
+  "city": "Nagpur",
+  "cc": "IN",
+  "confidence": 0.68,
+  "counts": {
+    "stops": 37,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 76
+  },
+  "notes": "Two operational metro lines (Phase 1). Orange Line: 18 operational stations, Automotive Square <-> Khapri, via Sitabuldi interchange (Wikipedia's \"List of stations\" claims 20 for Orange but conflates a future northern extension; the Orange Line article + OSM route both give 18 operational). Aqua Line: 20 stations, Prajapati Nagar <-> Lokmanya Nagar. Sitabuldi is the shared interchange (single stop, appears on both routes) -> 37 unique stops total. Coordinates: ALL 37 from OpenStreetMap subway station nodes (WGS-84, correct for GTFS); Nagpur Railway Station node was tagged in Devanagari and mapped by position/order. Ordering: from the per-line Wikipedia route articles (more authoritative than the combined list page, which had cross-line duplication of Cotton Market/Chitar Oli Chowk). SCHEDULE CONFIDENCE IS THE LIMIT: sources disagree on hours (5:00-23:45 vs 6:00-22:00) and headway (3-5 min peak / 10 min / 15 min). No official station-by-station timetable PDF was machine-readable. I used one representative trip per direction per line at even 2-min inter-station running from a 06:00 first departure (Wikipedia end-to-end run ~25 min matches). To fully model service, replicate these trips at a 10-min headway across 06:00-22:00 (weekday) and 08:30-20:30 (Sun/holiday). route_type=1 (metro). Dropped OSM node \"Zaveri Nursing Home\" (not a metro station). calendar: weekday service Mon-Sun (metro runs daily); single service_id \"weekday\" used for all trips, active every day of week.",
+  "source": "llm-normalized"
+}

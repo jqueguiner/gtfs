@@ -1,0 +1,14 @@
+{
+  "operator": "Pune Metro (Maharashtra Metro Rail Corporation / Maha-Metro)",
+  "city": "Pune",
+  "cc": "IN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 28,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 56
+  },
+  "notes": "Two operational Pune Metro lines built. Purple Line (Line 1): PCMC Bhavan<->Swargate, 13 operational stations. Aqua Line (Line 2): Vanaz<->Ramwadi, 15 operational stations (District Court Pune interchange on Aqua is still under construction per Wikipedia, so it is excluded from the Aqua sequence; it IS included on the Purple Line where it is operational). Under-construction stations (Line 3/Pink, Bhakti Shakti, Nigdi, Chandni Chowk, Wagholi, Viman Nagar etc.) were deliberately excluded. Coordinates are WGS-84 from OpenStreetMap (Overpass, subway station nodes tagged network=Pune Metro) plus Wikidata for PCMC Bhavan (Q111197736), Mangalwar Peth (Q121162379) and Pune Railway Station. Station order and opening dates cross-checked against Wikipedia 'List of Pune Metro stations'. Service window 06:00-23:00 daily (23:00 last-train extension in effect since 26 Jan 2025). Documented headways: ~7 min peak (09:00-11:00, 16:00-20:00), ~10 min off-peak. The two supplied timetable PDFs (PCMC-Phugewadi.pdf, Time-Tebal-new-1.pdf) are scanned raster images with no extractable text, so exact per-station clock times could not be read; stop_times use realistic interpolated run times from the published end-to-end durations (Purple ~34 min, Aqua ~28 min) with 30s dwell, first departure 06:00. Per GTFS-min requirement, one representative trip per direction per route is provided (4 trips); real service runs at the documented headways across the full 06:00-23:00 window. Confidence reflects solid station/geometry/hours data but interpolated (not scan-verified) intermediate times and headway-based rather than published-clock trips.",
+  "source": "llm-normalized"
+}

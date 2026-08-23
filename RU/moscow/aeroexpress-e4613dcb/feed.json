@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Aeroexpress",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Moscow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/moscow/aeroexpress/gtfs/",
+    "mdb_id": "ru-llm-aeroexpress",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

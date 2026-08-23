@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Metro Deli (Teman Bus, PT Medan Bus Transport / Kemenhub-DAMRI BTS)",
+  "city": "Medan",
+  "cc": "ID",
+  "confidence": 0.48,
+  "counts": {
+    "stops": 82,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 167
+  },
+  "notes": "Built from Kompas (2022) + travelspromo + kumparan/moneyduck route articles for Trans Metro Deli / Teman Bus Medan (operator PT Medan Bus Transport under Kemenhub BTS/DAMRI). 5 corridors (1M-5M) all radiating to/from Lapangan Merdeka. Full ordered stop lists come from the articles; Koridor 1 includes the published outbound+return loop, Koridor 3 from travelspromo, Koridors 2/4/5 from kumparan+travelspromo. Operating hours per corridor from Kompas (K1 04:30-19:21, K2 05:00-19:32, K3 05:00-19:01, K4 04:30-19:18, K5 04:30-20:01). Moovit line/stop endpoint returned empty on fetch, so ordering relies on the article route descriptions. Fare Rp4,300 general / Rp2,000 concession, cashless. Service daily.\n\nCOORDINATES: Termini and major landmarks (Terminal Pinang Baris, Terminal Amplas, Lapangan Merdeka, Plaza Medan Fair, Gajah Mada, Bank Indonesia/Balai Kota, Belawan, Tuntungan, Tembung) geocoded from web-researched WGS-84 values. Intermediate halte are placed by interpolation ALONG the known corridor road geometry between researched anchor points (Medan street grid is well-constrained); these are approximate (~100-400m) but on the correct corridor, not invented locations — every stop is evidenced in a source route list. No stop is fabricated.\n\nCAVEAT (not modelled): As of 20 Aug 2024 Pemko Medan took over the corridors, switched to electric buses (Nov 2024), merged K1+K2 (Amplas-Pinang Baris) and re-routed K2 (J.City-Plaza Medan Fair) and extended K5 to Stasiun Bandar Khalipah. This feed reflects the well-documented 2022-2024 PT Medan Bus Transport corridor structure, NOT the post-Aug-2024 reorganisation. Confidence 0.48 reflects: solid route/stop/hours evidence but no published exact headway (even headway assumed) and interpolated intermediate coordinates. One representative trip per direction per corridor at an even headway is provided; stop_times use even spacing across the corridor since per-stop timepoints are not published.",
+  "source": "llm-normalized"
+}

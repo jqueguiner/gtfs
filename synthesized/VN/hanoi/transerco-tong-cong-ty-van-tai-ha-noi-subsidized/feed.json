@@ -1,0 +1,14 @@
+{
+  "operator": "Transerco (Tổng công ty Vận tải Hà Nội) — subsidized city bus network",
+  "city": "Hanoi",
+  "cc": "VN",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 24,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 58
+  },
+  "notes": "Feed covers 4 representative subsidized Transerco (Hanoi Transport Corporation) bus routes operated by its sub-enterprises (Xí nghiệp Xe buýt Hà Nội etc.): 02 (Bác Cổ – BX Yên Nghĩa), 32 (BX Giáp Bát – Nhổn), 34 (BX Mỹ Đình – BX Gia Lâm), 09B (BX Mỹ Đình – Bờ Hồ). Routing, terminals, operating hours and headways come from per-route Vietnamese HTML pages (xethientri, bnews, acchanoi, xeco247) and Moovit; operating hours/headways are real (02: 05:00-22:30, 5-15 min; 32: 05:05-22:30, 5-10 min; 34: 05:00-22:30, 7-15 min; 09B: ~05:00-21:00, 10-15 min). Fares are subsidized flat 7,000 VND. STOPS are representative: only terminals and major named junctions/landmarks that appear explicitly in the route descriptions are included (not every intermediate stop), so stop_sequence is a coarse skeleton, not the full ~30-40 stops per route. Coordinates are WGS-84 from OSM/Wikipedia/Wikidata (bus stations Giáp Bát/Gia Lâm from OSM ways; others geocoded to the named landmark). Clock times are synthesized as an even headway across published service hours (mid-day off-peak used for the representative trips). Metro Line 2A (Cát Linh–Hà Đông) and Line 3 (Nhổn–Cầu Giấy) were researched but are operated by Hanoi Metro Company (HMC), NOT Transerco, so they are intentionally EXCLUDED from this Transerco-operator feed; several bus terminals here (Yên Nghĩa, Cầu Giấy, Nhổn) interchange with them. Confidence 0.4: real routes/hours/headways/terminals, but intermediate stops are a sampled skeleton, individual stop coordinates are landmark-geocoded (not surveyed stop poles), and route 34's mid-route waypoint list from sources was geographically inconsistent so it is modelled conservatively via its reliable corridor.",
+  "source": "llm-normalized"
+}

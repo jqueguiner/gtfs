@@ -1,0 +1,14 @@
+{
+  "operator": "VLT Carioca (Concessionária do VLT Carioca S.A., Grupo CCR)",
+  "city": "Rio de Janeiro",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 26,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 96
+  },
+  "notes": "Built from pt.wikipedia (VLT_Carioca, Linha_1/2/3), Diario do Rio and riodejaneiroaqui. 4 lines (L1 Gentileza<->Santos Dumont, L2 Praia Formosa<->Praca XV, L3 Central<->Santos Dumont, L4 Gentileza<->Praca XV). Coordinates from pt.wikipedia decimal/DMS (WGS-84, verified against OSM Centro/Porto Maravilha). Stops shared across lines are deduplicated into a single stop_id. Service runs daily 06:00-24:00 with published headways 3-15 min; I modeled ONE representative trip per direction per route with realistic clock times and ~2 min inter-stop spacing (avg speed ~15 km/h). Real feed has many trips at 7-15 min headway (as low as 3 min at shared stops) - only representative trips are included here, so stop_times are illustrative not exhaustive. L4 opened 2024 with reduced hours (weekdays 11-16h, weekends 10-15h) per Wikipedia but is modeled here on the general 06:00-24:00 window for the representative trip; confidence lowered accordingly. L1/L3 share Santos Dumont/Candelaria/Carioca/Cinelandia; two coordinate sources gave slightly different lat/lon for a few shared stops (L1 set used as canonical). No official published GTFS timetable was available; headways only, hence confidence 0.55.",
+  "source": "llm-normalized"
+}

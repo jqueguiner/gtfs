@@ -1,0 +1,14 @@
+{
+  "operator": "BMRCL / Namma Metro — metro rail",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 83,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 171
+  },
+  "notes": "Namma Metro (Bengaluru), operator BMRCL. Source: Wikipedia 'List of Namma Metro stations' for the full ordered station list + codes (37 Purple + 32 Green + 16 Yellow; RV Road / RVR is a single interchange stop shared by Green & Yellow, so 84 distinct stops). Coordinates are WGS-84 decimal degrees taken from Wikidata/OSM for each station (spot-verified against Wikipedia infoboxes: Majestic/KGWA 12.9757/77.5728, Whitefield/WHTM 12.9951/77.7578, Challaghatta/CLGA 12.8974/77.4612). Yellow Line confirmed operational (inaugurated by PM Modi 10 Aug 2025, opened to public 11 Aug 2025, all 16 stations RV Road–Bommasandra).\n\nService model: metro runs daily 7 days/week (single 'daily' service). Operating hours ~05:00–24:00 (Wikipedia: 'runs from 5am to 12am'; Purple end-to-end journey ~82 min). Purple & Green modelled with first departure 05:00 and ~2.2 min per inter-station hop (Purple 37 stations → ~80 min run; Green 32 stations → ~68 min). Yellow modelled first departure 06:00, ~2.1 min/hop (16 stations → ~32 min run, matching published 32-min RV Road→Bommasandra ride). \n\nCONFIDENCE 0.72: station list, ordering, codes and coordinates are high-fidelity and evidenced. Each route has one representative trip per direction with a single realistic first-run timetable; actual BMRCL headways vary (Purple/Green 3–15 min with 4-min AM peak; Yellow ~25 min at 3 trains). Only one trip per direction is emitted (not a full frequency-expanded timetable), and per-hop run times are even estimates rather than the exact published dwell/run profile — so times are representative, not the precise operational schedule. TUMI/Kaggle GTFS sources were not needed for the station geometry (Wikipedia+Wikidata sufficient) and were not merged.",
+  "source": "llm-normalized"
+}

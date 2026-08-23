@@ -1,0 +1,14 @@
+{
+  "operator": "KSRTC (Karnataka State Road Transport Corporation) — intercity/regional bus from Bengaluru",
+  "city": "Bengaluru",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 24,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 54
+  },
+  "notes": "Built from bustimings.in/ksrtc (schedule tables) + WebSearch for stop ordering and coordinates; ksrtc.in and abhibus.com returned no parseable timetable (JS booking widget / HTTP 403). Coordinates are WGS-84 from Wikipedia/latlong/OSM-derived geocoding of station names.\n\nBEST-DOCUMENTED ROUTE: Vayu Vajra KIAS-8 (AC airport bus, Electronic City <-> Kempegowda Intl Airport) has a full ordered stop list from Moovit/BMTCVolvo/bustimings; both directions built with a representative trip each and realistic 65-min run times. Note KIAS-8 is technically a BMTC (Vayu Vajra) service that KSRTC/bustimings lists under KSRTC; included as the anchor route because it is the only one with a published ordered intermediate-stop list.\n\nINTERCITY ROUTES (Bangalore-Mysore, -Mangalore, -Hubli, -Hyderabad): sources give origin/destination terminals + departure times but NOT reliable ordered intermediate stops, so these are modeled origin->destination (Mysore route includes Ramanagara+Mandya, which are the standard well-known intermediate towns on NH-275). Times are realistic clock times from the schedule (Mysore ~3h, Mangalore/Hubli/Hyderabad overnight ~7-10.5h). Representative trip per direction.\n\nMETRO/RAIL NOTE: Bengaluru's highest-ridership rail is Namma Metro, but it is operated by BMRCL (a different operator), so it is out of scope for this KSRTC-bus feed and not included.\n\nconfidence 0.42: KIAS-8 stop ordering + station coords are solid; intercity intermediate stops are sparse (O-D only) and exact per-trip departure sets are truncated/variable across sources, so trips are representative rather than the full daily block.",
+  "source": "llm-normalized"
+}

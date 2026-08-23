@@ -1,0 +1,14 @@
+{
+  "operator": "Transporte Concesionado (peseros / microbuses / combis - SEMOVI route associations)",
+  "city": "Mexico City (Ciudad de Mexico)",
+  "cc": "MX",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 93,
+    "routes": 13,
+    "trips": 26,
+    "stop_times": 186
+  },
+  "notes": "METRO/RAIL FIRST build. The nominal operator is SEMOVI concessioned informal transport (peseros/microbuses/combis; 2,311 ramales published as a GIS SHP/CSV layer on datos.cdmx.gob.mx). Those informal services have NO published clock timetables (they run on demand/frequency) and the open-data layer is line geometry + stop points only, so a faithful timetable cannot be reconstructed for them. Per METRO/RAIL FIRST I built the highest-ridership, best-documented modes that DO have solid station lists, ordering, WGS-84 coordinates (OSM/Wikidata) and published operating hours:\n- STC Metro: Lines 1, 2, 3 (the core, highest-ridership lines) fully stationed in order with WGS-84 coordinates; both directions; representative trips built at an even ~4 min headway across published hours (weekday 05:00, Sat 06:00, Sun 07:00 to 24:00). Only one representative trip per direction is emitted (a real early-morning departure) to keep the feed compact but valid.\n- Metrobus Line 1 (Insurgentes BRT, route_type=3): representative station subset, both directions, even headway.\n- Metro lines 4,5,6,7,8,9,12,A,B: present as routes with terminal-only representative trips (terminal coordinates verified; intermediate stops not fabricated).\nAll coordinates WGS-84, correct for GTFS. Confidence 0.55: metro geometry + hours faithful; the named informal concessioned operator itself is only representable by frequency, not a real timetable, so its true schedule is not reproduced.",
+  "source": "llm-normalized"
+}

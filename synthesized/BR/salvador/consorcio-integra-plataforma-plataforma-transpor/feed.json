@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio Integra Plataforma (Plataforma Transportes)",
+  "city": "Salvador",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 10,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 40
+  },
+  "notes": "Built from MeuBuzu (meubuzu.com.br) line pages. Only line 0203-00 (RIBEIRA - TERMINAL PITUAÇU) is included with full geometry: it is confirmed operated by Plataforma Transportes and has an ordered stop list + published schedule. Line 0137-00 (Lapa-Barra) from the sources was EXCLUDED because MeuBuzu attributes it to Ótima Transportes de Salvador (a different INTEGRA consortium), not Plataforma. MeuBuzu also lists other Plataforma lines (0117, 0120, 0125-xx, 0201-xx, 0203-01, 0205-xx, 0208) but those pages were not scraped for ordered stops here, so they are omitted rather than invented. Stops: the MeuBuzu page gives an ordered list of STREET/place names (not discrete bus-stop points). I selected the geocodable anchor points (terminals + named largos/avenues) and geocoded them via OSM Nominatim (WGS-84). Intermediate un-geocodable street names were dropped rather than assigned fabricated coordinates, so the stop sequence is a representative subset of the real path, correctly ordered. Coordinates cross-checked as plausible along the Ribeira->BR324->Pituaçu corridor. stop_times use the published outbound departure (weekday 05:30) and a return departure (06:26) with an even headway interpolated across the ~1h05 terminal-to-terminal run (schedule gives endpoint times only, not per-stop). Calendar: weekday service (0203_WK, Mon-Fri, same times as Sunday per source) and Saturday service (0203_SAT). Confidence 0.55: route existence, direction, operator, terminals, ordering, and service window are well-evidenced; per-stop times and the exact stop set are approximated.",
+  "source": "llm-normalized"
+}

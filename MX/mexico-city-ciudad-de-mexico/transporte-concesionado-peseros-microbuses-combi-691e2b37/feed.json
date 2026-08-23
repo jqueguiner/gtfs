@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transporte Concesionado (peseros / microbuses / combis - SEMOVI route associations)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Mexico City (Ciudad de Mexico)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MX/mexico-city-ciudad-de-mexico/transporte-concesionado-peseros-microbuses-combi/gtfs/",
+    "mdb_id": "mx-llm-transporte-concesionado-peseros-microbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

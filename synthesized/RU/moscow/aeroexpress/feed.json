@@ -1,0 +1,14 @@
+{
+  "operator": "Aeroexpress",
+  "city": "Moscow",
+  "cc": "RU",
+  "confidence": 0.68,
+  "counts": {
+    "stops": 7,
+    "routes": 2,
+    "trips": 148,
+    "stop_times": 519
+  },
+  "notes": "Aeroexpress operates two airport rail links from Moscow. R1: Belorussky Rail Terminal - Sheremetyevo (SVO), stopping at Savyolovskaya and Okruzhnaya. R2: Paveletsky Rail Terminal - Domodedovo (DME), stopping at Verkhnie Kotly. Both run ~every 30 min all day. Times modeled as an even 30-min headway across published service windows (SVO: from Belorussky first 05:35 / last 23:35; from SVO first 05:15 / last 23:45. DME: from Paveletsky first 05:30 / last 23:30; from DME first 06:00 / last 23:30). Journey/segment times derived from published totals (Belorussky-SVO ~65 min; Paveletsky-DME ~45 min). route_type=2 (rail) since these are express suburban-rail services, not metro. Coordinates are WGS-84 from Wikipedia/Wikidata/OSM. Individual clock departures are synthesized from stated frequency + endpoints, not scraped per-trip (the schedule page is a dynamic JS ticketing widget not readable as static HTML), so exact minute-of-departure per trip may differ; frequency, endpoints, stop order and hours are faithful. Note aeroexpress.ru flagged a temporary SVO schedule change (Jul 22-Sep 12). Kievsky-Vnukovo service is discontinued and excluded. Sheremetyevo Aeroexpress serves Terminals D/E/F (rail); Terminals A/B/C use a separate bus.",
+  "source": "llm-normalized"
+}

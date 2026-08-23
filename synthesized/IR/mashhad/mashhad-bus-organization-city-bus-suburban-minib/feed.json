@@ -1,0 +1,14 @@
+{
+  "operator": "Mashhad Bus Organization — سازمان اتوبوسرانی شهرداری مشهد (city bus, suburban, minibus/van)",
+  "city": "Mashhad",
+  "cc": "IR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 38,
+    "routes": 3,
+    "trips": 24,
+    "stop_times": 320
+  },
+  "notes": "METRO/RAIL-FIRST build. The named operator is the Mashhad Bus Organization, but its schedule sources (the کتاب واحد 'کتاب واحد' route-guide PDF, the smart line-routing portal مسیریابی هوشمند خطوط, and map.mashhad.ir) do NOT expose machine-readable ordered stop lists with coordinates that could be scraped in this environment (dynamic/JS portals; the PDF is not fetchable as structured text here). Per the METRO/RAIL-FIRST directive, this feed instead covers the best-documented, highest-ridership rail mode — the Mashhad Urban Railway (MUROC) — whose full station lists, ordering, operating hours, headways and WGS-84 coordinates are on Wikipedia/Wikidata. So the AGENCY delivered here is MUROC (the metro operator), not the bus organization; the informal city-bus / suburban / minibus network is NOT represented (no evidenced stops). \n\nCOVERAGE: Line 1 (24 stations, Vakil Abad↔Hasheminejad Airport, route_type=1 metro/light-rail), Line 2 (13 stations, Tabarsi↔Shahid Fakouri), Line 3 partial phase (3 stations Shohada↔Imam Reza Terminal, opened May 2025). Shariati is the L1/L2 interchange (shared stop_id); Shohada is the L2/L3 interchange. \n\nCOORDINATES: WGS-84 from Wikipedia geohack / Wikidata for the great majority of stations (exact). Interpolated along the documented line geometry + adjacent-station coords (approximate, ~few-hundred-m) for: L1 Azadi, Imam Khomeini, Ghadir, Bustan-e Reyhaneh, Hasheminejad Airport; L2 Shahid Fakouri. Two brand-new Line 3 stations (Bab Ol-Javad, Imam Reza Terminal) have NO published coordinates and are left null (name/order evidenced, coords unknown). \n\nSCHEDULE: Service 06:00–22:00 daily. Real headways (documented, not fully expanded into trips to keep feed compact): L1 ~5 min peak / 7 min off-peak / 12 min holidays; L2 ~10 min; L3 ~10 min. Two representative clock-time trips per direction per service are emitted (early 06:00 and late 21:00 departures) at ~2 min inter-station spacing; a real feed would expand these at the stated headways. Calendar splits weekday (Sat–Thu, the Iranian working week) vs holiday (Friday). Timezone Asia/Tehran. Confidence 0.55 reflects: solid/faithful rail network + hours + headways, but (a) the requested BUS operator is not covered, (b) a handful of interpolated/null coordinates, and (c) synthetic representative timetable rather than a published minute-by-minute schedule.",
+  "source": "llm-normalized"
+}

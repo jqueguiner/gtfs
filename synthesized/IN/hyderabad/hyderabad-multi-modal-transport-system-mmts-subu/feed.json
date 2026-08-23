@@ -1,0 +1,14 @@
+{
+  "operator": "Hyderabad Multi-Modal Transport System (MMTS) — suburban rail, South Central Railway",
+  "city": "Hyderabad",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 26,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 104
+  },
+  "notes": "Sources: Wikipedia (Hyderabad MMTS, Hyderabad–Lingampalli route, Secunderabad–Falaknuma route), mmtstrains.com station/timetable pages, and web search corroboration. Three main MMTS lines built, each with both directions: (L1) Lingampalli<->Falaknuma via Secunderabad (22 stops), (L2) Hyderabad/Nampally<->Lingampalli (13 stops), (L3) Hyderabad/Nampally<->Falaknuma via Secunderabad (17 stops). Station ordering is well-evidenced from Wikipedia route pages and mmtstrains.com route listings. Coordinates are WGS-84 from Wikipedia/Wikidata/OSM railway=station nodes (Secunderabad, James Street verified from search; others from well-documented station locations). route_type=2 (rail) since MMTS is suburban rail operated by Indian Railways/SCR, not a metro. CONFIDENCE 0.55: station lists, ordering, routes and coordinates are faithful and well-sourced; however exact published clock times per trip were NOT recoverable from the sources (the official timetable is station-by-station and not machine-readable here). Stop_times use realistic representative departures within documented operating hours (~04:00 first to ~23:00 last, peak 07:30-09:30 & 17:30-20:00) with typical inter-station run times (~2-3 min) rather than the exact real timetable, so departure clock times are approximate. Sunday service reduced (some 11:00-15:00 trains cancelled) but a daily calendar is used as a representative approximation. Phase-II extensions (Bolarum/Medchal, Umdanagar, Sanathnagar) not included — station ordering/coords not sufficiently evidenced.",
+  "source": "llm-normalized"
+}

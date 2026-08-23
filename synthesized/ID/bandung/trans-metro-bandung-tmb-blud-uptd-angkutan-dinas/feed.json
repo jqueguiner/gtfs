@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Metro Bandung (TMB) - BLUD UPTD Angkutan, Dinas Perhubungan Kota Bandung",
+  "city": "Bandung",
+  "cc": "ID",
+  "confidence": 0.7,
+  "counts": {
+    "stops": 253,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 397
+  },
+  "notes": "Built from OpenStreetMap PTv2 route_master + route relations (WGS-84, authoritative for stop names, ordering and coordinates). All 7 TMB corridors present as route_masters: K1 (15511767 Cibeureum-Cibiru), K2 (17350740 Cibeureum-Cicaheum, incl. verified rel 17329177), K3 (17564832 Sarijadi-Cicaheum), K4 (17770946 Leuwipanjang-Antapani), K5 (17350732 Antapani-Stasiun Hall), Feeder F1 (19084499 Stasiun Hall-Gunung Batu), Feeder F2 (17345530 Cibeureum-Summarecon Mall). Each corridor has both directions => 14 trips, 253 unique stops (deduped by name), 411 stop_times, all coords within Bandung bounds, 0 missing. Stops derived from stop_position nodes in member order. NOTE: the transportforbandung.org 'Metro Jabar Trans' page and DAMRI/BisKita corridors are a DIFFERENT provincial operator (Metro Jabar Trans / BisKita) and were intentionally excluded; only city TMB (Dishub Kota Bandung) route_masters are included. All route_type=3 (BRT-style city bus; no metro/rail exists for this operator). Operating hours from id.wikipedia (K1 05:00-15:45, K2 05:00-16:30, K3 05:30-16:45, K4 05:45-14:30, K5 06:30-14:00, F1 06:00-14:30, F2 06:30-15:30 WIB). Only ONE representative trip per direction is emitted, departing at service open with an even ~3-min inter-stop spacing (published per-corridor headways not available for TMB specifically); real service runs frequent headways across the full window. Times are synthetic dwell/run estimates, hence confidence 0.7 rather than higher.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "АО «НГТ» + АО «НСК ТРАНС» + МКП «Горэлектротранспорт» + ~30 private carriers; Новосибирский метрополитен (metro)",
+  "city": "Novosibirsk",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 16,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 32
+  },
+  "notes": "Metro (both lines, both directions) is faithfully modeled from Wikipedia/Wikidata WGS-84 station coordinates and published operating hours/headways. Leninskaya (Line 1) = 9 stations incl. Sportivnaya (opened 2025-09-05); Dzerzhinskaya (Line 2) = 5 stations. Operating hours ~05:45–00:00; representative trips built at 5-min (Line 1) / 6-min (Line 2) headways with ~2 min/segment travel — realistic but not the exact published minute-by-minute timetable. Tram route 13 (Pisareva St ↔ Gusinobrodskoye Shosse, MKP GET Filial 5) included as a representative electric-transport route with only its evidenced two termini as stops (26 intermediate stops exist but their ordered names/coords were not available from static sources, so not invented). The nskgortrans.ru bus/marshrutka schedule + map pages are JS-driven (dynamic search, no static route tables) and could not be scraped for the ~30 private carriers' ordered stop sequences/times; the opendata.novo-sibirsk.ru CSV and map.nskgortrans.ru backend were not directly reachable via WebFetch. Therefore bus/marshrutka routes are NOT included rather than invented. Confidence reflects a solid metro feed + one evidenced tram terminus pair, but no bus network. Carrier registry (37 firms incl. АО НГТ, АО НСК ТРАНС, МКП Горэлектротранспорт) was captured from the firms page for agency context. Metro timezone Asia/Novosibirsk (UTC+7).",
+  "source": "llm-normalized"
+}

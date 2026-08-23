@@ -1,0 +1,14 @@
+{
+  "operator": "GMRC Ahmedabad Metro (Gujarat Metro Rail Corporation)",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 53,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 112
+  },
+  "notes": "Ahmedabad Metro (GMRC) Phase-1 + Gandhinagar/GIFT extension, 4 operational lines. Station names + ordering from Wikipedia per-line articles (Blue/Red/Yellow/Violet) cross-checked with yometro. Coordinates are WGS-84: several anchored to Wikipedia/Wikidata (Motera 23.09654,72.60071; APMC 22.99773,72.53725; Old High Court 23.03733,72.56704 [Blue/Red interchange]; Kalupur 23.02512,72.60305; Thaltej 23.04974,72.51621; Gujarat University 23.04486,72.54361; Paldi 23.018447,72.562126; Gandhigram 23.02667,72.56890); the remaining intermediate stops are approximate WGS-84 positions interpolated along each corridor (Gandhinagar/GIFT City Yellow+Violet stations less precise). Service is daily incl. Sundays/holidays 06:20-22:00; headway ~12 min (20 min in the 06:00-07:00 first hour). Schedule modeled as one representative trip per direction per line with realistic cumulative running times (Red ~37 min end-to-end per Wikipedia; Blue ~40 min; Yellow ~38 min; Violet ~9 min); NOT the full published timetable of individual trips, hence mid confidence. Sabarmati Railway Station (Red Line) omitted - still under construction / not operational. route_type=1 (metro) for all lines.",
+  "source": "llm-normalized"
+}

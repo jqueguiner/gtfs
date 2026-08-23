@@ -1,0 +1,14 @@
+{
+  "operator": "Cebu Bus Rapid Transit (CEBRT/CBRT) - DOTr",
+  "city": "Cebu",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 20,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 37
+  },
+  "notes": "Single BRT corridor (IT Park <-> Il Corso, ~13.6 km along N. Bacalso Ave / Osmena Blvd / N. Escario St), operational since March 2026, operator DOTr, branded CEBRT/CBRT. Stop list is the published northbound/southbound station sequence from the Cebu Daily News commuter guide and Wikipedia (17 core stations; southbound adds City di Mare + El Pardo near Il Corso, included as evidenced stops). Coordinates: anchor stations (Il Corso/SRP, NUSTAR, SM Seaside, CIT, CSBT, CNU, Fuente, Capitol, Ayala Center, IT Park) from Wikipedia/latlong WGS-84; intermediate stops (V. Rama, Sacred Heart, Ayala South, Pag-IBIG, Samar Loop, Negros Rd, Luz, Mambaling, City di Mare, El Pardo) interpolated along the OSM corridor between anchors -- approximate, not surveyed. Operating hours 05:30-22:30 daily (brt.ph). No published headway; modeled at a 12-min even headway across service hours plus representative trips both directions. Fares distance-based (P18 base) not in GTFS. Confidence 0.55: route/stops/order well-evidenced and hours published, but exact platform coords for ~10 mid-corridor stops are interpolated and headway is estimated.",
+  "source": "llm-normalized"
+}

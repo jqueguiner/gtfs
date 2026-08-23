@@ -1,0 +1,14 @@
+{
+  "operator": "Peterburgsky Metropoliten (Saint Petersburg Metro / Петербургский метрополитен)",
+  "city": "Saint Petersburg",
+  "cc": "RU",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 75,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 152
+  },
+  "notes": "Coverage: all 6 operating lines of the SPb Metro (L1 Kirovsko-Vyborgskaya/red, L2 Moskovsko-Petrogradskaya/blue, L3 Nevsko-Vasileostrovskaya/green, L4 Lakhtinsko-Pravoberezhnaya/orange, L5 Frunzensko-Primorskaya/violet, L6 Krasnoselsko-Kalininskaya/brown, opened Dec 2025 with 2 stations). 75 unique stations (Tekhnologichesky Institut is a shared L1/L2 interchange, deduped to one stop). One representative trip per direction per line (12 trips) with fully ordered stop_times.\n\nSources & method: Station coordinates are WGS-84 from Wikidata (P16=Q250225 network, P81 connecting line, P625 coord), which is the same source class as the requested OSM route=subway relations — Overpass endpoints (overpass-api.de/kumi/mail.ru) all returned 500/504/conn-refused in this environment, so Wikidata SPARQL was used as the authoritative WGS-84 fallback and every station matched a coordinate (0 nulls). Station ordering uses the canonical published line sequences (Wikipedia list of SPb Metro stations); Wikidata P197 adjacency was too noisy (future/duplicate nodes) to auto-chain. Operating hours from metro.spb.ru (per-station schedule page returns HTTP 200 but has a self-signed cert and JS-rendered table with no times in body HTML) cross-checked with published guides: service daily ~05:45–00:30, peak headway 2-3 min, off-peak 4-5 min.\n\nSchedule fidelity caveat (why confidence is 0.72 not higher): the real metro runs a high-frequency all-day service (2-5 min headways, ~19h span). This feed encodes ONE representative first-train trip per direction starting 05:45 with a uniform 2-min inter-station run + 30s dwell, NOT the full frequency-expanded timetable, and does not model peak/off-peak variation, per-station closing times, or line-transfer cutoffs. Line/station topology, ordering, headsigns and coordinates are high-confidence; the trip times are representative rather than the published minute-accurate timetable (the operator does not publish a machine-readable per-train timetable — only frequency + first/last train). route_type=1 (metro/subway) for all lines. agency_timezone Europe/Moscow (UTC+3, MSK; SPb does not observe DST).",
+  "source": "llm-normalized"
+}

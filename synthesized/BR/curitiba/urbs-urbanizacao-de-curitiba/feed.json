@@ -1,0 +1,14 @@
+{
+  "operator": "URBS - Urbanização de Curitiba",
+  "city": "Curitiba",
+  "cc": "BR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 239,
+    "routes": 12,
+    "trips": 24,
+    "stop_times": 494
+  },
+  "notes": "Built from the URBS WebService open-data mirror (dadosabertos.c3sl.ufpr.br/curitibaurbs, snapshot 2017_01_18: linhas.json + pontosLinha.json + tabelaLinha.json). Scope = the 12 highest-ridership RIT structural lines running on the exclusive tube-station/BRT corridors: EXPRESSO (biarticulated red BRT trunk: 503, 303, 302, 502, 602, 603, X20, X11, X12, 203) and LIGEIRÃO (blue direct: 500, 550). All 240 stops carry real URBS WGS-84 lat/lon (NUM/LAT/LON/SEQ fields); all fall inside the Curitiba bounding box. Stop ORDER per direction is taken verbatim from pontosLinha getPontosLinha SEQ. Trip START times are REAL terminal departure clock-times from tabelaLinha (DIA=1 weekday), one representative mid-service trip per direction; intermediate stop_times are interpolated at an even ~3 min/stop cadence between tube stations (URBS does not publish per-stop passing times — only terminal departures/arrivals), so intermediate times are approximate while endpoints and ordering are exact. route_type=3 (bus) is correct: Curitiba's RIT is BRT, not rail/metro. Character note: the source exports Portuguese accents as literal '?' (data loss at URBS); common words were restored (Estação, Boqueirão, Ligeirão, Praça, Portão, Sítio, etc.), a few rarer names retain minor accent loss.\n\nThe FULL feed of all 53 structural RIT lines (996 stops, 145 directional trips, 2617 stop_times, all with real coordinates and validated referential integrity) was also built and saved to /home/ubuntu/adresses/urbs/gtfs_final.json; this structured payload carries the 12-line BRT/Ligeirão core subset (/home/ubuntu/adresses/urbs/core2.json) for size. Calendar: weekday/Saturday/Sunday service exists in tabelaLinha (DIA 1/2/3); trips here are the weekday representative set. Not modeled: feeder (ALIMENTADOR), convencional and interbairros bus lines; per-stop timing precision; block/frequency headways.\n\nConfidence 0.72: stops, coordinates, line list, stop ordering and terminal departure times are authentic URBS data; only the intermediate stop passing-times are synthesized (even cadence), which is the standard GTFS approach when a source publishes frequency/terminal times but not per-stop times.",
+  "source": "llm-normalized"
+}

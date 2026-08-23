@@ -1,0 +1,14 @@
+{
+  "operator": "МКП «Горэлектротранспорт» (GorElektroTransport / GET)",
+  "city": "Novosibirsk",
+  "cc": "RU",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 187,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 374
+  },
+  "notes": "Feed for MKP GorElektroTransport (municipal tram + trolleybus operator), Novosibirsk. Scope: the full network is 10 tram routes (3,5,8,9,10,11,13,14,15,18) + 14 trolleybus routes (2,4,5,7,8,10,13,22,23,24,26,29,35,36) per Wikipedia. nskgortrans.ru/site/rasp is a JS schedule-search form (no static tables), and map.nskgortrans.ru / opendata.novo-sibirsk.ru stop CSVs were not directly machine-readable via WebFetch, so ordered stop lists were sourced from busti.me (bustime, mirrors the operator/2GIS data) and cross-checked against Moovit/24tr.ru. Built 8 representative, fully-evidenced routes (4 tram: 3,8,10,13; 4 trolleybus: 2,4,5,13) with complete ordered stop sequences and published operating hours + headways. Each route has one representative trip per direction (return = reverse of forward). Stop_times use realistic clock times: first trip anchored at the published service start, dwell 0, even inter-stop spacing derived from published total travel time. Additional trips can be generated at the published headway but only the representative first trip per direction is emitted here.\nCOORDINATES: WGS-84. Anchor stops (metro stations, Vokzal-Glavny, Opera Theatre, Zoo, Pl. Marksa/Lenina/Rechnoy Vokzal/Studencheskaya/Zayeltsovskaya) use exact Wikipedia/Wikidata coordinates. Intermediate stops are interpolated along the known corridor around city center (55.04,82.93); these are approximate (~city-block accuracy), not surveyed — hence confidence 0.55. The 16 routes not modeled (trams 5,9,11,14,15,18; trolleybuses 7,8,10,22,23,24,26,29,35,36) are omitted rather than invented. Service runs daily (single service_id). No metro/rail here — GET operates only tram+trolleybus; the Novosibirsk Metro is a separate operator and out of this feed's scope.",
+  "source": "llm-normalized"
+}

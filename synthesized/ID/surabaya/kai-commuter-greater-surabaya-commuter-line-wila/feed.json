@@ -1,0 +1,14 @@
+{
+  "operator": "KAI Commuter (Greater Surabaya Commuter Line, Wilayah 8)",
+  "city": "Surabaya",
+  "cc": "ID",
+  "confidence": 0.82,
+  "counts": {
+    "stops": 64,
+    "routes": 6,
+    "trips": 14,
+    "stop_times": 230
+  },
+  "notes": "Built from the official KAI Commuter (KCI) Wilayah 8 Surabaya PDF timetable \"Update 1 Mei 2026\" (kci.id), cross-checked against Wikipedia (Greater Surabaya Commuter Line) and ANTARA/detik schedule reporting. The PDF gave exact per-trip clock times and full ordered station lists (with official station codes) for 6 diesel-commuter lines: Dhoho, Penataran, Supas (Surabaya-Pasuruan/Probolinggo), Jenggala, Arjonegoro, and Blorasura. All are route_type=2 (rail). Trips: one representative trip per direction per line was selected from the PDF (real published clock times, not synthetic headways). Station 'Ls' (langsung/pass) and blank cells in the PDF mean the train does not stop there on that run; those stop_times are omitted (a trip only lists the stations it actually serves). stop_sequence is renumbered contiguously per trip after dropping skipped stops.\n\nCoordinates: stop_lat/stop_lon are WGS-84, taken from Wikipedia/Wikidata/OSM for the well-mapped East Java KAI stations. Major stations (Surabaya Kota, Gubeng, Wonokromo, Sidoarjo, Kertosono, Blitar, Malang, Pasarturi, Bojonegoro, Cepu, etc.) have precise coords. A number of small intermediate halts along the corridor are given best-known coordinates; a few of the smallest halts where I could not verify an exact coordinate are left null rather than invented.\n\nScope notes / why confidence 0.82 (not higher): (1) The Feb-2025 'Sindro' line (Sidoarjo-Pasarturi-Indro) was absorbed into the extended Jenggala service and is represented via Jenggala's Indro branch, not as its own route. (2) 'Tumapel' (Surabaya-Malang direct) is not in this PDF and is not included. (3) Supas was extended to Probolinggo (SupasPro) in 2026; I model the Surabaya<->Probolinggo/Pasuruan trips from the PDF. (4) Each line has more daily trips than the single representative per-direction trip encoded here; a full feed would add every KA number. (5) Some Jenggala/Arjonegoro runs alternate via Sepanjang vs via Tulangan and via Pasarturi vs Gubeng - only representative variants are encoded. calendar = daily (these commuter services run 7 days/week per KCI).</parameter>\n<parameter name=\"agency\">{\"agency_name\":\"KAI Commuter (Wilayah 8 Surabaya)\",\"agency_url\":\"https://kci.id\",\"agency_timezone\":\"Asia/Jakarta\"}",
+  "source": "llm-normalized"
+}

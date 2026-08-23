@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Peterburgsky Metropoliten (Saint Petersburg Metro / Петербургский метрополитен)",
+    "country": "RU",
+    "subdivision": null,
+    "city": "Saint Petersburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/RU/saint-petersburg/peterburgsky-metropoliten-saint-petersburg-metro/gtfs/",
+    "mdb_id": "ru-llm-peterburgsky-metropoliten-saint-petersbu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Mexicable (aerial cable car - Estado de Mexico, ORT Edomex)",
+  "city": "Mexico City (Ecatepec / Tlalnepantla, Estado de Mexico)",
+  "cc": "MX",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 13,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 56
+  },
+  "notes": "Sources: Wikipedia (en/es Mexicable, Linea 1/2), Wikidata (Hank Gonzalez Q131441851, Santa Clara), masivoedomex/moovit/press for schedules. masivoedomex.wordpress.com returned HTTP 403; used Wikipedia + press + Wikidata + moovit instead. OSM Overpass was unreachable from this sandbox (network blocked), so aerialway station geometry could not be pulled directly. Station ORDER and NAMES are well-evidenced (Wikipedia + es.wikipedia line articles + press). Coordinates: terminals/interchange anchored to Wikidata/Wikipedia WGS-84 (Santa Clara 19.539,-99.059; Hank Gonzalez 19.5497,-99.075; Indios Verdes hub 19.4954,-99.1195; La Canada in San Andres de la Canada ~19.565,-99.075; Line 1 midpoint ref 19.5555,-99.0751). Intermediate stations (Fatima, Tablas del Pozo, Los Bordos, Deportivo on L1 along Av. Camino a San Andres; Tanque de Agua, Periferico, San Isidro, Dr. Jorge Jimenez Cantu, La Mesa on L2 through Tlalnepantla/Sierra de Guadalupe) are INTERPOLATED along the evidenced corridor and are approximate (+/- a few hundred m) - hence the moderate confidence. Hank Gonzalez is the shared interchange between L1 and L2 (station appears once; L2 terminal is signed 'Hank Gonzalez II' but is the same interchange). Service: continuous cabin flow (seconds between cabins) so a fixed clock schedule is a modelling simplification. Representative trips: one per direction per line, seeded at service open with realistic end-to-end run times (L1 ~20 min, L2 ~29 min per press). L1 hours ~04:30-23:00 daily; L2 Mon-Fri 05:00-23:00, Sat 06:00-23:00, Sun 07:00-23:00. route_type=6 (gondola/aerial lift) is the correct GTFS type for Mexicable. Fare 9 MXN (not modelled in this GTFS core).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EGO Genel Müdürlüğü",
+    "country": "TR",
+    "subdivision": null,
+    "city": "Ankara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TR/ankara/ego-genel-mudurlugu/gtfs/",
+    "mdb_id": "tr-llm-ego-genel-mudurlugu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

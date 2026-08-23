@@ -1,0 +1,14 @@
+{
+  "operator": "AMTS (Amdavad Municipal Transport Service) — city bus",
+  "city": "Ahmedabad",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 321,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 30
+  },
+  "notes": "AMTS is a bus-only operator (route_type=3); Ahmedabad Metro is a separate operator (GMRC), so the metro/rail-first guidance does not apply to this AMTS-bus feed. STOP COORDINATES: from community GitHub gnatih/AMTS stops.geojson (1450 WGS-84 stops, matched by exact + strict fuzzy/token-set), supplemented with curated OSM/Wikidata WGS-84 coords for major terminals not cleanly in the geojson (Lal Darwaja, Maninagar, Vasna, Vadaj, Kalupur, Naroda, APMC, Metro Station, etc.). 228/321 stops (71%) are geocoded; the 93 remaining are minor society/apartment/farm stops not present in the source data and are emitted WITHOUT lat/lon (unknown, not fabricated). ROUTES & ORDERED STOPS: scraped from YoMetro (yometro.com/buses/amts-*) route pages, which give full ordered stop sequences per route. 6 representative routes built end-to-end with both directions: 300 (Vadaj-Maninagar, 69 stops), 144 (Gujarat University-Arbudanagar, 51), 401 (Vasna-Chandkheda, 46), 45 (Lal Darwaja-Shela Gam, 49), 58 (Thaltej Gam-Kush Society, 91), 160 (Silver Oak University-Hatkeshwar Depo, 75). citybus.co.in had an expired TLS cert (unreachable). The gnatih/AMTS GPX folder only contains one raw GPS trace (route 300) with no stop labels, so it was not used for sequencing. TIMING: first-bus departure times are from the source; per-stop times are evenly interpolated across the published total journey time (source gives journey duration, not a per-stop timetable or headway) - clock times are realistic estimates, not the exact published timetable. Service window citywide ~05:30-22:30 daily; calendar set to daily service. CONFIDENCE 0.55: route lists and stop ordering are real and well-evidenced; stop coordinates are largely real (community + OSM/Wikidata WGS-84); intermediate stop times are interpolated and only 6 of AMTS's ~170 routes are covered, so it is a faithful sample rather than the complete network. GTFS validated: 0 orphan refs, times monotonic per trip, all coords within Ahmedabad bounds (22.8-23.3N, 72.3-72.8E). Sources: github.com/gnatih/AMTS, yometro.com/buses/amts-network, amts.co.in.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "LAMATA — Lagos Rail Mass Transit (Blue Line)",
+  "city": "Lagos",
+  "cc": "NG",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 5,
+    "routes": 1,
+    "trips": 8,
+    "stop_times": 40
+  },
+  "notes": "Lagos Blue Line (Phase I), operated by LAMATA. 5 operational stations, 13 km, opened Sep 2023. Route ordered Marina (southern/island terminus) <-> Mile 2 (northern/mainland terminus): Marina, National Theatre, Orile Iganmu, Suru Alaba, Mile 2. route_type=1 (metro/light-metro, electric EMU, grade-separated + at-grade). Coordinates from OSM/Nominatim WGS-84 (Marina 6.4462,3.3950; National Theatre 6.4748,3.3688; Suru Alaba 6.4612,3.3234; Mile 2 6.4599,3.3116). Orile Iganmu (6.4775,3.3431) placed on the Badagry Expressway alignment between National Theatre and Suru Alaba (no distinct OSM station node found; approximate). Schedule: Wikipedia (Feb 2026 published LAMATA schedules) reports ~23-min headway, ~36 trips per direction; LagosPost reports Mon-Sat 05:30-23:00 with limited Sunday service and peak headways 8-10 min. Feed uses a 23-min-headway clock grid with 3 representative trips per direction (05:30, 13:56, 22:45 first-station departures) covering 05:30-23:00, plus a reduced Sunday service (single rep trip each direction at 08:00). End-to-end run ~15 min (per published 10-15 min journey time). Under-construction Phase II stations (Okokomaiko, LASU, Volkswagen, Trade Fair, Alakija, Festac, Alaba, Iganmu) excluded as not operational. Red Line excluded (not requested / not yet operational). Sources: lamata-ng.com/train-services, lagospostng.com blue-line guide, en.wikipedia.org Blue Line (Lagos Transit).",
+  "source": "llm-normalized"
+}

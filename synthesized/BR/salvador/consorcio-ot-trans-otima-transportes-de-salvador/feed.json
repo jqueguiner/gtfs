@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio OT Trans (Ótima Transportes de Salvador / OTTrans)",
+  "city": "Salvador",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 69,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 107
+  },
+  "notes": "Source: MeuBuzu (meubuzu.com.br) line pages. Operator string on every line: \"INTEGRA OT - TRANS - OTIMA TRANSPORTES DE SALVADOR SPE S/A\" = Consórcio OT Trans / Ótima. 6 OTTrans-operated lines built (0116-00 Lapa-HGE, 0136-00 Lapa-Chame Chame, 0137-00 Lapa-Barra Avenida/Barra, 0138-00 Lapa-Garibaldi/Ondina, 0140-00 Lapa-Rio Vermelho, plus 0136-01 variant folded into 0136-00). All are conventional city buses (route_type=3); Salvador has no metro/BRT line operated by this operator (the metro is operated by CCR Metrô, a different operator, so excluded). Ordered stops come directly from MeuBuzu itinerary street/neighborhood lists (percurso de ida/volta). Coordinates are geocoded from the named streets+neighborhoods in central/coastal Salvador (WGS-84) using known OSM street locations — they are approximate street-segment centroids, not surveyed bus-stop nodes, so lat/lon are good to ~100-300m. The shared origin \"Avenida Vale do Tororó - Nazaré\" is the Estação/Terminal da Lapa (Clériston Andrade), deduplicated across all lines. Service times (first/last departure) are as published per line; MeuBuzu gives variable headways, so one representative trip per direction is emitted at the first published departure with realistic inter-stop spacing (~2 min/stop). All lines run 7 days/week per the published weekday/Saturday/Sunday schedules. Confidence 0.55: route list, operator, stop ordering and operating hours are well-evidenced; exact stop coordinates and full per-departure timetables are approximated rather than surveyed.",
+  "source": "llm-normalized"
+}

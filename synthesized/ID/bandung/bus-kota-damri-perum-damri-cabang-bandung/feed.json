@@ -1,0 +1,14 @@
+{
+  "operator": "Bus Kota DAMRI - Perum DAMRI Cabang Bandung",
+  "city": "Bandung",
+  "cc": "ID",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 276,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 324
+  },
+  "notes": "Bandung has no operational metro/rail (BRT/local rail is separate operators), so this is a bus feed. All 276 stops and their ordering come from 10 real OpenStreetMap directional route relations tagged network=\"Bus Kota Damri\", operator=\"Perum DAMRI/Cabang Bandung\" — coordinates are OSM WGS-84 (correct for GTFS). Relations used: D2 r17771220/r17771221 (Leuwipanjang<->Ledeng), 6A r17771076/r17772430 (Elang<->Jatinangor), D8 r17565369/r17771073 (Tanjungsari<->Kebon Kelapa), D11 r17771219/r17771223 (Leuwipanjang<->Cibiru), KBP r18771222/r18771223 (Alun-alun<->Kota Baru Parahyangan). One representative trip per direction (10 trips, 324 stop_times). Service hours from FDTB Greater-Bandung transit map + Wikipedia/blog sources: DAMRI city bus ~05:00-17:00, KBP ~05:00-18:00, D2 first departure 06:00; operates daily (Mon-Sun). CONFIDENCE CAVEATS lowering score: (1) exact per-trip clock times and headways are NOT published — stop_times are synthesised from a schedule-start anchor plus distance-based travel time (~19 km/h urban, ~45 km/h on toll segments), so intermediate times are estimates, not the operator timetable; only the first departure and rough total trip length (~38-73 min) are grounded. (2) Route D2 (Leuwipanjang-Ledeng) was reported to have STOPPED operating on 2025-09-02 for an undetermined period (poskota.co.id); it is included because it is fully mapped and had been reactivated in 2024, but it may be currently suspended. (3) Some legacy DAMRI urban lines were absorbed into Metro Jabar Trans (MJT); only these 5 currently-mapped DAMRI lines are represented. (4) One stop (BDG-DMR-0118 on D8, near LPKIA) is unnamed in OSM; coordinate retained. Overpass API was unreachable this session; relations fetched directly via the OSM API v0.6 (/relation/{id}/full.json) and cross-referenced against Wikipedia id.wikipedia.org, blog.cove.id, moovit, and transportforbandung FDTB map.",
+  "source": "llm-normalized"
+}

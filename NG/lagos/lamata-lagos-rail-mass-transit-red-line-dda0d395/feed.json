@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LAMATA — Lagos Rail Mass Transit (Red Line)",
+    "country": "NG",
+    "subdivision": null,
+    "city": "Lagos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/NG/lagos/lamata-lagos-rail-mass-transit-red-line/gtfs/",
+    "mdb_id": "ng-llm-lamata-lagos-rail-mass-transit-red-line",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

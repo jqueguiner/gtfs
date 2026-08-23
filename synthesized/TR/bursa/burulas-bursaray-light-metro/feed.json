@@ -1,0 +1,14 @@
+{
+  "operator": "Burulaş - BursaRay (light metro)",
+  "city": "Bursa",
+  "cc": "TR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 40,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 106
+  },
+  "notes": "Bursaray light metro operated by Burulaş. Two lines: M1 (Geçit/Balat – Arabayatağı/Yavuz Selim, 21 stations) and M2 (Uludağ Üniversitesi – Kestel, 32 stations), sharing the central trunk Acemler–Arabayatağı. 40 unique stations total (includes 2024 M1 west extension to Geçit/Balat, Odunluk infill on M2, and the eastern M2 extension to Kestel).\n\nSTOPS: All 40 station coordinates are authoritative WGS-84 from Wikidata (via SPARQL, P625). Station ordering cross-verified across Wikipedia (en.wikipedia.org/wiki/Bursaray), UrbanRail.net, mapa-metro, YoMetro and Moovit. No stops invented.\n\nSERVICE: Operating hours 06:00–00:30 daily (per UrbanRail.net), base headway 10 min per line / ~5 min on shared trunk. Feed contains ONE representative trip per direction per line (4 trips) at a 07:00 departure to keep the output compact; stop_times use realistic run times (M1 ~35 min, M2 ~55 min end-to-end per Wikipedia/YoMetro) evenly distributed across the ordered stations with a 30 s dwell. To expand to a full-day schedule, replicate each trip on the 10-min headway across 06:00–24:30 (~112 trips/direction). Calendar is a single DAILY service (Mon–Sun), matching the system's 7-day operation.\n\nCONFIDENCE 0.62: station list, order and coordinates are high-fidelity; exact per-station inter-station running times are modelled (even distribution of published end-to-end times) rather than scraped from a per-stop timetable, and only representative trips (not the full headway-expanded day) are included. No leaked/GCJ-02 coords.\n\nroute_type=1 (metro/light metro).",
+  "source": "llm-normalized"
+}

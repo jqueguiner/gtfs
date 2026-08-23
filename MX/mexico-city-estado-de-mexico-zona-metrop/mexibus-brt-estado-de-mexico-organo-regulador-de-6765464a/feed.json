@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mexibus (BRT - Estado de México, Órgano Regulador de Transporte / ORT Edomex)",
+    "country": "MX",
+    "subdivision": null,
+    "city": "Mexico City (Estado de México / Zona Metropolitana del Valle de México)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MX/mexico-city-estado-de-mexico-zona-metrop/mexibus-brt-estado-de-mexico-organo-regulador-de/gtfs/",
+    "mdb_id": "mx-llm-mexibus-brt-estado-de-mexico-organo-regu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

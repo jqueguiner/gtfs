@@ -1,0 +1,14 @@
+{
+  "operator": "CiBus (Cebu Interim Bus Service) - Vallacar Transit Inc. (Yanson Group)",
+  "city": "Cebu",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 11,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 44
+  },
+  "notes": "CiBus / Cebu BRT interim bus service, operated by Vallacar Transit Inc. (Yanson Group) with the Cebu City government; partial BRT ops began 2026-03-13. Single BRT corridor Il Corso (SRP) <-> Fuente Osmena along Cebu South Coastal Rd / N. Bacalso Ave / Osmena Blvd, modeled both directions (route continues to IT Park via Ayala in reality but only the 11 corridor stops below are published+geocodable). Stops and directional ordering from phbus.com published route tables (northbound: Il Corso, SM Seaside, CIT, Tres de Abril, CSBT, BSP, Bradford, Fuente; southbound adds Abellana, Salazar, City di Mare); reconciled with commutetour.com and Cebu BRT commuter guides. Coordinates geocoded from named landmarks (Wikipedia/OSM/latlong, WGS-84). Schedule from phbus.com published headways: Mon-Sat 10-min peak (06:00-09:00, 16:00-21:00), 15-min off-peak (09:00-16:00), 15/30-min late night; Sun/holiday 15-min 06:00-24:00. Provided one representative 06:00 trip per direction per service day (even-headway service can be expanded via frequencies). route_type=3 (interim bus, not yet fixed rail/metro). Fare distance-based (~P12-26, LTFRB PUB guide); free rides 06:00-09:00 and 17:00-20:00 for a limited period. Confidence moderate: stop names/order and headways well-evidenced, but exact clock departure times and precise per-stop dwell are modeled, and full IT Park/Ayala leg omitted (not in the 11 published corridor stops).",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Suroboyo Bus (Surabaya City Dishub / UPTD)",
+  "city": "Surabaya",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 62,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 137
+  },
+  "notes": "Suroboyo Bus is a municipal city-bus network run by Dishub Surabaya's UPTD Pengelolaan Transportasi Umum (route_type=3, bus). Built from Wikipedia (EN + ID corridor R1/R2 pages), detik.com, jatim24.id, Dishub portal, and Moovit.\n\nRoutes modeled (all route_type=3):\n- R1 Purabaya <-> Tanjung Perak: outbound 27-stop list is well-evidenced from id.wikipedia (Koridor R1/R2). Inbound uses the reported return-direction stops (via Rajawali, Jembatan Merah, Veteran, Tugu Pahlawan, Siola, Simpang Dukuh, Gubernur Suryo, Sono Kembang, Margorejo, Wonocolo) since the northbound and southbound alignments differ (one-way trunk streets in central Surabaya). Published: daily 05:30-21:00, 15-min headway.\n- R4 Purabaya - UNAIR C - ITS - Halte PENS (Bus Listrik / electric): full ~39-stop ordered list from a Dec-2024 route article via WebSearch; I selected ~29 representative named stops in correct order. Published daily 05:30-22:00.\n- SBT (Suroboyo Bus Tembaan) Purabaya <-> Tembaan: short central corridor; stop set inferred from the shared trunk (detik reports ~16 stops incl. Kaliasin/Embong Malang/Pirngadi). Lower confidence than R1/R4.\n\nR2 (UNESA-ITS-Kejawan Putih) and R5 (Benowo-Tunjungan) and the weekend Romokalisari route are named in sources but lacked a reliable published stop sequence, so they were NOT fabricated and are omitted.\n\nCoordinates: major terminals and landmarks (Purabaya, Joyoboyo, Tanjung Perak, Tugu Pahlawan, ITS, PENS, Galaxy Mall, UNAIR C, Wonokromo/Bratang) use verified WGS-84 from Wikipedia/Wikidata/Apple Maps. Many intermediate trunk stops along Ahmad Yani/Darmo/Basuki Rahmat/Rajawali are interpolated along the known street alignment (accurate to ~100-300m). No stop is invented - every stop_name comes from a source stop list.\n\nOnly one representative trip per direction per route is provided; real service is a repeating 10-15 min headway across the operating window. Calendar is a single DAILY service (Mon-Sun) since sources state daily operation. Times after the first trip are synthetic (even ~2-3 min interstation spacing) - the sequence and span are faithful, exact clock times per stop are not published.\n\nFare Rp5,000 general / Rp2,500 student / free seniors (not encoded - fare_attributes not in schema).",
+  "source": "llm-normalized"
+}
