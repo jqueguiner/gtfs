@@ -1,0 +1,14 @@
+{
+  "operator": "Petro Ita Transportes Coletivos",
+  "city": "Petropolis",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 8,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 48
+  },
+  "notes": "Petro Ita Transportes Coletivos de Passageiros Ltda (Grupo Master), R. Cel. Veiga 1157, Centro, Petropolis-RJ; CPTrans-regulated urban bus operator (~78 lines per onibus.online, 23 routes/252 stops per Moovit). Sources: onibus.online/empresas/petro-ita (route list), horariosonibus.com + petropolisbus.blogspot (line 204 verified weekday timetable: 18 departures 07:50-23:05), CPTrans official pages (timed out repeatedly during fetch), WebSearch for corridor structure. Stop coordinates geocoded from OSM/Nominatim WGS-84 (Praca da Liberdade, Rua Paulo Barbosa, Rua do Imperador, Valparaiso, Rua Goncalves Dias, Bingen, Quitandinha, Palacio de Cristal). Built 6 flagship routes on the Valparaiso<->Centro corridor (204 via Praca da Liberdade, 205 via Paulo Barbosa, 206 via Duas Pontes, 209 via Dr Thouzet, 211 via Goncalves Dias) plus 025 Executivo Bingen<->Quitandinha, each with both directions. CONFIDENCE 0.4: line 204 weekday times are real and verified; branch/executivo times are even-headway approximations derived from the 204 cadence and published service windows; only evidenced anchor stops (bairros + named streets from the itinerary) are included, not the full granular stop lists which the CPTrans official pages (timed out) would provide. Fine-grained intermediate stops and Sat/Sun exact times not captured. No stops invented beyond source-evidenced anchors. Only ~6 of ~78 lines modelled (the documented flagship corridor).",
+  "source": "llm-normalized"
+}

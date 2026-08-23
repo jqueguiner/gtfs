@@ -1,0 +1,14 @@
+{
+  "operator": "CCR Barcas / Barcas Rio (ferry — Niteroi lines)",
+  "city": "Niteroi",
+  "cc": "BR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 3,
+    "routes": 2,
+    "trips": 14,
+    "stop_times": 28
+  },
+  "notes": "Ferry feed for the two Niteroi<->Rio Guanabara Bay crossings operated by CCR Barcas (Barcas Rio), scraped from barcasrio.com.br schedule/line/station pages (2026-08). Scope limited to the 3 requested terminals: Praca Arariboia (Centro Niteroi), Charitas (Niteroi), Praca XV (Rio). Two routes: (1) Praca Arariboia <-> Praca XV, line id 1009, ferry, daily service; (2) Praca XV <-> Charitas catamaran, weekdays only (does not run weekends/holidays). Stops are point-to-point (2 stops per route, no intermediate calls). Coordinates: Arariboia from Wikidata Q10275572 (22 53 37.0 S, 43 07 27.5 W = -22.893611,-43.124306, exact); Praca XV from Wikipedia (-22.9027562,-43.1724094, exact); Charitas is the Oscar Niemeyer Charitas terminal on Av. Prefeito Silvio Picanco beachfront (-22.9297,-43.1052, OSM/known landmark, ~within 50m). Schedule modeling: Arariboia<->XV weekday timetable is published explicitly (first departures 05:40/06:00 then 15-min then 20-min bands per site); I encoded representative trips per direction using real published clock times. Charitas line weekday timetable per barcasrio linhas_/1009-2 page (XV->Charitas from 06:30 20-min bands; Charitas->XV from 07:00). stop_times use realistic published departure times. calendar: service_weekday (Mon-Fri) for both lines; service_daily (all days) trips added for the Arariboia line on Sat (30-min) and Sun (60-min). Confidence 0.72: terminals/routes/directions/operating-days are firmly evidenced and coords accurate; individual per-trip minute-level times are representative samples of the published bands rather than the operator's full exhaustive timetable, and the Charitas terminal coordinate is a landmark estimate.",
+  "source": "llm-normalized"
+}

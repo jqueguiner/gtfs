@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Via Metro",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Ilhéus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/ilheus/via-metro/gtfs/",
+    "mdb_id": "br-llm-via-metro",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

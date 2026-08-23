@@ -1,0 +1,14 @@
+{
+  "operator": "Crucero del Norte + Río Uruguay (Foz do Iguaçu ↔ Puerto Iguazú, AR international line)",
+  "city": "Foz do Iguacu",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 5,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 30
+  },
+  "notes": "International cross-border bus line (wikiroutes route 46082) linking Terminal de Transporte Urbano (TTU) Foz do Iguaçu, Brazil, with Terminal de Ómnibus Puerto Iguazú, Argentina, over the Tancredo Neves / Fraternity Bridge, with Brazilian and Argentine immigration/aduana stops. Two companies (Crucero del Norte, Río Uruguay) share the same physical alignment; modeled here as one route with representative trips per operator per direction.\n\nSchedule evidence (viajeleve.net, essemundoenosso.com.br):\n- Crucero del Norte FOZ→PIG: 08:00, 08:30, then 09:30,10:30,...,18:30 (hourly); PIG→FOZ: 07:00, then 07:30→17:30 hourly.\n- Río Uruguay FOZ→PIG: 07:30, 08:30,...,18:30 (hourly); PIG→FOZ: 06:30→18:30 hourly.\n- ~12 departures/day each direction, ~40 min avg headway, daily incl. weekends. Trip ~30 min / ~30 km. Fare ~R$10–15 / 600 ARS.\n\nStops: 5 evidenced anchor nodes with WGS-84 coordinates — TTU Foz (Av. JK, Centro), Brazil Receita Federal aduana at the Tancredo Neves bridge head, bridge midpoint, Argentina Centro de Frontera Iguazú (aduana/migraciones off RN12), and Terminal de Ómnibus Puerto Iguazú. The wikiroutes 46082 intermediate stops are address-range fragments (Av. das Cataratas / Av. JK / Av. Victoria Aguirre house-number ranges) that are not individually geocodable reliably, so they are not invented as separate stops.\n\nTimes: published clock departures used; intermediate stop_times interpolated over the ~30 min run. Immigration dwell not separately modeled. confidence 0.55: real route + real operators + real published departure times, but intermediate stop granularity and exact timing between border posts are approximated.",
+  "source": "llm-normalized"
+}

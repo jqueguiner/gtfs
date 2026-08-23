@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio MocBus",
+  "city": "Montes Claros",
+  "cc": "BR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 159,
+    "routes": 30,
+    "trips": 12,
+    "stop_times": 520
+  },
+  "notes": "Urban bus network (Consórcio MocBus = Alprino + Solaris), Montes Claros/MG, overseen by MCTrans. Source: onibusmoc.com per-line pages (route list + ordered named stops per direction + schedule times), cross-checked with mocbus.com.br (operator/agency identity) and Moovit. No metro/rail/BRT exists in Montes Claros, so all routes are route_type 3 (bus).\n\nCOVERAGE: routes.txt contains all 30 municipal lines from the official line index (evidenced). Full ordered stops + representative trips were built for the 3 lines whose complete per-direction stop sequences and timetables were scraped from onibusmoc.com: 2601 (Recanto das Águas / Maracanã, 48 out + 37 ret stops), 5801 (Vila Sion II / Vila Mauricéia, 51 out + 55 ret), and 2201 (UFMG / Centro, 33 out + 36 ret, explicit clock times 06:20/08:00/17:00 out and 07:20/08:50/16:10/17:50 ret). The other 27 routes are listed (route_id/name) but carry no trips/stop_times because their ordered stop lists were not scraped — not invented.\n\nTRIPS: 2 representative trips per direction per detailed line (first + last departure of the day) with realistic clock start times from the published timetable; intermediate stop_times use an even ~90s inter-stop spacing (dwell/travel not published). 2601/5801 use published weekday first/last departures; 2201 uses its 3 explicit outbound and 4 explicit inbound weekday times (trimmed to first+last for the representative pair).\n\nSTOPS: 159 unique named stops (streets/landmarks) taken verbatim from the per-line sequences. 19 major hubs/landmarks geocoded to WGS-84 from OSM/known coordinates (Praça Doutor Carlos/Estação Central, Praça Coronel Ribeiro, UFMG-ICA, Funorte, Parque de Exposições João Alencar Athayde, Av. Geraldo Athayde, Hospital São Lucas, Maracanã, Av. Liberdade, Recanto das Águas, Vila Sion II, Vila Mauricéia/Unimontes, and several central avenues). The many minor street-corner stops (numbered/lettered streets, local rua names) are left with null coordinates rather than guessed.\n\nCALENDAR: WEEKDAY service used for all built trips (all 3 detailed lines run Mon-Fri; 2201 explicitly does NOT run Sat/Sun). SATURDAY and SUNDAY calendar records are provided for completeness (2601/5801 have Sat service; 2601 also Sun) but no Sat/Sun trips were materialized since only summary interval ranges (not clock times) were published for those days.\n\nCONFIDENCE 0.6: operator identity, route catalog, and the 3 detailed lines' stop orderings + weekday departure times are faithful to the source; lowered because 27 of 30 routes lack stops/trips, inter-stop timings are synthesized from even spacing, and most stop coordinates are null.",
+  "source": "llm-normalized"
+}

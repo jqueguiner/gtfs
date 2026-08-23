@@ -1,0 +1,14 @@
+{
+  "operator": "Expresso Coletivo Forquilhinha",
+  "city": "Criciúma",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 6,
+    "routes": 2,
+    "trips": 19,
+    "stop_times": 101
+  },
+  "notes": "Intercity/metropolitan lines granted to Expresso Coletivo Forquilhinha (Grupo Forquilhinha) by SIE-SC after ZTL Transportes withdrew; operating on emergency basis since 2023-10-13, permanent via simplified selection (2024-02). Two lines modeled: 185 Criciúma–Treviso via Siderópolis and 188 Criciúma–Estação Fiorita (Siderópolis) via Vila São Jorge. Departure times are DIRECTLY from the published schedule (onibusetransporte.com + onibus.online + portallitoralsul): Line 188 from Criciúma weekdays 05:00, 06:30, 11:30, 16:20, 17:30, 18:30, 19:30; Line 185 from Criciúma 05:00, 06:50, 11:30, 16:20, 19:30; Treviso→Criciúma 05:45, 07:50, 12:30, 17:20, 20:20; Siderópolis→Criciúma extras 07:15, 14:00 (Mon–Sat). Line 185 official itinerary from source: Rodoviária Criciúma / R. Gonçalves Ledo / SC-446 / Vila São Jorge / Rodoviária Siderópolis / Igreja Matriz Siderópolis / Estação Fiorita / Rodoviária Treviso. Only named/terminal stops are included (evidenced); no fabricated intermediate curbside stops. Stop coordinates: terminals geocoded to municipality-center/street level from web search + IBGE/Wikipedia (Criciúma terminal at R. Gonçalves Lêdo Centro ~-28.6775,-49.3733; Siderópolis center -28.5959,-49.4319; Treviso center -28.5097,-49.4634); intermediate district stops (Vila São Jorge, Estação Fiorita/Rio Fiorita) interpolated along the SC-446 corridor between the geocoded terminals — approximate to ~1km. Intermediate stop_times interpolated on a realistic ~40-min Criciúma↔Treviso corridor since only endpoint departure times are published. Nominatim was rate-limited (429) so exact terminal-building coords could not be pinned. This is a bus feed (route_type=3); no metro/rail exists in this corridor. Confidence 0.62: route list, endpoints and departure times are well-evidenced from multiple sources; intermediate stop coordinates and intermediate timings are estimated.",
+  "source": "llm-normalized"
+}

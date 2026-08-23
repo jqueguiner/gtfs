@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Auto Viação Chapecó",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Chapecó"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/chapeco/auto-viacao-chapeco/gtfs/",
+    "mdb_id": "br-llm-auto-viacao-chapeco",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

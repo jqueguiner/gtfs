@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Elite",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Volta Redonda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/volta-redonda/viacao-elite/gtfs/",
+    "mdb_id": "br-llm-viacao-elite",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

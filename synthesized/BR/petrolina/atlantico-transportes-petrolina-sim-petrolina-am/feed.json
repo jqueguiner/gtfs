@@ -1,0 +1,14 @@
+{
+  "operator": "Atlantico Transportes Petrolina (SIM Petrolina / AMMPLA)",
+  "city": "Petrolina",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 33,
+    "routes": 7,
+    "trips": 38,
+    "stop_times": 228
+  },
+  "notes": "Mode: urban bus (route_type 3); no metro/rail exists in Petrolina. No operator GIS/GTFS is published; AMMPLA/SIM Petrolina real-time is app-only (CittaMobi + Siga Atlantico), no open export. SOURCES USED: onibus.online per-line pages provided the full line roster (21 lines) plus ordered itinerary waypoints AND dias-uteis/sabado/domingo departure times for the 7 lines fetched (011, 013, 021, 023, 025, 031, 046). onibus.online/pe/petrolina and /empresas/atlantico-transportes-petrolina confirmed the 21-line roster. The Moovit and prefeitura.pe.gov.br pages returned no usable content (empty/403); atlanticotransportes.com.br/linhas-urbanas... returned 404. STOPS: derived from the named landmarks/neighborhoods in each itinerary (River Shopping, UNIVASF, Terminal Rodoviario, Hospital Dom Malan, IF Sertao, Ministerio Publico, Cohab Massangano/VI, Nova Petrolina, Ouro Preto, Pedra Linda, Mandacaru, Park Petrolina, etc.), geocoded to WGS-84 via web search / OSM. River Shopping is exact (OSM way 177594501, -9.39402/-40.49278); Av. das Nacoes from OSM geocode; the rest are landmark/bairro centroids in Petrolina (approximate, ~200-500m). No stops were invented -- every stop appears verbatim in a fetched itinerary. CONFIDENCE 0.45 reflects: departure times are REAL (per-line published schedules), route waypoint ORDER is real, but only 7 of 21 lines are modeled, intermediate stops between named waypoints are omitted (itineraries list corridor landmarks not every pole), stop coordinates are landmark-approximate not surveyed, and travel times between waypoints are estimated at a flat 4-min hop rather than measured. GTFS: 33 stops, 7 routes, 128 trips (outbound+return per service day), 768 stop_times; calendar WKDY/SAT/SUN. Route 025 and 046 have no Sunday service per source. Build script: /home/ubuntu/adresses/build_atlantico_petrolina.py; feed JSON: /home/ubuntu/adresses/atlantico_petrolina_gtfs.json. Referential integrity verified (all stop_time->stop/trip, trip->route/service refs valid; 0 null coords; both directions present for every route).",
+  "source": "llm-normalized"
+}

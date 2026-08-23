@@ -1,0 +1,14 @@
+{
+  "operator": "Empresa Pioneira de Transportes Ltda",
+  "city": "Cascavel",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 30,
+    "routes": 28,
+    "trips": 56,
+    "stop_times": 168
+  },
+  "notes": "Bus-only feed; Cascavel has no metro/rail/BRT so METRO-FIRST does not apply. Route list is HIGH confidence: all 28 Pioneira lines cross-confirmed by two independent onibus.online pages (operator page + city page), with terminal endpoints and via-names. Terminal-to-terminal trunk lines (001,003,004,005,007,120,160,170,191) have accurate endpoints; radial neighborhood lines (030,040,050,051,060,070,080,090,091,094,105,110,125,130,135,140,145,155,175) are named after their served bairro. Service envelope (first bus ~04:57, last ~00:28, daily) confirmed via Moovit terminal pages.\n\nLIMITATIONS lowering confidence: (1) The official Transitar site (transitarcascavel.com.br) and Moovit per-stop pages are behind a WAF/JS and returned 403/empty to WebFetch and curl, so the promised 678-stop per-line/per-direction sequences and exact published departure times could NOT be scraped. (2) Overpass and Nominatim were rate-limited/blocked (429/500) from this environment, so no OSM highway=bus_stop layer could be pulled. As a result each route is modeled with a representative 3-stop skeleton (origin terminal -> served bairro/centro -> destination terminal), NOT the full intermediate stop list. (3) Stop coordinates are WGS-84 approximations from Cascavel geography + verified address anchors (Terminal Oeste=Rodoviária Av.Assuncao 1757 Alto Alegre; Terminal Leste=R.Maringa/Av.Barao do Rio Branco Gramado; Terminal Nordeste=Ceasa Av.Piquiri/PR-180; Terminal Sudoeste=Detran), accurate to city-block level (~100-300m), not surveyed. (4) stop_times use an even 3-trip pattern (05:00/12:00/23:00) across the real service window rather than the true published timetable, since exact tables were unreachable. No stops were invented beyond terminals + evidenced bairro names from the route long-names. To raise confidence, a follow-up should scrape Moovit line pages (rendered) for ordered stops and pull the Transitar HTML timetables.",
+  "source": "llm-normalized"
+}

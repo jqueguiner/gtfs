@@ -1,0 +1,14 @@
+{
+  "operator": "TUA - Transportes Urbanos Araçatuba",
+  "city": "Araçatuba",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 15,
+    "routes": 14,
+    "trips": 31,
+    "stop_times": 62
+  },
+  "notes": "Sources: onibus.online (route list + per-route operating hours, weekday/Sat/Sun), tuatransportes.com.br and transitrun.com (route list cross-check). 14 lines (103-126) confirmed by 3 independent sources. Terminal Urbano Nelson Reis Alves and each route's named destination neighborhood geocoded to WGS-84 via OSM/Photon (Nominatim was rate-limited; Overpass global mirrors were down and OSM has ZERO highway=bus_stop nodes for Araçatuba, so intermediate stops could not be sourced). Moovit's advertised 325 stops were not machine-accessible (deep-link pages did not render for fetch). CONSEQUENCE: no intermediate stop sequences are evidenced, so each route models only 2 evidenced stops (Terminal + destination anchor) per direction — this is a skeletal but geographically-correct feed, NOT a full stop-by-stop schedule. Times: onibus.online gives operating windows with roughly hourly cadence; trips are generated at an even 60-min headway across each published window, with a 25-min terminal<->destination run time. Weekday service ~05:50-23:20; Saturday reduced (~to 14:20-18:20); Sunday only on the higher-frequency lines (104/111/112/120/121/123/126) per source. Full validated GTFS (926 trips, 1852 stop_times across all services/directions) written to /home/ubuntu/adresses/gtfs_tua_aracatuba/. The payload below carries representative trips (one per route/direction/service). Confidence 0.42: route list, operator, terminal and endpoints are solid; intermediate routing/stops and exact per-trip clock times are modeled, not sourced.",
+  "source": "llm-normalized"
+}

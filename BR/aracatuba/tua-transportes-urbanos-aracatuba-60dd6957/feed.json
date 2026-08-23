@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TUA - Transportes Urbanos Araçatuba",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Araçatuba"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/aracatuba/tua-transportes-urbanos-aracatuba/gtfs/",
+    "mdb_id": "br-llm-tua-transportes-urbanos-aracatuba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

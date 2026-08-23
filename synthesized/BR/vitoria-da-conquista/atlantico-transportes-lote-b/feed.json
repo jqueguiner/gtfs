@@ -1,0 +1,14 @@
+{
+  "operator": "Atlântico Transportes (Lote B)",
+  "city": "Vitória da Conquista",
+  "cc": "BR",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 17,
+    "routes": 20,
+    "trips": 40,
+    "stop_times": 96
+  },
+  "notes": "Operator confirmed via 2023 Concorrência 001/2023 homologation: Atlântico Transportes LTDA won Lote B (technical fare R$6.84), Viação Rosa won Lote A. Sources: diariodotransporte, onibusetransporte, PMVC. The 20 Lote B lines and origin/destination endpoints come from onibus.online (Atlântico Transportes VC operator page): D33/D34/D35/D36 (neighborhood-UESB), P50/P54/P55 (peripheral), R10/R11/R12/R14/R15/R16/R19/R19A/R20/R22/R23/R24/R27 (neighborhood-Centro). Real published departure times were fetched for R16, R19, R24, D35; other lines use even headways (~15-20 min, matching observed frequency on the fetched lines) across observed service spans. LIMITATION: onibus.online and SINTRAVC publish only route endpoints (origin neighborhood + Centro/UESB), not machine-readable intermediate street-level stop sequences; the VodeBuzu app (vodebuzu.pmvc.ba.gov.br) and Moovit index pages returned no extractable stop traces (JS app / empty). The PMVC per-line itinerary PDFs (borgesinfor.yolasite.com) returned HTTP 403. Therefore stops are limited to evidenced terminals/hubs (Centro terminal, UESB campus, Rodoviária) plus neighborhood origin points; intermediate stops are NOT invented. Coordinates are WGS-84: Centro terminal and UESB (Estrada do Bem Querer km4) and Rodoviária (BR-116, Loteamento Cristo Rei) are anchored to known landmark addresses; neighborhood origin coords are approximate centroids within the compact urban footprint (~-14.79..-14.90 lat). No metro/rail exists in this city (bus only). Confidence 0.4 reflects: strong operator/line/schedule evidence, weak intermediate-stop and exact-coordinate evidence.",
+  "source": "llm-normalized"
+}

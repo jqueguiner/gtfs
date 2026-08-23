@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VCG - Viação Campos Gerais",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Ponta Grossa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/ponta-grossa/vcg-viacao-campos-gerais/gtfs/",
+    "mdb_id": "br-llm-vcg-viacao-campos-gerais",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

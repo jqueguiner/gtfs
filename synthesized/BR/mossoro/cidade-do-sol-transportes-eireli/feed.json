@@ -1,0 +1,14 @@
+{
+  "operator": "Cidade do Sol Transportes Eireli",
+  "city": "Mossoró",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 118,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 368
+  },
+  "notes": "Bus operator (route_type=3); no metro/rail exists for this operator. 5 lines built from evidenced CittaMobi sources: lines 01, 04, 17 from CittaMobi HTML per-line pages (full ordered stop lists + schedule tables); lines 02 and 18 from the downloadable CittaMobi PDFs (extracted via pdftotext, full 59- and 48-stop itineraries + TABELA HORÁRIA). Moovit page returned empty and onibus.online listed line names but no ordered stops, so they only corroborated the operator/line set. Stops are the exact CittaMobi addresses (name = street, number range, neighborhood). Coordinates are WGS-84, geocoded by matching each stop's street to OSM highway ways within the Mossoró admin_level=8 area (Overpass, maps.mail.ru mirror; overpass-api.de/kumi were 500ing and Nominatim was HTTP 429). A deterministic sub-block jitter separates distinct stops on the same avenue. 5 stops without a clean street match fell back to neighborhood centroids (cds-027/079/080/107 and the Bem Viver condo); ~3 more are approximate. Schedules: each line has one representative trip per direction at realistic clock times seeded from the published start time (01 06:15, 02 05:35, 04 06:45, 17/18 07:10) with a 2-min inter-stop spacing; published headways (80/89/77/145/165 min) recorded in memory but only one representative departure per direction is emitted per the spec. Reverse-direction trip is the itinerary reversed (CittaMobi only publishes one direction). Line 01 runs Mon-Sat (Saturday service evidenced); 02/04/17/18 are weekday-only per their tables (17/18 also show a single Saturday trip). Not modeled: the other ~6 onibus.online lines (Belo Horizonte/Bom Jesus, Nova Mossoró, Nova Vida, Sumaré, Universidades, Vingt Rosado) — no ordered-stop source was in scope. Agency address: Rua Joana Batista Cunha 3, Dom Jaime Câmara, Mossoró-RN; phone (84) 3312-3205.",
+  "source": "llm-normalized"
+}

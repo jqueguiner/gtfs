@@ -1,0 +1,14 @@
+{
+  "operator": "Viacao Uniao (Duque de Caxias)",
+  "city": "Duque de Caxias",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 11,
+    "routes": 9,
+    "trips": 2,
+    "stop_times": 10
+  },
+  "notes": "Bus operator (Viacao Uniao Ltda., ANTT/DETRO code 204), no metro/rail of its own — route_type=3 throughout. Route list drawn from onibus.online (29 lines) and horariosonibus.com; the 471C/476C corridor itinerary (Terminal Americo Fontenelle Central RJ -> Praca do Pacificador/Centro DC -> Campos Eliseos -> Jardim Primavera -> Saracuruna) and its real timetable (weekday first ~05:00 Central / ~04:30 Saracuruna, last ~21:00, headway 40-60 min; Sat ~60 min; no published Sunday) come from terminalcastelo.com and a corroborating web search. 9 best-evidenced routes modeled, each with both directions (ida/volta) and weekday/Sat/Sun representative departures over the service span. Stop coordinates are WGS-84: Estacao Saracuruna, Jardim Primavera, Campos Eliseos and Duque de Caxias from Wikidata/pt.wikipedia; Praca do Pacificador and Terminal Americo Fontenelle from verified searches. CONFIDENCE is moderate: the operator publishes NO official GTFS and NO per-stop timetable — intermediate stops between corridor anchors are not enumerated by the sources, so stops here are terminal/neighbourhood anchors along the real itinerary rather than every physical bus_stop. Neighbourhood-anchor coordinates (Parque Sao Vicente, Mantiquira, Pilar, Bom Retiro, Jardim do Ipe) are approximate district centroids (~within 1-2 km) since exact stop nodes weren't available (Nominatim/Overpass were network-blocked in this env). Times for non-471C lines reuse the 471C schedule template (even headway across service hours) as the sources only give frequency, not clock times, for them. Feed JSON written to /home/ubuntu/adresses/gtfs_viacao_uniao/feed.json. tonoponto.com returned HTTP 403 and could not be scraped; OSM rel 2825514 is a different operator (Flores 451T), not Viacao Uniao.",
+  "source": "llm-normalized"
+}

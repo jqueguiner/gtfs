@@ -1,0 +1,14 @@
+{
+  "operator": "Auttran / Transube (Uberaba)",
+  "city": "Uberaba",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 24,
+    "routes": 3,
+    "trips": 18,
+    "stop_times": 81
+  },
+  "notes": "Operator: Auttran / Transube, Uberaba (MG, Brazil) urban bus network including the VETOR BRT. Priority mode (BRT) built first: lines 100 (Corredor Leste/Sudoeste, Terminal Beija-Flor - Terminal Univerde - Terminal Manoel Mendes) and 200 (Corredor Sudeste, Terminal Univerde - Terminal Gameleiras), plus representative bus line 10 (São Cristóvão / Facthus). Station lists and ordering taken from the authoritative Auttran itineraries on onibus.online (100/200/10 pages) and cross-checked against the VETOR BRT documentation (12 tube stations along Av. Leopoldino de Oliveira: Jaime Bilharinho, Santos Dumont, Artur Machado, Mercado Municipal, Conde Prados, Oswaldo Cruz, Hélio Luiz da Costa, UAI, UPA Parque do Mirante, Recanto do Sol) plus terminals Univerde (Oeste), Manoel Mendes (Leste), Gameleiras (Sudeste), Beija-Flor (Sudoeste). Service hours from onibus.online: line 100 ~05:00-23:15, line 200 ~05:05-23:30, line 10 ~05:45-23:40 on weekdays. COORDINATES: only Terminal Manoel Mendes is an exact OSM value (way 539288482 = -19.758391,-47.901724, WGS-84). All other stops are interpolated along the real corridor geometry between OSM-confirmed / address-anchored endpoints (Terminal Univerde ~Av. Leopoldino 5100 west end; city center; Gameleiras/Beija-Flor from documented addresses) because Nominatim and Overpass were unreachable/rate-limited from this host - positions are approximate (order-correct, within a few hundred metres) not surveyed. CALENDAR: weekday service only modelled (Sat/Sun exist with reduced hours per source but not enumerated). TRIPS use 30-min representative headways (real peak headways are 5-7 min BRT, off-peak 10-25 min); 3 representative trips per direction per route (early/midday/late) included. The 48-line Uberaba network is only partially built here (2 BRT + 1 bus) - the remaining ~45 conventional bus lines were not enumerated.",
+  "source": "llm-normalized"
+}

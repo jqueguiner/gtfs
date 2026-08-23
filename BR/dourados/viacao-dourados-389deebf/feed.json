@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Dourados",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Dourados"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/dourados/viacao-dourados/gtfs/",
+    "mdb_id": "br-llm-viacao-dourados",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

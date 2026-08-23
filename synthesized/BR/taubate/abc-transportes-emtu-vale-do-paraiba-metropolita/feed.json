@@ -1,0 +1,14 @@
+{
+  "operator": "ABC Transportes (EMTU – Vale do Paraíba metropolitan/suburban lines 5201/5221, 5202, 5203, 5220)",
+  "city": "Taubaté",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 5,
+    "routes": 4,
+    "trips": 16,
+    "stop_times": 40
+  },
+  "notes": "Feed covers four EMTU metropolitan/suburban (intermunicipal) bus lines operated by ABC Transportes in the Vale do Paraíba around Taubaté, built from voudetau.com.br line pages (itineraries + published departure times) and EMTU line data. All are route_type=3 (suburbano/ônibus); no metro/rail exists for these lines despite the metro/rail-first guidance.\n\nMODELING: The voudetau pages list street-by-street itinerary paths (dozens of streets), which are the vehicle path, NOT discrete GTFS stops. To avoid inventing stop points, GTFS stops are limited to the evidenced, geocodable timepoints/terminals named in the task and itineraries: Taubaté Rodoviária Velha (Terminal João Francisco dos Santos), Tremembé Terminal, Caçapava Terminal, Pindamonhangaba Rodoviária, plus the Araretama (Pinda) intermediate for 5201. Intermediate street-level times are not published, so intermediate stop_times are interpolated evenly across the published total travel time (5201=60min; 5202/5203/5220=70min).\n\nTIMES: Each line's published departure list mixes both directions on one page (no per-direction split given), so I selected representative early departures and modeled one trip per direction using the line's stated travel time. Headways within the day are irregular (published) — only representative trips are emitted per direction, not the full daily frequency table. Trip start times are real published clock times.\n\nCOORDINATES: Terminals geocoded via OSM/Nominatim (WGS-84): Caçapava Terminal (-23.11007,-45.70815), Pindamonhangaba Rodoviária (-22.98772,-45.46733), Tremembé Terminal (-22.96371,-45.54771), Taubaté Rodoviária Velha / Parque Dr. Barbosa de Oliveira (-23.02302,-45.56042), Araretama/Pinda (-22.94773,-45.50228).\n\nNOT USED / LIMITATIONS: EMTU resultado.htm and the official EMTU GTFS.fss / ARTESP open-GTFS were not confirmed to contain these specific ABC/Vale do Paraíba lines during scraping; the authoritative per-stop coordinates and per-direction timetables from those feeds would raise fidelity. Line 5221 is a schedule variant grouped with 5201 on the source page and is represented by route 5201. Confidence 0.55: itineraries, terminals, travel times and departure clock times are real/published; intermediate stop coordinates/times and per-direction time splits are approximated.",
+  "source": "llm-normalized"
+}

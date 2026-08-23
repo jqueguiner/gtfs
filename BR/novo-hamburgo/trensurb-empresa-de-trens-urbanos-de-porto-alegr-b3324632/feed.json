@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trensurb - Empresa de Trens Urbanos de Porto Alegre S.A. (Linha 1)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Novo Hamburgo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/novo-hamburgo/trensurb-empresa-de-trens-urbanos-de-porto-alegr/gtfs/",
+    "mdb_id": "br-llm-trensurb-empresa-de-trens-urbanos-de-por",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

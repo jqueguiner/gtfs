@@ -1,0 +1,14 @@
+{
+  "operator": "ABC Transportes Coletivos do Vale do Paraíba (TAU! – Transporte Acessível Urbano)",
+  "city": "Taubaté",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 5,
+    "routes": 5,
+    "trips": 14,
+    "stop_times": 42
+  },
+  "notes": "Source: voudetau.com.br per-line pages (horarios + linha-01/02/16/26/28) and abctransportes.com.br. Line 14 page returned HTTP 404, so it was excluded (no evidence). These are CIRCULAR urban bus routes whose published itineraries are street-by-street lists, NOT discrete named boarding stops. Per the 'never invent stops' rule, stops are limited to the discrete, named, geocodable anchor points that actually appear in the itineraries: the central terminal (Rodoviária Velha / Praça Dr. Barbosa de Oliveira), Praça Santa Terezinha, Praça da CTI, Eco Cecap, and Via Vale Garden Shopping. Each route is modeled as terminal -> intermediate anchor(s) it verifiably passes -> terminal, since finer stop granularity is not evidenced. Coordinates are WGS-84 from web geocoding of the named places (Praça Santa Terezinha -23.031675,-45.561048; Eco Cecap ~-23.0307,-45.6222; Via Vale Garden Shopping -23.05407,-45.60579; terminal ~-23.0265,-45.5560; Praça CTt/Félix Guisard approx from central Taubaté). Departure times are REAL published clock times from the line pages (weekday/Saturday/Sunday lists); one representative trip per line per service day is provided using the first published departure, with intermediate stop_times interpolated across the published total trip duration (80 min L01, 90 min L02, ~80 min L16/L28, 65 min L26). Fare is R$4.70 on all lines. Confidence 0.55: routes, operating days, real departure times and terminal endpoints are solid; intra-route stop granularity and intermediate coordinates are coarse because the operator publishes street itineraries rather than a stop inventory, and only a subset of lines (5 of ~27) was scraped.",
+  "source": "llm-normalized"
+}

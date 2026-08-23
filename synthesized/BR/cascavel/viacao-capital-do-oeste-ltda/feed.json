@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Capital do Oeste Ltda",
+  "city": "Cascavel",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 6,
+    "routes": 8,
+    "trips": 20,
+    "stop_times": 32
+  },
+  "notes": "Urban bus operator within the Transitar Cascavel system — NO metro/light-rail/BRT/suburban rail exists in Cascavel, so all routes are route_type=3 (bus). Route inventory + real schedule times (first/last departure per weekday/Saturday/Sunday, plus headways) scraped from onibus.online per-line pages (008,009,190,255,267,295,305,360), all confirmed operated by Viação Capital do Oeste. STOPS: limited to the 6 shared terminals (Leste/Oeste/Sul/Sudoeste/Nordeste + Estação Central) — these are the only stops evidenced by the accessible sources. Moovit per-line/per-direction intermediate stop sequences (\"515 stops\") were NOT server-accessible (JS-rendered / returned empty), and Transitar's official site returned HTTP 403, so intermediate stops were deliberately NOT invented; each route is modeled endpoint→endpoint. Terminal coordinates are WGS-84, derived from documented street addresses/landmarks (Rua Maringá/São Cristóvão for Leste; Rodoviária/Av. Tancredo Neves for Oeste; Unioeste 24°59′17″S 53°27′04″W for Sul; Detran/Santo Onofre for Sudoeste; Av. Piquiri/Ceasa for Nordeste; Catedral/Centro for Estação Central) — approximate to ~200-500m. Trips: even headway expanded across the published first→last service window per direction (line 190 uses its explicit published clock times, weekday-only; line 295 has no Sunday service; 190 has no Sat/Sun). Travel time between terminals approximated at 18 min. Confidence is moderate: schedule spans and route list are real, but the feed lacks the true intermediate stop topology and exact interpolated trip times. Files written to /home/ubuntu/adresses/gtfs_cascavel/ (agency,stops,routes,trips,stop_times,calendar .txt) via build.py. Validated: 0 orphan refs, all routes have trips, service/route IDs resolve.",
+  "source": "llm-normalized"
+}

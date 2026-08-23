@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Rosa (Lote A)",
+  "city": "Vitória da Conquista",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 5,
+    "routes": 4,
+    "trips": 32,
+    "stop_times": 64
+  },
+  "notes": "Operator = Viação Rosa LTDA, winner of Lote A in Concorrência 001/2023 for Vitória da Conquista urban transit (confirmed via blogdoredacao/ibahia + Viação Rosa official profile). The city's VodeBuzu system (vodebuzu.pmvc.ba.gov.br) is a client-side JS app with no reachable JSON API from this environment, and the official PMVC per-line PDFs are FlateDecode-compressed binary (not text-extractable via WebFetch), so full intermediate street-by-street itineraries could NOT be extracted. onibus.online DOES expose, per line: the line code, full name (origin/destination), and real schedule envelopes (first/last departure + trip counts for weekday & Saturday). SINTRAVC + onibus.online confirm the full ~49-line roster (D/P/R series).\n\nSCOPE OF THIS FEED: 4 routes with CONFIRMED real schedule times from onibus.online (last updated 2026-05-30): R01 Vilas Serranas, R02 Cidade Maravilhosa, R07 Nova Cidade, R19 Rodoviária — all radial neighborhood<->Centro. Each has a representative ida+volta trip at the real first and last departure of the day, for weekday and Saturday. Stop coordinates are WGS-84 from OSM/Photon (komoot) geocoding of the neighborhood terminals and Centro (Av. Régis Pacheco); no GCJ-02 issue (Brazil). \n\nLIMITATIONS lowering confidence: (1) only terminal stops are modeled (origin neighborhood + Centro) — the granular per-street stop chain from VodeBuzu could not be scraped; (2) intermediate travel times are estimated from straight-line distance at ~18 km/h; (3) Sunday service not modeled (VodeBuzu lists domingo hours but they were not extractable); (4) I built the 4 confirmed lines only — the broader ~36-line network (all R/D/P lines) was geocoded and assembled locally at /home/ubuntu/adresses/gtfs_vrosa/gtfs.json (36 routes / 35 stops / 3876 trips using default radial envelopes) but is NOT inlined here because those lines' exact schedules were not individually confirmed. A few neighborhood coordinates (Santa Marta, São Sebastião, José Gonçalves, Cidade Maravilhosa, Jardim Candeias) fell back to approximate urban-area centroids where Photon returned a distant/rural namesake. Lote-A vs Lote-B (Atlântico) exact line split is not officially published per-line, so line ownership is inferred from Viação Rosa operating the city-core R/D/P network.\n\nSources: onibus.online/ba/vitoriadaconquista (schedules+roster), sintravc.com.br (roster), blogdoredacao.com.br + ibahia.com (Lote A licitação), vodebuzu.pmvc.ba.gov.br (system), OSM via photon.komoot.io (coordinates).",
+  "source": "llm-normalized"
+}

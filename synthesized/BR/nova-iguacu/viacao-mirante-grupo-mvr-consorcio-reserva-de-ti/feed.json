@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Mirante (Grupo MVR, Consórcio Reserva de Tinguá / Mobilidade NI)",
+  "city": "Nova Iguaçu",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 143,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 209
+  },
+  "notes": "Built from Moovit per-line PDFs (offline schedule PDFs, appassets.mvtdev.com) for the two lines documented as Viação Mirante within the Consórcio Reserva de Tinguá / Mobilidade NI municipal system in Nova Iguaçu: line 119 (Nova Iguaçu <-> Corumbá) and line 138 (Nova Iguaçu <-> Miguel Couto via Ambaí). The Meu Mover / onibusdorio fandom source confirms Mirante's 2018 A/C fleet renewal was deployed specifically on lines 119 (Corumbá) and 138 (Miguel Couto), so both are firmly attributable to Mirante. Ordered named street-address stops come verbatim from the Moovit PDFs (138: 55/52 stops per direction; 119: 52/51). All 4 directions modeled. moovitapp.com line index (859052) and onibusdorio wiki returned HTTP 402/empty; the individual Moovit line PDFs were the usable source. Service: 05:00-00:00 all 7 days per the PDFs; frequency not published, so one representative trip per direction is emitted at realistic clock/travel times (PDF-stated durations 31-33 min). The final-stop anchor requested by the task ('Ponto Final - Nova Iguaçu (Mirante / São José - Municipal)' at Rua Alberto Ludolf, 60) is used as the Mirante terminal; the PDFs label the same physical Alberto Ludolf,60 point variously as Glória/Linave or Vera Cruz-Municipal (shared consortium terminal cluster next to Estação Nova Iguaçu). COORDINATES: WGS-84. Anchor stops (Estação Nova Iguaçu, Rua Alberto Ludolf/Ponto Final, Terminal Miguel Couto, Top Shopping, UFRRJ, Hospital da Posse, CEFET/Monte Castelo, Corumbá/Padaria do Rocha) placed from web-search + known landmark coordinates; intermediate numbered address stops linearly interpolated along the corridor between anchors (ordering/geometry realistic, individual address points approximate to ~100-300m). OSM Overpass/Nominatim were rate-limited/500 from this environment, so geocoding relied on landmark anchoring rather than per-stop OSM lookup — this is the main confidence limiter. Not built: other Mirante lines (460I/461I/665I/670I appear in onibusdorio but have no accessible ordered-stop source; some 665I/670I extensions were abandoned per the wiki). No stops invented.",
+  "source": "llm-normalized"
+}

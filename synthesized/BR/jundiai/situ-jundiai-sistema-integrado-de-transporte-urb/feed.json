@@ -1,0 +1,14 @@
+{
+  "operator": "SITU Jundiaí (Sistema Integrado de Transporte Urbano)",
+  "city": "Jundiaí",
+  "cc": "BR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 20,
+    "routes": 2,
+    "trips": 16,
+    "stop_times": 106
+  },
+  "notes": "Built from two official SITU per-line EDS PDFs (L523 vig. 2026-03-30, L030 vig. 2025-05-12) which give full itineraries (ordered street sequences) and exact departure times by day type. Only these 2 of the ~20 SITU lines had accessible PDFs decoded, so the feed covers routes 030 and 523 with real clock times; the other 18 lines are enumerated in central.php but their PDFs were not parsed. Stops are representative anchor points (7 named terminals + distinctive itinerary streets), NOT every physical bus_stop — the PDFs list street names, not stop points, so intermediate stops are geocoded street midpoints. Terminal coords from OSM Nominatim (Vila Arens, Eloy Chaves, Cecap, Colônia, Rami) and local guides (Hortolândia); Terminal Central placed at its Centro location (Rua Barão do Triunfo, near geocoded Cel. Leme da Fonseca) as OSM had no direct node. Street anchors geocoded via OSM Nominatim (WGS-84). Two unused terminals (Vila Arens, Eloy Chaves, Cecap, Colônia, Rami) are included as stops for network anchoring but no trips serve them here. L523: 27 wk / 25 sat / 20 sun trips per direction — represented by first/midday/evening samples. L030 pattern A only; PDF shows no Sat/Sun service. Trip times between stops are proportional estimates from the PDF's segment km (IDA/VOLTA lengths) since only terminal departure times are published.",
+  "source": "llm-normalized"
+}

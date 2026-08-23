@@ -1,0 +1,14 @@
+{
+  "operator": "Auto Viação Chapecó",
+  "city": "Chapecó",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 10,
+    "routes": 6,
+    "trips": 12,
+    "stop_times": 32
+  },
+  "notes": "Bus-only urban network (route_type=3); Chapecó has NO metro/light-rail/BRT/suburban rail, so the metro-first rule does not apply. Operator AVCHAP runs ~26-27 radial lines all hubbed at the single Terminal Urbano (Rua Clevelândia 68, Centro). SOURCES: route list + departure times scraped from onibus.online/empresas/auto-viacao-chapeco and horariodeonibus.net (line 07 Trevo and line 18 Vila Rica departure lists verified verbatim; schedules marked \"updated 29/05/2026, collected officially\"). The official site autoviacao.com.br and the Google Drive folder host only per-line PDFs; onibus.online mirrors those. Moovit + a chapeco.sc.gov.br itinerary description supplied the ordered landmark stop sequence for line 18. STOPS: geocoding is the weak point — AVCHAP publishes stops as landmark descriptions (\"in front of Superalfa\", \"near Bigolin\") along corridors, and no city open-data GIS stop layer exists. I geocoded only the well-known anchor points to WGS-84 (Terminal Urbano; Shopping Pátio Chapecó -27.070169,-52.626873; Quedas do Palmital ~27°07'49\\\"S 52°37'07\\\"W; Terminal Rodoviário Raul Bartolomei, R. Líbano 111 Passo dos Fortes; UFFS campus SC-484 km2 Fronteira Sul; neighborhood centroids for Cristo Rei/Vila Rica/Trevo/Efapi/Líder/Fronteira Sul). The line-18 intermediate landmark stops (Igreja 3 Estrelas, Superalfa, Maxxi, Escola Vila Rica, etc.) have NO published coordinates and were DROPPED rather than invented — the schema requires numeric lat/lon, so null-coordinate stops could not be emitted. MODELING: I encode a representative subset of the best-documented lines (07, 18, 01, 05, 13, 24), each with an outbound trip using REAL scraped early departure times as the terminal stop_time and travel times interpolated along the corridor to the geocoded endpoint, plus a return trip. The remaining ~20 lines and full per-line intermediate stop coordinates are not built — those need the per-line PDFs' point-by-point coords, which are not published. Confidence 0.42: route identities + terminal + a subset of real departure times are solid; intermediate stop coordinates and full trip-level stop lists are approximate/incomplete.",
+  "source": "llm-normalized"
+}

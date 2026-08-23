@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Expresso Medianeira",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Santa Maria"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/santa-maria/expresso-medianeira/gtfs/",
+    "mdb_id": "br-llm-expresso-medianeira",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

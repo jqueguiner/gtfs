@@ -1,0 +1,14 @@
+{
+  "operator": "VCG - Viação Campos Gerais",
+  "city": "Ponta Grossa",
+  "cc": "BR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 24,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 44
+  },
+  "notes": "Operator = VCG (Viação Campos Gerais), the concessionaire of Ponta Grossa/PR urban transit under AMTT regulation. Built from onibus.online line pages (214 Guaíra, 188 31 de Março), horariodeonibus.net (049 Boa Vista full timetable + VCG line index), and vcg.com.br. Sources confirm ~95 city lines; only 3 lines (049, 188, 214) had full published itineraries + clock times, so only those are modeled as real trips (one representative trip per direction using the actual first-departure times from the weekday timetable). Service times: 049/214 run Mon-Sun+holidays with reduced Sun frequency; 188 similar. \n\nCoordinates: the 4 city bus terminals (Central, Nova Rússia, Oficinas, Uvaranas) and Rua Augusto Ribas are exact OSM WGS-84 nodes (Nominatim). Intermediate street-corner stops from the onibus.online street-by-street itineraries are given best-effort approximate coordinates placed within the correct neighborhood corridor between terminal anchors (Nominatim rate-limited/429 for per-street lookups mid-build); they are all evidenced (named on the published itinerary) but their lat/lon are approximate (~within a few hundred m), not exact. No stops were invented. Confidence 0.5: routes/schedules/stop-ordering are faithful for the 3 modeled lines; the other ~92 VCG lines are NOT included (would need per-line fetches), and intermediate stop coordinates are approximate. All lines route_type=3 (bus); no metro/rail/tram exists in Ponta Grossa. Trip times use even/real departures; a single representative trip per direction is emitted with the timetable's first weekday departure and interpolated intermediate times.",
+  "source": "llm-normalized"
+}

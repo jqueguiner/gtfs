@@ -1,0 +1,14 @@
+{
+  "operator": "URBAN - Mobilidade Urbana de Anápolis",
+  "city": "Anápolis",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 29,
+    "routes": 3,
+    "trips": 29,
+    "stop_times": 308
+  },
+  "notes": "Built from URBAN's official itinerary pages at urban.etc.br, which are the authoritative primary source. Each per-line page publishes the ordered \"Descrição do caminho\" (street/stop sequence) plus weekday/Saturday/Sunday departure lists. URBAN operates ~36+ lines across 5 categories (0/1/2/3/4); this feed captures 3 fully-documented representative lines whose itinerary pages I could fetch verbatim: 0008 Fabril via IAPC (11-stop central loop; full weekday 16-trip, Saturday 12-trip, Sunday 9-trip schedules — one Sat + one Sun trip materialized here), 2020 Santa Maria via Brasil Park Shopping (18-stop loop, 3 weekday departures), and 3120 UEG via Jundiaí (ida + volta / both directions, 4 departures each from the published weekday list). All departure clock times are the real published horários; intermediate stop times are interpolated at an even ~3 min/stop from each real departure (no per-stop arrival times are published). Stops are the named streets/praças/avenidas listed on the itinerary pages; coordinates are WGS-84 geocoded to their positions in central Anápolis (Terminal Urbano confirmed at R. Tonico de Pina, St. Central ~-16.328,-48.953). Live geocoding (Nominatim/Overpass) was unavailable from the sandbox (HTTP 429 / connection refused), so street coordinates are approximate central-sector positions rather than exact centroids — they place each stop in the correct sector but may be off by 100-400 m. The other ~33 lines and the full ~1,379-stop Moovit layer were not scraped (Moovit/Bus2/tonoponto were 403/JS-gated). Bus only (route_type 3); no metro/rail/BRT exists in Anápolis. Service dates span calendar year 2026; no holiday exceptions modeled.",
+  "source": "llm-normalized"
+}

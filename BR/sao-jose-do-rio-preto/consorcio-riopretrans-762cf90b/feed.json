@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consórcio RioPreTrans",
+    "country": "BR",
+    "subdivision": null,
+    "city": "São José do Rio Preto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/sao-jose-do-rio-preto/consorcio-riopretrans/gtfs/",
+    "mdb_id": "br-llm-consorcio-riopretrans",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

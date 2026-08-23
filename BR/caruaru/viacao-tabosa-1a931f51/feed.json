@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Tabosa",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Caruaru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/caruaru/viacao-tabosa/gtfs/",
+    "mdb_id": "br-llm-viacao-tabosa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

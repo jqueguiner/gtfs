@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Viação Cidade do Aço (linhas municipais)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Volta Redonda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/volta-redonda/viacao-cidade-do-aco-linhas-municipais/gtfs/",
+    "mdb_id": "br-llm-viacao-cidade-do-aco-linhas-municipais",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

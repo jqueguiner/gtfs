@@ -1,0 +1,14 @@
+{
+  "operator": "Expresso Medianeira",
+  "city": "Santa Maria",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 6,
+    "routes": 3,
+    "trips": 18,
+    "stop_times": 90
+  },
+  "notes": "Expresso Medianeira is the largest operator in the SIM (Sistema Integrado Municipal) consortium of Santa Maria, RS, running ~61% of the city bus service from 3 line terminals (Casa de Saúde, Tancredo Neves, Maneco). Feed covers its best-documented Camobi/UFSM/Fernando Ferrari eastern corridor: line 100 Camobi, 196 UFSM/Universidade, 197 Cohab Fernando Ferrari.\n\nCONFIDENCE 0.45 rationale:\n- Departure TIMES are FAITHFUL: taken verbatim from onibus.online SIM Santa Maria tables (updated 20/04/2026) for 196 (weekday/Sat/Sun, 100+ daily trips), 100 Camobi (weekday/Sat/Sun), and 197 (weekday only). I encoded representative trips per direction from those published tables (not full frequency, but real clock times).\n- STOPS are the WEAK part: neither onibus.online nor the operator site publishes ordered physical stops with GIS. Moovit lists ~29 stops per line but its pages render empty to WebFetch (JS). OSM route=bus relations exist for the Camobi/UFSM corridor but were not directly harvestable here. I therefore built a small set of EVIDENCED corridor anchor stops with real WGS-84 coordinates geocoded from web sources (Terminal Vale Machado, Praça Saldanha Marinho/Centro, Av. Hélvio Basso/N.S. Medianeira, Cohab Fernando Ferrari, Camobi, UFSM Av. Roraima). Intermediate stops between these anchors are NOT enumerated (Moovit's full 29-stop lists were unreadable), so stop_times are anchor-to-anchor with plausible interpolated times, not the true full stop sequence.\n- Operator attribution: sources label the consortium \"SIM Santa Maria\"; Expresso Medianeira is the operating company for this corridor per Moovit/company profile, but line-to-company mapping is not published per-line, so some of these lines may be jointly/otherwise operated within SIM.\n\nNo stops were invented: every stop here corresponds to a real, geocoded landmark on the published corridor. Coordinates are WGS-84 (OSM/CEP/Wikipedia derived).\n\nSources: onibus.online/rs/santamaria/{196-ufsm,100-camobi,197-cohab-fernando-ferrari}; horariodeonibus.net; simsm.com.br; ufsm.br/onibus-horarios; moovitapp.com (line lists); expressomedianeira.com.br (company/terminals).",
+  "source": "llm-normalized"
+}

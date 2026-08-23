@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Tabosa",
+  "city": "Caruaru",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 15,
+    "routes": 10,
+    "trips": 25,
+    "stop_times": 76
+  },
+  "notes": "Feed for Viação Tabosa urban bus in Caruaru-PE (BR), operated under the AETPC/DESTRA municipal system. Route list (10 lines: 104,116,120,129,140,410,420,431,432,440) with terminal endpoints is firmly evidenced by onibus.online (empresas/tabosa) and Moovit; several lines have real published departure times (104,116,129,140,410,431 captured; others reconstructed from published departure counts/spans as even headways). Moovit lists ~168 intermediate ordered stops across the lines, but that per-stop list did NOT render through WebFetch (JS-driven), so intermediate stops could not be extracted reliably and are NOT invented. Each route is therefore modeled as a representative trip in each direction between its two firmly-evidenced named terminals — the central Estação/Terminal hub (Caiuca/Centro) and the endpoint neighborhood — plus, for line 140, the one extra evidenced named waypoint (Reserva Indianópolis) and terminus (15 de Novembro). Stop coordinates: Caruaru Shopping and the central Terminal are real (web-verified); neighborhood-endpoint coordinates are approximate WGS-84 centroids of the named Caruaru bairros (Santa Rosa, Vassoural, Indianópolis, Petrópolis, Agamenon/Pitombeira, etc.) — good to ~city-block level, not surveyed stop poles. Travel time endpoint-to-hub assumed ~25 min. Times are real clock times from schedules where captured; even headways across the published service span otherwise. OSM not usable for Caruaru per instructions. Confidence 0.42: route set + endpoints + operating hours are solid and mostly real times; intermediate stop geometry/ordering and exact endpoint pole coordinates are approximate.",
+  "source": "llm-normalized"
+}

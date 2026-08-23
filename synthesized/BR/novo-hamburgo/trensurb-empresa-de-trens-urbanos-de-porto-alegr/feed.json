@@ -1,0 +1,14 @@
+{
+  "operator": "Trensurb - Empresa de Trens Urbanos de Porto Alegre S.A. (Linha 1)",
+  "city": "Novo Hamburgo",
+  "cc": "BR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 22,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 44
+  },
+  "notes": "Trensurb Line 1 (Linha 1 / Metrô de Porto Alegre) is a single 43.8 km suburban-rail/metro line, 22 stations, Mercado (Porto Alegre) <-> Novo Hamburgo. Station list and ordering are the official Trensurb list, cross-checked with pt.wikipedia and Moovit (route_type=1 metro). Schedule facts from trensurb.gov.br / novohamburgo.org.br: first train NH 05:02, Mercado 05:04; last departures ~23:05; end-to-end run ~53 min. Headways: Mon-Fri 12 min (8 min peak), Sat 12-15 min, Sun 20 min. This feed models a representative trip per direction using the confirmed first-departure clock times and interpolating the ~53-min run evenly across the 22 stations (~2.5 min/segment). One weekday service (svc_weekday) plus a note-level awareness of Sat/Sun headways; calendar covers all 7 days as the line operates daily. Station lat/lon are WGS-84 for the two termini from Wikidata (Mercado -30.0264,-51.2286; Novo Hamburgo -29.6872,-51.1319); intermediate stations use standard OSM/Wikidata-consistent WGS-84 coordinates along the linear alignment. Coordinates are approximate for some intermediate stops (evidenced ordering + municipality, exact node not individually re-verified), hence confidence 0.72 rather than higher. No stops invented: exactly the 22 official stations. Moovit's \"22 stations\" matches; the task's \"23\" appears to double-count a terminus/entrance and was not used. Trips shown are single representative runs; a full feed would enumerate every headway departure 05:02-23:05.",
+  "source": "llm-normalized"
+}

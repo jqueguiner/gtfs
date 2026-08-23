@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Petro Ita Transportes Coletivos",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Petropolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/petropolis/petro-ita-transportes-coletivos/gtfs/",
+    "mdb_id": "br-llm-petro-ita-transportes-coletivos",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

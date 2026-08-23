@@ -1,0 +1,14 @@
+{
+  "operator": "Viação São José (Consórcio Reserva de Tinguá / Mobilidade NI)",
+  "city": "Nova Iguaçu",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 27,
+    "routes": 14,
+    "trips": 28,
+    "stop_times": 136
+  },
+  "notes": "Built from onibus.online (13-line list + weekday service spans), tonoponto/rjbr/moovit itineraries (named streets/bairros for 541I, 561I, 714I), and published departure times for 541I and 561I. Route list is well-evidenced (13 lines confirmed on onibus.online, matching the operator's municipal A01/RJ200 concession under Mobilidade Nova Iguaçu). Stops are the evidenced ordered ANCHORS (terminals + named bairros/Via-Light crossings) per route — NOT the full 80-120 stop granularity Moovit reports, because the Moovit per-line PDFs (appassets.mvtdev.com/map/131/l/322/*.pdf) are image-only (no extractable text) and OSM Overpass (highway=bus_stop densify) was unreachable from this environment (network egress blocked), so no automatic densification was possible. Coordinates are WGS-84 centroids of the named terminals/bairros verified from Wikipedia/known landmarks (Terminal Rodoviário NI, Ponto Chic bairro, Barro Vermelho/Belford Roxo, Shopping Via Rio Pavuna, Central do Brasil, Nilópolis, etc.) — geometrically plausible along each corridor but at bairro rather than pole precision. stop_times: 541I/561I use real published clock departures; the other 12 lines use one representative trip per direction across the published service span (even 8-min inter-anchor spacing). Two directions per route. 716L span (01:00-12:40) and 714I (01:00-21:00) reflect the odd hours onibus.online reports. calendar = single weekday service (WEEK); 561I is also documented Sat/Sun but only the weekday pattern is encoded. Confidence 0.42: real routes/hours/corridors, but stop granularity coarse and most trips are headway-synthesized rather than the full published timetable.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Transporte Fabio's Ltda",
+  "city": "Duque de Caxias",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 20,
+    "routes": 7,
+    "trips": 14,
+    "stop_times": 96
+  },
+  "notes": "Operator: Transporte Fabio's Ltda (founded 1979, HQ Sao Joao de Meriti), intermunicipal complementary bus service Baixada Fluminense <-> Rio ZN. 7 lines confirmed from horariosonibus: 485L,486L,488L,489L,492L,494L,495L (all route_type=3 bus). No metro/rail operated by this company, so no rail-first mode applies.\n\nDETAILED itineraries (full ordered street lists ida+volta) obtained from terminalcastelo for 488L (Usina/Tijuca), 494L (Pilares), 495L (Penha) and used to build representative anchor-stop sequences. The other 4 lines (485L/486L/489L/492L) had only origin-destination from horariosonibus, so their sequences are endpoint + major-corridor anchors along the known shared trunk (Av Brizola / Cordovil / Braz de Pina / Dom Helder Camara), NOT full street lists.\n\nSERVICE TIMES from terminalcastelo (published windows + headways): 495L Mon-Sat 04:30-23:00 @5min, Sun 05:00-23:00 @10min; 494L weekday 04:00-23:00 with 5-20min bands; 488L weekday 04:00-23:20 (Caxias dir to 00:20) with 5-30min bands, Sat to 00:00, Sun to 23:40. For the 4 lines without published times, typical 15/20/30-min Baixada headways were applied honestly across 04:30/05:00-23:00.\n\nStop coordinates are WGS-84 from OSM/Wikipedia knowledge of these well-mapped Rio/Caxias landmarks and neighborhoods (Nominatim was rate-limited HTTP 429 during the run). Endpoints (Terminal Shopping Center Caxias, Terminal Jose Carlos Lacerda, Largo da Penha, Praca Saens Pena, Rua Conde de Bonfim/Usina) are precise; mid-corridor neighborhood anchors (Cordovil, Braz de Pina, Dom Helder Camara, Pilares, Engenho da Rainha) are representative centroids, accurate to a few hundred meters.\n\nFull feed generated on disk at /home/ubuntu/adresses/gtfs_fabios/ (agency.txt, stops.txt, routes.txt, trips.txt, stop_times.txt, calendar.txt) with 20 stops, 7 routes, 3458 trips and 23481 stop_times across WEEK/SAT/SUN at the real published headways (referential integrity validated: 0 dangling stop/trip/route refs; post-midnight departures render as 24:xx/25:xx per GTFS spec). The structured payload here carries the WEEK first-departure representative trip per route/direction (14 trips); SAT/SUN trips and all subsequent headway departures live in the on-disk CSVs.\n\n488L Moovit lists 73-81 stops/direction and horariosonibus notes fare/Bilhete Unico; those granular Moovit stop nodes were not fully enumerable via WebFetch (JS-rendered), so 488L uses the terminalcastelo street itinerary condensed to 11 anchors rather than all 73 Moovit stops.",
+  "source": "llm-normalized"
+}

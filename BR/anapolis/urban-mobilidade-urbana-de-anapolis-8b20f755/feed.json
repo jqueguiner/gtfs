@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "URBAN - Mobilidade Urbana de Anápolis",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Anápolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/anapolis/urban-mobilidade-urbana-de-anapolis/gtfs/",
+    "mdb_id": "br-llm-urban-mobilidade-urbana-de-anapolis",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

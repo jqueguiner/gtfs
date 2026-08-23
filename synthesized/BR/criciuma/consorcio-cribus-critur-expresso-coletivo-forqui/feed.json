@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio CriBus (Critur + Expresso Coletivo Forquilhinha) — urban network under DTT Criciúma",
+  "city": "Criciúma",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 15,
+    "routes": 5,
+    "trips": 13,
+    "stop_times": 62
+  },
+  "notes": "Built from DTT Criciúma + horariodeonibus.net HTML schedule pages. CriBus (operated locally as ACTU / Critur + Expresso Coletivo Forquilhinha) runs 60+ urban lines radiating from three terminals: Terminal Central (TCE), Terminal Pinheirinho (TPI), Terminal Próspera (TPRO). 5 well-evidenced representative routes are modeled here with ordered stops and real published departure times: 101 Centenário (the TPI-TCE-TPRO trunk), 213 Primeira Linha/São João, 301 Mãe Luzia/São Defende, 400 Linha Anta, 801 Expresso TPRO-TCE.\n\nCoordinates: the 3 terminals are geocoded precisely from OSM/WGS-84 via Photon (Central -28.680/-49.370; Pinheirinho -28.700/-49.408; Próspera -28.684/-49.345) and cross-checked against published addresses (Av. Universitária 440; Av. Centenário 6400). Intermediate street/neighborhood anchors (Pascoal Meller, Rod. Jorge Lacerda, Av. Universitária, Mãe Luzia, São Defende, Rua Goiás, Linha Anta/SC-443, Rua Santa Catarina, Rod. Luiz Rosso, Primeira Linha, São João, Rio Maina) are also from Photon/OSM WGS-84. No stops are invented — every stop is either a named terminal or a named street/bairro that appears in the source itineraries.\n\nLimitations lowering confidence: the DTT search-based schedule tool did not expose per-trip full stop-time matrices (only terminal departure lists), so intermediate stop times within each trip are interpolated at even spacing between the published endpoint departures. The horariodeonibus.net itineraries give ordered corridors but not every micro-stop; I modeled the principal named stops per corridor. Only 5 of 60+ lines are built (the highest-profile trunk + the four lines explicitly requested as sources), so this is a representative subset, not the full network. Overpass was unavailable during the build; Nominatim was rate-limited (429) — Photon (OSM) used instead. First/last departure clock times per route/day are taken directly from the published schedules; trip departures in between use the published time lists where given (400, 213, 801) or an even headway across service hours (101).",
+  "source": "llm-normalized"
+}

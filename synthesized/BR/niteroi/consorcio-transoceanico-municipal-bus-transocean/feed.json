@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio TransOceânico (municipal bus + TransOceânica BHLS/BRT-lite corridor)",
+  "city": "Niterói",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 15,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 20
+  },
+  "notes": "Niterói TransOceânica is a BHLS/BRT-lite corridor (9.3 km, opened 2019-04-27, 13 stations across 12 neighborhoods, via the Charitas–Cafubá tunnel), route_type=3 (bus, no dedicated GTFS mode for BHLS). Modeled the 4 OC lines that use the corridor: OC1 Piratininga, OC2 Itaipu, OC3 Itaipu via Engenho do Mato, OC3A (Engenho do Mato branch). STATION LIST is well-evidenced: the 13 named stations (Charitas, Cafubá, Lagoa de Piratininga, Piratininga, Maralegre, Comércio Central, Santo Antônio, Vila São Pedro, Morro da Peça, Maravista, Praça Central, Boa Vista, Engenho do Mato) come from guiadeniteroi/diariodotransporte; ordering follows the Estrada Francisco da Cruz Nunes / Avenida Central axis west→east. COORDINATES: WGS-84. Terminal Araribóia/Barcas (-22.8936,-43.1243) and Estação Charitas (~-22.928,-43.104) are from Wikidata/OSM; the interior corridor stations are INTERPOLATED along the known road axis anchored on OSM neighborhood centroids (Cafubá, Piratininga, Maravista, Engenho do Mato, Itaipu) — accurate to neighborhood level (±few hundred m), not surveyed platform points, because the gov SIGeo/OSM Overpass endpoints were not reachable (gov cert expired; direct egress + Overpass blocked in this environment). SERVICE: operating spans (first/last per weekday/Sat/Sun) and peak/off-peak headways are from onibus.online (updated 2025-07-19); onibus.online only exposes terminal endpoints per line (e.g. \"OC1 Terminal-Barcas\"/\"OC1 Piratininga\"), NOT the intermediate stop list, so the per-line stop sequences were reconstructed from the corridor station order. STOP_TIMES: representative trips per direction per service day at real clock times (first, ~07:30 peak, midday, ~17:30 peak, last) with ~2 min/segment surface + ~6 min tunnel express legs (full Engenho→Charitas ~25 min matches the published figure); realistic but not the exact published departure grid. Confidence 0.55: line roster + station names + operating hours + headways are well-sourced; exact platform coordinates and the full published departure timetable are approximated. Files: /home/ubuntu/adresses/gtfs_transoceanico/build.py and /home/ubuntu/adresses/gtfs_transoceanico/feed.json.",
+  "source": "llm-normalized"
+}

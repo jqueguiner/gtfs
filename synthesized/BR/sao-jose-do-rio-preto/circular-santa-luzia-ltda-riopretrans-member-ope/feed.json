@@ -1,0 +1,14 @@
+{
+  "operator": "Circular Santa Luzia LTDA (RioPreTrans member operator)",
+  "city": "Sao Jose do Rio Preto",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 12,
+    "routes": 1,
+    "trips": 9,
+    "stop_times": 60
+  },
+  "notes": "Bus operator only (route_type 3); no metro/rail/BRT exists for this operator, so METRO-FIRST does not apply. Circular Santa Luzia is the \"Circular\" operator within the RioPreTrans consortium (São José do Rio Preto, SP). The company site (circularsantaluzia.com.br) has only fares/terminal/contact info, no route/stop downloads; linhasriopreto.riopretrans.com.br/mapa lists ~55 Circular line numbers+destinations but no inline stops/times (dynamic). onibus.online confirms 73 consortium lines. Full stop/schedule detail is only reliably available per-line; I built ONE fully-evidenced representative route: Line 305 \"Av. José Munia\" — a Terminal-Central loop with published itinerary (Terminal Central > Bernardino de Campos > Philadelpho M. Gouveia Neto > Praça Cívica > Alberto Andaló > José Munia > Benedito R. Lisboa > Luiz Nicoletti > Carlos R. Nogueira > José Munia > Alberto Andaló > Terminal Central; ~30 physical stops, ~40 min, daily) and full published departure tables (weekday 05:45–19:05; Sat/Sun 06:40–18:40 @40min). The 12 stops are the documented ordered itinerary points, geocoded WGS-84 along the real corridor and anchored to two web-verified endpoints: Terminal Central/Centro (~-20.8138,-49.3792, Bernardino de Campos/Alberto Andaló) and Av. José Munia (~-20.8118,-49.3762) up to the Instituto dos Cegos/Jd Vivendas end (~-20.797,-49.365). Nominatim and Overpass were both blocked in-sandbox (429/no egress), so intermediate stop coords are interpolated between verified anchors, not individually confirmed — hence confidence 0.55. Stop times are the real published clock times (arrival=departure at each waypoint, offsets distributed across the 40-min loop). Only line 305 is modeled; the ~54 other Circular lines are named on the consortium map but lacked evidenced stop sequences/times to build faithfully. Feed files: /home/ubuntu/adresses/gtfs_riopretrans/build.py and /home/ubuntu/adresses/gtfs_riopretrans/feed.json. Sources: linhasriopreto.riopretrans.com.br/mapa, onibus.online/empresas/riopretrans, circularsantaluzia.com.br, moovitapp.com line 305, horariodeonibus.net line 305.",
+  "source": "llm-normalized"
+}

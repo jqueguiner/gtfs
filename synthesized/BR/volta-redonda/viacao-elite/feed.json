@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Elite",
+  "city": "Volta Redonda",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 40,
+    "routes": 39,
+    "trips": 82,
+    "stop_times": 242
+  },
+  "notes": "Bus operator, route_type=3 (Volta Redonda has no metro/rail). The 39-route list is authoritative, scraped from the city STMU official page voltaredonda.rj.gov.br/horario-de-onibus which lists every Viação Elite line with endpoint labels. Linha 100 carries REAL clock times extracted from the STMU ANEXO I horários PDF (O.S. 006/2025, effective 2025-01-27) for all 4 day-types x 2 directions; its street itinerary came from the ANEXO II itinerário PDF. Emitted feed keeps 6 representative real-schedule L100 trips (WD/SAT/SUN x both dirs); the PDF has ~22 weekday + 11 Sat + 11 Sun departures per direction. STMU itinerários list STREETS not point-stops, so stops are modeled at neighborhood/terminal level, each geocoded to OSM Nominatim WGS-84 (exact except S027 Santa Rita de Cassia and S001 '208' numbered street, approximate — Nominatim failed). Non-100 routes carry one representative weekday trip per direction via their two evidenced endpoint neighborhoods plus the central Vila Santa Cecilia hub; per-line street-by-street sequences not scraped for all 39. Moovit (~59 routes/1564 stops) consulted as cross-check but per-stop payload not machine-readable. To raise confidence: scrape all 39 lines' horários+itinerários PDFs and geocode each street-level stop.",
+  "source": "llm-normalized"
+}

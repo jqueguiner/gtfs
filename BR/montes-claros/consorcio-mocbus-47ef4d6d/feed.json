@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consórcio MocBus",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Montes Claros"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/montes-claros/consorcio-mocbus/gtfs/",
+    "mdb_id": "br-llm-consorcio-mocbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

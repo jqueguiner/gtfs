@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Consórcio TransOceânico (municipal bus + TransOceânica BHLS/BRT-lite corridor)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Niterói"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/niteroi/consorcio-transoceanico-municipal-bus-transocean/gtfs/",
+    "mdb_id": "br-llm-consorcio-transoceanico-municipal-bus-tr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "RATRANS - Rio Anil Transporte e Logística (Imperatriz urban bus)",
+  "city": "Imperatriz",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 51,
+    "routes": 16,
+    "trips": 30,
+    "stop_times": 227
+  },
+  "notes": "Mode: bus only (route_type 3). Imperatriz has NO metro/rail/BRT; RATRANS runs urban/rural informal buses, so metro-first prioritisation is N/A. SOURCES: ratrans.com.br/imptz.html and both Moovit URLs returned HTTP 403 / empty JS-rendered bodies to WebFetch, so route metadata was recovered via WebSearch of Moovit's server-rendered snippets (Moovit agency 5538): confirmed 16 routes / 585 stops, route names + endpoints, and several published times (001 last dep 22:50 ~48min; 021 Petrolina via Coquelândia/São Félix ~49km/~120min/37 stops; 025 first 06:00 last 22:14; 026 last ~20:03). 14 route names came directly from Moovit; two more (115 Itamar Guará/Sebastião Régis, 817 Parque Alvorada/Ouro Verde) were surfaced in Moovit corridor text to reach the documented count of 16. COORDINATES: OSM had ZERO named bus_stop nodes for Imperatriz (35 unnamed central bus_stops + ~90 named neighbourhood/place nodes fetched via Overpass mail.ru mirror — overpass-api.de unreachable, osm.ch is CH-only, Nominatim 429). All stop coordinates are real OSM WGS-84 place/neighbourhood centroids matching each route's named corridors; a few rural endpoints (Vila Fiquene, Vila Conceição, Ribeirãozinho da Roça) are approximate. LIMITATIONS: the true 585-stop granularity is NOT reproduced — per-stop coordinates were not scrapable. Instead each route has ONE representative ordered trip per direction (circulars 093/094 single loop) threading the actual neighbourhoods it serves, with EVEN-HEADWAY clock times seeded from published first/last departures (only route names, endpoints, service span and frequency band are evidenced — intermediate stop ordering and inter-stop timing are inferred from geography, not published tables). Service modelled as DAILY (Moovit: 'operational everyday'). Hence stop names/coords and route structure are trustworthy; exact stop sequences and times are representative. TZ America/Fortaleza (Maranhão, UTC-3, no DST).",
+  "source": "llm-normalized"
+}

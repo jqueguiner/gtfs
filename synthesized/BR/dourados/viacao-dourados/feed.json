@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Dourados",
+  "city": "Dourados",
+  "cc": "BR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 25,
+    "routes": 24,
+    "trips": 108,
+    "stop_times": 106
+  },
+  "notes": "Source: operator's own \"Horários Corridos\" schedule PDFs (24 lines) at viacaodourados.com.br, extracted via pdftotext (text PDFs: L01,L05,L06,L07,L09,L10,L11,L13,L14,L15,L17,L19,L20,L33,DIS04) and tesseract OCR (image/Print-to-PDF: L02,L03,L12,L18,L21,DIS01,DIS02,DIS05,DIS06). These PDFs publish DEPARTURE TIMES from Terminal Central (Centro→Bairro) and from the destination neighborhood (Bairro→Centro) per service day (weekday/Sat/Sun) plus route-variant legends — they do NOT publish intermediate stop names or per-stop times. Full feed on disk at /home/ubuntu/adresses/dourados_gtfs/gtfs/ has 24 routes, 1205 trips (every real published departure), 2410 stop_times, 25 stops. HIGH-CONFIDENCE: all departure times per line/direction/service are the operator's real published times. LOWER-CONFIDENCE: each route is modeled as a 2-stop Terminal Central↔neighborhood-endpoint pair; intermediate stops are NOT included because OSM Overpass and Nominatim were rate-limited/504 in this environment (could not fetch the 33 route=bus relations / ~526 stops Moovit reports). Endpoint arrival times use an estimated 25–45 min one-way run. Endpoint coordinates are known WGS-84 approximations of each named bairro/distrito within the Dourados admin area, not exact stop nodes. Terminal Central hub ~-22.2215,-54.8058. Timezone America/Campo_Grande. Calendar validity 2025-01-01..2026-12-31 (PDFs marked \"Válido para 10/02/2025–23/05/2022\", subject to Agetran service orders). Structured output below carries agency, all stops, all routes, all 3 calendars, and one representative trip+stop_times per route/direction/service (108 trips); the complete 1205-trip feed is the on-disk gtfs/ directory. To raise confidence: fetch OSM route relations + stop nodes when Overpass is reachable to expand each route to its full ordered stop list.",
+  "source": "llm-normalized"
+}

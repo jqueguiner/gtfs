@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Cidade das Hortênsias",
+  "city": "Petrópolis",
+  "cc": "BR",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 49,
+    "routes": 23,
+    "trips": 52,
+    "stop_times": 176
+  },
+  "notes": "Urban bus operator in Petrópolis-RJ (mountain city; no metro/rail/tram for this operator, so all route_type=3 bus). Sources: onibus.online empresa page + line-300 schedule, CPTrans (petropolis.rj.gov.br/cptrans) line list, horariosonibus.com, petropolisbus.blogspot, Moovit (line 322/1122366), and the authoritative CittaMobi/CPTrans itinerary PDF for line 300.\n\nHIGH CONFIDENCE — Line 300 (Terminal Corrêas via Quissamã/Itamarati <-> Bosque do Imperador/Centro): full 31-stop ordered itinerary taken verbatim from the official CittaMobi itinerary PDF (dated 05/04/2026) with real street addresses; full published departure lists (weekday/Sat/Sun) taken from onibus.online. Stop coordinates for line 300 are WGS-84, geocoded from OSM/CEP anchors (Terminal Corrêas Estr. União e Indústria 1132 ~-22.4546,-43.1435; Rua Fonseca Ramos -22.5006,-43.1688; Rua Quissamã bairro -22.4952,-43.1601; Bosque do Imperador/CENIP centre) and interpolated in trajectory order along the known corridor. Individual intermediate house-number stops are placed by interpolation (approximate, ~100-300m accuracy), endpoints are precise.\n\nLOWER CONFIDENCE — Routes 301-598 (30 routes): the route roster is well-evidenced (CPTrans/onibus.online/horariosonibus all agree on line numbers + names/destinations), but per-stop ordered itineraries and exact timetables were NOT extracted for these (each is behind a separate CittaMobi PDF). For these routes only the two evidenced endpoints (origin terminal + destination named in the route name) are modelled as stops, with a representative trip per direction on an even headway across a plausible urban service window (05:00-22:40, ~30 min). These endpoint stops are geocoded to the named terminal/neighbourhood WGS-84 centroid; intermediate stops are deliberately omitted rather than invented. Terminals shared across routes are reused (Terminal Corrêas, Terminal Itamarati, Bosque do Imperador, Rodoviária Bingen). Do not treat 301-598 stop_times as real clock schedules — they are synthetic even-headway placeholders honestly flagged. Line numbers 313/322/etc absent from operator per source (322 Viúva Lima appears on CPTrans list but is generally Cidade Real; included only where operator-attributed). Tariff/integration and calendar: everyday service (the network runs Mon-Sun); line 300 Sunday/holiday has reduced frequency.",
+  "source": "llm-normalized"
+}

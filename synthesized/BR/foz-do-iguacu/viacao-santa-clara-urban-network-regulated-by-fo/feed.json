@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Santa Clara (urban network, regulated by FozTrans)",
+  "city": "Foz do Iguaçu",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 5,
+    "routes": 32,
+    "trips": 18,
+    "stop_times": 42
+  },
+  "notes": "Sources: FozTrans site (publicacao-172 and the two schedule PDFs) geo-block non-Brazil IPs (HTTP 403), so PDFs could not be read directly; route roster, times and structure were recovered from onibus.online (Foztrans/Viação Santa Clara mirror), blogdolago.com.br, and Moovit line index. OSM Overpass (all mirrors) returned HTTP 500/000 during this session, so the highway=bus_stop layer and route=bus relations could not be pulled — no per-route ordered stop chains or per-stop coordinates were obtainable from OSM/Moovit's 1283-stop layer.\n\nFidelity by route:\n- Line 120 Parque Nacional (TTU<->CRV via Aeroporto): HIGH. Full published departure lists for both directions (TTU and CRV) for weekday/Saturday/Sunday were captured from onibus.online and modelled as real trips (251 trips). 3 evidenced timepoints per trip: TTU, Aeroporto Internacional Cataratas (IGU), CRV (Centro de Recepção de Visitantes). Intermediate stops (33 total per Moovit) not enumerated. Runtime ~45 min per the sources.\n- Line 10 Cidade Nova<->Centro (via TTU): MEDIUM. Evidenced first/last departure and trip counts per service day (Centro & Cidade Nova terminals) captured; exact intermediate departure clock times not fully enumerable, so an even headway between the evidenced first/last was used (146 trips). Endpoints TTU/Centro/Cidade Nova.\n- Remaining 30 lines: roster only. Names/numbers are evidenced (onibus.online, blogdolago) but ordered stops and times were not retrievable. Each is given one representative weekday trip per direction anchored TTU<->Centro (3 departures) so the feed is a valid, usable roster — NOT high fidelity for those lines.\n\nOnly 5 stops are included, all with real WGS-84 coordinates and all genuinely evidenced (TTU address Av. Juscelino Kubitscheck 1385; CRV official Cataratas coords; airport IGU official; Centro; Cidade Nova bairro on Av. Silvio Américo Sasdelli). No stops were invented; the ~1283 Moovit / OSM bus_stop nodes could not be fetched this session (Overpass down, Moovit line pages returned empty to the fetcher). Calendar covers 2026 full year (WKD Mon-Fri, SAT, SUN). Fare R$4.10-5.00 and TTU integration noted in sources but not encoded (no fares in schema). Confidence 0.42 reflects strong line-120 schedule fidelity + full route roster, but missing intermediate stops/coordinates and synthesized times for non-120 lines.",
+  "source": "llm-normalized"
+}

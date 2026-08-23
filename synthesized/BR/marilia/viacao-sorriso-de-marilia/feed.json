@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Sorriso de Marília",
+  "city": "Marília",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 23,
+    "routes": 13,
+    "trips": 26,
+    "stop_times": 36
+  },
+  "notes": "Sorriso de Marília is the concessionaire for the South/West sectors of Marília (SP); Moovit/onibus.online report 13 routes / ~618 stop points. Primary HTML sources (amtumarilia.com.br, onibus.online line pages, Moovit) are JS-rendered, so the full 618-point stop lists were not scrapable; route inventory, two full published weekday schedules (0013, 0022) and street itineraries were recovered from onibus.online. Coordinates are WGS-84 from OSM/Nominatim for Terminal Urbano and main avenues (Sampaio Vidal, Esmeraldas, Tiradentes, Rio Branco, Brasil, Ipiranga, Frei Jacinto, Vicente Ferreira) and Amadeu Amaral district. Bairro termini lacking a precise OSM node use approximate S/W-sector centroids (APPROX). Stop sequences per route are itinerary-street approximations, not the operator's actual stop points. Lines 0013/0022 use real published clock times; others use a 60-min even headway 05:00-23:00. Each route has a representative trip in both directions. Files at /home/ubuntu/adresses/gtfs_sorriso_marilia/.",
+  "source": "llm-normalized"
+}

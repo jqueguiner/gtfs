@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ABC Transportes (EMTU – Vale do Paraíba metropolitan/suburban lines 5201/5221, 5202, 5203, 5220)",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Taubaté"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/taubate/abc-transportes-emtu-vale-do-paraiba-metropolita/gtfs/",
+    "mdb_id": "br-llm-abc-transportes-emtu-vale-do-paraiba-met",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

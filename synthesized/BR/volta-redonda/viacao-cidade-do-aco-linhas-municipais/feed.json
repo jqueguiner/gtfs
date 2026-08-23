@@ -1,0 +1,14 @@
+{
+  "operator": "Viação Cidade do Aço (linhas municipais)",
+  "city": "Volta Redonda",
+  "cc": "BR",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 11,
+    "routes": 4,
+    "trips": 16,
+    "stop_times": 64
+  },
+  "notes": "Source: STMU Volta Redonda city-site per-line PDFs (ANEXO I Quadro de Horários + ANEXO II Itinerário), fetched via curl and parsed with pdftotext. Real route labels differ from the task brief: L125=Ponte Alta x Roma I via Siderópolis/Vila Rica (not \"Cajueiro-Siderópolis\"), L180=Conforto x Roma II (not \"Roma-Conforto\"), L520=Belmonte Circular, L550=Siderlândia Circular. All are route_type=3 (bus); no metro/rail exists for this operator.\n\nSchedule fidelity: departure TIMES are transcribed verbatim from the official horário PDFs (terminal departure lists per service day). Service days per PDF: L125 = Dias Úteis + Sábado (no Sunday); L180 = Úteis/Sábado/Domingo (very high frequency, ~20+ trips/direction on weekdays); L520 & L550 = daily circulars (Úteis/Sábado/Domingo). Calendar validity 2026-02-02..2026-12-31 (L125 O.S. 002/2026 in vigor 02/02/2026; L180/520 O.S. 045/2026 26/06/2026; L550 O.S. 043/2026 16/06/2026); end date is a nominal horizon.\n\nStops/geometry: STMU itinerários list STREETS traversed, not named stops, so stops here are the evidenced named TERMINALS and neighborhood anchors on each itinerary (Rua Oslo/Ponte Alta, Siderópolis, Vila Rica, Roma I/II, Conforto, Belmonte-Retiro, Siderlândia, Terminal Castelo Branco/Ponte Alta, Aterrado central hub, Av. N.Sra do Amparo). Coordinates are OSM/Nominatim WGS-84 for the endpoints geocoded successfully; a few (vilarica, roma2, pontealta, aterrado, amparo) use approximate positions on the documented itinerary because Nominatim rate-limited (HTTP 429) and Overpass mirrors were down during the run — these are within the correct neighborhoods but not survey-grade. Intermediate stop_times are evenly interpolated across an estimated one-way/loop run time (45-55 min) since the PDFs publish only terminal departure times.\n\nFull feed built locally (/tmp/cda/gtfs.json) has 206 trips and 808 stop_times covering ALL published departures; the arrays returned here carry one representative trip per route×direction×service (16 trips / 64 stop_times, every combination present) to keep the payload compact. The 180 B/C/E variant destination \"Rua Santa Bárbara\" and the 180 Aterrado/Praça Juarez sub-variants (F/G) exist in the itinerário PDF but are folded into the padrão Conforto↔Roma II pattern here.",
+  "source": "llm-normalized"
+}

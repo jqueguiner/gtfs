@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Univale Transportes",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Ipatinga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/ipatinga/univale-transportes/gtfs/",
+    "mdb_id": "br-llm-univale-transportes",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

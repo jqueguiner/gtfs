@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transporte Coletivo Grande Bauru",
+    "country": "BR",
+    "subdivision": null,
+    "city": "Bauru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/bauru/transporte-coletivo-grande-bauru/gtfs/",
+    "mdb_id": "br-llm-transporte-coletivo-grande-bauru",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

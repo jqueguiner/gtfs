@@ -1,0 +1,14 @@
+{
+  "operator": "Transportes Urbanos São Miguel de Ilhéus",
+  "city": "Ilhéus",
+  "cc": "BR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 23,
+    "routes": 22,
+    "trips": 44,
+    "stop_times": 132
+  },
+  "notes": "Operator SM (\"São Miguel\"), one of two carriers under the Ilhéus SUTRAM municipal transit system (the other is VM). Built from the official SUTRAM timetable PDF (ilheuseventos.com.br, in force 21/02/2022) plus the UESC-return PDF (ilheus.net). All 22 SM-operated lines were extracted with their real published departure times and named termini/via-corridors; VM-operated lines (e.g. line 28 Salobrinho) were excluded. Coordinates are OpenStreetMap WGS-84 place/POI nodes inside the Ilhéus admin_level=8 municipality (queried via Overpass mirror). \n\nWHY confidence 0.6, not higher: The SUTRAM PDFs list only named termini + a single \"VIA\" corridor per line (e.g. \"Av. Itabuna\", \"Cidade Nova\"), NOT full ordered stop lists. So each trip is modelled as 3 stops: origin terminus -> via-corridor reference point -> destination terminus, with realistic clock times (real endpoint departure times from the PDF; intermediate via-time interpolated by straight-line distance at ~20 km/h). Real routes have many more intermediate stops that the source does not enumerate — inventing them would violate the \"never invent stops\" rule. Via-corridor stops (Av. Itabuna/Canavieiras/Esperança, Cidade Nova, Princesa Isabel) are approximate corridor centroids, not surveyed bus_stop nodes (only 11 highway=bus_stop nodes exist in OSM for the whole municipality). Terminal Urbano coordinate is an approximate Centro location (no dedicated OSM bus_station node found there). \n\nLines 39 (Terminal Urbano <-> Itariri) and 49 (Terminal Urbano x Castelo Novo) named in the task could NOT be built: their dedicated ilheus.ba.gov.br per-line PDFs are behind Cloudflare (\"Just a moment...\", HTTP 403) and neither line appears in the accessible SUTRAM master PDF, so there is no evidence for their stop order/times. \n\nFull feed (not just the representative subset shown) has 22 routes, 23 stops, 347 trips (one per real departure), 1041 stop_times. The output here carries one representative trip per direction per route (44 trips). Service = DIAS ÚTEIS (weekday) only — every SM row in the sources is weekday; the PDFs did not include separate SM Saturday/Sunday grids. Reproduction artifacts in /tmp/ilheus_gtfs (main.txt, uesc.txt, sm_rows.tsv, build_gtfs.py, gtfs_tables.json).",
+  "source": "llm-normalized"
+}

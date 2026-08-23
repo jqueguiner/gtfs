@@ -1,0 +1,14 @@
+{
+  "operator": "MOBI Transporte Urbano (Empresa Valadarense de Transportes Coletivos)",
+  "city": "Governador Valadares",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 7,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 22
+  },
+  "notes": "Bus-only city (no metro/rail/BRT). Route list, origins/destinations and published departure times taken from official mobigv.com.br /project/<line> pages and /linhas-e-horarios/ + /itinerarios/. Moovit confirms line 4001 has 47-50 named stops with terminals \"Rua Vereador Omar de Magalhaes, 21 (Centro, ponto final das linhas distritais/intermunicipais)\" and \"Rua Coronel Roberto Soares, 525 (Cemiterio, ponto final de Baguari)\", but the full intermediate ordered stop lists are JS-rendered and could not be extracted from any source, so intermediate stops are NOT fabricated. Feed models 5 well-documented routes (03A, 29, 30, 3072, 4001) with two directional trips each, using only evidenced terminal/waypoint stops. Stop coordinates from OpenStreetMap/Nominatim (WGS-84): Centro terminal, Baguari, Vila dos Montes, Cidade Jardim, Pico da Ibituruna, Frei Inocencio, R. Arthur Bernardes. Line 4002 (Xonim de Cima / Centro) is official and documented (departures 05:40/06:30 etc.) but its Xonim de Cima rural terminal has no OSM/Nominatim node; the schema requires numeric coordinates and coordinates were not invented, so 4002 was omitted rather than fabricate a stop location. Stop_times use real published clock departure times from the mobigv project pages; return-leg times estimated from Moovit's ~51-53 min total for 4001 and proportionally for shorter lines. Confidence 0.42: route list + endpoints + service times are faithful/official, but per-route full stop sequences are missing (only terminals + a couple evidenced waypoints modeled), so shapes/intermediate timing are incomplete. Full mobigv line roster: 03A,03B,04,05A,05B,06,06A,07,09A,09B,09C,10,13A,13B,15,16A,16B,16C,17,18,21,21A,23A,23B,25A,25B,27,29,30,38A,38B,81A,81B,3072,4001,4002.",
+  "source": "llm-normalized"
+}

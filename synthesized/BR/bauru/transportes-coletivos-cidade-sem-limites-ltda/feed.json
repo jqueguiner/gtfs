@@ -1,0 +1,14 @@
+{
+  "operator": "Transportes Coletivos Cidade sem Limites Ltda",
+  "city": "Bauru",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 15,
+    "routes": 7,
+    "trips": 40,
+    "stop_times": 102
+  },
+  "notes": "Operator: Transportes Coletivos Cidade sem Limites Ltda (CNPJ 08.223.614/0001-44), one of two Transurb Bauru consortium operators; per Transurb/Moovit it runs ~17-20 lines. Sources: horariodeonibusbauru.com and onibus.online (full published departure times per line for weekday/Saturday/Sunday), transurbbauru.com.br and emdurb.bauru.sp.gov.br (line list), Moovit (operator attribution: Sem Limites' most-popular lines include 3288, 4832, 5758, 5162, 7693). 7 representative lines modeled here (3288, 4832, 5758, 7693, 9600, 9800, 0033) chosen from the Sem Limites/Transurb line set with confirmed schedules. FIDELITY LIMITATIONS: (1) The onibus.online/horariodeonibusbauru itineraries are street-name sequences with NO per-stop coordinates and NO Moovit/OSM stop nodes were retrievable (Moovit + onibus.online line pages returned empty to WebFetch; JS-rendered). Stops are therefore modeled at endpoint + Centro-hub granularity using real WGS-84 coordinates geocoded for named endpoints/landmarks (Centro/Praca Machado de Mello, UNESP/Hospital Estadual, Bauru Shopping, Jd Estoril verified; other bairro endpoints approximate to ~200-500m). Intermediate stops are NOT included. (2) Departure clock times per direction/service are REAL (from onibus.online). Intermediate/arrival times at Centro and the far endpoint are interpolated (even ~20-30min run). (3) Line 7693 has no published Sunday service (omitted, correct). Bauru is bus-only (no metro/rail), so METRO-FIRST is N/A. To reach higher fidelity, per-stop coordinates require rendering Moovit line pages or an Overpass query for route=bus relations in the Bauru area.",
+  "source": "llm-normalized"
+}

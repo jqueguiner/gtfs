@@ -1,0 +1,14 @@
+{
+  "operator": "Central S/A Transportes Rodoviarios e Turismo (Central Transportes / Metroplan)",
+  "city": "Novo Hamburgo",
+  "cc": "BR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 11,
+    "routes": 5,
+    "trips": 18,
+    "stop_times": 87
+  },
+  "notes": "Central Transportes (Metroplan company code CE72) metropolitan corridor buses linking Novo Hamburgo, Sao Leopoldo, Sapucaia do Sul, Esteio, Canoas and Porto Alegre along BR-116 / BR-290 (Free Way) / Estrada Velha. 5 lines built with real published departure times and street-level itineraries from horariodeonibus.net (SN61, N602, N611, RT338, RT339). Stops are corridor ANCHOR points (terminals + city-centre nodes) with WGS-84 coordinates from Wikipedia/geo sources: Terminal Maua POA (-30.0275,-51.2319), Estadio Beira-Rio/Rua Fernandao (-30.0656,-51.2361), Rodoviaria Sao Leopoldo Av Dom Joao Becker (~-29.7605,-51.1490), city centres of Sapucaia do Sul/Esteio/Canoas, NH Canudos (Rua Florenca) and NH Centro (Estacao Trensurb, Av Nacoes Unidas). Moovit line page (~355 stops) and the mvtdev route PDF returned no extractable text (JS/binary), and tonoponto returned 403, so exact per-stop points within each city are approximated to city-centre anchors rather than the full Moovit stop set. Intermediate stop_times are interpolated linearly across the ~60-70 min corridor from the real endpoint departure times; where only a subset of daily times exist, up to two representative trips per direction are given. Calendar: weekday service plus reduced Saturday service where the schedule lists Saturday times (RT339). NOT invented: every line, endpoint and departure time is evidenced; only intra-city stop granularity and intermediate timing are approximated. Trensurb Line 1 metro (higher ridership, better documented) runs the same corridor but is a SEPARATE operator, so it is intentionally excluded from this Central Transportes feed.",
+  "source": "llm-normalized"
+}

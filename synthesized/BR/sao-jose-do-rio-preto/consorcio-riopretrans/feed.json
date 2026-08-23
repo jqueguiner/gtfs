@@ -1,0 +1,14 @@
+{
+  "operator": "Consórcio RioPreTrans",
+  "city": "São José do Rio Preto",
+  "cc": "BR",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 17,
+    "routes": 73,
+    "trips": 152,
+    "stop_times": 320
+  },
+  "notes": "Bus-only system (route_type=3); São José do Rio Preto has NO metro/light-rail/BRT/suburban-rail, so METRO/RAIL-FIRST does not apply. Route list is complete and high-fidelity: all 73 evidenced lines from onibus.online/riopretrans.com.br. Operating days (WKD/SAT/SUN) and first-departure clock times are scraped-accurate for the 3 detailed routes (108 Jaguaré, 209 Distrito Industrial, 309 Shopping); other 70 routes carry one representative weekday round trip each (terminal<->destination) since full per-route timetables and full ordered stop lists weren't scraped for every line. Stops: OSM Overpass was UNREACHABLE from this environment (endpoint 5xx/connection-refused) and Nominatim returned HTTP 429, so the ~141 OSM bus_stop nodes and ~1,970 Moovit stop points could NOT be pulled live. The 17 stops are the Terminal Urbano hub (verified address Rua Bernardino de Campos 2491, CEP 15030-895) plus evidenced named destinations/streets that appear in the scraped route itineraries; coordinates are WGS-84, hand-anchored to the verified city-center reference (-20.808,-49.381) and neighborhood geography, all validated inside the municipality bbox. No invented stops. All lines hub at Terminal Urbano. Confidence is moderate because route coverage/naming and the 3 detailed schedules are strong, but per-stop granularity and per-route timetables for the remaining 70 lines are representative rather than exhaustive, and stop coordinates are approximate (not the exact OSM node lat/lon). Operator = Circular Santa Luzia LTDA + Expresso Itamarati S.A. (consortium founded 2011-09-09).",
+  "source": "llm-normalized"
+}

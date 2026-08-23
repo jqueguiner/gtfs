@@ -1,0 +1,14 @@
+{
+  "operator": "Pira Mobilidade (Rápido Sumaré Ltda.)",
+  "city": "Piracicaba",
+  "cc": "BR",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 6,
+    "routes": 1,
+    "trips": 50,
+    "stop_times": 300
+  },
+  "notes": "Faithful GTFS for the flagship line 002 \"Panorâmica\" (TCI <-> Faculdade de Odontologia/FOP via ESALQ campus). Schedule times, service days and both-direction itineraries come directly from the official line PDF (002-Panoramica.pdf, effective 09/09/2024), extracted with pdftotext. All weekday (16 departures/dir) and Saturday (9 departures/dir) trips are encoded with real published clock times; no Sunday service is published for this line. Stop coordinates are OSM WGS-84 (via Overpass, mail.ru mirror — overpass-api.de and kumi were down/429): TCI terminal, ESALQ portaria on Av. Pádua Dias, ESALQ campus, Shopping Piracicaba (Av. Limeira), and FOP-UNICAMP are all confirmed OSM features. Intermediate street-level stops in the TRAJETOS list (Av. Independência, Rotatória Caixa d'Água, Av. Centenário, Av. Armando Dedini, Ponte Walter Radames Accorsi, etc.) are collapsed into the 6 evidenced timepoint stops rather than invented as individual bus_stop nodes. In-between stop_times are interpolated on a ~30-min run using proportional offsets (only endpoints/departures are published). CONFIDENCE is moderate: line 002 itself is high-fidelity, but the operator runs ~60 lines and only this one PDF was machine-readable — the other line PDFs are scanned/image-based and could not be reliably OCR'd here, and Nominatim geocoding was rate-limited (429). Terminals confirmed for the wider network (TCI -22.7293,-47.6471; TPA Paulicéia -22.7522,-47.6483; TSJ São Jorge -22.7465,-47.6779; TCE Cecap/Eldorado -22.7730,-47.5961; TVS Vila Sônia -22.6716,-47.6949; Rodoviária -22.7314,-47.6481) but their per-line routings were not machine-extractable, so they are not emitted as routes to avoid inventing unevidenced stop sequences. Sources: piramobilidade.com.br/linhas-e-horarios, 002-Panoramica.pdf, piracicaba.sp.gov.br. Moovit (~2862 stops) referenced as cross-check only. No metro/rail in Piracicaba (bus-only network).",
+  "source": "llm-normalized"
+}
