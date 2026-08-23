@@ -1,0 +1,14 @@
+{
+  "operator": "STP Terra d'Otranto (STP Lecce)",
+  "city": "Lecce",
+  "cc": "IT",
+  "confidence": 0.78,
+  "counts": {
+    "stops": 301,
+    "routes": 20,
+    "trips": 40,
+    "stop_times": 596
+  },
+  "notes": "Salento in Bus 2026 seasonal network (13/06-13/09), STP Terra d'Otranto + sub-operators (ELIOS/STP/CHIFFI/CHIRIATTI/SEAT/SITA/BORMAN). 20 lines (101-110 coastal trunk, 201-210 feeders) from the COTRAP SalentoinBus_2026-ORARI.pdf timetable. Each line has 1 representative outbound + 1 return trip using the fullest (01/07-31/08) period B1/B2 clock times and the complete published stop sequence. Stop coords are locality centroids (WGS-84 from OSM/Wikidata); Lecce City Terminal / Piazzale Carmelo Bene pinned precisely (40.35793,18.16887). Multiple stop-points within one locality share the locality centroid. The real network runs more daily frequencies per line (B3..B20) not all encoded here. stplecce.it/provincia.le.it landing pages had no inline tables; biglietteria.cotrap.it is a JS ticketing app. Source of record was the COTRAP PDF (full HH:MM timetables extracted via pdftotext).",
+  "source": "llm-normalized"
+}

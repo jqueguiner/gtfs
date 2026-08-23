@@ -21,8 +21,8 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇬🇧 United Kingdom | 675 | 46 | 675 |
 | 🇩🇪 Germany | 528 | 35 | 528 |
 | 🇸🇻 SV | 295 | 1 | 295 |
+| 🇮🇹 Italy | 201 | 121 | 201 |
 | 🇪🇸 Spain | 200 | 101 | 200 |
-| 🇮🇹 Italy | 200 | 121 | 200 |
 | 🇨🇦 Canada | 166 | 133 | 166 |
 | 🇵🇱 Poland | 149 | 107 | 149 |
 | 🇮🇪 Ireland | 112 | 26 | 112 |
@@ -36,9 +36,9 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇵🇹 Portugal | 39 | 31 | 39 |
 | 🇱🇻 Latvia | 37 | 10 | 37 |
 | 🇹🇭 Thailand | 32 | 13 | 32 |
-| 🇮🇳 India | 29 | 19 | 29 |
 | 🇦🇹 Austria | 29 | 13 | 27 |
 | 🇪🇪 Estonia | 28 | 19 | 28 |
+| 🇮🇳 India | 28 | 19 | 28 |
 | 🇭🇺 Hungary | 24 | 18 | 24 |
 | 🇷🇴 Romania | 21 | 17 | 21 |
 | 🇹🇷 Turkey | 21 | 19 | 21 |
