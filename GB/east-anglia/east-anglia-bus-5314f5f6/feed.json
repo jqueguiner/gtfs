@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Anglia bus",
+    "country": "GB",
+    "subdivision": "East Anglia",
+    "city": "East Anglia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/east_anglia/",
+    "mdb_id": "gb-bods-east_anglia",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods",
+  "status": "active"
+}

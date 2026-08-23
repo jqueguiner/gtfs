@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South East England bus",
+    "country": "GB",
+    "subdivision": "South East",
+    "city": "South East"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_east/",
+    "mdb_id": "gb-bods-south_east",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods",
+  "status": "active"
+}

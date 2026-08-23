@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Harpurs Coaches",
+    "country": "GB",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-op-608c1c4a52",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Uni-Link",
+    "country": "GB",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-op-00f3a46ee2",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods#agency",
+  "status": "active"
+}

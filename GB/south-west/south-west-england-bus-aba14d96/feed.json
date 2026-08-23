@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South West England bus",
+    "country": "GB",
+    "subdivision": "South West",
+    "city": "South West"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_west/",
+    "mdb_id": "gb-bods-south_west",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods",
+  "status": "active"
+}

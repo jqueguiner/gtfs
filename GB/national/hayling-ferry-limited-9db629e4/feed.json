@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hayling Ferry Limited",
+    "country": "GB",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-op-10653f4541",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods#agency",
+  "status": "active"
+}

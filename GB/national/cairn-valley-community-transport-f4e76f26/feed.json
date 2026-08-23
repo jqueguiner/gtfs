@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cairn Valley Community Transport",
+    "country": "GB",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-op-4a053b36e5",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods#agency",
+  "status": "active"
+}

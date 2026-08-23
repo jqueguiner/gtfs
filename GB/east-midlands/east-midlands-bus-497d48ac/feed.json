@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Midlands bus",
+    "country": "GB",
+    "subdivision": "East Midlands",
+    "city": "East Midlands"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/east_midlands/",
+    "mdb_id": "gb-bods-east_midlands",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods",
+  "status": "active"
+}

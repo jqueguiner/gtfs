@@ -2267,6 +2267,9 @@ GB,City of Edinburgh,Midland Bluebird,https://data.discoverpassenger.com/operato
 GB,Cornwall,Go Cornwall Bus,https://data.discoverpassenger.com/operator/gocornwallbus/dataset/current/download/gtfs,mdb-1934,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Cornwall,Plymouth Citybus,https://data.discoverpassenger.com/operator/plymouthbus/dataset/current/download/gtfs,mdb-1948,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Dartford,Fastrack,https://www.kent-fastrack.co.uk/open-data/network/current?format=gtfs,mdb-2914,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
+GB,East Anglia,East Anglia bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/east_anglia/,gb-bods-east_anglia,OGL-UK-3.0,active
+GB,East Midlands,East Midlands bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/east_midlands/,gb-bods-east_midlands,OGL-UK-3.0,active
+GB,England,England bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/england/,gb-bods-england,OGL-UK-3.0,active
 GB,England,Unibus,https://data.discoverpassenger.com/operator/unibus/dataset/current/download/gtfs,mdb-1954,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Essex,Essex County Council,https://data.essex.gov.uk/download/2ydj8/gl4/gtfs.zip,mdb-2688,https://data.essex.gov.uk/dataset/2ydj8/essex-bus-network-data,active
 GB,Glasgow / Scotland,"Scottish operators (SPT, First Glasgow, McGills, Stagecoach) — via BODS scotland feed",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/scotland/,gb-disc-12,,active
@@ -2297,6 +2300,8 @@ GB,Scottish Borders,Borders Buses,https://data.discoverpassenger.com/operator/bo
 GB,Slough,Green Line 702,https://data.discoverpassenger.com/operator/greenline/dataset/current/download/gtfs,mdb-1937,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Slough,Reading Buses,https://data.discoverpassenger.com/operator/readingbuses/dataset/current/download/gtfs,mdb-1949,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Slough,Thames Valley Buses,https://data.discoverpassenger.com/operator/courtney/dataset/current/download/gtfs,mdb-2913,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
+GB,South East,South East England bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_east/,gb-bods-south_east,OGL-UK-3.0,active
+GB,South West,South West England bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/south_west/,gb-bods-south_west,OGL-UK-3.0,active
 GB,Southampton,Bluestar Bus,https://data.discoverpassenger.com/operator/bluestar/dataset/current/download/gtfs,mdb-2907,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Southampton,Unilink,https://data.discoverpassenger.com/operator/unilink/dataset/current/download/gtfs,mdb-1955,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Suffolk,Coach Services,https://data.discoverpassenger.com/operator/coachservices/dataset/current/download/gtfs,mdb-2909,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
@@ -2306,7 +2311,624 @@ GB,Warrington,Warrington's Own Buses,https://data.discoverpassenger.com/operator
 GB,West Berkshire,Newbury & District,https://data.discoverpassenger.com/operator/kennections/dataset/current/download/gtfs,mdb-1944,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,West Sussex,Metrobus,https://data.discoverpassenger.com/operator/metrobus/dataset/current/download/gtfs,mdb-1942,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Wiltshire,Salisbury Reds,https://data.discoverpassenger.com/operator/salisburyreds/dataset/current/download/gtfs,mdb-1950,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
+GB,national,1st Bus Stop Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d3718d6c39,OGL-UK-3.0,active
+GB,national,21 Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e6638688a3,OGL-UK-3.0,active
+GB,national,A & J Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-506772bd45,OGL-UK-3.0,active
+GB,national,A B Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-464bf32575,OGL-UK-3.0,active
+GB,national,A C Williams,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-435e7ad529,OGL-UK-3.0,active
+GB,national,A Lyles and Son,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c6d478bbef,OGL-UK-3.0,active
+GB,national,A and J Taxis,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ab7487fbc1,OGL-UK-3.0,active
+GB,national,A1 Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b136da5f82,OGL-UK-3.0,active
+GB,national,A2B Bus and Coach,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c976bea3cb,OGL-UK-3.0,active
+GB,national,A2B Cars (Maesteg),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-501aa960a8,OGL-UK-3.0,active
+GB,national,A2B Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1a5d3cc6d4,OGL-UK-3.0,active
+GB,national,ABILITY (Northants),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-77aa853b09,OGL-UK-3.0,active
+GB,national,ABUS,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-327b69f1b9,OGL-UK-3.0,active
+GB,national,AMK,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e747da5386,OGL-UK-3.0,active
+GB,national,ARG Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e44956c222,OGL-UK-3.0,active
+GB,national,ASD Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e9374b1875,OGL-UK-3.0,active
+GB,national,Aberdeenshire Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2dd6906f41,OGL-UK-3.0,active
+GB,national,Acme Transport Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-754290bef1,OGL-UK-3.0,active
+GB,national,Adventure Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bdda38b5f9,OGL-UK-3.0,active
+GB,national,Aimee's,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c9d89de1b5,OGL-UK-3.0,active
+GB,national,Aintree Coachlines,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cd0f3dcf43,OGL-UK-3.0,active
+GB,national,Air-Rail Link,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-29a8e4b82b,OGL-UK-3.0,active
+GB,national,Al's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5d64287e16,OGL-UK-3.0,active
+GB,national,Albatross Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-43cd336209,OGL-UK-3.0,active
+GB,national,Ambassador Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b92c36a334,OGL-UK-3.0,active
+GB,national,Andersons of Langholm,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f1a6d1e008,OGL-UK-3.0,active
+GB,national,Andrews of Tideswell,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3ad9c8ce37,OGL-UK-3.0,active
+GB,national,Annandale Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1a14f4b5e1,OGL-UK-3.0,active
+GB,national,Archway Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c790b41cbc,OGL-UK-3.0,active
+GB,national,Ardlui Hotel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-dfa0fe162c,OGL-UK-3.0,active
+GB,national,Argyll & Bute Council Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2b72e97ccd,OGL-UK-3.0,active
+GB,national,Arisaig Marine,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d52755ebd1,OGL-UK-3.0,active
+GB,national,Arriva Beds and Bucks,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f6240963be,OGL-UK-3.0,active
+GB,national,Arriva Derby,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f8aa4c9dc4,OGL-UK-3.0,active
+GB,national,Arriva Herts and Essex,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7a8ee52984,OGL-UK-3.0,active
+GB,national,Arriva Kent and Surrey,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8a88a2907f,OGL-UK-3.0,active
+GB,national,Arriva London,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1122a3438d,OGL-UK-3.0,active
+GB,national,Arriva London North,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-89fce25d90,OGL-UK-3.0,active
+GB,national,Arriva London South,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7133f2927a,OGL-UK-3.0,active
+GB,national,Arriva Midlands,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-08572b3011,OGL-UK-3.0,active
+GB,national,Arriva North East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-147bae099f,OGL-UK-3.0,active
+GB,national,Arriva North West,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7d7a0abc4c,OGL-UK-3.0,active
+GB,national,Arriva Wales,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c2b2c42e6b,OGL-UK-3.0,active
+GB,national,Arriva Yorkshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4f0d63757d,OGL-UK-3.0,active
+GB,national,Ashbourne Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ff238541e9,OGL-UK-3.0,active
+GB,national,Ashcroft Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fd72de8af9,OGL-UK-3.0,active
+GB,national,Astons Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-077dcd9e6e,OGL-UK-3.0,active
+GB,national,Atwest,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d472961790,OGL-UK-3.0,active
+GB,national,Autocar Bus & Coach Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-aaadabf398,OGL-UK-3.0,active
+GB,national,Avondale Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-09c9b6510b,OGL-UK-3.0,active
+GB,national,Axe Valley Mini-Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6879adc6a0,OGL-UK-3.0,active
+GB,national,BK Marine,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c0cd7cd3a6,OGL-UK-3.0,active
+GB,national,BM Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-da65dd2837,OGL-UK-3.0,active
 GB,national,BODS UK aggregate feed,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,mdb-2014,https://data.bus-data.dft.gov.uk/guidance/requirements/,active
+GB,national,Bakers Dolphin,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-732dd4d87f,OGL-UK-3.0,active
+GB,national,Balmaha Boatyard,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7772a49de9,OGL-UK-3.0,active
+GB,national,Banga Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d3301ac3a5,OGL-UK-3.0,active
+GB,national,Bay Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3f23c9d4e7,OGL-UK-3.0,active
+GB,national,Bayliss Executive Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-77f152d2ea,OGL-UK-3.0,active
+GB,national,Bear Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ab86a81930,OGL-UK-3.0,active
+GB,national,Bee Network,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d6311ea69a,OGL-UK-3.0,active
+GB,national,Beeline Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-31a16ae547,OGL-UK-3.0,active
+GB,national,Beestons,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e3b7c10112,OGL-UK-3.0,active
+GB,national,Belle Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-95b0d75767,OGL-UK-3.0,active
+GB,national,Belle Vue Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5c08f0adb1,OGL-UK-3.0,active
+GB,national,Bennetts,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4859802778,OGL-UK-3.0,active
+GB,national,Berry's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c09f4cbc0c,OGL-UK-3.0,active
+GB,national,Berwyn,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-db19d42031,OGL-UK-3.0,active
+GB,national,Black Cat Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-64118342cf,OGL-UK-3.0,active
+GB,national,Blackpool Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-828733f71f,OGL-UK-3.0,active
+GB,national,Bland's,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-50f3f3918f,OGL-UK-3.0,active
+GB,national,Bluestar,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e2a22f07c9,OGL-UK-3.0,active
+GB,national,Blueworks Private Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a1c5f32c2d,OGL-UK-3.0,active
+GB,national,Bo'ness and Kinneil Railway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-13f7a95dd4,OGL-UK-3.0,active
+GB,national,Borderbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b960037e3a,OGL-UK-3.0,active
+GB,national,Borders Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-333682dbe9,OGL-UK-3.0,active
+GB,national,Boultons of Shropshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-00af068789,OGL-UK-3.0,active
+GB,national,Bournemouth Boating Ser,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-47165ca98c,OGL-UK-3.0,active
+GB,national,Brian Jones Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fe7a533e8f,OGL-UK-3.0,active
+GB,national,Brightlingsea Ferry Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-078b837978,OGL-UK-3.0,active
+GB,national,Brighton & Hove Bus and Coach Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f2fbe6d4e5,OGL-UK-3.0,active
+GB,national,Bristol Ferry Boat Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-330d3c519c,OGL-UK-3.0,active
+GB,national,Brookline,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-180cce35f5,OGL-UK-3.0,active
+GB,national,Brylaine Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e399243797,OGL-UK-3.0,active
+GB,national,Burnbrae Garage,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a8d9c92f52,OGL-UK-3.0,active
+GB,national,Burnham Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-196e7d2114,OGL-UK-3.0,active
+GB,national,Bus Link,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bc8890957c,OGL-UK-3.0,active
+GB,national,Bus Na Comhairle,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a639d18bb7,OGL-UK-3.0,active
+GB,national,C G Myall & Son,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-90e2e27f25,OGL-UK-3.0,active
+GB,national,CT Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c1903c634a,OGL-UK-3.0,active
+GB,national,CT4N,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-341a37d629,OGL-UK-3.0,active
+GB,national,CVS Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-34fbd0f943,OGL-UK-3.0,active
+GB,national,Caerphilly County Borough Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-83c7ab117d,OGL-UK-3.0,active
+GB,national,Cairn Valley Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4a053b36e5,OGL-UK-3.0,active
+GB,national,Caledonian MacBrayne,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2c18d8219f,OGL-UK-3.0,active
+GB,national,Canavan Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-303398f50e,OGL-UK-3.0,active
+GB,national,Cardiff Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-016142d03e,OGL-UK-3.0,active
+GB,national,Cardinal Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4532a4a89d,OGL-UK-3.0,active
+GB,national,Carlone Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-64c3dee720,OGL-UK-3.0,active
+GB,national,Carolean Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f3aa441674,OGL-UK-3.0,active
+GB,national,Carousel Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bf99425500,OGL-UK-3.0,active
+GB,national,Cavern City Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-502fe5f7b2,OGL-UK-3.0,active
+GB,national,Celtic Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e1cedbe5fa,OGL-UK-3.0,active
+GB,national,Centaur Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6108a4301a,OGL-UK-3.0,active
+GB,national,Central Connect,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0e52364745,OGL-UK-3.0,active
+GB,national,Centrebus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9a3c5bf029,OGL-UK-3.0,active
+GB,national,Chalkwell Garage & Coach Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a4a43ac9bd,OGL-UK-3.0,active
+GB,national,Chaserider,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3043feef96,OGL-UK-3.0,active
+GB,national,Chepstow Classic Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e9da0f1db4,OGL-UK-3.0,active
+GB,national,City Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8b91163bfa,OGL-UK-3.0,active
+GB,national,Climate Action Strathaven,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f632a4559e,OGL-UK-3.0,active
+GB,national,Clynnog & Trefor / Berwyn Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a33c038fc8,OGL-UK-3.0,active
+GB,national,Coach Event Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-78809a0aa8,OGL-UK-3.0,active
+GB,national,Coach Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f5fdca7c2c,OGL-UK-3.0,active
+GB,national,Coachstyle,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-22b7bbf3aa,OGL-UK-3.0,active
+GB,national,Coastal and Country Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f9ad4f1c6c,OGL-UK-3.0,active
+GB,national,Coastliner,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cd88bca50f,OGL-UK-3.0,active
+GB,national,Coastliner Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2c271b780a,OGL-UK-3.0,active
+GB,national,Colchri Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5924c961ec,OGL-UK-3.0,active
+GB,national,CommMiniBus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8ee572fd2c,OGL-UK-3.0,active
+GB,national,Community Transport Glasgow,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-11031d8935,OGL-UK-3.0,active
+GB,national,Community Transport South Wiltshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-11d1cbd463,OGL-UK-3.0,active
+GB,national,Compass Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-24c22968a2,OGL-UK-3.0,active
+GB,national,Connexions Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2fbef53fba,OGL-UK-3.0,active
+GB,national,Cotswold Green,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-660a16da2d,OGL-UK-3.0,active
+GB,national,Country Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d4f602ad8e,OGL-UK-3.0,active
+GB,national,Coventry Minibuses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-11f4f14a5b,OGL-UK-3.0,active
+GB,national,Cowes Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ac652660b9,OGL-UK-3.0,active
+GB,national,Cresta Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2d01ea918b,OGL-UK-3.0,active
+GB,national,Crosskeys Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b53cba43e1,OGL-UK-3.0,active
+GB,national,Cruise Loch Lomond,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0f78c17d2a,OGL-UK-3.0,active
+GB,national,Cruisers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-335b43df4f,OGL-UK-3.0,active
+GB,national,Cuckmere Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6791fdcd90,OGL-UK-3.0,active
+GB,national,Cumfybus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c31af8c516,OGL-UK-3.0,active
+GB,national,D & E Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-074793bfad,OGL-UK-3.0,active
+GB,national,D & G Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-204a4f5a4a,OGL-UK-3.0,active
+GB,national,D A Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-714278b979,OGL-UK-3.0,active
+GB,national,D M K Motors,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-67eccf1c36,OGL-UK-3.0,active
+GB,national,DANSA,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-faea10cd75,OGL-UK-3.0,active
+GB,national,DGC Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1595c0d0b9,OGL-UK-3.0,active
+GB,national,DRM Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6777fd05a4,OGL-UK-3.0,active
+GB,national,Dales and District,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e4d222c0d2,OGL-UK-3.0,active
+GB,national,Damory Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cdce4b6c48,OGL-UK-3.0,active
+GB,national,Dan's Coach Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-60a1d39d06,OGL-UK-3.0,active
+GB,national,Dartline Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b7ccd84c24,OGL-UK-3.0,active
+GB,national,Dartmouth Higher Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-44592a08a6,OGL-UK-3.0,active
+GB,national,David Goodfellow Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-36310eae9b,OGL-UK-3.0,active
+GB,national,Davies Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2c01406c4f,OGL-UK-3.0,active
+GB,national,Delaine Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-37b0d75a0a,OGL-UK-3.0,active
+GB,national,Denbighshire Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-34665511e3,OGL-UK-3.0,active
+GB,national,Deveron Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3e4fd61a1e,OGL-UK-3.0,active
+GB,national,Dews Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ccc5d475ef,OGL-UK-3.0,active
+GB,national,Diamond Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4037c3765e,OGL-UK-3.0,active
+GB,national,Diamond Bus East Midlands,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b602a86dbc,OGL-UK-3.0,active
+GB,national,Diamond Bus South East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6902c3c981,OGL-UK-3.0,active
+GB,national,Dilwyn's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6af4e06fb2,OGL-UK-3.0,active
+GB,national,Discover Dorset Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e07afdffb6,OGL-UK-3.0,active
+GB,national,Dochertys Midland Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3d0bcb275e,OGL-UK-3.0,active
+GB,national,Docklands Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-757c23fb71,OGL-UK-3.0,active
+GB,national,Duck Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-81f40a9cd2,OGL-UK-3.0,active
+GB,national,Dunnett's Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7679477eb3,OGL-UK-3.0,active
+GB,national,East Coast Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-34914e7fb1,OGL-UK-3.0,active
+GB,national,East Yorkshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fa15a98397,OGL-UK-3.0,active
+GB,national,Eastern Scottish,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-96de25493d,OGL-UK-3.0,active
+GB,national,Edinburgh Trams,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-44d7931c66,OGL-UK-3.0,active
+GB,national,Edward Thomas,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e121c5ad85,OGL-UK-3.0,active
+GB,national,Edwards Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-40b5c53e1d,OGL-UK-3.0,active
+GB,national,Eifion's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a59be33e28,OGL-UK-3.0,active
+GB,national,Elizabeth Yule Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9cd265b901,OGL-UK-3.0,active
+GB,national,Ellenvale Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-62d1fe346d,OGL-UK-3.0,active
+GB,national,Ember,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fcb94b1462,OGL-UK-3.0,active
+GB,national,Ensignbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6321e17e5c,OGL-UK-3.0,active
+GB,national,Eurocoaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c33993312b,OGL-UK-3.0,active
+GB,national,Evans Coaches Tregaron,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0fb52070fc,OGL-UK-3.0,active
+GB,national,Evolve Bus & Coach,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-91c753711e,OGL-UK-3.0,active
+GB,national,F R Willetts,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-484ef25d4d,OGL-UK-3.0,active
+GB,national,FIRST CAPITAL EAST LIMI,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fe39beca2d,OGL-UK-3.0,active
+GB,national,Fal River Links,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b5e4be0115,OGL-UK-3.0,active
+GB,national,Falcon Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0ff3d8ab55,OGL-UK-3.0,active
+GB,national,Fareline Bus & Coach Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7962a2aea3,OGL-UK-3.0,active
+GB,national,Faresaver,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4c1d5f614e,OGL-UK-3.0,active
+GB,national,Fastrack (Arriva Kent Thameside),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-da29ceb4d6,OGL-UK-3.0,active
+GB,national,Felix Taxis & Co.,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-01f58a7539,OGL-UK-3.0,active
+GB,national,Felixstowe Ferry Boat Yard,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-94eda90f00,OGL-UK-3.0,active
+GB,national,Ferryhill Village Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-11e06190c1,OGL-UK-3.0,active
+GB,national,First & Last Mile,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-359440741f,OGL-UK-3.0,active
+GB,national,First Aberdeen,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7c6647d7c9,OGL-UK-3.0,active
+GB,national,First Berkshire & The Thames Valley,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2f6772f595,OGL-UK-3.0,active
+GB,national,First Bradford,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5300d4a5a3,OGL-UK-3.0,active
+GB,national,"First Bristol, Bath & the West",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-26edbbe51e,OGL-UK-3.0,active
+GB,national,First Buses of Somerset,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-202f53ef93,OGL-UK-3.0,active
+GB,national,First Essex,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a489af83b7,OGL-UK-3.0,active
+GB,national,First Greater Glasgow,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-35abb629df,OGL-UK-3.0,active
+GB,national,First Halifax,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5de451aed9,OGL-UK-3.0,active
+GB,national,"First Halifax, Calder Valley & Huddersfield",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3140725b34,OGL-UK-3.0,active
+GB,national,First Leeds,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5c9c9a575b,OGL-UK-3.0,active
+GB,national,First Leicester,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-197767309a,OGL-UK-3.0,active
+GB,national,First Norfolk & Suffolk,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ef561b2e58,OGL-UK-3.0,active
+GB,national,"First Portsmouth, Fareham & Gosport",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f55f99a289,OGL-UK-3.0,active
+GB,national,First Potteries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-60b458182d,OGL-UK-3.0,active
+GB,national,First South & West Wales,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f5f71b0fc0,OGL-UK-3.0,active
+GB,national,First South Yorkshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-590645b0a2,OGL-UK-3.0,active
+GB,national,"First Wessex, Dorset & South Somerset",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ddd5dac347,OGL-UK-3.0,active
+GB,national,First Worcestershire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ca988562d1,OGL-UK-3.0,active
+GB,national,First York,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9bd5e63de5,OGL-UK-3.0,active
+GB,national,Flexibus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-362941d5cd,OGL-UK-3.0,active
+GB,national,FlixBus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3775e793f4,OGL-UK-3.0,active
+GB,national,Flushing Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-986b32bd6f,OGL-UK-3.0,active
+GB,national,Flyer,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f4d889918b,OGL-UK-3.0,active
+GB,national,Fords Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-923733cef4,OGL-UK-3.0,active
+GB,national,Forge Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fa55532ba1,OGL-UK-3.0,active
+GB,national,Fourways Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3cdeb1cd9f,OGL-UK-3.0,active
+GB,national,Fowlers Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f7c5fa896d,OGL-UK-3.0,active
+GB,national,FromeBus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4c3c582ffb,OGL-UK-3.0,active
+GB,national,GM Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-97231e907b,OGL-UK-3.0,active
+GB,national,Galson Motors,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-efe4227ea9,OGL-UK-3.0,active
+GB,national,Garelochhead Minibuses & Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7f37c4a2d8,OGL-UK-3.0,active
+GB,national,Gateshead Central Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-eaaa0e7a2e,OGL-UK-3.0,active
+GB,national,Gatwick Airport inter-terminal Shuttle,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-840136dbb4,OGL-UK-3.0,active
+GB,national,Gatwick Hoppa,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6852b06a1c,OGL-UK-3.0,active
+GB,national,Gem Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1fed1fdb83,OGL-UK-3.0,active
+GB,national,George Rapson Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-69a2de1740,OGL-UK-3.0,active
+GB,national,Glen Valley Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1be072d890,OGL-UK-3.0,active
+GB,national,Glenfarg Community Transport Group,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-046ccaf706,OGL-UK-3.0,active
+GB,national,Globe Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ed97f0225e,OGL-UK-3.0,active
+GB,national,Globe Holidays,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-783bea2bd4,OGL-UK-3.0,active
+GB,national,Go Ahead London,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b50bc39d6e,OGL-UK-3.0,active
+GB,national,Go Ahead Luton Parkway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1dfb47ac42,OGL-UK-3.0,active
+GB,national,Go Cornwall Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a603038d6b,OGL-UK-3.0,active
+GB,national,Go North East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-402196939a,OGL-UK-3.0,active
+GB,national,Go To Town,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-018f42c644,OGL-UK-3.0,active
+GB,national,Go-Coach Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-884ea4f5be,OGL-UK-3.0,active
+GB,national,Golden Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-266a29a204,OGL-UK-3.0,active
+GB,national,Goodsir,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ba9840d862,OGL-UK-3.0,active
+GB,national,Gosport-Portsmouth Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-504566e79a,OGL-UK-3.0,active
+GB,national,Grant Palmer,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d126b4a102,OGL-UK-3.0,active
+GB,national,Grayscroft Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-912aafe52c,OGL-UK-3.0,active
+GB,national,Green Line (operated by Arriva),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9b4d5d1059,OGL-UK-3.0,active
+GB,national,Greenslades Tours,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e8c8a6bf00,OGL-UK-3.0,active
+GB,national,Grenitote Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-661261aa2e,OGL-UK-3.0,active
+GB,national,Gwynfor Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-84ef20248f,OGL-UK-3.0,active
+GB,national,Hadlow Rural Community School,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-13d58ba442,OGL-UK-3.0,active
+GB,national,Haines Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-abeff327c7,OGL-UK-3.0,active
+GB,national,Hams Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3eb4c0e56b,OGL-UK-3.0,active
+GB,national,Harpurs Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-608c1c4a52,OGL-UK-3.0,active
+GB,national,Harris Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0a89106aaa,OGL-UK-3.0,active
+GB,national,Harwich Harbour Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-48aa6a40a6,OGL-UK-3.0,active
+GB,national,Hatch Green Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-add166686f,OGL-UK-3.0,active
+GB,national,Hattons Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4f2fce7f39,OGL-UK-3.0,active
+GB,national,Hawkes Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f38ae1a7cc,OGL-UK-3.0,active
+GB,national,Hayling Ferry Limited,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-10653f4541,OGL-UK-3.0,active
+GB,national,HcL,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bc4600f427,OGL-UK-3.0,active
+GB,national,Heatons Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a818bc9274,OGL-UK-3.0,active
+GB,national,Hebridean MiniBus Service,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-76ebc34826,OGL-UK-3.0,active
+GB,national,Hebridean Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ba21061ff0,OGL-UK-3.0,active
+GB,national,Hedge The Distance,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-23c1db5aab,OGL-UK-3.0,active
+GB,national,Hedingham & Chambers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4f00662968,OGL-UK-3.0,active
+GB,national,High Peak,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-91ea772816,OGL-UK-3.0,active
+GB,national,Highland Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-386ad5ee0a,OGL-UK-3.0,active
+GB,national,Highland Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-945df7530e,OGL-UK-3.0,active
+GB,national,Historic Scotland,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2730ec2c15,OGL-UK-3.0,active
+GB,national,Hobson Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-459e9ff56a,OGL-UK-3.0,active
+GB,national,Hodgsons,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b96a735c73,OGL-UK-3.0,active
+GB,national,Holmeswood Coaches Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-52d2f565e5,OGL-UK-3.0,active
+GB,national,Hopleys Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3563a27de7,OGL-UK-3.0,active
+GB,national,Hornsbys Bus & Coach,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-062404c2db,OGL-UK-3.0,active
+GB,national,Hotel Hoppa,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8ed91ea549,OGL-UK-3.0,active
+GB,national,Hotspur,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6ac967ef17,OGL-UK-3.0,active
+GB,national,Houston's Minicoaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fba77f3167,OGL-UK-3.0,active
+GB,national,Hovertravel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b37bbeae08,OGL-UK-3.0,active
+GB,national,Howards Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b805100be5,OGL-UK-3.0,active
+GB,national,Hunters Executive Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-87fd68fd73,OGL-UK-3.0,active
+GB,national,Hunts Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8049331bb2,OGL-UK-3.0,active
+GB,national,Huyton Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cea9580439,OGL-UK-3.0,active
+GB,national,IFS Cloud Cable Car,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6982b2e3e0,OGL-UK-3.0,active
+GB,national,Iain McGregor,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e307dbdfca,OGL-UK-3.0,active
+GB,national,Imperial Coaches Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-17004860a9,OGL-UK-3.0,active
+GB,national,Ipswich Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fdfd7bda79,OGL-UK-3.0,active
+GB,national,Islay Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a4003f9f89,OGL-UK-3.0,active
+GB,national,Islay Sea Safari,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fafe4c3e99,OGL-UK-3.0,active
+GB,national,Isle Valley Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c0c427f860,OGL-UK-3.0,active
+GB,national,Isle of Hoy Development Trust,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fe7fc27c37,OGL-UK-3.0,active
+GB,national,Itchenor Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3bf48bedad,OGL-UK-3.0,active
+GB,national,J P Minibus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-345f0bf73f,OGL-UK-3.0,active
+GB,national,J R Dent Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-dce52de9cb,OGL-UK-3.0,active
+GB,national,J R Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-69f70edb04,OGL-UK-3.0,active
+GB,national,JH Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b8654a9819,OGL-UK-3.0,active
+GB,national,JMB Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ef846fa593,OGL-UK-3.0,active
+GB,national,JW Lodge & Sons,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-38013d9395,OGL-UK-3.0,active
+GB,national,Jacksons of Silsden Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-83a13eb838,OGL-UK-3.0,active
+GB,national,James Bevan,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-dd5a2dc949,OGL-UK-3.0,active
+GB,national,John Dix Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bc6fb63a0e,OGL-UK-3.0,active
+GB,national,Jonathan Boyd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-534a3cea91,OGL-UK-3.0,active
+GB,national,Jones Login,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8215eaae4e,OGL-UK-3.0,active
+GB,national,K&P Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5442986efd,OGL-UK-3.0,active
+GB,national,KP Cabs,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7a0b3c2141,OGL-UK-3.0,active
+GB,national,Keepings Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-875d93f7fc,OGL-UK-3.0,active
+GB,national,Keith and Dufftown Railway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4f0d08b46d,OGL-UK-3.0,active
+GB,national,Kempsford Transport UK Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-110c4e39a2,OGL-UK-3.0,active
+GB,national,Kent Country,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-579a532006,OGL-UK-3.0,active
+GB,national,Kevin's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4553355cf4,OGL-UK-3.0,active
+GB,national,Kevs Cars and Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-37e6239a8a,OGL-UK-3.0,active
+GB,national,Kinchbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3be6723cb7,OGL-UK-3.0,active
+GB,national,Kineil Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9ba29ddf9a,OGL-UK-3.0,active
+GB,national,Kirkby Lonsdale Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-85f9e3aa8a,OGL-UK-3.0,active
+GB,national,Konectbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-58fd67b0b8,OGL-UK-3.0,active
+GB,national,LMS Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-41928842d0,OGL-UK-3.0,active
+GB,national,Lakeland Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4091d717e8,OGL-UK-3.0,active
+GB,national,Lakeside Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-82abd52027,OGL-UK-3.0,active
+GB,national,LandFlight,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a6cd41ce41,OGL-UK-3.0,active
+GB,national,Langston & Tasker,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-07b62d9d56,OGL-UK-3.0,active
+GB,national,Lawson's of Corby,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-236e9c0584,OGL-UK-3.0,active
+GB,national,Leadhills and Wanlockhead Railway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-22cde2ec94,OGL-UK-3.0,active
+GB,national,Let's Go,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ecd68df0e9,OGL-UK-3.0,active
+GB,national,Lewis Taxi,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c6c185e373,OGL-UK-3.0,active
+GB,national,Lewis Y Llan,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1926f9d567,OGL-UK-3.0,active
+GB,national,Libra Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-945e3f93e3,OGL-UK-3.0,active
+GB,national,Link Network,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d54a59255f,OGL-UK-3.0,active
+GB,national,Linkrider Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8b615881f5,OGL-UK-3.0,active
+GB,national,Littles Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7990d66cf4,OGL-UK-3.0,active
+GB,national,Liverpool City Sights,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e604756508,OGL-UK-3.0,active
+GB,national,Llew Jones,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-201604cefe,OGL-UK-3.0,active
+GB,national,Lloyds Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-97772fcc63,OGL-UK-3.0,active
+GB,national,Lochaber Action on Disability,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e9f4db8d82,OGL-UK-3.0,active
+GB,national,Lochcarron Garage,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6a2a0e6987,OGL-UK-3.0,active
+GB,national,Lochs Motor Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a9b398b693,OGL-UK-3.0,active
+GB,national,London Docklands Light Railway - TfL,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-709c245ac2,OGL-UK-3.0,active
+GB,national,London Sovereign,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4a220ab75d,OGL-UK-3.0,active
+GB,national,London Tramlink,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fb224f1588,OGL-UK-3.0,active
+GB,national,London Transit,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2099e036b4,OGL-UK-3.0,active
+GB,national,London Underground (TfL),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-91971d43ce,OGL-UK-3.0,active
+GB,national,London United,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-dc79168cdb,OGL-UK-3.0,active
+GB,national,Lord's Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d5a3158cc2,OGL-UK-3.0,active
+GB,national,Lothian Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-68b275d1c1,OGL-UK-3.0,active
+GB,national,Lothian Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-87353c344a,OGL-UK-3.0,active
+GB,national,Lothian Country Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c98cbce7a2,OGL-UK-3.0,active
+GB,national,Lucketts of Watford,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7e4e8e1846,OGL-UK-3.0,active
+GB,national,Lynx,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-046568156e,OGL-UK-3.0,active
+GB,national,M & H Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a4a8825d0f,OGL-UK-3.0,active
+GB,national,M & R Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-badd27f011,OGL-UK-3.0,active
+GB,national,MD Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e4288c3358,OGL-UK-3.0,active
+GB,national,MacDonald's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3d96f83dce,OGL-UK-3.0,active
+GB,national,MacLeod's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ef20b5f5df,OGL-UK-3.0,active
+GB,national,Maghull Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3fd86cd9ce,OGL-UK-3.0,active
+GB,national,Marchants Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a4ba73d3d3,OGL-UK-3.0,active
+GB,national,Marshalls Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e27373cc91,OGL-UK-3.0,active
+GB,national,Marshalls of Sutton on Trent,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8bdee53737,OGL-UK-3.0,active
+GB,national,McCall's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-26a658f277,OGL-UK-3.0,active
+GB,national,McColls Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f4f14728c9,OGL-UK-3.0,active
+GB,national,McGill's Bus Service,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-978aec3aea,OGL-UK-3.0,active
+GB,national,McNairn's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1ee9f3defb,OGL-UK-3.0,active
+GB,national,Mendip Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e3ea94b1f6,OGL-UK-3.0,active
+GB,national,Mersey Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5eefc4255a,OGL-UK-3.0,active
+GB,national,Metrobus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-30da273122,OGL-UK-3.0,active
+GB,national,Metroline Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4aa2f7ed0d,OGL-UK-3.0,active
+GB,national,Metrolink,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b0a8f59079,OGL-UK-3.0,active
+GB,national,Mevagissey Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4141c6a432,OGL-UK-3.0,active
+GB,national,Mid Wales Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-81344cdd33,OGL-UK-3.0,active
+GB,national,Midland Bluebird,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-01aa9ec25e,OGL-UK-3.0,active
+GB,national,Mikro Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-07db15cb27,OGL-UK-3.0,active
+GB,national,Millport Motors,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-526eecb9e6,OGL-UK-3.0,active
+GB,national,Minibus Plus.com,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0a477098b4,OGL-UK-3.0,active
+GB,national,Minsterley,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f698eeb921,OGL-UK-3.0,active
+GB,national,Moffat & Williamson,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9fed7a239d,OGL-UK-3.0,active
+GB,national,Moray Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cc1cc4431d,OGL-UK-3.0,active
+GB,national,Morris Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-33fadc464c,OGL-UK-3.0,active
+GB,national,Mountbatten Water Taxis,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-461a51d655,OGL-UK-3.0,active
+GB,national,Moving People,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a9afdbdbec,OGL-UK-3.0,active
+GB,national,Mudeford Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d90df396b6,OGL-UK-3.0,active
+GB,national,Mulleys Motorways,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c7091d59e7,OGL-UK-3.0,active
+GB,national,Murdo MacIver,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f6b0698ebb,OGL-UK-3.0,active
+GB,national,N N Cresswell,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-67dd621d40,OGL-UK-3.0,active
+GB,national,NATIONAL EXPRESS OPERAT,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ba93fff027,OGL-UK-3.0,active
+GB,national,NBM Hire Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2db8805846,OGL-UK-3.0,active
+GB,national,NIBSbuses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-70ea98d818,OGL-UK-3.0,active
+GB,national,National Express,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e577058df5,OGL-UK-3.0,active
+GB,national,National Express Coventry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1febc6c5cc,OGL-UK-3.0,active
+GB,national,National Express West Midlands,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-06bdafa278,OGL-UK-3.0,active
+GB,national,Nauticalia Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8b11464c6c,OGL-UK-3.0,active
+GB,national,Nefyn,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f974007cb0,OGL-UK-3.0,active
+GB,national,"New Bharat Coaches (Southall, London)",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bc2b9e3939,OGL-UK-3.0,active
+GB,national,Newbury & District,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-468f6fac05,OGL-UK-3.0,active
+GB,national,Newport Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8391862c5d,OGL-UK-3.0,active
+GB,national,Nexus Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-47ab60e889,OGL-UK-3.0,active
+GB,national,Nick Maddy Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c73b43ab10,OGL-UK-3.0,active
+GB,national,North Area Transport Association,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f47ef17322,OGL-UK-3.0,active
+GB,national,Northlink Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-82cf0c54da,OGL-UK-3.0,active
+GB,national,Northstar,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c440d25fd9,OGL-UK-3.0,active
+GB,national,Nottingham City Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fb21e7a0ab,OGL-UK-3.0,active
+GB,national,Nottingham Minibuses and Coaches Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a93fb743dd,OGL-UK-3.0,active
+GB,national,Nottinghamshire County Council Fleet Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ceb3d89434,OGL-UK-3.0,active
+GB,national,Notts and Derby,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-050f39dc3b,OGL-UK-3.0,active
+GB,national,Nu-Venture,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7096a06b4f,OGL-UK-3.0,active
+GB,national,Number Seven Boat Trips,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-339eeaa3fd,OGL-UK-3.0,active
+GB,national,O.R.Jones,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-49d482d0a1,OGL-UK-3.0,active
+GB,national,OTS,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5e0e60caae,OGL-UK-3.0,active
+GB,national,Oakleys Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4d7fb2cb91,OGL-UK-3.0,active
+GB,national,Olympia Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d9a98fb570,OGL-UK-3.0,active
+GB,national,Orkney Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1e54802d51,OGL-UK-3.0,active
+GB,national,Orkney Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1f42ac3bca,OGL-UK-3.0,active
+GB,national,Our Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ba1690dc08,OGL-UK-3.0,active
+GB,national,Owen's Travelmaster,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-82d8564b65,OGL-UK-3.0,active
+GB,national,Oxford Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ffb09d3d43,OGL-UK-3.0,active
+GB,national,P & O Lloyd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a5784e9e92,OGL-UK-3.0,active
+GB,national,PC Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f9468b1e06,OGL-UK-3.0,active
+GB,national,PVT Transfer,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5b3ef6bf72,OGL-UK-3.0,active
+GB,national,Padstow Harbour Commissioners,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-efee3f0c07,OGL-UK-3.0,active
+GB,national,Park's of Hamilton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cba81ef4f4,OGL-UK-3.0,active
+GB,national,Pat's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a7ec2ae6af,OGL-UK-3.0,active
+GB,national,Paul's Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-162dd3649c,OGL-UK-3.0,active
+GB,national,Pembrokeshire County Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2ba1abe652,OGL-UK-3.0,active
+GB,national,Pentland Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-07b512e6f3,OGL-UK-3.0,active
+GB,national,Peoples Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-28305d00b3,OGL-UK-3.0,active
+GB,national,Peter Hodgson Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2eae52e711,OGL-UK-3.0,active
+GB,national,Peter Hogg of Jedburgh,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2715133441,OGL-UK-3.0,active
+GB,national,Peter MacLennan,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e9db65d56d,OGL-UK-3.0,active
+GB,national,Peter's Minibus Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cb03498c5e,OGL-UK-3.0,active
+GB,national,Peyton Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1802ad2ab0,OGL-UK-3.0,active
+GB,national,Phil Anslow Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2a01009fd7,OGL-UK-3.0,active
+GB,national,Phoenix Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-365422bf9f,OGL-UK-3.0,active
+GB,national,Pilkingtonbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fcd58aef3d,OGL-UK-3.0,active
+GB,national,Plymouth Boat Trips,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fa3170cf4c,OGL-UK-3.0,active
+GB,national,Plymouth Citybus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f7ea71f3bf,OGL-UK-3.0,active
+GB,national,Polruan Ferry Co Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3a69a8bcf0,OGL-UK-3.0,active
+GB,national,"Polruan Passenger Ferry, Bodinnick Vehicle Ferry",https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d578db92f7,OGL-UK-3.0,active
+GB,national,Premier Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-541bbb205b,OGL-UK-3.0,active
+GB,national,Prentice Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b48fe78775,OGL-UK-3.0,active
+GB,national,Prentice Westwood,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-de0c41f4bd,OGL-UK-3.0,active
+GB,national,Preston Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9bbea95660,OGL-UK-3.0,active
+GB,national,Pulhams Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4dcb042e98,OGL-UK-3.0,active
+GB,national,Quality Line,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b20927cc1b,OGL-UK-3.0,active
+GB,national,R & J Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c7c6000186,OGL-UK-3.0,active
+GB,national,RS Taxis and Minicoaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-28782db392,OGL-UK-3.0,active
+GB,national,Reading Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-71e034d124,OGL-UK-3.0,active
+GB,national,Reading RailAir,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f853de3e1b,OGL-UK-3.0,active
+GB,national,Reays Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-08df87fe97,OGL-UK-3.0,active
+GB,national,Red Eagle,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-94e76248f6,OGL-UK-3.0,active
+GB,national,Red Funnel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5600137bc8,OGL-UK-3.0,active
+GB,national,Red Rose Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b451de2964,OGL-UK-3.0,active
+GB,national,Redline,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ce8821ede5,OGL-UK-3.0,active
+GB,national,Redwoods Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2d2c012a62,OGL-UK-3.0,active
+GB,national,Regent Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b5c0b1135d,OGL-UK-3.0,active
+GB,national,Replacement Service,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e3c19a6009,OGL-UK-3.0,active
+GB,national,Reptons Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-36aa567d7c,OGL-UK-3.0,active
+GB,national,Richards Bros,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1d3e61e62b,OGL-UK-3.0,active
+GB,national,Richmonds Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d014b218d0,OGL-UK-3.0,active
+GB,national,Ridgways Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-246e0b752a,OGL-UK-3.0,active
+GB,national,River Link,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1c1ac9294c,OGL-UK-3.0,active
+GB,national,Roberts Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1f3545d4d7,OGL-UK-3.0,active
+GB,national,Rooster Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0a2d340aed,OGL-UK-3.0,active
+GB,national,Ross Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d8f5b2e513,OGL-UK-3.0,active
+GB,national,Royal Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-456180f169,OGL-UK-3.0,active
+GB,national,SD Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0a1b9f678e,OGL-UK-3.0,active
+GB,national,SMT Bus and Coach Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-957185d718,OGL-UK-3.0,active
+GB,national,SPT Subway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-087938c74e,OGL-UK-3.0,active
+GB,national,Safeguard Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7f78d5be54,OGL-UK-3.0,active
+GB,national,Salcombe Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-29cfd0c328,OGL-UK-3.0,active
+GB,national,Salisbury Reds,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-83ad1e967f,OGL-UK-3.0,active
+GB,national,Sandbanks Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8bb3fbe623,OGL-UK-3.0,active
+GB,national,Sanders Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2a3e756d44,OGL-UK-3.0,active
+GB,national,Sarah Bell,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-44d756047f,OGL-UK-3.0,active
+GB,national,Sargeants Brothers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7e4d89b049,OGL-UK-3.0,active
+GB,national,Scottish Borders Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-42eb613b2b,OGL-UK-3.0,active
+GB,national,Scottish Citylink,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a4d62177fd,OGL-UK-3.0,active
+GB,national,Scottish Vintage Bus Museum,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-414203a7a8,OGL-UK-3.0,active
+GB,national,Scraggs,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-09aa5a3f36,OGL-UK-3.0,active
+GB,national,Select Bus Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e22d355f32,OGL-UK-3.0,active
+GB,national,Select Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ba128fccef,OGL-UK-3.0,active
+GB,national,Sharpes of Nottingham,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-57193f8886,OGL-UK-3.0,active
+GB,national,Sheffield Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2135377993,OGL-UK-3.0,active
+GB,national,Shetland Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-77bafcd636,OGL-UK-3.0,active
+GB,national,Shiel Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0643e3924b,OGL-UK-3.0,active
+GB,national,Shoreline Suncruisers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d731e886ff,OGL-UK-3.0,active
+GB,national,Short's Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-999038f5df,OGL-UK-3.0,active
+GB,national,Shuttle Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fca80a09c8,OGL-UK-3.0,active
+GB,national,Skills Motor Coaches Limited,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7b2b62b139,OGL-UK-3.0,active
+GB,national,Skye Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-75d21db1c6,OGL-UK-3.0,active
+GB,national,Sleafordian Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f661a9447b,OGL-UK-3.0,active
+GB,national,Smith & Sons,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-80d35bf4dc,OGL-UK-3.0,active
+GB,national,Solus Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5f4ec5d2de,OGL-UK-3.0,active
+GB,national,Somerset Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1cf943f506,OGL-UK-3.0,active
+GB,national,South Ayrshire Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-02330242b1,OGL-UK-3.0,active
+GB,national,South Harris Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1cb636c8dc,OGL-UK-3.0,active
+GB,national,South Somerset Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-49be8ddf81,OGL-UK-3.0,active
+GB,national,South Staffs Coach Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-76380c9e5e,OGL-UK-3.0,active
+GB,national,South Wales Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9c0019cdbf,OGL-UK-3.0,active
+GB,national,South West Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c8f0c367a2,OGL-UK-3.0,active
+GB,national,South Yorkshire Future Tram,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-49de33b0a2,OGL-UK-3.0,active
+GB,national,Southern Vectis,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3b1cffe2cd,OGL-UK-3.0,active
+GB,national,Squarepeg,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3cbe0f3d15,OGL-UK-3.0,active
+GB,national,St Ives Minibus Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6394e3b9f6,OGL-UK-3.0,active
+GB,national,St Mawes Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-59d2c4cc6c,OGL-UK-3.0,active
+GB,national,Stagecoach Bluebird,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9e38839f0d,OGL-UK-3.0,active
+GB,national,Stagecoach Cumbria and North Lancashire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9fb6295a5b,OGL-UK-3.0,active
+GB,national,Stagecoach East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-261ec60258,OGL-UK-3.0,active
+GB,national,Stagecoach East Midlands,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-369559731a,OGL-UK-3.0,active
+GB,national,Stagecoach East Scotland,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b13ea81b31,OGL-UK-3.0,active
+GB,national,Stagecoach London,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2da46447f1,OGL-UK-3.0,active
+GB,national,Stagecoach Merseyside and South Lancashire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-16dcf92149,OGL-UK-3.0,active
+GB,national,Stagecoach Midlands,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e58d575426,OGL-UK-3.0,active
+GB,national,Stagecoach North East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-95c2be4027,OGL-UK-3.0,active
+GB,national,Stagecoach Oxfordshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-22c749fe7e,OGL-UK-3.0,active
+GB,national,Stagecoach South,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a82d9bdf77,OGL-UK-3.0,active
+GB,national,Stagecoach South East,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5b1530401f,OGL-UK-3.0,active
+GB,national,Stagecoach South Wales,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bb41889ed6,OGL-UK-3.0,active
+GB,national,Stagecoach South West,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-53095216c7,OGL-UK-3.0,active
+GB,national,Stagecoach West,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d1c643b49a,OGL-UK-3.0,active
+GB,national,Stagecoach West Scotland,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-618bb06163,OGL-UK-3.0,active
+GB,national,Stagecoach Yorkshire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-934ffddb2b,OGL-UK-3.0,active
+GB,national,Stanley Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4ea3d48c1c,OGL-UK-3.0,active
+GB,national,Stanton's of Stoke,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-61f58be833,OGL-UK-3.0,active
+GB,national,Star Cabs,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fe69ada3aa,OGL-UK-3.0,active
+GB,national,Starline,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2afec94b20,OGL-UK-3.0,active
+GB,national,Station Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0a883be009,OGL-UK-3.0,active
+GB,national,Steam Ship Sir Walter Scott,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-21ce293e33,OGL-UK-3.0,active
+GB,national,Steer Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-13559cae59,OGL-UK-3.0,active
+GB,national,Stephensons of Essex,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4bde4a437f,OGL-UK-3.0,active
+GB,national,Stevenson's Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-7f8bfed73e,OGL-UK-3.0,active
+GB,national,Stirling Council,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a45ff1fc11,OGL-UK-3.0,active
+GB,national,Stotts Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ca60c6fe96,OGL-UK-3.0,active
+GB,national,Stowmarket Minibus and Coach Hire,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-855dfe1305,OGL-UK-3.0,active
+GB,national,Strathspey Steam Railway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-81bcf81297,OGL-UK-3.0,active
+GB,national,Stringers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-57ccb01775,OGL-UK-3.0,active
+GB,national,Stuart's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-98310c51c0,OGL-UK-3.0,active
+GB,national,Sullivan Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-de009ebe0d,OGL-UK-3.0,active
+GB,national,Sunbeam Luxury Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-87dab31eff,OGL-UK-3.0,active
+GB,national,Sussex Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-13561307a4,OGL-UK-3.0,active
+GB,national,Sweeneys Cruises,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0874cd0911,OGL-UK-3.0,active
+GB,national,Sweeneys Garage,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d7c743c6e8,OGL-UK-3.0,active
+GB,national,Sweyne Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-83bf77e842,OGL-UK-3.0,active
+GB,national,Swindon's Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f0b983eda8,OGL-UK-3.0,active
+GB,national,TK Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-baefa029c0,OGL-UK-3.0,active
+GB,national,TLC Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5b7215e376,OGL-UK-3.0,active
+GB,national,TM Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-84d6b21bf6,OGL-UK-3.0,active
+GB,national,Taf Valley Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3c812950af,OGL-UK-3.0,active
+GB,national,Tally Ho!,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-08aeac4639,OGL-UK-3.0,active
+GB,national,Tamar Bridge & Torpoint Ferry Joint Committee,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-efde4dfdd4,OGL-UK-3.0,active
+GB,national,Tanat Valley Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-364c155f56,OGL-UK-3.0,active
+GB,national,Taunton Minibuses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f0dc76893b,OGL-UK-3.0,active
+GB,national,Taw & Torridge,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-2312cb8862,OGL-UK-3.0,active
+GB,national,Taylors Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3750d09ac9,OGL-UK-3.0,active
+GB,national,Team Pennine,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fbcfd3a9e8,OGL-UK-3.0,active
+GB,national,Telford's Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5bc8bbdbe7,OGL-UK-3.0,active
+GB,national,Thames Clippers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-681fe3cd6a,OGL-UK-3.0,active
+GB,national,Thames Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ded71007c1,OGL-UK-3.0,active
+GB,national,Thames Valley Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-718efa68b4,OGL-UK-3.0,active
+GB,national,Thandi Red Limited,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-c6b570eb7a,OGL-UK-3.0,active
+GB,national,The Big Lemon,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9395eeb2a7,OGL-UK-3.0,active
+GB,national,The Blackburn Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-000ed8edfc,OGL-UK-3.0,active
+GB,national,The Burnley Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-43db786f31,OGL-UK-3.0,active
+GB,national,The Durness Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-628b2b78d2,OGL-UK-3.0,active
+GB,national,The Harrogate Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-98a34204c5,OGL-UK-3.0,active
+GB,national,The Keighley Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3a576b7f21,OGL-UK-3.0,active
+GB,national,The London Bus Company,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-240c45678f,OGL-UK-3.0,active
+GB,national,Thomas Herbert Jones & Partners,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-491b0e6445,OGL-UK-3.0,active
+GB,national,Thomas Murphy,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9fb0c2dc7b,OGL-UK-3.0,active
+GB,national,Thomas of Rhondda,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-70ad1736c5,OGL-UK-3.0,active
+GB,national,Thornes Independent Ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f87bf7bd77,OGL-UK-3.0,active
+GB,national,Todd's Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-998c0a9285,OGL-UK-3.0,active
+GB,national,Torbay Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-360cc36993,OGL-UK-3.0,active
+GB,national,Totness Community Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bdd89e866c,OGL-UK-3.0,active
+GB,national,Townlynx,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d8321e0f48,OGL-UK-3.0,active
+GB,national,Tranport for Tongue,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-b88e1a8bcf,OGL-UK-3.0,active
+GB,national,Transport UK,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6d169f7dd7,OGL-UK-3.0,active
+GB,national,TransportConnect,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ce2a23d643,OGL-UK-3.0,active
+GB,national,Travel Cornwall,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8e0aef0da5,OGL-UK-3.0,active
+GB,national,Travelmasters,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-07958af5c7,OGL-UK-3.0,active
+GB,national,Troopers Lodge Motor Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a37745b0ec,OGL-UK-3.0,active
+GB,national,Tyne and Wear Metro,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-804f7b3507,OGL-UK-3.0,active
+GB,national,Tyrers Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-324d06c416,OGL-UK-3.0,active
+GB,national,Ugobus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d983942b51,OGL-UK-3.0,active
+GB,national,Ulva Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f89cf9eb1b,OGL-UK-3.0,active
+GB,national,Uni-Link,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-00f3a46ee2,OGL-UK-3.0,active
+GB,national,United Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8bd19909cf,OGL-UK-3.0,active
+GB,national,Uno,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3dfc0990cb,OGL-UK-3.0,active
+GB,national,Valentines Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6ddf78cea7,OGL-UK-3.0,active
+GB,national,Victoria Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-60925c228f,OGL-UK-3.0,active
+GB,national,Vision Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-77f9844ce9,OGL-UK-3.0,active
+GB,national,W Brownrigg,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6d7d8176bc,OGL-UK-3.0,active
+GB,national,WM Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3f22a7979c,OGL-UK-3.0,active
+GB,national,WMV Motor Hirer,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cd67c5f356,OGL-UK-3.0,active
+GB,national,Walsall Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-30d3c0515e,OGL-UK-3.0,active
+GB,national,Warrington's Own Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3b21db5cda,OGL-UK-3.0,active
+GB,national,Watermill Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3ca23eabda,OGL-UK-3.0,active
+GB,national,Weardale Motor Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3ab8db61b1,OGL-UK-3.0,active
+GB,national,West Berkshire Council Transport Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ffc2c7c9a5,OGL-UK-3.0,active
+GB,national,West Coast Motors,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-81cad585d2,OGL-UK-3.0,active
+GB,national,West Midlands Metro,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-6746d298a3,OGL-UK-3.0,active
+GB,national,West Oxfordshire Community Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bf3b4d25ba,OGL-UK-3.0,active
+GB,national,Westerbus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f6b422166b,OGL-UK-3.0,active
+GB,national,Western Dales Community Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-bdf551840e,OGL-UK-3.0,active
+GB,national,Western Ferries,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3254ae25a8,OGL-UK-3.0,active
+GB,national,Western Isles Cruises,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-73eff2e9dd,OGL-UK-3.0,active
+GB,national,Whippet Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4138161a25,OGL-UK-3.0,active
+GB,national,White Bus Services,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-45739ff7d3,OGL-UK-3.0,active
+GB,national,Whitelaw Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1a03fcd556,OGL-UK-3.0,active
+GB,national,Whites Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-5af374a7ad,OGL-UK-3.0,active
+GB,national,WightLink,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-a1ea6838d2,OGL-UK-3.0,active
+GB,national,Wilfreda Beehive,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d5538143a5,OGL-UK-3.0,active
+GB,national,Wilkins Travel (Port Talbot),https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-61853d76de,OGL-UK-3.0,active
+GB,national,Williams Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ee48457aa5,OGL-UK-3.0,active
+GB,national,Wilson's of Rhu,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-cbaf0fec32,OGL-UK-3.0,active
+GB,national,Wilsons Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-9de3dc4de7,OGL-UK-3.0,active
+GB,national,Woody's Taxis,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-56a19897e8,OGL-UK-3.0,active
+GB,national,Woolwich Free Ferry,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fe6872eace,OGL-UK-3.0,active
+GB,national,Wrexham Taxis,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d4c097fbec,OGL-UK-3.0,active
+GB,national,Wright Brothers Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-f4e3f47fcc,OGL-UK-3.0,active
+GB,national,Xelabus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ecfc7bcfbf,OGL-UK-3.0,active
+GB,national,Xplore Dundee,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-96e5810b3b,OGL-UK-3.0,active
+GB,national,YMS Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-ec52ae7140,OGL-UK-3.0,active
+GB,national,Yarranton Brothers,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-fac2d77b90,OGL-UK-3.0,active
+GB,national,Yeomans Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-0c93830791,OGL-UK-3.0,active
+GB,national,York Pullman,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-d7f4b86d78,OGL-UK-3.0,active
+GB,national,Z & S Transport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-4b35ac3ea0,OGL-UK-3.0,active
+GB,national,Zero2 Bus Museum,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-68c1e295e1,OGL-UK-3.0,active
+GB,national,morebus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-3a98a3c18e,OGL-UK-3.0,active
+GB,national,trentbarton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-8e17e452d1,OGL-UK-3.0,active
+GB,national,united minibuses and coaches ltd,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-acb15db191,OGL-UK-3.0,active
 GE,Tbilisi,"Tbilisi Transport Company (TTC) — metro, city bus, minibus, ropeway",https://jbb.ghsq.de/gtfs/ge-tbilisi.gtfs.zip,ge-w3-3,,active
 GH,Accra,Accratrotro,https://github.com/AFDLab4Dev/AccraMobility/raw/master/GTFS/GTFS_Accra.zip,f-ebzz-accratrotro,https://git.digitaltransport4africa.org/places/accra/blob/master/GTFS/README.md,active
 GH,Accra,Amadepartmentoftransport,https://gitlab.com/digitaltransport/data/africa/accra/raw/master/GTFS/GTFS_Accra.zip,f-ebzz-amadepartmentoftransport,https://opendatacommons.org/licenses/odbl/index.html,active

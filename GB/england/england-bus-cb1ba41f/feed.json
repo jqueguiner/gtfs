@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "England bus",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "England"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/england/",
+    "mdb_id": "gb-bods-england",
+    "license": "OGL-UK-3.0"
+  },
+  "bbox": null,
+  "source": "bods",
+  "status": "active"
+}
