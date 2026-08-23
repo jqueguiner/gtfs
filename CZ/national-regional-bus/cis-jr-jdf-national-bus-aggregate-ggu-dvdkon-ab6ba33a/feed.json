@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JŘ JDF national bus aggregate (GGU / dvdkon)",
+    "country": "CZ",
+    "subdivision": "Czech Republic",
+    "city": "national (regional bus)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.jr.ggu.cz/results/latest/JDF_merged_GTFS.zip",
+    "mdb_id": "cz-eutail-cis-jr-jdf-national-bus-aggreg",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

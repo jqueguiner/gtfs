@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "European Sleeper Coöperatie U.A.",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-cis-6d81c6c71d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "cz-nap#agency",
+  "status": "active"
+}

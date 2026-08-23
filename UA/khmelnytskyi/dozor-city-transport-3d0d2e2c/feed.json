@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dozor (city transport)",
+    "country": "UA",
+    "subdivision": "Khmelnytskyi Oblast",
+    "city": "Khmelnytskyi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/ua/khmelnyckyi/gtfs/static.zip",
+    "mdb_id": "ua-eutail-dozor-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

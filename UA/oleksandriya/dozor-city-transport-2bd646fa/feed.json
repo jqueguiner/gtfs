@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dozor (city transport)",
+    "country": "UA",
+    "subdivision": "Kirovohrad Oblast",
+    "city": "Oleksandriya"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/oleksandriya/gtfs/static.zip",
+    "mdb_id": "ua-eutail-dozor-city-transport-4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

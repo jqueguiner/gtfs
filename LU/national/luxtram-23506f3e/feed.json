@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Luxtram",
+    "country": "LU",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip",
+    "mdb_id": "lu-op-5a519f23d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "lu-nap#agency",
+  "status": "active"
+}

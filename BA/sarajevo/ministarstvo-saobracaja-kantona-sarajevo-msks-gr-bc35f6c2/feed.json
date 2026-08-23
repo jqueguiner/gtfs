@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ministarstvo saobraćaja Kantona Sarajevo (MSKS — GRAS trams/trolleybus/bus)",
+    "country": "BA",
+    "subdivision": "Sarajevo Canton",
+    "city": "Sarajevo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/sarajevo-gtfs/latest/sarajevo_gtfs.zip",
+    "mdb_id": "ba-eutail-ministarstvo-saobracaja-kanton",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

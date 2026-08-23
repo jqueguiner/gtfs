@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "IDZK (Integrovaná doprava Zlínského kraje)",
+    "country": "CZ",
+    "subdivision": "Zlínský kraj",
+    "city": "Zlín"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hoermalmeister.github.io/gtfs-rehost/idzk/id-zk-all.zip",
+    "mdb_id": "cz-eutail-idzk-integrovana-doprava-zlins",
+    "license": "unknown"
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

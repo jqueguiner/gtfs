@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CDS s.r.o. Náchod",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-cis-7d0c3d8c0b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "cz-nap#agency",
+  "status": "active"
+}

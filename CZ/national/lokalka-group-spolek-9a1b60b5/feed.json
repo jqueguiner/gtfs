@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lokálka Group, spolek",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-cis-606f761ca1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "cz-nap#agency",
+  "status": "active"
+}

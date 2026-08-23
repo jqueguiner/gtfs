@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dozor (city transport)",
+    "country": "UA",
+    "subdivision": "Khmelnytskyi Oblast",
+    "city": "Kamianets-Podilskyi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://city.dozor.tech/kamyanec/gtfs/static.zip",
+    "mdb_id": "ua-eutail-dozor-city-transport-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

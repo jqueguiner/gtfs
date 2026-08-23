@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mostar Bus (MOBUS)",
+    "country": "BA",
+    "subdivision": "Herzegovina-Neretva",
+    "city": "Mostar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/mostar-gtfs/latest/mobus_gtfs.zip",
+    "mdb_id": "ba-eutail-mostar-bus-mobus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

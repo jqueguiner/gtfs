@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Z-Group bus a.s.",
+    "country": "CZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-cis-2a62f9f99f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "cz-nap#agency",
+  "status": "active"
+}

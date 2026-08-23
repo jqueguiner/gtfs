@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Verkehrsverbund Vorarlberg (VMOBIL) — Landbus network + ÖBB-Postbus",
+    "country": "AT",
+    "subdivision": "Vorarlberg",
+    "city": "Vorarlberg (Bregenz/Feldkirch/Dornbirn)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mobilitaetsdaten.gv.at/sites/default/files/metadataset/sample_data/20260703-0010_gtfs_flex_vmobil_2026.zip",
+    "mdb_id": "at-eutail-verkehrsverbund-vorarlberg-vmo",
+    "license": "Datenlizenz Mobilitätsverbünde Österreich (free/open)"
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

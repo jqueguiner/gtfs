@@ -10,6 +10,7 @@ AR,Cordoba,Transporte urbano de Cordoba (city buses),https://hub.tumidata.org/da
 AR,Pontevedra,Buenosaires~Trenes,https://cdn.buenosaires.gob.ar/datosabiertos/datasets/transporte-y-obras-publicas/trenes-gtfs/trenes-gtfs.zip,f-buenosaires~trenes,CC-BY-2.5,active
 AR,Rio Segundo,Marchiquitasrl,http://marchiquita.tk/mar.zip,f-6d6-marchiquitasrl,,active
 AR,national,Cordoba~Ar,https://gobiernoabierto.cordoba.gob.ar/data/datos-abiertos/categoria/movilidad/gtfs-de-la-ciudada-de-cordoba/3319,f-cordoba~ar,CC-BY-SA-4.0,active
+AT,Austria (nationwide rail),"ÖBB-Personenverkehr AG (incl. Montafonerbahn, City Air Terminal)",https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_Fahrplan_2026.zip,at-eutail-obb-personenverkehr-ag-incl-mo,CC BY 4.0,active
 AT,Bezirk Baden,"Wiener Lokalbahnen (WLB), Wiener Linien",http://www.wienerlinien.at/ogd_realtime/doku/ogd/gtfs/gtfs.zip,mdb-648,,active
 AT,Bregenz,Verkehrsverbund Vorarlberg (VMOBIL),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27240/file,at-gtfs-vmobil-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Bregenz,Verkehrsverbund Vorarlberg (VMOBIL),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27241/file,at-gtfs-flex-vmobil-2026,Data License Mobilitätsverbünde Österreich,active
@@ -33,6 +34,7 @@ AT,Vienna,OBB-Personenverkehr AG,https://static.oebb.at/open-data/soll-fahrplan-
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27249/file,at-gtfs-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27250/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
+AT,Vorarlberg (Bregenz/Feldkirch/Dornbirn),Verkehrsverbund Vorarlberg (VMOBIL) — Landbus network + ÖBB-Postbus,https://mobilitaetsdaten.gv.at/sites/default/files/metadataset/sample_data/20260703-0010_gtfs_flex_vmobil_2026.zip,at-eutail-verkehrsverbund-vorarlberg-vmo,Datenlizenz Mobilitätsverbünde Österreich (free/open),active
 AT,Wels,BBS Schapfl,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/ding.zip,mdb-770,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 AT,national,Oebb~At,https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip,f-oebb~at,CC-BY-4.0,active
 AT,national,U3W4~Morag,https://files.girlc.at/gtfs/morag.zip,f-u3w4~morag,CC0-1.0,active
@@ -91,6 +93,10 @@ AU,Whitsunday Regional,Whitsunday Transit,https://gtfsrt.api.translink.com.au/GT
 AU,national,Alice~Springs~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice-springs.zip,f-alice~springs~nt~au,CC-BY-4.0,active
 AU,national,Darwin~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
 BA,City of Mostar,Turistička agencija Li-Bus d.o.o. (Livnobus),https://livnobus.com/gtfs/google-transit,mdb-3427,,active
+BA,Mostar,Mostar Bus (MOBUS),https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/mostar-gtfs/latest/mobus_gtfs.zip,ba-eutail-mostar-bus-mobus,,active
+BA,Sarajevo,Centrotrans,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/centrotrans-gtfs/latest/centrotrans_gtfs.zip,ba-eutail-centrotrans,,active
+BA,Sarajevo,Ministarstvo saobraćaja Kantona Sarajevo (MSKS — GRAS trams/trolleybus/bus),https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/sarajevo-gtfs/latest/sarajevo_gtfs.zip,ba-eutail-ministarstvo-saobracaja-kanton,,active
+BA,Sarajevo,Željeznice FBiH / Željeznice RS (ŽFBiH railway),https://owncloud.cesnet.cz/index.php/s/yWJhi9wjUIc3IC2/download,ba-eutail-zeljeznice-fbih-zeljeznice-rs-,,active
 BD,Dhaka,Bangladesh Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/bangladesh-railway/gtfs/,bd-llm-bangladesh-railway,,active
 BD,Dhaka,Dhaka Mass Transit Company Limited (DMTCL) — Metro Rail MRT Line 6,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-mass-transit-company-limited-dmtcl-metro-r/gtfs/,bd-llm-dhaka-mass-transit-company-limited-dmtcl,,active
 BD,Dhaka,Dhaka Nagar Paribahan (DTCA / Bus Route Rationalisation — Green cluster routes 21-28),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-nagar-paribahan-dtca-bus-route-rationalisa/gtfs/,bd-llm-dhaka-nagar-paribahan-dtca-bus-route-rat,,active
@@ -954,10 +960,145 @@ CZ,Plzeň,Plzeňské městské dopravní podniky a.s.,https://jizdnirady.pmdp.cz
 CZ,Prague,PID - Prazska integrovana doprava (ROPID / IDSK),https://data.pid.cz/PID_GTFS.zip,cz-pid-praha,CC-BY-4.0,active
 CZ,Prague,Prazska integrovana doprava (PID),http://data.pid.cz/PID_GTFS.zip,mdb-767,https://pid.cz/o-systemu/opendata/,active
 CZ,Prague,naldo Verkehrsverbund,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_ohne_liniennetz/naldo.zip,mdb-771,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+CZ,Zlín,IDZK (Integrovaná doprava Zlínského kraje),https://hoermalmeister.github.io/gtfs-rehost/idzk/id-zk-all.zip,cz-eutail-idzk-integrovana-doprava-zlins,unknown,active
+CZ,national,ABOUT ME s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-1bb891e480,,active
+CZ,national,AD STŘEDNÍ ČECHY s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-1e99c7506e,,active
+CZ,national,ADOSA a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-3a34eebe87,,active
+CZ,national,AKV bus a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-f408e3b5db,,active
+CZ,national,ARRIVA CITY a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-acb89d1851,,active
+CZ,national,ARRIVA STŘEDNÍ ČECHY s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2a5859d6ff,,active
+CZ,national,ARRIVA autobusy a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-69d0d4732d,,active
+CZ,national,ARRIVA vlaky s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-8e38b5c4c5,,active
+CZ,national,AUTODOPRAVA LAMER s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-3ea68db827,,active
+CZ,national,Autobusová doprava Kohout s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-c1542ed570,,active
+CZ,national,"AŽD Praha, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-8076e2c100,,active
+CZ,national,"BDS-BUS, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-fc3fb54416,,active
+CZ,national,BORS Břeclav a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-dbbd52df99,,active
+CZ,national,BusLine Express s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-e263f3d0bb,,active
+CZ,national,BusLine KHK s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-02b5629d8d,,active
+CZ,national,BusLine LK s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-5ac3fd324c,,active
+CZ,national,BusLine Pardubicko s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-3c4977e8cf,,active
+CZ,national,BusLine jižní Čechy s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-4603f067ad,,active
+CZ,national,CAR - TOUR spol. s r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2538ff0584,,active
+CZ,national,CDS s.r.o. Náchod,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-7d0c3d8c0b,,active
+CZ,national,"COMETT PLUS, spol. s r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-342c96602a,,active
+CZ,national,COMPAG CZ s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-e9e90cc696,,active
+CZ,national,"CityRail, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9381bb130a,,active
+CZ,national,Cvinger bus s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-a5db677162,,active
 CZ,national,Czech national bus feed JDF,https://owncloud.cesnet.cz/index.php/s/IMvVXZIHOuORDrB/download,mdb-2904,,active
 CZ,national,Czptt~Cz,https://data.jr.ggu.cz/results/latest/CZPTT_GTFS.zip,f-czptt~cz,CC0-1.0,active
+CZ,national,DOPAZ s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-31afe4d4e6,,active
+CZ,national,Die Länderbahn CZ s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-4f290bd889,,active
+CZ,national,Doprava Teplice s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2dd1cb9793,,active
+CZ,national,"Dopravní podnik Karlovy Vary, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-bc236900b8,,active
+CZ,national,Dopravní podnik Ostrava a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-cebd657426,,active
+CZ,national,"Dopravní podnik hl.m. Prahy, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-59a26f0469,,active
+CZ,national,Dopravní podnik měst Chomutova a Jirkova a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-92012be509,,active
+CZ,national,"Dopravní podnik měst Liberce a Jablonce nad Nisou, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-d0c7bdadc0,,active
+CZ,national,"Dopravní podnik města Brna, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-e3cbf684c1,,active
+CZ,national,"Dopravní podnik města Děčína, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-94d082ee1e,,active
+CZ,national,"Dopravní podnik města Jihlavy, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-c750077f61,,active
+CZ,national,"Dopravní podnik města Olomouce, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-fbc8fef3db,,active
+CZ,national,Dopravní podnik města Ústí nad Labem a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9d7aff063b,,active
+CZ,national,"Dopravní podnik města České Budějovice, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-941ce7935b,,active
+CZ,national,"Dopravní společnost Zlín-Otrokovice, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-50ca8283d6,,active
+CZ,national,"Dopravní společnost Ústeckého kraje, příspěvková organizace",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-ef2cd8dcfb,,active
+CZ,national,"EKOSERVIS TRANSPEED, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-bb0bd45489,,active
+CZ,national,European Sleeper Coöperatie U.A.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-6d81c6c71d,,active
+CZ,national,FAN RAIL CS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-4cbd5c88ab,,active
+CZ,national,"FTL - First Transport Lines, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9980324c79,,active
+CZ,national,GW BUS a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-e331a69200,,active
+CZ,national,GW Train Regio a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-75c95d15f8,,active
+CZ,national,"Gepard Express, SE",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-40c354ba8c,,active
+CZ,national,ICOM transport a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-aed4137c63,,active
+CZ,national,Jablonecká dopravní a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-030ea0786d,,active
+CZ,national,KAD BUS spol. s r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-6d3a025a15,,active
+CZ,national,"KAD,spol. s r.o. Krkonošská automobilová doprava Vrchlabí",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9b07dc86a6,,active
+CZ,national,Klatovská dopravní společnost s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2a7c5990ca,,active
+CZ,national,Kokořínský SOK s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-68f40f546a,,active
+CZ,national,"Kolej-klub, z.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-30f085248b,,active
+CZ,national,Kreiswerke Cham - Mobilitätszentrale,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2519d13656,,active
+CZ,national,"KŽC Doprava, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-6fd1b4c2b6,,active
+CZ,national,LEXTRANS BUS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-6a441c80bd,,active
+CZ,national,Leo Express Tenders s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-ee50b7f950,,active
+CZ,national,Leo Express s.r.o. - žadatel,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-0f7374ac71,,active
+CZ,national,LinkBus s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-db056b4cf0,,active
+CZ,national,"Lokálka Group, spolek",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-606f761ca1,,active
+CZ,national,Lutan s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-fd9737a8c2,,active
+CZ,national,"MARTIN UHER bus, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-b46a9d4a53,,active
+CZ,national,"MARTIN UHER, spol. s r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-46bc4e189c,,active
+CZ,national,MBM rail s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-70af2f4559,,active
+CZ,national,"METRANS Rail, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-89ac9a7680,,active
+CZ,national,Michal Pelc,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-36511d3512,,active
+CZ,national,Moravskoslezský kraj,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2232aaf2dd,,active
+CZ,national,MĚSTSKÁ DOPRAVA Mariánské Lázně s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-afac961376,,active
+CZ,national,"Městská doprava Teplice, p.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-69ff77fe00,,active
+CZ,national,"Městský dopravní podnik Opava, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-1d8b11bc5a,,active
+CZ,national,Obec Ptení,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-3593fa05e1,,active
+CZ,national,"Okresní autobusová doprava Kolín, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-05f62c830f,,active
+CZ,national,P-transport s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-5e4ced735d,,active
+CZ,national,"PECHOČIAKOVÁ - ZEPRA, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-957a555851,,active
+CZ,national,POASS Technologies s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-f14201e2de,,active
+CZ,national,POHL Kladno spol. s r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-89778b8794,,active
+CZ,national,POVED s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-afb61a9f40,,active
+CZ,national,"Plzeňské městské dopravní podniky, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9e1886839d,,active
 CZ,national,Pražská integrovaná doprava,https://data.pid.cz/PID_GTFS.zip,cz-op-289b98d651,,active
+CZ,national,"Pražská paroplavební společnost, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-3e2ab77e60,,active
+CZ,national,Pražské Benátky s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-43ae63284a,,active
+CZ,national,Rail system s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9aae0bedad,,active
+CZ,national,Railway Capital a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-c6ebb139a8,,active
+CZ,national,RegioJet a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-b48cdbe87e,,active
+CZ,national,RegioJet ÚK a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-cea52a3510,,active
+CZ,national,STENBUS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-95b85298d3,,active
+CZ,national,"Slezské zemské dráhy, o.p.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-755e2c9bd3,,active
+CZ,national,Služby města Špindlerův Mlýn s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-09c407079c,,active
 CZ,national,Spojenka (CHAPS / CIS JR merge),https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-spojenka-nationwide,,active
+CZ,national,Správa Ústecké dráhy s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-1a41e0692e,,active
+CZ,national,Steam Story Agency s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-8da397e3f6,,active
+CZ,national,StiBus s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9590d45e2c,,active
+CZ,national,Strojně dopravní služby Opava spol. s r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2a9daabc76,,active
+CZ,national,TQM - holding s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-61493d37a0,,active
+CZ,national,"TRADO-BUS, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-8243265e11,,active
+CZ,national,Technické služby Havlíčkův Brod,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-047687c903,,active
+CZ,national,"Technické služby města Duchcova, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-53a9000f8d,,active
+CZ,national,"Tourbus, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-5df94bbeba,,active
+CZ,national,Transdev Morava s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-40b4eae506,,active
+CZ,national,Transdev Slezsko a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-ca2b12a213,,active
+CZ,national,Transdev Střední Čechy s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-06b2c30cf6,,active
+CZ,national,Transdev Čechy s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-32368e3ddc,,active
+CZ,national,Trutnovská autobusová doprava s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-f98834c047,,active
+CZ,national,UMBRELLA CITY LINES s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-b10b45fc90,,active
+CZ,national,UMBRELLA Coach & Buses s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-94953924f1,,active
+CZ,national,VOJTILA TRANS BUS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-5ef74f46a1,,active
+CZ,national,VOJTILA TRANS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-432b70412d,,active
+CZ,national,VV autobusy s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-51c39e818b,,active
+CZ,national,Vega Tour s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-86f03fe78e,,active
+CZ,national,Východočeská dráha s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-d34585fdbb,,active
+CZ,national,Z-Group bus a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2a62f9f99f,,active
+CZ,national,"ZDAR, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-f6fb9e63cc,,active
+CZ,national,Zlatovánek spol. s r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-b5a15ffd50,,active
+CZ,national,"Znojemská dopravní společnost - PSOTA, s.r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-7845549169,,active
+CZ,national,Zubačka provoz s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9c4bf03199,,active
+CZ,national,nabídková trasa,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-de57045082,,active
+CZ,national,ČAD Blansko a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-012f9b0eef,,active
+CZ,national,ČD Bus a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-9f36ed3643,,active
+CZ,national,ČESKÁ ZÁPADNÍ DRÁHA s. r. o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-8229bd9411,,active
+CZ,national,ČSAD AUTOBUSY České Budějovice a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-dd65004795,,active
+CZ,national,ČSAD BUS Uherské Hradiště a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-200adf955d,,active
+CZ,national,ČSAD Benešov s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-ee9a622a04,,active
+CZ,national,"ČSAD Brno holding, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-7166297ad5,,active
+CZ,national,ČSAD Hodonín a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-31ceeaaaec,,active
+CZ,national,ČSAD Kyjov Bus a.s.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-f9f4f69401,,active
+CZ,national,"ČSAD Liberec, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-5cd907fd7e,,active
+CZ,national,"ČSAD POLKOST, spol. s r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-cbd21945b9,,active
+CZ,national,ČSAD Plzeň s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-4e7d55fd93,,active
+CZ,national,ČSAD Slaný s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-dd8ba700cf,,active
+CZ,national,"ČSAD Střední Čechy , a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-2ea6a458a0,,active
+CZ,national,"ČSAD Tišnov, spol. s r.o.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-bc94e235ef,,active
+CZ,national,"ČSAD Ústí nad Orlicí, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-a982382e69,,active
+CZ,national,"České dráhy, a.s.",https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-feb88ac29d,,active
+CZ,national,ŠVARCTRANS s.r.o.,https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip,cz-cis-ea7fe95d39,,active
+CZ,national (regional bus),CIS JŘ JDF national bus aggregate (GGU / dvdkon),https://data.jr.ggu.cz/results/latest/JDF_merged_GTFS.zip,cz-eutail-cis-jr-jdf-national-bus-aggreg,CC0-1.0,active
 DE,Aachen,AVV (Aachener Verkehrsverbund),https://opendata.avv.de/current_GTFS/AVV_GTFS_mit_SPNV.zip,de-eu2-avv-aachener-verkehrsverbund,CC0,active
 DE,Aachen,Eurostar International Ltd.,https://www.data.gouv.fr/api/1/datasets/r/bfd97acd-63f3-4ea4-bfe8-70e4c7fd8d13,tdg-82199,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 DE,Aachen,Long-distance rail transport in Germany,https://download.gtfs.de/germany/fv_free/latest.zip,mdb-768,,active
@@ -6476,6 +6617,12 @@ LT,national,Šilutės r. sav.,https://www.visimarsrutai.lt/gtfs/SilutesR.zip,lt-
 LT,national,Širvintų r. sav.,https://www.visimarsrutai.lt/gtfs/SirvintuR.zip,lt-sirvintu-r-sav,CC-BY-4.0,active
 LT,national,Švenčionių r. sav.,https://www.visimarsrutai.lt/gtfs/SvencioniuR.zip,lt-svencioniu-r-sav,CC-BY-4.0,active
 LT,Šiaulių miesto savivaldybė,B-Bus,https://www.stops.lt/LVA/lva/gtfs.zip,mdb-2385,,active
+LU,national,Chemins de Fer Luxembourgeois,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-95097e767e,,active
+LU,national,Luxtram,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-5a519f23d3,,active
+LU,national,Régime Général des Transports Routiers,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-45cf23a3eb,,active
+LU,national,Société Nationale des Chemins de Fer Luxembourgeois,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-d4830daa72,,active
+LU,national,TICE,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-ece33fa634,,active
+LU,national,Ville de Luxembourg - Service Autobus,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-op-b5bd9d9917,,active
 LV,Daugavpils,Daugavpils satiksme,https://satiksme.daugavpils.lv/saraksti/GTFS.zip,lv-satiksme-daugavpils-lv-saraksti-gtfs-zip,CC0-1.0,active
 LV,Jekabpils,Jekabpils autobusu parks,https://gsvalbe.id.lv/pieturas/dati/gtfs/jekabpils.zip,lv-gsvalbe-id-lv-pieturas-dati-gtfs-jekabpils-zip,CC0-1.0,active
 LV,Jelgava,Jelgavas autobusu parks,http://data.lvnap.lv/jap/gtfs-lv-jap.zip,lv-data-lvnap-lv-jap-gtfs-lv-jap-zip,CC0-1.0,active
@@ -6529,6 +6676,7 @@ MD,Fălești District,Transport Public Ungheni,https://github.com/UngheniTranspo
 MD,national,Tutigerride~Md,https://www.tutigerride.com/gtfs,f-tutigerride~md,,active
 ME,Polje,Željeznički prevoz Crne Gore,https://jbb.ghsq.de/gtfs/me-zpcg.gtfs.zip,mdb-2377,https://jbb.ghsq.de/kde/2024/02/25/Call-for-feeds-Make-your-region-available-in-our-open-transit-router.html,active
 MK,Jabolci,JSP Skopje,https://www.modeshift.app/api/v1/9814b106-2afe-47c8-919b-bdec6a5e521e/transport/gtfs/gtfs.zip,mdb-3045,,active
+MK,Skopje,ŽRSM Transport / MZ (North Macedonia national railway),https://hoermalmeister.github.io/gtfs-rehost/mzi/mzi.zip,mk-eutail-zrsm-transport-mz-north-macedo,,active
 MK,Skopje,Македонски Железници Транспорт / North Macedonia Railways Transport,https://github.com/deryclem/gtfs-north-macedonia/raw/main/gtfs-north-macedonia.zip,mdb-3461,,active
 ML,Bamako,Bamako~Sotrama,https://gitlab.com/digitaltransport/data/africa/bamako/-/raw/main/gtfs_Public_Transport_Bamako_Sotrama_01_01_2020_06_42_48.zip,f-bamako~sotrama,https://gitlab.com/digitaltransport/data/africa/bamako,active
 ML,Gao Cercle,Communauté d'Agglomération du Nord Grande-Terre,https://www.data.gouv.fr/api/1/datasets/r/dbfbff0f-46b6-44d5-a4d4-60d4ac645026,tdg-83020,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
@@ -7434,18 +7582,24 @@ TW,national,Taiwan Railways Administration (TRA),https://tdx.transportdata.tw/ap
 TZ,Dar es Salaam,Daladala minibus network (DARCOBOA / UWADAR associations),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TZ/dar-es-salaam/daladala-minibus-network-darcoboa-uwadar-associa/gtfs/,tz-llm-daladala-minibus-network-darcoboa-uwadar,,active
 TZ,Dar es Salaam,Tanzania Railways Corporation (TRC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TZ/dar-es-salaam/tanzania-railways-corporation-trc/gtfs/,tz-llm-tanzania-railways-corporation-trc,,active
 TZ,Dar es Salaam,UDA-RT (UDART) — Dar es Salaam BRT (DART Phase I),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/TZ/dar-es-salaam/uda-rt-udart-dar-es-salaam-brt-dart-phase-i/gtfs/,tz-llm-uda-rt-udart-dar-es-salaam-brt-dart-phas,,active
+UA,Bila Tserkva,Dozor (city transport),https://city.dozor.tech/bila-cerkva/gtfs/static.zip,ua-eutail-dozor-city-transport-2,,active
 UA,Chervonohrad,Шептицька міська рада,https://public.easyway.info/gps/chervonograd.json,ua-chervonohrad-rt-vehicle-position,CC-BY-4.0,active
 UA,Chornomorsk,Chornomorsk passenger road transport,https://data.gov.ua/dataset/032c23f0-dbe5-4b63-8c1f-03218758ae60/resource/d997fdbf-7a25-487b-ad47-ee5541d552be/download/chornomorsk-2019-09-05-10-24-50.zip,ua-w3-2,,active
 UA,Dnipro,Дніпровська міська рада,http://46.4.68.233:23450/api/gps-data,ua-dnipro-rt-vehicle-position,CC-BY-4.0,active
 UA,Drohobych Raion,Стрийська міська рада,https://track.ua-gis.com/gtfs/stryi/static.zip,mdb-2932,,active
 UA,Ivano-Frankivsk,Ivano-Frankivsk via EasyWay,https://city.dozor.tech/iv-frankivsk/gtfs/static.zip,ua-iv-frankivsk-easyway-static,CC-BY-4.0,active
 UA,Ivano-Frankivsk,Управління транспорту та зв'язку Івано-Франківської міської ради,https://city.dozor.tech/iv-frankivsk/gtfs/vehicle_position,ua-ivano-frankivsk-rt-vehicleposition,CC-BY-4.0,active
+UA,Kamianets-Podilskyi,Dozor (city transport),https://city.dozor.tech/kamyanec/gtfs/static.zip,ua-eutail-dozor-city-transport-3,,active
+UA,Khmelnytskyi,Dozor (city transport),https://city.dozor.tech/ua/khmelnyckyi/gtfs/static.zip,ua-eutail-dozor-city-transport,,active
 UA,Kyiv,Kyiv,http://193.23.225.211:8002/export-gtfs-static,mdb-3230,https://creativecommons.org/licenses/by/4.0/,active
+UA,Kyiv,Kyivpastrans (КП Київпастранс),https://jbb.ghsq.de/gtfs/ua-kyiv.gtfs.zip,ua-eutail-kyivpastrans,,active
+UA,Kyiv,Ukrzaliznytsia (national railway),https://jbb.ghsq.de/gtfs/ua-ukrzaliznytsya.gtfs.zip,ua-eutail-ukrzaliznytsia-national-railwa,,active
 UA,Kyiv,Київська міська державна адміністрація,http://193.23.225.214:732/api/realtime,ua-kyiv-rt-vehicleposition-tripupdates-alerts,CC-BY-4.0,active
 UA,L'viv,Lvivelectrotrans,http://track.ua-gis.com/gtfs/lviv/static.zip,f-u8c5-lvivavtodor,CC-BY-4.0,active
 UA,Lviv,Львівська міська рада,http://track.ua-gis.com/gtfs/lviv/vehicle_position,ua-lviv-rt-gtfs-realtime-vehicle-positions,CC-BY-4.0,active
 UA,Lviv Raion,Lvivavtodor,https://track.ua-gis.com/gtfs/lviv/static.zip,mdb-2374,https://opendata.city-adm.lviv.ua/ne/dataset/lviv-public-transport-gtfs-real-time/resource/eb31a65b-a22b-44b1-83ce-41add24ae652?inner_span=True,active
 UA,Mykolaiv Raion,VD-Express,https://vdexpress.net/api/gtfs/feed,mdb-3134,,active
+UA,Oleksandriya,Dozor (city transport),https://city.dozor.tech/oleksandriya/gtfs/static.zip,ua-eutail-dozor-city-transport-4,,active
 UA,Rivne,Рівненська міська рада,https://city.dozor.tech/rivne/gtfs/static.zip,ua-rivne-gtfs-static,CC-BY-4.0,active
 UA,Sumy,Sumy city electric/road transport,http://gps.sumy.ua/gtfs/gtfs-vehicle-positions.proto,ua-w3-1,,active
 UA,Uzhhorod,Uzhhorod via EasyWay,http://track.ua-gis.com/gtfs/uzhhorod/static.zip,ua-uzhhorod-easyway-static,CC-BY-4.0,active
@@ -9270,6 +9424,7 @@ VN,Hanoi,"Transerco (Hanoi Transport Corporation) + private operators, Hanoi bus
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS MD),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046583/hanoi_gtfs_md.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-m,,active
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS PM),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046584/hanoi_gtfs_pm.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-p,,active
 VN,Ho Chi Minh City,"Ho Chi Minh City bus network (Trung tâm Quản lý Giao thông công cộng / Management Centre of Public Transport, MCPT)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VN/ho-chi-minh-city/ho-chi-minh-city-bus-network-trung-tam-quan-ly-g/gtfs/,vn-llm-ho-chi-minh-city-bus-network-trung-tam-q,,active
+XK,Prishtinë,Trainkos Sh.A. (Kosovo Railways),https://hoermalmeister.github.io/gtfs-rehost/trainkos/trainkos.zip,xk-eutail-trainkos-sh-a-kosovo-railways,,active
 XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-NYU.zip,f-adirondack~trailways~nyu,https://data.ny.gov/download/77gx-ii52/application/pdf,active
 XX,national,Amarillo~City~Transit,http://gtfs-source-feeds.transit.land/amarillo-tx-us.zip,f-amarillo~city~transit,,active
 XX,national,Bandelier~National~Monument~Shuttle,https://www.nps.gov/external-resources/gtfs/band/bandelier-national-monument.zip,f-bandelier~national~monument~shuttle,,active

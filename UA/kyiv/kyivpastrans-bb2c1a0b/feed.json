@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kyivpastrans (КП Київпастранс)",
+    "country": "UA",
+    "subdivision": "Kyiv",
+    "city": "Kyiv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://jbb.ghsq.de/gtfs/ua-kyiv.gtfs.zip",
+    "mdb_id": "ua-eutail-kyivpastrans",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

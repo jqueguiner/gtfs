@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ÖBB-Personenverkehr AG (incl. Montafonerbahn, City Air Terminal)",
+    "country": "AT",
+    "subdivision": "AT",
+    "city": "Austria (nationwide rail)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_Fahrplan_2026.zip",
+    "mdb_id": "at-eutail-obb-personenverkehr-ag-incl-mo",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}

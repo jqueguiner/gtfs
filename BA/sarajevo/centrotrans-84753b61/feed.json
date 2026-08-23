@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Centrotrans",
+    "country": "BA",
+    "subdivision": "Sarajevo Canton",
+    "city": "Sarajevo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/centrotrans-gtfs/latest/centrotrans_gtfs.zip",
+    "mdb_id": "ba-eutail-centrotrans",
+    "license": null
+  },
+  "bbox": null,
+  "source": "eu-tail",
+  "status": "active"
+}
