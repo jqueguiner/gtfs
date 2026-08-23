@@ -4992,6 +4992,7 @@ NG,Lagos Island,Lagos State Waterways,https://lagosferries.com/gtfs.zip,mdb-3144
 NL,Breda,Société nationale des chemins de fer belges (NMBS-SNCB),https://data.gtfs.be/sncb/gtfs/be-sncb-gtfs.zip,mdb-1859,https://gtfs.be/,active
 NL,Breda,Société nationale des chemins de fer belges (NMBS-SNCB),https://gtfs.irail.be/nmbs/gtfs/latest.zip,mdb-686,,active
 NL,Hollum,Delijn,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/static,f-u1-delijn,CC-BY-4.0,active
+NL,Valkenburg,Nmbs~Sncb,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/static,f-u-nmbs~sncb,CC-BY-4.0,active
 NO,Agder,Entur,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip,mdb-1078,https://developer.entur.org/stops-and-timetable-data,active
 NO,Bergen,Beffen,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_bef-aggregated-gtfs.zip,no-beffen,NLOD,active
 NO,Bergen,Skyss,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_sky-aggregated-gtfs.zip,no-skyss,NLOD,active
@@ -7676,7 +7677,6 @@ XX,national,Nagadenbus~Nagadenbus~Nakano,https://api.gtfs-data.jp/v2/organizatio
 XX,national,Nagadenbus~Obuse~Romango,https://api.gtfs-data.jp/v2/organizations/nagadenbus/feeds/obuse-romango/files/feed.zip?uid=2dcd4103-ffbb-4e05-a1f0-15863b85c4a1,f-nagadenbus~obuse~romango,CC-BY-4.0,active
 XX,national,Net~Nord~Est~Trasporti,https://usbshare.agenziatpl.it/index.php/s/k3Aera76R2BYjit/download/2025-04-30_NET.zip,f-net~nord~est~trasporti,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
-XX,national,Nmbs~Sncb,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/static,f-u-nmbs~sncb,CC-BY-4.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
 XX,national,Nvbw~Filsland,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/filsland.zip,f-nvbw~filsland,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 XX,national,Nvbw~Naldo,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/naldo.zip,f-nvbw~naldo,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
