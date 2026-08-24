@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ulrome",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ulrome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-51fb5565ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
