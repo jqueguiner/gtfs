@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SPTrans (Olho Vivo API)",
+    "country": "BR",
+    "subdivision": "São Paulo (SP)",
+    "city": "São Paulo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.olhovivo.sptrans.com.br/v2.1/Posicao",
+    "mdb_id": "rtweb-br-sptrans-olho-vivo-api",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

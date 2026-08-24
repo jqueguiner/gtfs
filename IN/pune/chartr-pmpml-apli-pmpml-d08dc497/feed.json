@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chartr (PMPML / Apli-PMPML)",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "city": "Pune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://prod-pmpml-routesapi.chartr.in/routes",
+    "mdb_id": "rtweb-in-chartr-pmpml-apli-pmpml-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

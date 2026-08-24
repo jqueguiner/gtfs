@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Seoul TOPIS (Seoul Metropolitan Govt) — real-time bus GPS position by route",
+    "country": "KR",
+    "subdivision": "Seoul",
+    "city": "Seoul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid?busRouteId={id}&serviceKey={KEY}",
+    "mdb_id": "rtweb-kr-seoul-topis-seoul-metropol",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

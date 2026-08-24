@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Valley Metro — Mecatran",
+    "country": "US",
+    "subdivision": "AZ",
+    "city": "Phoenix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mna.mecatran.com/utw/ws/gtfsfeed/vehicles/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f&asJson=true",
+    "mdb_id": "rtweb-us-valley-metro-mecatran",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

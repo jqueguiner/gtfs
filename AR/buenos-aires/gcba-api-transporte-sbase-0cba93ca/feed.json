@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GCBA — API Transporte / SBASE",
+    "country": "AR",
+    "subdivision": "CABA (Subte / metro)",
+    "city": "Buenos Aires"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apitransporte.buenosaires.gob.ar/subtes/forecastGTFS",
+    "mdb_id": "rtweb-ar-gcba-api-transporte-sbase",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

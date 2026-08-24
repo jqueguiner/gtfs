@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TDX — Metro live board (TRTC Taipei, KRTC Kaohsiung, TYMC, KLRT)",
+    "country": "TW",
+    "subdivision": "",
+    "city": "Taipei / Kaohsiung"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/basic/v2/Rail/Metro/LiveBoard/{System}",
+    "mdb_id": "rtweb-tw-tdx-metro-live-board-trtc-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

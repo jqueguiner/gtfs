@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Toei Bus (Tokyo Metropolitan Bureau of Transportation) via ODPT",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tokyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/ToeiBus",
+    "mdb_id": "rtweb-jp-toei-bus-tokyo-metropolita",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Intendencia de Montevideo — Montevideo API (publictransport)",
+    "country": "UY",
+    "subdivision": "Departamento de Montevideo",
+    "city": "Montevideo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.montevideo.gub.uy/api/transporte/buses/busesnew",
+    "mdb_id": "rtweb-uy-intendencia-de-montevideo-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

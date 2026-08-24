@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chartr (PMPML / Apli-PMPML)",
+    "country": "IN",
+    "subdivision": "Maharashtra",
+    "city": "Pune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pmpml-bus-gps-ingest.chartr.in/gps-positions/positions",
+    "mdb_id": "rtweb-in-chartr-pmpml-apli-pmpml",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

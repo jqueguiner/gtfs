@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RTD Denver",
+    "country": "US",
+    "subdivision": "CO",
+    "city": "Denver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://open-data.rtd-denver.com/files/gtfs-rt/rtd/VehiclePosition.pb",
+    "mdb_id": "rtweb-us-rtd-denver",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

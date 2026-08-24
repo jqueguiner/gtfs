@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Toronto Transit Commission (TTC) via Umo IQ / NextBus",
+    "country": "CA",
+    "subdivision": "ON",
+    "city": "Toronto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://retro.umoiq.com/service/publicXMLFeed?command=vehicleLocations&a=ttc&t=0",
+    "mdb_id": "rtweb-ca-toronto-transit-commission",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

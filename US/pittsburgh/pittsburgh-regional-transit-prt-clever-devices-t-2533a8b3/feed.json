@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Pittsburgh Regional Transit (PRT) — Clever Devices TrueTime",
+    "country": "US",
+    "subdivision": "PA",
+    "city": "Pittsburgh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://truetime.portauthority.org/gtfsrt-bus/vehicles",
+    "mdb_id": "rtweb-us-pittsburgh-regional-transi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

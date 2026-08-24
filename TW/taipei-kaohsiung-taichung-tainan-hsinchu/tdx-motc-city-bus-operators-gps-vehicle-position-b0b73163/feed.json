@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TDX (MOTC) — city bus operators, GPS vehicle positions",
+    "country": "TW",
+    "subdivision": "",
+    "city": "Taipei / Kaohsiung / Taichung / Tainan / Hsinchu / nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/{City}",
+    "mdb_id": "rtweb-tw-tdx-motc-city-bus-operator",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

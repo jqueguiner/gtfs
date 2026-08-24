@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ESHOT (Izmir Buyuksehir Belediyesi)",
+    "country": "TR",
+    "subdivision": "Izmir",
+    "city": "Izmir"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openapi.izmir.bel.tr/api/iztek/duragayaklasanotobusler/{durakId}",
+    "mdb_id": "rtweb-tr-eshot-izmir-buyuksehir-bel",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

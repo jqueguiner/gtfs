@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LTA DataMall (SBST/SMRT/TTS/GAS)",
+    "country": "SG",
+    "subdivision": "Singapore",
+    "city": "Singapore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2",
+    "mdb_id": "rtweb-sg-lta-datamall-sbst-smrt-tts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

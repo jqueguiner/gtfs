@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Open Transit Data Delhi (DTC/DIMTS, IIIT-Delhi)",
+    "country": "IN",
+    "subdivision": "NCT of Delhi",
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb?key=YOUR_PRIVATE_KEY",
+    "mdb_id": "rtweb-in-open-transit-data-delhi-dt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

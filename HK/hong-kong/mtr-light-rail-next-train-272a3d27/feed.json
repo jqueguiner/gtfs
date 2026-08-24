@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTR Light Rail Next Train",
+    "country": "HK",
+    "subdivision": "New Territories",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.data.gov.hk/v1/transport/mtr/lrt/getSchedule?station_id={id}",
+    "mdb_id": "rtweb-hk-mtr-light-rail-next-train",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

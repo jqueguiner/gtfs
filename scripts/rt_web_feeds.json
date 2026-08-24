@@ -1108,5 +1108,455 @@
 "rt_type": "json_positions",
 "rt_format": "JSON (trainServices: origin/destination CRS, std/etd, platform)",
 "needs_auth": false
+},
+{
+"url": "https://cdn.mbta.com/realtime/VehiclePositions.pb",
+"cc": "US",
+"city": "Boston",
+"subdiv": "MA",
+"provider": "MBTA",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://cdn.mbta.com/realtime/TripUpdates.pb",
+"cc": "US",
+"city": "Boston",
+"subdiv": "MA",
+"provider": "MBTA",
+"rt_type": "trip_updates",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www3.septa.org/api/TransitViewAll/index.php",
+"cc": "US",
+"city": "Philadelphia",
+"subdiv": "PA",
+"provider": "SEPTA",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://gtfs-rt.itsmarta.com/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb",
+"cc": "US",
+"city": "Atlanta",
+"subdiv": "GA",
+"provider": "MARTA",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb",
+"cc": "US",
+"city": "Minneapolis",
+"subdiv": "MN",
+"provider": "Metro Transit (Met Council)",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://open-data.rtd-denver.com/files/gtfs-rt/rtd/VehiclePosition.pb",
+"cc": "US",
+"city": "Denver",
+"subdiv": "CO",
+"provider": "RTD Denver",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://retro.umoiq.com/service/publicXMLFeed?command=vehicleLocations&a=ttc&t=0",
+"cc": "CA",
+"city": "Toronto",
+"subdiv": "ON",
+"provider": "Toronto Transit Commission (TTC) via Umo IQ / NextBus",
+"rt_type": "vehicle_positions",
+"rt_format": "xml",
+"needs_auth": false
+},
+{
+"url": "https://bustime.ttc.ca/gtfsrt/vehicles",
+"cc": "CA",
+"city": "Toronto",
+"subdiv": "ON",
+"provider": "Toronto Transit Commission (TTC) surface — Clever Devices BusTime",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.calgary.ca/download/am7c-qe3u/application%2Foctet-stream",
+"cc": "CA",
+"city": "Calgary",
+"subdiv": "AB",
+"provider": "Calgary Transit (Open Calgary / Socrata)",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://bustime.sacrt.com/gtfsrt/vehicles",
+"cc": "US",
+"city": "Sacramento",
+"subdiv": "CA",
+"provider": "Sacramento Regional Transit (SacRT) — Clever Devices BusTime",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://truetime.portauthority.org/gtfsrt-bus/vehicles",
+"cc": "US",
+"city": "Pittsburgh",
+"subdiv": "PA",
+"provider": "Pittsburgh Regional Transit (PRT) — Clever Devices TrueTime",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://mna.mecatran.com/utw/ws/gtfsfeed/vehicles/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f&asJson=true",
+"cc": "US",
+"city": "Phoenix",
+"subdiv": "AZ",
+"provider": "Valley Metro — Mecatran",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://pmpml-bus-gps-ingest.chartr.in/gps-positions/positions",
+"cc": "IN",
+"city": "Pune",
+"subdiv": "Maharashtra",
+"provider": "Chartr (PMPML / Apli-PMPML)",
+"rt_type": "json_positions",
+"rt_format": "CSV",
+"needs_auth": false
+},
+{
+"url": "https://prod-pmpml-live-data-api.chartr.in/all-buses",
+"cc": "IN",
+"city": "Pune",
+"subdiv": "Maharashtra",
+"provider": "Chartr (PMPML / Apli-PMPML)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://ithuungalsoththu.vercel.app/api/proxy",
+"cc": "IN",
+"city": "Chennai",
+"subdiv": "Tamil Nadu",
+"provider": "MTC (Chalo backend, via IthuUngalSoththu PWA proxy)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb?key=YOUR_PRIVATE_KEY",
+"cc": "IN",
+"city": "Delhi",
+"subdiv": "NCT of Delhi",
+"provider": "Open Transit Data Delhi (DTC/DIMTS, IIIT-Delhi)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": true
+},
+{
+"url": "https://prod-pmpml-routesapi.chartr.in/routes",
+"cc": "IN",
+"city": "Pune",
+"subdiv": "Maharashtra",
+"provider": "Chartr (PMPML / Apli-PMPML)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": true
+},
+{
+"url": "https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/{stop_id}",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "",
+"provider": "Kowloon Motor Bus / Long Win Bus (KMB/LWB)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/{stop_id}/{route}",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "",
+"provider": "Citybus (CTB, incl. former NWFB)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php?line={line}&sta={station}",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "",
+"provider": "MTR (heavy rail Next Train)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v1/transport/mtr/lrt/getSchedule?station_id={id}",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "New Territories",
+"provider": "MTR Light Rail Next Train",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v2/transport/nlb/route.php?action=list",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Lantau",
+"provider": "New Lantao Bus (NLB)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://data.etagmb.gov.hk/route/{region}",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "",
+"provider": "Green Minibus (GMB)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/{City}",
+"cc": "TW",
+"city": "Taipei / Kaohsiung / Taichung / Tainan / Hsinchu / nationwide",
+"subdiv": "",
+"provider": "TDX (MOTC) — city bus operators, GPS vehicle positions",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://tdx.transportdata.tw/api/basic/v2/Rail/Metro/LiveBoard/{System}",
+"cc": "TW",
+"city": "Taipei / Kaohsiung",
+"subdiv": "",
+"provider": "TDX — Metro live board (TRTC Taipei, KRTC Kaohsiung, TYMC, KLRT)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/StationLiveBoard",
+"cc": "TW",
+"city": "Taiwan (nationwide)",
+"subdiv": "",
+"provider": "TDX — Taiwan Railway (TRA) station live board",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api-public.odpt.org/api/v4/gtfs/realtime/ToeiBus",
+"cc": "JP",
+"city": "Tokyo",
+"subdiv": "Tokyo",
+"provider": "Toei Bus (Tokyo Metropolitan Bureau of Transportation) via ODPT",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt (protobuf)",
+"needs_auth": false
+},
+{
+"url": "https://api.odpt.org/api/v4/gtfs/realtime/{Operator}?acl:consumerKey={KEY}",
+"cc": "JP",
+"city": "Tokyo (Greater Tokyo)",
+"subdiv": "Tokyo",
+"provider": "ODPT — JR East (train location), Tokyo Metro, Toei, Seibu Bus, Kanto Bus, etc.",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt (protobuf) / json",
+"needs_auth": true
+},
+{
+"url": "http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid?busRouteId={id}&serviceKey={KEY}",
+"cc": "KR",
+"city": "Seoul",
+"subdiv": "Seoul",
+"provider": "Seoul TOPIS (Seoul Metropolitan Govt) — real-time bus GPS position by route",
+"rt_type": "json_positions",
+"rt_format": "xml/json",
+"needs_auth": true
+},
+{
+"url": "http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?cityCode={code}&routeId={id}&serviceKey={KEY}",
+"cc": "KR",
+"city": "Busan / Daegu / nationwide Korea",
+"subdiv": "",
+"provider": "TAGO / KOTSA (Ministry of Land) — nationwide real-time city-bus location (incl. Busan cityCode 21)",
+"rt_type": "json_positions",
+"rt_format": "xml/json",
+"needs_auth": true
+},
+{
+"url": "https://gtfsrt.api.translink.com.au/api/realtime/SEQ/VehiclePositions",
+"cc": "AU",
+"city": "Brisbane",
+"subdiv": "QLD",
+"provider": "TransLink SEQ",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfsrt.api.translink.com.au/api/realtime/SEQ/TripUpdates",
+"cc": "AU",
+"city": "Brisbane",
+"subdiv": "QLD",
+"provider": "TransLink SEQ",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses",
+"cc": "AU",
+"city": "Sydney",
+"subdiv": "NSW",
+"provider": "Transport for NSW (TfNSW)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/ferries/sydneyferries",
+"cc": "AU",
+"city": "Sydney",
+"subdiv": "NSW",
+"provider": "Transport for NSW (TfNSW)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.at.govt.nz/realtime/legacy/vehiclelocations",
+"cc": "NZ",
+"city": "Auckland",
+"subdiv": "Auckland",
+"provider": "Auckland Transport (AT Metro)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf or JSON",
+"needs_auth": true
+},
+{
+"url": "https://api.opendata.metlink.org.nz/v1/gtfs-rt/vehiclepositions",
+"cc": "NZ",
+"city": "Wellington",
+"subdiv": "Wellington",
+"provider": "Metlink (Greater Wellington RC)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": true
+},
+{
+"url": "https://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2",
+"cc": "SG",
+"city": "Singapore",
+"subdiv": "Singapore",
+"provider": "LTA DataMall (SBST/SMRT/TTS/GAS)",
+"rt_type": "json_positions",
+"rt_format": "JSON (arrivals + est. bus lat/long)",
+"needs_auth": true
+},
+{
+"url": "http://api.olhovivo.sptrans.com.br/v2.1/Posicao",
+"cc": "BR",
+"city": "São Paulo",
+"subdiv": "São Paulo (SP)",
+"provider": "SPTrans (Olho Vivo API)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://apitransporte.buenosaires.gob.ar/colectivos/vehiclePositions",
+"cc": "AR",
+"city": "Buenos Aires",
+"subdiv": "Ciudad Autónoma de Buenos Aires (CABA)",
+"provider": "GCBA — API Transporte (Sec. de Transporte y Obras Públicas)",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": true
+},
+{
+"url": "https://apitransporte.buenosaires.gob.ar/subtes/forecastGTFS",
+"cc": "AR",
+"city": "Buenos Aires",
+"subdiv": "CABA (Subte / metro)",
+"provider": "GCBA — API Transporte / SBASE",
+"rt_type": "trip_updates",
+"rt_format": "protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.montevideo.gub.uy/api/transporte/buses/busesnew",
+"cc": "UY",
+"city": "Montevideo",
+"subdiv": "Departamento de Montevideo",
+"provider": "Intendencia de Montevideo — Montevideo API (publictransport)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100&order_by=id%20desc",
+"cc": "IL",
+"city": "Nationwide (all Israel: Tel Aviv, Jerusalem, Haifa, Beer Sheva...)",
+"subdiv": "",
+"provider": "Israel Ministry of Transport SIRI, republished by Hasadna Open Bus (Public Knowledge Workshop)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://transit.ttc.com.ge/pis-gateway/api/v2/routes/1:{routeId}/positions?forward=true",
+"cc": "GE",
+"city": "Tbilisi",
+"subdiv": "Tbilisi",
+"provider": "Tbilisi Transport Company (TTC)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://transit.ttc.com.ge/pis-gateway/api/v2/stops/1:{stopId}/arrival-times?locale=en",
+"cc": "GE",
+"city": "Tbilisi",
+"subdiv": "Tbilisi",
+"provider": "Tbilisi Transport Company (TTC)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://openapi.izmir.bel.tr/api/iztek/duragayaklasanotobusler/{durakId}",
+"cc": "TR",
+"city": "Izmir",
+"subdiv": "Izmir",
+"provider": "ESHOT (Izmir Buyuksehir Belediyesi)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
 }
 ]

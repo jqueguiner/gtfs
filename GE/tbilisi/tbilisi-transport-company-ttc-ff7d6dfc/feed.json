@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tbilisi Transport Company (TTC)",
+    "country": "GE",
+    "subdivision": "Tbilisi",
+    "city": "Tbilisi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transit.ttc.com.ge/pis-gateway/api/v2/routes/1:{routeId}/positions?forward=true",
+    "mdb_id": "rtweb-ge-tbilisi-transport-company-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

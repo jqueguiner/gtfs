@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "New Lantao Bus (NLB)",
+    "country": "HK",
+    "subdivision": "Lantau",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.data.gov.hk/v2/transport/nlb/route.php?action=list",
+    "mdb_id": "rtweb-hk-new-lantao-bus-nlb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TDX — Taiwan Railway (TRA) station live board",
+    "country": "TW",
+    "subdivision": "",
+    "city": "Taiwan (nationwide)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/StationLiveBoard",
+    "mdb_id": "rtweb-tw-tdx-taiwan-railway-tra-sta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

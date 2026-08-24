@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SEPTA",
+    "country": "US",
+    "subdivision": "PA",
+    "city": "Philadelphia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www3.septa.org/api/TransitViewAll/index.php",
+    "mdb_id": "rtweb-us-septa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

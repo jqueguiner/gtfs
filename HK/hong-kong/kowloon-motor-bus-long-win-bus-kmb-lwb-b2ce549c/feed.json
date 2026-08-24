@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kowloon Motor Bus / Long Win Bus (KMB/LWB)",
+    "country": "HK",
+    "subdivision": "",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/{stop_id}",
+    "mdb_id": "rtweb-hk-kowloon-motor-bus-long-win",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

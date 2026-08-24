@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Israel Ministry of Transport SIRI, republished by Hasadna Open Bus (Public Knowledge Workshop)",
+    "country": "IL",
+    "subdivision": "",
+    "city": "Nationwide (all Israel: Tel Aviv, Jerusalem, Haifa, Beer Sheva...)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100&order_by=id%20desc",
+    "mdb_id": "rtweb-il-israel-ministry-of-transpo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

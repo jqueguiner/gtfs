@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTC (Chalo backend, via IthuUngalSoththu PWA proxy)",
+    "country": "IN",
+    "subdivision": "Tamil Nadu",
+    "city": "Chennai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ithuungalsoththu.vercel.app/api/proxy",
+    "mdb_id": "rtweb-in-mtc-chalo-backend-via-ithu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

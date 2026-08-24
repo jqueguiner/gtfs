@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GCBA — API Transporte (Sec. de Transporte y Obras Públicas)",
+    "country": "AR",
+    "subdivision": "Ciudad Autónoma de Buenos Aires (CABA)",
+    "city": "Buenos Aires"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apitransporte.buenosaires.gob.ar/colectivos/vehiclePositions",
+    "mdb_id": "rtweb-ar-gcba-api-transporte-sec-de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

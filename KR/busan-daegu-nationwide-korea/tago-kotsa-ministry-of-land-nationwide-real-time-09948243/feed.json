@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TAGO / KOTSA (Ministry of Land) — nationwide real-time city-bus location (incl. Busan cityCode 21)",
+    "country": "KR",
+    "subdivision": "",
+    "city": "Busan / Daegu / nationwide Korea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?cityCode={code}&routeId={id}&serviceKey={KEY}",
+    "mdb_id": "rtweb-kr-tago-kotsa-ministry-of-lan",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

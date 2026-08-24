@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ODPT — JR East (train location), Tokyo Metro, Toei, Seibu Bus, Kanto Bus, etc.",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tokyo (Greater Tokyo)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/{Operator}?acl:consumerKey={KEY}",
+    "mdb_id": "rtweb-jp-odpt-jr-east-train-locatio",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
