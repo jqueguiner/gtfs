@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TAGO real-time bus location (MOLIT, data.go.kr)",
+    "country": "KR",
+    "subdivision": "nationwide (cityCode)",
+    "city": "Incheon / nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?serviceKey=DUMMY&cityCode=23&routeId=1&_type=json",
+    "mdb_id": "rtweb-kr-tago-real-time-bus-locatio",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTR (heavy rail next-train) (data.gov.hk)",
+    "country": "HK",
+    "subdivision": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php?line=TML&sta=TIS",
+    "mdb_id": "rtweb-hk-mtr-heavy-rail-next-train-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

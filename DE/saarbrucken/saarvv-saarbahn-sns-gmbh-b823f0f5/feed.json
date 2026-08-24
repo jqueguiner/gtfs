@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "saarVV / Saarbahn (SNS GmbH)",
+    "country": "DE",
+    "subdivision": "SL",
+    "city": "Saarbrücken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://saarfahrplan.de/bin/stboard.exe/dny?L=vs_java3&input=Saarbr%C3%BCcken+Hauptbahnhof&start=yes&maxJourneys=10&outputMode=tickerDataOnly",
+    "mdb_id": "rtweb-de-saarvv-saarbahn-sns-gmbh",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

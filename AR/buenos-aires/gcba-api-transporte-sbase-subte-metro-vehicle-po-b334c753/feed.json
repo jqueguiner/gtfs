@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GCBA API Transporte / SBASE — Subte (metro) vehicle positions",
+    "country": "AR",
+    "subdivision": "Ciudad Autonoma de Buenos Aires",
+    "city": "Buenos Aires"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apitransporte.buenosaires.gob.ar/subtes/vehiclePositions",
+    "mdb_id": "rtweb-ar-gcba-api-transporte-sbase-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

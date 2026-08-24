@@ -2888,5 +2888,765 @@
 "rt_type": "json_positions",
 "rt_format": "json",
 "needs_auth": true
+},
+{
+"url": "https://online.nsmart.rs/publicapi/v1/announcement/announcement.php?ibfm=TM00000&station_uid=6532",
+"cc": "RS",
+"city": "Novi Sad",
+"subdiv": "Vojvodina",
+"provider": "JGSP Novi Sad (NSmart)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://online.nsmart.rs/publicapi/v1/networkextended.php?action=get_cities_extended",
+"cc": "RS",
+"city": "Novi Sad",
+"subdiv": "Vojvodina",
+"provider": "JGSP Novi Sad (NSmart)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://imhd.sk/rt/gtfsrt/vehicles",
+"cc": "SK",
+"city": "Bratislava",
+"subdiv": "Bratislava Region",
+"provider": "DPB / IDS BK (imhd.sk)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": true
+},
+{
+"url": "https://imhd.sk/rt/gtfsrt/trips",
+"cc": "SK",
+"city": "Bratislava",
+"subdiv": "Bratislava Region",
+"provider": "DPB / IDS BK (imhd.sk)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": true
+},
+{
+"url": "https://nap.vd.dk/",
+"cc": "DK",
+"city": "Copenhagen (national)",
+"subdiv": "Hovedstaden / national",
+"provider": "Rejseplanen / DOT via Vejdirektoratet Dataudveksleren (NAP)",
+"rt_type": "siri",
+"rt_format": "siri-et",
+"needs_auth": true
+},
+{
+"url": "https://webapi.vvo-online.de/dm",
+"cc": "DE",
+"city": "Dresden",
+"subdiv": "SN",
+"provider": "DVB / VVO (Dresdner Verkehrsbetriebe)",
+"rt_type": "json_positions",
+"rt_format": "JSON departure monitor (POST {stopid,limit,mot}); RealTime vs ScheduledTime + State:Delayed",
+"needs_auth": false
+},
+{
+"url": "https://projekte.kvv-efa.de/sl3-alone/XSLT_DM_REQUEST?outputFormat=JSON&type_dm=stop&name_dm=7000090&useRealtime=1&mode=direct&limit=10",
+"cc": "DE",
+"city": "Karlsruhe",
+"subdiv": "BW",
+"provider": "KVV (Karlsruher Verkehrsverbund)",
+"rt_type": "json_positions",
+"rt_format": "Mentz EFA XSLT_DM_REQUEST, outputFormat=JSON, departureList with realtime:1 flags",
+"needs_auth": false
+},
+{
+"url": "https://www.efa-bw.de/nvbw/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:08311:6508&useRealtime=1&mode=direct&limit=10",
+"cc": "DE",
+"city": "Freiburg im Breisgau (statewide BW incl. Heidelberg/Mannheim/Karlsruhe)",
+"subdiv": "BW",
+"provider": "NVBW EFA-BW (covers VAG Freiburg, rnv Heidelberg/Mannheim, KVV, all Baden-Württemberg)",
+"rt_type": "json_positions",
+"rt_format": "Mentz EFA XSLT_DM_REQUEST outputFormat=rapidJSON; stopEvents with isRealtimeControlled:true + departureTimeEstimated",
+"needs_auth": false
+},
+{
+"url": "https://efa.vrr.de/standard/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:05711:10203&useRealtime=1&mode=direct&limit=10",
+"cc": "DE",
+"city": "Bielefeld (statewide NRW)",
+"subdiv": "NW",
+"provider": "VRR / EFA-NRW (covers moBiel Bielefeld + all NRW)",
+"rt_type": "json_positions",
+"rt_format": "Mentz EFA XSLT_DM_REQUEST outputFormat=rapidJSON; stopEvents isRealtimeControlled:true + departureTimePlanned vs departureTimeEstimated",
+"needs_auth": false
+},
+{
+"url": "https://efa.vvo-online.de/VMSSL3/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=any&name_dm=Chemnitz+Zentralhaltestelle&useRealtime=1&mode=direct&limit=10",
+"cc": "DE",
+"city": "Chemnitz",
+"subdiv": "SN",
+"provider": "VMS (Verkehrsverbund Mittelsachsen) — CVAG / City-Bahn Chemnitz",
+"rt_type": "json_positions",
+"rt_format": "Mentz EFA XSLT_DM_REQUEST outputFormat=rapidJSON; stopEvents isRealtimeControlled:true + departureTimeEstimated",
+"needs_auth": false
+},
+{
+"url": "https://reiseauskunft.insa.de/bin/stboard.exe/dn?L=vs_java3&input=Magdeburg+Alter+Markt&start=yes&maxJourneys=10&outputMode=tickerDataOnly",
+"cc": "DE",
+"city": "Magdeburg",
+"subdiv": "ST",
+"provider": "INSA / NASA (marego / MVB Magdeburger Verkehrsbetriebe)",
+"rt_type": "json_positions",
+"rt_format": "HAFAS stboard.exe tickerDataOnly — XML <Journey> with delay/e_delay realtime fields",
+"needs_auth": false
+},
+{
+"url": "https://saarfahrplan.de/bin/stboard.exe/dny?L=vs_java3&input=Saarbr%C3%BCcken+Hauptbahnhof&start=yes&maxJourneys=10&outputMode=tickerDataOnly",
+"cc": "DE",
+"city": "Saarbrücken",
+"subdiv": "SL",
+"provider": "saarVV / Saarbahn (SNS GmbH)",
+"rt_type": "json_positions",
+"rt_format": "HAFAS stboard.exe tickerDataOnly — XML <Journey> with delay/e_delay realtime fields",
+"needs_auth": false
+},
+{
+"url": "https://evag-live.wla-backend.de/stations/latest.json",
+"cc": "DE",
+"city": "Erfurt",
+"subdiv": "TH",
+"provider": "SWE EVAG (Erfurter Verkehrsbetriebe) — app backend",
+"rt_type": "json_positions",
+"rt_format": "JSON station list (backend of the SWE-EVAG app); coords + ids",
+"needs_auth": false
+},
+{
+"url": "https://fahrplaner.vbn.de/restproxy/2/departureBoard?id=8000110&accessId=YOUR_KEY&format=json",
+"cc": "DE",
+"city": "Bremen",
+"subdiv": "HB",
+"provider": "VBN / BSAG (Verkehrsverbund Bremen-Niedersachsen)",
+"rt_type": "json_positions",
+"rt_format": "HAFAS ReST departureBoard (HACON); realtime delays for BSAG",
+"needs_auth": true
+},
+{
+"url": "https://temporeale.cl.tep.pr.it/temporeale/vehicle_positions.pb",
+"cc": "IT",
+"city": "Parma",
+"subdiv": "Emilia-Romagna",
+"provider": "TEP (Trasporti Pubblici Parma)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://temporeale.cl.tep.pr.it/temporeale/trip_updates.pb",
+"cc": "IT",
+"city": "Parma",
+"subdiv": "Emilia-Romagna",
+"provider": "TEP (Trasporti Pubblici Parma)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://app-tpl.tndigit.it/gtlservice/trips_new?routeId={routeId}&type=U",
+"cc": "IT",
+"city": "Trento",
+"subdiv": "Trentino-Alto Adige",
+"provider": "Trentino Trasporti / STA (tndigit, app 'Muoversi in Trentino')",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&f=json",
+"cc": "ES",
+"city": "Valencia",
+"subdiv": "Valencian Community",
+"provider": "EMT València",
+"rt_type": "json_positions",
+"rt_format": "esri-json",
+"needs_auth": false
+},
+{
+"url": "https://titsa.com/ajax/xGetInfoParada.php?id_parada=4004",
+"cc": "ES",
+"city": "Santa Cruz de Tenerife",
+"subdiv": "Canary Islands",
+"provider": "TITSA (guaguas)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "http://datos.santander.es/api/rest/datasets/control_flotas_posiciones.json?items=50",
+"cc": "ES",
+"city": "Santander",
+"subdiv": "Cantabria",
+"provider": "TUS (Transporte Urbano de Santander)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "http://datos.santander.es/api/rest/datasets/control_flotas_estimaciones.json?items=50",
+"cc": "ES",
+"city": "Santander",
+"subdiv": "Cantabria",
+"provider": "TUS (Transporte Urbano de Santander)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-service-alerts.pb",
+"cc": "ES",
+"city": "Bizkaia (province-wide)",
+"subdiv": "Basque Country (Bizkaia)",
+"provider": "Bizkaibus (CTB)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://gtfsrt.prod.obanyc.com/vehiclePositions",
+"cc": "US",
+"city": "New York",
+"subdiv": "NY",
+"provider": "MTA (MTA Bus / NYCT via OBA)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfsrt.prod.obanyc.com/tripUpdates",
+"cc": "US",
+"city": "New York",
+"subdiv": "NY",
+"provider": "MTA (MTA Bus / NYCT via OBA)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs-ace",
+"cc": "US",
+"city": "New York",
+"subdiv": "NY",
+"provider": "MTA NYCT Subway (A/C/E division example)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fall-alerts",
+"cc": "US",
+"city": "New York",
+"subdiv": "NY",
+"provider": "MTA (all subway+bus alerts)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?rt=red",
+"cc": "US",
+"city": "Chicago",
+"subdiv": "IL",
+"provider": "CTA Train Tracker",
+"rt_type": "json_positions",
+"rt_format": "xml",
+"needs_auth": true
+},
+{
+"url": "http://www.ctabustracker.com/bustime/api/v2/getvehicles?format=json",
+"cc": "US",
+"city": "Chicago",
+"subdiv": "IL",
+"provider": "CTA Bus Tracker (BusTime)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/1.pb",
+"cc": "US",
+"city": "Seattle",
+"subdiv": "WA",
+"provider": "King County Metro (Puget Sound OneBusAway, agency 1)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/40.pb",
+"cc": "US",
+"city": "Seattle",
+"subdiv": "WA",
+"provider": "Sound Transit (Puget Sound OneBusAway, agency 40)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.texas.gov/download/eiei-9rpf/application/octet-stream",
+"cc": "US",
+"city": "Austin",
+"subdiv": "TX",
+"provider": "Capital Metro (CapMetro)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.texas.gov/download/rmk2-acnw/application/octet-stream",
+"cc": "US",
+"city": "Austin",
+"subdiv": "TX",
+"provider": "Capital Metro (CapMetro)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://gtfs.viainfo.net/vehicle/vehiclepositions.pb",
+"cc": "US",
+"city": "San Antonio",
+"subdiv": "TX",
+"provider": "VIA Metropolitan Transit",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://gtfs.viainfo.net/tripupdate/tripupdates.pb",
+"cc": "US",
+"city": "San Antonio",
+"subdiv": "TX",
+"provider": "VIA Metropolitan Transit",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www.rtd-denver.com/files/gtfs-rt/VehiclePosition.pb",
+"cc": "US",
+"city": "Denver",
+"subdiv": "CO",
+"provider": "RTD Denver",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb",
+"cc": "US",
+"city": "Nashville",
+"subdiv": "TN",
+"provider": "WeGo Public Transit",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb",
+"cc": "US",
+"city": "Nashville",
+"subdiv": "TN",
+"provider": "WeGo Public Transit",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://tmgtfsprd.sorttrpcloud.com/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb",
+"cc": "US",
+"city": "Cincinnati",
+"subdiv": "OH",
+"provider": "SORTA / Cincinnati Metro (Go Metro)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+"cc": "US",
+"city": "Charlotte",
+"subdiv": "NC",
+"provider": "CATS (Charlotte Area Transit System)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate",
+"cc": "US",
+"city": "Charlotte",
+"subdiv": "NC",
+"provider": "CATS (Charlotte Area Transit System)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://bustracker.muni.org/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition",
+"cc": "US",
+"city": "Anchorage",
+"subdiv": "AK",
+"provider": "People Mover (Muni of Anchorage)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.wmata.com/gtfs/bus-gtfsrt-vehiclepositions.pb",
+"cc": "US",
+"city": "Washington",
+"subdiv": "DC",
+"provider": "WMATA (Metrobus)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.511.org/transit/vehiclepositions?agency=SF",
+"cc": "US",
+"city": "San Francisco / Bay Area",
+"subdiv": "CA",
+"provider": "511 SF Bay (Muni/SFMTA, BART, Caltrain, AC Transit, ferries)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.thebus.org/vehicle/",
+"cc": "US",
+"city": "Honolulu",
+"subdiv": "HI",
+"provider": "TheBus (Oahu Transit Services)",
+"rt_type": "vehicle_positions",
+"rt_format": "xml",
+"needs_auth": true
+},
+{
+"url": "https://gtfspublic.metrarr.com/gtfs/public/positions",
+"cc": "US",
+"city": "Chicago",
+"subdiv": "IL",
+"provider": "Metra (commuter rail)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.goswift.ly/real-time/miami/gtfs-rt-vehicle-positions",
+"cc": "US",
+"city": "Miami",
+"subdiv": "FL",
+"provider": "Miami-Dade Transit (DTPW)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.goswift.ly/real-time/lametro/gtfs-rt-vehicle-positions",
+"cc": "US",
+"city": "Los Angeles",
+"subdiv": "CA",
+"provider": "LA Metro (LACMTA)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://gtfsapi.translink.ca/v3/gtfsposition",
+"cc": "CA",
+"city": "Vancouver",
+"subdiv": "BC",
+"provider": "TransLink (South Coast BC)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api.stm.info/pub/od/gtfs-rt/ic/v2/vehiclePositions",
+"cc": "CA",
+"city": "Montreal",
+"subdiv": "QC",
+"provider": "STM (Societe de transport de Montreal)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://nextrip-public-api.azure-api.net/octranspo/gtfs-rt-vp/beta/v1/VehiclePositions",
+"cc": "CA",
+"city": "Ottawa",
+"subdiv": "ON",
+"provider": "OC Transpo",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb",
+"cc": "CA",
+"city": "Edmonton",
+"subdiv": "AB",
+"provider": "Edmonton Transit Service (ETS)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb",
+"cc": "CA",
+"city": "Edmonton",
+"subdiv": "AB",
+"provider": "Edmonton Transit Service (ETS)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.winnipegtransit.com/v3/gtfs-rt/vehicle-positions.pb",
+"cc": "CA",
+"city": "Winnipeg",
+"subdiv": "MB",
+"provider": "Winnipeg Transit",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb",
+"cc": "CA",
+"city": "Mississauga",
+"subdiv": "ON",
+"provider": "MiWay",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://opendata.hamilton.ca/GTFS-RT/GTFS_VehiclePositions.pb",
+"cc": "CA",
+"city": "Hamilton",
+"subdiv": "ON",
+"provider": "HSR (Hamilton Street Railway)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.openmetrolinx.com/OpenDataAPI/api/V1/Gtfs.proto/Feed/VehiclePosition",
+"cc": "CA",
+"city": "Toronto (GTHA)",
+"subdiv": "ON",
+"provider": "Metrolinx GO Transit / UP Express",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": true
+},
+{
+"url": "https://temporeal.pbh.gov.br/?param=D",
+"cc": "BR",
+"city": "Belo Horizonte",
+"subdiv": "Minas Gerais",
+"provider": "PBH / BHTrans (SITBUS) — municipal bus fleet",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://temporeal.pbh.gov.br/?param=C",
+"cc": "BR",
+"city": "Belo Horizonte",
+"subdiv": "Minas Gerais",
+"provider": "PBH / BHTrans (SITBUS) — municipal bus fleet (CSV variant)",
+"rt_type": "json_positions",
+"rt_format": "csv",
+"needs_auth": false
+},
+{
+"url": "https://apitransporte.buenosaires.gob.ar/subtes/vehiclePositions",
+"cc": "AR",
+"city": "Buenos Aires",
+"subdiv": "Ciudad Autonoma de Buenos Aires",
+"provider": "GCBA API Transporte / SBASE — Subte (metro) vehicle positions",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": true
+},
+{
+"url": "https://api.sakay.ph/busser-hasura/v1/graphql",
+"cc": "PH",
+"city": "Manila",
+"subdiv": "Metro Manila (NCR)",
+"provider": "Sakay.ph (tracker.sakay.ph backend; EDSA Carousel + jeepney/bus)",
+"rt_type": "json_positions",
+"rt_format": "graphql-json",
+"needs_auth": false
+},
+{
+"url": "https://sakay-cloud.firebaseio.com/.json",
+"cc": "PH",
+"city": "Manila",
+"subdiv": "Metro Manila (NCR)",
+"provider": "Sakay.ph (Firebase RTDB live vehicle positions)",
+"rt_type": "json_positions",
+"rt_format": "firebase-rtdb-json",
+"needs_auth": true
+},
+{
+"url": "https://api-web.busmap.vn/web/public/station/estimate_bus_to_station_multi",
+"cc": "VN",
+"city": "Ho Chi Minh City",
+"subdiv": "Ho Chi Minh City",
+"provider": "BusMap / GoMo (map.busmap.vn live backend)",
+"rt_type": "json_positions",
+"rt_format": "json (AES-encrypted payload)",
+"needs_auth": true
+},
+{
+"url": "https://api-web.busmap.vn/web/public/region/countries",
+"cc": "VN",
+"city": "Ho Chi Minh City",
+"subdiv": "Ho Chi Minh City",
+"provider": "BusMap / GoMo (map.busmap.vn live backend)",
+"rt_type": "json_positions",
+"rt_format": "json (AES-encrypted payload)",
+"needs_auth": false
+},
+{
+"url": "https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb",
+"cc": "IN",
+"city": "Delhi",
+"subdiv": "NCT of Delhi",
+"provider": "Open Transit Data Delhi (DTC + DIMTS cluster buses; DDC/IIIT-Delhi/Transport Dept GNCTD)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt (protobuf)",
+"needs_auth": true
+},
+{
+"url": "https://data.etabus.gov.hk/v1/transport/kmb/route-eta/1/1",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Hong Kong",
+"provider": "KMB / Long Win Bus (data.gov.hk)",
+"rt_type": "trip_updates",
+"rt_format": "json_eta",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/002468/1",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Hong Kong",
+"provider": "Citybus (CTB, incl. former NWFB) (data.gov.hk)",
+"rt_type": "trip_updates",
+"rt_format": "json_eta",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php?line=TML&sta=TIS",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Hong Kong",
+"provider": "MTR (heavy rail next-train) (data.gov.hk)",
+"rt_type": "trip_updates",
+"rt_format": "json_nexttrain",
+"needs_auth": false
+},
+{
+"url": "https://bis.dsat.gov.mo/macauweb/routestation/bus?routeName=1&dir=0",
+"cc": "MO",
+"city": "Macau",
+"subdiv": "Macau",
+"provider": "DSAT Bus Traveling System (mo.gov.dsat.bis app backend)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api.odpt.org/api/v4/gtfs/realtime/ToeiBus",
+"cc": "JP",
+"city": "Tokyo",
+"subdiv": "Tokyo",
+"provider": "Toei Bus via ODPT (Public Transportation Open Data Center)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": true
+},
+{
+"url": "https://api.odpt.org/api/v4/gtfs/realtime/NishitetsuBus",
+"cc": "JP",
+"city": "Fukuoka",
+"subdiv": "Fukuoka",
+"provider": "Nishitetsu Bus via ODPT",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": true
+},
+{
+"url": "https://api.odpt.org/api/v4/odpt:Train?odpt:operator=odpt.Operator:JR-East",
+"cc": "JP",
+"city": "Tokyo",
+"subdiv": "Tokyo",
+"provider": "JR-East / Tokyo Metro rail via ODPT (train location/status)",
+"rt_type": "vehicle_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?serviceKey=DUMMY&cityCode=23&routeId=1&_type=json",
+"cc": "KR",
+"city": "Incheon / nationwide",
+"subdiv": "nationwide (cityCode)",
+"provider": "TAGO real-time bus location (MOLIT, data.go.kr)",
+"rt_type": "json_positions",
+"rt_format": "json_odata",
+"needs_auth": true
+},
+{
+"url": "http://apis.data.go.kr/1613000/ArvlInfoInqireService/getSttnAcctoArvlPrearngeInfoList?serviceKey=DUMMY&cityCode=23&nodeId=ICB165000487&numOfRows=1&_type=json",
+"cc": "KR",
+"city": "Incheon / nationwide",
+"subdiv": "nationwide (cityCode)",
+"provider": "TAGO bus arrival prediction (MOLIT, data.go.kr)",
+"rt_type": "trip_updates",
+"rt_format": "json_odata",
+"needs_auth": true
+},
+{
+"url": "https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/Taichung?%24top=1&%24format=JSON",
+"cc": "TW",
+"city": "Taichung / nationwide",
+"subdiv": "nationwide (City path)",
+"provider": "TDX Bus real-time (MOTC Taiwan)",
+"rt_type": "json_positions",
+"rt_format": "json_odata",
+"needs_auth": true
+},
+{
+"url": "https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/Taipei?%24top=1&%24format=JSON",
+"cc": "TW",
+"city": "Taipei / nationwide",
+"subdiv": "nationwide (City path)",
+"provider": "TDX Bus ETA (MOTC Taiwan)",
+"rt_type": "trip_updates",
+"rt_format": "json_odata",
+"needs_auth": true
+},
+{
+"url": "https://datamall2.mytransport.sg/ltaodataservice/v3/BusArrival?BusStopCode=83139",
+"cc": "SG",
+"city": "Singapore",
+"subdiv": "Singapore",
+"provider": "LTA DataMall (Land Transport Authority)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": true
 }
 ]

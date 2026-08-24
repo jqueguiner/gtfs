@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTA Bus Tracker (BusTime)",
+    "country": "US",
+    "subdivision": "IL",
+    "city": "Chicago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.ctabustracker.com/bustime/api/v2/getvehicles?format=json",
+    "mdb_id": "rtweb-us-cta-bus-tracker-bustime",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

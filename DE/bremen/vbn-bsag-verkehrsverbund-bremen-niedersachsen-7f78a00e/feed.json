@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VBN / BSAG (Verkehrsverbund Bremen-Niedersachsen)",
+    "country": "DE",
+    "subdivision": "HB",
+    "city": "Bremen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fahrplaner.vbn.de/restproxy/2/departureBoard?id=8000110&accessId=YOUR_KEY&format=json",
+    "mdb_id": "rtweb-de-vbn-bsag-verkehrsverbund-b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

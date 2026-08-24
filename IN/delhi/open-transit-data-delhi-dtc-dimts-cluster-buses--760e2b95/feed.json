@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Open Transit Data Delhi (DTC + DIMTS cluster buses; DDC/IIIT-Delhi/Transport Dept GNCTD)",
+    "country": "IN",
+    "subdivision": "NCT of Delhi",
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb",
+    "mdb_id": "rtweb-in-open-transit-data-delhi-dt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -6,6 +6,7 @@ AL,Tiranë,Municipality of Tirana,https://pt.tirana.al/gtfs/gtfs.zip,mdb-2345,,a
 AL,Vlorë,Urban Trans Vlora,https://github.com/denisdemaj233/gtfs-vlora/releases/download/v1/gtfs-vlore.zip,mdb-3182,,active
 AM,Gyumri,Georgian Railway,https://jbb.ghsq.de/gtfs/ge-georgian-railway.gtfs.zip,mdb-3108,,active
 AO,Luanda,CFL - Caminhos de Ferro de Luanda (suburban rail),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/AO/luanda/cfl-caminhos-de-ferro-de-luanda-suburban-rail/gtfs/,ao-llm-cfl-caminhos-de-ferro-de-luanda-suburban,,active
+AR,Buenos Aires,GCBA API Transporte / SBASE — Subte (metro) vehicle positions,https://apitransporte.buenosaires.gob.ar/subtes/vehiclePositions,rtweb-ar-gcba-api-transporte-sbase-,,active
 AR,Buenos Aires,GCBA — API Transporte (Sec. de Transporte y Obras Públicas),https://apitransporte.buenosaires.gob.ar/colectivos/vehiclePositions,rtweb-ar-gcba-api-transporte-sec-de,,active
 AR,Buenos Aires,GCBA — API Transporte / SBASE,https://apitransporte.buenosaires.gob.ar/subtes/forecastGTFS,rtweb-ar-gcba-api-transporte-sbase,,active
 AR,Cordoba,Transporte urbano de Cordoba (city buses),https://hub.tumidata.org/dataset/gtfs-cordoba,ar-disc-48,,active
@@ -198,6 +199,8 @@ BR,Araçatuba,TUA - Transportes Urbanos Araçatuba,https://raw.githubusercontent
 BR,Bauru,Transporte Coletivo Grande Bauru,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/bauru/transporte-coletivo-grande-bauru/gtfs/,br-llm-transporte-coletivo-grande-bauru,,active
 BR,Bauru,Transportes Coletivos Cidade sem Limites Ltda,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/bauru/transportes-coletivos-cidade-sem-limites-ltda/gtfs/,br-llm-transportes-coletivos-cidade-sem-limites,,active
 BR,Belem,CPH - Companhia de Portos e Hidrovias do Para,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BR/belem/cph-companhia-de-portos-e-hidrovias-do-para/gtfs/,br-llm-cph-companhia-de-portos-e-hidrovias-do-p,,active
+BR,Belo Horizonte,PBH / BHTrans (SITBUS) — municipal bus fleet,https://temporeal.pbh.gov.br/?param=D,rtweb-br-pbh-bhtrans-sitbus-municip,,active
+BR,Belo Horizonte,PBH / BHTrans (SITBUS) — municipal bus fleet (CSV variant),https://temporeal.pbh.gov.br/?param=C,rtweb-br-pbh-bhtrans-sitbus-municip-2,,active
 BR,Belo Horizonte,Superintendência de Mobilidade,https://s3.amazonaws.com/mobilibus-uploads/gtfs/GTFSBHTRANS.zip,br-gtfs-44705af6,CC-BY-4.0,active
 BR,Belo Horizonte,Superintendência de Mobilidade,https://s3.amazonaws.com/mobilibus-uploads/gtfs/GTFSBHTRANSCON.zip,br-gtfs-estatico-do-sistema-convencional-f0fa78dc,CC-BY-4.0,active
 BR,Belo Horizonte,Superintendência de Mobilidade,https://s3.amazonaws.com/mobilibus-uploads/gtfs/GTFSBHTRANSSUP.zip,br-feed-gtfs-estatico-do-sistema-suplementar-b2a9341e,CC-BY-4.0,active
@@ -523,6 +526,7 @@ CA,Old Toronto,Orléans Express,https://gtfs.keolis.ca/gtfs.zip,tld-5721,,active
 CA,Old Toronto,Toronto Transit Commission (TTC),https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/bd4809dd-e289-4de8-bbde-c5c00dafbf4f/resource/28514055-d011-4ed7-8bb0-97961dfe2b66/download/SurfaceGTFS.zip,mdb-2253,,active
 CA,Orangeville,Orangeville Transit,http://metrolinx.tmix.se/gtfs/gtfs-orangeville.zip,tld-4682,,active
 CA,Orillia,Orillia Transit,http://metrolinx.tmix.se/gtfs/gtfs-orillia.zip,tld-4683,,active
+CA,Ottawa,OC Transpo,https://nextrip-public-api.azure-api.net/octranspo/gtfs-rt-vp/beta/v1/VehiclePositions,rtweb-ca-oc-transpo,,active
 CA,Ottawa,Ritc~Transcollines,https://github.com/transcollines/gtfs/raw/master/transcollines-qc-ca-fares.zip,f-f244-ritc~transcollines,https://github.com/transcollines/GTFS/blob/master/LICENCE.MD,active
 CA,Penetanguishene,Midland Penetanguishene Transit Service,https://midland.usetransit.com/api/1/public/gtfs/2/gtfs.zip?token=64186b9ee7bea60d7638268206162c0c9c1a3f49e,tld-4704,,active
 CA,Penticton,BC Transit (South Okanagan-Similkameen),https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=15,mdb-2532,https://www.bctransit.com/open-data/terms-of-use,active
@@ -593,6 +597,7 @@ CA,Thurso,octranspo rt,https://nextrip-public-api.azure-api.net/octranspo/gtfs-r
 CA,Timmins,Timmins Transit,http://metrolinx.tmix.se/gtfs/gtfs-timmins.zip,tld-4750,,active
 CA,Tofino,Bcferries~Bc~Ca,https://data.trilliumtransit.com/gtfs/bcferries-bc-ca/bcferries-bc-ca.zip,f-c0-bcferries~bc~ca,,active
 CA,Toronto,Toronto Transit Commission (TTC) via Umo IQ / NextBus,https://retro.umoiq.com/service/publicXMLFeed?command=vehicleLocations&a=ttc&t=0,rtweb-ca-toronto-transit-commission,,active
+CA,Toronto (GTHA),Metrolinx GO Transit / UP Express,https://api.openmetrolinx.com/OpenDataAPI/api/V1/Gtfs.proto/Feed/VehiclePosition,rtweb-ca-metrolinx-go-transit-up-ex,,active
 CA,Trois-Rivieres,Rivieres,https://www.donneesquebec.ca/recherche/dataset/a2d3c9de-4045-41e3-b2ea-5bb64bd8c50f/resource/71d94f75-5a36-4789-b581-a21d49dcd5f5/download,f-societe~de~transport~de~trois-rivieres,CC-BY-4.0,active
 CA,Ucluelet,BC Transit (West Coast),https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=51,mdb-2575,https://www.bctransit.com/open-data/terms-of-use/,active
 CA,Unorganized North Sudbury,VIA Rail Canada,https://www.viarail.ca/sites/all/files/gtfs/viarail.zip,mdb-735,https://www.viarail.ca/en/developer-resources,active
@@ -622,6 +627,7 @@ CA,Whitehorse,Whitehorse Transit,https://data.whitehorse.ca/Google_transit_Feed_
 CA,Williams Lake,BC Transit (Williams Lake),https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=33,mdb-2587,https://www.bctransit.com/open-data/terms-of-use,active
 CA,Windsor,Transit Windsor,https://opendata.citywindsor.ca/Uploads/google_transit.zip,mdb-720,,active
 CA,Winnipeg,Winnipeg Transit,http://gtfs.winnipegtransit.com/google_transit.zip,mdb-717,,active
+CA,Winnipeg,Winnipeg Transit,https://api.winnipegtransit.com/v3/gtfs-rt/vehicle-positions.pb,rtweb-ca-winnipeg-transit,,active
 CA,Yellowknife,Yellowknife Transit,https://cityexplorer.yellowknife.ca/gtfs/google_transit.zip,tld-4708,,active
 CA,Yellowknife,Yellowknife~Transit,https://passio3.com/yellowknife/passioTransit/gtfs/google_transit.zip,f-yellowknife~transit,https://www.yellowknife.ca/en/doing-business/doing-business-open-data.aspx,active
 CA,York,Union Pearson Express (UP Express),https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/UP-GTFS.zip,mdb-1995,https://www.gotransit.com/en/partner-with-us/software-developers,active
@@ -4758,6 +4764,7 @@ DE,Biederitz,gtfs.de — Biederitz,https://download.gtfs.de/germany/free/latest.
 DE,Biedershausen,gtfs.de — Biedershausen,https://download.gtfs.de/germany/free/latest.zip,de-city-48c7e3280e,,active
 DE,Biedesheim,gtfs.de — Biedesheim,https://download.gtfs.de/germany/free/latest.zip,de-city-0bde890852,,active
 DE,Bielefeld,gtfs.de — Bielefeld,https://download.gtfs.de/germany/free/latest.zip,de-city-91f511d176,,active
+DE,Bielefeld (statewide NRW),VRR / EFA-NRW (covers moBiel Bielefeld + all NRW),https://efa.vrr.de/standard/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:05711:10203&useRealtime=1&mode=direct&limit=10,rtweb-de-vrr-efa-nrw-covers-mobiel-,,active
 DE,Biendorf,gtfs.de — Biendorf,https://download.gtfs.de/germany/free/latest.zip,de-city-ba5afae123,,active
 DE,Bienenbuttel,gtfs.de — Bienenbuttel,https://download.gtfs.de/germany/free/latest.zip,de-city-337b4401ea,,active
 DE,Bienstadt,gtfs.de — Bienstadt,https://download.gtfs.de/germany/free/latest.zip,de-city-952d21b679,,active
@@ -5079,6 +5086,7 @@ DE,Breitungen,gtfs.de — Breitungen,https://download.gtfs.de/germany/free/lates
 DE,Brekendorf,gtfs.de — Brekendorf,https://download.gtfs.de/germany/free/latest.zip,de-city-ebea36c932,,active
 DE,Breklum,gtfs.de — Breklum,https://download.gtfs.de/germany/free/latest.zip,de-city-1ac56a48c2,,active
 DE,Bremberg,gtfs.de — Bremberg,https://download.gtfs.de/germany/free/latest.zip,de-city-f480c5d352,,active
+DE,Bremen,VBN / BSAG (Verkehrsverbund Bremen-Niedersachsen),https://fahrplaner.vbn.de/restproxy/2/departureBoard?id=8000110&accessId=YOUR_KEY&format=json,rtweb-de-vbn-bsag-verkehrsverbund-b,,active
 DE,Bremen,gtfs.de — Bremen,https://download.gtfs.de/germany/free/latest.zip,de-city-56b20fc884,,active
 DE,Bremen/Oldenburg,VBN Verkehrsverbund Bremen/Niedersachsen (HAFAS),https://fahrplaner.vbn.de/hafas/mgate.exe,rtweb-de-vbn-verkehrsverbund-bremen,,active
 DE,Bremerhaven,gtfs.de — Bremerhaven,https://download.gtfs.de/germany/free/latest.zip,de-city-6f97e96a2e,,active
@@ -5321,6 +5329,7 @@ DE,Chamerau,gtfs.de — Chamerau,https://download.gtfs.de/germany/free/latest.zi
 DE,Charlottenberg,gtfs.de — Charlottenberg,https://download.gtfs.de/germany/free/latest.zip,de-city-b42b4bbbbf,,active
 DE,Charlottenburg Bezirk,gtfs.de — Charlottenburg Bezirk,https://download.gtfs.de/germany/free/latest.zip,de-city-6bc82a8a3a,,active
 DE,Charlottenburg-Nord,gtfs.de — Charlottenburg-Nord,https://download.gtfs.de/germany/free/latest.zip,de-city-3d2b74204d,,active
+DE,Chemnitz,VMS (Verkehrsverbund Mittelsachsen) — CVAG / City-Bahn Chemnitz,https://efa.vvo-online.de/VMSSL3/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=any&name_dm=Chemnitz+Zentralhaltestelle&useRealtime=1&mode=direct&limit=10,rtweb-de-vms-verkehrsverbund-mittel,,active
 DE,Chemnitz,VMS Verkehrsverbund Mittelsachsen,https://www.vms.de/GTFS_VMS.zip,de-eu-vms-verkehrsverbund-mittelsachsen,CC BY 4.0,active
 DE,Chemnitz,gtfs.de — Chemnitz,https://download.gtfs.de/germany/free/latest.zip,de-city-7e8a61a7cb,,active
 DE,Chieming,gtfs.de — Chieming,https://download.gtfs.de/germany/free/latest.zip,de-city-9554245d04,,active
@@ -5696,6 +5705,7 @@ DE,Dreitzsch,gtfs.de — Dreitzsch,https://download.gtfs.de/germany/free/latest.
 DE,Drelsdorf,gtfs.de — Drelsdorf,https://download.gtfs.de/germany/free/latest.zip,de-city-4b8afcd988,,active
 DE,Drensteinfurt,gtfs.de — Drensteinfurt,https://download.gtfs.de/germany/free/latest.zip,de-city-31198c8580,,active
 DE,Drentwede,gtfs.de — Drentwede,https://download.gtfs.de/germany/free/latest.zip,de-city-0b66ad358b,,active
+DE,Dresden,DVB / VVO (Dresdner Verkehrsbetriebe),https://webapi.vvo-online.de/dm,rtweb-de-dvb-vvo-dresdner-verkehrsb,,active
 DE,Dresden,VVO Verkehrsverbund Oberelbe (Mentz EFA),https://efa.vvo-online.de/VMSSL3/XML_DM_REQUEST,rtweb-de-vvo-verkehrsverbund-oberel,,active
 DE,Dresden,gtfs.de — Dresden,https://download.gtfs.de/germany/free/latest.zip,de-city-89375d7565,,active
 DE,Drestedt,gtfs.de — Drestedt,https://download.gtfs.de/germany/free/latest.zip,de-city-860053fade,,active
@@ -6035,6 +6045,7 @@ DE,Erdweg,gtfs.de — Erdweg,https://download.gtfs.de/germany/free/latest.zip,de
 DE,Eresing,gtfs.de — Eresing,https://download.gtfs.de/germany/free/latest.zip,de-city-12019bea1c,,active
 DE,Erfde,gtfs.de — Erfde,https://download.gtfs.de/germany/free/latest.zip,de-city-86ee078e8a,,active
 DE,Erftstadt,gtfs.de — Erftstadt,https://download.gtfs.de/germany/free/latest.zip,de-city-d402df2cd7,,active
+DE,Erfurt,SWE EVAG (Erfurter Verkehrsbetriebe) — app backend,https://evag-live.wla-backend.de/stations/latest.json,rtweb-de-swe-evag-erfurter-verkehrs,,active
 DE,Erfurt,gtfs.de — Erfurt,https://download.gtfs.de/germany/free/latest.zip,de-city-f13bacef34,,active
 DE,Erfweiler,gtfs.de — Erfweiler,https://download.gtfs.de/germany/free/latest.zip,de-city-16dddf8eab,,active
 DE,Ergersheim,gtfs.de — Ergersheim,https://download.gtfs.de/germany/free/latest.zip,de-city-4e1a3d8272,,active
@@ -6307,6 +6318,7 @@ DE,Freiburg,SWEG Markgräflerland,https://www.nvbw.de/fileadmin/user_upload/serv
 DE,Freiburg,VAG Freiburg (Mentz EFA),https://efa.vagfr.de/vagfr3/XML_DM_REQUEST,rtweb-de-vag-freiburg-mentz-efa,,active
 DE,Freiburg,gtfs.de — Freiburg,https://download.gtfs.de/germany/free/latest.zip,de-city-4a4ab43d4a,,active
 DE,Freiburg im Breisgau,"Freiburger Verkehrs AG (VAG), R.A.S.T. Reisen (RAST), Tuniberg Express",https://www.vag-freiburg.de/fileadmin/gtfs/VAGFR.zip,mdb-1115,https://www.vag-freiburg.de/service-infos/downloads/gtfs-daten,active
+DE,Freiburg im Breisgau (statewide BW incl. Heidelberg/Mannheim/Karlsruhe),"NVBW EFA-BW (covers VAG Freiburg, rnv Heidelberg/Mannheim, KVV, all Baden-Württemberg)",https://www.efa-bw.de/nvbw/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:08311:6508&useRealtime=1&mode=direct&limit=10,rtweb-de-nvbw-efa-bw-covers-vag-fre,,active
 DE,Freienbessingen,gtfs.de — Freienbessingen,https://download.gtfs.de/germany/free/latest.zip,de-city-1b0d1c2341,,active
 DE,Freienhagen,gtfs.de — Freienhagen,https://download.gtfs.de/germany/free/latest.zip,de-city-8bcf82c8eb,,active
 DE,Freienorla,gtfs.de — Freienorla,https://download.gtfs.de/germany/free/latest.zip,de-city-6b6d301595,,active
@@ -7418,6 +7430,7 @@ DE,Karlsfeld,gtfs.de — Karlsfeld,https://download.gtfs.de/germany/free/latest.
 DE,Karlshagen,gtfs.de — Karlshagen,https://download.gtfs.de/germany/free/latest.zip,de-city-2a0b31b799,,active
 DE,Karlshorst,gtfs.de — Karlshorst,https://download.gtfs.de/germany/free/latest.zip,de-city-e2bf5674eb,,active
 DE,Karlskron,gtfs.de — Karlskron,https://download.gtfs.de/germany/free/latest.zip,de-city-923abbf036,,active
+DE,Karlsruhe,KVV (Karlsruher Verkehrsverbund),https://projekte.kvv-efa.de/sl3-alone/XSLT_DM_REQUEST?outputFormat=JSON&type_dm=stop&name_dm=7000090&useRealtime=1&mode=direct&limit=10,rtweb-de-kvv-karlsruher-verkehrsver-2,,active
 DE,Karlsruhe,KVV Karlsruher Verkehrsverbund (Mentz EFA),https://projekte.kvv-efa.de/sl3-alone/XML_DM_REQUEST,rtweb-de-kvv-karlsruher-verkehrsver,,active
 DE,Karlsruhe,gtfs.de — Karlsruhe,https://download.gtfs.de/germany/free/latest.zip,de-city-eb46b208fd,,active
 DE,Karlstadt,gtfs.de — Karlstadt,https://download.gtfs.de/germany/free/latest.zip,de-city-7b7e5fc5f2,,active
@@ -8000,6 +8013,7 @@ DE,Lychen,gtfs.de — Lychen,https://download.gtfs.de/germany/free/latest.zip,de
 DE,Maasen,gtfs.de — Maasen,https://download.gtfs.de/germany/free/latest.zip,de-city-b9b5434801,,active
 DE,Maasholm,gtfs.de — Maasholm,https://download.gtfs.de/germany/free/latest.zip,de-city-a692a874c6,,active
 DE,Machern,gtfs.de — Machern,https://download.gtfs.de/germany/free/latest.zip,de-city-b9bc7a000b,,active
+DE,Magdeburg,INSA / NASA (marego / MVB Magdeburger Verkehrsbetriebe),https://reiseauskunft.insa.de/bin/stboard.exe/dn?L=vs_java3&input=Magdeburg+Alter+Markt&start=yes&maxJourneys=10&outputMode=tickerDataOnly,rtweb-de-insa-nasa-marego-mvb-magde,,active
 DE,Magdeburg,gtfs.de — Magdeburg,https://download.gtfs.de/germany/free/latest.zip,de-city-68b64bc30c,,active
 DE,Magstadt,gtfs.de — Magstadt,https://download.gtfs.de/germany/free/latest.zip,de-city-f6e0da3eb2,,active
 DE,Mahlsdorf,gtfs.de — Mahlsdorf,https://download.gtfs.de/germany/free/latest.zip,de-city-9f7ad4ffda,,active
@@ -9295,6 +9309,7 @@ DE,Saal,gtfs.de — Saal,https://download.gtfs.de/germany/free/latest.zip,de-cit
 DE,Saalfeld,gtfs.de — Saalfeld,https://download.gtfs.de/germany/free/latest.zip,de-city-419541fd1c,,active
 DE,Saara,gtfs.de — Saara,https://download.gtfs.de/germany/free/latest.zip,de-city-bdb04aa939,,active
 DE,Saarbrucken,gtfs.de — Saarbrucken,https://download.gtfs.de/germany/free/latest.zip,de-city-e49470adfc,,active
+DE,Saarbrücken,saarVV / Saarbahn (SNS GmbH),https://saarfahrplan.de/bin/stboard.exe/dny?L=vs_java3&input=Saarbr%C3%BCcken+Hauptbahnhof&start=yes&maxJourneys=10&outputMode=tickerDataOnly,rtweb-de-saarvv-saarbahn-sns-gmbh,,active
 DE,Saarburg,gtfs.de — Saarburg,https://download.gtfs.de/germany/free/latest.zip,de-city-1c5b2d66b1,,active
 DE,Saarlouis,gtfs.de — Saarlouis,https://download.gtfs.de/germany/free/latest.zip,de-city-f6353ff75f,,active
 DE,Saarwellingen,gtfs.de — Saarwellingen,https://download.gtfs.de/germany/free/latest.zip,de-city-5d1f4c02e1,,active
@@ -11210,6 +11225,7 @@ DK,Charlottenlund,Rejseplanen — Charlottenlund,https://www.rejseplanen.info/la
 DK,Christiansfeld,Rejseplanen — Christiansfeld,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-61457e6fba,,active
 DK,Christianshavn,Rejseplanen — Christianshavn,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-589a9c78f5,,active
 DK,Copenhagen,Rejseplanen — Copenhagen,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-504853ef0b,,active
+DK,Copenhagen (national),Rejseplanen / DOT via Vejdirektoratet Dataudveksleren (NAP),https://nap.vd.dk/,rtweb-dk-rejseplanen-dot-via-vejdir,,active
 DK,Dianalund,Rejseplanen — Dianalund,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-49eaaf1fae,,active
 DK,Dragor,Rejseplanen — Dragor,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-77b5d7f08a,,active
 DK,Dronninglund,Rejseplanen — Dronninglund,https://www.rejseplanen.info/labs/GTFS.zip,dk-city-515f9906bb,,active
@@ -11613,6 +11629,7 @@ ES,Bilbao / Bizkaia,Bizkaibus (CTB) - SIRI,https://ctb-siri.s3.eu-south-2.amazon
 ES,Bilbao / Bizkaia (province-wide),Bizkaibus (CTB),https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-vehicle-positions.pb,rtweb-es-bizkaibus-ctb,,active
 ES,Bilbao / Bizkaia province,Bizkaibus (CTB - Consorcio de Transportes de Bizkaia),https://baliabideak.bizkaia.eus/Bizkaibus/GTFSRealTime/FeedVehiculos.pb,rtweb-es-bizkaibus-ctb-consorcio-de,,active
 ES,Bizkaia (La Unión concessions),La Unión (CTB),https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/la-union-vehicle-positions.pb,rtweb-es-la-union-ctb,,active
+ES,Bizkaia (province-wide),Bizkaibus (CTB),https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-service-alerts.pb,rtweb-es-bizkaibus-ctb-3,,active
 ES,Bordils,Moventis Sarfa (Sarfa buses),https://nap.transportes.gob.es/api/Fichero/download/1576,mdb-2764,https://nap.transportes.gob.es/licencia-datos,active
 ES,Castelló de la Plana,Castelló de la Plana Town Hall (city bus),https://nap.transportes.gob.es/api/Fichero/download/1572,mdb-2771,https://nap.transportes.gob.es/licencia-datos,active
 ES,Catalonia,Autobusos Interurbans,https://territori.gencat.cat/web/.content/home/serveis/visors-cartografia/bases-cartografiques/infraestructures-mobilitat/autobusos-interurbans/busos-interurbans-GTFS.zip,mdb-2926,,active
@@ -11693,10 +11710,13 @@ ES,Salamanca,Salamanca de Transportes S.A. (Grupo Ruiz),https://nap.transportes.
 ES,San Bartolomé,AECFA (Spanish Association for the Coordination and Facilitation of Time Strips),https://nap.transportes.gob.es/api/Fichero/download/1096,mdb-2727,https://nap.transportes.gob.es/licencia-datos,active
 ES,San Sebastián,dBus (Donostiabus),https://nap.transportes.gob.es/api/Fichero/download/1196,mdb-2682,https://nap.transportes.gob.es/licencia-datos,active
 ES,Santa Cruz de Tenerife,TITSA (Transportes Interurbanos de Tenerife),https://www.titsa.com/Google_transit.zip,es-eu-titsa-transportes-interurbanos-de-,datos.tenerife.es open data,active
+ES,Santa Cruz de Tenerife,TITSA (guaguas),https://titsa.com/ajax/xGetInfoParada.php?id_parada=4004,rtweb-es-titsa-guaguas,,active
 ES,Santa Cruz de Tenerife,Transportes interurbanos de Tenerife (TITSA),http://www.titsa.com/Google_transit.zip,mdb-787,,active
 ES,Santa Eulària des Riu,ALSA buses,https://nap.transportes.gob.es/api/Fichero/download/1133,mdb-2825,https://nap.transportes.gob.es/licencia-datos,active
 ES,Santa Eulària des Riu,TIB Transports of the Balearic Islands - CIE Consell Insular d'Eivissa (Ibiza Island Bus),https://nap.transportes.gob.es/api/Fichero/download/1273,mdb-2797,https://nap.transportes.gob.es/licencia-datos,active
 ES,Santander,Gobierno de Cantabria (Buses in Cantabria),https://nap.transportes.gob.es/api/Fichero/download/1560,mdb-2748,https://nap.transportes.gob.es/licencia-datos,active
+ES,Santander,TUS (Transporte Urbano de Santander),http://datos.santander.es/api/rest/datasets/control_flotas_estimaciones.json?items=50,rtweb-es-tus-transporte-urbano-de-s-2,,active
+ES,Santander,TUS (Transporte Urbano de Santander),http://datos.santander.es/api/rest/datasets/control_flotas_posiciones.json?items=50,rtweb-es-tus-transporte-urbano-de-s,,active
 ES,Seseña,Urban Buses of Ciudad Real (AISA),https://nap.transportes.gob.es/api/Fichero/download/1599,mdb-2765,https://nap.transportes.gob.es/licencia-datos,active
 ES,Sevilla (and Andalucia consortia),CTAN - Red de Consorcios de Transporte de Andalucia (incl. Consorcio de Sevilla),https://api.ctan.es/v1/datos/UNIFICADO/gtfs.zip,es-eu-ctan-red-de-consorcios-de-transpor,CTAN / Junta de Andalucia open data,active
 ES,Seville,Metro de Sevilla,https://nap.transportes.gob.es/api/Fichero/download/1583,mdb-2781,https://nap.transportes.gob.es/licencia-datos,active
@@ -11711,6 +11731,7 @@ ES,Teruel,Albarracín Movilidad (Buses from the Albarracín mountain range to Te
 ES,Toledo,Unauto (Ruiz Group),https://nap.transportes.gob.es/api/Fichero/download/1575,mdb-2723,https://nap.transportes.gob.es/licencia-datos,active
 ES,Tolosa,Tolosa City Council (Urbano de Tolosa),https://nap.transportes.gob.es/api/Fichero/download/2067,mdb-2758,https://nap.transportes.gob.es/licencia-datos,active
 ES,Valencia,EMT Valencia (Geoportal VLCi / ArcGIS),https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&returnGeometry=true&f=json,rtweb-es-emt-valencia-geoportal-vlc,,active
+ES,Valencia,EMT València,https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&f=json,rtweb-es-emt-valencia,,active
 ES,Valencia,Empresa Municipal de Transportes de Valencia (EMT Valencia),https://opendata.vlci.valencia.es/dataset/ab058cf8-ad3e-4d9c-ac89-0c6367ecf351/resource/c81b69e6-c082-44dc-acc6-66fc417b4e66/download/google_transit.zip,mdb-795,https://www.valencia.es/val/ajuntament/govern-obert,active
 ES,Valencia,FGV - Generalitat Valenciana Metro de Valencia,https://nap.transportes.gob.es/api/Fichero/download/1168,mdb-2830,https://nap.transportes.gob.es/licencia-datos,active
 ES,Valencia,Metrovalencia (FGV),https://www.metrovalencia.es/google_transit_feed/google_transit.zip,es-eu-metrovalencia-fgv,FGV / Generalitat Valenciana open data,active
@@ -19414,11 +19435,14 @@ GT,Guatemala City,Rutas Express — Municipalidad de Mixco,https://raw.githubuse
 GT,Guatemala City,Transmetro (BRT) — Municipalidad de Guatemala,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/GT/guatemala-city/transmetro-brt-municipalidad-de-guatemala/gtfs/,gt-llm-transmetro-brt-municipalidad-de-guatemal,,active
 GT,Guatemala City,TuBus — Municipalidad de Guatemala (operated by Transmetro),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/GT/guatemala-city/tubus-municipalidad-de-guatemala-operated-by-tra/gtfs/,gt-llm-tubus-municipalidad-de-guatemala-operate,,active
 HK,Hong Kong,"Citybus (CTB, incl. former NWFB)",https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/{stop_id}/{route},rtweb-hk-citybus-ctb-incl-former-nw,,active
+HK,Hong Kong,"Citybus (CTB, incl. former NWFB) (data.gov.hk)",https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/002468/1,rtweb-hk-citybus-ctb-incl-former-nw-2,,active
 HK,Hong Kong,"Citybus (CTB, incl. former NWFB) via data.gov.hk",https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/002403/1,rtweb-hk-citybus-ctb-incl-former-nwfb,,active
 HK,Hong Kong,Green Minibus (GMB),https://data.etagmb.gov.hk/route/{region},rtweb-hk-green-minibus-gmb,,active
+HK,Hong Kong,KMB / Long Win Bus (data.gov.hk),https://data.etabus.gov.hk/v1/transport/kmb/route-eta/1/1,rtweb-hk-kmb-long-win-bus-data-gov-,,active
 HK,Hong Kong,KMB / Long Win Bus via data.gov.hk (etabus),https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/A3ADFCDF8487ADB9,rtweb-hk-kmb-long-win-bus-via-data-go,,active
 HK,Hong Kong,Kowloon Motor Bus / Long Win Bus (KMB/LWB),https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/{stop_id},rtweb-hk-kowloon-motor-bus-long-win,,active
 HK,Hong Kong,MTR (heavy rail Next Train),https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php?line={line}&sta={station},rtweb-hk-mtr-heavy-rail-next-train,,active
+HK,Hong Kong,MTR (heavy rail next-train) (data.gov.hk),https://rt.data.gov.hk/v1/transport/mtr/getSchedule.php?line=TML&sta=TIS,rtweb-hk-mtr-heavy-rail-next-train-,,active
 HK,Hong Kong,MTR Light Rail Next Train,https://rt.data.gov.hk/v1/transport/mtr/lrt/getSchedule?station_id={id},rtweb-hk-mtr-light-rail-next-train,,active
 HK,Hong Kong,New Lantao Bus (NLB),https://rt.data.gov.hk/v2/transport/nlb/route.php?action=list,rtweb-hk-new-lantao-bus-nlb,,active
 HN,national,GTFS Honduras Open (National Transit Feed),https://github.com/Heysoybruno09/honduras-transit-gtfs/archive/refs/heads/main.zip,mdb-3135,,active
@@ -19618,6 +19642,7 @@ IN,Delhi,DMRC Metro Feeder Bus (Delhi Metro Rail Corporation last-mile buses),ht
 IN,Delhi,Delhi Integrated Multi-Modal Transit System (DIMTS) / DTC,https://otd.delhi.gov.in/data/static/,in-otd-delhi-bus,opendata.iiitd.edu.in terms,active
 IN,Delhi,Delhi Metro Rail Corporation (DMRC),https://otd.delhi.gov.in/data/staticDMRC/,in-otd-delhi-dmrc,opendata.iiitd.edu.in terms,active
 IN,Delhi,"NCRTC Namo Bharat / RapidX (Delhi–Ghaziabad–Meerut RRTS, operated by DB RRTS)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/ncrtc-namo-bharat-rapidx-delhighaziabadmeerut-rr/gtfs/,in-llm-ncrtc-namo-bharat-rapidx-delhighaziabadm,,active
+IN,Delhi,Open Transit Data Delhi (DTC + DIMTS cluster buses; DDC/IIIT-Delhi/Transport Dept GNCTD),https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb,rtweb-in-open-transit-data-delhi-dt-2,,active
 IN,Delhi,"Open Transit Data Delhi (DTC/DIMTS, IIIT-Delhi)",https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb?key=YOUR_PRIVATE_KEY,rtweb-in-open-transit-data-delhi-dt,,active
 IN,Dharawada taluku,Hubli Dharwad Bus Rapid Transit System Company Ltd.,https://github.com/croyla/hdbrts-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3141,,active
 IN,George Town,Metropolitantransportcorporation,http://gtfs-source-feeds.transit.land/mtc_chennai.zip,f-tf34-metropolitantransportcorporation,,active
@@ -19850,6 +19875,7 @@ IT,Toscana,Regione Toscana,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90
 IT,Trento,Provincia Autonoma di Trento,https://dati.trentino.it/dataset/6d5c2000-972e-4c21-aef6-fdbba94418a8/resource/10e93dd1-3463-4664-8c24-300a7403780a/download/tariffegtfsextraurbano.zip,it-provincia-autonoma-di-trento-tariffegtfsextraurbano,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
 IT,Trento,Provincia Autonoma di Trento,https://dati.trentino.it/dataset/6d5c2000-972e-4c21-aef6-fdbba94418a8/resource/44efc0bd-223a-49c7-b3b0-16128e32813c/download/tariffegtfsurbano.zip,it-provincia-autonoma-di-trento-tariffegtfsurbano,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
 IT,Trento,Trentino Trasporti (Muoversi in Trentino app backend),https://app-tpl.tndigit.it/gtlservice/trips?routeId={id}&type=U&limit=10&refDateTime={ISO8601},rtweb-it-trentino-trasporti-muovers,,active
+IT,Trento,"Trentino Trasporti / STA (tndigit, app 'Muoversi in Trentino')",https://app-tpl.tndigit.it/gtlservice/trips_new?routeId={routeId}&type=U,rtweb-it-trentino-trasporti-sta-tnd,,active
 IT,Trento,Trentino Trasporti SpA (TT),https://www.trentinotrasporti.it/opendata/google_transit_urbano_tte.zip,mdb-978,,active
 IT,Trieste,"Tram di Opicina (Trieste-Opicina tramway, Line 2, Trieste Trasporti)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/trieste/tram-di-opicina-trieste-opicina-tramway-line-2-t/gtfs/,it-llm-tram-di-opicina-trieste-opicina-tramway-,,active
 IT,Trieste,Trieste Trasporti,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/trieste/trieste-trasporti/gtfs/,it-llm-trieste-trasporti,,active
@@ -20064,6 +20090,7 @@ JP,Fukui,京福バス株式会社,https://api-public.odpt.org/api/v4/files/odpt/
 JP,Fukui-shi,京福バス~1,https://api-public.odpt.org/api/v4/files/odpt/KeifukuBus/keifuku_rosen.zip?date=latest,f-京福バス~1,CC-BY-4.0,active
 JP,Fukui-shi,福鉄バス福井鉄道,https://www.pref.fukui.lg.jp/doc/dx-suishin/opendata/gtfs_jp_d/fil/gtfs_fukutetu.zip,f-福鉄バス福井鉄道,CC-BY-4.0,active
 JP,Fukumitsu,西日本ジェイアールバス~名金線,https://api.gtfs-data.jp/v2/organizations/nishinihonjrbus/feeds/meikinsen/files/feed.zip,f-西日本ジェイアールバス~名金線,,active
+JP,Fukuoka,Nishitetsu Bus via ODPT,https://api.odpt.org/api/v4/gtfs/realtime/NishitetsuBus,rtweb-jp-nishitetsu-bus-via-odpt,,active
 JP,Fukuoka,みやま市,https://api.gtfs-data.jp/v2/organizations/miyamacity/feeds/MiyamaCityCommunityBus/files/feed.zip,jp-miyamacity-miyamacitycommunitybus,CC BY 4.0,active
 JP,Fukuoka,久山町,https://api.gtfs-data.jp/v2/organizations/hisayamatown/feeds/HisayamaIkoBus/files/feed.zip,jp-hisayamatown-hisayamaikobus,CC BY 4.0,active
 JP,Fukuoka,北九州市,https://api.gtfs-data.jp/v2/organizations/kitakyushucity/feeds/edamitsu/files/feed.zip,jp-kitakyushucity-edamitsu,CC BY 4.0,active
@@ -21425,7 +21452,9 @@ JP,Tokushima-shi,徳島バス,https://api.gtfs-data.jp/v2/organizations/tokubus/
 JP,Tokushima-shi,徳島市~上八万コミュニティバス,https://api.gtfs-data.jp/v2/organizations/tokushimacity/feeds/kamihachimanbus/files/feed.zip,f-徳島市~上八万コミュニティバス,CC-BY-4.0,active
 JP,Tokushima-shi,徳島市~応神ふれあいバス,https://api.gtfs-data.jp/v2/organizations/tokushimacity/feeds/oujinfureaibus/files/feed.zip,f-徳島市~応神ふれあいバス,CC-BY-4.0,active
 JP,Tokushima-shi,徳島市営バス~1,https://api.gtfs-data.jp/v2/organizations/tokushima-shiei/feeds/tokushimacitybus/files/feed.zip,f-徳島市営バス~1,CC-BY-4.0,active
+JP,Tokyo,JR-East / Tokyo Metro rail via ODPT (train location/status),https://api.odpt.org/api/v4/odpt:Train?odpt:operator=odpt.Operator:JR-East,rtweb-jp-jr-east-tokyo-metro-rail-v,,active
 JP,Tokyo,Toei Bus (Tokyo Metropolitan Bureau of Transportation) via ODPT,https://api-public.odpt.org/api/v4/gtfs/realtime/ToeiBus,rtweb-jp-toei-bus-tokyo-metropolita,,active
+JP,Tokyo,Toei Bus via ODPT (Public Transportation Open Data Center),https://api.odpt.org/api/v4/gtfs/realtime/ToeiBus,rtweb-jp-toei-bus-via-odpt-public-t,,active
 JP,Tokyo,フジエクスプレス港区ちぃばす,https://gtfs.buskita.com/gtfs/fxc/gtfs.zip,f-フジエクスプレス港区ちぃばす,,active
 JP,Tokyo,千代田区地域福祉交通風ぐるま~1,https://api-public.odpt.org/api/v4/files/odpt/HitachiAutomobileTransportation/Chiyoda_ALLLINES.zip?date=latest,f-千代田区地域福祉交通風ぐるま~1,CC-BY-4.0,active
 JP,Tokyo,国立市,https://api.gtfs-data.jp/v2/organizations/kunitachicity/feeds/aoyagikko/files/feed.zip,jp-kunitachicity-aoyagikko,CC BY 4.0,active
@@ -22245,6 +22274,8 @@ KE,Sagana,Nairobi~Saccos,https://gitlab.com/digitaltransport/data/africa/nairobi
 KH,Phnom Penh,Airport Express Bus (AEB) - operated by Phnom Penh City Bus / Phnom Penh City Hall,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KH/phnom-penh/airport-express-bus-aeb-operated-by-phnom-penh-c/gtfs/,kh-llm-airport-express-bus-aeb-operated-by-phno,,active
 KH,Phnom Penh,Phnom Penh City Bus,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KH/phnom-penh/phnom-penh-city-bus/gtfs/,kh-llm-phnom-penh-city-bus,,active
 KR,Busan / Daegu / nationwide Korea,TAGO / KOTSA (Ministry of Land) — nationwide real-time city-bus location (incl. Busan cityCode 21),http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?cityCode={code}&routeId={id}&serviceKey={KEY},rtweb-kr-tago-kotsa-ministry-of-lan,,active
+KR,Incheon / nationwide,"TAGO bus arrival prediction (MOLIT, data.go.kr)",http://apis.data.go.kr/1613000/ArvlInfoInqireService/getSttnAcctoArvlPrearngeInfoList?serviceKey=DUMMY&cityCode=23&nodeId=ICB165000487&numOfRows=1&_type=json,rtweb-kr-tago-bus-arrival-predictio,,active
+KR,Incheon / nationwide,"TAGO real-time bus location (MOLIT, data.go.kr)",http://apis.data.go.kr/1613000/BusLcInfoInqireService/getRouteAcctoBusLcList?serviceKey=DUMMY&cityCode=23&routeId=1&_type=json,rtweb-kr-tago-real-time-bus-locatio,,active
 KR,Seoul,Seoul TOPIS (Seoul Metropolitan Govt) — real-time bus GPS position by route,http://ws.bus.go.kr/api/rest/buspos/getBusPosByRtid?busRouteId={id}&serviceKey={KEY},rtweb-kr-seoul-topis-seoul-metropol,,active
 KR,national,"KTDB — Korea Transport DataBase (MOLIT), community mirror",https://huggingface.co/datasets/Digital-Twin-Urban-Mobility/GTFS-Korea/resolve/main/GTFS_Korea.zip,kr-ktdb-nationwide-gtfs,,active
 KZ,Almaty,"Almaty BRT (bus rapid transit — Timiryazev / Zheltoksan corridor, operated within the Almaty municipal system)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/KZ/almaty/almaty-brt-bus-rapid-transit-timiryazev-zheltoks/gtfs/,kz-llm-almaty-brt-bus-rapid-transit-timiryazev-,,active
@@ -22541,6 +22572,7 @@ ML,Gao Cercle,Communauté d'Agglomération du Nord Grande-Terre,https://www.data
 MM,Yangon,Yangon BRT Lite — Yangon Bus Public Company Ltd (YPBC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-brt-lite-yangon-bus-public-company-ltd-yp/gtfs/,mm-llm-yangon-brt-lite-yangon-bus-public-compan,,active
 MM,Yangon,"Yangon Bus Service (YBS) — Yangon Region Public Transport Committee (YRTC, formerly YRTA); 8 private operators incl. Omni Focus, YBPC, KBG, LuDu, YUPT, BDL, GYCT, TRAN",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-bus-service-ybs-yangon-region-public-tran/gtfs/,mm-llm-yangon-bus-service-ybs-yangon-region-pub,,active
 MM,Yangon,Yangon Circular Railway — Myanma Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/MM/yangon/yangon-circular-railway-myanma-railways/gtfs/,mm-llm-yangon-circular-railway-myanma-railways,,active
+MO,Macau,DSAT Bus Traveling System (mo.gov.dsat.bis app backend),https://bis.dsat.gov.mo/macauweb/routestation/bus?routeName=1&dir=0,rtweb-mo-dsat-bus-traveling-system-,,active
 MU,Baie aux Huitres,Ungheni~Public~Transport,https://github.com/UngheniTransport/gtfs/raw/main/ungheni_gtfs.zip,f-md-ungheni~public~transport,CC-BY-4.0,active
 MX,Jilotepec,Ayuntamiento Constitucional de Jilotepec Equipo de Planeación y Movilida (Constitutional Municipality of Jilotepec Planning and Mobility Team),https://datos.movimex.gob.mx/gtfs/jilotepec.gtfs.zip,mdb-2866,https://www.openstreetmap.org/copyright,active
 MX,Mexico City,SEMOVI (via World Bank Data Catalog),https://datacatalogfiles.worldbank.org/ddh-published/0038247/1/DR0046595/gtfs_semovi_cdmx.zip,mx-dork-semovi-via-world-bank-data-catalog,,active
@@ -22732,6 +22764,8 @@ PH,Manila,"EDSA Carousel (EDSA Busway BRT) — DOTr/MMDA, Mega Manila Consortium
 PH,Manila,LRT Line 1 — Light Rail Manila Corporation (LRMC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/lrt-line-1-light-rail-manila-corporation-lrmc/gtfs/,ph-llm-lrt-line-1-light-rail-manila-corporation,,active
 PH,Manila,LRT Line 2 — LRTA (operated via LRMC O&M),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/manila/lrt-line-2-lrta-operated-via-lrmc-o-m/gtfs/,ph-llm-lrt-line-2-lrta-operated-via-lrmc-o-m,,active
 PH,Manila,"Manila Light Rail Transit Authority, LTFRB, Manila Metro Rail Transit Corporation, MARINA, Philippine National Railways, The Fort Bus",https://github.com/sakayph/gtfs/archive/master.zip#gtfs-master,mdb-1106,,active
+PH,Manila,Sakay.ph (Firebase RTDB live vehicle positions),https://sakay-cloud.firebaseio.com/.json,rtweb-ph-sakay-ph-firebase-rtdb-liv,,active
+PH,Manila,Sakay.ph (tracker.sakay.ph backend; EDSA Carousel + jeepney/bus),https://api.sakay.ph/busser-hasura/v1/graphql,rtweb-ph-sakay-ph-tracker-sakay-ph-,,active
 PH,national,"HM Transport Inc. and Robinsons Malls, Froehlich Tours,RRCG Transport, Lingkod Pinoy Bus Liner, Inc., MetroExpress, Tas Trans",https://github.com/sakayph/p2p-gtfs/archive/master.zip#p2p-gtfs-master,mdb-1105,https://github.com/sakayph/p2p-gtfs/blob/master/README.md,active
 PH,national,None — Philippines has no National Access Point / government open-transit portal,https://github.com/sakayph/gtfs/archive/refs/heads/master.zip,ph-national-bulk,,active
 PK,Karachi,Green Line (Karachi Breeze) BRT — Sindh Mass Transit Authority / TransKarachi,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PK/karachi/green-line-karachi-breeze-brt-sindh-mass-transit/gtfs/,pk-llm-green-line-karachi-breeze-brt-sindh-mass,,active
@@ -22992,6 +23026,8 @@ RS,Kosjeric Municipality,Srbijavoz,https://gitlab.com/api/v4/projects/vekejsn%2F
 RS,Kragujevac,Kragujevac city public transport,https://data.gov.rs/s/resources/gtfs-kragujevats/20260626-074216/gtfs-kragujevac.zip,rs-w2-4,,active
 RS,New Belgrade Urban Municipality,Beograd Prigrad,https://data.gov.rs/sr/datasets/r/60f82229-16c7-4939-961b-2c24873d3e06,mdb-2925,https://data.gov.rs/sr/datasets/prigradski-javni-prevoz-u-u-beogradu-gtfs/,active
 RS,Niš,JKP Direkcija za javni prevoz grada Niša (Niš public transport),https://data.gov.rs/s/resources/javni-prevoz-i-gtfs/20260121-081857/gtfs-nis-2026.zip,rs-w2-3,,active
+RS,Novi Sad,JGSP Novi Sad (NSmart),https://online.nsmart.rs/publicapi/v1/announcement/announcement.php?ibfm=TM00000&station_uid=6532,rtweb-rs-jgsp-novi-sad-nsmart,,active
+RS,Novi Sad,JGSP Novi Sad (NSmart),https://online.nsmart.rs/publicapi/v1/networkextended.php?action=get_cities_extended,rtweb-rs-jgsp-novi-sad-nsmart-2,,active
 RS,Stari Grad Urban Municipality,Republic of Serbia,https://data.gov.rs/sr/datasets/r/729be9a1-7ed9-453d-9a3d-68fa30f07529,mdb-1027,https://data.gov.rs/sr/terms/,active
 RS,Subotica,Subotica-trans / Subotica city transport,https://data.gov.rs/s/resources/gtfs-subotitsa/20220611-231509/gtfs.zip,rs-w2-5,,active
 RS,Užice,Užice city public transport (Užice-razvoj),https://data.gov.rs/s/resources/gtfs-uzhitse/20220705-083449/uzicerazvoj-uzice-rs.zip,rs-w2-6,,active
@@ -23151,6 +23187,7 @@ SE,Östergötland County,Östgötatrafiken,https://opendata.samtrafiken.se/gtfs/
 SG,Central,Land Transport Authority (Singapore),https://github.com/thecrapone/singapore-gtfs-2026/raw/main/singapore-gtfs.zip,mdb-3051,https://data.gov.sg/open-data-licence,active
 SG,Central,Mandai Wildlife Reserve,https://www.mandai.com/content/dam/mandai/misc/gtfs.zip,mdb-2938,,active
 SG,Central,"SMRT, SBS Transit (SBST), Land Transport Authority (LTA), Go Ahead Singapore (GAS), Tower Transit (TTS)",https://cdn.rushowl.app/rushtrail-app/gtfs-feed/gtfs-feed-lta.zip,mdb-1076,,active
+SG,Singapore,LTA DataMall (Land Transport Authority),https://datamall2.mytransport.sg/ltaodataservice/v3/BusArrival?BusStopCode=83139,rtweb-sg-lta-datamall-land-transpor,,active
 SG,Singapore,LTA DataMall (SBST/SMRT/TTS/GAS),https://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2,rtweb-sg-lta-datamall-sbst-smrt-tts,,active
 SG,Southeast,Singapore typical weekday,https://github.com/Vorld/singapore-gtfs/releases/download/v2026-07-12/singapore-gtfs.zip,mdb-3409,https://github.com/Vorld/singapore-gtfs#licence,active
 SI,Brežice,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.brezice,mdb-2941,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
@@ -23173,6 +23210,8 @@ SI,Postojna,Postojna city transport,http://gtfs.derp.si/postojna_gtfs.zip,si-nap
 SI,Ptuj,Ptuj city transport,http://gtfs.derp.si/ptuj_gtfs.zip,si-nap-ptuj-city-transport,CC-BY-SA-4.0,active
 SI,Velenje,Velenje Lokalc (free city bus),http://gtfs.derp.si/velenje_manual.zip,si-nap-velenje-lokalc-free-city-bus,CC-BY-SA-4.0,active
 SI,Šempeter-Vrtojba,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.nova-gorica,mdb-2944,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
+SK,Bratislava,DPB / IDS BK (imhd.sk),https://imhd.sk/rt/gtfsrt/trips,rtweb-sk-dpb-ids-bk-imhd-sk-2,,active
+SK,Bratislava,DPB / IDS BK (imhd.sk),https://imhd.sk/rt/gtfsrt/vehicles,rtweb-sk-dpb-ids-bk-imhd-sk,,active
 SK,Bratislava,IDS BK Regional Buses,https://transiq.xhyrom.dev/gtfs/sk/ids-bk_regional.zip,mdb-2919,,active
 SK,Bratislava,"Slovak Lines Express, a.s.",https://transiq.xhyrom.dev/gtfs/sk/slovak-lines-express-as.zip,sk-nap-slovak-lines-express-a-s,Open data (planydopravy.sk NAP),active
 SK,District of Dunajská Streda,Kompa Vojka-Kyselica,https://github.gtfs.sk/kompa-vojka/gtfs.zip,mdb-3478,,active
@@ -23564,10 +23603,12 @@ TW,New Taipei,New Taipei Metro Corporation (NTMC),https://tdx.transportdata.tw/a
 TW,New Taipei,New Taipei Metro — Ankeng LRT,https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/NTALRT,tw-tdx-rail-ntalrt,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,New Taipei,New Taipei Metro — Danhai LRT,https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/NTDLRT,tw-tdx-rail-ntdlrt,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,Taichung,Taichung Rapid Transit Corporation (TMRT),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TMRT,tw-tdx-rail-tmrt,"Open Government Data License, version 1.0 (Taiwan)",active
+TW,Taichung / nationwide,TDX Bus real-time (MOTC Taiwan),https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/Taichung?%24top=1&%24format=JSON,rtweb-tw-tdx-bus-real-time-motc-tai,,active
 TW,Taipei,Taipei Rapid Transit Corporation (TRTC),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TRTC,tw-tdx-rail-trtc,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,Taipei,Taipei Rapid Transit — Maokong Gondola,https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TRTCMG,tw-tdx-rail-trtcmg,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,Taipei / Kaohsiung,"TDX — Metro live board (TRTC Taipei, KRTC Kaohsiung, TYMC, KLRT)",https://tdx.transportdata.tw/api/basic/v2/Rail/Metro/LiveBoard/{System},rtweb-tw-tdx-metro-live-board-trtc-,,active
 TW,Taipei / Kaohsiung / Taichung / Tainan / Hsinchu / nationwide,"TDX (MOTC) — city bus operators, GPS vehicle positions",https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/{City},rtweb-tw-tdx-motc-city-bus-operator,,active
+TW,Taipei / nationwide,TDX Bus ETA (MOTC Taiwan),https://tdx.transportdata.tw/api/basic/v2/Bus/EstimatedTimeOfArrival/City/Taipei?%24top=1&%24format=JSON,rtweb-tw-tdx-bus-eta-motc-taiwan,,active
 TW,Taiwan (nationwide),TDX — Taiwan Railway (TRA) station live board,https://tdx.transportdata.tw/api/basic/v3/Rail/TRA/StationLiveBoard,rtweb-tw-tdx-taiwan-railway-tra-sta,,active
 TW,Taoyuan,Taoyuan Metro Corporation (TYMC),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static/Rail/TYMC,tw-tdx-rail-tymc,"Open Government Data License, version 1.0 (Taiwan)",active
 TW,national,TDX — Transport Data eXchange (MOTC),https://tdx.transportdata.tw/api/gtfs/V3/Map/GTFS/Static,tw-tdx-national-gtfs,"Open Government Data License, version 1.0 (Taiwan)",active
@@ -23690,6 +23731,8 @@ US,Auburn,Western~Maine~Transportation,https://wmtsbus.org/wp-content/uploads/20
 US,Austin,Capital Metro,https://api.goswift.ly/real-time/cap-metro/gtfs-rt-alerts,rt-al-f-capitalmetro~rt~alerts,,active
 US,Austin,Capital Metro,https://data.texas.gov/download/eiei-9rpf/application%2Foctet-stream,rt-ve-f-capitalmetro~rt,,active
 US,Austin,Capital Metro,https://data.texas.gov/download/rmk2-acnw/application%2Foctet-stream,rt-tr-f-capitalmetro~rt,,active
+US,Austin,Capital Metro (CapMetro),https://data.texas.gov/download/eiei-9rpf/application/octet-stream,rtweb-us-capital-metro-capmetro,,active
+US,Austin,Capital Metro (CapMetro),https://data.texas.gov/download/rmk2-acnw/application/octet-stream,rtweb-us-capital-metro-capmetro-2,,active
 US,Avenal,sanluisobisporegionaltransitauthority pasoroblesexpress so rt,http://slo.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-9q6-sanluisobisporegionaltransitauthority~pasorobles,,active
 US,Avenal,sanluisobisporegionaltransitauthority pasoroblesexpress so rt,http://slo.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-9q6-sanluisobisporegionaltransitauthority~pasorobles,,active
 US,Avenal,sanluisobisporegionaltransitauthority pasoroblesexpress so rt,http://slo.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-9q6-sanluisobisporegionaltransitauthority~pasorobles,,active
@@ -23937,6 +23980,8 @@ US,Chesterfield,franklinregionaltransitauthority ma us rt,https://passio3.com/fr
 US,Chesterfield,franklinregionaltransitauthority ma us rt,https://passio3.com/frta/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-drs-franklinregionaltransitauthority~ma~us~rt,,active
 US,Chicago,353Northclark,https://353NorthClark.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-353northclark,,active
 US,Chicago,Aries300Erandolph,https://Aries300ERandolph.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-aries300erandolph,,active
+US,Chicago,CTA Bus Tracker (BusTime),http://www.ctabustracker.com/bustime/api/v2/getvehicles?format=json,rtweb-us-cta-bus-tracker-bustime,,active
+US,Chicago,CTA Train Tracker,http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?rt=red,rtweb-us-cta-train-tracker,,active
 US,Chicago,Metra,https://schedules.metrarail.com/gtfs/schedule.zip,mdb-2854,https://metra.com/gtfs-realtime-api-key-request-license-agreement,active
 US,Chico,Glenn Transit Service,https://cdn.hibuwebsites.com/af26dd3d53e046cf8ce6ac6dc92e7b14/files/uploaded/glenn-county-transit-service-google-transit-2026-01.zip,mdb-3094,,active
 US,City and County of Broomfield,Easy Ride Transportation,https://data.trilliumtransit.com/gtfs/broomfield-co-us/broomfield-co-us--flex-v2.zip,mdb-1195,,active
@@ -24334,6 +24379,7 @@ US,Hollister,Sanbenitocountyexpress,https://data.trilliumtransit.com/gtfs/sanben
 US,Hollister,San~Benito~County~Express~Dial~A~Ride~Paratransit~On~Demand~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/SanBenitoCountyExpressDialARideParatransitOnDemandFlex.zip,f-san~benito~county~express~dial~a~ride~paratransit~on~demand~flex,,active
 US,Homer,Seldovia~Village~Tribe,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13696/SVT_GTFS2026.zip,f-seldovia~village~tribe,,active
 US,Homer City,Indiana County Transit Authority,https://indigobus.availtec.com/InfoPoint/gtfs-zip.ashx,tld-4661,,active
+US,Honolulu,TheBus (Oahu Transit Services),https://api.thebus.org/vehicle/,rtweb-us-thebus-oahu-transit-servic,,active
 US,Honolulu County,TheBus,https://www.thebus.org/transitdata/production/google_transit.zip,mdb-2350,,active
 US,Hood River County,Columbia Area Transit (CAT),https://oregon-gtfs.trilliumtransit.com/gtfs_data/hoodriver-or-us/hoodriver-or-us.zip,mdb-260,,active
 US,Hopewell Township,Beaver County Transit Authority,https://bcta.rideralerts.com/InfoPoint/gtfs-zip.ashx,mdb-2262,,active
@@ -25126,6 +25172,7 @@ US,San Francisco,Golden Gate National Recreation Area (Alcatraz Island),https://
 US,San Francisco,Golden Gate Transit,https://realtime.goldengate.org/gtfsstatic/GTFSTransitData.zip,mdb-67,,active
 US,San Francisco,Mission Bay TMA,https://data.trilliumtransit.com/gtfs/missionbaytma-ca-us/missionbaytma-ca-us.zip,f-9q8yy-missionbaytma~ca~us,,active
 US,San Francisco,Mission Bay Transportation Management Association (TMA),http://data.trilliumtransit.com/gtfs/missionbaytma-ca-us/missionbaytma-ca-us.zip,mdb-51,,active
+US,San Francisco / Bay Area,"511 SF Bay (Muni/SFMTA, BART, Caltrain, AC Transit, ferries)",https://api.511.org/transit/vehiclepositions?agency=SF,rtweb-us-511-sf-bay-muni-sfmta-bart,,active
 US,San Francisco / Bay Area,BART,https://www.bart.gov/dev/schedules/google_transit.zip,us-disc-39,,active
 US,San Joaquin County,Blossom Express,http://data.trilliumtransit.com/gtfs/blossomexpress-ca-us/blossomexpress-ca-us.zip,mdb-236,,active
 US,San Joaquin County,Manteca Transit,https://data.trilliumtransit.com/gtfs/manteca-ca-us/manteca-ca-us--flex-v2.zip,mdb-2172,,active
@@ -25175,8 +25222,10 @@ US,Schuylkill County,Schuylkill Transportation System,https://sts.rideralerts.co
 US,Sea Girt,MTA Long Island Rail Road,https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fall-alerts,rt-al-f-mta~nyc~rt~alerts,,active
 US,Sea Girt,MTA Long Island Rail Road,https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/lirr%2Fgtfs-lirr,rt-tr-f-mta~nyc~rt~lirr,,active
 US,Seattle,King County Metro,https://metro.kingcounty.gov/GTFS/google_transit.zip,us-disc-41,,active
+US,Seattle,"King County Metro (Puget Sound OneBusAway, agency 1)",https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/1.pb,rtweb-us-king-county-metro-puget-so,,active
 US,Seattle,Pierce Transit,https://gtfs.sound.obaweb.org/prod/3_gtfs.zip,mdb-265,,active
 US,Seattle,Solid Ground,https://data.trilliumtransit.com/gtfs/solidground-wa-us/solidground-wa-us.zip,tld-5755,,active
+US,Seattle,"Sound Transit (Puget Sound OneBusAway, agency 40)",https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/40.pb,rtweb-us-sound-transit-puget-sound-,,active
 US,Sebastian County,City of Fort Smith,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11783/FST_GTFS.zip,ntd-60086,,active
 US,Sedona,Sedona Shuttle,https://sedonashuttle.com/gtfs/Sedona_Shuttle_Transit_Feed.zip,mdb-2858,,active
 US,Sedona,Sedonashuttle,https://sedonashuttle.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-sedonashuttle,,active
@@ -25943,6 +25992,8 @@ VE,Valera,Vzla,https://transporte.cromstudio.com.ve/data/horarios.zip,f-vzla,,ac
 VN,Hanoi,"Transerco (Hanoi Transport Corporation) + private operators, Hanoi bus network",https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046582/hanoi_gtfs_am.zip,vn-disc-59,,active
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS MD),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046583/hanoi_gtfs_md.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-m,,active
 VN,Hanoi,World Bank Data Catalog (Hanoi GTFS PM),https://datacatalogfiles.worldbank.org/ddh-published/0038236/1/DR0046584/hanoi_gtfs_pm.zip,vn-dork-world-bank-data-catalog-hanoi-gtfs-p,,active
+VN,Ho Chi Minh City,BusMap / GoMo (map.busmap.vn live backend),https://api-web.busmap.vn/web/public/region/countries,rtweb-vn-busmap-gomo-map-busmap-vn--2,,active
+VN,Ho Chi Minh City,BusMap / GoMo (map.busmap.vn live backend),https://api-web.busmap.vn/web/public/station/estimate_bus_to_station_multi,rtweb-vn-busmap-gomo-map-busmap-vn-,,active
 VN,Ho Chi Minh City,"Ho Chi Minh City bus network (Trung tâm Quản lý Giao thông công cộng / Management Centre of Public Transport, MCPT)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/VN/ho-chi-minh-city/ho-chi-minh-city-bus-network-trung-tam-quan-ly-g/gtfs/,vn-llm-ho-chi-minh-city-bus-network-trung-tam-q,,active
 XK,Prishtinë,Trainkos Sh.A. (Kosovo Railways),https://hoermalmeister.github.io/gtfs-rehost/trainkos/trainkos.zip,xk-eutail-trainkos-sh-a-kosovo-railways,,active
 XX,national,9q4g santabarbaramtd rt,https://bustracker.sbmtd.gov/gtfsrt/alerts,rt-al-f-9q4g~santabarbaramtd~rt,,active

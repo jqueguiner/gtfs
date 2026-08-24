@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SWE EVAG (Erfurter Verkehrsbetriebe) — app backend",
+    "country": "DE",
+    "subdivision": "TH",
+    "city": "Erfurt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://evag-live.wla-backend.de/stations/latest.json",
+    "mdb_id": "rtweb-de-swe-evag-erfurter-verkehrs",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

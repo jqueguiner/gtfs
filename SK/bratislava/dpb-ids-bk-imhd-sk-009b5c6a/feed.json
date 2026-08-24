@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DPB / IDS BK (imhd.sk)",
+    "country": "SK",
+    "subdivision": "Bratislava Region",
+    "city": "Bratislava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://imhd.sk/rt/gtfsrt/vehicles",
+    "mdb_id": "rtweb-sk-dpb-ids-bk-imhd-sk",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

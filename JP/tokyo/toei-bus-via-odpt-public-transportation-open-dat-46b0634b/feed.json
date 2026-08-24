@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Toei Bus via ODPT (Public Transportation Open Data Center)",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tokyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/ToeiBus",
+    "mdb_id": "rtweb-jp-toei-bus-via-odpt-public-t",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTA Train Tracker",
+    "country": "US",
+    "subdivision": "IL",
+    "city": "Chicago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://lapi.transitchicago.com/api/1.0/ttpositions.aspx?rt=red",
+    "mdb_id": "rtweb-us-cta-train-tracker",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

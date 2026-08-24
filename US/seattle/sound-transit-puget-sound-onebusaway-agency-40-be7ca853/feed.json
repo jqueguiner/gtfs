@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sound Transit (Puget Sound OneBusAway, agency 40)",
+    "country": "US",
+    "subdivision": "WA",
+    "city": "Seattle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/40.pb",
+    "mdb_id": "rtweb-us-sound-transit-puget-sound-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

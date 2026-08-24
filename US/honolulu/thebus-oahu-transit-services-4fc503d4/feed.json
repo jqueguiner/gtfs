@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TheBus (Oahu Transit Services)",
+    "country": "US",
+    "subdivision": "HI",
+    "city": "Honolulu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.thebus.org/vehicle/",
+    "mdb_id": "rtweb-us-thebus-oahu-transit-servic",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

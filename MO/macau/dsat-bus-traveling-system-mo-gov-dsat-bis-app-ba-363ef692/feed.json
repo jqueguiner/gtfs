@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DSAT Bus Traveling System (mo.gov.dsat.bis app backend)",
+    "country": "MO",
+    "subdivision": "Macau",
+    "city": "Macau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bis.dsat.gov.mo/macauweb/routestation/bus?routeName=1&dir=0",
+    "mdb_id": "rtweb-mo-dsat-bus-traveling-system-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sakay.ph (Firebase RTDB live vehicle positions)",
+    "country": "PH",
+    "subdivision": "Metro Manila (NCR)",
+    "city": "Manila"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sakay-cloud.firebaseio.com/.json",
+    "mdb_id": "rtweb-ph-sakay-ph-firebase-rtdb-liv",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "INSA / NASA (marego / MVB Magdeburger Verkehrsbetriebe)",
+    "country": "DE",
+    "subdivision": "ST",
+    "city": "Magdeburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://reiseauskunft.insa.de/bin/stboard.exe/dn?L=vs_java3&input=Magdeburg+Alter+Markt&start=yes&maxJourneys=10&outputMode=tickerDataOnly",
+    "mdb_id": "rtweb-de-insa-nasa-marego-mvb-magde",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

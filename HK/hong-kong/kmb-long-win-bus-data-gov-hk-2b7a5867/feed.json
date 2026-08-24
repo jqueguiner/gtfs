@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KMB / Long Win Bus (data.gov.hk)",
+    "country": "HK",
+    "subdivision": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.etabus.gov.hk/v1/transport/kmb/route-eta/1/1",
+    "mdb_id": "rtweb-hk-kmb-long-win-bus-data-gov-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

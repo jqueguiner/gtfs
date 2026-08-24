@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TUS (Transporte Urbano de Santander)",
+    "country": "ES",
+    "subdivision": "Cantabria",
+    "city": "Santander"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://datos.santander.es/api/rest/datasets/control_flotas_posiciones.json?items=50",
+    "mdb_id": "rtweb-es-tus-transporte-urbano-de-s",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

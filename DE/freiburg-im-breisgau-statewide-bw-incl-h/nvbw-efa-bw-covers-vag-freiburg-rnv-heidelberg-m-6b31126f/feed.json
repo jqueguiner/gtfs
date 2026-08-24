@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NVBW EFA-BW (covers VAG Freiburg, rnv Heidelberg/Mannheim, KVV, all Baden-Württemberg)",
+    "country": "DE",
+    "subdivision": "BW",
+    "city": "Freiburg im Breisgau (statewide BW incl. Heidelberg/Mannheim/Karlsruhe)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.efa-bw.de/nvbw/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:08311:6508&useRealtime=1&mode=direct&limit=10",
+    "mdb_id": "rtweb-de-nvbw-efa-bw-covers-vag-fre",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

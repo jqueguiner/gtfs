@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DVB / VVO (Dresdner Verkehrsbetriebe)",
+    "country": "DE",
+    "subdivision": "SN",
+    "city": "Dresden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webapi.vvo-online.de/dm",
+    "mdb_id": "rtweb-de-dvb-vvo-dresdner-verkehrsb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

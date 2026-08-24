@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KVV (Karlsruher Verkehrsverbund)",
+    "country": "DE",
+    "subdivision": "BW",
+    "city": "Karlsruhe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://projekte.kvv-efa.de/sl3-alone/XSLT_DM_REQUEST?outputFormat=JSON&type_dm=stop&name_dm=7000090&useRealtime=1&mode=direct&limit=10",
+    "mdb_id": "rtweb-de-kvv-karlsruher-verkehrsver-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

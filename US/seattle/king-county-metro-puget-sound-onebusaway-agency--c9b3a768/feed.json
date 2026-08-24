@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "King County Metro (Puget Sound OneBusAway, agency 1)",
+    "country": "US",
+    "subdivision": "WA",
+    "city": "Seattle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/1.pb",
+    "mdb_id": "rtweb-us-king-county-metro-puget-so",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

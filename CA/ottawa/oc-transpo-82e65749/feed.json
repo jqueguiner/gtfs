@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OC Transpo",
+    "country": "CA",
+    "subdivision": "ON",
+    "city": "Ottawa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nextrip-public-api.azure-api.net/octranspo/gtfs-rt-vp/beta/v1/VehiclePositions",
+    "mdb_id": "rtweb-ca-oc-transpo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

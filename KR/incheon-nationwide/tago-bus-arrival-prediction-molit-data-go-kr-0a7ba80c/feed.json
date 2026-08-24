@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TAGO bus arrival prediction (MOLIT, data.go.kr)",
+    "country": "KR",
+    "subdivision": "nationwide (cityCode)",
+    "city": "Incheon / nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://apis.data.go.kr/1613000/ArvlInfoInqireService/getSttnAcctoArvlPrearngeInfoList?serviceKey=DUMMY&cityCode=23&nodeId=ICB165000487&numOfRows=1&_type=json",
+    "mdb_id": "rtweb-kr-tago-bus-arrival-predictio",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

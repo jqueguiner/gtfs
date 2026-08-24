@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BusMap / GoMo (map.busmap.vn live backend)",
+    "country": "VN",
+    "subdivision": "Ho Chi Minh City",
+    "city": "Ho Chi Minh City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-web.busmap.vn/web/public/station/estimate_bus_to_station_multi",
+    "mdb_id": "rtweb-vn-busmap-gomo-map-busmap-vn-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

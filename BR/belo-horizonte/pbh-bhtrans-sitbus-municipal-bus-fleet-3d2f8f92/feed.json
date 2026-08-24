@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PBH / BHTrans (SITBUS) — municipal bus fleet",
+    "country": "BR",
+    "subdivision": "Minas Gerais",
+    "city": "Belo Horizonte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://temporeal.pbh.gov.br/?param=D",
+    "mdb_id": "rtweb-br-pbh-bhtrans-sitbus-municip",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sakay.ph (tracker.sakay.ph backend; EDSA Carousel + jeepney/bus)",
+    "country": "PH",
+    "subdivision": "Metro Manila (NCR)",
+    "city": "Manila"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.sakay.ph/busser-hasura/v1/graphql",
+    "mdb_id": "rtweb-ph-sakay-ph-tracker-sakay-ph-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

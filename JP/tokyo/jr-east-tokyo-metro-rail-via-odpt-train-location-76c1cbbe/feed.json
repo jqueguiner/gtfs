@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JR-East / Tokyo Metro rail via ODPT (train location/status)",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": "Tokyo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/odpt:Train?odpt:operator=odpt.Operator:JR-East",
+    "mdb_id": "rtweb-jp-jr-east-tokyo-metro-rail-v",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

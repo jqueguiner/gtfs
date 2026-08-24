@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nishitetsu Bus via ODPT",
+    "country": "JP",
+    "subdivision": "Fukuoka",
+    "city": "Fukuoka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/NishitetsuBus",
+    "mdb_id": "rtweb-jp-nishitetsu-bus-via-odpt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

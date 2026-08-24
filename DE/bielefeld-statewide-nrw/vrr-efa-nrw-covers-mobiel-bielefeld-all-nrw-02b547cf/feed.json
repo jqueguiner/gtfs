@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRR / EFA-NRW (covers moBiel Bielefeld + all NRW)",
+    "country": "DE",
+    "subdivision": "NW",
+    "city": "Bielefeld (statewide NRW)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.vrr.de/standard/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=stop&name_dm=de:05711:10203&useRealtime=1&mode=direct&limit=10",
+    "mdb_id": "rtweb-de-vrr-efa-nrw-covers-mobiel-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

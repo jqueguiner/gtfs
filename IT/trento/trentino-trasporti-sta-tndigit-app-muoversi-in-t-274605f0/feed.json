@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trentino Trasporti / STA (tndigit, app 'Muoversi in Trentino')",
+    "country": "IT",
+    "subdivision": "Trentino-Alto Adige",
+    "city": "Trento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app-tpl.tndigit.it/gtlservice/trips_new?routeId={routeId}&type=U",
+    "mdb_id": "rtweb-it-trentino-trasporti-sta-tnd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "JGSP Novi Sad (NSmart)",
+    "country": "RS",
+    "subdivision": "Vojvodina",
+    "city": "Novi Sad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://online.nsmart.rs/publicapi/v1/networkextended.php?action=get_cities_extended",
+    "mdb_id": "rtweb-rs-jgsp-novi-sad-nsmart-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

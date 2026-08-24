@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TDX Bus real-time (MOTC Taiwan)",
+    "country": "TW",
+    "subdivision": "nationwide (City path)",
+    "city": "Taichung / nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tdx.transportdata.tw/api/basic/v2/Bus/RealTimeByFrequency/City/Taichung?%24top=1&%24format=JSON",
+    "mdb_id": "rtweb-tw-tdx-bus-real-time-motc-tai",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

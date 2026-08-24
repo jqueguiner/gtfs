@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VMS (Verkehrsverbund Mittelsachsen) — CVAG / City-Bahn Chemnitz",
+    "country": "DE",
+    "subdivision": "SN",
+    "city": "Chemnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.vvo-online.de/VMSSL3/XSLT_DM_REQUEST?outputFormat=rapidJSON&type_dm=any&name_dm=Chemnitz+Zentralhaltestelle&useRealtime=1&mode=direct&limit=10",
+    "mdb_id": "rtweb-de-vms-verkehrsverbund-mittel",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

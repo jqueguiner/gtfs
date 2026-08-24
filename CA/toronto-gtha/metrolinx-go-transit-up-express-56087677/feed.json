@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metrolinx GO Transit / UP Express",
+    "country": "CA",
+    "subdivision": "ON",
+    "city": "Toronto (GTHA)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.openmetrolinx.com/OpenDataAPI/api/V1/Gtfs.proto/Feed/VehiclePosition",
+    "mdb_id": "rtweb-ca-metrolinx-go-transit-up-ex",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

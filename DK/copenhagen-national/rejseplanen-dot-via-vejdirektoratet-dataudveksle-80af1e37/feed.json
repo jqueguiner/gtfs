@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen / DOT via Vejdirektoratet Dataudveksleren (NAP)",
+    "country": "DK",
+    "subdivision": "Hovedstaden / national",
+    "city": "Copenhagen (national)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.vd.dk/",
+    "mdb_id": "rtweb-dk-rejseplanen-dot-via-vejdir",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

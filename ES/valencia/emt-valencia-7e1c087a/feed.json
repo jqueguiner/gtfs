@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMT València",
+    "country": "ES",
+    "subdivision": "Valencian Community",
+    "city": "Valencia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&f=json",
+    "mdb_id": "rtweb-es-emt-valencia",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

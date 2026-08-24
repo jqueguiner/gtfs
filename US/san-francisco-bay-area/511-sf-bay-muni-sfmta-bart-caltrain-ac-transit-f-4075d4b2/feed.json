@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "511 SF Bay (Muni/SFMTA, BART, Caltrain, AC Transit, ferries)",
+    "country": "US",
+    "subdivision": "CA",
+    "city": "San Francisco / Bay Area"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.511.org/transit/vehiclepositions?agency=SF",
+    "mdb_id": "rtweb-us-511-sf-bay-muni-sfmta-bart",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

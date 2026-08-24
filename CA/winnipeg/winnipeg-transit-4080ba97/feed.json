@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Winnipeg Transit",
+    "country": "CA",
+    "subdivision": "MB",
+    "city": "Winnipeg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.winnipegtransit.com/v3/gtfs-rt/vehicle-positions.pb",
+    "mdb_id": "rtweb-ca-winnipeg-transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
