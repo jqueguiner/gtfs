@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bow Valley Regional Transit Services Commission",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Lake Louise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bowvalley.tmix.se/gtfs-realtime/tripupdates.pb",
+    "mdb_id": "rt-tr-f-bowvalley~ab~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

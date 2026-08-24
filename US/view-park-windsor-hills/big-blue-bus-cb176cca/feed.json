@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Big Blue Bus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "View Park-Windsor Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cleverapi.bigbluebus.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-bigbluebus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

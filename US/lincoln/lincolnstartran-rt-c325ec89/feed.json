@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lincolnstartran rt",
+    "country": "US",
+    "subdivision": "Nebraska",
+    "city": "Lincoln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://startran.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+    "mdb_id": "rt-tr-f-9z70-lincolnstartran~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

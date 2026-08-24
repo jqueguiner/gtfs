@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus sarlat la caneda rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=Sarlat",
+    "mdb_id": "rt-ve-f-zenbus~sarlat~la~caneda~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tokaikisen alllines jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_TokaiKisen_AllLines_alert?acl:consumerKey=",
+    "mdb_id": "rt-al-f-tokaikisen~alllines~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

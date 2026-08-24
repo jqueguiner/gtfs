@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "suntran rt",
+    "country": "US",
+    "subdivision": "Arizona",
+    "city": "Huachuca City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://GTFS-RT.suntran.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-9t9-suntran~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

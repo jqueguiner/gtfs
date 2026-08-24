@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "shoretransit rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Snow Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.shoretransit.org/gtfs/GTFS_ServiceAlerts.pb",
+    "mdb_id": "rt-al-f-dqf3-shoretransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

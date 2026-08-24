@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cherriots rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cherriots.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-9rb-cherriots~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

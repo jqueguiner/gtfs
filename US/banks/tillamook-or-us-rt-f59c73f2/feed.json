@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tillamook or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Banks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/tillamook/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-c20-tillamook~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Diego Metropolitan Transit System",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Encinitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.sdmts.com/api/api/gtfs_realtime/vehicle-positions-for-agency/MTS.pb",
+    "mdb_id": "rt-ve-f-mts~rt~onebusaway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

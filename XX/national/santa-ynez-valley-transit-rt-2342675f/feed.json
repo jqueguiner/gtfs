@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "santa ynez valley transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lat-long-prototype.wl.r.appspot.com/vehicle-positions.pb?agency=santa-ynez-valley-transit",
+    "mdb_id": "rt-ve-f-santa~ynez~valley~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

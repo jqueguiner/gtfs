@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus tignes rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tignes",
+    "mdb_id": "rt-tr-f-zenbus~tignes~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

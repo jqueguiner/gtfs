@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lextran rt",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Mount Vernon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mystop.lextran.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-dngb-lextran~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

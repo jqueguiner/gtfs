@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "vailtransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ride.vail.gov/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-vailtransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

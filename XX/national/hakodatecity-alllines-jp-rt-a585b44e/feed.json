@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hakodatecity alllines jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_HakodateCity_Alllines_alert",
+    "mdb_id": "rt-al-f-hakodatecity~alllines~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tri-County Metropolitan Transportation District of Oregon",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Banks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://developer.trimet.org/ws/V1/TripUpdate",
+    "mdb_id": "rt-tr-f-trimet~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "regional public transportation inc rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/smart/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-regional~public~transportation~inc~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

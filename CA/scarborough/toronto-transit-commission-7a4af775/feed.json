@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Toronto Transit Commission",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Scarborough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustime.ttc.ca/gtfsrt/alerts",
+    "mdb_id": "rt-al-f-dpz8-ttc~surface~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

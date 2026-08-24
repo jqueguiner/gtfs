@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mtamaryland commuterbus rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Nags Head"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/mta-maryland-commuter-bus/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dq-mtamaryland~commuterbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

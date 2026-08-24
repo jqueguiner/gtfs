@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sociétédetransportdesherbrooke rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sherbrooke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/STS/tripupdate",
+    "mdb_id": "rt-tr-f-f2hf-sociétédetransportdesherbrooke~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

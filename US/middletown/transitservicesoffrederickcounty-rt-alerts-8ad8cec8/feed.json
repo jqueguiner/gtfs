@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transitservicesoffrederickcounty rt alerts",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Middletown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/frederick-county-transit/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-dr0b-transitservicesoffrederickcounty~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "france impulsyon rt",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Landeronde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/la-roche-sur-yon-ct-gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-gbqc-france~impulsyon~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

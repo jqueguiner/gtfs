@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Santee Wateree RTA",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Great Falls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://santeebus.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-santee~wateree~rta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

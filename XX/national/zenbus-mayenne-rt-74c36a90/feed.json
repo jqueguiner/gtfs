@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus mayenne rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=maybus",
+    "mdb_id": "rt-tr-f-zenbus~mayenne~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

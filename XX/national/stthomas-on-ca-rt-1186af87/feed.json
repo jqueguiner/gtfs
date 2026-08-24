@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "stthomas on ca rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-stthomas/alerts.pb",
+    "mdb_id": "rt-al-f-stthomas~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

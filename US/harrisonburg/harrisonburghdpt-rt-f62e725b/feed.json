@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "harrisonburghdpt rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Harrisonburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/harrisonburg/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dnzft-harrisonburghdpt~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "beaumont ca us rt alerts",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Banning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/beaumont/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-9qhc-beaumont~ca~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

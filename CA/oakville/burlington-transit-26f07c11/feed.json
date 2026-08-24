@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Burlington Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Oakville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.burlington.ca/gtfs-rt/GTFS_ServiceAlerts.pb",
+    "mdb_id": "rt-al-f-burt~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

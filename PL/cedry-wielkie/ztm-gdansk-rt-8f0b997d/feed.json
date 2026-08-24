@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ztm gdansk rt",
+    "country": "PL",
+    "subdivision": "Pomeranian Voivodeship",
+    "city": "Cedry Wielkie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://ckan2.multimediagdansk.pl/gtfs-rt?feed=vehiclePositions",
+    "mdb_id": "rt-ve-f-u3tm-ztm~gdansk~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

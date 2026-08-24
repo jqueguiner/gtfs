@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chapel Hill Transit",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Durham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://mychtransit.org/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-dnru-chapel~hill~transit~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nycferry rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-nycferry~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "redding ca us rt alerts",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Covelo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/redding-ca-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-9r0-redding~ca~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

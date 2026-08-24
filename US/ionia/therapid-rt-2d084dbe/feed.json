@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "therapid rt",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ionia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://connect.ridetherapid.org/infopoint/GTFS-Realtime.ashx?&Type=Alert",
+    "mdb_id": "rt-al-f-dpe-therapid~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

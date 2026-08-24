@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "metlink nz rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opendata.metlink.org.nz/v1/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-metlink~nz~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

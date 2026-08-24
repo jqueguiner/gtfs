@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Davidson County Transportation System",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Statesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dcridestracker.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-dnq-dcrides~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

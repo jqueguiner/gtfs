@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit rdntransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Powell River"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=41",
+    "mdb_id": "rt-tr-f-c0z-bctransit~rdntransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

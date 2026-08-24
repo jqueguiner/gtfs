@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus moselle et madon rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=moselle-et-madon",
+    "mdb_id": "rt-ve-f-zenbus~moselle~et~madon~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "alexandriatransitcompanydash rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Baileys Crossroads"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/alexandria-dash/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dqchv-alexandriatransitcompanydash~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

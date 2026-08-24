@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "redding ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Covelo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/redding/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-9r0-redding~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

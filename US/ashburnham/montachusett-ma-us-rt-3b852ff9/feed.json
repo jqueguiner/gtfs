@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "montachusett ma us rt",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Ashburnham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/montachusett/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-drsf-montachusett~ma~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

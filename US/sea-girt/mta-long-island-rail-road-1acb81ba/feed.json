@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA Long Island Rail Road",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Sea Girt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/lirr%2Fgtfs-lirr",
+    "mdb_id": "rt-tr-f-mta~nyc~rt~lirr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

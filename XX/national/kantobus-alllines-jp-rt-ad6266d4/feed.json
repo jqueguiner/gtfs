@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kantobus alllines jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_vehicle?acl:consumerKey=",
+    "mdb_id": "rt-ve-f-kantobus~alllines~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yamhillcounty or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Banks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ycta.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
+    "mdb_id": "rt-ve-f-c20-yamhillcounty~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ozark regional transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ozark/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-ozark~regional~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

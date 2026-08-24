@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "atac romatpl trenitalia rt",
+    "country": "HR",
+    "subdivision": "Dubrovacko-Neretvanska",
+    "city": "Smokvica"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://romamobilita.it/sites/default/files/rome_rtgtfs_service_alerts_feed.pb",
+    "mdb_id": "rt-al-f-sr-atac~romatpl~trenitalia~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

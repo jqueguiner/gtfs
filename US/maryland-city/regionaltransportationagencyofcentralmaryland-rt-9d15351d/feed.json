@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "regionaltransportationagencyofcentralmaryland rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Maryland City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/rtamaryland/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-dqcq-regionaltransportationagencyofcentralmaryland~r",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

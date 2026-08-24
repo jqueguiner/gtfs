@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hillsborougharearegionaltransit streetcar rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "The Meadows"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/tampa-streetcar/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-dhv-hillsborougharearegionaltransit~streetcar~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

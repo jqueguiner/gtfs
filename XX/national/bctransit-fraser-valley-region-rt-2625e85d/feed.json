@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit fraser valley region rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=13",
+    "mdb_id": "rt-al-f-bctransit~fraser~valley~region~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus saint jean sur richelieu rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=saint-jean-sur-richelieu",
+    "mdb_id": "rt-ve-f-zenbus~saint~jean~sur~richelieu~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

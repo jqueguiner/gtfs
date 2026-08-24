@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rta rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rtabus.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-rta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

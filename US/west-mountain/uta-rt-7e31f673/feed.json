@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "uta rt",
+    "country": "US",
+    "subdivision": "Utah",
+    "city": "West Mountain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apps.rideuta.com/tms/gtfs/TripUpdate",
+    "mdb_id": "rt-tr-f-9x0-uta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

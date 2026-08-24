@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "madera county connection rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/maderactc-ca-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-madera~county~connection~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

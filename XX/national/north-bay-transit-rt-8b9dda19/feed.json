@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "north bay transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://northbay.tmix.se/gtfs-realtime/alerts.pb",
+    "mdb_id": "rt-al-f-north~bay~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

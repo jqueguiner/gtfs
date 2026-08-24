@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cercanías renfe rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.renfe.com/trip_updates.pb",
+    "mdb_id": "rt-tr-f-cercanías~renfe~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

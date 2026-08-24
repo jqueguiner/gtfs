@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "linx rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Corvallis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/ocwcog-linx/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-9rbm-linx~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

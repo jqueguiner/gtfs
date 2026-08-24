@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tepparma rt",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Massarosa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://temporeale.cl.tep.pr.it/temporeale/vehicle_positions.pb",
+    "mdb_id": "rt-ve-f-spz3-tepparma~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

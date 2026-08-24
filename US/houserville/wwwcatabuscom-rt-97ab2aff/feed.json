@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wwwcatabuscom rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Houserville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.catabus.com/infopoint/GTFS-Realtime.ashx?Type=VehiclePosition",
+    "mdb_id": "rt-ve-f-dr28-wwwcatabuscom~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

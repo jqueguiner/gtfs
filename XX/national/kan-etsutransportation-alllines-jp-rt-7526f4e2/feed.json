@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kan etsutransportation alllines jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_Kan_etsuTransportation_AllLines_alert",
+    "mdb_id": "rt-al-f-kan~etsutransportation~alllines~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

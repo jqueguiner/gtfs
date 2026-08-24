@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "miamibeach rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/city-of-miami-beach/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-miamibeach~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

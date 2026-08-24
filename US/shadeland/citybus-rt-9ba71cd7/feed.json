@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citybus rt",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Shadeland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus.gocitybus.com/GTFSRT/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-dp4j-citybus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

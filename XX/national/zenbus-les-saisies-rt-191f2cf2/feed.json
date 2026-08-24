@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus les saisies rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=lessaisies",
+    "mdb_id": "rt-ve-f-zenbus~les~saisies~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

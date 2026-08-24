@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "whatcomtransportationauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustracker.ridewta.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-whatcomtransportationauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

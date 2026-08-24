@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "thello rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://thello.axelor.com/public/gtfs/GTFS-RT.bin",
+    "mdb_id": "rt-tr-f-thello~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

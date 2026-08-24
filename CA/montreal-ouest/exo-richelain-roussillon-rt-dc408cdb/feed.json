@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo richelain roussillon rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal-Ouest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/LRRS/vehicleposition",
+    "mdb_id": "rt-ve-f-f25d-exo~richelain~roussillon~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

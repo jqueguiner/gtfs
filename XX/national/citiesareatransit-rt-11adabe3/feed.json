@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citiesareatransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://catprowler.org/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-citiesareatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

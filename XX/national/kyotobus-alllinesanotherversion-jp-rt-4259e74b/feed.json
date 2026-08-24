@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kyotobus alllinesanotherversion jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_alert?acl:consumerKey=",
+    "mdb_id": "rt-al-f-kyotobus~alllinesanotherversion~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

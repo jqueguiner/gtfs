@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "monroecountytransitauthority rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Emerald Lakes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ponytracker.availtec.com/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-dr63-monroecountytransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

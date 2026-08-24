@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit fortstjohntransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Fort St. John"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=28",
+    "mdb_id": "rt-tr-f-c3fpf-bctransit~fortstjohntransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo citsud ouest rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Les Cedres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/CITSO/vehicleposition",
+    "mdb_id": "rt-ve-f-f253-exo~citsud~ouest~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

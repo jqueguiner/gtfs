@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "charlotteareatransitsystem rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Statesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrealtime.ridetransit.org/GTFSRealTime/Alerts/Alerts.pb",
+    "mdb_id": "rt-al-f-dnq-charlotteareatransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

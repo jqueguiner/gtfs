@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "benton or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/ocwcog-benton/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-9rb-benton~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

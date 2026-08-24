@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transitservicesoffrederickcounty rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Middletown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/frederick-county-transit/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dr0b-transitservicesoffrederickcounty~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Metro",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Austin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.texas.gov/download/rmk2-acnw/application%2Foctet-stream",
+    "mdb_id": "rt-tr-f-capitalmetro~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

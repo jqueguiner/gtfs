@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "valleytransit rt",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Menasha"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridemyvalleytransit.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-dpc5-valleytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

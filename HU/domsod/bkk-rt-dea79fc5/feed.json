@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bkk rt",
+    "country": "HU",
+    "subdivision": "Pest",
+    "city": "Domsod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://go.bkk.hu/api/query/v1/ws/gtfs-rt/full/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-u2m-bkk~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

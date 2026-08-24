@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southwest Ohio Regional Transit Authority",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Ludlow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tmgtfsprd.sorttrpcloud.com/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb",
+    "mdb_id": "rt-tr-f-cincinnatimetro~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

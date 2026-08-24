@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "greaterclevelandregionaltransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.gcrta.vontascloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-greaterclevelandregionaltransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

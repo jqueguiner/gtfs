@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wrta rt",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Leicester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.wrta.cadavl.com/ProfilGtfsRt2_0RSProducer-WRTA/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-drsb-wrta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

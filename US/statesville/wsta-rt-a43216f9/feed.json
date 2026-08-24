@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wsta rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Statesville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridewsta.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-dnq-wsta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Halifax Transit",
+    "country": "CA",
+    "subdivision": "Nova Scotia",
+    "city": "Cole Harbour"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.halifax.ca/realtime/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-halifax~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

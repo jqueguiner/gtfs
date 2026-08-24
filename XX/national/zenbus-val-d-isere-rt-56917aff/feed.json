@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus val d isere rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=valdisere",
+    "mdb_id": "rt-tr-f-zenbus~val~d~isere~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

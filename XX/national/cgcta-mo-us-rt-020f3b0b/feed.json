@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cgcta mo us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cgcta.tripshot.com/v1/gtfs/realtime/feed/cgcta?types=VehiclePosition",
+    "mdb_id": "rt-ve-f-cgcta~mo~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

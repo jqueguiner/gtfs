@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Area Transportation Authority",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "DeWitt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://developers.cata.org/gtfsrt/tripupdate/tripupdates.pb",
+    "mdb_id": "rt-tr-f-cata~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

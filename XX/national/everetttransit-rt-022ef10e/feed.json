@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "everetttransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://everett.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin",
+    "mdb_id": "rt-al-f-everetttransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

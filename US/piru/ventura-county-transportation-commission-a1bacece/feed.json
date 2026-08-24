@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ventura County Transportation Commission",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Piru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://govcbus.com/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-9q5-govcbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

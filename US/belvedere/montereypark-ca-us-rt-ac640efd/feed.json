@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "montereypark ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Belvedere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/montereyp/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-9q5cx-montereypark~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

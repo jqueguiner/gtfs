@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cercanías renfe rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.renfe.com/vehicle_positions.pb",
+    "mdb_id": "rt-ve-f-cercanías~renfe~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

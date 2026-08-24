@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "qconnect transnorth rt",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Innisfail"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/api/realtime/INN/TripUpdates",
+    "mdb_id": "rt-tr-f-rhzu-qconnect~transnorth~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

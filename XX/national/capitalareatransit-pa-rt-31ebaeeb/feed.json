@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "capitalareatransit pa rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+    "mdb_id": "rt-ve-f-capitalareatransit~pa~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

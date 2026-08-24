@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ncrtd nm rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-ncrtd~nm~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

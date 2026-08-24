@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "reseau express metropolitain rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://storage.googleapis.com/transit-terminal-alerts-bucket-production/rem_montreal.pb",
+    "mdb_id": "rt-al-f-reseau~express~metropolitain~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

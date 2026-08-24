@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cornwall on ca rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-cornwall/tripupdates.pb",
+    "mdb_id": "rt-tr-f-cornwall~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "banning pass transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/banning/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-banning~pass~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

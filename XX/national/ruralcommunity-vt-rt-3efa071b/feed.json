@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ruralcommunity vt rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/rct/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-ruralcommunity~vt~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

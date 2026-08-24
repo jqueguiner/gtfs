@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cascadeseast or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Sisters"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/cet/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-9rc-cascadeseast~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

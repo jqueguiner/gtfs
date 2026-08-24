@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cdta rt",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Country Knolls"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.cdta.org:8080/gtfsrealtime/VehiclePositions",
+    "mdb_id": "rt-ve-f-dre-cdta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

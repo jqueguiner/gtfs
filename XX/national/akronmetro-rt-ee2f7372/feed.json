@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "akronmetro rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate",
+    "mdb_id": "rt-tr-f-akronmetro~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

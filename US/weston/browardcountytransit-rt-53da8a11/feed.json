@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "browardcountytransit rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Weston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bctmyride-buspas.com:8080/GTFS/VehiclePositions",
+    "mdb_id": "rt-ve-f-dhw-browardcountytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

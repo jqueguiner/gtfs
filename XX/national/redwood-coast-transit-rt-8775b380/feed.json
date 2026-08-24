@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "redwood coast transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/redwood-coast-rct/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-redwood~coast~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

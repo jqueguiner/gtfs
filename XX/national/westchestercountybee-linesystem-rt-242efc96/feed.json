@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "westchestercountybee linesystem rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://westchester-gmv.itoworld.com/production/vehiclepositions.pb",
+    "mdb_id": "rt-ve-f-westchestercountybee~linesystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

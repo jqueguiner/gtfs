@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "saintlouis rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.metrostlouis.org/RealTimeData/StlRealTimeAlerts.pb",
+    "mdb_id": "rt-al-f-saintlouis~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

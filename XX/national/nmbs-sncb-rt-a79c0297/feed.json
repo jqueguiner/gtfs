@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nmbs sncb rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/alert",
+    "mdb_id": "rt-al-f-u-nmbs~sncb~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pascocountypublictransit fl us rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Land O' Lakes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gopasco.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?&Type=Alert",
+    "mdb_id": "rt-al-f-djj2-pascocountypublictransit~fl~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

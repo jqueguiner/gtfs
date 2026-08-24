@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "smat ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Buellton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://smrt.tripshot.com/v1/gtfs/realtime/vehiclePosition/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820",
+    "mdb_id": "rt-ve-f-9q4-smat~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

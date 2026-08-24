@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo citvallée du richelieu rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sainte-Julie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/CITVR/alert",
+    "mdb_id": "rt-al-f-f25g-exo~citvallée~du~richelieu~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

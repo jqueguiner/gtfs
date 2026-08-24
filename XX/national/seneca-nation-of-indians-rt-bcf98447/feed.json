@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "seneca nation of indians rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/senecanation/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-seneca~nation~of~indians~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

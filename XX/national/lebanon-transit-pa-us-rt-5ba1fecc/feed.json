@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lebanon transit pa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.lebanontransit.org/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-lebanon~transit~pa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

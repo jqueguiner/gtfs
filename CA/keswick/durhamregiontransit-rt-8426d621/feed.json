@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "durhamregiontransit rt",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Keswick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://maps.durham.ca/OpenDataGTFS/alerts.pb",
+    "mdb_id": "rt-al-f-dpz-durhamregiontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

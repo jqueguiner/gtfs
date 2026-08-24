@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "intercitytransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://its.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=alert",
+    "mdb_id": "rt-al-f-intercitytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capital Metro",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Austin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/cap-metro/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-capitalmetro~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

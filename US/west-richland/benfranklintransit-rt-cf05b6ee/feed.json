@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "benfranklintransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "West Richland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride.bft.org/Realtime/GTFS_TripUpdates.pb",
+    "mdb_id": "rt-tr-f-c25p-benfranklintransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

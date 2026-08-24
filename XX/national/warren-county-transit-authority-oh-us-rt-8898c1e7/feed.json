@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "warren county transit authority oh us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tawc.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-warren~county~transit~authority~oh~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

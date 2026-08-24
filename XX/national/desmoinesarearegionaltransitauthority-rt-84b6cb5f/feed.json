@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "desmoinesarearegionaltransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ridedart.com/gtfs/real-time/vehicle-positions",
+    "mdb_id": "rt-ve-f-desmoinesarearegionaltransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

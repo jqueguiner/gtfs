@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "butte regional transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://planmyride.blinetransit.com/gtfsrealtime/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-butte~regional~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

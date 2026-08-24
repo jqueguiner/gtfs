@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tillamook or us rt alerts",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Banks"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/tillamook-or-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-c20-tillamook~or~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "delijn rt",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "Hollum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/alert",
+    "mdb_id": "rt-al-f-u1-delijn~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "linktransit nc us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mylinktransit.org/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-linktransit~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

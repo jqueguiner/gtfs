@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "charmcitycirculator rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Baltimore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/charmcity/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-dqcx8-charmcitycirculator~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

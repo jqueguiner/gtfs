@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "greatersudburytransit rt",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Greater Sudbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sudbury.tmix.se/gtfs-realtime/vehiclepositions.pb",
+    "mdb_id": "rt-ve-f-f0q2-greatersudburytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

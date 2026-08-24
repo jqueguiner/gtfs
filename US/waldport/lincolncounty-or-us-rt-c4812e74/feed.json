@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lincolncounty or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Waldport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/lincoln-county/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-9pz-lincolncounty~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

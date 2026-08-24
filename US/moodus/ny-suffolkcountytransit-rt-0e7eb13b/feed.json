@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ny suffolkcountytransit rt",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Moodus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/suffolk-county/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-drk-ny~suffolkcountytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

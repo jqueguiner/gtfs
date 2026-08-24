@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mvta metro rt",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Savage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://srv.mvta.com/infoPoint/GTFS-realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-9zvw-mvta~metro~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "centralfloridaregionaltransitauthority rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Oak Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfsrt.golynx.com/gtfsrt/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-djn-centralfloridaregionaltransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

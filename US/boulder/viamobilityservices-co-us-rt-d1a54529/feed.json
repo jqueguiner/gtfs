@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "viamobilityservices co us rt",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Boulder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/viaboulder/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-9xj5s-viamobilityservices~co~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

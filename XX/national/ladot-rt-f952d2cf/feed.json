@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ladot rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ladotbus.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-ladot~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

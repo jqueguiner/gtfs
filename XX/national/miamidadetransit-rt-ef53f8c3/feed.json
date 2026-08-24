@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "miamidadetransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/miami/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-miamidadetransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

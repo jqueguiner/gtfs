@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wavetransit rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Masonboro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wave.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-dq0d-wavetransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

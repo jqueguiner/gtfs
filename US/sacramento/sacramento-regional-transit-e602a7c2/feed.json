@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sacramento Regional Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Sacramento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustime.sacrt.com/EG_gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-9qcd-etranelkgrove~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

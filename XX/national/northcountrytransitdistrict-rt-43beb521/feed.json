@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "northcountrytransitdistrict rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/nctd/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-northcountrytransitdistrict~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

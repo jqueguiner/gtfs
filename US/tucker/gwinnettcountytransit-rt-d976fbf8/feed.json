@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gwinnettcountytransit rt",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Tucker"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimegwinnett.availtec.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate",
+    "mdb_id": "rt-tr-f-dnh0-gwinnettcountytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

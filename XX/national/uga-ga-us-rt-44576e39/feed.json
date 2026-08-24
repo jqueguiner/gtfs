@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "uga ga us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/uga/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-uga~ga~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

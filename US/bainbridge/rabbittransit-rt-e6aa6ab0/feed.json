@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rabbittransit rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Bainbridge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.rabbittransit.org/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-dr1-rabbittransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

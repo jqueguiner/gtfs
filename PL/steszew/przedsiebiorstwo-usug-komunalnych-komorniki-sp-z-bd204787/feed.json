@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Przedsiębiorstwo Usług Komunalnych Komorniki sp. z o.o.",
+    "country": "PL",
+    "subdivision": "Greater Poland Voivodeship",
+    "city": "Steszew"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=trip_updates.pb",
+    "mdb_id": "rt-tr-f-u3k4-poznan~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

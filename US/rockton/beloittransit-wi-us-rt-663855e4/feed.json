@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "beloittransit wi us rt",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Rockton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/beloit/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-dp89-beloittransit~wi~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

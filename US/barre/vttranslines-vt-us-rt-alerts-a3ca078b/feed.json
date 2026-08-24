@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "vttranslines vt us rt alerts",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Barre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/vermont-translines/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-dru-vttranslines~vt~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

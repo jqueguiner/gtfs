@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo citsorel varennes rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Lorraine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/CITSV/vehicleposition",
+    "mdb_id": "rt-ve-f-f25-exo~citsorel~varennes~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

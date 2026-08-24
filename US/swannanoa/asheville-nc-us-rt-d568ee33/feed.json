@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "asheville nc us rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Swannanoa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/art-asheville/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-dnm6-asheville~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "crawford area transportation authority pa rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://catabus.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-crawford~area~transportation~authority~pa~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

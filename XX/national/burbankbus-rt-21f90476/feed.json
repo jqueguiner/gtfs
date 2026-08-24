@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "burbankbus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rideburbankbus.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-burbankbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

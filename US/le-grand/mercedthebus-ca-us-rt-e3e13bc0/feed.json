@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mercedthebus ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Le Grand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://thebuslive.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-9qd-mercedthebus~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

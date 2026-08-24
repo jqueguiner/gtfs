@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Miejskiego w Warszawie",
+    "country": "PL",
+    "subdivision": "Masovian Voivodeship",
+    "city": "Sochocin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mkuran.pl/gtfs/warsaw/alerts.pb",
+    "mdb_id": "rt-ve-f-u3q-warszawski~transport~publiczny~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

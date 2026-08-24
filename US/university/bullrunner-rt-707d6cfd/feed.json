@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bullrunner rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "University"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/usf/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dhvrs-bullrunner~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

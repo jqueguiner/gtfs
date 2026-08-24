@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "London Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Delaware"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.ltconline.ca/Alert/Alerts.pb",
+    "mdb_id": "rt-al-f-dpwh-londontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

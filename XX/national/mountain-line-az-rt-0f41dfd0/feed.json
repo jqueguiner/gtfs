@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mountain line az rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mountainline.syncromatics.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-mountain~line~az~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

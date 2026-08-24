@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "washingtonparkshuttle or us alerts",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Portland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/washingtonparkshuttle-or-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-c20dz-washingtonparkshuttle~or~us~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

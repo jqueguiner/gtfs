@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kingcountymetro rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/kcm-alerts-realtime-prod/tripupdates.pb",
+    "mdb_id": "rt-tr-f-kingcountymetro~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "qline mi rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/detroit-m1-rail/gtfs-rt-alerts/",
+    "mdb_id": "rt-al-f-qline~mi~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

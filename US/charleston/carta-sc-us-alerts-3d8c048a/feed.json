@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "carta sc us alerts",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Charleston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/carta-sc-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-djz4-carta~sc~us~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA Metro-North Railroad",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Brinckerhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/mnr%2Fgtfs-mnr",
+    "mdb_id": "rt-tr-f-mta~nyc~rt~mnr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

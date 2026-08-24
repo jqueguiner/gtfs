@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "octranspo rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Thurso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nextrip-public-api.azure-api.net/octranspo/gtfs-rt-tp/v1/TripUpdates",
+    "mdb_id": "rt-tr-f-f24-octranspo~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

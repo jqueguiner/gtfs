@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mwasalat rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.mwasalat.om/data/gtfs/trip-updates.pb",
+    "mdb_id": "rt-tr-f-mwasalat~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

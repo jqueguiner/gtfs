@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus respire rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=iledere75923021",
+    "mdb_id": "rt-tr-f-zenbus~respire~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

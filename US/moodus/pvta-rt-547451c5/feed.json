@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pvta rt",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Moodus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustracker.pvta.com/infopoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-drk-pvta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

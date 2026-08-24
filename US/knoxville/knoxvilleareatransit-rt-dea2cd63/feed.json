@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "knoxvilleareatransit rt",
+    "country": "US",
+    "subdivision": "Tennessee",
+    "city": "Knoxville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://knoxville.syncromatics.com/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-dnkk-knoxvilleareatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

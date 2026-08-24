@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ktmb rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/ktmb",
+    "mdb_id": "rt-ve-f-ktmb~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "browardcountytransit tracktrolley rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Weston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tcbct.tracktrolley.com/api/v1/key/3e1f2497/agency/BCT/command/gtfs-rt/vehiclePositions",
+    "mdb_id": "rt-ve-f-dhw-browardcountytransit~tracktrolley~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

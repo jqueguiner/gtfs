@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mid mon valley transit authority pa rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-mid~mon~valley~transit~authority~pa~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

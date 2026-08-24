@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Arlington Transit",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Arlington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.arlingtontransit.com/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-art~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

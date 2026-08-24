@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "portauthorityofalleghenycounty bus rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Glenshaw"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://truetime.rideprt.org/gtfsrt-bus/trips",
+    "mdb_id": "rt-tr-f-dppn-portauthorityofalleghenycounty~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

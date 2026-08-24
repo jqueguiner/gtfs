@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yakimatransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Kittitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+    "mdb_id": "rt-tr-f-c26-yakimatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

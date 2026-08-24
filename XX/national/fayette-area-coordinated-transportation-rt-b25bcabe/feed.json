@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "fayette area coordinated transportation rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fact.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-fayette~area~coordinated~transportation~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "west hollywood rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webservices.umoiq.com/api/gtfs-rt/v1/vehicle-positions/west-hollywood",
+    "mdb_id": "rt-ve-f-west~hollywood~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

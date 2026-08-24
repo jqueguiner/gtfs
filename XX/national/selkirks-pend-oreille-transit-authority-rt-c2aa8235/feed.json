@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "selkirks pend oreille transit authority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/spotbus/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-selkirks~pend~oreille~transit~authority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

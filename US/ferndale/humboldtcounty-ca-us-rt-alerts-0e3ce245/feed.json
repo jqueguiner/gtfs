@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "humboldtcounty ca us rt alerts",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ferndale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/humboldtcounty-ca-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-9pp-humboldtcounty~ca~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

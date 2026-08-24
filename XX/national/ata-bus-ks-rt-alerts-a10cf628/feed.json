@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ata bus ks rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/flint-hills-ata/gtfs-rt-alerts/",
+    "mdb_id": "rt-al-f-ata~bus~ks~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

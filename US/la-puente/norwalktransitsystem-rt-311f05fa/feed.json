@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "norwalktransitsystem rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "La Puente"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nts.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-9qh1-norwalktransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

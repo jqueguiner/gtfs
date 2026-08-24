@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mwasalat rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.mwasalat.om/data/gtfs/vehicle-positions.pb",
+    "mdb_id": "rt-ve-f-mwasalat~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

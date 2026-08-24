@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Saskatoon Transit",
+    "country": "CA",
+    "subdivision": "Saskatchewan",
+    "city": "Saskatoon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apps2.saskatoon.ca/app/data/Alert/Alerts.pb",
+    "mdb_id": "rt-al-f-saskatoon~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

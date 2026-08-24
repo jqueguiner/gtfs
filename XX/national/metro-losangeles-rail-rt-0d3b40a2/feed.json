@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "metro losangeles rail rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/lametro-rail/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-metro~losangeles~rail~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

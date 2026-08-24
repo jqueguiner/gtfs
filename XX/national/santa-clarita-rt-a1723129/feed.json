@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "santa clarita rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://apps.santaclaritatransit.com/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+    "mdb_id": "rt-tr-f-santa~clarita~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

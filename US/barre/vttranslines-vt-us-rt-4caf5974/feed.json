@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "vttranslines vt us rt",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Barre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/vermont-translines/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dru-vttranslines~vt~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

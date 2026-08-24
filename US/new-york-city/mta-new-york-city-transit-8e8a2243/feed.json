@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA New York City Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/nyct%2Fgtfs",
+    "mdb_id": "rt-tr-f-mta~nyc~rt~subway~1~2~3~4~5~6~7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

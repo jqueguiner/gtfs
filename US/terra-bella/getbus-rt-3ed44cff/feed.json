@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "getbus rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Terra Bella"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://get.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-9q7-getbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

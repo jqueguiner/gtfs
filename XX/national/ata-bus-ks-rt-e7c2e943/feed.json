@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ata bus ks rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/flint-hills-ata/gtfs-rt-vehicle-positions/",
+    "mdb_id": "rt-ve-f-ata~bus~ks~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

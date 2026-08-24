@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand River Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Guelph"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webapps.regionofwaterloo.ca/api/grt-routes/api/alerts",
+    "mdb_id": "rt-al-f-grt~alerts~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

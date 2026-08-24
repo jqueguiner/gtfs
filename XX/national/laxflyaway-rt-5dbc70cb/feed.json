@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "laxflyaway rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://laxflyaway.transloc.com/subscriptions/gtfsrt/vehicles.ashx",
+    "mdb_id": "rt-ve-f-laxflyaway~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

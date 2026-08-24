@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "takasakicity yosiibus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TakasakiCity_yosiibus_trip_update",
+    "mdb_id": "rt-tr-f-takasakicity~yosiibus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

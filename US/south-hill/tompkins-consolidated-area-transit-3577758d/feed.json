@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tompkins Consolidated Area Transit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "South Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimetcatbus.availtec.com/InfoPoint/GTFS-Realtime.ashx?&Type=Alert",
+    "mdb_id": "rt-al-f-tompkinsconsolidatedareatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

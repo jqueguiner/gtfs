@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "clean air express ca us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://lat-long-prototype.wl.r.appspot.com/vehicle-positions.pb?agency=santa-barbara-clean-air-express",
+    "mdb_id": "rt-ve-f-clean~air~express~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

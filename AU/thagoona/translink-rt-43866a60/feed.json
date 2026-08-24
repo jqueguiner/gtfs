@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "translink rt",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Thagoona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/api/realtime/SEQ/TripUpdates",
+    "mdb_id": "rt-tr-f-r7h-translink~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

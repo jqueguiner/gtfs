@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mybas rapid rail kl rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-rail-kl",
+    "mdb_id": "rt-ve-f-mybas~rapid~rail~kl~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

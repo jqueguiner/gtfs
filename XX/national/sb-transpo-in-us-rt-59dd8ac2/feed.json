@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sb transpo in us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/transpo/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-sb~transpo~in~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "indygo rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.indygo.net/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate",
+    "mdb_id": "rt-tr-f-indygo~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

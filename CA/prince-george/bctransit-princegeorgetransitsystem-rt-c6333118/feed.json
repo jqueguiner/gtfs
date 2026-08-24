@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit princegeorgetransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Prince George"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=22",
+    "mdb_id": "rt-al-f-c38d-bctransit~princegeorgetransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

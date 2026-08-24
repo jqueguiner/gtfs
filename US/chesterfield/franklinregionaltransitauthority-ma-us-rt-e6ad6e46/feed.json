@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "franklinregionaltransitauthority ma us rt",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Chesterfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/frta/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-drs-franklinregionaltransitauthority~ma~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

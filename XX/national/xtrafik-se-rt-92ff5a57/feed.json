@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "xtrafik se rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-trip-updates/",
+    "mdb_id": "rt-tr-f-xtrafik~se~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

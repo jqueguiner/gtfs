@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Virginia Railway Express",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Dunkirk Town Center"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.vre.org/containercdngtfsupload/TripUpdateFeed",
+    "mdb_id": "rt-tr-f-vre~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

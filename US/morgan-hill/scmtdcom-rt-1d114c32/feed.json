@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "scmtdcom rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Morgan Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.scmetro.org/gtfsrt/alerts",
+    "mdb_id": "rt-al-f-9q9-scmtdcom~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

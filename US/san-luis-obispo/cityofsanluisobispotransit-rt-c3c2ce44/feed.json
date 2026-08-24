@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cityofsanluisobispotransit rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "San Luis Obispo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://slocity.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+    "mdb_id": "rt-tr-f-9q60w-cityofsanluisobispotransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

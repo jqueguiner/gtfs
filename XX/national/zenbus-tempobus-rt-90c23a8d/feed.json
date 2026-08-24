@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus tempobus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=16i2434229",
+    "mdb_id": "rt-ve-f-zenbus~tempobus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

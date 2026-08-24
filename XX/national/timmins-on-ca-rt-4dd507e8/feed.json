@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "timmins on ca rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-timmins/alerts.pb",
+    "mdb_id": "rt-al-f-timmins~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

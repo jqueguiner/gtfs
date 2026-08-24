@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "athenspublictransit rt",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Athens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/athenstransit/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dnvx-athenspublictransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

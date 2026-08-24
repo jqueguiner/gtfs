@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "jacksonvilletransportationauthority rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Jacksonville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustime.jtafla.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-djmu-jacksonvilletransportationauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

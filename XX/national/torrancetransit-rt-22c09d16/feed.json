@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "torrancetransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.mybusinfo.com/gtfsrt/alerts",
+    "mdb_id": "rt-al-f-torrancetransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

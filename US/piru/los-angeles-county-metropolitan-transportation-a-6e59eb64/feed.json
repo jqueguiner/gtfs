@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Los Angeles County Metropolitan Transportation Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Piru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/la-alerts-prod/alerts.pb",
+    "mdb_id": "rt-al-f-metro~losangeles~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus sel et vermois rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=sel-et-vermois",
+    "mdb_id": "rt-ve-f-zenbus~sel~et~vermois~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "banning pass transit rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/banning-ca-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-banning~pass~transit~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

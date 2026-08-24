@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "brockton ma us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/brockton/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-brockton~ma~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

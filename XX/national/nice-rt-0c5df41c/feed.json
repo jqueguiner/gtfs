@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nice rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://nicebus.com/downloads/gtfs/NYC_NICE.proto",
+    "mdb_id": "rt-al-f-nice~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

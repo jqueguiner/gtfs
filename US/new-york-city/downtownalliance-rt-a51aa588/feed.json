@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "downtownalliance rt",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "New York City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/realtime/nydtc",
+    "mdb_id": "rt-tr-f-dr5re-downtownalliance~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

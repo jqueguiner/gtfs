@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kitsaptransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Manchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kttracker.com/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-c22y-kitsaptransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

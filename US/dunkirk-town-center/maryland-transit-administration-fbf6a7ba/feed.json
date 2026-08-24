@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maryland Transit Administration",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Dunkirk Town Center"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mdotmta-gtfs-rt.s3.amazonaws.com/MARC%20RT/marc-vp.pb",
+    "mdb_id": "rt-ve-f-mtamaryland~marc~train~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

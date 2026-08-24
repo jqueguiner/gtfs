@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yolobusyolocounty rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Davis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://avl.yctd.org/RealTime/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-9qc7-yolobusyolocounty~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

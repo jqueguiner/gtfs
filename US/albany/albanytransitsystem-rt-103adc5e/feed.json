@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "albanytransitsystem rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Albany"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/ocwcog-albany-linn/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-9rbmy-albanytransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

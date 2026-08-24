@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "maui county transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mauibus.org/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-maui~county~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

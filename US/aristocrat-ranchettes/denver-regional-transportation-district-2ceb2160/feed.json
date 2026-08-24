@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Denver Regional Transportation District",
+    "country": "US",
+    "subdivision": "Colorado",
+    "city": "Aristocrat Ranchettes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rtd-denver.com/files/gtfs-rt/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-rtddenver~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

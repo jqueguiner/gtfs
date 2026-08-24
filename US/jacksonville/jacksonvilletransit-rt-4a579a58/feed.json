@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "jacksonvilletransit rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Jacksonville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/jacksonville/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-dq0v-jacksonvilletransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

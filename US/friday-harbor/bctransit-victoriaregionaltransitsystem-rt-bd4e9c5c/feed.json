@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit victoriaregionaltransitsystem rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Friday Harbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=48",
+    "mdb_id": "rt-tr-f-c28-bctransit~victoriaregionaltransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

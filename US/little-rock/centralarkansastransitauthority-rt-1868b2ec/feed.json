@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "centralarkansastransitauthority rt",
+    "country": "US",
+    "subdivision": "Arkansas",
+    "city": "Little Rock"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.rrmetro.cadavl.com/ProfilGtfsRt2_0RSProducer-RRMETRO/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-9ynm-centralarkansastransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

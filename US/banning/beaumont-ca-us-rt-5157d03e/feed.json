@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "beaumont ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Banning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/beaumont/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-9qhc-beaumont~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

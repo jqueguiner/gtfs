@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "laketransit ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Cloverdale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/lake-county/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-9qb-laketransit~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

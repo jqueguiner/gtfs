@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ninertransit rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Mint Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/uncc/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-dnq8-ninertransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

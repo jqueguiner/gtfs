@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tri valleytransit rt",
+    "country": "US",
+    "subdivision": "Vermont",
+    "city": "Barre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/trivalleytransit/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dru-tri~valleytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

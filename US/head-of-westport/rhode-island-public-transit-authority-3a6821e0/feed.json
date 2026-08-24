@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rhode Island Public Transit Authority",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Head of Westport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://realtime.ripta.com:81/api/vehiclepositions?format=gtfs.proto",
+    "mdb_id": "rt-ve-f-ripta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

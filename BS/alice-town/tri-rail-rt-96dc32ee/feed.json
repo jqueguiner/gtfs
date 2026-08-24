@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tri rail rt",
+    "country": "BS",
+    "subdivision": "Bimini",
+    "city": "Alice Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfsr.tri-rail.com/download.aspx?file=trip_updates.pb",
+    "mdb_id": "rt-tr-f-dhx-tri~rail~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

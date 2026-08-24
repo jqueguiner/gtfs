@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tritontransit rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Aguanga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rmp-wapps.ucsd.edu/Shuttles-GTFS/GTFS-rt/Alerts.pb",
+    "mdb_id": "rt-al-f-9muy-tritontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

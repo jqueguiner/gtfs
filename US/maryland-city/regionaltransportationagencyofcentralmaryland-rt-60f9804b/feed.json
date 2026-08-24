@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "regionaltransportationagencyofcentralmaryland rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Maryland City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/rtamaryland/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-dqcq-regionaltransportationagencyofcentralmaryland~r",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

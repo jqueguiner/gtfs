@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "durham area transit authority nc us rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Durham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://godurham.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition",
+    "mdb_id": "rt-ve-f-dnru-durham~area~transit~authority~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

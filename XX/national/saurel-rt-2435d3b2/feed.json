@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "saurel rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=pierre-de-saurel",
+    "mdb_id": "rt-ve-f-stc~pierre~de-saurel~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

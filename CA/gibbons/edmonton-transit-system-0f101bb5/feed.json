@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Edmonton Transit System",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Gibbons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.edmonton.ca/TMGTFSRealTimeWebService/Alert/Alerts.pb",
+    "mdb_id": "rt-al-f-ets~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

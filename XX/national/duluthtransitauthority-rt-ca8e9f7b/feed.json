@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "duluthtransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://duluthtransit.com/gtfsrt/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-duluthtransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

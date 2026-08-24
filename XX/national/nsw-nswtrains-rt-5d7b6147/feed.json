@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nsw nswtrains rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/nswtrains",
+    "mdb_id": "rt-ve-f-nsw~nswtrains~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

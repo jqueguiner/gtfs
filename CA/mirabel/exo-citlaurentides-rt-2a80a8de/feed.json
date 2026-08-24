@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo citlaurentides rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Mirabel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/CITLA/tripupdate",
+    "mdb_id": "rt-tr-f-f257-exo~citlaurentides~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

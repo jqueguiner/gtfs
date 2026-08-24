@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "c tran rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Mill Plain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-rt.c-tran.org/gtfsrealtime/TripUpdates",
+    "mdb_id": "rt-tr-f-c20g-c~tran~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

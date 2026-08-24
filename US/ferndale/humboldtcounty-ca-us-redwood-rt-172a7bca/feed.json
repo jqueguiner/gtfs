@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "humboldtcounty ca us redwood rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ferndale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/redwood/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-9pp-humboldtcounty~ca~us~redwood~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

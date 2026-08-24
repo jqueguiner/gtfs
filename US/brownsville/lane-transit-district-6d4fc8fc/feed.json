@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lane Transit District",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feed.ltd.org/TMGTFSRealTimeWebService/Alert/Alerts.pb",
+    "mdb_id": "rt-al-f-ltd~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

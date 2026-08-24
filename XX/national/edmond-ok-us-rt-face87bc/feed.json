@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "edmond ok us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/edmond/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-edmond~ok~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

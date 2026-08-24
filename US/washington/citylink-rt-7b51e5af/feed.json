@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citylink rt",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Washington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://clk.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+    "mdb_id": "rt-ve-f-dp0r-citylink~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

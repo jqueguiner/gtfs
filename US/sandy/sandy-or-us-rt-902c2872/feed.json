@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sandy or us rt",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Sandy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/sandyor/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-c214-sandy~or~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "towson loop rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/towson/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-towson~loop~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mie kotsu sancoshima rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-vision.jp/realtime/shima_trip_update_v2.bin",
+    "mdb_id": "rt-tr-f-mie~kotsu~sancoshima~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

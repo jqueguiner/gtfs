@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tarc rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-tarc~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

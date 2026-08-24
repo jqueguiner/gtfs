@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kauno viešasis transportas",
+    "country": "LT",
+    "subdivision": "Kauno apskritis",
+    "city": "Karmelava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/kaunas/gtfs_realtime.pb",
+    "mdb_id": "rt-ve-f-u9c0-kaunoviešasistransportas~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

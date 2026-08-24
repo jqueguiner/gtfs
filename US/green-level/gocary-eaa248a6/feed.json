@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GoCary",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Green Level"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gocarylive.org/gtfs/Realtime/GTFS_ServiceAlerts.pb",
+    "mdb_id": "rt-al-f-dnrg-cary~transit~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit comoxvalleytransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Courtenay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=45",
+    "mdb_id": "rt-tr-f-c0z4-bctransit~comoxvalleytransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

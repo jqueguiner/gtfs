@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo citchambly richelieu carignan rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Carignan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/CITCRC/tripupdate",
+    "mdb_id": "rt-tr-f-f25f-exo~citchambly~richelieu~carignan~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

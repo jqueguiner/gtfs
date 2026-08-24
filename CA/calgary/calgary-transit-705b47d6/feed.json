@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Calgary Transit",
+    "country": "CA",
+    "subdivision": "Alberta",
+    "city": "Calgary"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.calgary.ca/download/am7c-qe3u/application%2Foctet-stream",
+    "mdb_id": "rt-ve-f-calgarytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "portauthorityofalleghenycounty train rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Glenshaw"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://truetime.rideprt.org/gtfsrt-train/alerts",
+    "mdb_id": "rt-al-f-dppn-portauthorityofalleghenycounty~train~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

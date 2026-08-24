@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "skagit wa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://strweb.skagittransit.org/GTFS/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-skagit~wa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

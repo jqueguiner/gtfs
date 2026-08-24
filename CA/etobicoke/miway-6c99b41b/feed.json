@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MiWay",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Etobicoke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.miapp.ca/GTFS_RT/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-miway~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

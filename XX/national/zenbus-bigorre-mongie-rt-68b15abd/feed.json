@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus bigorre mongie rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=bigorre-mongie",
+    "mdb_id": "rt-tr-f-zenbus~bigorre~mongie~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

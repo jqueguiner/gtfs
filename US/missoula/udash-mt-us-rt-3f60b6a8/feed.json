@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "udash mt us rt",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Missoula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/montanau/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-c2qft-udash~mt~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

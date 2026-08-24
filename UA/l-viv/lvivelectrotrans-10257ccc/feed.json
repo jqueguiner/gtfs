@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lvivelectrotrans",
+    "country": "UA",
+    "subdivision": "Lviv",
+    "city": "L'viv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://track.ua-gis.com/gtfs/lviv/alerts",
+    "mdb_id": "rt-al-f-u8c5-lvivavtodor~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

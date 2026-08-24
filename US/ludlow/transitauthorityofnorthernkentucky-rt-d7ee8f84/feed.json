@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transitauthorityofnorthernkentucky rt",
+    "country": "US",
+    "subdivision": "Kentucky",
+    "city": "Ludlow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tank.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-dngy-transitauthorityofnorthernkentucky~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

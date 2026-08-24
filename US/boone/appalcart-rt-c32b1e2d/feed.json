@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "appalcart rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Boone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/appalcart.etaspot.net/alerts.pb",
+    "mdb_id": "rt-al-f-dnmy-appalcart~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

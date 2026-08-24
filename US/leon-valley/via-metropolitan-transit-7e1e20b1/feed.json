@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VIA Metropolitan Transit",
+    "country": "US",
+    "subdivision": "Texas",
+    "city": "Leon Valley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.viainfo.net/vehicle/vehiclepositions.pb",
+    "mdb_id": "rt-ve-f-via~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

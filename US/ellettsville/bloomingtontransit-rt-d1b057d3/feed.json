@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bloomingtontransit rt",
+    "country": "US",
+    "subdivision": "Indiana",
+    "city": "Ellettsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/bloomingtontransit.etaspot.net/position_updates.pb",
+    "mdb_id": "rt-ve-f-dnfq-bloomingtontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

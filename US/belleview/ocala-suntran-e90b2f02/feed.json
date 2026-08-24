@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ocala SunTran",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Belleview"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimesuntran.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-djjt-suntran~fl~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "central transit wa rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/central-transit-wa/gtfs-rt-alerts/",
+    "mdb_id": "rt-al-f-central~transit~wa~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

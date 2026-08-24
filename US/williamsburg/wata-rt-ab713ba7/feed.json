@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wata rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Williamsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.wata.cadavl.com/ProfilGtfsRt2_0RSProducer-WATA/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-dq9k-wata~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yubasutter ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Woodland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/yubasutter/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-9qc-yubasutter~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

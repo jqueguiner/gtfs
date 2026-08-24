@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Diego Metropolitan Transit System",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Encinitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://app.mecatran.com/utw/ws/gtfsfeed/alerts/sdmts?apiKey=78161d20210d221e242d3f62056b1e764469525a",
+    "mdb_id": "rt-al-f-mts~rt~mecatrans",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

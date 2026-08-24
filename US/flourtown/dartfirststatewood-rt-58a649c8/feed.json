@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "dartfirststatewood rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Flourtown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/delaware/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-dr4-dartfirststatewood~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "torino rt",
+    "country": "IT",
+    "subdivision": "Aosta Valley",
+    "city": "Challand-Saint-Anselme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://percorsieorari.gtt.to.it/das_gtfsrt/alerts.aspx",
+    "mdb_id": "rt-al-f-u0j-torino~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

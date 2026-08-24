@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "shimoden shimoden bus gtfs realtime jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_alert?acl:consumerKey=",
+    "mdb_id": "rt-al-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

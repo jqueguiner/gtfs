@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Mateo County Transit District",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Moss Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.511.org/Transit/TripUpdates?agency=RG",
+    "mdb_id": "rt-tr-f-sf~bay~area~rg~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

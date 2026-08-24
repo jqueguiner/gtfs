@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit sunshinecoasttransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Gibsons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=18",
+    "mdb_id": "rt-ve-f-c2b1-bctransit~sunshinecoasttransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

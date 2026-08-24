@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus mont tremblant rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tcmt6w8qbuxm",
+    "mdb_id": "rt-tr-f-zenbus~mont~tremblant~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transdev Nîmes Mobilités",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Rodilhan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://92.103.236.106:8085/ProfilGtfsRt2_0RSProducer-TANGO/Alerts.pb",
+    "mdb_id": "rt-al-f-spg1-tango~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

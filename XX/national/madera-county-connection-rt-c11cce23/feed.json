@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "madera county connection rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/madera/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-madera~county~connection~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

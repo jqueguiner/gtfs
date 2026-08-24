@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "muskegon area transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-muskegon~area~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

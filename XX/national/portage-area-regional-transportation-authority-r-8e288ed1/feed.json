@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "portage area regional transportation authority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/parta/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-portage~area~regional~transportation~authority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

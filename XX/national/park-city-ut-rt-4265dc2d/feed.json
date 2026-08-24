@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "park city ut rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.parkcity.cadavl.com/ProfilGtfsRt2_0RSProducer-PARKCITY/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-park~city~ut~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

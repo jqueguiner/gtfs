@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "baton rouge cats rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-baton~rouge~cats~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

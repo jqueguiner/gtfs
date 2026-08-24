@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "westmoreland pa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wcta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert",
+    "mdb_id": "rt-al-f-westmoreland~pa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

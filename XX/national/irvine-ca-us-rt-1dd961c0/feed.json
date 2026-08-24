@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "irvine ca us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/irvine/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-irvine~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

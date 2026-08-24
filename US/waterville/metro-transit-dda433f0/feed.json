@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Transit",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Waterville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://svc.metrotransit.org/mtgtfs/tripupdates.pb",
+    "mdb_id": "rt-tr-f-twin~cities~minnesota~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

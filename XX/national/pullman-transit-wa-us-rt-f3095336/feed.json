@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pullman transit wa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pullmanbusbeacon.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-pullman~transit~wa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

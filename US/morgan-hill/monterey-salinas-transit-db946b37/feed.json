@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Monterey-Salinas Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Morgan Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.mst.org/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-mst~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

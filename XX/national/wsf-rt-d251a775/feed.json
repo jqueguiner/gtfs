@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wsf rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.pugetsound.onebusaway.org/api/gtfs_realtime/alerts-for-agency/95.pb",
+    "mdb_id": "rt-al-f-wsf~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

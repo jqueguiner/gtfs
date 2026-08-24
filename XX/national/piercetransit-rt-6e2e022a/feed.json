@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "piercetransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-updates-for-agency/3.pb",
+    "mdb_id": "rt-tr-f-piercetransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

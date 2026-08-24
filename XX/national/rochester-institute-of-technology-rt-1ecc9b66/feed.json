@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rochester institute of technology rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ritech/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-rochester~institute~of~technology~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

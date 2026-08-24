@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ncsu wolfline nc us rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "West Raleigh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ncstateuni/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dq259-ncsu~wolfline~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

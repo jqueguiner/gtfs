@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport Victoria",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "city": "Mundulla"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opendata.transport.vic.gov.au/opendata/public-transport/gtfs/realtime/v1/tram/service-alerts",
+    "mdb_id": "rt-al-f-r1-ptv~3~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

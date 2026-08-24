@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "abqride rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/abq-ride/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-abqride~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

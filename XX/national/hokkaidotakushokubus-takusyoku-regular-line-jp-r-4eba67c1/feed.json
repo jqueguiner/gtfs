@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hokkaidotakushokubus takusyoku regular line jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update?acl:consumerKey=",
+    "mdb_id": "rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keywesttransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kwtransit.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-keywesttransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

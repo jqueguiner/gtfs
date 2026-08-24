@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "aléop pays de la loire rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-aléop~pays~de~la~loire~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

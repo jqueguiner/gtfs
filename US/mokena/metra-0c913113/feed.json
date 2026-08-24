@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metra",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Mokena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfspublic.metrarr.com/gtfs/public/alerts",
+    "mdb_id": "rt-al-f-metra~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

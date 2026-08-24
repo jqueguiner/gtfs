@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Barrie Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Barrie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.myridebarrie.ca/gtfs/GTFS_VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-barrie~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

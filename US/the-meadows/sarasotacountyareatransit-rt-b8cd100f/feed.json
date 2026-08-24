@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sarasotacountyareatransit rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "The Meadows"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://breezerider.tripsparkhost.com/gtfs/Realtime/GTFS_ServiceAlerts.pb",
+    "mdb_id": "rt-al-f-dhv-sarasotacountyareatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Washington Metropolitan Area Transit Authority",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Dunkirk Town Center"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.wmata.com/gtfs/bus-gtfsrt-tripupdates.pb",
+    "mdb_id": "rt-tr-f-wmata~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

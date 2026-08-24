@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "belleurbansystem rt",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Wind Point"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://racine.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
+    "mdb_id": "rt-ve-f-dp9e-belleurbansystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lincolncounty or us rt alerts",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Waldport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/lincolncounty-or-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-9pz-lincolncounty~or~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

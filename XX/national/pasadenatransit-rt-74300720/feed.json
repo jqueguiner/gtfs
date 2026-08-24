@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pasadenatransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
+    "mdb_id": "rt-ve-f-pasadenatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "university of chicago rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/chicago/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-university~of~chicago~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

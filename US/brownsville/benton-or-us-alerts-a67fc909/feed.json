@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "benton or us alerts",
+    "country": "US",
+    "subdivision": "Oregon",
+    "city": "Brownsville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/benton-or-us/service_alerts.proto",
+    "mdb_id": "rt-al-f-9rb-benton~or~us~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

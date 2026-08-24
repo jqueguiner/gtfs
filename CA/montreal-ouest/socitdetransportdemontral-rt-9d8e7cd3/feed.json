@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "socitdetransportdemontral rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal-Ouest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.stm.info/pub/od/gtfs-rt/ic/v2/vehiclePositions",
+    "mdb_id": "rt-ve-f-f25d-socitdetransportdemontral~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

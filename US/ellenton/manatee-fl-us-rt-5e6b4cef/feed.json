@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "manatee fl us rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Ellenton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimemcat.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-dhvk-manatee~fl~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

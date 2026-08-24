@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Thunder Bay Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Thunder Bay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.nextlift.ca/gtfs-realtime/alerts.pb",
+    "mdb_id": "rt-al-f-thunderbay~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

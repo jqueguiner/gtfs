@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Orange County Transportation Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Encinitas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.octa.net/GTFSRealTime/protoBuf/tripupdates.aspx",
+    "mdb_id": "rt-tr-f-octa~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

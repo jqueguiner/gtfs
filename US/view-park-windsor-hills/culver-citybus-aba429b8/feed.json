@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Culver CityBus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "View Park-Windsor Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nextccbus.org/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-culvercitybus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

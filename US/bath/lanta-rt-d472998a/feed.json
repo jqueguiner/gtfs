@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lanta rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Bath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtimelanta.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate",
+    "mdb_id": "rt-tr-f-dr4r-lanta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

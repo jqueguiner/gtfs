@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lowellregionaltransitauthority rt",
+    "country": "US",
+    "subdivision": "Massachusetts",
+    "city": "Tewksbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.lrta.cadavl.com/ProfilGtfsRt2_0RSProducer-LRTA/TripUpdate.pb",
+    "mdb_id": "rt-tr-f-drt6-lowellregionaltransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

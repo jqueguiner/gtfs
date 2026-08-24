@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keolis orleans fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ara-api.enroute.mobi/tao/gtfs/trip-updates",
+    "mdb_id": "rt-tr-f-keolis~orleans~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

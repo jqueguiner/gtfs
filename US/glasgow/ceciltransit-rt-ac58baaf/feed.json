@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ceciltransit rt",
+    "country": "US",
+    "subdivision": "Delaware",
+    "city": "Glasgow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/cecil/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-dr41-ceciltransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

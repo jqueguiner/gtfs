@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sendaimunicipal bus realtime information jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SendaiMunicipal_bus_realtime_information_alert",
+    "mdb_id": "rt-al-f-sendaimunicipal~bus~realtime~information~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

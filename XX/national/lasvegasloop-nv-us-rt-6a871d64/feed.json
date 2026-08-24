@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lasvegasloop nv us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-lasvegasloop~nv~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

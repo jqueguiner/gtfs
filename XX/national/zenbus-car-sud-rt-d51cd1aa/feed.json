@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus car sud rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=carsud-reunion",
+    "mdb_id": "rt-ve-f-zenbus~car~sud~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

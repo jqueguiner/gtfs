@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit kelownaregionaltransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Kelowna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=47",
+    "mdb_id": "rt-ve-f-c2g5-bctransit~kelownaregionaltransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

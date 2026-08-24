@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "skagit wa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://strweb.skagittransit.org/GTFS/GTFS_TripUpdates.pb",
+    "mdb_id": "rt-tr-f-skagit~wa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

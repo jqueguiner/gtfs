@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "greenlink rt",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Berea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.greenlink.cadavl.com/ProfilGtfsRt2_0RSProducer-GTA/TripUpdate.pb",
+    "mdb_id": "rt-tr-f-dnjq-greenlink~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

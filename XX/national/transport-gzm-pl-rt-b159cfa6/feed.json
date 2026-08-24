@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transport gzm pl rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/vehiclePositions",
+    "mdb_id": "rt-ve-f-transport~gzm~pl~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

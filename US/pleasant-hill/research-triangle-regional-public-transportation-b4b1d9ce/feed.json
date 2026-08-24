@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Research Triangle Regional Public Transportation Authority",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Pleasant Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gotriangle.tripsparkhost.com/gtfs/Realtime/GTFS_TripUpdates.pb",
+    "mdb_id": "rt-tr-f-dnr-tta~regionalbus~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

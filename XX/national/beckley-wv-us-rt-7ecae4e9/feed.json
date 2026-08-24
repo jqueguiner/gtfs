@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "beckley wv us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/beckley/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-beckley~wv~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

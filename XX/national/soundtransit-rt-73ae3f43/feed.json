@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "soundtransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.pugetsound.onebusaway.org/api/gtfs_realtime/alerts-for-agency/40.pb",
+    "mdb_id": "rt-al-f-soundtransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

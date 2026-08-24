@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "duluthtransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://duluthtransit.com/gtfsrt/TripUpdate/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-duluthtransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

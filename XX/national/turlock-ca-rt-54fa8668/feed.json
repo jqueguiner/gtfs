@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "turlock ca rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/turlock/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-turlock~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

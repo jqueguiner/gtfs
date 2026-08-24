@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "norwalktransit rt",
+    "country": "US",
+    "subdivision": "Connecticut",
+    "city": "Norwalk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mystop.norwalktransit.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition",
+    "mdb_id": "rt-ve-f-dr7cc-norwalktransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

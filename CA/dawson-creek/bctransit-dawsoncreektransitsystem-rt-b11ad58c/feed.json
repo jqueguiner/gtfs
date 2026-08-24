@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit dawsoncreektransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Dawson Creek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=27",
+    "mdb_id": "rt-al-f-c3ft0-bctransit~dawsoncreektransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

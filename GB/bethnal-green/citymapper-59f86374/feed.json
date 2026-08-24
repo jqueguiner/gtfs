@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Citymapper",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bethnal Green"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://opendata.citymapper.com/uk-london/trip_updates.pbf",
+    "mdb_id": "rt-tr-f-smartbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

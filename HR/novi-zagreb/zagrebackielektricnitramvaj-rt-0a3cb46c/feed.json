@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zagrebačkielektričnitramvaj rt",
+    "country": "HR",
+    "subdivision": "Grad Zagreb",
+    "city": "Novi Zagreb"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zet.hr/gtfs-rt-protobuf",
+    "mdb_id": "rt-tr-f-u25k-zagrebačkielektričnitramvaj~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

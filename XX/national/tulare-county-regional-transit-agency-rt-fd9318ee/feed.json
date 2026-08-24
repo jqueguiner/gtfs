@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tulare county regional transit agency rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://data.peaktransit.com/gtfsrt/120/TripUpdate.pb",
+    "mdb_id": "rt-tr-f-tulare~county~regional~transit~agency~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

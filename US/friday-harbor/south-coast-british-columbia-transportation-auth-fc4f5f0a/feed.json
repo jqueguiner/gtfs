@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Coast British Columbia Transportation Authority",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Friday Harbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsapi.translink.ca/v3/gtfsposition",
+    "mdb_id": "rt-ve-f-translink~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

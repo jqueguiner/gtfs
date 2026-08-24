@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "matbus rt",
+    "country": "US",
+    "subdivision": "North Dakota",
+    "city": "West Fargo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridematbus.com/gtfs-rt/tripupdates",
+    "mdb_id": "rt-tr-f-cb74-matbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

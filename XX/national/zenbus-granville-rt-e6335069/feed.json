@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus granville rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=granville",
+    "mdb_id": "rt-tr-f-zenbus~granville~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

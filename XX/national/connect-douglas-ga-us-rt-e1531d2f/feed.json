@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "connect douglas ga us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/douglas/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-connect~douglas~ga~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

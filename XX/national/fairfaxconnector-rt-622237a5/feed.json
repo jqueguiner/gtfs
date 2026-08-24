@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "fairfaxconnector rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.fairfaxcounty.gov/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-fairfaxconnector~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

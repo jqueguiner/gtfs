@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "jatran ms us rt",
+    "country": "US",
+    "subdivision": "Mississippi",
+    "city": "Richland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/jtran/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-9vxz-jatran~ms~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

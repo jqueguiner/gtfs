@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keywesttransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://kwtransit.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-keywesttransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit cowichanvalleyregionaltransitsystem rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Friday Harbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=10",
+    "mdb_id": "rt-ve-f-c28-bctransit~cowichanvalleyregionaltransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

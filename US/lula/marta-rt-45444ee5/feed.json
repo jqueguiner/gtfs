@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "marta rt",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Lula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.itsmarta.com/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb",
+    "mdb_id": "rt-tr-f-dnh-marta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "grtaxpress rt",
+    "country": "US",
+    "subdivision": "Georgia",
+    "city": "Lula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myxpress2.xpressga.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-dnh-grtaxpress~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

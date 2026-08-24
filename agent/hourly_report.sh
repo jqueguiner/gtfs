@@ -18,6 +18,7 @@ git pull --quiet --ff-only 2>&1 | tail -1 || true
 if [ -d /tmp/transitland-atlas ]; then git -C /tmp/transitland-atlas pull --quiet || true; \
   else git clone --depth 1 --quiet https://github.com/transitland/transitland-atlas.git /tmp/transitland-atlas || true; fi
 python3 scripts/scrape_transitland.py /tmp/transitland-atlas || true
+python3 scripts/scrape_gtfs_rt.py /tmp/transitland-atlas || true
 python3 scripts/scrape_france.py || true
 python3 scripts/scrape_de.py || true
 for s in scripts/scrape_*.py; do

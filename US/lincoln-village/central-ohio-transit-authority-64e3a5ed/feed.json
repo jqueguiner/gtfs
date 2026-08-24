@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Ohio Transit Authority",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Lincoln Village"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.cota.vontascloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-cota~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

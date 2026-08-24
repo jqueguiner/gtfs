@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "valleyride rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/trip_updates.pb",
+    "mdb_id": "rt-tr-f-valleyride~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

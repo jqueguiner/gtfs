@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keifukubus keifuku rosen jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeifukuBus_keifuku_rosen_trip_update",
+    "mdb_id": "rt-tr-f-keifukubus~keifuku~rosen~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

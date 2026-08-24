@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "harvard university rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/harvard/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-harvard~university~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "translink cairns rt",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Woree"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/api/realtime/CNS/VehiclePositions",
+    "mdb_id": "rt-ve-f-rhzx-translink~cairns~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

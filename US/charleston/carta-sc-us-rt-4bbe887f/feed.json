@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "carta sc us rt",
+    "country": "US",
+    "subdivision": "South Carolina",
+    "city": "Charleston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/bcdcog/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-djz4-carta~sc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

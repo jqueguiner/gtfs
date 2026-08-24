@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "las cruces road runner rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/roadrunner/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-las~cruces~road~runner~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

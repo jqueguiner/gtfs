@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus transavold rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=transavold-stavold",
+    "mdb_id": "rt-tr-f-zenbus~transavold~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

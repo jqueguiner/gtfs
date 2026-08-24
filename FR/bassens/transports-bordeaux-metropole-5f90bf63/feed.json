@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transports Bordeaux Métropole",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Bassens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bdx.mecatran.com/utw/ws/gtfsfeed/alerts/bordeaux?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt",
+    "mdb_id": "rt-al-f-ezzx-tbc~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

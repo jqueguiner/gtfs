@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "durhamregiontransit rt",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Keswick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://drtonline.durhamregiontransit.com/gtfsrealtime/VehiclePositions",
+    "mdb_id": "rt-ve-f-dpz-durhamregiontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

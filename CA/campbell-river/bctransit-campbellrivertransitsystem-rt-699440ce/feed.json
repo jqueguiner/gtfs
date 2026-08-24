@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit campbellrivertransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Campbell River"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=12",
+    "mdb_id": "rt-tr-f-c0yu-bctransit~campbellrivertransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

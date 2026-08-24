@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "qconnect bowen rt",
+    "country": "AU",
+    "subdivision": "Queensland",
+    "city": "Bowen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/api/realtime/BOW/Alerts",
+    "mdb_id": "rt-al-f-rk3qj-qconnect~bowen~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

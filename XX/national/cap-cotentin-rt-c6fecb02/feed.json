@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cap cotentin rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.pysae.com/api/v2/groups/transdev-cotentin/gtfs-rt",
+    "mdb_id": "rt-ve-f-cap~cotentin~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

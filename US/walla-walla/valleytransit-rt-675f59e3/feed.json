@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "valleytransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Walla Walla"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://itransitnw.com/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-c25y-valleytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "corvallis or rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://www.corvallistransit.com/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-corvallis~or~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

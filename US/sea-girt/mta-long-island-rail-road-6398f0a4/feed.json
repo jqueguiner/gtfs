@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MTA Long Island Rail Road",
+    "country": "US",
+    "subdivision": "New Jersey",
+    "city": "Sea Girt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/camsys%2Fall-alerts",
+    "mdb_id": "rt-al-f-mta~nyc~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "stib rt",
+    "country": "BE",
+    "subdivision": "Flanders",
+    "city": "Diegem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/datasets/stibmivb/rt/VehiclePositions",
+    "mdb_id": "rt-ve-f-u151-stib~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

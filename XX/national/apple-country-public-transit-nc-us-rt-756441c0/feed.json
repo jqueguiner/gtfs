@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "apple country public transit nc us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://applecountry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition",
+    "mdb_id": "rt-ve-f-apple~country~public~transit~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

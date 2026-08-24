@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hoboken nj rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/hoboken/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-hoboken~nj~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

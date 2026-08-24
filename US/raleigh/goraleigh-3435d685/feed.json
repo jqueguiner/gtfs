@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GoRaleigh",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Raleigh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.goraleighlive.org/gtfsrt/alerts",
+    "mdb_id": "rt-al-f-dq25-capital~area~transit~nc~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

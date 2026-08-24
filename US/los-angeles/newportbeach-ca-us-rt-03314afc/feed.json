@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "newportbeach ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Los Angeles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/newportbeach/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-9q5cs-newportbeach~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

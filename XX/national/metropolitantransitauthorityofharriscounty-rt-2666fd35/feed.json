@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "metropolitantransitauthorityofharriscounty rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.ridemetro.org/v2alertspb/alerts.pb",
+    "mdb_id": "rt-al-f-metropolitantransitauthorityofharriscounty~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Carris Metropolitana",
+    "country": "PT",
+    "subdivision": "Setubal",
+    "city": "Piedade"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.carrismetropolitana.pt/alerts.pb",
+    "mdb_id": "rt-al-f-carris~metropolitana~pt~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "seattlechildrenshospitalshuttle rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/seattle-childrens/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-seattlechildrenshospitalshuttle~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

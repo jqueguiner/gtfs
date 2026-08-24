@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit westkootenaytransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Nelson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=20",
+    "mdb_id": "rt-al-f-c2u-bctransit~westkootenaytransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

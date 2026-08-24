@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "metrochristchurch rt",
+    "country": "NZ",
+    "subdivision": "Canterbury",
+    "city": "Christchurch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://apis.metroinfo.co.nz/rti/gtfsrt/v1/trip-updates.pb",
+    "mdb_id": "rt-tr-f-rb6b-metrochristchurch~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

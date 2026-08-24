@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Massachusetts Bay Transportation Authority",
+    "country": "US",
+    "subdivision": "New Hampshire",
+    "city": "Newton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.mbta.com/realtime/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-mbta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

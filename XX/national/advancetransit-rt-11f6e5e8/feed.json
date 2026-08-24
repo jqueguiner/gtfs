@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "advancetransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/advance-transit/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-advancetransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

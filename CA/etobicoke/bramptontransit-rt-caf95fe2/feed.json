@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bramptontransit rt",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Etobicoke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-merge.prod.bt-cadavl.com/BramptonTransit/GTFS/merged_VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-dpz2-bramptontransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

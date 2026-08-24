@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "calabasas ca us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://calabasas.tripshot.com/v1/gtfs/realtime/tripUpdate",
+    "mdb_id": "rt-tr-f-calabasas~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

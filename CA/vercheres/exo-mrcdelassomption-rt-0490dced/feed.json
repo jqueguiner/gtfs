@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo mrcdelassomption rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Vercheres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/MRCLASSO/vehicleposition",
+    "mdb_id": "rt-ve-f-f25u-exo~mrcdelassomption~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

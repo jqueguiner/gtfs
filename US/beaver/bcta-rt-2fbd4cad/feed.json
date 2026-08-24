@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bcta rt",
+    "country": "US",
+    "subdivision": "Pennsylvania",
+    "city": "Beaver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bcta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition",
+    "mdb_id": "rt-ve-f-dpnz-bcta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

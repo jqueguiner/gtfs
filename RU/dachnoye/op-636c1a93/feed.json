@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Петербургский метрополитен",
+    "country": "RU",
+    "subdivision": "St.-Petersburg",
+    "city": "Dachnoye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://transport.orgp.spb.ru/Portal/transport/internalapi/gtfs/realtime/vehicle",
+    "mdb_id": "rt-ve-f-saintpetersburg~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

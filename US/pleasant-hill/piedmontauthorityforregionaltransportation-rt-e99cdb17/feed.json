@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "piedmontauthorityforregionaltransportation rt",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Pleasant Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://partbustracker.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-dnr-piedmontauthorityforregionaltransportation~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

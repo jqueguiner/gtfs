@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kingston Transit",
+    "country": "CA",
+    "subdivision": "Ontario",
+    "city": "Kingston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.cityofkingston.ca/gtfs-realtime/tripupdates.pb",
+    "mdb_id": "rt-tr-f-kingston~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

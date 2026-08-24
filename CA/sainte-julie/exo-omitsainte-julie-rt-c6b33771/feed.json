@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "exo omitsainte julie rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sainte-Julie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/OMITSJU/tripupdate",
+    "mdb_id": "rt-tr-f-f25g-exo~omitsainte~julie~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kootenai citylink rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/kootenai/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-kootenai~citylink~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

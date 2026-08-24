@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "baytowntrolley fl rt alerts",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-baytowntrolley~fl~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

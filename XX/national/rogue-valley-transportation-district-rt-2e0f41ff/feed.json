@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rogue valley transportation district rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfsrt.rvtd.org:8085/ProfilGtfsRt2_0RSProducer-RVTD/Alert.pb",
+    "mdb_id": "rt-al-f-rogue~valley~transportation~district~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

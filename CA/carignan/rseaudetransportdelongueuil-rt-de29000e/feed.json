@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rseaudetransportdelongueuil rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Carignan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/RTL/tripupdate",
+    "mdb_id": "rt-tr-f-f25f-rseaudetransportdelongueuil~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

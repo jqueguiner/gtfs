@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "milwaukeecountytransitsystem rt",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Oak Creek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.ridemcts.com/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-dp9-milwaukeecountytransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

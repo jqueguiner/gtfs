@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "thebus hi rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/thebus/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-thebus~hi~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

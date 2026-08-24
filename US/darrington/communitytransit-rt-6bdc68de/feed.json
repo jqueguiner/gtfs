@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "communitytransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Darrington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://s3.amazonaws.com/commtrans-realtime-prod/tripupdates.pb",
+    "mdb_id": "rt-tr-f-c29-communitytransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

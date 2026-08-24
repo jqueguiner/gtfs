@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gis4ufresnogov rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Clovis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gis4u.fresno.gov/TMGTFSRealTimeWebService/Alert/Alerts.pb",
+    "mdb_id": "rt-al-f-9qdc-gis4ufresnogov~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

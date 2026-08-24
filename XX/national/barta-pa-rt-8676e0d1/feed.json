@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "barta pa rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://busfinder.bartabus.com/Infopoint/gtfs-realtime.ashx?type=tripupdate",
+    "mdb_id": "rt-tr-f-barta~pa~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

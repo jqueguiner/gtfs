@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "streamlinetransit mt us rt",
+    "country": "US",
+    "subdivision": "Montana",
+    "city": "Bozeman"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridestreamline.com/gtfs-rt/vehiclepositions",
+    "mdb_id": "rt-ve-f-c815-streamlinetransit~mt~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

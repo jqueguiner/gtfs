@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "collierareatransit cat rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Naples"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cat.cadavl.com:4435/ProfilGtfsRt2_0RSProducer-CAT/TripUpdate.pb",
+    "mdb_id": "rt-tr-f-dht-collierareatransit~cat~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

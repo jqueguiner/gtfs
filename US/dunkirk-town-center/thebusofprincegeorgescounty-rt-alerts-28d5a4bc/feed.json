@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "thebusofprincegeorgescounty rt alerts",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Dunkirk Town Center"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/prince-george-thebus/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-dqc-thebusofprincegeorgescounty~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

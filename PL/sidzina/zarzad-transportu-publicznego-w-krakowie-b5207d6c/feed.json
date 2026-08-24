@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zarząd Transportu Publicznego w Krakowie",
+    "country": "PL",
+    "subdivision": "Lesser Poland Voivodeship",
+    "city": "Sidzina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ztp.krakow.pl/ServiceAlerts_A.pb",
+    "mdb_id": "rt-al-f-ztp~krakow~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "easternsierra ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Lone Pine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/esta/gtfs-rt-vehicle-positions",
+    "mdb_id": "rt-ve-f-9q-easternsierra~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

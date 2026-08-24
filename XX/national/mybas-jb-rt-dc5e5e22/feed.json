@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mybas jb rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-johor",
+    "mdb_id": "rt-ve-f-mybas~jb~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

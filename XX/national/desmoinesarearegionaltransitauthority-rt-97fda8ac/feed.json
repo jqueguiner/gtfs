@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "desmoinesarearegionaltransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ridedart.com/gtfs/real-time/trip-updates",
+    "mdb_id": "rt-tr-f-desmoinesarearegionaltransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

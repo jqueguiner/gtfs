@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "billings mt us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/billings/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-billings~mt~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit squamishtransitsystem rt",
+    "country": "CA",
+    "subdivision": "British Columbia",
+    "city": "Lions Bay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://squamish.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin",
+    "mdb_id": "rt-al-f-c2b6v-bctransit~squamishtransitsystem~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

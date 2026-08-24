@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nashvillemta rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/alert/alerts.pb",
+    "mdb_id": "rt-al-f-nashvillemta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

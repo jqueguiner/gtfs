@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "spokanetransitauthority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsbridge.spokanetransit.com/realtime/TripUpdate/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-spokanetransitauthority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

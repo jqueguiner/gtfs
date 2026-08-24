@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sunsetempiretransportationdistrict rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/setd/gtfs-rt-trip-updates",
+    "mdb_id": "rt-tr-f-sunsetempiretransportationdistrict~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

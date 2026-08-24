@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus capbus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=agdecapbus68429531",
+    "mdb_id": "rt-ve-f-zenbus~capbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

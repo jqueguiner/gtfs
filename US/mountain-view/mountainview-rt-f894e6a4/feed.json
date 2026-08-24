@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mountainview rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Mountain View"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mtma.tripshot.com/v1/gtfs/realtime/feed/mvgo?types=TripUpdate",
+    "mdb_id": "rt-tr-f-9q9hy-mountainview~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "smtd rt",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "New Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://ride.smtd.org/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-dp04-smtd~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
