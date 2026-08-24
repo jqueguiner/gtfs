@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Jateng (BRT Jateng / Dishub Prov. Jawa Tengah)",
+  "city": "Semarang",
+  "cc": "ID",
+  "confidence": 0.45,
+  "counts": {
+    "stops": 30,
+    "routes": 3,
+    "trips": 6,
+    "stop_times": 60
+  },
+  "notes": "Trans Jateng BRT, Kedungsepur agglomeration cluster, 3 Semarang-area corridors built: K1 Semarang(Tawang/TIC Pemuda)-Bawen, K2 Mangkang-Bahurekso (Kendal) via RTH Weleri, K3/K6 Penggaron-Godong (Grobogan) via Gubug. Route structure, terminals, operating hours and headway (10-15 min K2, 10-20 min K3) are well-evidenced from detik.com, kumparan, PPID Jateng launch page and IDN Times. Stop-time trips built as one representative bus per direction per corridor at published clock times using ~15-min running assumptions. LIMITATIONS: full ordered ~40-stop halte lists are only partially published; only named/landmark haltes with reliable geocodes are included as timed stops (terminals + major alun-alun/pasar/station landmarks). Intermediate haltes without a verifiable coordinate are omitted rather than invented. Coordinates: terminals from OSM/Wikivoyage/Wikipedia (WGS-84); intermediate landmark coords are best-effort geocodes of the named place (alun-alun, stasiun, pasar) along the known Pantura / Semarang-Solo / Semarang-Purwodadi roads; a few generic haltes left null. Real-time exact per-halte schedule is only in the operator's 'Si Anteng' app, not public — hence moderate confidence. Fares Rp4000 umum / Rp2000 pelajar (not in GTFS). Source Moovit page returned blank on fetch. Service daily (Mon-Sun).",
+  "source": "llm-normalized"
+}

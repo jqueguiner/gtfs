@@ -1,0 +1,14 @@
+{
+  "operator": "Madhya Pradesh Metro Rail Corporation Limited (MPMRCL) — Indore Metro Yellow Line",
+  "city": "Indore",
+  "cc": "IN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 5,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 10
+  },
+  "notes": "Indore Metro Yellow Line — only the 6 km \"Super Priority Corridor\" (5 stations, Devi Ahilya Bai Holkar Terminal – Veerangana Jhalkari Bai) is operational since 31 May 2025 (commercial 1 Jun 2025). The remaining 24 of 29 planned stations (through Airport, 33.53 km) are under construction/approved and are NOT included, as they carry no service. Station order and operational status from Wikipedia + themetrorailguy + myindoremetro + yometro. All 5 coordinates are OSM/Wikidata WGS-84 (Q134725694/95/96/97/98), monotonic SW→NE along the corridor. Service model: launch schedule = 08:00–20:00 daily, 30-min headway, ~25 trips/direction (50/day). One representative trip per direction is provided at first departure (08:00); segment run times (~13.5 min end-to-end over 5.9 km) are estimated from corridor length since per-station times are not published. Some later 2025 listings cite revised 06:00–22:00 / 10-min frequency, but the launch 08:00–20:00 / 30-min figures are used as best-attested. Fares not announced by MPMRCL at time of scrape. Confidence 0.62: stops/order/coordinates are solid; exact timetable (headway, dwell, per-hop times) is approximated.",
+  "source": "llm-normalized"
+}

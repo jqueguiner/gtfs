@@ -1,0 +1,14 @@
+{
+  "operator": "Adana Metro (Adana Metropolitan Municipality, Ulaşım A.Ş.)",
+  "city": "Adana",
+  "cc": "TR",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 26
+  },
+  "notes": "Single metro line M1 (Hastane <-> Akıncılar), 13 stations, opened 2010-05-14, 13.5 km, ~21 min end-to-end. Service span 06:00-23:30 daily; headway 10 min peak / 15 min off-peak (Wikipedia; official page ulasimbilgi.adana.bel.tr is JS-rendered and returned no static schedule). Station names and fixed order from Wikipedia + official metro page. All 13 stop coordinates are OSM WGS-84 railway=station (subway=yes) nodes queried via overpass.openstreetmap.fr (overpass-api.de was network-blocked in this env). Two representative trips built (one per direction) departing 06:00 with realistic cumulative inter-station times summing to ~21 min; calendar = daily. Actual per-trip clock times beyond the representative trips and exact per-station dwell/run times are modeled from the published headway + end-to-end run time, not scraped per-departure, hence confidence <1. Wikipedia lists station 2 as \"Anadolu Lisesi\" / OSM as \"Kurttepe - Anadolu Lisesi\" (same station).",
+  "source": "llm-normalized"
+}

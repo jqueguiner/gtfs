@@ -1,0 +1,14 @@
+{
+  "operator": "Surat Sitilink Limited (BRTS + City Bus)",
+  "city": "Surat",
+  "cc": "IN",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 56,
+    "routes": 2,
+    "trips": 4,
+    "stop_times": 114
+  },
+  "notes": "Two main Surat BRTS trunk corridors built (highest-ridership, best-documented mode). Route 11 = Corridor 1 Udhna Darwaza-Sachin GIDC (19 stops); Route 12 = Corridor 2 ONGC Colony-Sarthana Nature Park (38 stops). Ordered stop sequences and terminals are directly evidenced from citybustimetable.com per-route pages (route 11 & 12) and corroborated by Wikipedia (Surat BRTS: Corridor 1 = Udhana Darwaja-Sachin GIDC 10.2km; Corridor 2 = ONGC Colony-Canal Road-Sarthana 19.7km) and thetravelsaga. Service hours evidenced: route 11 first 06:00 / last ~21:41; route 12 first 06:00 / last ~22:07; both operate daily. Frequency documented as ~5-15 min peak; modeled as an even 10-min headway across service hours in the full build (out.json: 384 trips, 10982 stop_times). This structured payload carries 4 representative trips (one per direction per route, the 06:00 departure) with full ordered stop_times; the full even-headway feed is at /home/ubuntu/adresses/gtfs_surat/out.json. KHARWAR NAGAR is shared between both corridors and deduped by name (stop S11_01). CONFIDENCE 0.55 because: stop ORDER/NAMES and terminals are well-sourced, but stop_lat/stop_lon are INTERPOLATED (WGS-84) between geocoded anchors (terminals + major junctions: ONGC Colony/Magdalla 21.142,72.750; VNSGU 21.153,72.783; Sarthana 21.230,72.899; Udhna 21.185,72.845; Pandesara 21.152,72.842; Sachin GIDC 21.085,72.875) rather than exact per-stop OSM nodes, and per-stop times are even-headway approximations not the published timetable. City-bus feeder routes (200/700/900 series) were not built - only sparse/estimated data available; BRTS trunk prioritized per instructions. Sources: en.wikipedia.org/wiki/Surat_Bus_Rapid_Transit_System, citybustimetable.com routes 11/12/12B, thetravelsaga.in. suratsitilink.org unreachable (expired TLS cert).",
+  "source": "llm-normalized"
+}

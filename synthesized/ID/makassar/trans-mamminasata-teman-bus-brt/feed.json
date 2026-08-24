@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Mamminasata (Teman Bus BRT)",
+  "city": "Makassar",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 269,
+    "routes": 4,
+    "trips": 8,
+    "stop_times": 10
+  },
+  "notes": "Trans Mamminasata = the Teman Bus BRT (Buy-the-Service scheme, Kemenhub/BPTD) in the Makassar metro (Mamminasata) area, Sulawesi Selatan, Indonesia. No open GTFS exists; built from Indonesian news/travel articles (detik.com, hermananis.com), id.wikipedia + OSM geocoding.\n\nEVIDENCED: 4 operating corridors with COMPLETE ordered halte lists published on hermananis.com — K1 Mall Panakukkang–Pelabuhan Galesong (94 halte), K2 Mall Panakkukang–Bandara Sultan Hasanuddin (69 halte), K3 Kampus 2 PNUP–Kampus 2 PIP (63 halte), K4 Kampus Teknik Unhas Gowa–Mall Panakukkang (50 halte). 269 unique stops. Operating hours 06:00–23:00 WITA (UTC+8) per hermananis/traveloka. Corridor numbering differs between detik (Koridor 1/2/5) and hermananis (K1–K4); used hermananis numbering because it carried the full verbatim sequences. Note Wikipedia says most tabulated corridors were suspended as of 1 Jan 2025 (only a UNHAS campus shuttle 05:00–22:00 confirmed running), so present-day operation is uncertain; this feed reflects the published 2024 corridor design.\n\nESTIMATED (lowers confidence): No published timetable/headway in any source. Generated ONE representative trip per direction per corridor departing 06:00 WITA with even ~2 min/stop spacing — these clock times are SYNTHETIC placeholders, not real schedule times. A production feed should use frequencies.txt (BRT runs on headways). calendar = daily Mon–Sun (sources say daily; no weekend breakout). Return-direction trips modeled as reversal of the outbound stop sequence; source return lists for K1/K2/K4 were not exact reversals, so on-street return paths may differ slightly.\n\nGEOCODING: 31 of 269 stops geocoded to WGS-84 via OSM Nominatim (corridor endpoints + major landmarks: malls, Pantai Losari, Balai Kota, CCC, airport, Stadion Barombong, campuses PNUP/PIP/Unhas-Gowa, markets, Samsat, Terminal Daya). Remaining ~238 minor haltes (shops, Alfamart/Indomaret, small residences) could not be reliably geocoded by name and are left without coordinates per instructions (never invent). Paired directional landmark stops (e.g. '...2') reuse their pair's coordinate. route_type=3 (bus/BRT).",
+  "source": "llm-normalized"
+}

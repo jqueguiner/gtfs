@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cebu Bus Rapid Transit (CBRT / CEBRT)",
+    "country": "PH",
+    "subdivision": null,
+    "city": "Cebu City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/cebu-city/cebu-bus-rapid-transit-cbrt-cebrt/gtfs/",
+    "mdb_id": "ph-llm-cebu-bus-rapid-transit-cbrt-cebrt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

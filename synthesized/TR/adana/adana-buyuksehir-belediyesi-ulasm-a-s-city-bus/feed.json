@@ -1,0 +1,14 @@
+{
+  "operator": "Adana Büyükşehir Belediyesi - Ulaşım A.Ş. (city bus)",
+  "city": "Adana",
+  "cc": "TR",
+  "confidence": 0.6,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 26
+  },
+  "notes": "METRO/RAIL-FIRST build. The named operator is Adana's municipal transit company, which operates both the city bus network (Kentkart-based, ~103 lines / ~2,831 stops) and the Adana Metro (M1). The bus schedule sources (ulasimbilgi.adana.bel.tr) are a Next.js SPA whose route/stop data is served by a backend API I could not resolve (the Kentkart backend responded \"Tanımsız Bölge\"/undefined-region for every region code tried, and per-line stop lists are not in the static HTML/JS). Per the \"never invent stops that aren't evidenced\" rule, no bus stops/routes are included. Instead I built the fully-evidenced Adana Metro (M1, Hastane<->Akıncılar), which is the highest-ridership, best-documented mode.\n\nDATA PROVENANCE:\n- 13 metro stations, order and station names from English Wikipedia (Adana Metro), north->south: Hastane, Kurttepe-Anadolu Lisesi, Huzurevi, Mavi Bulvar, Yurt, Yeşilyurt, Fatih, Vilayet, İstiklal, Kocavezir, Hürriyet, Cumhuriyet, Akıncılar.\n- stop_lat/stop_lon are WGS-84 from Wikidata (P16=Q1577356, P625) via SPARQL — accurate, not offset.\n- Operating hours 06:00-23:30 every day, headway 10 min peak / 15 min off-peak, 21 min end-to-end — from Wikipedia/Wikidata.\n\nMODELING:\n- Two representative trips (one per direction). Per-station stop_times are computed by distributing the published 21-minute end-to-end running time proportionally to inter-station great-circle distance (total 12.5 km) plus ~20s dwell at intermediate stations. Both trips depart the terminus at 06:00:00. A full stop_times.txt with even 10-15 min headways across the 06:00-23:30 span can be expanded from these two templates; only the representative pair is included here.\n- calendar: single service \"DAILY\" Mon-Sun, 20260101-20261231.\n\nCONFIDENCE 0.6: metro geometry/station-set/order/coords and the service window+headway are faithful to reality; the exact per-station clock times are modeled (proportional) rather than taken from a published minute-by-minute timetable, and the bus network the operator name literally refers to is not represented.",
+  "source": "llm-normalized"
+}

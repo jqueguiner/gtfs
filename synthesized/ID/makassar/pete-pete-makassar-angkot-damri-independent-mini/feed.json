@@ -1,0 +1,14 @@
+{
+  "operator": "Pete-pete (Makassar angkot / DAMRI-independent minibus routes)",
+  "city": "Makassar",
+  "cc": "ID",
+  "confidence": 0.4,
+  "counts": {
+    "stops": 64,
+    "routes": 14,
+    "trips": 56,
+    "stop_times": 274
+  },
+  "notes": "14 angkot route codes (A-J, B1, C1, E1, F1) sourced from dimasprakoso.com and catatannobi.com — two independent street-level itinerary lists that cross-confirm each other. No formal stop layer exists for pete-pete; stops are representative anchors placed at each route's published origin/destination terminals, major named thoroughfares, and the Pasar Sentral/Makassar Mall hub (most routes terminate at Pasar Sentral/Pasar Butung). Coordinates are WGS-84, derived from OSM/known Makassar geography; terminals (Daya, Tamalate/Malengkeri, Panakkukang) and Kampus Unhas Tamalanrea (-5.1322,119.4884) were verified via search. Named-street coordinates are approximate midpoints (not exact stop poles). No published timetable exists — angkot run on-demand ~05:30-21:00, fare ~Rp4000; representative trips are synthesized at 06:00 and 15:00 per direction with ~4min inter-anchor spacing (illustrative, NOT real clock times). petamakassar.com redirected to a dead domain and the IDWS forum + makassarkota.go.id pages carried no extractable route table. Route configs partly date to the mid-2000s and may have changed. Confidence 0.4: route topology and stop ordering are well-evidenced, but coordinates are approximate and times are synthetic.",
+  "source": "llm-normalized"
+}

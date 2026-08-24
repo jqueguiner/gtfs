@@ -1,0 +1,14 @@
+{
+  "operator": "Atal Indore City Transport Service Limited (AICTSL)",
+  "city": "Indore",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 27,
+    "routes": 5,
+    "trips": 10,
+    "stop_times": 76
+  },
+  "notes": "Mode-prioritised build. METRO FIRST: Indore Metro Yellow Line — only the 5-station \"Super Priority Corridor\" (Super Corridor, opened 31 May 2025) is operational; official station names Devi Ahilya Bai Holkar Terminal, Maharani Lakshmi Bai, Rani Avanti Bai Lodhi, Rani Durgavati, Veerangana Jhalkari Bai (the former Gandhi Nagar / Super Corridor 6-3). Operator is MP Metro Rail Corp but included under AICTSL city-transport umbrella. Metro coords interpolated along the confirmed Super Corridor alignment (Gandhi Nagar depot 22.739,75.797 -> SC3 ~22.785,75.835 from Nominatim endpoints); station endpoints WGS-84, intermediates evenly spaced -> ~few-hundred-m uncertainty. Hours 08:00-20:00 (yometro), ~2 min interstation, modelled as one representative trip per direction (headway not published so single trip). route_type=1.\n\nBRTS iBus AB Road corridor (Rajiv Gandhi Sq <-> Niranjanpur, 11.5 km, 22 stops + 4 interchanges per Wikipedia/Grokipedia/research): the two termini and key intermediate squares (Palasia, Geeta Bhavan, Industry House, Navlakha, MY Hospital, Radisson Sq, Vijay Nagar) are geocoded from Nominatim WGS-84. Full official 22-stop ordered sequence was NOT recoverable — citybusindore.com and onefivenine.com both returned HTTP 403, Scribd/PDF not machine-readable via WebFetch. So iBus is modelled with 10 evidenced corridor stops in geographic order, NOT the full 22. Order along AB Road is inferred from stop geography, not an official station-by-station list. route_type=3 (BRT). NOTE: MP High Court ordered the dedicated BRTS corridor dismantled ~Nov 2025 though buses continue.\n\n3 representative city bus routes (R1/R2/R3) built from well-known Indore squares (all Nominatim WGS-84): AB Road/MR10, Rajwada-Khajrana-Palasia, Rajendra Nagar-Junction-Bengali Sq. These are plausible reconstructions connecting real geocoded stops, NOT verified against an official route-sheet (sources blocked), so treated as representative.\n\nNo stops invented — every stop is a geocoded real Indore landmark/square/station. Times are synthetic even-interstation schedules (metro from published hours; bus from typical urban spacing) since per-stop timetables were not machine-accessible. Calendar: metro weekday service + daily bus/BRTS. Confidence 0.42 reflects: metro station identity/hours solid but coords interpolated; BRTS corridor endpoints solid but full stop list and exact timetable unverified; bus routes representative not authoritative. Sources blocked: citybusindore.com (403), onefivenine.com (403), scribd/cloudfront PDF (not parsed).",
+  "source": "llm-normalized"
+}

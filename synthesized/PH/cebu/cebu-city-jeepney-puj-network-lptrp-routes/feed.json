@@ -1,0 +1,14 @@
+{
+  "operator": "Cebu City Jeepney (PUJ) network / LPTRP routes",
+  "city": "Cebu",
+  "cc": "PH",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 24,
+    "routes": 22,
+    "trips": 44,
+    "stop_times": 164
+  },
+  "notes": "Mode is informal jeepney (PUJ) -> route_type 3 (bus). Cebu City has NO metro/LRT/BRT/suburban rail, so nothing higher-priority to build. Route list, origin/destination and via-street prose come from cebudailynews.inquirer.net (route-code guide) corroborated by ph.commutetour.com; LPTRP rationalization (8 PUJ Class-2 + 12 dev routes, approved by LTFRB-7 Sep 2025) from sunstar.com.ph. commutetour returned HTTP 403 to WebFetch; recovered its 06-A street-by-street detail via WebSearch cache. Stop coordinates are WGS-84 from OSM/Wikipedia/geo-search for the named terminals & landmarks (Carbon 10.29142/123.8991, SM City 10.31111/123.91806, Ayala 10.31778/123.905, Fuente, Capitol, Talamban, JY Sq Lahug, Banawa, etc.); downtown points without a precise published fix (Colon, Taboan, Guadalupe Church, Labangon, Basak, Pardo, Inayawan, Mandaue Ibabao, Apas, V. Rama, Osmena, SBT/NBT) are approximate positions within the correct barangay/street — none are null. Only named terminals/via-landmarks are emitted as stops; no fine-grained intermediate stops were invented (the sources have no stop layer). Scheduling: sources give NO clock times or headways, so each of 22 representative high-ridership routes gets one trip per direction, built from the service window start (05:00, typical PUJ hours ~05:00-22:00) with a 3-min hop between consecutive named stops. Confidence 0.42: route identities/endpoints/via-streets are well-evidenced and coords are real WGS-84, but (a) this is a representative subset of the ~100+ route-letter variants, (b) intermediate stop granularity and (c) the timetable are reconstructed, not published.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "KA Andalan Celebes / KA Lontara (Makassar–Parepare commuter rail)",
+  "city": "Makassar",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 14,
+    "routes": 2,
+    "trips": 6,
+    "stop_times": 56
+  },
+  "notes": "Makassar–Parepare commuter rail operated by Konsorsium KA Sulawesi Selatan (PT KAI 70% / PT Sulsel Citra Indonesia 30%), running since 1 Jul 2024. Two published services: KA Andalan Celebes (Mangilu<->Garongkong, avg travel 1h12m) and KA Lontara (Mandai<->Palanro ~95km and Mandai<->Garongkong ~79km, avg travel 1h53m-2h33m). Sources give frequency (\"1x round trip / route\", \"two departures daily: morning & afternoon; ticket offices open 07:00 WITA\") but NO exact per-station clock times were published in the accessible HTML — no timetable table was present on kabarmakassar or Wikipedia. Stop_times are therefore SYNTHESIZED from published average travel times + the morning/afternoon pattern + even inter-station spacing; they reflect the correct station order and realistic durations but are NOT verbatim from the operator's timetable (hence confidence 0.55). Station coordinates are WGS-84 from id.wikipedia/Wikidata infoboxes (all 13 served stations verified). Route ordering: main line runs ...Barru->Takkalasi->Mangkoso->Palanro with Garongkong on a short branch off Barru; Mangilu is a branch off the Ma'rang area (Semen Tonasa). Only stations evidenced as served by the two trains are included; under-construction stations (Tallo, Parangloe, Bungoro, Lumpue, Soreang) are excluded. Ridership context: 116k+ pax Jan-May 2025 (antaranews). SOURCES: en/id Wikipedia (railway + per-station pages), Wikidata, kabarmakassar, antaranews.",
+  "source": "llm-normalized"
+}

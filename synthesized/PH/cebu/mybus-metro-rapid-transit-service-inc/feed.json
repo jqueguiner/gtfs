@@ -1,0 +1,14 @@
+{
+  "operator": "MyBus (Metro Rapid Transit Service Inc.)",
+  "city": "Cebu",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 11,
+    "routes": 7,
+    "trips": 16,
+    "stop_times": 58
+  },
+  "notes": "MyBus Cebu is an air-conditioned city bus service (route_type 3=bus) operated by Metro Rapid Transit Service Inc. under SM Supermalls. No metro/rail exists for this operator, so route-type is bus throughout. Built from sugbo.ph, escapemanila.com, itravelrox.com, cebuinsider.com and cebuinsights.com. 7 routes captured: R1 Parkmall-SM Seaside (with full evidenced intermediate stop list incl. Robinsons Galleria and Compania Maritima; return via SRP/Filinvest simplified to core stops), R2A/R3A Anjo World-SRP feeders, R4 SM City-MCIA, R5 IT Park-MCIA (opened Mar 2025), R6 free Fuente-Seaside, R7 SM mall-hop (Seaside-SM City-SM J Mall). All coordinates are OSM/Wikipedia WGS-84 decimal degrees. Compania Maritima coordinate is approximate (SRP waterfront). Evidenced headways: 20 min for R1/R2A/R3A/R4/R7, hourly for R5/R6. Representative trips generated: first departure + one mid-day for R1; first departure per direction for others, using published operating hours and even-headway/realistic run times. calendar.txt covers all 7 days (MyBus runs daily). CONFIDENCE 0.55: route list and terminals are well-evidenced and geocoded, but exact per-stop clock times are interpolated from headway+operating-hours (not a published stop-by-stop timetable), sources conflict on route numbering/status over time (some routes discontinued/added 2019-2025), and full stop sequences beyond terminals are only partially documented. R2A/R3A intermediate SRP stops omitted (not individually named in sources) - modeled as express terminal-to-terminal.",
+  "source": "llm-normalized"
+}

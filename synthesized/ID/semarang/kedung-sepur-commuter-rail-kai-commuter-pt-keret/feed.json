@@ -1,0 +1,14 @@
+{
+  "operator": "Kedung Sepur commuter rail (KAI Commuter / PT Kereta Api Indonesia)",
+  "city": "Semarang",
+  "cc": "ID",
+  "confidence": 0.9,
+  "counts": {
+    "stops": 8,
+    "routes": 1,
+    "trips": 4,
+    "stop_times": 32
+  },
+  "notes": "Kedung Sepur (Kedungsepur) is a subsidized economy-class local commuter train operated by PT Kereta Api Indonesia between Semarang Poncol and Ngrombo (Grobogan Regency), Central Java. Route ~60-70 km. GAPEKA 2025 timetable (effective 6 Feb 2025): 2 outbound trips (KA 496 07:05, KA 498 13:50 from Semarang Poncol) and 2 inbound trips (KA 495 09:55, KA 497 17:05 from Ngrombo), daily. Full per-station clock times were sourced from the GAPEKA 2025 schedule via 168railway/press aggregators. 8 stations: Semarang Poncol, Semarang Tawang, Alastua, Brumbung, Gubug, Karangjati, Sedadi, Ngrombo (matches Wikipedia stopping-station list; Tegowanu appears on the corridor but is not a Kedung Sepur stop). Stop coordinates are WGS-84 from Wikidata/Wikipedia railway-station nodes. route_type=2 (rail). Timetable source (168railway.com) returned HTTP 403 to direct fetch; times obtained via web search of the same GAPEKA 2025 data and press timetables (liputan6/kompas/detik). Confidence 0.9: exact published clock times per station for all 4 trips; small risk of schedule drift or occasional disruptions (e.g. Jan 2025 flooding between Gubug-Karangjati). Fare flat Rp10,000.",
+  "source": "llm-normalized"
+}

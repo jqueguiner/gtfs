@@ -1,0 +1,14 @@
+{
+  "operator": "Cebu Bus Rapid Transit (CBRT / CEBRT)",
+  "city": "Cebu City",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 18,
+    "routes": 1,
+    "trips": 2,
+    "stop_times": 36
+  },
+  "notes": "Single BRT corridor (~13.6 km) IT Park <-> Il Corso (SRP), partial operations since 2026-03-13, operated for DOTr (interim service branded CiBus, Vallacar Transit). Station list + ordering from CDN commuter guide and brt.ph (both directions consistent, 18 stations). Southbound in the CDN guide additionally lists City di Mare and El Pardo before Il Corso, but the task's canonical ordered list uses the 18 shared stations, so I modeled the 18-station symmetric line (Il Corso as the SRP terminus, which encompasses City di Mare/El Pardo area). Coordinates are WGS-84 from OSM/Wikipedia/known city landmarks along the Osmena Blvd / N. Bacalso / SRP corridor: IT Park terminal, Luz (Ayala/Cebu Business Park), Capitol, Fuente Osmena, CNU, CSBT, CIT, SM Seaside, NUSTAR, Il Corso are directly evidenced; Negros Rd, Samar Loop, Pag-IBIG/Ayala, Ayala South, Sacred Heart, V. Rama, Mambaling, SM Arena are interpolated along the known corridor between evidenced anchors (approximate, +/-300m). Schedule from brt.ph/schedules: weekday 05:30-22:30 (peak 5-7 min, off-peak 10-15 min), weekend 06:00-22:00 (8-12 min). Route_type=3 (BRT is bus-based). Representative trips: one per direction at ~06:00 departure with ~2 min inter-stop spacing (~40 min end-to-end, consistent with reported Il Corso->IT Park ~40 min ride). Fares are distance-based (LTFRB PUB guide, ~P18 min) with free \"Love Bus\" windows 06:00-09:00 and 17:00-20:00. Headway-based service; only one representative trip per direction is materialized here.",
+  "source": "llm-normalized"
+}

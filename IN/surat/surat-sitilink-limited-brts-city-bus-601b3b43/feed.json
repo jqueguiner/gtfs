@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Surat Sitilink Limited (BRTS + City Bus)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Surat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/surat-sitilink-limited-brts-city-bus/gtfs/",
+    "mdb_id": "in-llm-surat-sitilink-limited-brts-city-bus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

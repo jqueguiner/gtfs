@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Semarang (BLU UPTD Trans Semarang)",
+  "city": "Semarang",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 160,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 351
+  },
+  "notes": "Bus BRT feed for Trans Semarang, 8 main corridors (Koridor 1-8), each with one representative trip per direction. Route/stop ORDERING is well-evidenced from detik.com stop-by-stop corridor listings (all 8 corridors, both directions), cross-referenced with PPID/suaramerdeka/Dishub. Service hours (05:30-17:45 for K1-7; K8 05:30-17:30) and ~15-20 min headway are documented; stop_times here use an even ~20-min headway trip spread across the service window (times synthesized, not from a published per-stop timetable, since Trans Semarang publishes frequency not fixed clock times). Coordinates: terminals and major hubs (Mangkang, Tugu Muda, Simpang Lima, Stasiun Tawang, Tanjung Emas, RSUP Kariadi, Undip Tembalang, Unnes Sekaran, Sisemut/Ungaran) geocoded from Wikipedia/Wikidata/lat-long sources (WGS-84). Many intermediate street/halte stops have approximate coordinates interpolated along the corridor from district centroids / known adjacent hubs; a handful left null where truly unknown. Feeder routes (F1-F4) exist but were not built (only main corridors). Circular corridors 3 and 5 modeled as documented loops. Not all 893 Moovit stops individually resolved. Confidence 0.55 reflects strong route topology but synthesized clock times and approximate mid-corridor coordinates.",
+  "source": "llm-normalized"
+}

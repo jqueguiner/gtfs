@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MyBus (Metro Rapid Transit Service Inc.)",
+    "country": "PH",
+    "subdivision": null,
+    "city": "Cebu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PH/cebu/mybus-metro-rapid-transit-service-inc/gtfs/",
+    "mdb_id": "ph-llm-mybus-metro-rapid-transit-service-inc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}
