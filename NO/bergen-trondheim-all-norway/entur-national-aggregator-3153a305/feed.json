@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Entur (national aggregator)",
+    "country": "NO",
+    "subdivision": "Norway (national)",
+    "city": "Bergen/Trondheim/all Norway"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions",
+    "mdb_id": "rtweb-no-entur-national-aggregator",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

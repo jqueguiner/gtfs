@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Intendencia de Montevideo (STM)",
+    "country": "UY",
+    "subdivision": "Montevideo",
+    "city": "Montevideo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.montevideo.gub.uy/buses/rest/stm-online",
+    "mdb_id": "rtweb-uy-intendencia-de-montevideo-st",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

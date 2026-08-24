@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ruter (via Entur)",
+    "country": "NO",
+    "subdivision": "Oslo",
+    "city": "Oslo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions?datasource=RUT",
+    "mdb_id": "rtweb-no-ruter-via-entur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

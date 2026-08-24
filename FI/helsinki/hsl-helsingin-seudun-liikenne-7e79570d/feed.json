@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "HSL (Helsingin seudun liikenne)",
+    "country": "FI",
+    "subdivision": "Uusimaa",
+    "city": "Helsinki"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.hsl.fi/realtime/vehicle-positions/v2/hsl",
+    "mdb_id": "rtweb-fi-hsl-helsingin-seudun-liikenn",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

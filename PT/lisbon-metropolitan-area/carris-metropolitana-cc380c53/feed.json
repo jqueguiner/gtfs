@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Carris Metropolitana",
+    "country": "PT",
+    "subdivision": "Lisboa",
+    "city": "Lisbon (metropolitan area)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.carrismetropolitana.pt/vehicles",
+    "mdb_id": "rtweb-pt-carris-metropolitana",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

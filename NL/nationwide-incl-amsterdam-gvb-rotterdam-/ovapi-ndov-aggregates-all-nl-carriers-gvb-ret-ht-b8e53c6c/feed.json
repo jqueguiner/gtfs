@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi / NDOV (aggregates all NL carriers: GVB, RET, HTM, Arriva, Connexxion, Qbuzz, EBS, Keolis, NS)",
+    "country": "NL",
+    "subdivision": "",
+    "city": "Nationwide (incl. Amsterdam/GVB, Rotterdam/RET, Den Haag/HTM)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs.ovapi.nl/nl/vehiclePositions.pb",
+    "mdb_id": "rtweb-nl-ovapi-ndov-aggregates-all-nl",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SĮ Susisiekimo paslaugos (stops.lt)",
+    "country": "LT",
+    "subdivision": "Vilnius",
+    "city": "Vilnius"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/vilnius/gps_full.txt",
+    "mdb_id": "rtweb-lt-si-susisiekimo-paslaugos-sto",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

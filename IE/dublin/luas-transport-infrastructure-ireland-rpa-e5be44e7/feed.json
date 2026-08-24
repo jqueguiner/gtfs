@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Luas (Transport Infrastructure Ireland / RPA)",
+    "country": "IE",
+    "subdivision": "",
+    "city": "Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://luasforecasts.rpa.ie/xml/get.ashx?action=forecast&stop={abbr}&encrypt=false",
+    "mdb_id": "rtweb-ie-luas-transport-infrastructur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

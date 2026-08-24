@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BVG (Berliner Verkehrsbetriebe) — via transport.rest HAFAS wrapper",
+    "country": "DE",
+    "subdivision": "DE-BE",
+    "city": "Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://v6.bvg.transport.rest/radar?north=52.55&west=13.30&south=52.45&east=13.50&results=256",
+    "mdb_id": "rtweb-de-bvg-berliner-verkehrsbetrieb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

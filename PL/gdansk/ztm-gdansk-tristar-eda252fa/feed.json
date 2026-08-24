@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Gdańsk (Tristar)",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "city": "Gdańsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan2.multimediagdansk.pl/gtfs-rt?feed=vehiclePositions",
+    "mdb_id": "rtweb-pl-ztm-gdansk-tristar",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

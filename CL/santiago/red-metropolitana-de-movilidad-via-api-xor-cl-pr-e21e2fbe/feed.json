@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RED Metropolitana de Movilidad (via api.xor.cl proxy of red.cl SMSBus)",
+    "country": "CL",
+    "subdivision": "Region Metropolitana",
+    "city": "Santiago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.xor.cl/red/bus-stop/{stop_code}",
+    "mdb_id": "rtweb-cl-red-metropolitana-de-movilid",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

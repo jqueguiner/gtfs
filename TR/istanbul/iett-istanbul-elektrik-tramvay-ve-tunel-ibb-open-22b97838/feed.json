@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "IETT (Istanbul Elektrik Tramvay ve Tunel) / IBB Open Data",
+    "country": "TR",
+    "subdivision": "Istanbul",
+    "city": "Istanbul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.ibb.gov.tr/iett/FiloDurum/SeferGerceklesme.asmx",
+    "mdb_id": "rtweb-tr-iett-istanbul-elektrik-tramv",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

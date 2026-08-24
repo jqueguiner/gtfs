@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "iRail (community, backed by NMBS/SNCB data)",
+    "country": "BE",
+    "subdivision": "",
+    "city": "Nationwide (Brussels, Antwerp, Ghent, etc.)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.irail.be/liveboard/?station={name}&format=json",
+    "mdb_id": "rtweb-be-irail-community-backed-by-nm",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

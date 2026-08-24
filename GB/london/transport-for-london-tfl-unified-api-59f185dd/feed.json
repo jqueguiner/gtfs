@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport for London (TfL Unified API)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "London"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tfl.gov.uk/StopPoint/{stopId}/Arrivals",
+    "mdb_id": "rtweb-gb-transport-for-london-tfl-uni",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

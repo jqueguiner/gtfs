@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MPK Wrocław",
+    "country": "PL",
+    "subdivision": "Dolnośląskie",
+    "city": "Wrocław"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mpk.wroc.pl/bus_position",
+    "mdb_id": "rtweb-pl-mpk-wrocaw",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

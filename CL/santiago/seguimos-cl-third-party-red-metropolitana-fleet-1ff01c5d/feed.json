@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Seguimos.cl (third-party, RED Metropolitana fleet)",
+    "country": "CL",
+    "subdivision": "Region Metropolitana",
+    "city": "Santiago"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://velocidades.seguimos.cl/?all-buses-data=1",
+    "mdb_id": "rtweb-cl-seguimos-cl-third-party-red-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

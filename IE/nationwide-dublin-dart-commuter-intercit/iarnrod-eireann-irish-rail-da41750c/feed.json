@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Iarnrod Eireann (Irish Rail)",
+    "country": "IE",
+    "subdivision": "",
+    "city": "Nationwide (Dublin DART/Commuter + intercity)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://api.irishrail.ie/realtime/realtime.asmx/getCurrentTrainsXML",
+    "mdb_id": "rtweb-ie-iarnrod-eireann-irish-rail",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

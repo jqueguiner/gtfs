@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Israel Ministry of Transport (MoT) via Hasadna Open-Bus Stride API",
+    "country": "IL",
+    "subdivision": "",
+    "city": "Nationwide (Tel Aviv, Jerusalem, Haifa, etc.)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100",
+    "mdb_id": "rtweb-il-israel-ministry-of-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

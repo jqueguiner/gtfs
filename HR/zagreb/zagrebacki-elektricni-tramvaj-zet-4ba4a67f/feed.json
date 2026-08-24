@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Zagrebacki elektricni tramvaj (ZET)",
+    "country": "HR",
+    "subdivision": "Grad Zagreb",
+    "city": "Zagreb"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.zet.hr/gtfs-rt-protobuf",
+    "mdb_id": "rtweb-hr-zagrebacki-elektricni-tramva",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

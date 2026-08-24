@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Gdańsk (Tristar; also covers ZKM Gdynia vehicles)",
+    "country": "PL",
+    "subdivision": "Pomorskie",
+    "city": "Gdańsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ckan2.multimediagdansk.pl/gpsPositions?v=2",
+    "mdb_id": "rtweb-pl-ztm-gdansk-tristar-also-cove",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PID / ROPID / Golemio (Operátor ICT)",
+    "country": "CZ",
+    "subdivision": "Praha (Hlavní město)",
+    "city": "Prague"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.golemio.cz/v2/vehiclepositions/gtfsrt/trip_updates.pb",
+    "mdb_id": "rtweb-cz-pid-ropid-golemio-operator-i-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prefeitura do Rio / SMTR (SPPO)",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro (RJ)",
+    "city": "Rio de Janeiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dados.mobilidade.rio/gps/sppo?dataInicial=YYYY-MM-DD+HH:MM:SS&dataFinal=YYYY-MM-DD+HH:MM:SS",
+    "mdb_id": "rtweb-br-prefeitura-do-rio-smtr-sppo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

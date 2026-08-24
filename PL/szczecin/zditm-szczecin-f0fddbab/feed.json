@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZDiTM Szczecin",
+    "country": "PL",
+    "subdivision": "Zachodniopomorskie",
+    "city": "Szczecin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.zditm.szczecin.pl/api/v1/vehicles",
+    "mdb_id": "rtweb-pl-zditm-szczecin",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

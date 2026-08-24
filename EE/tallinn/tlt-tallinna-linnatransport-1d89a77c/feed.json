@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TLT (Tallinna Linnatransport)",
+    "country": "EE",
+    "subdivision": "Harju",
+    "city": "Tallinn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.tallinn.ee/gps.txt",
+    "mdb_id": "rtweb-ee-tlt-tallinna-linnatransport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

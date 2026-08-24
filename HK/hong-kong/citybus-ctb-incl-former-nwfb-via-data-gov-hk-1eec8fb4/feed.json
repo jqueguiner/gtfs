@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Citybus (CTB, incl. former NWFB) via data.gov.hk",
+    "country": "HK",
+    "subdivision": "Hong Kong",
+    "city": "Hong Kong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/002403/1",
+    "mdb_id": "rtweb-hk-citybus-ctb-incl-former-nwfb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

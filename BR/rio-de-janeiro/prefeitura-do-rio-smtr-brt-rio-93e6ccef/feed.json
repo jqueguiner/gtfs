@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Prefeitura do Rio / SMTR (BRT Rio)",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro (RJ)",
+    "city": "Rio de Janeiro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dados.mobilidade.rio/gps/brt",
+    "mdb_id": "rtweb-br-prefeitura-do-rio-smtr-brt-r",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

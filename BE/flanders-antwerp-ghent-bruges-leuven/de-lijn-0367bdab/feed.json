@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "De Lijn",
+    "country": "BE",
+    "subdivision": "Flanders",
+    "city": "Flanders (Antwerp, Ghent, Bruges, Leuven)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.delijn.be/gtfs/v3/realtime?position=true&vehicleid=true",
+    "mdb_id": "rtweb-be-de-lijn",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
