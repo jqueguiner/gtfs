@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Brighton & Hove Buses (Go-Ahead) / Passenger (Arctic) backend",
+    "country": "GB",
+    "subdivision": "",
+    "city": "Brighton & Hove"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://brightonhove.arcticapi.com/network/vehicles",
+    "mdb_id": "rtweb-gb-brighton-hove-buses-go-ahe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

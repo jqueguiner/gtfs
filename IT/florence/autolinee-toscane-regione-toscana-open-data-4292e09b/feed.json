@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane (Regione Toscana open data)",
+    "country": "IT",
+    "subdivision": "Toscana",
+    "city": "Florence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/trip-updates",
+    "mdb_id": "rtweb-it-autolinee-toscane-regione--2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Naolib/TAN (Semitan) / Nantes Métropole",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Nantes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-trip-update",
+    "mdb_id": "rtweb-fr-naolib-tan-semitan-nantes-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "morebus / Go South Coast / Passenger (Arctic)",
+    "country": "GB",
+    "subdivision": "",
+    "city": "Bournemouth/Poole (morebus)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://morebus.arcticapi.com/network/vehicles",
+    "mdb_id": "rtweb-gb-morebus-go-south-coast-pas",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

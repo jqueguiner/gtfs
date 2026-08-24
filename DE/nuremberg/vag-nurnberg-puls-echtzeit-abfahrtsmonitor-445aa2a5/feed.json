@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VAG Nürnberg (PULS Echtzeit-Abfahrtsmonitor)",
+    "country": "DE",
+    "subdivision": "Bayern",
+    "city": "Nuremberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://start.vag.de/dm/api/abfahrten.json/vgn/510",
+    "mdb_id": "rtweb-de-vag-nurnberg-puls-echtzeit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

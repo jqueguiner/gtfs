@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GTT (via 5T S.r.l.)",
+    "country": "IT",
+    "subdivision": "Piemonte",
+    "city": "Turin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://percorsieorari.gtt.to.it/das_gtfsrt/alerts.aspx",
+    "mdb_id": "rtweb-it-gtt-via-5t-s-r-l-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

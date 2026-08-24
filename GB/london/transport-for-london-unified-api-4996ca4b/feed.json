@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport for London (Unified API)",
+    "country": "GB",
+    "subdivision": "ENG",
+    "city": "London"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tfl.gov.uk/Line/{lineId}/Arrivals",
+    "mdb_id": "rtweb-gb-transport-for-london-unifi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

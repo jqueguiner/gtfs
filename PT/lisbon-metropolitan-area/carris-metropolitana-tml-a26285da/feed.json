@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Carris Metropolitana (TML)",
+    "country": "PT",
+    "subdivision": "Lisboa",
+    "city": "Lisbon (metropolitan area)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.carrismetropolitana.pt/v2/alerts.pb",
+    "mdb_id": "rtweb-pt-carris-metropolitana-tml-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bilbobus (Ayuntamiento de Bilbao / CTB)",
+    "country": "ES",
+    "subdivision": "País Vasco / Bizkaia",
+    "city": "Bilbao (city)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bilbobus-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-bilbobus-ayuntamiento-de-b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,1112 @@
+[
+{
+"url": "https://v6.bvg.transport.rest/radar?north=52.55&west=13.30&south=52.45&east=13.50&results=256",
+"cc": "DE",
+"city": "Berlin",
+"subdiv": "DE-BE",
+"provider": "BVG (Berliner Verkehrsbetriebe) — via transport.rest HAFAS wrapper",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://mkuran.pl/gtfs/warsaw/vehicles.pb",
+"cc": "PL",
+"city": "Warsaw",
+"subdiv": "Mazowieckie",
+"provider": "ZTM Warszawa (via mkuran.pl GTFS-RT mirror)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.ztp.krakow.pl/VehiclePositions_T.pb",
+"cc": "PL",
+"city": "Kraków",
+"subdiv": "Małopolskie",
+"provider": "ZTP Kraków (trams)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.ztp.krakow.pl/VehiclePositions_A.pb",
+"cc": "PL",
+"city": "Kraków",
+"subdiv": "Małopolskie",
+"provider": "ZTP Kraków (buses / autobus)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://mpk.wroc.pl/bus_position",
+"cc": "PL",
+"city": "Wrocław",
+"subdiv": "Dolnośląskie",
+"provider": "MPK Wrocław",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://ckan2.multimediagdansk.pl/gpsPositions?v=2",
+"cc": "PL",
+"city": "Gdańsk",
+"subdiv": "Pomorskie",
+"provider": "ZTM Gdańsk (Tristar; also covers ZKM Gdynia vehicles)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://ckan2.multimediagdansk.pl/gtfs-rt?feed=vehiclePositions",
+"cc": "PL",
+"city": "Gdańsk",
+"subdiv": "Pomorskie",
+"provider": "ZTM Gdańsk (Tristar)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile/?file=vehicle_positions.pb",
+"cc": "PL",
+"city": "Poznań",
+"subdiv": "Wielkopolskie",
+"provider": "ZTM Poznań",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www.zditm.szczecin.pl/api/v1/vehicles",
+"cc": "PL",
+"city": "Szczecin",
+"subdiv": "Zachodniopomorskie",
+"provider": "ZDiTM Szczecin",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www.zditm.szczecin.pl/storage/gtfs/gtfs-rt-vehicles.pb",
+"cc": "PL",
+"city": "Szczecin",
+"subdiv": "Zachodniopomorskie",
+"provider": "ZDiTM Szczecin",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/vehiclePositions",
+"cc": "PL",
+"city": "Katowice (GZM metropolis, 57 cities)",
+"subdiv": "Śląskie",
+"provider": "ZTM GZM (Zarząd Transportu Metropolitalnego)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.golemio.cz/v2/vehiclepositions/gtfsrt/vehicle_positions.pb",
+"cc": "CZ",
+"city": "Prague",
+"subdiv": "Praha (Hlavní město)",
+"provider": "PID / ROPID / Golemio (Operátor ICT)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.golemio.cz/v2/vehiclepositions/gtfsrt/trip_updates.pb",
+"cc": "CZ",
+"city": "Prague",
+"subdiv": "Praha (Hlavní město)",
+"provider": "PID / ROPID / Golemio (Operátor ICT)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions?datasource=RUT",
+"cc": "NO",
+"city": "Oslo",
+"subdiv": "Oslo",
+"provider": "Ruter (via Entur)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions",
+"cc": "NO",
+"city": "Bergen/Trondheim/all Norway",
+"subdiv": "Norway (national)",
+"provider": "Entur (national aggregator)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://realtime.hsl.fi/realtime/vehicle-positions/v2/hsl",
+"cc": "FI",
+"city": "Helsinki",
+"subdiv": "Uusimaa",
+"provider": "HSL (Helsingin seudun liikenne)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://transport.tallinn.ee/gps.txt",
+"cc": "EE",
+"city": "Tallinn",
+"subdiv": "Harju",
+"provider": "TLT (Tallinna Linnatransport)",
+"rt_type": "json_positions",
+"rt_format": "text/plain CSV (type,route,lon*1e6,lat*1e6,?,heading,vehicle,...)",
+"needs_auth": false
+},
+{
+"url": "https://www.stops.lt/vilnius/gps_full.txt",
+"cc": "LT",
+"city": "Vilnius",
+"subdiv": "Vilnius",
+"provider": "SĮ Susisiekimo paslaugos (stops.lt)",
+"rt_type": "json_positions",
+"rt_format": "text/plain CSV with header row (Transportas,Marsrutas,ReisoID,MasinosNumeris,Ilguma,Platuma,Greitis,Azimutas,...,ReisoIdGTFS,...)",
+"needs_auth": false
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/sl/VehiclePositions.pb?key={apikey}",
+"cc": "SE",
+"city": "Stockholm",
+"subdiv": "Stockholm",
+"provider": "SL (Storstockholms Lokaltrafik) via Trafiklab/Samtrafiken",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf (.pb)",
+"needs_auth": true
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/skane/VehiclePositions.pb?key={apikey}",
+"cc": "SE",
+"city": "Malmö/Lund",
+"subdiv": "Skåne",
+"provider": "Skånetrafiken via Trafiklab/Samtrafiken",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf (.pb)",
+"needs_auth": true
+},
+{
+"url": "https://api.carrismetropolitana.pt/vehicles",
+"cc": "PT",
+"city": "Lisbon (metropolitan area)",
+"subdiv": "Lisboa",
+"provider": "Carris Metropolitana",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www.zet.hr/gtfs-rt-protobuf",
+"cc": "HR",
+"city": "Zagreb",
+"subdiv": "Grad Zagreb",
+"provider": "Zagrebacki elektricni tramvaj (ZET)",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.sofiatraffic.bg/api/v1/vehicle-positions",
+"cc": "BG",
+"city": "Sofia",
+"subdiv": "Sofia-grad",
+"provider": "Centre for Urban Mobility (CUGT/SUMC) - Sofia Public Transport",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.sofiatraffic.bg/api/v1/trip-updates",
+"cc": "BG",
+"city": "Sofia",
+"subdiv": "Sofia-grad",
+"provider": "Centre for Urban Mobility (CUGT/SUMC) - Sofia Public Transport",
+"rt_type": "trip_updates",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.ibb.gov.tr/iett/FiloDurum/SeferGerceklesme.asmx",
+"cc": "TR",
+"city": "Istanbul",
+"subdiv": "Istanbul",
+"provider": "IETT (Istanbul Elektrik Tramvay ve Tunel) / IBB Open Data",
+"rt_type": "json_positions",
+"rt_format": "soap-xml/json",
+"needs_auth": false
+},
+{
+"url": "http://gtfs.ovapi.nl/nl/vehiclePositions.pb",
+"cc": "NL",
+"city": "Nationwide (incl. Amsterdam/GVB, Rotterdam/RET, Den Haag/HTM)",
+"subdiv": "",
+"provider": "OVapi / NDOV (aggregates all NL carriers: GVB, RET, HTM, Arriva, Connexxion, Qbuzz, EBS, Keolis, NS)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt (protobuf)",
+"needs_auth": false
+},
+{
+"url": "https://api.tfl.gov.uk/StopPoint/{stopId}/Arrivals",
+"cc": "GB",
+"city": "London",
+"subdiv": "England",
+"provider": "Transport for London (TfL Unified API)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "http://api.irishrail.ie/realtime/realtime.asmx/getCurrentTrainsXML",
+"cc": "IE",
+"city": "Nationwide (Dublin DART/Commuter + intercity)",
+"subdiv": "",
+"provider": "Iarnrod Eireann (Irish Rail)",
+"rt_type": "vehicle_positions",
+"rt_format": "xml",
+"needs_auth": false
+},
+{
+"url": "https://api.irail.be/liveboard/?station={name}&format=json",
+"cc": "BE",
+"city": "Nationwide (Brussels, Antwerp, Ghent, etc.)",
+"subdiv": "",
+"provider": "iRail (community, backed by NMBS/SNCB data)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://luasforecasts.rpa.ie/xml/get.ashx?action=forecast&stop={abbr}&encrypt=false",
+"cc": "IE",
+"city": "Dublin",
+"subdiv": "",
+"provider": "Luas (Transport Infrastructure Ireland / RPA)",
+"rt_type": "trip_updates",
+"rt_format": "xml",
+"needs_auth": false
+},
+{
+"url": "https://api.delijn.be/gtfs/v3/realtime?position=true&vehicleid=true",
+"cc": "BE",
+"city": "Flanders (Antwerp, Ghent, Bruges, Leuven)",
+"subdiv": "Flanders",
+"provider": "De Lijn",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt (protobuf/json)",
+"needs_auth": true
+},
+{
+"url": "https://www.montevideo.gub.uy/buses/rest/stm-online",
+"cc": "UY",
+"city": "Montevideo",
+"subdiv": "Montevideo",
+"provider": "Intendencia de Montevideo (STM)",
+"rt_type": "json_positions",
+"rt_format": "geojson",
+"needs_auth": false
+},
+{
+"url": "https://dados.mobilidade.rio/gps/sppo?dataInicial=YYYY-MM-DD+HH:MM:SS&dataFinal=YYYY-MM-DD+HH:MM:SS",
+"cc": "BR",
+"city": "Rio de Janeiro",
+"subdiv": "Rio de Janeiro (RJ)",
+"provider": "Prefeitura do Rio / SMTR (SPPO)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://dados.mobilidade.rio/gps/brt",
+"cc": "BR",
+"city": "Rio de Janeiro",
+"subdiv": "Rio de Janeiro (RJ)",
+"provider": "Prefeitura do Rio / SMTR (BRT Rio)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://velocidades.seguimos.cl/?all-buses-data=1",
+"cc": "CL",
+"city": "Santiago",
+"subdiv": "Region Metropolitana",
+"provider": "Seguimos.cl (third-party, RED Metropolitana fleet)",
+"rt_type": "json_positions",
+"rt_format": "geojson",
+"needs_auth": false
+},
+{
+"url": "https://api.xor.cl/red/bus-stop/{stop_code}",
+"cc": "CL",
+"city": "Santiago",
+"subdiv": "Region Metropolitana",
+"provider": "RED Metropolitana de Movilidad (via api.xor.cl proxy of red.cl SMSBus)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-kl",
+"cc": "MY",
+"city": "Kuala Lumpur",
+"subdiv": "Kuala Lumpur",
+"provider": "Rapid Bus (Prasarana) via data.gov.my",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-mrtfeeder",
+"cc": "MY",
+"city": "Kuala Lumpur",
+"subdiv": "Klang Valley",
+"provider": "Rapid Bus MRT Feeder (Prasarana) via data.gov.my",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang",
+"cc": "MY",
+"city": "George Town",
+"subdiv": "Penang",
+"provider": "Rapid Penang (Prasarana) via data.gov.my",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/ktmb",
+"cc": "MY",
+"city": "Kuala Lumpur / national rail",
+"subdiv": "National",
+"provider": "KTMB (Keretapi Tanah Melayu) via data.gov.my",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-johor",
+"cc": "MY",
+"city": "Johor Bahru",
+"subdiv": "Johor",
+"provider": "BAS.MY / myBAS Johor via data.gov.my",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": false
+},
+{
+"url": "https://rt.data.gov.hk/v2/transport/citybus/eta/CTB/002403/1",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Hong Kong",
+"provider": "Citybus (CTB, incl. former NWFB) via data.gov.hk",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://data.etabus.gov.hk/v1/transport/kmb/stop-eta/A3ADFCDF8487ADB9",
+"cc": "HK",
+"city": "Hong Kong",
+"subdiv": "Hong Kong",
+"provider": "KMB / Long Win Bus via data.gov.hk (etabus)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100",
+"cc": "IL",
+"city": "Nationwide (Tel Aviv, Jerusalem, Haifa, etc.)",
+"subdiv": "",
+"provider": "Israel Ministry of Transport (MoT) via Hasadna Open-Bus Stride API",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://open-bus-stride-api.hasadna.org.il/docs",
+"cc": "IL",
+"city": "Nationwide",
+"subdiv": "",
+"provider": "Hasadna Open-Bus Stride API (Swagger UI)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Rennes",
+"subdiv": "Bretagne",
+"provider": "STAR (Keolis Rennes) / Rennes Métropole",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Rennes",
+"subdiv": "Bretagne",
+"provider": "STAR (Keolis Rennes) / Rennes Métropole",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.explore.star.fr/api/records/1.0/search/?dataset=tco-bus-vehicules-position-tr&rows=1000",
+"cc": "FR",
+"city": "Rennes",
+"subdiv": "Bretagne",
+"provider": "STAR (Keolis Rennes)",
+"rt_type": "json_positions",
+"rt_format": "OpenDataSoft JSON (coordonnees + geometry Point)",
+"needs_auth": false
+},
+{
+"url": "https://bdx.mecatran.com/utw/ws/gtfsfeed/vehicles/bordeaux?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt",
+"cc": "FR",
+"city": "Bordeaux",
+"subdiv": "Nouvelle-Aquitaine",
+"provider": "TBM (Keolis Bordeaux Métropole Mobilités)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://bdx.mecatran.com/utw/ws/gtfsfeed/realtime/bordeaux?apiKey=opendata-bordeaux-metropole-flux-gtfs-rt",
+"cc": "FR",
+"city": "Bordeaux",
+"subdiv": "Nouvelle-Aquitaine",
+"provider": "TBM (Keolis Bordeaux Métropole Mobilités)",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/rla/gtfs/vehicle-positions",
+"cc": "FR",
+"city": "Nice",
+"subdiv": "PACA",
+"provider": "Lignes d'Azur / Métropole Nice Côte d'Azur (enRoute ARA)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/rla/gtfs/trip-updates",
+"cc": "FR",
+"city": "Nice",
+"subdiv": "PACA",
+"provider": "Lignes d'Azur / Métropole Nice Côte d'Azur (enRoute ARA)",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.bus-tracker.fr/gtfs-rt/tcar/vehicle-positions",
+"cc": "FR",
+"city": "Rouen",
+"subdiv": "Normandie",
+"provider": "Astuce / TCAR (Transdev Rouen) — Métropole Rouen Normandie",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/ilevia-lille-gtfs-rt",
+"cc": "FR",
+"city": "Lille",
+"subdiv": "Hauts-de-France",
+"provider": "ilevia (Keolis) / Métropole Européenne de Lille",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Nantes",
+"subdiv": "Pays de la Loire",
+"provider": "Naolib/TAN (Semitan) / Nantes Métropole",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.pb",
+"cc": "FR",
+"city": "Toulouse",
+"subdiv": "Occitanie",
+"provider": "Tisséo Voyageurs / Tisséo Collectivités",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.json",
+"cc": "FR",
+"city": "Toulouse",
+"subdiv": "Occitanie",
+"provider": "Tisséo Voyageurs",
+"rt_type": "trip_updates",
+"rt_format": "GTFS-RT as JSON",
+"needs_auth": false
+},
+{
+"url": "https://data.mobilites-m.fr/api/routers/default/index/stops/{stopId}/stoptimes",
+"cc": "FR",
+"city": "Grenoble",
+"subdiv": "Auvergne-Rhône-Alpes",
+"provider": "M / TAG (SMMAG / Mobilités M, OpenTripPlanner backend)",
+"rt_type": "json_positions",
+"rt_format": "OTP Index JSON (realtime arrivals; realtimeArrival/Departure fields)",
+"needs_auth": false
+},
+{
+"url": "https://gtfsrt.renfe.com/vehicle_positions.json",
+"cc": "ES",
+"city": "Madrid / Barcelona / Valencia / Sevilla / Bilbao / all Cercanías-Rodalies nuclei",
+"subdiv": "national",
+"provider": "Renfe Cercanías / Rodalies",
+"rt_type": "json_positions",
+"rt_format": "GTFS-RT-as-JSON",
+"needs_auth": false
+},
+{
+"url": "https://baliabideak.bizkaia.eus/Bizkaibus/GTFSRealTime/FeedVehiculos.pb",
+"cc": "ES",
+"city": "Bilbao / Bizkaia province",
+"subdiv": "País Vasco / Bizkaia",
+"provider": "Bizkaibus (CTB - Consorcio de Transportes de Bizkaia)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bilbobus-vehicle-positions.pb",
+"cc": "ES",
+"city": "Bilbao (city)",
+"subdiv": "País Vasco / Bizkaia",
+"provider": "Bilbobus (Ayuntamiento de Bilbao / CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/metro-bilbao-vehicle-positions.pb",
+"cc": "ES",
+"city": "Bilbao (metro)",
+"subdiv": "País Vasco / Bizkaia",
+"provider": "Metro Bilbao (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://datosabiertos.malaga.eu/recursos/transporte/EMT/EMTlineasUbicaciones/lineasyubicaciones.csv",
+"cc": "ES",
+"city": "Málaga",
+"subdiv": "Andalucía",
+"provider": "EMT Málaga (Ayuntamiento de Málaga open data)",
+"rt_type": "json_positions",
+"rt_format": "CSV (live GPS positions)",
+"needs_auth": false
+},
+{
+"url": "https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&returnGeometry=true&f=json",
+"cc": "ES",
+"city": "Valencia",
+"subdiv": "Comunitat Valenciana",
+"provider": "EMT Valencia (Geoportal VLCi / ArcGIS)",
+"rt_type": "json_positions",
+"rt_format": "ArcGIS REST JSON (Esri FeatureSet)",
+"needs_auth": false
+},
+{
+"url": "https://openapi.emtmadrid.es/v1/bus/servicealerts/proto",
+"cc": "ES",
+"city": "Madrid",
+"subdiv": "Comunidad de Madrid",
+"provider": "EMT Madrid — GTFS-RT",
+"rt_type": "alerts",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://romamobilita.it/sites/default/files/rome_rtgtfs_vehicle_positions_feed.pb",
+"cc": "IT",
+"city": "Rome",
+"subdiv": "Lazio",
+"provider": "Roma Servizi per la Mobilita (ATAC / Roma TPL)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://romamobilita.it/sites/default/files/rome_rtgtfs_trip_updates_feed.pb",
+"cc": "IT",
+"city": "Rome",
+"subdiv": "Lazio",
+"provider": "Roma Servizi per la Mobilita (ATAC / Roma TPL)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://romamobilita.it/sites/default/files/rome_rtgtfs_service_alerts_feed.pb",
+"cc": "IT",
+"city": "Rome",
+"subdiv": "Lazio",
+"provider": "Roma Servizi per la Mobilita (ATAC / Roma TPL)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://percorsieorari.gtt.to.it/das_gtfsrt/vehicle_position.aspx",
+"cc": "IT",
+"city": "Turin",
+"subdiv": "Piemonte",
+"provider": "GTT (via 5T S.r.l.)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://percorsieorari.gtt.to.it/das_gtfsrt/trip_update.aspx",
+"cc": "IT",
+"city": "Turin",
+"subdiv": "Piemonte",
+"provider": "GTT (via 5T S.r.l.)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://percorsieorari.gtt.to.it/das_gtfsrt/alerts.aspx",
+"cc": "IT",
+"city": "Turin",
+"subdiv": "Piemonte",
+"provider": "GTT (via 5T S.r.l.)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/vehicle-positions",
+"cc": "IT",
+"city": "Florence",
+"subdiv": "Toscana",
+"provider": "Autolinee Toscane (Regione Toscana open data)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/trip-updates",
+"cc": "IT",
+"city": "Florence",
+"subdiv": "Toscana",
+"provider": "Autolinee Toscane (Regione Toscana open data)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://avl.amtab.it/WSExportGTFS_RT/api/gtfs/VechiclePosition",
+"cc": "IT",
+"city": "Bari",
+"subdiv": "Puglia",
+"provider": "AMTAB",
+"rt_type": "json_positions",
+"rt_format": "gtfs-rt as JSON",
+"needs_auth": false
+},
+{
+"url": "https://hellobuswsweb.tper.it/web-services/hellobus.asmx/QueryHellobus?fermata={STOP}&linea={LINE}&oraHHMM=",
+"cc": "IT",
+"city": "Bologna",
+"subdiv": "Emilia-Romagna",
+"provider": "TPER (HelloBus)",
+"rt_type": "trip_updates",
+"rt_format": "SOAP/HTTP-GET XML (live arrivals per stop)",
+"needs_auth": false
+},
+{
+"url": "https://www.wienerlinien.at/ogd_realtime/monitor?rbl=4111",
+"cc": "AT",
+"city": "Vienna",
+"subdiv": "Wien",
+"provider": "Wiener Linien",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www.mvg.de/api/bgw-pt/v3/departures?globalId=de:09162:6",
+"cc": "DE",
+"city": "Munich",
+"subdiv": "Bayern",
+"provider": "MVG (Münchner Verkehrsgesellschaft)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www3.vvs.de/vvs/XSLT_DM_REQUEST?outputFormat=JSON&language=de&stateless=1&type_dm=stop&name_dm=5006115&useRealtime=1&mode=direct&itdDateTimeDepArr=dep",
+"cc": "DE",
+"city": "Stuttgart",
+"subdiv": "Baden-Württemberg",
+"provider": "VVS (Verkehrs- und Tarifverbund Stuttgart) / MENTZ EFA",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://start.vag.de/dm/api/abfahrten.json/vgn/510",
+"cc": "DE",
+"city": "Nuremberg",
+"subdiv": "Bayern",
+"provider": "VAG Nürnberg (PULS Echtzeit-Abfahrtsmonitor)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://efa.vrr.de/standard/XML_DM_REQUEST?outputFormat=JSON&language=de&stateless=1&coordOutputFormat=WGS84%5Bdd.ddddd%5D&type_dm=stop&name_dm=20009289&mode=direct&useRealtime=1&itdDateTimeDepArr=dep",
+"cc": "DE",
+"city": "Essen / Rhine-Ruhr (Düsseldorf, Duisburg, Dortmund, Bochum)",
+"subdiv": "Nordrhein-Westfalen",
+"provider": "VRR (Verkehrsverbund Rhein-Ruhr) / MENTZ EFA",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www.vrn.de/mngvrn/XSLT_DM_REQUEST?outputFormat=json&language=de&stateless=1&coordOutputFormat=WGS84%5Bdd.ddddd%5D&type_dm=stop&name_dm=Mannheim+Paradeplatz&useRealtime=1&mode=direct&itdDateTimeDepArr=dep",
+"cc": "DE",
+"city": "Mannheim / Heidelberg / Ludwigshafen",
+"subdiv": "Baden-Württemberg / Rheinland-Pfalz",
+"provider": "VRN (Verkehrsverbund Rhein-Neckar) / MENTZ EFA",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://transport.opendata.ch/v1/stationboard?station=Zurich+HB&limit=5",
+"cc": "CH",
+"city": "Zurich / Basel / Bern / Geneva (all Switzerland)",
+"subdiv": "national",
+"provider": "transport.opendata.ch (community front-end over SBB/opentransportdata.swiss)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api-management-discovery-production.azure-api.net/api/datasets/stibmivb/rt/VehiclePositions",
+"cc": "BE",
+"city": "Brussels",
+"subdiv": "Brussels-Capital",
+"provider": "STIB-MIVB",
+"rt_type": "vehicle_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api-management-discovery-production.azure-api.net/api/datasets/stibmivb/rt/WaitingTimes",
+"cc": "BE",
+"city": "Brussels",
+"subdiv": "Brussels-Capital",
+"provider": "STIB-MIVB",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api-management-discovery-production.azure-api.net/api/gtfs/feed/tec/rt/vehicle-position",
+"cc": "BE",
+"city": "Wallonia (Namur/Charleroi/Liege/...)",
+"subdiv": "Wallonia",
+"provider": "TEC (OTW/LETEC)",
+"rt_type": "vehicle_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api-management-discovery-production.azure-api.net/api/gtfs/feed/delijn/rt/trip-update",
+"cc": "BE",
+"city": "Flanders (Antwerp/Ghent/...)",
+"subdiv": "Flanders",
+"provider": "De Lijn",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api.delijn.be/gtfs/v3/realtime?position=true&json=true",
+"cc": "BE",
+"city": "Flanders (Antwerp/Ghent/...)",
+"subdiv": "Flanders",
+"provider": "De Lijn",
+"rt_type": "vehicle_positions",
+"rt_format": "protobuf",
+"needs_auth": true
+},
+{
+"url": "https://api-management-discovery-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update",
+"cc": "BE",
+"city": "Belgium (national rail)",
+"subdiv": "",
+"provider": "NMBS/SNCB",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://cdt.hafas.de/opendata/apiserver/departureBoard?accessId=<KEY>&id=<stopExtId>&format=json",
+"cc": "LU",
+"city": "Luxembourg (national)",
+"subdiv": "",
+"provider": "Verkéiersverbond / ATP (mobiliteit.lu)",
+"rt_type": "trip_updates",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://api.tranzy.dev/v1/opendata/vehicles",
+"cc": "RO",
+"city": "Cluj-Napoca",
+"subdiv": "Cluj",
+"provider": "Tranzy (CTP Cluj) - tranzy.ai platform",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://data.lpp.si/api/station/arrival?station-code=600011",
+"cc": "SI",
+"city": "Ljubljana",
+"subdiv": "Ljubljana",
+"provider": "LPP (Ljubljanski potniski promet)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://data.lpp.si/api/route/active-routes",
+"cc": "SI",
+"city": "Ljubljana",
+"subdiv": "Ljubljana",
+"provider": "LPP (Ljubljanski potniski promet)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://javniprevozks.ba/api/public/lines/stations/locations/list",
+"cc": "BA",
+"city": "Sarajevo",
+"subdiv": "Sarajevo Canton",
+"provider": "Ministry of Transport of Sarajevo Canton (GRAS + Centrotrans)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://telematics.oasa.gr/api/?act=getStopArrivals&p1=STOPCODE",
+"cc": "GR",
+"city": "Athens",
+"subdiv": "Attica",
+"provider": "OASA / OSY (Odikes Sygkoinonies)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://telematics.oasa.gr/api/?act=getBusLocation&p1=ROUTECODE",
+"cc": "GR",
+"city": "Athens",
+"subdiv": "Attica",
+"provider": "OASA / OSY (buses + trolleybuses)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://api.carrismetropolitana.pt/v2/vehicles",
+"cc": "PT",
+"city": "Lisbon (metropolitan area)",
+"subdiv": "Lisboa",
+"provider": "Carris Metropolitana (TML)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://api.carrismetropolitana.pt/v2/vehicles.pb",
+"cc": "PT",
+"city": "Lisbon (metropolitan area)",
+"subdiv": "Lisboa",
+"provider": "Carris Metropolitana (TML)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.carrismetropolitana.pt/v2/alerts.pb",
+"cc": "PT",
+"city": "Lisbon (metropolitan area)",
+"subdiv": "Lisboa",
+"provider": "Carris Metropolitana (TML)",
+"rt_type": "alerts",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": false
+},
+{
+"url": "https://app.metrolisboa.pt/status/getLinhas.php",
+"cc": "PT",
+"city": "Lisbon",
+"subdiv": "Lisboa",
+"provider": "Metropolitano de Lisboa (Metro)",
+"rt_type": "alerts",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://data.bus-data.dft.gov.uk/api/v1/datafeed/?api_key=YOUR_KEY",
+"cc": "GB",
+"city": "National (all England)",
+"subdiv": "ENG",
+"provider": "DfT Bus Open Data Service (BODS)",
+"rt_type": "siri",
+"rt_format": "SIRI-VM XML 2.0",
+"needs_auth": true
+},
+{
+"url": "https://data.bus-data.dft.gov.uk/api/v1/gtfsrtdatafeed/?api_key=YOUR_KEY",
+"cc": "GB",
+"city": "National (all England)",
+"subdiv": "ENG",
+"provider": "DfT Bus Open Data Service (BODS)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": true
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=53.81&xmax=-1.53&ymin=53.78&xmin=-1.57",
+"cc": "GB",
+"city": "National aggregator (any UK bbox)",
+"subdiv": "",
+"provider": "bustimes.org (open-data aggregator, mirrors BODS SIRI-VM)",
+"rt_type": "json_positions",
+"rt_format": "JSON (GeoJSON-like: coordinates[lon,lat], heading, line, destination, vehicle, datetime)",
+"needs_auth": false
+},
+{
+"url": "https://nctx.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Nottingham",
+"subdiv": "",
+"provider": "Nottingham City Transport / Passenger (Arctic) backend",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection (coordinates, line, operator, bearing, vehicle meta)",
+"needs_auth": false
+},
+{
+"url": "https://brightonhove.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Brighton & Hove",
+"subdiv": "",
+"provider": "Brighton & Hove Buses (Go-Ahead) / Passenger (Arctic) backend",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection (coordinates, line, operator, bearing, vehicle meta)",
+"needs_auth": false
+},
+{
+"url": "https://readingbuses.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Reading",
+"subdiv": "",
+"provider": "Reading Buses / Thames Valley Buses / Passenger (Arctic) backend",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection (coordinates, line, operator, vehicle meta incl. make/model/plate)",
+"needs_auth": false
+},
+{
+"url": "https://bluestar.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Southampton (Bluestar)",
+"subdiv": "",
+"provider": "Bluestar / Go South Coast / Passenger (Arctic)",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection",
+"needs_auth": false
+},
+{
+"url": "https://morebus.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Bournemouth/Poole (morebus)",
+"subdiv": "",
+"provider": "morebus / Go South Coast / Passenger (Arctic)",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection",
+"needs_auth": false
+},
+{
+"url": "https://salisburyreds.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Salisbury (Salisbury Reds)",
+"subdiv": "",
+"provider": "Salisbury Reds / Go South Coast / Passenger (Arctic)",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection",
+"needs_auth": false
+},
+{
+"url": "https://swindonbus.arcticapi.com/network/vehicles",
+"cc": "GB",
+"city": "Swindon",
+"subdiv": "",
+"provider": "Swindon's Bus Company / Passenger (Arctic)",
+"rt_type": "json_positions",
+"rt_format": "GeoJSON FeatureCollection",
+"needs_auth": false
+},
+{
+"url": "https://api.tfl.gov.uk/Line/{lineId}/Arrivals",
+"cc": "GB",
+"city": "London",
+"subdiv": "ENG",
+"provider": "Transport for London (Unified API)",
+"rt_type": "json_positions",
+"rt_format": "JSON (Prediction: vehicleId, naptanId, stationName, timeToStation, lat/lon on StopPoint calls, expectedArrival)",
+"needs_auth": false
+},
+{
+"url": "https://huxley2.azurewebsites.net/departures/LVC",
+"cc": "GB",
+"city": "Liverpool (Merseyrail)",
+"subdiv": "ENG",
+"provider": "Merseyrail via National Rail Darwin (Huxley2 JSON proxy)",
+"rt_type": "json_positions",
+"rt_format": "JSON (trainServices: origin/destination CRS, std/etd, platform)",
+"needs_auth": false
+}
+]

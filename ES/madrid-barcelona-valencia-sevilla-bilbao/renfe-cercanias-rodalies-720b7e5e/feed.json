@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Renfe Cercanías / Rodalies",
+    "country": "ES",
+    "subdivision": "national",
+    "city": "Madrid / Barcelona / Valencia / Sevilla / Bilbao / all Cercanías-Rodalies nuclei"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.renfe.com/vehicle_positions.json",
+    "mdb_id": "rtweb-es-renfe-cercanias-rodalies",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

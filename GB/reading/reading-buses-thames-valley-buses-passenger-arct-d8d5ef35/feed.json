@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Reading Buses / Thames Valley Buses / Passenger (Arctic) backend",
+    "country": "GB",
+    "subdivision": "",
+    "city": "Reading"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://readingbuses.arcticapi.com/network/vehicles",
+    "mdb_id": "rtweb-gb-reading-buses-thames-valle",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

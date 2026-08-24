@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Merseyrail via National Rail Darwin (Huxley2 JSON proxy)",
+    "country": "GB",
+    "subdivision": "ENG",
+    "city": "Liverpool (Merseyrail)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://huxley2.azurewebsites.net/departures/LVC",
+    "mdb_id": "rtweb-gb-merseyrail-via-national-ra",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

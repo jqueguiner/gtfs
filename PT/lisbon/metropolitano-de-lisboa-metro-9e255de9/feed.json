@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metropolitano de Lisboa (Metro)",
+    "country": "PT",
+    "subdivision": "Lisboa",
+    "city": "Lisbon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.metrolisboa.pt/status/getLinhas.php",
+    "mdb_id": "rtweb-pt-metropolitano-de-lisboa-me",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

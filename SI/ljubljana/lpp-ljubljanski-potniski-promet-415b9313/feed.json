@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LPP (Ljubljanski potniski promet)",
+    "country": "SI",
+    "subdivision": "Ljubljana",
+    "city": "Ljubljana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.lpp.si/api/route/active-routes",
+    "mdb_id": "rtweb-si-lpp-ljubljanski-potniski-p-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
