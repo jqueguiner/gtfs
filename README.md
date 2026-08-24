@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**26579 feeds · 18911 cities · 115 countries** · updated automatically.
+**26639 feeds · 18931 cities · 115 countries** · updated automatically.
 
 ## Layout
 ```
@@ -15,21 +15,21 @@ Every public-transport operator we can find, organised **country → city → op
 
 | Country | Feeds | Cities | Operators |
 |---|--:|--:|--:|
-| 🇫🇷 France | 3422 | 2925 | 2952 |
+| 🇫🇷 France | 3432 | 2925 | 2962 |
 | 🇺🇸 United States | 2321 | 1002 | 2321 |
-| 🇩🇪 Germany | 7219 | 6709 | 7219 |
-| 🇬🇧 United Kingdom | 4001 | 3360 | 4001 |
+| 🇩🇪 Germany | 7224 | 6711 | 7224 |
+| 🇬🇧 United Kingdom | 4013 | 3367 | 4013 |
 | 🇯🇵 Japan | 2355 | 601 | 2355 |
-| 🇨🇭 Switzerland | 1824 | 1349 | 1824 |
+| 🇨🇭 Switzerland | 1825 | 1350 | 1825 |
 | 🇨🇿 Czechia | 1395 | 1252 | 1395 |
 | 🇽🇽 XX | 847 | 1 | 847 |
 | 🇩🇰 Denmark | 358 | 333 | 358 |
 | 🇨🇦 Canada | 297 | 150 | 297 |
 | 🇸🇻 SV | 295 | 1 | 295 |
-| 🇮🇹 Italy | 206 | 121 | 206 |
-| 🇪🇸 Spain | 200 | 101 | 200 |
+| 🇮🇹 Italy | 213 | 122 | 213 |
+| 🇪🇸 Spain | 207 | 104 | 207 |
 | 🇵🇱 Poland | 171 | 113 | 171 |
-| 🇱🇺 Luxembourg | 144 | 139 | 144 |
+| 🇱🇺 Luxembourg | 145 | 140 | 145 |
 | 🇧🇷 Brazil | 140 | 78 | 140 |
 | 🇸🇪 Sweden | 137 | 46 | 137 |
 | 🇮🇪 Ireland | 116 | 27 | 116 |
@@ -38,10 +38,10 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇱🇹 Lithuania | 78 | 31 | 78 |
 | 🇳🇴 Norway | 60 | 25 | 60 |
 | 🇳🇱 Netherlands | 53 | 6 | 53 |
-| 🇵🇹 Portugal | 42 | 33 | 42 |
+| 🇵🇹 Portugal | 46 | 34 | 46 |
 | 🇱🇻 Latvia | 37 | 10 | 37 |
 | 🇮🇳 India | 34 | 23 | 34 |
-| 🇦🇹 Austria | 32 | 15 | 30 |
+| 🇦🇹 Austria | 33 | 15 | 31 |
 | 🇹🇭 Thailand | 32 | 13 | 32 |
 | 🇪🇪 Estonia | 29 | 19 | 29 |
 | 🇭🇷 Croatia | 29 | 22 | 29 |
@@ -49,31 +49,31 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇺🇦 UA | 27 | 20 | 27 |
 | 🇸🇰 Slovakia | 26 | 20 | 26 |
 | 🇹🇷 Turkey | 25 | 21 | 25 |
+| 🇷🇴 Romania | 22 | 18 | 22 |
 | 🇳🇿 New Zealand | 22 | 11 | 22 |
 | 🇨🇳 CN | 22 | 13 | 22 |
-| 🇷🇴 Romania | 21 | 17 | 21 |
-| 🇸🇮 Slovenia | 18 | 17 | 18 |
+| 🇸🇮 Slovenia | 20 | 17 | 20 |
+| 🇧🇪 Belgium | 20 | 12 | 20 |
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
 | 🇷🇸 Serbia | 14 | 10 | 14 |
-| 🇧🇪 Belgium | 14 | 9 | 14 |
 | 🇨🇾 Cyprus | 14 | 10 | 14 |
 | 🇹🇼 Taiwan | 13 | 7 | 13 |
 | 🇵🇭 Philippines | 12 | 7 | 12 |
 | 🇮🇩 Indonesia | 12 | 5 | 12 |
+| 🇬🇷 Greece | 9 | 5 | 9 |
 | 🇨🇴 CO | 9 | 5 | 9 |
 | 🇧🇬 Bulgaria | 8 | 5 | 8 |
 | 🇵🇪 PE | 7 | 5 | 7 |
-| 🇬🇷 Greece | 7 | 5 | 7 |
 | 🇲🇩 MD | 7 | 5 | 7 |
 | 🇩🇿 DZ | 6 | 4 | 6 |
 | 🇳🇬 Nigeria | 6 | 3 | 6 |
 | 🇨🇱 Chile | 6 | 4 | 6 |
+| 🇧🇦 BA | 6 | 3 | 6 |
 | 🇰🇪 KE | 6 | 2 | 6 |
 | 🇧🇸 BS | 6 | 1 | 6 |
 | 🇲🇽 Mexico | 5 | 5 | 5 |
 | 🇲🇦 MA | 5 | 3 | 5 |
 | 🇬🇭 Ghana | 5 | 2 | 5 |
-| 🇧🇦 BA | 5 | 3 | 5 |
 | 🇪🇹 ET | 4 | 1 | 4 |
 | 🇿🇦 South Africa | 4 | 3 | 4 |
 | 🇸🇬 Singapore | 4 | 2 | 4 |

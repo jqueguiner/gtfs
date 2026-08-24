@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NMBS/SNCB",
+    "country": "BE",
+    "subdivision": "",
+    "city": "Belgium (national rail)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-discovery-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update",
+    "mdb_id": "rtweb-be-nmbs-sncb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

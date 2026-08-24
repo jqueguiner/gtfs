@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "M / TAG (SMMAG / Mobilités M, OpenTripPlanner backend)",
+    "country": "FR",
+    "subdivision": "Auvergne-Rhône-Alpes",
+    "city": "Grenoble"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.mobilites-m.fr/api/routers/default/index/stops/{stopId}/stoptimes",
+    "mdb_id": "rtweb-fr-m-tag-smmag-mobilites-m-op",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

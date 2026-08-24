@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STAR (Keolis Rennes)",
+    "country": "FR",
+    "subdivision": "Bretagne",
+    "city": "Rennes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.explore.star.fr/api/records/1.0/search/?dataset=tco-bus-vehicules-position-tr&rows=1000",
+    "mdb_id": "rtweb-fr-star-keolis-rennes",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TEC (OTW/LETEC)",
+    "country": "BE",
+    "subdivision": "Wallonia",
+    "city": "Wallonia (Namur/Charleroi/Liege/...)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-discovery-production.azure-api.net/api/gtfs/feed/tec/rt/vehicle-position",
+    "mdb_id": "rtweb-be-tec-otw-letec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

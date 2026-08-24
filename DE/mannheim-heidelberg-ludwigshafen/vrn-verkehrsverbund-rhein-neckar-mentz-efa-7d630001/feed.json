@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRN (Verkehrsverbund Rhein-Neckar) / MENTZ EFA",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg / Rheinland-Pfalz",
+    "city": "Mannheim / Heidelberg / Ludwigshafen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vrn.de/mngvrn/XSLT_DM_REQUEST?outputFormat=json&language=de&stateless=1&coordOutputFormat=WGS84%5Bdd.ddddd%5D&type_dm=stop&name_dm=Mannheim+Paradeplatz&useRealtime=1&mode=direct&itdDateTimeDepArr=dep",
+    "mdb_id": "rtweb-de-vrn-verkehrsverbund-rhein-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

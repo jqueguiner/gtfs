@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tisséo Voyageurs",
+    "country": "FR",
+    "subdivision": "Occitanie",
+    "city": "Toulouse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.json",
+    "mdb_id": "rtweb-fr-tisseo-voyageurs",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

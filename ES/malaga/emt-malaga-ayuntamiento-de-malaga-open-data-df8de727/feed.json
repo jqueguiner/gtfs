@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMT Málaga (Ayuntamiento de Málaga open data)",
+    "country": "ES",
+    "subdivision": "Andalucía",
+    "city": "Málaga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datosabiertos.malaga.eu/recursos/transporte/EMT/EMTlineasUbicaciones/lineasyubicaciones.csv",
+    "mdb_id": "rtweb-es-emt-malaga-ayuntamiento-de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

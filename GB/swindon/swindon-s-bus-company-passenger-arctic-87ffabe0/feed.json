@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Swindon's Bus Company / Passenger (Arctic)",
+    "country": "GB",
+    "subdivision": "",
+    "city": "Swindon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://swindonbus.arcticapi.com/network/vehicles",
+    "mdb_id": "rtweb-gb-swindon-s-bus-company-pass",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transport.opendata.ch (community front-end over SBB/opentransportdata.swiss)",
+    "country": "CH",
+    "subdivision": "national",
+    "city": "Zurich / Basel / Bern / Geneva (all Switzerland)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transport.opendata.ch/v1/stationboard?station=Zurich+HB&limit=5",
+    "mdb_id": "rtweb-ch-transport-opendata-ch-comm",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMT Valencia (Geoportal VLCi / ArcGIS)",
+    "country": "ES",
+    "subdivision": "Comunitat Valenciana",
+    "city": "Valencia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&returnGeometry=true&f=json",
+    "mdb_id": "rtweb-es-emt-valencia-geoportal-vlc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

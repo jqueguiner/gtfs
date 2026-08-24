@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (open-data aggregator, mirrors BODS SIRI-VM)",
+    "country": "GB",
+    "subdivision": "",
+    "city": "National aggregator (any UK bbox)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=53.81&xmax=-1.53&ymin=53.78&xmin=-1.57",
+    "mdb_id": "rtweb-gb-bustimes-org-open-data-agg",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
