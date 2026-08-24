@@ -33,7 +33,6 @@ AT,Salzburg,Stadtwerke Heilbronn (SWHN),https://www.nvbw.de/fileadmin/user_uploa
 AT,Vienna,OBB-Personenverkehr AG,https://static.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip,at-nap-obb-personenverkehr-ag,CC BY 4.0,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27249/file,at-gtfs-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27250/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
-AT,Vienna,Wiener Linien,https://www.wienerlinien.at/ogd_realtime/monitor?rbl=4111,rtweb-at-wiener-linien,,active
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
 AT,Vorarlberg (Bregenz/Feldkirch/Dornbirn),Verkehrsverbund Vorarlberg (VMOBIL) — Landbus network + ÖBB-Postbus,https://mobilitaetsdaten.gv.at/sites/default/files/metadataset/sample_data/20260703-0010_gtfs_flex_vmobil_2026.zip,at-eutail-verkehrsverbund-vorarlberg-vmo,Datenlizenz Mobilitätsverbünde Österreich (free/open),active
 AT,Wels,BBS Schapfl,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/ding.zip,mdb-770,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
@@ -146,23 +145,17 @@ BA,City of Mostar,Turistička agencija Li-Bus d.o.o. (Livnobus),https://livnobus
 BA,Mostar,Mostar Bus (MOBUS),https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/mostar-gtfs/latest/mobus_gtfs.zip,ba-eutail-mostar-bus-mobus,,active
 BA,Sarajevo,Centrotrans,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/centrotrans-gtfs/latest/centrotrans_gtfs.zip,ba-eutail-centrotrans,,active
 BA,Sarajevo,Ministarstvo saobraćaja Kantona Sarajevo (MSKS — GRAS trams/trolleybus/bus),https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/sarajevo-gtfs/latest/sarajevo_gtfs.zip,ba-eutail-ministarstvo-saobracaja-kanton,,active
-BA,Sarajevo,Ministry of Transport of Sarajevo Canton (GRAS + Centrotrans),https://javniprevozks.ba/api/public/lines/stations/locations/list,rtweb-ba-ministry-of-transport-of-s,,active
 BA,Sarajevo,Željeznice FBiH / Željeznice RS (ŽFBiH railway),https://owncloud.cesnet.cz/index.php/s/yWJhi9wjUIc3IC2/download,ba-eutail-zeljeznice-fbih-zeljeznice-rs-,,active
 BD,Dhaka,Bangladesh Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/bangladesh-railway/gtfs/,bd-llm-bangladesh-railway,,active
 BD,Dhaka,Dhaka Mass Transit Company Limited (DMTCL) — Metro Rail MRT Line 6,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-mass-transit-company-limited-dmtcl-metro-r/gtfs/,bd-llm-dhaka-mass-transit-company-limited-dmtcl,,active
 BD,Dhaka,Dhaka Nagar Paribahan (DTCA / Bus Route Rationalisation — Green cluster routes 21-28),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BD/dhaka/dhaka-nagar-paribahan-dtca-bus-route-rationalisa/gtfs/,bd-llm-dhaka-nagar-paribahan-dtca-bus-route-rat,,active
 BE,Antwerp,De Lijn,http://gtfs.irail.be/de-lijn/de_lijn-gtfs.zip,mdb-684,,active
 BE,Antwerp,DeWaterbus,http://addtransit.com/gtfsfile/85165/DeWaterbus.zip,be-dewaterbus,,active
-BE,Belgium (national rail),NMBS/SNCB,https://api-management-discovery-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update,rtweb-be-nmbs-sncb,,active
-BE,Brussels,STIB-MIVB,https://api-management-discovery-production.azure-api.net/api/datasets/stibmivb/rt/VehiclePositions,rtweb-be-stib-mivb,,active
-BE,Brussels,STIB-MIVB,https://api-management-discovery-production.azure-api.net/api/datasets/stibmivb/rt/WaitingTimes,rtweb-be-stib-mivb-2,,active
 BE,Brussels,STIB-MIVB,https://opendata-api.stib-mivb.be/Files/1.0/Gtfs,be-stib-mivb,,active
 BE,Diegem,Stib,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/stibmivb/static,f-u151-stib,CC-BY-4.0,active
 BE,Diegem,stib rt,https://api-management-opendata-production.azure-api.net/api/datasets/stibmivb/rt/VehiclePositions,rt-ve-f-u151-stib~rt,,active
 BE,Flanders,De Lijn (Vlaamse Vervoermaatschappij),https://api.delijn.be/gtfs/static/v3/gtfs_transit.zip,be-de-lijn,ODbL-1.0,active
 BE,"Flanders (Antwerp, Ghent, Bruges, Leuven)",De Lijn,https://api.delijn.be/gtfs/v3/realtime?position=true&vehicleid=true,rtweb-be-de-lijn,,active
-BE,Flanders (Antwerp/Ghent/...),De Lijn,https://api-management-discovery-production.azure-api.net/api/gtfs/feed/delijn/rt/trip-update,rtweb-be-de-lijn-2,,active
-BE,Flanders (Antwerp/Ghent/...),De Lijn,https://api.delijn.be/gtfs/v3/realtime?position=true&json=true,rtweb-be-de-lijn-3,,active
 BE,Gedinne,Tec,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/static,f-u0g-tec,CC-BY-4.0,active
 BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/alert,rt-al-f-u0g-tec~rt,,active
 BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/trip-update,rt-tr-f-u0g-tec~rt,,active
@@ -170,7 +163,6 @@ BE,"Nationwide (Brussels, Antwerp, Ghent, etc.)","iRail (community, backed by NM
 BE,Ramillies,Société Régionale Wallonne du Transport,http://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip,mdb-1212,,active
 BE,Ramillies,TEC,https://data.gtfs.be/tec/gtfs/be-tec-gtfs.zip,mdb-1868,https://gtfs.be/,active
 BE,Wallonia,TEC (Operateur de Transport de Wallonie),https://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip,be-tec-otw,CC0-1.0,active
-BE,Wallonia (Namur/Charleroi/Liege/...),TEC (OTW/LETEC),https://api-management-discovery-production.azure-api.net/api/gtfs/feed/tec/rt/vehicle-position,rtweb-be-tec-otw-letec,,active
 BG,Karnobat,Aytos-Avtrotransport Ltd.,https://transport.aytos.bg/gtfs/AytosGTFS.zip,mdb-3155,,active
 BG,Pleven,Trolleybus Transport Pleven,https://external.gtfs.ro/pleven/PLEVEN.zip,mdb-2119,,active
 BG,Plovdiv,Trakia Tech (Plovdiv Municipality Google Transit partner),https://trakia.tech/gtfs/plovdiv.zip,bg-disc-32,,active
@@ -1977,7 +1969,6 @@ CH,Zumikon,opentransportdata.swiss — Zumikon,https://gtfs.geops.ch/dl/gtfs_com
 CH,Zunzgen,opentransportdata.swiss — Zunzgen,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-7f179f710f,,active
 CH,Zuoz,opentransportdata.swiss — Zuoz,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-fbd858e77d,,active
 CH,Zurich,opentransportdata.swiss — Zurich,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-9ce3e0d4b3,,active
-CH,Zurich / Basel / Bern / Geneva (all Switzerland),transport.opendata.ch (community front-end over SBB/opentransportdata.swiss),https://transport.opendata.ch/v1/stationboard?station=Zurich+HB&limit=5,rtweb-ch-transport-opendata-ch-comm,,active
 CH,Zuzwil,opentransportdata.swiss — Zuzwil,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-214f648c8e,,active
 CH,Zweisimmen,opentransportdata.swiss — Zweisimmen,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-b7169eaa06,,active
 CH,Zwingen,opentransportdata.swiss — Zwingen,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-ceac9701ee,,active
@@ -6088,7 +6079,6 @@ DE,Essel,gtfs.de — Essel,https://download.gtfs.de/germany/free/latest.zip,de-c
 DE,Esselbach,gtfs.de — Esselbach,https://download.gtfs.de/germany/free/latest.zip,de-city-8593baab2d,,active
 DE,Esselborn,gtfs.de — Esselborn,https://download.gtfs.de/germany/free/latest.zip,de-city-52f18360dc,,active
 DE,Essen,gtfs.de — Essen,https://download.gtfs.de/germany/free/latest.zip,de-city-733293a959,,active
-DE,"Essen / Rhine-Ruhr (Düsseldorf, Duisburg, Dortmund, Bochum)",VRR (Verkehrsverbund Rhein-Ruhr) / MENTZ EFA,https://efa.vrr.de/standard/XML_DM_REQUEST?outputFormat=JSON&language=de&stateless=1&coordOutputFormat=WGS84%5Bdd.ddddd%5D&type_dm=stop&name_dm=20009289&mode=direct&useRealtime=1&itdDateTimeDepArr=dep,rtweb-de-vrr-verkehrsverbund-rhein-,,active
 DE,Essenbach,gtfs.de — Essenbach,https://download.gtfs.de/germany/free/latest.zip,de-city-1b68b6a27b,,active
 DE,Essenheim,gtfs.de — Essenheim,https://download.gtfs.de/germany/free/latest.zip,de-city-216df00d76,,active
 DE,Essing,gtfs.de — Essing,https://download.gtfs.de/germany/free/latest.zip,de-city-8e20d1100f,,active
@@ -8012,7 +8002,6 @@ DE,Mamming,gtfs.de — Mamming,https://download.gtfs.de/germany/free/latest.zip,
 DE,Manching,gtfs.de — Manching,https://download.gtfs.de/germany/free/latest.zip,de-city-8bcd401c76,,active
 DE,Manhagen,gtfs.de — Manhagen,https://download.gtfs.de/germany/free/latest.zip,de-city-bd7d728619,,active
 DE,Mannheim,gtfs.de — Mannheim,https://download.gtfs.de/germany/free/latest.zip,de-city-34540820c4,,active
-DE,Mannheim / Heidelberg / Ludwigshafen,VRN (Verkehrsverbund Rhein-Neckar) / MENTZ EFA,https://www.vrn.de/mngvrn/XSLT_DM_REQUEST?outputFormat=json&language=de&stateless=1&coordOutputFormat=WGS84%5Bdd.ddddd%5D&type_dm=stop&name_dm=Mannheim+Paradeplatz&useRealtime=1&mode=direct&itdDateTimeDepArr=dep,rtweb-de-vrn-verkehrsverbund-rhein-,,active
 DE,Manschnow,gtfs.de — Manschnow,https://download.gtfs.de/germany/free/latest.zip,de-city-76ea805972,,active
 DE,Mansfeld,gtfs.de — Mansfeld,https://download.gtfs.de/germany/free/latest.zip,de-city-4b3bb261e8,,active
 DE,Mantel,gtfs.de — Mantel,https://download.gtfs.de/germany/free/latest.zip,de-city-26447e9c46,,active
@@ -8294,7 +8283,6 @@ DE,Munchsmunster,gtfs.de — Munchsmunster,https://download.gtfs.de/germany/free
 DE,Munchsteinach,gtfs.de — Munchsteinach,https://download.gtfs.de/germany/free/latest.zip,de-city-a578a23a15,,active
 DE,Munchweiler an der Alsenz,gtfs.de — Munchweiler an der Alsenz,https://download.gtfs.de/germany/free/latest.zip,de-city-e1373730f2,,active
 DE,Munderkingen,gtfs.de — Munderkingen,https://download.gtfs.de/germany/free/latest.zip,de-city-4b05904491,,active
-DE,Munich,MVG (Münchner Verkehrsgesellschaft),https://www.mvg.de/api/bgw-pt/v3/departures?globalId=de:09162:6,rtweb-de-mvg-munchner-verkehrsgesel,,active
 DE,Munich,MVV (Münchner Verkehrs- und Tarifverbund),https://www.mvv-muenchen.de/fileadmin/mediapool/developer/opendata/gesamt_gtfs.zip,de-eu-mvv-munchner-verkehrs-und-tarifver,CC-BY-4.0,active
 DE,Munich,Münchner Verkehrsgesellschaft (MVG),https://www.mvg.de/static/gtfs/google_transit.zip,mdb-2333,https://www.mvg.de/verbindungen/Fahrplandaten.html,active
 DE,Munich,gtfs.de — Munich,https://download.gtfs.de/germany/free/latest.zip,de-city-6fd4b1f474,,active
@@ -8577,7 +8565,6 @@ DE,Nubel,gtfs.de — Nubel,https://download.gtfs.de/germany/free/latest.zip,de-c
 DE,Nudersdorf,gtfs.de — Nudersdorf,https://download.gtfs.de/germany/free/latest.zip,de-city-2dda7287b7,,active
 DE,Nuernberg,gtfs.de — Nuernberg,https://download.gtfs.de/germany/free/latest.zip,de-city-f0d224d388,,active
 DE,Nunchritz,gtfs.de — Nunchritz,https://download.gtfs.de/germany/free/latest.zip,de-city-0dd421bbc3,,active
-DE,Nuremberg,VAG Nürnberg (PULS Echtzeit-Abfahrtsmonitor),https://start.vag.de/dm/api/abfahrten.json/vgn/510,rtweb-de-vag-nurnberg-puls-echtzeit,,active
 DE,Nuremberg,VGN (Verkehrsverbund Großraum Nürnberg),https://www.vgn.de/opendata/GTFS.zip,de-eu-vgn-verkehrsverbund-groraum-nurnbe,CC-BY-3.0-DE,active
 DE,Nussbaum,gtfs.de — Nussbaum,https://download.gtfs.de/germany/free/latest.zip,de-city-ee073a91ec,,active
 DE,Nussdorf,gtfs.de — Nussdorf,https://download.gtfs.de/germany/free/latest.zip,de-city-c37595f5a1,,active
@@ -9781,7 +9768,6 @@ DE,Stuttgart,Schweizer Reisen,https://www.nvbw.de/fileadmin/user_upload/service/
 DE,Stuttgart,VOLZ,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vgc.zip,mdb-906,,active
 DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart),https://api.opendata-oepnv.de/dataset/d1768457-c717-45ea-8e26-dd1e759d5ffe/resource/c38da9e6-22bf-4504-a9f8-163a5d1b250b/download/gtfs_j26.zip,de-eu-vvs-verkehrs-und-tarifverbund-stut,CC-BY,active
 DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart),https://download.vvs.de/gtfs_realtime.zip,de-eu2-vvs-verkehrs-und-tarifverbund-st,CC BY,active
-DE,Stuttgart,VVS (Verkehrs- und Tarifverbund Stuttgart) / MENTZ EFA,https://www3.vvs.de/vvs/XSLT_DM_REQUEST?outputFormat=JSON&language=de&stateless=1&type_dm=stop&name_dm=5006115&useRealtime=1&mode=direct&itdDateTimeDepArr=dep,rtweb-de-vvs-verkehrs-und-tarifverb,,active
 DE,Stuttgart,gtfs.de — Stuttgart,https://download.gtfs.de/germany/free/latest.zip,de-city-62feb09472,,active
 DE,Stuttgart Feuerbach,gtfs.de — Stuttgart Feuerbach,https://download.gtfs.de/germany/free/latest.zip,de-city-ca5a0e4303,,active
 DE,Stuttgart Muehlhausen,gtfs.de — Stuttgart Muehlhausen,https://download.gtfs.de/germany/free/latest.zip,de-city-f03f66271e,,active
@@ -11569,9 +11555,6 @@ ES,Bilbao,Bilbobus,https://nap.transportes.gob.es/api/Fichero/download/1460,mdb-
 ES,Bilbao,"Bilbobus (city buses, via Consorcio de Transportes de Bizkaia)",https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bilbobus.zip,es-eu-bilbobus-city-buses-via-consorcio-,CTB / Open Data Euskadi,active
 ES,Bilbao,Funicular de Artxanda,https://nap.transportes.gob.es/api/Fichero/download/1264,mdb-2680,https://nap.transportes.gob.es/licencia-datos,active
 ES,Bilbao (Bizkaia province),Bizkaibus (via Consorcio de Transportes de Bizkaia),https://ctb-gtfs.s3.eu-south-2.amazonaws.com/bizkaibus.zip,es-eu-bizkaibus-via-consorcio-de-transpo,CTB / Open Data Euskadi,active
-ES,Bilbao (city),Bilbobus (Ayuntamiento de Bilbao / CTB),https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bilbobus-vehicle-positions.pb,rtweb-es-bilbobus-ayuntamiento-de-b,,active
-ES,Bilbao (metro),Metro Bilbao (CTB),https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/metro-bilbao-vehicle-positions.pb,rtweb-es-metro-bilbao-ctb,,active
-ES,Bilbao / Bizkaia province,Bizkaibus (CTB - Consorcio de Transportes de Bizkaia),https://baliabideak.bizkaia.eus/Bizkaibus/GTFSRealTime/FeedVehiculos.pb,rtweb-es-bizkaibus-ctb-consorcio-de,,active
 ES,Bordils,Moventis Sarfa (Sarfa buses),https://nap.transportes.gob.es/api/Fichero/download/1576,mdb-2764,https://nap.transportes.gob.es/licencia-datos,active
 ES,Castelló de la Plana,Castelló de la Plana Town Hall (city bus),https://nap.transportes.gob.es/api/Fichero/download/1572,mdb-2771,https://nap.transportes.gob.es/licencia-datos,active
 ES,Catalonia,Autobusos Interurbans,https://territori.gencat.cat/web/.content/home/serveis/visors-cartografia/bases-cartografiques/infraestructures-mobilitat/autobusos-interurbans/busos-interurbans-GTFS.zip,mdb-2926,,active
@@ -11613,16 +11596,13 @@ ES,Madrid,CRTM - Consorcio Regional de Transportes de Madrid,https://www.arcgis.
 ES,Madrid,CRTM - Red de EMT (autobuses urbanos),https://crtm.maps.arcgis.com/sharing/rest/content/items/868df0e58fca47e79b942902dffd7da0/data,es-eu-crtm-red-de-emt-autobuses-urbanos,CRTM Open Data (datos.crtm.es),active
 ES,Madrid,Consorcio Regional de Transportes de Madrid CRTM Commuter Network (Red de Cercanías),https://www.arcgis.com/sharing/rest/content/items/1a25440bf66f499bae2657ec7fb40144/data,mdb-2720,https://www.crtm.es/licencia-de-uso,active
 ES,Madrid,Consorcio Regional de Transportes de Madrid CRTM Light Rail Network (Red de Metro Ligero),https://www.arcgis.com/sharing/rest/content/items/aaed26cc0ff64b0c947ac0bc3e033196/data,mdb-2802,https://www.crtm.es/licencia-de-uso,active
-ES,Madrid,EMT Madrid — GTFS-RT,https://openapi.emtmadrid.es/v1/bus/servicealerts/proto,rtweb-es-emt-madrid-gtfs-rt,,active
 ES,Madrid,Empresa Municipal de Transportes de Madrid (EMT Madrid),https://servicios.emtmadrid.es:8443/gtfs/transitemt.zip,mdb-793,,active
-ES,Madrid / Barcelona / Valencia / Sevilla / Bilbao / all Cercanías-Rodalies nuclei,Renfe Cercanías / Rodalies,https://gtfsrt.renfe.com/vehicle_positions.json,rtweb-es-renfe-cercanias-rodalies,,active
 ES,Malaga,Empresamalagueñadetransportes,https://nap.transportes.gob.es/api/Fichero/download/1494,f-eysb-empresamalagueñadetransportes,https://nap.transportes.gob.es/licencia-datos,active
 ES,Mallorca (island-wide),TIB / CTM (Consorci de Transports de Mallorca),https://www.tib.org/documents/20124/478141/ctm-mallorca-es.zip/8481f8a8-7907-5118-4934-5b428b458ae7?t=1786105923724,es-eu-tib-ctm-consorci-de-transports-de-,CC-BY 4.0,active
 ES,Mataró,Autoridad de Transporte Metropolitano del Área de Barcelona (ATM) Buses and trains in Catalonia (simplified version),https://nap.transportes.gob.es/api/Fichero/download/2059,mdb-2832,https://nap.transportes.gob.es/licencia-datos,active
 ES,Mataró,Avanza Grupo (Mataró city bus),https://nap.transportes.gob.es/api/Fichero/download/1173,mdb-2768,https://nap.transportes.gob.es/licencia-datos,active
 ES,Murcia,Transportes de Murcia (Grupo Ruiz),https://nap.transportes.gob.es/api/Fichero/download/1597,mdb-2828,https://nap.transportes.gob.es/licencia-datos,active
 ES,Murcia,Tranvía de Murcia (TDM),https://nap.transportes.gob.es/api/Fichero/download/1569,mdb-2729,https://nap.transportes.gob.es/licencia-datos,active
-ES,Málaga,EMT Málaga (Ayuntamiento de Málaga open data),https://datosabiertos.malaga.eu/recursos/transporte/EMT/EMTlineasUbicaciones/lineasyubicaciones.csv,rtweb-es-emt-malaga-ayuntamiento-de,,active
 ES,Málaga,Empresa Malagueña de Transportes (EMT),https://gtfs.emtmalaga.es/GTFS/google_transit.zip,mdb-2212,,active
 ES,National (rail),Renfe (Cercanias/Rodalies + Alta Velocidad/Larga/Media Distancia),https://data.renfe.com/dataset?res_format=GTFS,es-disc-4,,active
 ES,Oiartzun,Lurraldebus Oiartzun (Xorrola),https://nap.transportes.gob.es/api/Fichero/download/1232,mdb-2725,https://nap.transportes.gob.es/licencia-datos,active
@@ -11662,7 +11642,6 @@ ES,Tenerife,Ferry Fred. Olsen (Fred Olsen Express),https://nap.transportes.gob.e
 ES,Teruel,Albarracín Movilidad (Buses from the Albarracín mountain range to Teruel (C10)),https://nap.transportes.gob.es/api/Fichero/download/2807,mdb-2807,https://nap.transportes.gob.es/licencia-datos,active
 ES,Toledo,Unauto (Ruiz Group),https://nap.transportes.gob.es/api/Fichero/download/1575,mdb-2723,https://nap.transportes.gob.es/licencia-datos,active
 ES,Tolosa,Tolosa City Council (Urbano de Tolosa),https://nap.transportes.gob.es/api/Fichero/download/2067,mdb-2758,https://nap.transportes.gob.es/licencia-datos,active
-ES,Valencia,EMT Valencia (Geoportal VLCi / ArcGIS),https://geoportal.valencia.es/server/rest/services/EMT/Seguimiento_EMT/MapServer/384/query?where=1%3D1&outFields=*&returnGeometry=true&f=json,rtweb-es-emt-valencia-geoportal-vlc,,active
 ES,Valencia,Empresa Municipal de Transportes de Valencia (EMT Valencia),https://opendata.vlci.valencia.es/dataset/ab058cf8-ad3e-4d9c-ac89-0c6367ecf351/resource/c81b69e6-c082-44dc-acc6-66fc417b4e66/download/google_transit.zip,mdb-795,https://www.valencia.es/val/ajuntament/govern-obert,active
 ES,Valencia,FGV - Generalitat Valenciana Metro de Valencia,https://nap.transportes.gob.es/api/Fichero/download/1168,mdb-2830,https://nap.transportes.gob.es/licencia-datos,active
 ES,Valencia,Metrovalencia (FGV),https://www.metrovalencia.es/google_transit_feed/google_transit.zip,es-eu-metrovalencia-fgv,FGV / Generalitat Valenciana open data,active
@@ -13286,7 +13265,6 @@ FR,Grasse,Grasse Sillages Scolaire,https://static.data.gouv.fr/resources/lignes-
 FR,Grasse,SNCF TER — Grasse,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-330f2123ae,,active
 FR,Graulhet,Communauté d'Agglomération Gaillac Graulhet,https://static.data.gouv.fr/resources/reseau-urbain-la-navette-commune-de-graulhet/20250904-131627/gtfs-graulhet.zip,tdg-82584,lov2,active
 FR,Gravelines,SNCF TER — Gravelines,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-7dc79bbe6d,,active
-FR,Grenoble,"M / TAG (SMMAG / Mobilités M, OpenTripPlanner backend)",https://data.mobilites-m.fr/api/routers/default/index/stops/{stopId}/stoptimes,rtweb-fr-m-tag-smmag-mobilites-m-op,,active
 FR,Grenoble,SNCF TER — Grenoble,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-bad53cfb67,,active
 FR,Grenoble,Syndicat Mixte des Mobilités de l'Aire Grenobloise,https://www.data.gouv.fr/api/1/datasets/r/3ec51aee-ce59-4608-b721-faae118ea1d0,tdg-81618,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,Grenoble-Alpes-Métropole,Syndicat Mixte des Mobilités de l'Aire Grenobloise,https://data.mobilites-m.fr/api/gtfs/MCO,tdg-81617,odc-odbl,active
@@ -14060,7 +14038,6 @@ FR,Nalliers,SNCF TER — Nalliers,https://eu.ftp.opendatasoft.com/sncf/gtfs/expo
 FR,Nancy,Communauté urbaine du Grand Nancy,https://www.data.gouv.fr/fr/datasets/r/e7e78cd7-e186-4923-a272-9713fbc28b45,mdb-1112,,active
 FR,Nancy,SNCF TER — Nancy,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-6821b428e4,,active
 FR,Nantes,Nantes Métropole,https://www.data.gouv.fr/api/1/datasets/r/65bdd7e4-a8e7-4a54-893a-808e71c34d68,tdg-84101,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
-FR,Nantes,Naolib/TAN (Semitan) / Nantes Métropole,https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-trip-update,rtweb-fr-naolib-tan-semitan-nantes-,,active
 FR,Nantes,SNCF TER — Nantes,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-5e34a2bf5c,,active
 FR,Nantes Métropole,Ecov,https://storage.googleapis.com/ecov-gtfs/nantes/gtfs_nantes.zip,tdg-84096,lov2,active
 FR,Nantes Métropole,Nantes Métropole,https://data.nantesmetropole.fr/explore/dataset/244400404_transports_commun_naolib_nantes_metropole_gtfs/files/0cc0469a72de54ee045cb66d1a21de9e/download/,tdg-84101,lov2,active
@@ -14094,8 +14071,6 @@ FR,Nexon,Nouvelle-Aquitaine Mobilités,https://www.data.gouv.fr/api/1/datasets/r
 FR,Nexon,SNCF TER — Nexon,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-6ae7526f43,,active
 FR,Neyron,SYTRAL Mobilités,https://www.data.gouv.fr/api/1/datasets/r/abebedc6-28cf-4e2e-9c64-db57a40156f8,tdg-81943,https://wiki.lafabriquedesmobilites.fr/wiki/Licence_Mobilit%C3%A9s,active
 FR,Nice,Lignes d'Azur,https://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur/resource/aacb4eea-d008-4b13-b17a-848b8ced7e03/download,fr-dork-lignes-d-azur,,active
-FR,Nice,Lignes d'Azur / Métropole Nice Côte d'Azur (enRoute ARA),https://ara-api.enroute.mobi/rla/gtfs/trip-updates,rtweb-fr-lignes-d-azur-metropole-ni-2,,active
-FR,Nice,Lignes d'Azur / Métropole Nice Côte d'Azur (enRoute ARA),https://ara-api.enroute.mobi/rla/gtfs/vehicle-positions,rtweb-fr-lignes-d-azur-metropole-ni,,active
 FR,Nice,SNCF TER — Nice,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-8617721f18,,active
 FR,Niederbronn-les-Bains,SNCF TER — Niederbronn-les-Bains,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-58baf4c1d3,,active
 FR,Nielles-lès-Calais,Syndicat Intercommunal des Transports urbains de l’Agglomération du Calaisis,https://www.data.gouv.fr/api/1/datasets/r/5dcdb39b-aee3-4a0f-a9a9-be225f5a8b78,tdg-83807,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
@@ -14368,9 +14343,6 @@ FR,Renescure,SNCF TER — Renescure,https://eu.ftp.opendatasoft.com/sncf/gtfs/ex
 FR,Rennes,SNCF TER — Rennes,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-a8e997da15,,active
 FR,Rennes,STAR,https://www.data.gouv.fr/api/1/datasets/r/0644f537-575e-4cce-9570-06165d6f3b27,tdg-83281,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,Rennes,STAR,https://www.data.gouv.fr/api/1/datasets/r/ef4779c4-d066-40d8-b8d9-fb8c7eea8820,tdg-83282,https://opendatacommons.org/licenses/odbl/1.0/,active
-FR,Rennes,STAR (Keolis Rennes),https://data.explore.star.fr/api/records/1.0/search/?dataset=tco-bus-vehicules-position-tr&rows=1000,rtweb-fr-star-keolis-rennes,,active
-FR,Rennes,STAR (Keolis Rennes) / Rennes Métropole,https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-trip-update,rtweb-fr-star-keolis-rennes-rennes--2,,active
-FR,Rennes,STAR (Keolis Rennes) / Rennes Métropole,https://proxy.transport.data.gouv.fr/resource/star-rennes-integration-gtfs-rt-vehicle-position,rtweb-fr-star-keolis-rennes-rennes-,,active
 FR,Rennes Métropole,STAR,https://eu.ftp.opendatasoft.com/star/gtfs/GTFS_STAR_BUS_METRO_A_VENIR.zip,tdg-83282,odc-odbl,active
 FR,Rennes Métropole,STAR,https://eu.ftp.opendatasoft.com/star/gtfs/GTFS_STAR_BUS_METRO_EN_COURS.zip,tdg-83281,odc-odbl,active
 FR,Rethel,SNCF TER — Rethel,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-8d97a0f4f3,,active
@@ -14431,7 +14403,6 @@ FR,Rosporden,SNCF TER — Rosporden,https://eu.ftp.opendatasoft.com/sncf/gtfs/ex
 FR,Rosult,SNCF TER — Rosult,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-f467848ed0,,active
 FR,Rothau,SNCF TER — Rothau,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-439a4232d4,,active
 FR,Roubaix,SNCF TER — Roubaix,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-89ba7c343a,,active
-FR,Rouen,Astuce / TCAR (Transdev Rouen) — Métropole Rouen Normandie,https://gtfs.bus-tracker.fr/gtfs-rt/tcar/vehicle-positions,rtweb-fr-astuce-tcar-transdev-rouen,,active
 FR,Rouen,SNCF TER — Rouen,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-fa74761a7d,,active
 FR,Rouffach,SNCF TER — Rouffach,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-d56d0f3c93,,active
 FR,Rouille,SNCF TER — Rouille,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-f717d384e1,,active
@@ -14916,8 +14887,6 @@ FR,Toulon,SNCF TER — Toulon,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-t
 FR,Toulouse,SNCF TER — Toulouse,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-55895388c8,,active
 FR,Toulouse,Tisséo,https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/tisseo-gtfs/alternative_exports/utf_8tisseo_gtfs_v2_zip,fr-dork-tisseo,,active
 FR,Toulouse,Tisséo (Tisséo Voyageurs),https://api.tisseo.fr/opendata/gtfsrt/,fr-disc-1,,active
-FR,Toulouse,Tisséo Voyageurs,https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.json,rtweb-fr-tisseo-voyageurs,,active
-FR,Toulouse,Tisséo Voyageurs / Tisséo Collectivités,https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.pb,rtweb-fr-tisseo-voyageurs-tisseo-co,,active
 FR,Toulouse Métropole,Toulouse métropole,https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/files/fc1dda89077cf37e4f7521760e0ef4e9/download/,tdg-81678,odc-odbl,active
 FR,Tourcoing,SNCF TER — Tourcoing,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-f9bb464df2,,active
 FR,Tournay,SNCF TER — Tournay,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-8886ee04fb,,active
@@ -15670,7 +15639,6 @@ GB,Boughton,BODS — Boughton,https://data.bus-data.dft.gov.uk/timetable/downloa
 GB,Bourne,BODS — Bourne,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-08623c655b,,active
 GB,Bourne End,BODS — Bourne End,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-0b4fe289b2,,active
 GB,Bournemouth,BODS — Bournemouth,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-4b8145089b,,active
-GB,Bournemouth/Poole (morebus),morebus / Go South Coast / Passenger (Arctic),https://morebus.arcticapi.com/network/vehicles,rtweb-gb-morebus-go-south-coast-pas,,active
 GB,Bourton on the Water,BODS — Bourton on the Water,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-729d313a63,,active
 GB,Bovey Tracey,BODS — Bovey Tracey,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-77b617519c,,active
 GB,Bovingdon,BODS — Bovingdon,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-bbf407ecab,,active
@@ -15735,7 +15703,6 @@ GB,Brigg,BODS — Brigg,https://data.bus-data.dft.gov.uk/timetable/download/gtfs
 GB,Brighouse,BODS — Brighouse,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-8c8d2660df,,active
 GB,Brightlingsea,BODS — Brightlingsea,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-96222d96b7,,active
 GB,Brighton,BODS — Brighton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-cf70828230,,active
-GB,Brighton & Hove,Brighton & Hove Buses (Go-Ahead) / Passenger (Arctic) backend,https://brightonhove.arcticapi.com/network/vehicles,rtweb-gb-brighton-hove-buses-go-ahe,,active
 GB,Brighton and Hove,Brighton & Hove Bus,https://data.discoverpassenger.com/operator/brightonhove/dataset/current/download/gtfs,mdb-1928,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Brimscombe,BODS — Brimscombe,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-99be63408e,,active
 GB,Bristol,BODS — Bristol,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-adfa8e3778,,active
@@ -17151,7 +17118,6 @@ GB,Littleborough,BODS — Littleborough,https://data.bus-data.dft.gov.uk/timetab
 GB,Littlehampton,BODS — Littlehampton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-cdcfb709d7,,active
 GB,Littleport,BODS — Littleport,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-0e1f4aef6a,,active
 GB,Liverpool,BODS — Liverpool,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-2f72a99abd,,active
-GB,Liverpool (Merseyrail),Merseyrail via National Rail Darwin (Huxley2 JSON proxy),https://huxley2.azurewebsites.net/departures/LVC,rtweb-gb-merseyrail-via-national-ra,,active
 GB,Liversedge,BODS — Liversedge,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-5ad7bdb137,,active
 GB,Livingston,BODS — Livingston,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-58c5012df3,,active
 GB,Llanarth,BODS — Llanarth,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-0e4928a6e1,,active
@@ -17228,7 +17194,6 @@ GB,Londesborough,BODS — Londesborough,https://data.bus-data.dft.gov.uk/timetab
 GB,London,BODS — London,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-48aa74ad94,,active
 GB,London,Transport for London (TfL Unified API),https://api.tfl.gov.uk/StopPoint/{stopId}/Arrivals,rtweb-gb-transport-for-london-tfl-uni,,active
 GB,London,Transport for London (TfL) — buses via BODS region feed,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/london/,gb-disc-9,,active
-GB,London,Transport for London (Unified API),https://api.tfl.gov.uk/Line/{lineId}/Arrivals,rtweb-gb-transport-for-london-unifi,,active
 GB,London Borough of Haringey,Chiltern Railways,https://openmobilitydata-data.s3.us-west-1.amazonaws.com/public/feeds/association-of-train-operating-companies/284/20210423/gtfs.zip,mdb-1311,,active
 GB,Long Ashton,BODS — Long Ashton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-be997f8f27,,active
 GB,Long Bennington,BODS — Long Bennington,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-5ba0e7fcf0,,active
@@ -17472,9 +17437,6 @@ GB,Nantwich,BODS — Nantwich,https://data.bus-data.dft.gov.uk/timetable/downloa
 GB,Narberth,BODS — Narberth,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-9581fe6c75,,active
 GB,Narborough,BODS — Narborough,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-5776ee93c4,,active
 GB,Nash,BODS — Nash,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-90f778a633,,active
-GB,National (all England),DfT Bus Open Data Service (BODS),https://data.bus-data.dft.gov.uk/api/v1/datafeed/?api_key=YOUR_KEY,rtweb-gb-dft-bus-open-data-service-,,active
-GB,National (all England),DfT Bus Open Data Service (BODS),https://data.bus-data.dft.gov.uk/api/v1/gtfsrtdatafeed/?api_key=YOUR_KEY,rtweb-gb-dft-bus-open-data-service--2,,active
-GB,National aggregator (any UK bbox),"bustimes.org (open-data aggregator, mirrors BODS SIRI-VM)",https://bustimes.org/vehicles.json?ymax=53.81&xmax=-1.53&ymin=53.78&xmin=-1.57,rtweb-gb-bustimes-org-open-data-agg,,active
 GB,Navenby,BODS — Navenby,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-62803675ca,,active
 GB,Neath,BODS — Neath,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-286aaa6fab,,active
 GB,Necton,BODS — Necton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-09f58a206e,,active
@@ -17577,7 +17539,6 @@ GB,Norton,BODS — Norton,https://data.bus-data.dft.gov.uk/timetable/download/gt
 GB,Norton Canes,BODS — Norton Canes,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-246d4e82e7,,active
 GB,Norwich,BODS — Norwich,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-749712ebd0,,active
 GB,Nottingham,BODS — Nottingham,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-d090da8faa,,active
-GB,Nottingham,Nottingham City Transport / Passenger (Arctic) backend,https://nctx.arcticapi.com/network/vehicles,rtweb-gb-nottingham-city-transport-,,active
 GB,Notton,BODS — Notton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-0bf13f730d,,active
 GB,Nuneaton,BODS — Nuneaton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-8fc50bda5c,,active
 GB,Nunthorpe,BODS — Nunthorpe,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-3206472d90,,active
@@ -17806,7 +17767,6 @@ GB,Rawtenstall,BODS — Rawtenstall,https://data.bus-data.dft.gov.uk/timetable/d
 GB,Rayleigh,BODS — Rayleigh,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-3b94908065,,active
 GB,Rayne,BODS — Rayne,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-17a73ba7a7,,active
 GB,Reading,BODS — Reading,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-b2617dd0be,,active
-GB,Reading,Reading Buses / Thames Valley Buses / Passenger (Arctic) backend,https://readingbuses.arcticapi.com/network/vehicles,rtweb-gb-reading-buses-thames-valle,,active
 GB,Redbourn,BODS — Redbourn,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-99a84ec143,,active
 GB,Redbourne,BODS — Redbourne,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-b6424f4626,,active
 GB,Redcar,BODS — Redcar,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-1d4f4f060a,,active
@@ -17929,7 +17889,6 @@ GB,Salford,BODS — Salford,https://data.bus-data.dft.gov.uk/timetable/download/
 GB,Salfords,BODS — Salfords,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-946b76eedf,,active
 GB,Saline,BODS — Saline,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-bf1a2b4113,,active
 GB,Salisbury,BODS — Salisbury,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-cf7b515d42,,active
-GB,Salisbury (Salisbury Reds),Salisbury Reds / Go South Coast / Passenger (Arctic),https://salisburyreds.arcticapi.com/network/vehicles,rtweb-gb-salisbury-reds-go-south-co,,active
 GB,Saltash,BODS — Saltash,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-143b6e6fdb,,active
 GB,Saltburn-by-the-Sea,BODS — Saltburn-by-the-Sea,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-d33390960b,,active
 GB,Saltcoats,BODS — Saltcoats,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-42161becae,,active
@@ -18098,7 +18057,6 @@ GB,Southam,BODS — Southam,https://data.bus-data.dft.gov.uk/timetable/download/
 GB,Southampton,BODS — Southampton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-2b71f0041f,,active
 GB,Southampton,Bluestar Bus,https://data.discoverpassenger.com/operator/bluestar/dataset/current/download/gtfs,mdb-2907,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
 GB,Southampton,Unilink,https://data.discoverpassenger.com/operator/unilink/dataset/current/download/gtfs,mdb-1955,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
-GB,Southampton (Bluestar),Bluestar / Go South Coast / Passenger (Arctic),https://bluestar.arcticapi.com/network/vehicles,rtweb-gb-bluestar-go-south-coast-pa,,active
 GB,Southchurch Village,BODS — Southchurch Village,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-f4958049ea,,active
 GB,Southend-on-Sea,BODS — Southend-on-Sea,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-c9f154e223,,active
 GB,Southgate,BODS — Southgate,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-4a39eec008,,active
@@ -18246,7 +18204,6 @@ GB,Sway,BODS — Sway,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-f
 GB,Swillington,BODS — Swillington,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-f4140a330c,,active
 GB,Swindon,BODS — Swindon,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-b4069a5bd4,,active
 GB,Swindon,Swindon's Bus Company,https://data.discoverpassenger.com/operator/swindonbus/dataset/current/download/gtfs,mdb-1952,https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/,active
-GB,Swindon,Swindon's Bus Company / Passenger (Arctic),https://swindonbus.arcticapi.com/network/vehicles,rtweb-gb-swindon-s-bus-company-pass,,active
 GB,Swineshead,BODS — Swineshead,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-47a6aaa91d,,active
 GB,Swinton,BODS — Swinton,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-f2144f9522,,active
 GB,Syston,BODS — Syston,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-city-1a7fddb9de,,active
@@ -19299,8 +19256,6 @@ GH,Accra,Ghana Railway Company Limited (GRCL) - Accra suburban commuter rail,htt
 GH,Accra,World Bank Data Catalog,https://datacatalogfiles.worldbank.org/ddh-published/0038230/1/DR0046573/gtfs-accra-ghana-2016.zip,gh-dork-world-bank-data-catalog,,active
 GH,Kumasi,INGEROP,https://gitlab.com/digitaltransport/data/africa/kumasi/-/raw/master/GTFS-Kumasi.zip?inline=false,mdb-1814,,active
 GL,Sermersooq,Nuup Bussii A/S,https://github.com/thomasryde/nuup-bussii-gtfs/releases/latest/download/nuup-bussii-gtfs.zip,mdb-3106,,active
-GR,Athens,OASA / OSY (Odikes Sygkoinonies),https://telematics.oasa.gr/api/?act=getStopArrivals&p1=STOPCODE,rtweb-gr-oasa-osy-odikes-sygkoinoni,,active
-GR,Athens,OASA / OSY (buses + trolleybuses),https://telematics.oasa.gr/api/?act=getBusLocation&p1=ROUTECODE,rtweb-gr-oasa-osy-buses-trolleybuse,,active
 GR,Athens,"OASA — Athens Urban Transport Organisation (bus OSY, trolley, metro+ISAP+tram STASY, suburban rail)",https://www.geodata.gov.gr/dataset/244cfb87-21a0-4f9f-90af-25e9a232af41/resource/d94179a0-a2bd-432f-8c5e-e05eae2886cf/download/googletransit.zip,gr-disc-33,,active
 GR,Municipal Unit of Kamatero,Athens Urban Transport Organization (OASA) - Road Transport Routes,https://data.gov.gr/dataset/fb049bb1-aea6-4443-95fa-8b941dd6a057/resource/119db488-16ea-4c76-b560-41c472872390/download/osy_gtfs.zip,mdb-3220,,active
 GR,Municipality of Piraeus,Athens Urban Transport Organization (OASA) - Rail Routes,https://data.gov.gr/dataset/4e897a75-975a-4ce7-af65-f32ea01f93b9/resource/5e3858ee-d9ba-48c2-9015-744ea160976d/download/stasy_gtfs.zip,mdb-3221,,active
@@ -19552,7 +19507,6 @@ IT,Barberino Tavarnelle,Autolinee Toscane - Servizi Area Poggibonsi,https://dati
 IT,Barberino di Mugello,Autolinee Toscane - ExtraUrbano Firenze,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/d6dc70c1-24ca-4d18-8f9c-b266d64fe4c9/download/26-extraurbanofirenze.gtfs,tld-6953,,active
 IT,Barga,Autolinee Toscane - Emg Extraurbano Lucca,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/06a988de-61a7-4720-abdd-990e130a4cb7/download/221-emgextraurbanolucca.gtfs,tld-6986,,active
 IT,Barga,Autolinee Toscane - ExtraUrbano Lucca,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/83944446-5fc9-4ff7-8917-e195b4f3285c/download/21-extraurbanolucca.gtfs,tld-6987,,active
-IT,Bari,AMTAB,https://avl.amtab.it/WSExportGTFS_RT/api/gtfs/VechiclePosition,rtweb-it-amtab,,active
 IT,Bari,AMTAB Bari,https://opendata.comune.bari.it/dataset/1692384a-748f-47f6-b372-42cca9eaeba0/resource/b40d89da-7499-4703-ab30-80f4344fb2e7/download/google_transit.zip,it-eu-amtab-bari,CC BY,active
 IT,Bari,FAL - Ferrovie Appulo Lucane,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bari/fal-ferrovie-appulo-lucane/gtfs/,it-llm-fal-ferrovie-appulo-lucane,,active
 IT,Bari,STP S.p.A. (Società Trasporti Provinciale),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bari/stp-s-p-a-societa-trasporti-provinciale/gtfs/,it-llm-stp-s-p-a-societa-trasporti-provinciale,,active
@@ -19560,7 +19514,6 @@ IT,Bergamo,ATB (Azienda Trasporti Bergamo),https://raw.githubusercontent.com/jqu
 IT,Bergamo,"Bergamo Trasporti Est / Ovest / Sud (suburban consortia; operated by Arriva Italia, SAB Autoservizi, SAV Visinoni, SAI Autolinee, Autoservizi Locatelli)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bergamo/bergamo-trasporti-est-ovest-sud-suburban-consort/gtfs/,it-llm-bergamo-trasporti-est-ovest-sud-suburban,,active
 IT,Bergamo,TEB (Tramvie Elettriche Bergamasche) - T1 tram Bergamo-Albino,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/bergamo/teb-tramvie-elettriche-bergamasche-t1-tram-berga/gtfs/,it-llm-teb-tramvie-elettriche-bergamasche-t1-tr,,active
 IT,Bidda Matzràxia/Villamassargia,TRENITALIA,http://www.sardegnamobilita.it/opendata/dati_trenitalia.zip,mdb-1052,,active
-IT,Bologna,TPER (HelloBus),https://hellobuswsweb.tper.it/web-services/hellobus.asmx/QueryHellobus?fermata={STOP}&linea={LINE}&oraHHMM=,rtweb-it-tper-hellobus,,active
 IT,Bologna,TPER (Trasporto Passeggeri Emilia-Romagna),https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20260709&format=zip,it-eu-tper-trasporto-passeggeri-emilia-r,CC BY 3.0 IT,active
 IT,Bologna,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gtfsmex&version=20251223&format=zip,mdb-3041,https://solweb.tper.it/web/tools/open-data/open-data.aspx,active
 IT,Bolzano/Bozen (whole South Tyrol),STA — altoadigemobilità/Südtirolmobil (incl. SASA Bolzano/Merano urban + SAD/regional extra-urban + rail + cable cars),https://gtfs.api.opendatahub.com/v1/dataset/sta-time-tables/raw,it-eu-sta-altoadigemobilita-sudtirolmobi,CC0,active
@@ -19606,8 +19559,6 @@ IT,Collesalvetti,Autolinee Toscane - Urbano Livorno,https://dati.toscana.it/data
 IT,Empoli,Autolinee Toscane - Urbano Empoli,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/9bf0a1cf-2a24-4716-9de2-0a6272fd997e/download/69-urbanoempoli.gtfs,tld-6990,,active
 IT,Fano,Trenitalia | Contram Mobilita s.c.p.a. | Trasfer Soc. Cons. a.r.l. | Adriabus spa | Soc. Consortile A.T.M.A. | Start Spa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/4f85393b-357d-443d-8378-65de4198505f/download/trenitalia.gtfs,mdb-1319,http://www.opendefinition.org/licenses/cc-by,active
 IT,Ferrara,TPER (Trasporto Passeggeri Emilia-Romagna),https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260522&format=zip,it-eu2-tper-trasporto-passeggeri-emilia,TPER Open Data (see solweb.tper.it open-data-legal.aspx),active
-IT,Florence,Autolinee Toscane (Regione Toscana open data),https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/trip-updates,rtweb-it-autolinee-toscane-regione--2,,active
-IT,Florence,Autolinee Toscane (Regione Toscana open data),https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/vehicle-positions,rtweb-it-autolinee-toscane-regione-,,active
 IT,Florence,Autolinee Toscane - Linee Regionali,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/ae4594d4-d395-4651-a097-446e878e9005/download/90-lineeregionali.gtfs,tld-6957,,active
 IT,Florence,Autolinee Toscane - Urbano Area Metropolitana Fiorentina,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/20813d08-a8dd-48ad-9fd5-38ca16a2fd79/download/48-urbanoareametropolitanafiorentina.gtfs,tld-6959,,active
 IT,Florence,City Sightseeing Firenze (hop-on hop-off),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/florence/city-sightseeing-firenze-hop-on-hop-off/gtfs/,it-llm-city-sightseeing-firenze-hop-on-hop-off,,active
@@ -19730,9 +19681,6 @@ IT,Trento,Trentino Trasporti SpA (TT),https://www.trentinotrasporti.it/opendata/
 IT,Trieste,"Tram di Opicina (Trieste-Opicina tramway, Line 2, Trieste Trasporti)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/trieste/tram-di-opicina-trieste-opicina-tramway-line-2-t/gtfs/,it-llm-tram-di-opicina-trieste-opicina-tramway-,,active
 IT,Trieste,Trieste Trasporti,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/trieste/trieste-trasporti/gtfs/,it-llm-trieste-trasporti,,active
 IT,Turi,Sitasud,http://www.gioialab.it/openbus/opendata/sita,f-srk0-sitasud,http://www.gioialab.it,active
-IT,Turin,GTT (via 5T S.r.l.),https://percorsieorari.gtt.to.it/das_gtfsrt/alerts.aspx,rtweb-it-gtt-via-5t-s-r-l-3,,active
-IT,Turin,GTT (via 5T S.r.l.),https://percorsieorari.gtt.to.it/das_gtfsrt/trip_update.aspx,rtweb-it-gtt-via-5t-s-r-l-2,,active
-IT,Turin,GTT (via 5T S.r.l.),https://percorsieorari.gtt.to.it/das_gtfsrt/vehicle_position.aspx,rtweb-it-gtt-via-5t-s-r-l,,active
 IT,U Pàize/Carloforte,Delcomar,http://www.sardegnamobilita.it/opendata/dati_mare.zip,mdb-1047,https://creativecommons.org/licenses/by/4.0/deed.it,active
 IT,Valla,Mobilitadimarca,https://mobilitadimarca.it/treviso/google_transit.zip,f-u20-mobilitadimarca,CC-BY-4.0,active
 IT,Vecchiano,Autolinee Toscane - Urbano Pisa,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/e12be15e-5cd2-48d7-84c7-dcfa2976103c/download/44-urbanopisa.gtfs,tld-6970,,active
@@ -22272,7 +22220,6 @@ LU,Leudelange,mobiliteit.lu — Leudelange,https://download.data.public.lu/resou
 LU,Lintgen,mobiliteit.lu — Lintgen,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-ecd6d413e7,,active
 LU,Lorentzweiler,mobiliteit.lu — Lorentzweiler,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-3622455041,,active
 LU,Luxembourg,mobiliteit.lu — Luxembourg,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-473e222026,,active
-LU,Luxembourg (national),Verkéiersverbond / ATP (mobiliteit.lu),https://cdt.hafas.de/opendata/apiserver/departureBoard?accessId=<KEY>&id=<stopExtId>&format=json,rtweb-lu-verkeiersverbond-atp-mobil,,active
 LU,Mamer,mobiliteit.lu — Mamer,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-21627cceea,,active
 LU,Manternach,mobiliteit.lu — Manternach,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-0b5b6658d8,,active
 LU,Medernach,mobiliteit.lu — Medernach,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-0b26273bdd,,active
@@ -22785,11 +22732,7 @@ PT,Estômbar e Parchal,Vamus Transportes do Algarve,https://drive.google.com/uc?
 PT,Faro,Próximo - Transportes Urbanos de Faro,https://drive.google.com/uc?export=download&id=1xNHjM7yl-SS1jCkGrvIBBlOhUkFfNBjY,tld-4321,,active
 PT,Graça,RDL RODOVIÁRIA DO LIS II,https://drive.google.com/uc?export=download&id=192Qat2jJKyv5hhO8T3eVT70M5NB0dtXC,tld-7876,,active
 PT,Leca do Bailio,Metrodoporto,https://www.metrodoporto.pt/metrodoporto/uploads/document/file/693/horarios_gtfs_08_04_2024.zip,f-ez3f-metrodoporto,,active
-PT,Lisbon,Metropolitano de Lisboa (Metro),https://app.metrolisboa.pt/status/getLinhas.php,rtweb-pt-metropolitano-de-lisboa-me,,active
 PT,Lisbon (metropolitan area),Carris Metropolitana,https://api.carrismetropolitana.pt/vehicles,rtweb-pt-carris-metropolitana,,active
-PT,Lisbon (metropolitan area),Carris Metropolitana (TML),https://api.carrismetropolitana.pt/v2/alerts.pb,rtweb-pt-carris-metropolitana-tml-3,,active
-PT,Lisbon (metropolitan area),Carris Metropolitana (TML),https://api.carrismetropolitana.pt/v2/vehicles,rtweb-pt-carris-metropolitana-tml,,active
-PT,Lisbon (metropolitan area),Carris Metropolitana (TML),https://api.carrismetropolitana.pt/v2/vehicles.pb,rtweb-pt-carris-metropolitana-tml-2,,active
 PT,Luz,A Onda - Mobilidade Urbana,https://drive.google.com/uc?export=download&id=1aPfsxHqopxxcjV8HlRzImzxh_a6zRxGp,tld-4316,,active
 PT,Montijo e Afonsoeiro,Transportes Metropolitanos de Lisboa (TML),https://go.tmlmobilidade.pt/hub/api/v1/plans/gtfs,mdb-3412,https://github.com/tmlmobilidade/go?tab=AGPL-3.0-1-ov-file,active
 PT,Nogueiró e Tenões,Transportes Urbanos de Braga (TUB),https://www.tub.pt/developer/gtfs/feed/tub.zip,mdb-1927,,active
@@ -22824,7 +22767,6 @@ RO,Bucharest,STB (Societatea de Transport Bucuresti),https://gtfs.tpbi.ro/region
 RO,Bucharest (+ Ilfov),"TPBI regional (STB, STV, Metrorex, Ecotrans/STCM, Regio Serv) — unified feed",https://gtfs.tpbi.ro/regional/,ro-disc-31,,active
 RO,Buzău,Consiliul Județean Buzău - Transport județean,https://github.com/Andrei7506238/Buzau-Transit-Open-GTFS/releases/download/gtfs-latest/buzau-gtfs.zip,mdb-3179,,active
 RO,Buzău,Transbus Buzău,https://gtfs.opendev.ro/GTFS-301.zip,mdb-2106,,active
-RO,Cluj-Napoca,Tranzy (CTP Cluj) - tranzy.ai platform,https://api.tranzy.dev/v1/opendata/vehicles,rtweb-ro-tranzy-ctp-cluj-tranzy-ai-,,active
 RO,Constanța,CT BUS Constanța,https://external.gtfs.ro/constanta/CONSTANTA.zip,mdb-2100,,active
 RO,Dolj,RAT Craiova,https://external.gtfs.ro/craiova/CRAIOVA.zip,mdb-2115,,active
 RO,Dâmbovița,Servicii Publice Municipale Târgoviște,https://gtfs.opendev.ro/GTFS-306.zip,mdb-2107,,active
@@ -23010,8 +22952,6 @@ SI,Kamnik,"Družbe za upravljanje javnega potniškega prometa, d.o.o.",https://b
 SI,Koper,Koper city transport (Arriva),http://gtfs.derp.si/koper_gtfs.zip,si-nap-koper-city-transport-arriva,CC-BY-SA-4.0,active
 SI,Kranj,Kranj city transport (LPP Kranj),https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/kranj/latest/kranj_gtfs.zip,si-nap-kranj-city-transport-lpp-kranj,CC-BY-SA-4.0,active
 SI,Kranjska Gora,TURIZEM KRANJSKA GORA,https://b2b.nap.si/data/b2b.gtfs.kranjska-gora,mdb-2943,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
-SI,Ljubljana,LPP (Ljubljanski potniski promet),https://data.lpp.si/api/route/active-routes,rtweb-si-lpp-ljubljanski-potniski-p-2,,active
-SI,Ljubljana,LPP (Ljubljanski potniski promet),https://data.lpp.si/api/station/arrival?station-code=600011,rtweb-si-lpp-ljubljanski-potniski-p,,active
 SI,Ljubljana,Ljubljanski Potniski Promet (LPP),https://avl.lpp.si/transit/api/gtfs,si-disc-16,,active
 SI,Ljubljana,Ljubljanski Potniški Promet,https://data.lpp.si/api/gtfs/feed.zip,mdb-1827,,active
 SI,Maribor,Marprom,https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/marprom_official/latest/marprom_gtfs.zip,si-nap-marprom,CC-BY-SA-4.0,active
