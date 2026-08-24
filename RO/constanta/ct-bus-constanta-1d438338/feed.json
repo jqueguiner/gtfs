@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CT BUS Constanta",
+    "country": "RO",
+    "subdivision": "Constanta",
+    "city": "Constanta"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://info.ctbus.ro/rp/api/lines",
+    "mdb_id": "rtweb-ro-ct-bus-constanta",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

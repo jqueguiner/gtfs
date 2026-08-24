@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KORDIS JMK / IDS JMK (DPMB)",
+    "country": "CZ",
+    "subdivision": "South Moravia",
+    "city": "Brno"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gis.brno.cz/ags4/rest/services/stream_kordis_26/StreamServer",
+    "mdb_id": "rtweb-cz-kordis-jmk-ids-jmk-dpmb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

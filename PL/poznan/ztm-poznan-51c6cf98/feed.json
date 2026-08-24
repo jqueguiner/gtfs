@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ZTM Poznan",
+    "country": "PL",
+    "subdivision": "Greater Poland",
+    "city": "Poznan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile?file=vehicle_positions.pb",
+    "mdb_id": "rtweb-pl-ztm-poznan",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

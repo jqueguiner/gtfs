@@ -1558,5 +1558,85 @@
 "rt_type": "json_positions",
 "rt_format": "json",
 "needs_auth": false
+},
+{
+"url": "https://go.bkk.hu/api/query/v1/ws/gtfs-rt/full/VehiclePositions.pb",
+"cc": "HU",
+"city": "Budapest",
+"subdiv": "Budapest",
+"provider": "BKK (Budapesti Kozlekedesi Kozpont) / Futar",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": true
+},
+{
+"url": "https://go.bkk.hu/api/query/v1/ws/gtfs-rt/full/TripUpdates.pb",
+"cc": "HU",
+"city": "Budapest",
+"subdiv": "Budapest",
+"provider": "BKK Futar",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": true
+},
+{
+"url": "https://track.ua-gis.com/gtfs/lviv/vehicle_position",
+"cc": "UA",
+"city": "Lviv",
+"subdiv": "Lviv Oblast",
+"provider": "EasyWay / ua-gis (Lvivelectrotrans + city)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://info.stbsa.ro/rp/api/lines",
+"cc": "RO",
+"city": "Bucharest",
+"subdiv": "Bucuresti",
+"provider": "STB (Societatea de Transport Bucuresti)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://info.ctbus.ro/rp/api/lines",
+"cc": "RO",
+"city": "Constanta",
+"subdiv": "Constanta",
+"provider": "CT BUS Constanta",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://www.ztm.poznan.pl/pl/dla-deweloperow/getGtfsRtFile?file=vehicle_positions.pb",
+"cc": "PL",
+"city": "Poznan",
+"subdiv": "Greater Poland",
+"provider": "ZTM Poznan",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://zet.hr/gtfs-rt-protobuf",
+"cc": "HR",
+"city": "Zagreb",
+"subdiv": "Zagreb",
+"provider": "ZET (Zagrebacki elektricni tramvaj)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gis.brno.cz/ags4/rest/services/stream_kordis_26/StreamServer",
+"cc": "CZ",
+"city": "Brno",
+"subdiv": "South Moravia",
+"provider": "KORDIS JMK / IDS JMK (DPMB)",
+"rt_type": "json_positions",
+"rt_format": "esri stream (websocket) / arcgis json",
+"needs_auth": false
 }
 ]

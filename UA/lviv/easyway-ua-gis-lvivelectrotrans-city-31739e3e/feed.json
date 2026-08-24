@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EasyWay / ua-gis (Lvivelectrotrans + city)",
+    "country": "UA",
+    "subdivision": "Lviv Oblast",
+    "city": "Lviv"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://track.ua-gis.com/gtfs/lviv/vehicle_position",
+    "mdb_id": "rtweb-ua-easyway-ua-gis-lvivelectro",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
