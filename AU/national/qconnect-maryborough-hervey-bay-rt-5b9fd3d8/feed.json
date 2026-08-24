@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "qconnect maryborough hervey bay rt",
+    "country": "AU",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfsrt.api.translink.com.au/api/realtime/MHB/VehiclePositions",
+    "mdb_id": "rt-ve-f-qconnect~maryborough~hervey~bay~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

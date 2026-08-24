@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sankobus sankobus rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/realtime/sankobus_trip_update.bin",
+    "mdb_id": "rt-tr-f-sankobus~sankobus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

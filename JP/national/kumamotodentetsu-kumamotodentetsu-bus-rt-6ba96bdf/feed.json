@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kumamotodentetsu kumamotodentetsu bus rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/realtime/dentetsu_vpos_update.bin",
+    "mdb_id": "rt-ve-f-kumamotodentetsu~kumamotodentetsu~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

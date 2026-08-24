@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "simcoe on ca rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-simcoe/tripupdates.pb",
+    "mdb_id": "rt-tr-f-simcoe~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

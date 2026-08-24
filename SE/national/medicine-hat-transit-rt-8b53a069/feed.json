@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "medicine hat transit rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://medicinehat.tmix.se/gtfs-realtime/vehicleupdates.pb",
+    "mdb_id": "rt-ve-f-medicine~hat~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

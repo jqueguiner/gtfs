@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit east kootenay region rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=21",
+    "mdb_id": "rt-ve-f-bctransit~east~kootenay~region~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

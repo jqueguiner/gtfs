@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit port alberni rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=11",
+    "mdb_id": "rt-al-f-bctransit~port~alberni~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

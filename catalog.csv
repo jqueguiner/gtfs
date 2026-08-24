@@ -117,6 +117,30 @@ AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CN
 AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CNS/VehiclePositions,rt-ve-f-rhzx-translink~cairns~rt,,active
 AU,national,Alice~Springs~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice-springs.zip,f-alice~springs~nt~au,CC-BY-4.0,active
 AU,national,Darwin~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
+AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses,rt-tr-f-nsw~buses~rt,,active
+AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses,rt-ve-f-nsw~buses~rt,,active
+AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/buses,rt-al-f-nsw~buses~rt,,active
+AU,national,nsw ferries rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/ferries/sydneyferries,rt-tr-f-nsw~ferries~rt,,active
+AU,national,nsw ferries rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/ferries/sydneyferries,rt-ve-f-nsw~ferries~rt,,active
+AU,national,nsw ferries rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/ferries,rt-al-f-nsw~ferries~rt,,active
+AU,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/lightrail/innerwest,rt-tr-f-nsw~lightrail~rt,,active
+AU,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/lightrail/innerwest,rt-ve-f-nsw~lightrail~rt,,active
+AU,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/lightrail,rt-al-f-nsw~lightrail~rt,,active
+AU,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/metro,rt-al-f-nsw~metro~rt,,active
+AU,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/realtime/metro,rt-tr-f-nsw~metro~rt,,active
+AU,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos/metro,rt-ve-f-nsw~metro~rt,,active
+AU,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/nswtrains,rt-tr-f-nsw~nswtrains~rt,,active
+AU,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/nswtrains,rt-ve-f-nsw~nswtrains~rt,,active
+AU,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/nswtrains,rt-al-f-nsw~nswtrains~rt,,active
+AU,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/sydneytrains,rt-al-f-nsw~trains~rt,,active
+AU,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/realtime/sydneytrains,rt-tr-f-nsw~trains~rt,,active
+AU,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos/sydneytrains,rt-ve-f-nsw~trains~rt,,active
+AU,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/Alerts,rt-al-f-qconnect~maryborough~hervey~bay~rt,,active
+AU,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/TripUpdates,rt-tr-f-qconnect~maryborough~hervey~bay~rt,,active
+AU,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/VehiclePositions,rt-ve-f-qconnect~maryborough~hervey~bay~rt,,active
+AU,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/Alerts,rt-al-f-qconnect~north~stradbroke~island~rt,,active
+AU,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/TripUpdates,rt-tr-f-qconnect~north~stradbroke~island~rt,,active
+AU,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/VehiclePositions,rt-ve-f-qconnect~north~stradbroke~island~rt,,active
 BA,City of Mostar,Turistička agencija Li-Bus d.o.o. (Livnobus),https://livnobus.com/gtfs/google-transit,mdb-3427,,active
 BA,Mostar,Mostar Bus (MOBUS),https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/mostar-gtfs/latest/mobus_gtfs.zip,ba-eutail-mostar-bus-mobus,,active
 BA,Sarajevo,Centrotrans,https://gitlab.com/api/v4/projects/vekejsn%2Fgtfs-generators/packages/generic/centrotrans-gtfs/latest/centrotrans_gtfs.zip,ba-eutail-centrotrans,,active
@@ -142,6 +166,9 @@ BG,Pleven,Trolleybus Transport Pleven,https://external.gtfs.ro/pleven/PLEVEN.zip
 BG,Plovdiv,Trakia Tech (Plovdiv Municipality Google Transit partner),https://trakia.tech/gtfs/plovdiv.zip,bg-disc-32,,active
 BG,Vazrajdane,Urban Mobility Center - Sofia Traffic,https://gtfs.sofiatraffic.bg/api/v1/static,mdb-2848,https://www.sofiatraffic.bg/bg/info-center/gtfs-danni,active
 BG,national,Bdz~Bg,https://jbb.ghsq.de/gtfs/bg-bdz.gtfs.zip,f-bdz~bg,ODbL-1.0,active
+BG,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/alerts,rt-al-f-sofiatraffic~bg~rt,,active
+BG,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/trip-updates,rt-tr-f-sofiatraffic~bg~rt,,active
+BG,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/vehicle-positions,rt-ve-f-sofiatraffic~bg~rt,,active
 BM,national,Bermuda Department of Public Transportation,https://data.trilliumtransit.com/gtfs/bermuda-bm/bermuda-bm.zip,tld-6684,,active
 BO,Cochabamba,Trufi Association (community OSM-derived GTFS for the informal trufi/micro network),https://raw.githubusercontent.com/trufi-association/trufi-app/main/assets/routing/cochabamba.gtfs.zip,bo-w3-6,,active
 BO,La Paz,"La Paz BUS - PumaKatari & ChikiTiti (SETRAM, Gobierno Autónomo Municipal de La Paz)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/BO/la-paz/la-paz-bus-pumakatari-chikititi-setram-gobierno-/gtfs/,bo-llm-la-paz-bus-pumakatari-chikititi-setram-g,,active
@@ -584,6 +611,10 @@ CA,national,Guelph~Owen~Sound~Transportation~On~Ca,https://www.owensound.ca/medi
 CA,national,Kbus~Ns~Ca,https://kbus.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-kbus~ns~ca,,active
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
+CA,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/tripUpdates.pb,rt-tr-f-regional~municipality~of~wood~buffalo~rt,,active
+CA,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/vehiclePositions.pb,rt-ve-f-regional~municipality~of~wood~buffalo~rt,,active
+CA,national,yrt rt,http://rtu.york.ca/gtfsrealtime/TripUpdates,rt-tr-f-yrt~rt,,active
+CA,national,yrt rt,http://rtu.york.ca/gtfsrealtime/VehiclePositions,rt-ve-f-yrt~rt,,active
 CD,Kinshasa,Kinshasa~Dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/raw/main/GTFS%20Datasets/Kinshasa_GTFS.zip,f-kinshasa~dry,https://gitlab.com/digitaltransport/data/africa/kinshasa/-/blob/main/README.md,active
 CD,Kinshasa,Transco (Societe de Transports du Congo),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CD/kinshasa/transco-societe-de-transports-du-congo/gtfs/,cd-llm-transco-societe-de-transports-du-congo,,active
 CH,Aadorf,opentransportdata.swiss — Aadorf,https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-city-e9d30a7be4,,active
@@ -11062,6 +11093,7 @@ DE,national,enno,https://download.gtfs.de/germany/free/latest.zip,de-ag-2633f2d9
 DE,national,erixx,https://download.gtfs.de/germany/free/latest.zip,de-ag-d8a1905409,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,eurobahn,https://download.gtfs.de/germany/free/latest.zip,de-ag-7082a30fb3,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,go.on.,https://download.gtfs.de/germany/free/latest.zip,de-ag-4503309e21,CC-BY-4.0 (gtfs.de / DELFI),active
+DE,national,gtfs.de RT (Germany),https://download.gtfs.de/germany/rt/free.pb,rt-nat-de-ve,,active
 DE,national,metronom,https://download.gtfs.de/germany/free/latest.zip,de-ag-525ba561a4,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,mobus,https://download.gtfs.de/germany/free/latest.zip,de-ag-5ed0ab1309,CC-BY-4.0 (gtfs.de / DELFI),active
 DE,national,oberpfalzbahn - Die Länderbahn GmbH DLB,https://download.gtfs.de/germany/free/latest.zip,de-ag-bfe8cae506,CC-BY-4.0 (gtfs.de / DELFI),active
@@ -15163,6 +15195,7 @@ FR,national,Région Hauts-de-France,https://geocatalogue.hautsdefrance.fr/gtfs/R
 FR,national,Région Hauts-de-France,https://sig.hautsdefrance.fr/ext/opendata/Transport/GTFS/80/RHDF_GTFS_COM_80.zip,tdg-82277,notspecified,active
 FR,national,SNCF,https://eu.ftp.opendatasoft.com/sncf/plandata/Export_OpenData_SNCF_GTFS_NewTripId.zip,tdg-83582,odc-odbl,active
 FR,national,SNCF,https://www.data.gouv.fr/api/1/datasets/r/9ae758ec-cd7a-40cd-a890-bb3963224942,tdg-83582,https://opendatacommons.org/licenses/odbl/1.0/,active
+FR,national,SNCF TGV RT,https://proxy.transport.data.gouv.fr/resource/sncf-tgv-gtfs-rt-trip-updates,rt-nat-fr-tr,,active
 FR,national,Sub~Seau~Moselleetmadon~Fr,https://transport.data.gouv.fr/resources/80431/download,f-sub~seau~moselleetmadon~fr,ODbL-1.0,active
 FR,national,Syndicat mixte Atoumod,https://static.data.gouv.fr/resources/bacs-de-seine-departement-seine-maritime/20251230-075024/pt-th-offer-seinemaritime76-gtfs-20251230-303-opendata.zip,tdg-82308,lov2,active
 FR,national,TRENITALIA FRANCE,https://thello.axelor.com/public/gtfs/gtfs.zip,tdg-81653,lov2,active
@@ -15176,6 +15209,19 @@ FR,national,Troyes~Tcat~Fr,https://www.data.gouv.fr/fr/datasets/r/79151f50-b842-
 FR,national,Tréma~Fr,https://www.data.gouv.fr/fr/datasets/r/ad03b8ed-b904-4c23-aa4d-7544ea531a67,f-tréma~fr,https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-trema-gtfs,active
 FR,national,Tummnhildien~Seau~Tum~Fr,https://transport.data.gouv.fr/resources/80471/download,f-tummnhildien~seau~tum~fr,ODbL-1.0,active
 FR,national,Va~Navettes~Hivernales~Fr,https://www.data.gouv.fr/api/1/datasets/r/4d976a6e-2dcf-40e5-9bdb-5bc3c52325aa,f-va~navettes~hivernales~fr,ODbL-1.0,active
+FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-alerts,rt-al-f-aléop~pays~de~la~loire~rt,,active
+FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-trip-update,rt-tr-f-aléop~pays~de~la~loire~rt,,active
+FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-vehicle-position,rt-ve-f-aléop~pays~de~la~loire~rt,,active
+FR,national,cars région fr rt,https://www.itinisere.fr/ftp/GtfsRT/GtfsRT.CG38.pb,rt-tr-f-cars~région~fr~rt,,active
+FR,national,hubup mrc haut saint laurent rt,https://gtfs-rt.infra-hubup.fr/mrchsl/realtime,rt-ve-f-hubup~mrc~haut~saint~laurent~rt,,active
+FR,national,hyacinthe rt,https://gtfs-rt.infra-hubup.fr/lpdlestd/realtime,rt-ve-f-hubup~saint-hyacinthe~rt,,active
+FR,national,hyacinthe rt,https://gtfs-rt.infra-hubup.fr/toutenbus/realtime,rt-tr-f-hubup~saint-hyacinthe~rt,,active
+FR,national,ilevia lille fr rt,https://proxy.transport.data.gouv.fr/resource/ilevia-lille-gtfs-rt,rt-tr-f-ilevia~lille~fr~rt,,active
+FR,national,keolis dijon fr rt,https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-trip-update,rt-tr-f-keolis~dijon~fr~rt,,active
+FR,national,keolis dijon fr rt,https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-vehicle-position,rt-ve-f-keolis~dijon~fr~rt,,active
+FR,national,orizo grand avignon rt,https://export.tcra2.cityway.fr/GtfsRt/GtfsRT.TCRA.pb,rt-ve-f-orizo~grand~avignon~rt,,active
+FR,national,sncf fr rt,https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-service-alerts,rt-al-f-sncf~fr~rt,,active
+FR,national,sncf fr rt,https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-trip-updates,rt-tr-f-sncf~fr~rt,,active
 FR,Échenoz-la-Méline,Réseau moova - Communauté d'Agglomération de Vesoul,https://www.data.gouv.fr/api/1/datasets/r/0d6e6c56-8926-49b3-87e2-13c6f57c136b,tdg-81222,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 FR,Écouflant,Angers Loire Métropole,https://static.data.gouv.fr/resources/bacs-de-ecouflant-cantenay-epinard-et-pruille/20260511-094810/bacs-alm-gtfs.zip,tdg-84018,lov2,active
 FR,Épeigné-sur-Dême,JVMALIN,https://www.data.gouv.fr/api/1/datasets/r/6c52238c-1c1e-4c5a-922b-8b66c0415a9e,tdg-83530,https://opendatacommons.org/licenses/odbl/1.0/,active
@@ -19388,6 +19434,8 @@ IE,national,Tralee People's Bus Service,https://www.transportforireland.ie/trans
 IE,national,Treacy Coaches,https://www.transportforireland.ie/transitData/Data/GTFS_treacy_coaches.zip,ie-treacy-coaches,CC-BY-4.0,active
 IE,national,Walshs Coaches,https://www.transportforireland.ie/transitData/Data/GTFS_walsh_exec.zip,ie-walshs-coaches,CC-BY-4.0,active
 IE,national,Westlink Coaches,https://www.transportforireland.ie/transitData/Data/GTFS_westlink.zip,ie-westlink-coaches,CC-BY-4.0,active
+IE,national,national transport authority ie rt,https://api.nationaltransport.ie/gtfsr/v2/TripUpdates,rt-tr-f-national~transport~authority~ie~rt,,active
+IE,national,national transport authority ie rt,https://api.nationaltransport.ie/gtfsr/v2/Vehicles,rt-ve-f-national~transport~authority~ie~rt,,active
 IL,Petah Tikva Subdistrict,Ministry of Transport and Road Safety,https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip,mdb-2519,https://www.gov.il/he/pages/gtfs_general_transit_feed_specifications,active
 IN,Bengaluru,Bengaluru Metropolitan Transport Corporation (BMTC),https://raw.githubusercontent.com/Vonter/bmtc-gtfs/master/gtfs/bmtc.zip,in-bmtc-bengaluru,MIT,active
 IN,Chennai,Metropolitan Transport Corporation (MTC) / Chennai Metro (CMRL),https://busmaps.com/en/india/Chennai-MTC-CMRL/chennai-mtc-cmrl,in-mtc-cmrl-chennai,,active
@@ -21803,6 +21851,46 @@ JP,national,Yokosuka~Gtfs~Jp,https://www.city.yokosuka.kanagawa.jp/0830/opendata
 JP,national,Yonezawa~Gtfs~Jp,https://www.pref.yamagata.jp/documents/20978/yonezawa_gtfs.zip,f-yonezawa~gtfs~jp,CC-BY-4.0,active
 JP,national,Ysw1~Shinyabahigashi~Jp,https://www.city-nakatsu.jp/doc/2019072300060/file_contents/YSW1_Shinyabahigashi.zip,f-ysw1~shinyabahigashi~jp,CC-BY-4.0,active
 JP,national,Yutetsu~Bus~Jp,https://ckan.hoda.jp/dataset/24d1dd70-5395-4d6b-b41f-0d83e8eabdb9/resource/594c9dd3-d356-4445-98e2-c480d49c9d65/download/yutetsu_bus.zip,f-yutetsu~bus~jp,CC-BY-4.0,active
+JP,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_alrt_update_v2.bin,rt-al-f-komonotown~communitybus~rt,,active
+JP,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_trip_update_v2.bin,rt-tr-f-komonotown~communitybus~rt,,active
+JP,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_vpos_update_v2.bin,rt-ve-f-komonotown~communitybus~rt,,active
+JP,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin,rt-al-f-kuma~bus~kuma~bus~rt,,active
+JP,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_trip_update.bin,rt-tr-f-kuma~bus~kuma~bus~rt,,active
+JP,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_vpos_update.bin,rt-ve-f-kuma~bus~kuma~bus~rt,,active
+JP,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin,rt-al-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
+JP,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_trip_update.bin,rt-tr-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
+JP,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_vpos_update.bin,rt-ve-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
+JP,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin,rt-al-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
+JP,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_trip_update.bin,rt-tr-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
+JP,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_vpos_update.bin,rt-ve-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
+JP,national,kurobecity shinkansenikuji ishida aimoto minibus rt,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_city_bus/TripUpdates.pb,rt-tr-f-kurobecity~shinkansenikuji~ishida~aimoto~minibus~rt,,active
+JP,national,kurobecity shinkansenikuji ishida aimoto minibus rt,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_city_bus/VehiclePositions.pb,rt-ve-f-kurobecity~shinkansenikuji~ishida~aimoto~minibus~rt,,active
+JP,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoiga~rt,,active
+JP,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoiga~rt,,active
+JP,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoiga~rt,,active
+JP,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoise~rt,,active
+JP,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoise~rt,,active
+JP,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoise~rt,,active
+JP,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancokuwana~rt,,active
+JP,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancokuwana~rt,,active
+JP,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancokuwana~rt,,active
+JP,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancomatsusaka~rt,,active
+JP,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancomatsusaka~rt,,active
+JP,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancomatsusaka~rt,,active
+JP,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoshima~rt,,active
+JP,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoshima~rt,,active
+JP,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoshima~rt,,active
+JP,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoyokkaichi~rt,,active
+JP,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoyokkaichi~rt,,active
+JP,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoyokkaichi~rt,,active
+JP,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/ServiceAlert.pb,rt-al-f-owariasahicity~communitybus~rt,,active
+JP,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/TripUpdates.pb,rt-tr-f-owariasahicity~communitybus~rt,,active
+JP,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/VehiclePositions.pb,rt-ve-f-owariasahicity~communitybus~rt,,active
+JP,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin,rt-al-f-sankobus~sankobus~rt,,active
+JP,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_trip_update.bin,rt-tr-f-sankobus~sankobus~rt,,active
+JP,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_vpos_update.bin,rt-ve-f-sankobus~sankobus~rt,,active
+JP,national,toyamacity jojocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-jojo/TripUpdates.pb,rt-tr-f-toyamacity~jojocommunitybus~rt,,active
+JP,national,toyamacity jojocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-jojo/VehiclePositions.pb,rt-ve-f-toyamacity~jojocommunitybus~rt,,active
 JP,national,さいたま市見沼区大砂土東地区乗合タクシーみぬま号,https://opendata.pref.saitama.lg.jp/resource_download/6357,f-さいたま市見沼区大砂土東地区乗合タクシーみぬま号,CC-BY-4.0,active
 JP,national,さかわ~おち花＊花ループバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Niyodoblue_Shuttlebus.zip,f-さかわ~おち花＊花ループバス,CC-BY-4.0,active
 JP,national,つくば市~筑波地区支線型バスつくばね号,https://www.city.tsukuba.lg.jp/material/files/group/126/GTFS.zip,f-つくば市~筑波地区支線型バスつくばね号,CC-BY-4.0,active
@@ -22301,6 +22389,8 @@ NL,national,MeerPlus,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-0dd0cdf775,CC0,a
 NL,national,NMBS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-cb38fbefc0,CC0,active
 NL,national,NS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-53c8d15a17,CC0,active
 NL,national,NS International,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-e1d00c584b,CC0,active
+NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/tripUpdates.pb,rt-nat-nl-tr,,active
+NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/vehiclePositions.pb,rt-nat-nl-ve,,active
 NL,national,Qbuzz,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-dbe6a40c86,CC0,active
 NL,national,R-net NS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-38ba698cf3,CC0,active
 NL,national,R-net Qbuzz,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-71cae56727,CC0,active
@@ -22319,6 +22409,8 @@ NL,national,WaterShuttle,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-83d3a06fb2,C
 NL,national,Waterbus,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-1a203d3455,CC0,active
 NL,national,Westerschelde Ferry,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-cac8e3adf0,CC0,active
 NL,national,allGo (Keolis),https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-b9e171cab5,CC0,active
+NL,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/alert,rt-al-f-u-nmbs~sncb~rt,,active
+NL,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update,rt-tr-f-u-nmbs~sncb~rt,,active
 NO,Agder,Entur,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_norway-aggregated-gtfs.zip,mdb-1078,https://developer.entur.org/stops-and-timetable-data,active
 NO,Bergen,Beffen,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_bef-aggregated-gtfs.zip,no-beffen,NLOD,active
 NO,Bergen,Skyss,https://storage.googleapis.com/marduk-production/outbound/gtfs/rb_sky-aggregated-gtfs.zip,no-skyss,NLOD,active
@@ -22396,6 +22488,12 @@ NZ,Waimakariri District,Metro Christchurch,https://apis.metroinfo.co.nz/rti/gtfs
 NZ,Wellington City,Metlink,https://static.opendata.metlink.org.nz/v1/gtfs/full.zip,mdb-1132,http://www.metlink.org.nz/customer-services/general-transit-feed-specification/,active
 NZ,national,Baybus~Nz,https://faqs.baybus.co.nz/hc/en-nz/article_attachments/9375750637839,f-baybus~nz,CC-BY-4.0,active
 NZ,national,Boprc~Nz,https://data.trilliumtransit.com/gtfs/boprc-nz/boprc-nz.zip,f-boprc~nz,,active
+NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/servicealerts,rt-al-f-auckland~transport~rt,,active
+NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/tripupdates,rt-tr-f-auckland~transport~rt,,active
+NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/vehiclelocations,rt-ve-f-auckland~transport~rt,,active
+NZ,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/servicealerts,rt-al-f-metlink~nz~rt,,active
+NZ,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/tripupdates,rt-tr-f-metlink~nz~rt,,active
+NZ,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/vehiclepositions,rt-ve-f-metlink~nz~rt,,active
 OM,As Suwayq,Mwasalat,https://avl.mwasalat.om/data/gtfs/gtfs.zip,f-mwasalat,CC-BY-4.0,active
 PA,Panama City,"Metro de Panama, S.A.",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PA/panama-city/metro-de-panama-s-a/gtfs/,pa-llm-metro-de-panama-s-a,,active
 PA,Panama City,MiBus (Metrobus) — MiMovilidad Integral / Transporte Masivo de Panamá S.A.,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/PA/panama-city/mibus-metrobus-mimovilidad-integral-transporte-m/gtfs/,pa-llm-mibus-metrobus-mimovilidad-integral-tran,,active
@@ -22583,6 +22681,8 @@ PL,national,Bialostocka~Komunikacja~Miejska,http://komunikacja.bialystok.pl/cms/
 PL,national,Koleje Poludniowe / RegioJet-type,https://cdn.zbiorkom.live/gtfs/pkp-rj.zip,pl-pkp-rj,,active
 PL,national,PKP Intercity,https://cdn.zbiorkom.live/gtfs/pkp-ic.zip,pl-pkp-ic,,active
 PL,national,POLREGIO,https://cdn.zbiorkom.live/gtfs/pkp-pr.zip,pl-pkp-pr,,active
+PL,national,transport gzm pl rt,https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/tripUpdates,rt-tr-f-transport~gzm~pl~rt,,active
+PL,national,transport gzm pl rt,https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/vehiclePositions,rt-ve-f-transport~gzm~pl~rt,,active
 PL,Łomża,Miejskie Przedsiębiorstwo Komunikacyjne w Lomzy (MPK ZB w Łomży),https://mkuran.pl/gtfs/lomza.zip,mdb-1012,,active
 PL,Łódź,Lodz Suburban & Regional Bus,https://raw.githubusercontent.com/qbx-tt/gtfs-lodz-suburban/main/gtfs-lodz-suburban.zip,mdb-3477,,active
 PL,Świdnik County,Zarząd Transportu Miejskiego Lublin (ZTM Lublin),https://mkuran.pl/gtfs/lublin.zip,mdb-1013,,active
@@ -22747,6 +22847,63 @@ SE,national,SJ AB,https://opendata.samtrafiken.se/gtfs/sj/sj.zip?key={apikey},se
 SE,national,Samtrafiken i Sverige AB,https://api.resrobot.se/gtfs/sweden.zip?key={apikey},se-gtfs-sverige-2,CC0-1.0,active
 SE,national,Samtrafiken i Sverige AB,https://opendata.samtrafiken.se/gtfs-sweden/sweden.zip?key={apikey},se-gtfs-sweden-3,CC0-1.0,active
 SE,national,Trafiklab,https://opendata.samtrafiken.se/gtfs-sweden/sweden.zip,mdb-2939,https://www.trafiklab.se/api/gtfs-datasets/gtfs-sweden/#licence,active
+SE,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=21,rt-al-f-bctransit~east~kootenay~region~rt,,active
+SE,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=21,rt-tr-f-bctransit~east~kootenay~region~rt,,active
+SE,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=21,rt-ve-f-bctransit~east~kootenay~region~rt,,active
+SE,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=13,rt-al-f-bctransit~fraser~valley~region~rt,,active
+SE,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=13,rt-tr-f-bctransit~fraser~valley~region~rt,,active
+SE,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=13,rt-ve-f-bctransit~fraser~valley~region~rt,,active
+SE,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=14,rt-al-f-bctransit~north~okanagan~region~rt,,active
+SE,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=14,rt-tr-f-bctransit~north~okanagan~region~rt,,active
+SE,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=14,rt-ve-f-bctransit~north~okanagan~region~rt,,active
+SE,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=11,rt-al-f-bctransit~port~alberni~rt,,active
+SE,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=11,rt-tr-f-bctransit~port~alberni~rt,,active
+SE,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=11,rt-ve-f-bctransit~port~alberni~rt,,active
+SE,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=29,rt-al-f-bctransit~powell~river~rt,,active
+SE,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=29,rt-tr-f-bctransit~powell~river~rt,,active
+SE,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=29,rt-ve-f-bctransit~powell~river~rt,,active
+SE,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=23,rt-al-f-bctransit~prince~rupert~rt,,active
+SE,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=23,rt-tr-f-bctransit~prince~rupert~rt,,active
+SE,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=23,rt-ve-f-bctransit~prince~rupert~rt,,active
+SE,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=15,rt-al-f-bctransit~south~okanagan~similkameen~rt,,active
+SE,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=15,rt-tr-f-bctransit~south~okanagan~similkameen~rt,,active
+SE,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=15,rt-ve-f-bctransit~south~okanagan~similkameen~rt,,active
+SE,national,belleville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-belleville/alerts.pb,rt-al-f-belleville~on~ca~rt,,active
+SE,national,belleville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-belleville/tripupdates.pb,rt-tr-f-belleville~on~ca~rt,,active
+SE,national,cornwall on ca rt,https://metrolinx.tmix.se/gtfs-realtime-cornwall/alerts.pb,rt-al-f-cornwall~on~ca~rt,,active
+SE,national,cornwall on ca rt,https://metrolinx.tmix.se/gtfs-realtime-cornwall/tripupdates.pb,rt-tr-f-cornwall~on~ca~rt,,active
+SE,national,kawartha on ca rt,https://metrolinx.tmix.se/gtfs-realtime-kawartha/alerts.pb,rt-al-f-kawartha~on~ca~rt,,active
+SE,national,kawartha on ca rt,https://metrolinx.tmix.se/gtfs-realtime-kawartha/tripupdates.pb,rt-tr-f-kawartha~on~ca~rt,,active
+SE,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-medicine~hat~transit~rt,,active
+SE,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-medicine~hat~transit~rt,,active
+SE,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-medicine~hat~transit~rt,,active
+SE,national,metrolinx gtfs rt vehicles,https://metrolinx.tmix.se/gtfs-realtime-belleville/vehiclepositions.pb,rt-ve-f-metrolinx~gtfs~rt~vehicles,,active
+SE,national,milton on ca rt,https://metrolinx.tmix.se/gtfs-realtime-milton/alerts.pb,rt-al-f-milton~on~ca~rt,,active
+SE,national,milton on ca rt,https://metrolinx.tmix.se/gtfs-realtime-milton/tripupdates.pb,rt-tr-f-milton~on~ca~rt,,active
+SE,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-north~bay~transit~rt,,active
+SE,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-north~bay~transit~rt,,active
+SE,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-north~bay~transit~rt,,active
+SE,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-ontario~northland~ca~rt,,active
+SE,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-ontario~northland~ca~rt,,active
+SE,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-ontario~northland~ca~rt,,active
+SE,national,orangeville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orangeville/alerts.pb,rt-al-f-orangeville~on~ca~rt,,active
+SE,national,orangeville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orangeville/tripupdates.pb,rt-tr-f-orangeville~on~ca~rt,,active
+SE,national,orillia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orillia/alerts.pb,rt-al-f-orillia~on~ca~rt,,active
+SE,national,orillia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orillia/tripupdates.pb,rt-tr-f-orillia~on~ca~rt,,active
+SE,national,sarnia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-sarnia/alerts.pb,rt-al-f-sarnia~on~ca~rt,,active
+SE,national,sarnia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-sarnia/tripupdates.pb,rt-ve-f-sarnia~on~ca~rt,,active
+SE,national,saultstemarie on ca rt,https://metrolinx.tmix.se/gtfs-realtime-saultstemarie/alerts.pb,rt-al-f-saultstemarie~on~ca~rt,,active
+SE,national,saultstemarie on ca rt,https://metrolinx.tmix.se/gtfs-realtime-saultstemarie/tripupdates.pb,rt-tr-f-saultstemarie~on~ca~rt,,active
+SE,national,simcoe on ca rt,https://metrolinx.tmix.se/gtfs-realtime-simcoe/alerts.pb,rt-al-f-simcoe~on~ca~rt,,active
+SE,national,simcoe on ca rt,https://metrolinx.tmix.se/gtfs-realtime-simcoe/tripupdates.pb,rt-tr-f-simcoe~on~ca~rt,,active
+SE,national,stratford on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stratford/alerts.pb,rt-al-f-stratford~on~ca~rt,,active
+SE,national,stratford on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stratford/tripupdates.pb,rt-tr-f-stratford~on~ca~rt,,active
+SE,national,stthomas on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stthomas/alerts.pb,rt-al-f-stthomas~on~ca~rt,,active
+SE,national,stthomas on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stthomas/tripupdates.pb,rt-tr-f-stthomas~on~ca~rt,,active
+SE,national,temiskaming on ca rt,https://metrolinx.tmix.se/gtfs-realtime-temiskaming/alerts.pb,rt-al-f-temiskaming~on~ca~rt,,active
+SE,national,temiskaming on ca rt,https://metrolinx.tmix.se/gtfs-realtime-temiskaming/tripupdates.pb,rt-tr-f-temiskaming~on~ca~rt,,active
+SE,national,timmins on ca rt,https://metrolinx.tmix.se/gtfs-realtime-timmins/alerts.pb,rt-al-f-timmins~on~ca~rt,,active
+SE,national,timmins on ca rt,https://metrolinx.tmix.se/gtfs-realtime-timmins/tripupdates.pb,rt-tr-f-timmins~on~ca~rt,,active
 SE,Örebro County,Mälartåg ersättningstrafik,https://opendata.samtrafiken.se/gtfs/malartag/malartag.zip,mdb-3268,https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence,active
 SE,Örebro County,Vy Tåg AB,https://opendata.samtrafiken.se/gtfs/vy-varmlandnorge/vy-varmlandnorge.zip,mdb-3290,https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence,active
 SE,Örebro County,Vy Värmlandstrafik,https://opendata.samtrafiken.se/gtfs/vy-varmlandstrafik/vy-varmlandstrafik.zip,mdb-3291,https://www.trafiklab.se/api/gtfs-datasets/gtfs-regional/#licence,active
@@ -25520,6 +25677,9 @@ US,national,Yavapaiapachenation~Az~Us,https://rapid.nationalrtap.org/GTFSFileMan
 US,national,Yorktown~Va~Us,https://s3.amazonaws.com/etatransit.gtfs/historicyorktowntrolley.etaspot.net/gtfs.zip,f-yorktown~va~us,,active
 US,national,Yurok~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/YurokGTFS.zip,f-yurok~ca~us,https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines,active
 US,national,Ziatherapycenterinc~Nm~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11874/Zia_gtfs.zip,f-ziatherapycenterinc~nm~us,,active
+US,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-alerts,rt-al-f-metrolinktrains~rt,,active
+US,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-trips,rt-tr-f-metrolinktrains~rt,,active
+US,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-vehicles,rt-ve-f-metrolinktrains~rt,,active
 UY,Colonia,Colonia del Sacramento - Bus,https://github.com/manufarfaro/colonia-gtfs/releases/download/v0.3.0/gtfs.zip,mdb-3464,,active
 UY,Montevideo,MTOP / Dirección Nacional de Transporte (DNT),https://catalogodatos.gub.uy/dataset/1d50ccf7-121d-48a7-951e-28a02858d24e/resource/9f44b654-751a-42a4-a481-af91b7c9a2e4/download/gtfs_20260326.zip,uy-mtop-dnt-gtfs,Licencia de Datos Abiertos de Gobierno de Uruguay,active
 UZ,Tashkent,JSC Toshshahartransxizmat - City bus network,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/UZ/tashkent/jsc-toshshahartransxizmat-city-bus-network/gtfs/,uz-llm-jsc-toshshahartransxizmat-city-bus-netwo,,active
@@ -25601,9 +25761,6 @@ XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Real
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-altoona~metro~transit~rt,,active
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-altoona~metro~transit~rt,,active
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-altoona~metro~transit~rt,,active
-XX,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-alerts,rt-al-f-aléop~pays~de~la~loire~rt,,active
-XX,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-trip-update,rt-tr-f-aléop~pays~de~la~loire~rt,,active
-XX,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-vehicle-position,rt-ve-f-aléop~pays~de~la~loire~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-antelope~valley~transit~authority~rt,,active
@@ -25622,9 +25779,6 @@ XX,national,ata bus ks rt alerts,https://api.goswift.ly/real-time/flint-hills-at
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-athens~clarke~county~ga~rt,,active
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-athens~clarke~county~ga~rt,,active
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-athens~clarke~county~ga~rt,,active
-XX,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/servicealerts,rt-al-f-auckland~transport~rt,,active
-XX,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/tripupdates,rt-tr-f-auckland~transport~rt,,active
-XX,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/vehiclelocations,rt-ve-f-auckland~transport~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-bangor~me~us~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-bangor~me~us~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-bangor~me~us~rt,,active
@@ -25640,32 +25794,9 @@ XX,national,baton rouge cats rt,https://cats.rideralerts.com/InfoPoint/gtfs-real
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-trip-updates,rt-tr-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-vehicle-positions,rt-ve-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt alerts,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-alerts,rt-al-f-baytowntrolley~fl~rt~alerts,,active
-XX,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=21,rt-al-f-bctransit~east~kootenay~region~rt,,active
-XX,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=21,rt-tr-f-bctransit~east~kootenay~region~rt,,active
-XX,national,bctransit east kootenay region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=21,rt-ve-f-bctransit~east~kootenay~region~rt,,active
-XX,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=13,rt-al-f-bctransit~fraser~valley~region~rt,,active
-XX,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=13,rt-tr-f-bctransit~fraser~valley~region~rt,,active
-XX,national,bctransit fraser valley region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=13,rt-ve-f-bctransit~fraser~valley~region~rt,,active
-XX,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=14,rt-al-f-bctransit~north~okanagan~region~rt,,active
-XX,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=14,rt-tr-f-bctransit~north~okanagan~region~rt,,active
-XX,national,bctransit north okanagan region rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=14,rt-ve-f-bctransit~north~okanagan~region~rt,,active
-XX,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=11,rt-al-f-bctransit~port~alberni~rt,,active
-XX,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=11,rt-tr-f-bctransit~port~alberni~rt,,active
-XX,national,bctransit port alberni rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=11,rt-ve-f-bctransit~port~alberni~rt,,active
-XX,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=29,rt-al-f-bctransit~powell~river~rt,,active
-XX,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=29,rt-tr-f-bctransit~powell~river~rt,,active
-XX,national,bctransit powell river rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=29,rt-ve-f-bctransit~powell~river~rt,,active
-XX,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=23,rt-al-f-bctransit~prince~rupert~rt,,active
-XX,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=23,rt-tr-f-bctransit~prince~rupert~rt,,active
-XX,national,bctransit prince rupert rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=23,rt-ve-f-bctransit~prince~rupert~rt,,active
-XX,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=15,rt-al-f-bctransit~south~okanagan~similkameen~rt,,active
-XX,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=15,rt-tr-f-bctransit~south~okanagan~similkameen~rt,,active
-XX,national,bctransit south okanagan similkameen rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=15,rt-ve-f-bctransit~south~okanagan~similkameen~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-beckley~wv~us~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-beckley~wv~us~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-beckley~wv~us~rt,,active
-XX,national,belleville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-belleville/alerts.pb,rt-al-f-belleville~on~ca~rt,,active
-XX,national,belleville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-belleville/tripupdates.pb,rt-tr-f-belleville~on~ca~rt,,active
 XX,national,billings mt us rt,https://passio3.com/billings/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-billings~mt~us~rt,,active
 XX,national,billings mt us rt,https://passio3.com/billings/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-billings~mt~us~rt,,active
 XX,national,billings mt us rt,https://passio3.com/billings/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-billings~mt~us~rt,,active
@@ -25704,7 +25835,6 @@ XX,national,cap cotentin rt,https://app.pysae.com/api/v2/groups/transdev-cotenti
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-capitalareatransit~pa~rt,,active
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-capitalareatransit~pa~rt,,active
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-capitalareatransit~pa~rt,,active
-XX,national,cars région fr rt,https://www.itinisere.fr/ftp/GtfsRT/GtfsRT.CG38.pb,rt-tr-f-cars~région~fr~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-casper~wy~us~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-casper~wy~us~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-casper~wy~us~rt,,active
@@ -25749,8 +25879,6 @@ XX,national,connecttransit rt,https://rideconnecttransit.com/gtfs-rt/vehicleposi
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-cooperative~alliance~for~seacoast~transportation~rt,,active
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-cooperative~alliance~for~seacoast~transportation~rt,,active
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-cooperative~alliance~for~seacoast~transportation~rt,,active
-XX,national,cornwall on ca rt,https://metrolinx.tmix.se/gtfs-realtime-cornwall/alerts.pb,rt-al-f-cornwall~on~ca~rt,,active
-XX,national,cornwall on ca rt,https://metrolinx.tmix.se/gtfs-realtime-cornwall/tripupdates.pb,rt-tr-f-cornwall~on~ca~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/Alert.pb,rt-al-f-corpus~christi~regional~transportation~authority~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/TripUpdate.pb,rt-tr-f-corpus~christi~regional~transportation~authority~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/VehiclePosition.pb,rt-ve-f-corpus~christi~regional~transportation~authority~rt,,active
@@ -25879,10 +26007,6 @@ XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtim
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-hoboken~nj~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update?acl:consumerKey=,rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_vehicle?acl:consumerKey=,rt-ve-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
-XX,national,hubup mrc haut saint laurent rt,https://gtfs-rt.infra-hubup.fr/mrchsl/realtime,rt-ve-f-hubup~mrc~haut~saint~laurent~rt,,active
-XX,national,hyacinthe rt,https://gtfs-rt.infra-hubup.fr/lpdlestd/realtime,rt-ve-f-hubup~saint-hyacinthe~rt,,active
-XX,national,hyacinthe rt,https://gtfs-rt.infra-hubup.fr/toutenbus/realtime,rt-tr-f-hubup~saint-hyacinthe~rt,,active
-XX,national,ilevia lille fr rt,https://proxy.transport.data.gouv.fr/resource/ilevia-lille-gtfs-rt,rt-tr-f-ilevia~lille~fr~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-indiana~county~transit~authority~rt,,active
@@ -25924,8 +26048,6 @@ XX,national,kanawha valley regional transportation authority rt,https://gtfsrt.k
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_alert?acl:consumerKey=,rt-al-f-kantobus~alllines~jp~rt,,active
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-kantobus~alllines~jp~rt,,active
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-kantobus~alllines~jp~rt,,active
-XX,national,kawartha on ca rt,https://metrolinx.tmix.se/gtfs-realtime-kawartha/alerts.pb,rt-al-f-kawartha~on~ca~rt,,active
-XX,national,kawartha on ca rt,https://metrolinx.tmix.se/gtfs-realtime-kawartha/tripupdates.pb,rt-tr-f-kawartha~on~ca~rt,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_alert?acl:consumerKey=,rt-al-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_trip_update?acl:consumerKey=,rt-tr-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_vehicle?acl:consumerKey=,rt-ve-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
@@ -25939,8 +26061,6 @@ XX,national,keiobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odp
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_alert,rt-al-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_trip_update,rt-tr-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,rt-ve-f-keiseitransitbus~alllines~jp~rt,,active
-XX,national,keolis dijon fr rt,https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-trip-update,rt-tr-f-keolis~dijon~fr~rt,,active
-XX,national,keolis dijon fr rt,https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-vehicle-position,rt-ve-f-keolis~dijon~fr~rt,,active
 XX,national,keolis orleans fr rt,https://ara-api.enroute.mobi/tao/gtfs/trip-updates,rt-tr-f-keolis~orleans~fr~rt,,active
 XX,national,kerncounty ca rt,https://api.goswift.ly/real-time/kern-transit/gtfs-rt-trip-updates,rt-tr-f-kerncounty~ca~rt,,active
 XX,national,kerncounty ca rt,https://api.goswift.ly/real-time/kern-transit/gtfs-rt-vehicle-positions,rt-ve-f-kerncounty~ca~rt,,active
@@ -25955,25 +26075,11 @@ XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utili
 XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-kingsarearuraltransit~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_trip_update,rt-tr-f-kiyosecity~kiyobus~jp~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_vehicle,rt-ve-f-kiyosecity~kiyobus~jp~rt,,active
-XX,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_alrt_update_v2.bin,rt-al-f-komonotown~communitybus~rt,,active
-XX,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_trip_update_v2.bin,rt-tr-f-komonotown~communitybus~rt,,active
-XX,national,komonotown communitybus rt,https://bus-vision.jp/realtime/komono_vpos_update_v2.bin,rt-ve-f-komonotown~communitybus~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-kootenai~citylink~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-kootenai~citylink~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-kootenai~citylink~rt,,active
 XX,national,ktmb rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/ktmb,rt-ve-f-ktmb~rt,,active
-XX,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_alrt_update.bin,rt-al-f-kuma~bus~kuma~bus~rt,,active
-XX,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_trip_update.bin,rt-tr-f-kuma~bus~kuma~bus~rt,,active
-XX,national,kuma bus kuma bus rt,https://km.bus-vision.jp/realtime/kumabus_vpos_update.bin,rt-ve-f-kuma~bus~kuma~bus~rt,,active
 XX,national,kumagayacity yuuyuubus rt,http://kumagaya.bus-go.com/GTFS-RT/encode_vehicle.php,rt-ve-f-kumagayacity~yuuyuubus~rt,,active
-XX,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_alrt_update.bin,rt-al-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
-XX,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_trip_update.bin,rt-tr-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
-XX,national,kumamoto toshibus kumamoto toshibus rt,https://km.bus-vision.jp/realtime/toshibus_vpos_update.bin,rt-ve-f-kumamoto~toshibus~kumamoto~toshibus~rt,,active
-XX,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_alrt_update.bin,rt-al-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
-XX,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_trip_update.bin,rt-tr-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
-XX,national,kumamotodentetsu kumamotodentetsu bus rt,https://km.bus-vision.jp/realtime/dentetsu_vpos_update.bin,rt-ve-f-kumamotodentetsu~kumamotodentetsu~bus~rt,,active
-XX,national,kurobecity shinkansenikuji ishida aimoto minibus rt,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_city_bus/TripUpdates.pb,rt-tr-f-kurobecity~shinkansenikuji~ishida~aimoto~minibus~rt,,active
-XX,national,kurobecity shinkansenikuji ishida aimoto minibus rt,https://gtfs-rt-files.buscatch.jp/toyama/kurobe_city_bus/VehiclePositions.pb,rt-ve-f-kurobecity~shinkansenikuji~ishida~aimoto~minibus~rt,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_alert?acl:consumerKey=,rt-al-f-kyotobus~alllines~jp~rt,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-kyotobus~alllines~jp~rt,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-kyotobus~alllines~jp~rt,,active
@@ -26023,18 +26129,12 @@ XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecat
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/alerts,rt-al-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/tripupdates,rt-tr-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/vehiclepositions,rt-ve-f-maui~county~transit~rt,,active
-XX,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-medicine~hat~transit~rt,,active
-XX,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-medicine~hat~transit~rt,,active
-XX,national,medicine hat transit rt,https://medicinehat.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-medicine~hat~transit~rt,,active
 XX,national,memphis area transit authority rt,https://gtfsrt.mata.cadavl.com/ProfilGtfsRt2_0RSProducer-MATA/Alert.pb,rt-al-f-memphis~area~transit~authority~rt,,active
 XX,national,memphis area transit authority rt,https://gtfsrt.mata.cadavl.com/ProfilGtfsRt2_0RSProducer-MATA/TripUpdate.pb,rt-tr-f-memphis~area~transit~authority~rt,,active
 XX,national,memphis area transit authority rt,https://gtfsrt.mata.cadavl.com/ProfilGtfsRt2_0RSProducer-MATA/VehiclePosition.pb,rt-ve-f-memphis~area~transit~authority~rt,,active
 XX,national,merrimackvalley rt,https://meva.syncromatics.com/gtfs-rt/alerts,rt-al-f-merrimackvalley~rt,,active
 XX,national,merrimackvalley rt,https://meva.syncromatics.com/gtfs-rt/tripupdates,rt-tr-f-merrimackvalley~rt,,active
 XX,national,merrimackvalley rt,https://meva.syncromatics.com/gtfs-rt/vehiclepositions,rt-ve-f-merrimackvalley~rt,,active
-XX,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/servicealerts,rt-al-f-metlink~nz~rt,,active
-XX,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/tripupdates,rt-tr-f-metlink~nz~rt,,active
-XX,national,metlink nz rt,https://api.opendata.metlink.org.nz/v1/gtfs-rt/vehiclepositions,rt-ve-f-metlink~nz~rt,,active
 XX,national,metra ga rt,https://metracolumbus.com/gtfs-rt/alerts,rt-al-f-metra~ga~rt,,active
 XX,national,metra ga rt,https://metracolumbus.com/gtfs-rt/tripupdates,rt-tr-f-metra~ga~rt,,active
 XX,national,metra ga rt,https://metracolumbus.com/gtfs-rt/vehiclepositions,rt-ve-f-metra~ga~rt,,active
@@ -26042,10 +26142,6 @@ XX,national,metro losangeles bus rt,https://api.goswift.ly/real-time/lametro/gtf
 XX,national,metro losangeles bus rt,https://api.goswift.ly/real-time/lametro/gtfs-rt-vehicle-positions,rt-ve-f-metro~losangeles~bus~rt,,active
 XX,national,metro losangeles rail rt,https://api.goswift.ly/real-time/lametro-rail/gtfs-rt-trip-updates,rt-tr-f-metro~losangeles~rail~rt,,active
 XX,national,metro losangeles rail rt,https://api.goswift.ly/real-time/lametro-rail/gtfs-rt-vehicle-positions,rt-ve-f-metro~losangeles~rail~rt,,active
-XX,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-alerts,rt-al-f-metrolinktrains~rt,,active
-XX,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-trips,rt-tr-f-metrolinktrains~rt,,active
-XX,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-vehicles,rt-ve-f-metrolinktrains~rt,,active
-XX,national,metrolinx gtfs rt vehicles,https://metrolinx.tmix.se/gtfs-realtime-belleville/vehiclepositions.pb,rt-ve-f-metrolinx~gtfs~rt~vehicles,,active
 XX,national,metropolitantransitauthorityofharriscounty rt,https://api.ridemetro.org/GtfsRealtime/TripUpdates,rt-tr-f-metropolitantransitauthorityofharriscounty~rt,,active
 XX,national,metropolitantransitauthorityofharriscounty rt,https://api.ridemetro.org/v2alertspb/alerts.pb,rt-al-f-metropolitantransitauthorityofharriscounty~rt,,active
 XX,national,metropolitantulsatransitauthority rt,https://tulsa.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-metropolitantulsatransitauthority~rt,,active
@@ -26063,26 +26159,6 @@ XX,national,mid county transit authority rt,https://tact.rideralerts.com/InfoPoi
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-mid~mon~valley~transit~authority~pa~rt,,active
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-mid~mon~valley~transit~authority~pa~rt,,active
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-mid~mon~valley~transit~authority~pa~rt,,active
-XX,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoiga~rt,,active
-XX,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoiga~rt,,active
-XX,national,mie kotsu sancoiga rt,https://bus-vision.jp/realtime/iga_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoiga~rt,,active
-XX,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoise~rt,,active
-XX,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoise~rt,,active
-XX,national,mie kotsu sancoise rt,https://bus-vision.jp/realtime/ise_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoise~rt,,active
-XX,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancokuwana~rt,,active
-XX,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancokuwana~rt,,active
-XX,national,mie kotsu sancokuwana rt,https://bus-vision.jp/realtime/kuwana_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancokuwana~rt,,active
-XX,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancomatsusaka~rt,,active
-XX,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancomatsusaka~rt,,active
-XX,national,mie kotsu sancomatsusaka rt,https://bus-vision.jp/realtime/matsusaka_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancomatsusaka~rt,,active
-XX,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoshima~rt,,active
-XX,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoshima~rt,,active
-XX,national,mie kotsu sancoshima rt,https://bus-vision.jp/realtime/shima_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoshima~rt,,active
-XX,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_alrt_update_v2.bin,rt-al-f-mie~kotsu~sancoyokkaichi~rt,,active
-XX,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_trip_update_v2.bin,rt-tr-f-mie~kotsu~sancoyokkaichi~rt,,active
-XX,national,mie kotsu sancoyokkaichi rt,https://bus-vision.jp/realtime/yokkaichi_vpos_update_v2.bin,rt-ve-f-mie~kotsu~sancoyokkaichi~rt,,active
-XX,national,milton on ca rt,https://metrolinx.tmix.se/gtfs-realtime-milton/alerts.pb,rt-al-f-milton~on~ca~rt,,active
-XX,national,milton on ca rt,https://metrolinx.tmix.se/gtfs-realtime-milton/tripupdates.pb,rt-tr-f-milton~on~ca~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-modestoareaexpress~rt,,active
@@ -26111,8 +26187,6 @@ XX,national,mybas rapid rail kl rt,https://api.data.gov.my/gtfs-realtime/vehicle
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb,rt-ve-f-nashvillemta~rt,,active
-XX,national,national transport authority ie rt,https://api.nationaltransport.ie/gtfsr/v2/TripUpdates,rt-tr-f-national~transport~authority~ie~rt,,active
-XX,national,national transport authority ie rt,https://api.nationaltransport.ie/gtfsr/v2/Vehicles,rt-ve-f-national~transport~authority~ie~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-ncrtd~nm~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-ncrtd~nm~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-ncrtd~nm~rt,,active
@@ -26126,46 +26200,12 @@ XX,national,nice rt,http://nicebus.com/downloads/gtfs/NYC_NICE.proto,rt-al-f-nic
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_alert?acl:consumerKey=,rt-al-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_trip_update?acl:consumerKey=,rt-tr-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_vehicle?acl:consumerKey=,rt-ve-f-nishitokyobus~ntbus~jp~rt,,active
-XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/alert,rt-al-f-u-nmbs~sncb~rt,,active
-XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update,rt-tr-f-u-nmbs~sncb~rt,,active
-XX,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-north~bay~transit~rt,,active
-XX,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-north~bay~transit~rt,,active
-XX,national,north bay transit rt,https://northbay.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-north~bay~transit~rt,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-trip-updates,rt-tr-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-vehicle-positions,rt-ve-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt alerts,https://api.goswift.ly/real-time/nctd/gtfs-rt-alerts/,rt-al-f-northcountrytransitdistrict~rt~alerts,,active
-XX,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses,rt-tr-f-nsw~buses~rt,,active
-XX,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses,rt-ve-f-nsw~buses~rt,,active
-XX,national,nsw buses rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/buses,rt-al-f-nsw~buses~rt,,active
-XX,national,nsw ferries rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/ferries/sydneyferries,rt-tr-f-nsw~ferries~rt,,active
-XX,national,nsw ferries rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/ferries/sydneyferries,rt-ve-f-nsw~ferries~rt,,active
-XX,national,nsw ferries rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/ferries,rt-al-f-nsw~ferries~rt,,active
-XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/lightrail/innerwest,rt-tr-f-nsw~lightrail~rt,,active
-XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/lightrail/innerwest,rt-ve-f-nsw~lightrail~rt,,active
-XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/lightrail,rt-al-f-nsw~lightrail~rt,,active
-XX,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/metro,rt-al-f-nsw~metro~rt,,active
-XX,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/realtime/metro,rt-tr-f-nsw~metro~rt,,active
-XX,national,nsw metro rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos/metro,rt-ve-f-nsw~metro~rt,,active
-XX,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/nswtrains,rt-tr-f-nsw~nswtrains~rt,,active
-XX,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/nswtrains,rt-ve-f-nsw~nswtrains~rt,,active
-XX,national,nsw nswtrains rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/nswtrains,rt-al-f-nsw~nswtrains~rt,,active
-XX,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/sydneytrains,rt-al-f-nsw~trains~rt,,active
-XX,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/realtime/sydneytrains,rt-tr-f-nsw~trains~rt,,active
-XX,national,nsw trains rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos/sydneytrains,rt-ve-f-nsw~trains~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-nycferry~rt,,active
-XX,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-ontario~northland~ca~rt,,active
-XX,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-ontario~northland~ca~rt,,active
-XX,national,ontario northland ca rt,https://ontarionorthland.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-ontario~northland~ca~rt,,active
-XX,national,orangeville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orangeville/alerts.pb,rt-al-f-orangeville~on~ca~rt,,active
-XX,national,orangeville on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orangeville/tripupdates.pb,rt-tr-f-orangeville~on~ca~rt,,active
-XX,national,orillia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orillia/alerts.pb,rt-al-f-orillia~on~ca~rt,,active
-XX,national,orillia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-orillia/tripupdates.pb,rt-tr-f-orillia~on~ca~rt,,active
-XX,national,orizo grand avignon rt,https://export.tcra2.cityway.fr/GtfsRt/GtfsRT.TCRA.pb,rt-ve-f-orizo~grand~avignon~rt,,active
-XX,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/ServiceAlert.pb,rt-al-f-owariasahicity~communitybus~rt,,active
-XX,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/TripUpdates.pb,rt-tr-f-owariasahicity~communitybus~rt,,active
-XX,national,owariasahicity communitybus rt,https://gtfs-rt-files.buscatch.jp/owariasahi-city/asapygo/VehiclePositions.pb,rt-ve-f-owariasahicity~communitybus~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-ozark~regional~transit~rt,,active
@@ -26205,12 +26245,6 @@ XX,national,presidigo ca us rt,https://presidiobus.com/gtfs-rt/vehiclepositions,
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/alerts,rt-al-f-pullman~transit~wa~us~rt,,active
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/tripupdates,rt-tr-f-pullman~transit~wa~us~rt,,active
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/vehiclepositions,rt-ve-f-pullman~transit~wa~us~rt,,active
-XX,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/Alerts,rt-al-f-qconnect~maryborough~hervey~bay~rt,,active
-XX,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/TripUpdates,rt-tr-f-qconnect~maryborough~hervey~bay~rt,,active
-XX,national,qconnect maryborough hervey bay rt,https://gtfsrt.api.translink.com.au/api/realtime/MHB/VehiclePositions,rt-ve-f-qconnect~maryborough~hervey~bay~rt,,active
-XX,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/Alerts,rt-al-f-qconnect~north~stradbroke~island~rt,,active
-XX,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/TripUpdates,rt-tr-f-qconnect~north~stradbroke~island~rt,,active
-XX,national,qconnect north stradbroke island rt,https://gtfsrt.api.translink.com.au/api/realtime/NSI/VehiclePositions,rt-ve-f-qconnect~north~stradbroke~island~rt,,active
 XX,national,qline mi rt,https://api.goswift.ly/real-time/detroit-m1-rail/gtfs-rt-trip-updates,rt-tr-f-qline~mi~rt,,active
 XX,national,qline mi rt,https://api.goswift.ly/real-time/detroit-m1-rail/gtfs-rt-vehicle-positions,rt-ve-f-qline~mi~rt,,active
 XX,national,qline mi rt alerts,https://api.goswift.ly/real-time/detroit-m1-rail/gtfs-rt-alerts/,rt-al-f-qline~mi~rt~alerts,,active
@@ -26220,8 +26254,6 @@ XX,national,redondo beach cities transit rt,https://redondobeachbct.com/gtfs-rt/
 XX,national,redwood coast transit rt,https://api.goswift.ly/real-time/redwood-coast-rct/gtfs-rt-trip-updates,rt-tr-f-redwood~coast~transit~rt,,active
 XX,national,redwood coast transit rt,https://api.goswift.ly/real-time/redwood-coast-rct/gtfs-rt-vehicle-positions,rt-ve-f-redwood~coast~transit~rt,,active
 XX,national,redwood coast transit rt alerts,https://api.goswift.ly/real-time/redwood-coast-rct/gtfs-rt-alerts,rt-al-f-redwood~coast~transit~rt~alerts,,active
-XX,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/tripUpdates.pb,rt-tr-f-regional~municipality~of~wood~buffalo~rt,,active
-XX,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/vehiclePositions.pb,rt-ve-f-regional~municipality~of~wood~buffalo~rt,,active
 XX,national,regional public transportation inc rt,https://passio3.com/smart/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-regional~public~transportation~inc~rt,,active
 XX,national,regional public transportation inc rt,https://passio3.com/smart/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-regional~public~transportation~inc~rt,,active
 XX,national,regional public transportation inc rt,https://passio3.com/smart/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-regional~public~transportation~inc~rt,,active
@@ -26262,17 +26294,10 @@ XX,national,sanclementetrolley ca us rt,https://passio3.com/sctrolley/passioTran
 XX,national,sanclementetrolley ca us rt,https://passio3.com/sctrolley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-sanclementetrolley~ca~us~rt,,active
 XX,national,sanjoaquinrtd rt,https://api.goswift.ly/real-time/san-joaquin/gtfs-rt-trip-updates,rt-tr-f-sanjoaquinrtd~rt,,active
 XX,national,sanjoaquinrtd rt,https://api.goswift.ly/real-time/san-joaquin/gtfs-rt-vehicle-positions,rt-ve-f-sanjoaquinrtd~rt,,active
-XX,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_alrt_update.bin,rt-al-f-sankobus~sankobus~rt,,active
-XX,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_trip_update.bin,rt-tr-f-sankobus~sankobus~rt,,active
-XX,national,sankobus sankobus rt,https://km.bus-vision.jp/realtime/sankobus_vpos_update.bin,rt-ve-f-sankobus~sankobus~rt,,active
 XX,national,santa clarita rt,http://apps.santaclaritatransit.com/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-santa~clarita~rt,,active
 XX,national,santa clarita rt,http://apps.santaclaritatransit.com/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-santa~clarita~rt,,active
 XX,national,santa clarita rt,http://apps.santaclaritatransit.com/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-santa~clarita~rt,,active
 XX,national,santa ynez valley transit rt,https://lat-long-prototype.wl.r.appspot.com/vehicle-positions.pb?agency=santa-ynez-valley-transit,rt-ve-f-santa~ynez~valley~transit~rt,,active
-XX,national,sarnia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-sarnia/alerts.pb,rt-al-f-sarnia~on~ca~rt,,active
-XX,national,sarnia on ca rt,https://metrolinx.tmix.se/gtfs-realtime-sarnia/tripupdates.pb,rt-ve-f-sarnia~on~ca~rt,,active
-XX,national,saultstemarie on ca rt,https://metrolinx.tmix.se/gtfs-realtime-saultstemarie/alerts.pb,rt-al-f-saultstemarie~on~ca~rt,,active
-XX,national,saultstemarie on ca rt,https://metrolinx.tmix.se/gtfs-realtime-saultstemarie/tripupdates.pb,rt-tr-f-saultstemarie~on~ca~rt,,active
 XX,national,saurel rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=pierre-de-saurel,rt-tr-f-stc~pierre~de-saurel~rt,,active
 XX,national,saurel rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=pierre-de-saurel,rt-ve-f-stc~pierre~de-saurel~rt,,active
 XX,national,sb transpo in us rt,https://passio3.com/transpo/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-sb~transpo~in~us~rt,,active
@@ -26306,19 +26331,12 @@ XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/Info
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_alert?acl:consumerKey=,rt-al-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_trip_update?acl:consumerKey=,rt-tr-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_vehicle?acl:consumerKey=,rt-ve-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
-XX,national,simcoe on ca rt,https://metrolinx.tmix.se/gtfs-realtime-simcoe/alerts.pb,rt-al-f-simcoe~on~ca~rt,,active
-XX,national,simcoe on ca rt,https://metrolinx.tmix.se/gtfs-realtime-simcoe/tripupdates.pb,rt-tr-f-simcoe~on~ca~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_ServiceAlerts.pb,rt-al-f-skagit~wa~us~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_TripUpdates.pb,rt-tr-f-skagit~wa~us~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_VehiclePositions.pb,rt-ve-f-skagit~wa~us~rt,,active
 XX,national,smart mi rt,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-trip-updates,rt-tr-f-smart~mi~rt,,active
 XX,national,smart mi rt,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-vehicle-positions,rt-ve-f-smart~mi~rt,,active
 XX,national,smart mi rt alerts,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-alerts/,rt-al-f-smart~mi~rt~alerts,,active
-XX,national,sncf fr rt,https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-service-alerts,rt-al-f-sncf~fr~rt,,active
-XX,national,sncf fr rt,https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-trip-updates,rt-tr-f-sncf~fr~rt,,active
-XX,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/alerts,rt-al-f-sofiatraffic~bg~rt,,active
-XX,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/trip-updates,rt-tr-f-sofiatraffic~bg~rt,,active
-XX,national,sofiatraffic bg rt,https://gtfs.sofiatraffic.bg/api/v1/vehicle-positions,rt-ve-f-sofiatraffic~bg~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/alerts-for-agency/40.pb,rt-al-f-soundtransit~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-updates-for-agency/40.pb,rt-tr-f-soundtransit~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/40.pb,rt-ve-f-soundtransit~rt,,active
@@ -26337,10 +26355,6 @@ XX,national,st lawrence county ny rt,https://passio3.com/stlawrence/passioTransi
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-stevens~point~wi~rt,,active
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-stevens~point~wi~rt,,active
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-stevens~point~wi~rt,,active
-XX,national,stratford on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stratford/alerts.pb,rt-al-f-stratford~on~ca~rt,,active
-XX,national,stratford on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stratford/tripupdates.pb,rt-tr-f-stratford~on~ca~rt,,active
-XX,national,stthomas on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stthomas/alerts.pb,rt-al-f-stthomas~on~ca~rt,,active
-XX,national,stthomas on ca rt,https://metrolinx.tmix.se/gtfs-realtime-stthomas/tripupdates.pb,rt-tr-f-stthomas~on~ca~rt,,active
 XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-time/setd/gtfs-rt-trip-updates,rt-tr-f-sunsetempiretransportationdistrict~rt,,active
 XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-time/setd/gtfs-rt-vehicle-positions,rt-ve-f-sunsetempiretransportationdistrict~rt,,active
 XX,national,tahoe ca rt,https://api.goswift.ly/real-time/bluego/gtfs-rt-trip-updates,rt-tr-f-tahoe~ca~rt,,active
@@ -26355,15 +26369,11 @@ XX,national,takeyakoutu takeyakotsu rt,https://realtime.gtfs.info/takeyakotsu/ve
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-tarc~rt,,active
-XX,national,temiskaming on ca rt,https://metrolinx.tmix.se/gtfs-realtime-temiskaming/alerts.pb,rt-al-f-temiskaming~on~ca~rt,,active
-XX,national,temiskaming on ca rt,https://metrolinx.tmix.se/gtfs-realtime-temiskaming/tripupdates.pb,rt-tr-f-temiskaming~on~ca~rt,,active
 XX,national,thebus hi rt,https://api.goswift.ly/real-time/thebus/gtfs-rt-trip-updates,rt-tr-f-thebus~hi~rt,,active
 XX,national,thebus hi rt,https://api.goswift.ly/real-time/thebus/gtfs-rt-vehicle-positions,rt-ve-f-thebus~hi~rt,,active
 XX,national,thebus vt rt,https://api.goswift.ly/real-time/marble-valley/gtfs-rt-trip-updates,rt-tr-f-thebus~vt~rt,,active
 XX,national,thebus vt rt,https://api.goswift.ly/real-time/marble-valley/gtfs-rt-vehicle-positions,rt-ve-f-thebus~vt~rt,,active
 XX,national,thello rt,https://thello.axelor.com/public/gtfs/GTFS-RT.bin,rt-tr-f-thello~rt,,active
-XX,national,timmins on ca rt,https://metrolinx.tmix.se/gtfs-realtime-timmins/alerts.pb,rt-al-f-timmins~on~ca~rt,,active
-XX,national,timmins on ca rt,https://metrolinx.tmix.se/gtfs-realtime-timmins/tripupdates.pb,rt-tr-f-timmins~on~ca~rt,,active
 XX,national,tokaikisen alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TokaiKisen_AllLines_alert?acl:consumerKey=,rt-al-f-tokaikisen~alllines~jp~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/alert.pb,rt-al-f-tokonamecity~gruun~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/trip_update.pb,rt-tr-f-tokonamecity~gruun~rt,,active
@@ -26379,10 +26389,6 @@ XX,national,tosacity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/real
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-towson~loop~rt,,active
-XX,national,toyamacity jojocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-jojo/TripUpdates.pb,rt-tr-f-toyamacity~jojocommunitybus~rt,,active
-XX,national,toyamacity jojocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-jojo/VehiclePositions.pb,rt-ve-f-toyamacity~jojocommunitybus~rt,,active
-XX,national,transport gzm pl rt,https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/tripUpdates,rt-tr-f-transport~gzm~pl~rt,,active
-XX,national,transport gzm pl rt,https://gtfsrt.transportgzm.pl:5443/gtfsrt/gzm/vehiclePositions,rt-ve-f-transport~gzm~pl~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_alert?acl:consumerKey=,rt-al-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_trip_update?acl:consumerKey=,rt-tr-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_vehicle?acl:consumerKey=,rt-ve-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
@@ -26454,8 +26460,6 @@ XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-u
 XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/95.pb,rt-ve-f-wsf~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-trip-updates/,rt-tr-f-xtrafik~se~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-vehicle-positions/,rt-ve-f-xtrafik~se~rt,,active
-XX,national,yrt rt,http://rtu.york.ca/gtfsrealtime/TripUpdates,rt-tr-f-yrt~rt,,active
-XX,national,yrt rt,http://rtu.york.ca/gtfsrealtime/VehiclePositions,rt-ve-f-yrt~rt,,active
 XX,national,zenbus alesy rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=alesy,rt-tr-f-zenbus~alesy~rt,,active
 XX,national,zenbus alesy rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=alesy,rt-ve-f-zenbus~alesy~rt,,active
 XX,national,zenbus alpe huez rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=alpe-huez,rt-tr-f-zenbus~alpe~huez~rt,,active

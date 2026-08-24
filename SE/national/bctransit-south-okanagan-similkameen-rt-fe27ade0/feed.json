@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit south okanagan similkameen rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=15",
+    "mdb_id": "rt-tr-f-bctransit~south~okanagan~similkameen~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kumamoto toshibus kumamoto toshibus rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/realtime/toshibus_trip_update.bin",
+    "mdb_id": "rt-tr-f-kumamoto~toshibus~kumamoto~toshibus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

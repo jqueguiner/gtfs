@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sarnia on ca rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-sarnia/alerts.pb",
+    "mdb_id": "rt-al-f-sarnia~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

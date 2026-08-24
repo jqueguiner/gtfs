@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "temiskaming on ca rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-temiskaming/alerts.pb",
+    "mdb_id": "rt-al-f-temiskaming~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

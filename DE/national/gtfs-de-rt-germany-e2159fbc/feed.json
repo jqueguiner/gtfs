@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de RT (Germany)",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/rt/free.pb",
+    "mdb_id": "rt-nat-de-ve",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt-national",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kawartha on ca rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs-realtime-kawartha/tripupdates.pb",
+    "mdb_id": "rt-tr-f-kawartha~on~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

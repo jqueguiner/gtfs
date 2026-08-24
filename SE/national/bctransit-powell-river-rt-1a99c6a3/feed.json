@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit powell river rt",
+    "country": "SE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=29",
+    "mdb_id": "rt-al-f-bctransit~powell~river~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

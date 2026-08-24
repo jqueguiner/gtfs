@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "komonotown communitybus rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-vision.jp/realtime/komono_trip_update_v2.bin",
+    "mdb_id": "rt-tr-f-komonotown~communitybus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

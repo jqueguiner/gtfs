@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sofiatraffic bg rt",
+    "country": "BG",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sofiatraffic.bg/api/v1/vehicle-positions",
+    "mdb_id": "rt-ve-f-sofiatraffic~bg~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

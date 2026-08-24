@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "auckland transport rt",
+    "country": "NZ",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.at.govt.nz/realtime/legacy/tripupdates",
+    "mdb_id": "rt-tr-f-auckland~transport~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

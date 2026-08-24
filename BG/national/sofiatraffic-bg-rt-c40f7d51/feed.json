@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sofiatraffic bg rt",
+    "country": "BG",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.sofiatraffic.bg/api/v1/trip-updates",
+    "mdb_id": "rt-tr-f-sofiatraffic~bg~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

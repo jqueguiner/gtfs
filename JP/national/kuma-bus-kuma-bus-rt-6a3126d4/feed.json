@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kuma bus kuma bus rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://km.bus-vision.jp/realtime/kumabus_vpos_update.bin",
+    "mdb_id": "rt-ve-f-kuma~bus~kuma~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

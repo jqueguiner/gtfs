@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nsw trains rt",
+    "country": "AU",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transport.nsw.gov.au/v2/gtfs/alerts/sydneytrains",
+    "mdb_id": "rt-al-f-nsw~trains~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

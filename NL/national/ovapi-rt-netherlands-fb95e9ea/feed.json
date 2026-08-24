@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi RT (Netherlands)",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/tripUpdates.pb",
+    "mdb_id": "rt-nat-nl-tr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt-national",
+  "status": "active"
+}

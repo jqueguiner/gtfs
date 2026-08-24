@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mie kotsu sancoiga rt",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bus-vision.jp/realtime/iga_alrt_update_v2.bin",
+    "mdb_id": "rt-al-f-mie~kotsu~sancoiga~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

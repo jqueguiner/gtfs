@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TGV RT",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/sncf-tgv-gtfs-rt-trip-updates",
+    "mdb_id": "rt-nat-fr-tr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt-national",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cars région fr rt",
+    "country": "FR",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.itinisere.fr/ftp/GtfsRT/GtfsRT.CG38.pb",
+    "mdb_id": "rt-tr-f-cars~région~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
