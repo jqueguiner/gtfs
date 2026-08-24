@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Bee Network / TfGM operators AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Manchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=53.50&xmax=-2.22&ymin=53.45&xmin=-2.28",
+    "mdb_id": "rtweb-gb-bustimes-org-bee-network-t",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

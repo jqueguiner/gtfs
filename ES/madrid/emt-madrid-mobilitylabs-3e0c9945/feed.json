@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMT Madrid (MobilityLabs)",
+    "country": "ES",
+    "subdivision": "Comunidad de Madrid",
+    "city": "Madrid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://openapi.emtmadrid.es/v2/transport/busemtmad/lines/arrivetimes/",
+    "mdb_id": "rtweb-es-emt-madrid-mobilitylabs",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

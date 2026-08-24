@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bayerische Eisenbahngesellschaft / bahnland-bayern (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bavaria (statewide, BEG)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bahnland-bayern.de/efa/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-bayerische-eisenbahngesell",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

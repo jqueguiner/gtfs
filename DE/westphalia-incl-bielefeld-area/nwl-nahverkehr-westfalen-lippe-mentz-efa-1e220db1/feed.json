@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NWL Nahverkehr Westfalen-Lippe (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Westphalia (incl. Bielefeld area)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://westfalenfahrplan.de/nwl-efa/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-nwl-nahverkehr-westfalen-l",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

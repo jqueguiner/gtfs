@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DING Donau-Iller-Nahverkehrsverbund (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Ulm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.ding.eu/ding3/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-ding-donau-iller-nahverkeh",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

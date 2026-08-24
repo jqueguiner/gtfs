@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VBB (OpenDataVBB, VDV-454->GTFS-RT)",
+    "country": "DE",
+    "subdivision": "Berlin/Brandenburg",
+    "city": "Berlin/Brandenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://production.gtfsrt.vbb.de/data",
+    "mdb_id": "rtweb-de-vbb-opendatavbb-vdv-454-gt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

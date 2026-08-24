@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ACTV Navigazione (vaporetti / ferries)",
+    "country": "IT",
+    "subdivision": "Veneto",
+    "city": "Venice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tpl.actv.it/nav/GTFSRT/tripUpdates",
+    "mdb_id": "rtweb-it-actv-navigazione-vaporetti-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

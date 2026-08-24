@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Skyss via Entur",
+    "country": "NO",
+    "subdivision": "Vestland",
+    "city": "Bergen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.entur.io/realtime/v1/gtfs-rt/trip-updates?datasource=SKY",
+    "mdb_id": "rtweb-no-skyss-via-entur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

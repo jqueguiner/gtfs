@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LiA",
+    "country": "FR",
+    "subdivision": "Seine-Maritime (76)",
+    "city": "Le Havre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.transports-lia.fr/gtfs-rt/VehiclePosition.pb",
+    "mdb_id": "rtweb-fr-lia",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

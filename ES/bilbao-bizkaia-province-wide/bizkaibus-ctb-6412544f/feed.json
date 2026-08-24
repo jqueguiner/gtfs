@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bizkaibus (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Bilbao / Bizkaia (province-wide)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-bizkaibus-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

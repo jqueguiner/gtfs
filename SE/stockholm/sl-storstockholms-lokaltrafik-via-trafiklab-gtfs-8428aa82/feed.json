@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SL (Storstockholms Lokaltrafik) via Trafiklab GTFS Sweden Realtime",
+    "country": "SE",
+    "subdivision": "Stockholm County",
+    "city": "Stockholm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs-rt/sl/VehiclePositions.pb",
+    "mdb_id": "rtweb-se-sl-storstockholms-lokaltra",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

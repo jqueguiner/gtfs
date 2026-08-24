@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transport for Greater Manchester (TfGM Metrolink tram)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Manchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.tfgm.com/odata/Metrolinks",
+    "mdb_id": "rtweb-gb-transport-for-greater-manc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

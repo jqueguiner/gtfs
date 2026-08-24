@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NAH.SH (HAFAS cloud)",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Kiel / Schleswig-Holstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nahsh.hafas.cloud/gate",
+    "mdb_id": "rtweb-de-nah-sh-hafas-cloud",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

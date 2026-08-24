@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ginko",
+    "country": "FR",
+    "subdivision": "Doubs (25)",
+    "city": "Besançon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.ginko.voyage/Siri/Siri.do",
+    "mdb_id": "rtweb-fr-ginko",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

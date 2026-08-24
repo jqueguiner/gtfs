@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (First West of England AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bristol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=51.48&xmax=-2.55&ymin=51.43&xmin=-2.63",
+    "mdb_id": "rtweb-gb-bustimes-org-first-west-of",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

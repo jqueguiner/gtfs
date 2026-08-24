@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kolumbus via Entur",
+    "country": "NO",
+    "subdivision": "Rogaland",
+    "city": "Stavanger"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions?datasource=KOL",
+    "mdb_id": "rtweb-no-kolumbus-via-entur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bizkaibus (CTB) - SIRI",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Bilbao / Bizkaia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-siri.s3.eu-south-2.amazonaws.com/bizkaibus-vehicle-positions.xml",
+    "mdb_id": "rtweb-es-bizkaibus-ctb-siri",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

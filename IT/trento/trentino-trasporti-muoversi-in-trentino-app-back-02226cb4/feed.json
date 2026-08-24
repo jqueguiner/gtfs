@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trentino Trasporti (Muoversi in Trentino app backend)",
+    "country": "IT",
+    "subdivision": "Trentino-Alto Adige",
+    "city": "Trento"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app-tpl.tndigit.it/gtlservice/trips?routeId={id}&type=U&limit=10&refDateTime={ISO8601}",
+    "mdb_id": "rtweb-it-trentino-trasporti-muovers",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

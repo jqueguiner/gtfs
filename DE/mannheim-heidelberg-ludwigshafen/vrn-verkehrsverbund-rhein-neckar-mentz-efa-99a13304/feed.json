@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRN Verkehrsverbund Rhein-Neckar (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg / Rhineland-Palatinate",
+    "city": "Mannheim/Heidelberg/Ludwigshafen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.vrn.de/mngvrn/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-vrn-verkehrsverbund-rhein--2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

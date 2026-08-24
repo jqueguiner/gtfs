@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "PIETURAS (gsvalbe.id.lv national aggregator)",
+    "country": "LV",
+    "subdivision": "",
+    "city": "Riga (national aggregate)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gsvalbe.id.lv/pieturas/dati/gtfs-rt.pb",
+    "mdb_id": "rtweb-lv-pieturas-gsvalbe-id-lv-nat",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

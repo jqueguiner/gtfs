@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TCL (SYTRAL)",
+    "country": "FR",
+    "subdivision": "Rhône (69)",
+    "city": "Lyon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.grandlyon.com/siri-lite/2.0/vehicle-monitoring.json",
+    "mdb_id": "rtweb-fr-tcl-sytral",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

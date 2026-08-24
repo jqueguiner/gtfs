@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Sopelbus (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Sopela"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/sopelbus-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-sopelbus-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

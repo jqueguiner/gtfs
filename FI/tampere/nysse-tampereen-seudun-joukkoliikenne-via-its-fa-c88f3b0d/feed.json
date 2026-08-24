@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nysse (Tampereen seudun joukkoliikenne) via ITS Factory Journeys API",
+    "country": "FI",
+    "subdivision": "Pirkanmaa",
+    "city": "Tampere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.itsfactory.fi/journeys/api/1/vehicle-activity",
+    "mdb_id": "rtweb-fi-nysse-tampereen-seudun-jou",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

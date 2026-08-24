@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Go North East / Nexus AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Newcastle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=55.00&xmax=-1.58&ymin=54.95&xmin=-1.66",
+    "mdb_id": "rtweb-gb-bustimes-org-go-north-east",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

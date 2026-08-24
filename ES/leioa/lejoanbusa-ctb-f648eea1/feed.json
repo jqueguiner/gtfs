@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lejoanbusa (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Leioa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/lejoanbusa-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-lejoanbusa-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Reims Mobilités / Citura",
+    "country": "FR",
+    "subdivision": "Marne (51)",
+    "city": "Reims"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/fluo-citura-reims-gtfs-rt",
+    "mdb_id": "rtweb-fr-grand-reims-mobilites-citu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

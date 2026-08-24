@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SUB (Nancy suburban)",
+    "country": "FR",
+    "subdivision": "Meurthe-et-Moselle (54)",
+    "city": "Nancy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/fluo-sub-nancy-gtfs-rt-trip-update",
+    "mdb_id": "rtweb-fr-sub-nancy-suburban",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

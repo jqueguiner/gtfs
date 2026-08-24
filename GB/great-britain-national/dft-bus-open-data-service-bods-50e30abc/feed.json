@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DfT Bus Open Data Service (BODS)",
+    "country": "GB",
+    "subdivision": "England/Scotland/Wales",
+    "city": "Great Britain (national)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/api/v1/datafeed/",
+    "mdb_id": "rtweb-gb-dft-bus-open-data-service--3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

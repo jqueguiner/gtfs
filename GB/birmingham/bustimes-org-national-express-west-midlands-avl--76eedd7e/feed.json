@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (National Express West Midlands AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Birmingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=52.50&xmax=-1.85&ymin=52.45&xmin=-1.93",
+    "mdb_id": "rtweb-gb-bustimes-org-national-expr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

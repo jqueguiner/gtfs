@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Le Met'",
+    "country": "FR",
+    "subdivision": "Moselle (57)",
+    "city": "Metz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-trip-update",
+    "mdb_id": "rtweb-fr-le-met-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

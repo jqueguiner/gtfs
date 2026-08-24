@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autolinee Federico (interurban)",
+    "country": "IT",
+    "subdivision": "Lazio",
+    "city": "Rome (Lazio)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://autolineefederico.selfip.com:8080/gtfs-rt/vehicle_positions.pb",
+    "mdb_id": "rtweb-it-autolinee-federico-interur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

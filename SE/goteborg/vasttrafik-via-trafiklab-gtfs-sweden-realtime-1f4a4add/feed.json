@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vasttrafik via Trafiklab GTFS Sweden Realtime",
+    "country": "SE",
+    "subdivision": "Vastra Gotaland",
+    "city": "Goteborg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs-rt/vt/VehiclePositions.pb",
+    "mdb_id": "rtweb-se-vasttrafik-via-trafiklab-g",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

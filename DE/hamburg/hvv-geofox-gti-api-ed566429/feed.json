@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "HVV geofox (GTI API)",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Hamburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gti.geofox.de/gti/public/departureList",
+    "mdb_id": "rtweb-de-hvv-geofox-gti-api",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

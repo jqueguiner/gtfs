@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "AVV Augsburger Verkehrsverbund (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Augsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fahrtauskunft.avv-augsburg.de/efa/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-avv-augsburger-verkehrsver",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

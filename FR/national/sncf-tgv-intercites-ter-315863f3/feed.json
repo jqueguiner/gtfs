@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF (TGV/Intercités/TER)",
+    "country": "FR",
+    "subdivision": "",
+    "city": "National"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/sncf-siri-lite-situation-exchange",
+    "mdb_id": "rtweb-fr-sncf-tgv-intercites-ter-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

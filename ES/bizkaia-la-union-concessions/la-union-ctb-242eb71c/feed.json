@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "La Unión (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Bizkaia (La Unión concessions)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/la-union-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-la-union-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

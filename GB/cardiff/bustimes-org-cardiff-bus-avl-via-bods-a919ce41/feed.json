@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Cardiff Bus AVL via BODS)",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Cardiff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=51.52&xmax=-3.14&ymin=51.46&xmin=-3.22",
+    "mdb_id": "rtweb-gb-bustimes-org-cardiff-bus-a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

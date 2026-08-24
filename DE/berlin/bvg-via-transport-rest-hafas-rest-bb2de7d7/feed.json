@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BVG (via transport.rest HAFAS REST)",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://v6.bvg.transport.rest/stops/900100003/departures",
+    "mdb_id": "rtweb-de-bvg-via-transport-rest-haf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

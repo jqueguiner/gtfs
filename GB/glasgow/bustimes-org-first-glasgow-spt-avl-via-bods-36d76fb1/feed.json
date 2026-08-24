@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (First Glasgow / SPT AVL via BODS)",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Glasgow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=55.90&xmax=-4.20&ymin=55.83&xmin=-4.32",
+    "mdb_id": "rtweb-gb-bustimes-org-first-glasgow",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

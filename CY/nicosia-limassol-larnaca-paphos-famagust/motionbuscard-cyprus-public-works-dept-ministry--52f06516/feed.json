@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Motionbuscard (Cyprus Public Works Dept / Ministry of Finance)",
+    "country": "CY",
+    "subdivision": "",
+    "city": "Nicosia / Limassol / Larnaca / Paphos / Famagusta (nationwide)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://20.19.98.194:8328/Api/api/gtfs-realtime",
+    "mdb_id": "rtweb-cy-motionbuscard-cyprus-publi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

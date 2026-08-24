@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VBN Verkehrsverbund Bremen/Niedersachsen (HAFAS)",
+    "country": "DE",
+    "subdivision": "Bremen / Lower Saxony",
+    "city": "Bremen/Oldenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://fahrplaner.vbn.de/hafas/mgate.exe",
+    "mdb_id": "rtweb-de-vbn-verkehrsverbund-bremen",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

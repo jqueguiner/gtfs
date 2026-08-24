@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ACTV Automobilistico (buses)",
+    "country": "IT",
+    "subdivision": "Veneto",
+    "city": "Venice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tpl.actv.it/aut/GTFSRT/vehiclePositions",
+    "mdb_id": "rtweb-it-actv-automobilistico-buses",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

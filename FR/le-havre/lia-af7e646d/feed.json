@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LiA",
+    "country": "FR",
+    "subdivision": "Seine-Maritime (76)",
+    "city": "Le Havre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.transports-lia.fr/gtfs-rt/TripUpdate.pb",
+    "mdb_id": "rtweb-fr-lia-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

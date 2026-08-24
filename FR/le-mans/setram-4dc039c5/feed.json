@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SETRAM",
+    "country": "FR",
+    "subdivision": "Sarthe (72)",
+    "city": "Le Mans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/setram-lemans-gtfs-rt-trip-update",
+    "mdb_id": "rtweb-fr-setram-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BSVG / Verkehr Region Braunschweig (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Braunschweig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bsvg.efa.de/bsvagstd/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-bsvg-verkehr-region-brauns",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

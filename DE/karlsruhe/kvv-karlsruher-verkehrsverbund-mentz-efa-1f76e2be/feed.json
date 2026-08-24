@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KVV Karlsruher Verkehrsverbund (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Karlsruhe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://projekte.kvv-efa.de/sl3-alone/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-kvv-karlsruher-verkehrsver",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

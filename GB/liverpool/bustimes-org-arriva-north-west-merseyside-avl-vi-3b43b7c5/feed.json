@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Arriva North West / Merseyside AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Liverpool"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=53.44&xmax=-2.94&ymin=53.38&xmin=-3.02",
+    "mdb_id": "rtweb-gb-bustimes-org-arriva-north-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

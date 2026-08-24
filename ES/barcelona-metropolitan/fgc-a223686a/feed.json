@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FGC",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona (metropolitan)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dadesobertes.fgc.cat/api/explore/v2.1/catalog/datasets/alerts-gtfs_realtime/files/02f92ddc6d2712788903e54468542936",
+    "mdb_id": "rtweb-es-fgc-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

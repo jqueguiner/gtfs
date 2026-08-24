@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Irigo",
+    "country": "FR",
+    "subdivision": "Maine-et-Loire (49)",
+    "city": "Angers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ara-api.enroute.mobi/irigo/gtfs/vehicle-positions",
+    "mdb_id": "rtweb-fr-irigo",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

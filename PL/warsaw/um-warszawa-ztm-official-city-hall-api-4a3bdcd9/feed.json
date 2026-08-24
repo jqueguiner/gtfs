@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "UM Warszawa / ZTM (official City Hall API)",
+    "country": "PL",
+    "subdivision": "Mazowieckie",
+    "city": "Warsaw"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.um.warszawa.pl/api/action/busestrams_get/?resource_id=f2e5503e-927d-4ad3-9500-4ab9e55deb59&type=1",
+    "mdb_id": "rtweb-pl-um-warszawa-ztm-official-c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

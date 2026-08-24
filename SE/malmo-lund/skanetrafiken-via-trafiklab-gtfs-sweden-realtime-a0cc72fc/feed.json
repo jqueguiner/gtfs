@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Skanetrafiken via Trafiklab GTFS Sweden Realtime",
+    "country": "SE",
+    "subdivision": "Skane County",
+    "city": "Malmo/Lund"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs-rt/skane/VehiclePositions.pb",
+    "mdb_id": "rtweb-se-skanetrafiken-via-trafikla",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

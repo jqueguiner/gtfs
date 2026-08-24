@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Astuce (Cityway)",
+    "country": "FR",
+    "subdivision": "Seine-Maritime (76)",
+    "city": "Rouen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.mrn.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TNI&dataFormat=gtfs-rt",
+    "mdb_id": "rtweb-fr-astuce-cityway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

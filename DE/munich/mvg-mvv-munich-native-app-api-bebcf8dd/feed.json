@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MVG / MVV (Munich native app API)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Munich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mvg.de/api/bgw-pt/v3/departures?globalId=de:09162:1",
+    "mdb_id": "rtweb-de-mvg-mvv-munich-native-app-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

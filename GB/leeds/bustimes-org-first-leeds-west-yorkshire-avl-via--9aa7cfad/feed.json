@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (First Leeds / West Yorkshire AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Leeds"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=53.82&xmax=-1.50&ymin=53.77&xmin=-1.60",
+    "mdb_id": "rtweb-gb-bustimes-org-first-leeds-w",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

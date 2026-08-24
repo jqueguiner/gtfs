@@ -1638,5 +1638,1255 @@
 "rt_type": "json_positions",
 "rt_format": "esri stream (websocket) / arcgis json",
 "needs_auth": false
+},
+{
+"url": "https://gsvalbe.id.lv/pieturas/dati/gtfs-rt.pb",
+"cc": "LV",
+"city": "Riga (national aggregate)",
+"subdiv": "",
+"provider": "PIETURAS (gsvalbe.id.lv national aggregator)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://saraksti.rigassatiksme.lv/vehicle_positions.pb",
+"cc": "LV",
+"city": "Riga",
+"subdiv": "",
+"provider": "Rigas Satiksme",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://saraksti.rigassatiksme.lv/trip_updates.pb",
+"cc": "LV",
+"city": "Riga",
+"subdiv": "",
+"provider": "Rigas Satiksme",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "http://20.19.98.194:8328/Api/api/gtfs-realtime",
+"cc": "CY",
+"city": "Nicosia / Limassol / Larnaca / Paphos / Famagusta (nationwide)",
+"subdiv": "",
+"provider": "Motionbuscard (Cyprus Public Works Dept / Ministry of Finance)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-trip-updates",
+"cc": "FR",
+"city": "National",
+"subdiv": "",
+"provider": "SNCF (TGV/Intercités/TER)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/sncf-gtfs-rt-service-alerts",
+"cc": "FR",
+"city": "National",
+"subdiv": "",
+"provider": "SNCF (TGV/Intercités/TER)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/sncf-siri-lite-estimated-timetable",
+"cc": "FR",
+"city": "National",
+"subdiv": "",
+"provider": "SNCF (TGV/Intercités/TER)",
+"rt_type": "siri",
+"rt_format": "siri lite",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/sncf-siri-lite-situation-exchange",
+"cc": "FR",
+"city": "National",
+"subdiv": "",
+"provider": "SNCF (TGV/Intercités/TER)",
+"rt_type": "siri",
+"rt_format": "siri lite",
+"needs_auth": false
+},
+{
+"url": "https://data.montpellier3m.fr/GTFS/Urbain/VehiclePosition.pb",
+"cc": "FR",
+"city": "Montpellier",
+"subdiv": "Hérault (34)",
+"provider": "TaM",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://data.montpellier3m.fr/GTFS/Urbain/TripUpdate.pb",
+"cc": "FR",
+"city": "Montpellier",
+"subdiv": "Hérault (34)",
+"provider": "TaM",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://data.montpellier3m.fr/GTFS/Urbain/Alert.pb",
+"cc": "FR",
+"city": "Montpellier",
+"subdiv": "Hérault (34)",
+"provider": "TaM",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://data.montpellier3m.fr/GTFS/Suburbain/VehiclePosition.pb",
+"cc": "FR",
+"city": "Montpellier",
+"subdiv": "Hérault (34)",
+"provider": "TaM (suburbain)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://api.cts-strasbourg.eu/v1/siri/2.0/stop-monitoring",
+"cc": "FR",
+"city": "Strasbourg",
+"subdiv": "Bas-Rhin (67)",
+"provider": "CTS",
+"rt_type": "siri",
+"rt_format": "siri lite",
+"needs_auth": true
+},
+{
+"url": "https://api.cts-strasbourg.eu/v1/siri/2.0/estimated-timetable",
+"cc": "FR",
+"city": "Strasbourg",
+"subdiv": "Bas-Rhin (67)",
+"provider": "CTS",
+"rt_type": "siri",
+"rt_format": "siri lite",
+"needs_auth": true
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/fluo-citura-reims-gtfs-rt",
+"cc": "FR",
+"city": "Reims",
+"subdiv": "Marne (51)",
+"provider": "Grand Reims Mobilités / Citura",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://opendata.transports-lia.fr/gtfs-rt/VehiclePosition.pb",
+"cc": "FR",
+"city": "Le Havre",
+"subdiv": "Seine-Maritime (76)",
+"provider": "LiA",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://opendata.transports-lia.fr/gtfs-rt/TripUpdate.pb",
+"cc": "FR",
+"city": "Le Havre",
+"subdiv": "Seine-Maritime (76)",
+"provider": "LiA",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.bus-tracker.fr/gtfs-rt/lia/vehicle-positions",
+"cc": "FR",
+"city": "Le Havre",
+"subdiv": "Seine-Maritime (76)",
+"provider": "LiA (bus-tracker mirror)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/setram-lemans-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Le Mans",
+"subdiv": "Sarthe (72)",
+"provider": "SETRAM",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/setram-lemans-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Le Mans",
+"subdiv": "Sarthe (72)",
+"provider": "SETRAM",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://data.filbleu.fr/ws-tr/gtfs-rt/opendata/vehicle-positions",
+"cc": "FR",
+"city": "Tours",
+"subdiv": "Indre-et-Loire (37)",
+"provider": "Fil Bleu",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://data.filbleu.fr/ws-tr/gtfs-rt/opendata/trip-updates",
+"cc": "FR",
+"city": "Tours",
+"subdiv": "Indre-et-Loire (37)",
+"provider": "Fil Bleu",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/tao/gtfs/trip-updates",
+"cc": "FR",
+"city": "Orléans",
+"subdiv": "Loiret (45)",
+"provider": "TAO (Orléans Métropole)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Dijon",
+"subdiv": "Côte-d'Or (21)",
+"provider": "DiviaMobilités",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/divia-dijon-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Dijon",
+"subdiv": "Côte-d'Or (21)",
+"provider": "DiviaMobilités",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Metz",
+"subdiv": "Moselle (57)",
+"provider": "Le Met'",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Metz",
+"subdiv": "Moselle (57)",
+"provider": "Le Met'",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/fluo-stan-nancy-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Nancy",
+"subdiv": "Meurthe-et-Moselle (54)",
+"provider": "STAN",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/fluo-sub-nancy-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Nancy",
+"subdiv": "Meurthe-et-Moselle (54)",
+"provider": "SUB (Nancy suburban)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/irigo/gtfs/vehicle-positions",
+"cc": "FR",
+"city": "Angers",
+"subdiv": "Maine-et-Loire (49)",
+"provider": "Irigo",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/irigo/gtfs/trip-updates",
+"cc": "FR",
+"city": "Angers",
+"subdiv": "Maine-et-Loire (49)",
+"provider": "Irigo",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/t2c-clermont-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Clermont-Ferrand",
+"subdiv": "Puy-de-Dôme (63)",
+"provider": "T2C",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/bibus-brest-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Brest",
+"subdiv": "Finistère (29)",
+"provider": "Bibus",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/bibus-brest-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Brest",
+"subdiv": "Finistère (29)",
+"provider": "Bibus",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://ara-api.enroute.mobi/bibus/siri",
+"cc": "FR",
+"city": "Brest",
+"subdiv": "Finistère (29)",
+"provider": "Bibus",
+"rt_type": "siri",
+"rt_format": "siri",
+"needs_auth": true
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/ametis-amiens-gtfs-rt-vehicle-position",
+"cc": "FR",
+"city": "Amiens",
+"subdiv": "Somme (80)",
+"provider": "Ametis",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://proxy.transport.data.gouv.fr/resource/ametis-amiens-gtfs-rt-trip-update",
+"cc": "FR",
+"city": "Amiens",
+"subdiv": "Somme (80)",
+"provider": "Ametis",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=amiensametisscolaire&type=JSON",
+"cc": "FR",
+"city": "Amiens",
+"subdiv": "Somme (80)",
+"provider": "Ametis (scolaire, Zenbus)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": false
+},
+{
+"url": "https://api.ginko.voyage/Siri/Siri.do",
+"cc": "FR",
+"city": "Besançon",
+"subdiv": "Doubs (25)",
+"provider": "Ginko",
+"rt_type": "siri",
+"rt_format": "siri",
+"needs_auth": true
+},
+{
+"url": "https://data.grandlyon.com/siri-lite/2.0/vehicle-monitoring.json",
+"cc": "FR",
+"city": "Lyon",
+"subdiv": "Rhône (69)",
+"provider": "TCL (SYTRAL)",
+"rt_type": "siri",
+"rt_format": "siri lite",
+"needs_auth": true
+},
+{
+"url": "https://api.mrn.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TNI&dataFormat=gtfs-rt",
+"cc": "FR",
+"city": "Rouen",
+"subdiv": "Seine-Maritime (76)",
+"provider": "Astuce (Cityway)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://siri.lametropolemobilite.fr/BDE_URB",
+"cc": "FR",
+"city": "Marseille / Aix-en-Provence",
+"subdiv": "Bouches-du-Rhône (13)",
+"provider": "RTM / Aix-Marseille-Provence Mobilité",
+"rt_type": "siri",
+"rt_format": "siri",
+"needs_auth": true
+},
+{
+"url": "https://realtime.gtfs.de/realtime-free.pb",
+"cc": "DE",
+"city": "nationwide",
+"subdiv": "",
+"provider": "gtfs.de (DELFI-derived, free stream)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://production.gtfsrt.vbb.de/data",
+"cc": "DE",
+"city": "Berlin/Brandenburg",
+"subdiv": "Berlin/Brandenburg",
+"provider": "VBB (OpenDataVBB, VDV-454->GTFS-RT)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://v6.bvg.transport.rest/stops/900100003/departures",
+"cc": "DE",
+"city": "Berlin",
+"subdiv": "Berlin",
+"provider": "BVG (via transport.rest HAFAS REST)",
+"rt_type": "trip_updates",
+"rt_format": "json (departures w/ delay)",
+"needs_auth": false
+},
+{
+"url": "https://www.mvg.de/api/bgw-pt/v3/departures?globalId=de:09162:1",
+"cc": "DE",
+"city": "Munich",
+"subdiv": "Bavaria",
+"provider": "MVG / MVV (Munich native app API)",
+"rt_type": "json_positions",
+"rt_format": "json departures (realtime flag + delay)",
+"needs_auth": false
+},
+{
+"url": "https://efa.vrr.de/vrr/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Ruhr / Rhein-Ruhr",
+"subdiv": "North Rhine-Westphalia",
+"provider": "VRR (openVRR, Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://www3.vvs.de/vvs/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Stuttgart",
+"subdiv": "Baden-Württemberg",
+"provider": "VVS (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://efa.vvo-online.de/VMSSL3/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Dresden",
+"subdiv": "Saxony",
+"provider": "VVO Verkehrsverbund Oberelbe (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://projekte.kvv-efa.de/sl3-alone/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Karlsruhe",
+"subdiv": "Baden-Württemberg",
+"provider": "KVV Karlsruher Verkehrsverbund (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://fahrtauskunft.avv-augsburg.de/efa/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Augsburg",
+"subdiv": "Bavaria",
+"provider": "AVV Augsburger Verkehrsverbund (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://efa.vgn.de/vgnExt_oeffi/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Nuremberg",
+"subdiv": "Bavaria",
+"provider": "VGN Verkehrsverbund Großraum Nürnberg (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://efa.rvv.de/efa/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Regensburg",
+"subdiv": "Bavaria",
+"provider": "RVV Regensburger Verkehrsverbund (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://bsvg.efa.de/bsvagstd/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Braunschweig",
+"subdiv": "Lower Saxony",
+"provider": "BSVG / Verkehr Region Braunschweig (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://westfalenfahrplan.de/nwl-efa/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Westphalia (incl. Bielefeld area)",
+"subdiv": "North Rhine-Westphalia",
+"provider": "NWL Nahverkehr Westfalen-Lippe (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://www.vrn.de/mngvrn/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Mannheim/Heidelberg/Ludwigshafen",
+"subdiv": "Baden-Württemberg / Rhineland-Palatinate",
+"provider": "VRN Verkehrsverbund Rhein-Neckar (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://www.efa-bw.de/nvbw/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Baden-Württemberg (statewide, bwegt)",
+"subdiv": "Baden-Württemberg",
+"provider": "NVBW / bwegt (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://efa.vagfr.de/vagfr3/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Freiburg",
+"subdiv": "Baden-Württemberg",
+"provider": "VAG Freiburg (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://www.ding.eu/ding3/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Ulm",
+"subdiv": "Baden-Württemberg",
+"provider": "DING Donau-Iller-Nahverkehrsverbund (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://bahnland-bayern.de/efa/XML_DM_REQUEST",
+"cc": "DE",
+"city": "Bavaria (statewide, BEG)",
+"subdiv": "Bavaria",
+"provider": "Bayerische Eisenbahngesellschaft / bahnland-bayern (Mentz EFA)",
+"rt_type": "trip_updates",
+"rt_format": "efa departure-monitor json",
+"needs_auth": false
+},
+{
+"url": "https://fahrplaner.vbn.de/hafas/mgate.exe",
+"cc": "DE",
+"city": "Bremen/Oldenburg",
+"subdiv": "Bremen / Lower Saxony",
+"provider": "VBN Verkehrsverbund Bremen/Niedersachsen (HAFAS)",
+"rt_type": "trip_updates",
+"rt_format": "hafas mgate json (POST)",
+"needs_auth": true
+},
+{
+"url": "https://nahsh.hafas.cloud/gate",
+"cc": "DE",
+"city": "Kiel / Schleswig-Holstein",
+"subdiv": "Schleswig-Holstein",
+"provider": "NAH.SH (HAFAS cloud)",
+"rt_type": "trip_updates",
+"rt_format": "hafas mgate json (POST)",
+"needs_auth": true
+},
+{
+"url": "https://gti.geofox.de/gti/public/departureList",
+"cc": "DE",
+"city": "Hamburg",
+"subdiv": "Hamburg",
+"provider": "HVV geofox (GTI API)",
+"rt_type": "trip_updates",
+"rt_format": "geofox GTI json (POST, HmacSHA1 signed)",
+"needs_auth": true
+},
+{
+"url": "https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/alerts",
+"cc": "IT",
+"city": "Florence",
+"subdiv": "Tuscany",
+"provider": "Autolinee Toscane (Regione Toscana smartregion)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://tpl.actv.it/nav/GTFSRT/vehiclePositions",
+"cc": "IT",
+"city": "Venice",
+"subdiv": "Veneto",
+"provider": "ACTV Navigazione (vaporetti / ferries)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://tpl.actv.it/nav/GTFSRT/tripUpdates",
+"cc": "IT",
+"city": "Venice",
+"subdiv": "Veneto",
+"provider": "ACTV Navigazione (vaporetti / ferries)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://tpl.actv.it/aut/GTFSRT/vehiclePositions",
+"cc": "IT",
+"city": "Venice",
+"subdiv": "Veneto",
+"provider": "ACTV Automobilistico (buses)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://tpl.actv.it/aut/GTFSRT/tripUpdates",
+"cc": "IT",
+"city": "Venice",
+"subdiv": "Veneto",
+"provider": "ACTV Automobilistico (buses)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/vehicle-positions",
+"cc": "IT",
+"city": "Bolzano",
+"subdiv": "South Tyrol / Alto Adige",
+"provider": "STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/trip-updates",
+"cc": "IT",
+"city": "Bolzano",
+"subdiv": "South Tyrol / Alto Adige",
+"provider": "STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/service-alerts",
+"cc": "IT",
+"city": "Bolzano",
+"subdiv": "South Tyrol / Alto Adige",
+"provider": "STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://proxy.busone.app/cotral/gtfs-rt/vehicle-positions.pb",
+"cc": "IT",
+"city": "Rome (Lazio region)",
+"subdiv": "Lazio",
+"provider": "COTRAL (regional/interurban buses) via BusOne",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://proxy.busone.app/cotral/gtfs-rt/trip-updates.pb",
+"cc": "IT",
+"city": "Rome (Lazio region)",
+"subdiv": "Lazio",
+"provider": "COTRAL (regional/interurban buses) via BusOne",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/vehicle_positions.pb",
+"cc": "IT",
+"city": "Parma",
+"subdiv": "Emilia-Romagna",
+"provider": "TEP Parma",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/trip_updates.pb",
+"cc": "IT",
+"city": "Parma",
+"subdiv": "Emilia-Romagna",
+"provider": "TEP Parma",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://autolineefederico.selfip.com:8080/gtfs-rt/vehicle_positions.pb",
+"cc": "IT",
+"city": "Rome (Lazio)",
+"subdiv": "Lazio",
+"provider": "Autolinee Federico (interurban)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt-protobuf",
+"needs_auth": false
+},
+{
+"url": "https://app-tpl.tndigit.it/gtlservice/trips?routeId={id}&type=U&limit=10&refDateTime={ISO8601}",
+"cc": "IT",
+"city": "Trento",
+"subdiv": "Trentino-Alto Adige",
+"provider": "Trentino Trasporti (Muoversi in Trentino app backend)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-vehicle-positions.pb",
+"cc": "ES",
+"city": "Bilbao / Bizkaia (province-wide)",
+"subdiv": "Bizkaia",
+"provider": "Bizkaibus (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bizkaibus-trip-updates.pb",
+"cc": "ES",
+"city": "Bilbao / Bizkaia",
+"subdiv": "Bizkaia",
+"provider": "Bizkaibus (CTB)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/metro-bilbao-trip-updates.pb",
+"cc": "ES",
+"city": "Bilbao",
+"subdiv": "Bizkaia",
+"provider": "Metro Bilbao (CTB)",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/la-union-vehicle-positions.pb",
+"cc": "ES",
+"city": "Bizkaia (La Unión concessions)",
+"subdiv": "Bizkaia",
+"provider": "La Unión (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bermibusa-vehicle-positions.pb",
+"cc": "ES",
+"city": "Bermeo",
+"subdiv": "Bizkaia",
+"provider": "Bermibusa (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/etxebarribus-vehicle-positions.pb",
+"cc": "ES",
+"city": "Etxebarri",
+"subdiv": "Bizkaia",
+"provider": "Etxebarribus (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/kbus-vehicle-positions.pb",
+"cc": "ES",
+"city": "Getxo",
+"subdiv": "Bizkaia",
+"provider": "Kbus (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/erandiobusa-vehicle-positions.pb",
+"cc": "ES",
+"city": "Erandio",
+"subdiv": "Bizkaia",
+"provider": "Erandiobusa (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/lejoanbusa-vehicle-positions.pb",
+"cc": "ES",
+"city": "Leioa",
+"subdiv": "Bizkaia",
+"provider": "Lejoanbusa (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/sopelbus-vehicle-positions.pb",
+"cc": "ES",
+"city": "Sopela",
+"subdiv": "Bizkaia",
+"provider": "Sopelbus (CTB)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://ctb-siri.s3.eu-south-2.amazonaws.com/bizkaibus-vehicle-positions.xml",
+"cc": "ES",
+"city": "Bilbao / Bizkaia",
+"subdiv": "Bizkaia",
+"provider": "Bizkaibus (CTB) - SIRI",
+"rt_type": "siri",
+"rt_format": "siri xml (VehicleMonitoring)",
+"needs_auth": false
+},
+{
+"url": "https://dadesobertes.fgc.cat/api/explore/v2.1/catalog/datasets/vehicle-positions-gtfs_realtime/files/d286964db2d107ecdb1344bf02f7b27b",
+"cc": "ES",
+"city": "Barcelona (metropolitan)",
+"subdiv": "Catalonia",
+"provider": "FGC (Ferrocarrils de la Generalitat de Catalunya)",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://dadesobertes.fgc.cat/api/explore/v2.1/catalog/datasets/trip-updates-gtfs_realtime/files/735985017f62fd33b2fe46e31ce53829",
+"cc": "ES",
+"city": "Barcelona (metropolitan)",
+"subdiv": "Catalonia",
+"provider": "FGC",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://dadesobertes.fgc.cat/api/explore/v2.1/catalog/datasets/alerts-gtfs_realtime/files/02f92ddc6d2712788903e54468542936",
+"cc": "ES",
+"city": "Barcelona (metropolitan)",
+"subdiv": "Catalonia",
+"provider": "FGC",
+"rt_type": "alerts",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.tmb.cat/v1/ibus/stops/{stopCode}?app_id=APP_ID&app_key=APP_KEY",
+"cc": "ES",
+"city": "Barcelona",
+"subdiv": "Catalonia",
+"provider": "TMB (Transports Metropolitans de Barcelona) - iBus",
+"rt_type": "json_positions",
+"rt_format": "json (iBus next-bus arrivals, 20-40s refresh)",
+"needs_auth": true
+},
+{
+"url": "https://openapi.emtmadrid.es/v2/transport/busemtmad/lines/arrivetimes/",
+"cc": "ES",
+"city": "Madrid",
+"subdiv": "Comunidad de Madrid",
+"provider": "EMT Madrid (MobilityLabs)",
+"rt_type": "json_positions",
+"rt_format": "json (proprietary REST: bus positions + arrive times)",
+"needs_auth": true
+},
+{
+"url": "https://datosabiertos.malaga.eu/recursos/transporte/EMT/EMTlineasUbicaciones/lineasyubicaciones.geojson",
+"cc": "ES",
+"city": "Malaga",
+"subdiv": "Andalusia",
+"provider": "EMT Malaga",
+"rt_type": "json_positions",
+"rt_format": "geojson (live bus positions, ~1 min refresh)",
+"needs_auth": false
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/sl/VehiclePositions.pb",
+"cc": "SE",
+"city": "Stockholm",
+"subdiv": "Stockholm County",
+"provider": "SL (Storstockholms Lokaltrafik) via Trafiklab GTFS Sweden Realtime",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf (gzip required)",
+"needs_auth": true
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/vt/VehiclePositions.pb",
+"cc": "SE",
+"city": "Goteborg",
+"subdiv": "Vastra Gotaland",
+"provider": "Vasttrafik via Trafiklab GTFS Sweden Realtime",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf (gzip)",
+"needs_auth": true
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/skane/VehiclePositions.pb",
+"cc": "SE",
+"city": "Malmo/Lund",
+"subdiv": "Skane County",
+"provider": "Skanetrafiken via Trafiklab GTFS Sweden Realtime",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf (gzip)",
+"needs_auth": true
+},
+{
+"url": "https://opendata.samtrafiken.se/gtfs-rt/ul/VehiclePositions.pb",
+"cc": "SE",
+"city": "Uppsala",
+"subdiv": "Uppsala County",
+"provider": "UL (Upplands Lokaltrafik) via Trafiklab GTFS Sweden Realtime",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf (gzip)",
+"needs_auth": true
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions?datasource=ATB",
+"cc": "NO",
+"city": "Trondheim",
+"subdiv": "Trondelag",
+"provider": "AtB via Entur",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/vehicle-positions?datasource=KOL",
+"cc": "NO",
+"city": "Stavanger",
+"subdiv": "Rogaland",
+"provider": "Kolumbus via Entur",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/trip-updates?datasource=RUT",
+"cc": "NO",
+"city": "Oslo",
+"subdiv": "Oslo/Viken",
+"provider": "Ruter via Entur",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://api.entur.io/realtime/v1/gtfs-rt/trip-updates?datasource=SKY",
+"cc": "NO",
+"city": "Bergen",
+"subdiv": "Vestland",
+"provider": "Skyss via Entur",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.foli.fi/siri/vm",
+"cc": "FI",
+"city": "Turku",
+"subdiv": "Southwest Finland",
+"provider": "Foli (Turun seudun joukkoliikenne)",
+"rt_type": "siri",
+"rt_format": "SIRI-VM (protobuf/gzip)",
+"needs_auth": false
+},
+{
+"url": "https://data.itsfactory.fi/journeys/api/1/vehicle-activity",
+"cc": "FI",
+"city": "Tampere",
+"subdiv": "Pirkanmaa",
+"provider": "Nysse (Tampereen seudun joukkoliikenne) via ITS Factory Journeys API",
+"rt_type": "siri",
+"rt_format": "SIRI-VM as JSON",
+"needs_auth": false
+},
+{
+"url": "https://www.stops.lt/vilnius/gtfs_realtime.pb",
+"cc": "LT",
+"city": "Vilnius",
+"subdiv": "Vilnius",
+"provider": "Vilniaus viesasis transportas (JUDU) via stops.lt",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www.stops.lt/kaunas/gtfs_realtime.pb",
+"cc": "LT",
+"city": "Kaunas",
+"subdiv": "Kaunas",
+"provider": "Kauno viesasis transportas via stops.lt",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://www.stops.lt/klaipeda/gtfs_realtime.pb",
+"cc": "LT",
+"city": "Klaipeda",
+"subdiv": "Klaipeda",
+"provider": "Klaipedos autobusu parkas via stops.lt",
+"rt_type": "vehicle_positions",
+"rt_format": "gtfs-rt protobuf",
+"needs_auth": false
+},
+{
+"url": "https://data.bus-data.dft.gov.uk/api/v1/datafeed/",
+"cc": "GB",
+"city": "Great Britain (national)",
+"subdiv": "England/Scotland/Wales",
+"provider": "DfT Bus Open Data Service (BODS)",
+"rt_type": "siri",
+"rt_format": "SIRI-VM 2.0 XML",
+"needs_auth": true
+},
+{
+"url": "https://data.bus-data.dft.gov.uk/api/v1/gtfsrtdatafeed/",
+"cc": "GB",
+"city": "Great Britain (national)",
+"subdiv": "England/Scotland/Wales",
+"provider": "DfT Bus Open Data Service (BODS)",
+"rt_type": "vehicle_positions",
+"rt_format": "GTFS-RT protobuf",
+"needs_auth": true
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=51.55&xmax=-0.05&ymin=51.45&xmin=-0.15",
+"cc": "GB",
+"city": "London (nationwide bbox map backend)",
+"subdiv": "England",
+"provider": "bustimes.org (aggregator of BODS SIRI-VM + TfL + operator AVL)",
+"rt_type": "json_positions",
+"rt_format": "JSON (coordinates, heading, datetime, service, vehicle)",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=55.99&xmax=-3.10&ymin=55.92&xmin=-3.25",
+"cc": "GB",
+"city": "Edinburgh",
+"subdiv": "Scotland",
+"provider": "bustimes.org (Lothian AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=55.90&xmax=-4.20&ymin=55.83&xmin=-4.32",
+"cc": "GB",
+"city": "Glasgow",
+"subdiv": "Scotland",
+"provider": "bustimes.org (First Glasgow / SPT AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=51.52&xmax=-3.14&ymin=51.46&xmin=-3.22",
+"cc": "GB",
+"city": "Cardiff",
+"subdiv": "Wales",
+"provider": "bustimes.org (Cardiff Bus AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=51.48&xmax=-2.55&ymin=51.43&xmin=-2.63",
+"cc": "GB",
+"city": "Bristol",
+"subdiv": "England",
+"provider": "bustimes.org (First West of England AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=53.82&xmax=-1.50&ymin=53.77&xmin=-1.60",
+"cc": "GB",
+"city": "Leeds",
+"subdiv": "England",
+"provider": "bustimes.org (First Leeds / West Yorkshire AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=53.44&xmax=-2.94&ymin=53.38&xmin=-3.02",
+"cc": "GB",
+"city": "Liverpool",
+"subdiv": "England",
+"provider": "bustimes.org (Arriva North West / Merseyside AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=53.50&xmax=-2.22&ymin=53.45&xmin=-2.28",
+"cc": "GB",
+"city": "Manchester",
+"subdiv": "England",
+"provider": "bustimes.org (Bee Network / TfGM operators AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://api.tfgm.com/odata/Metrolinks",
+"cc": "GB",
+"city": "Manchester",
+"subdiv": "England",
+"provider": "Transport for Greater Manchester (TfGM Metrolink tram)",
+"rt_type": "json_positions",
+"rt_format": "OData JSON (Metrolink tram departure boards / PIDs)",
+"needs_auth": true
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=52.50&xmax=-1.85&ymin=52.45&xmin=-1.93",
+"cc": "GB",
+"city": "Birmingham",
+"subdiv": "England",
+"provider": "bustimes.org (National Express West Midlands AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=53.40&xmax=-1.44&ymin=53.36&xmin=-1.50",
+"cc": "GB",
+"city": "Sheffield",
+"subdiv": "England",
+"provider": "bustimes.org (First South Yorkshire / Stagecoach / SYPTE AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=55.00&xmax=-1.58&ymin=54.95&xmin=-1.66",
+"cc": "GB",
+"city": "Newcastle",
+"subdiv": "England",
+"provider": "bustimes.org (Go North East / Nexus AVL via BODS)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=54.62&xmax=-5.88&ymin=54.57&xmin=-5.96",
+"cc": "GB",
+"city": "Belfast",
+"subdiv": "Northern Ireland",
+"provider": "bustimes.org (Translink Metro/Glider AVL)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://bustimes.org/vehicles.json?ymax=49.26&xmax=-2.02&ymin=49.16&xmin=-2.25",
+"cc": "JE",
+"city": "Jersey",
+"subdiv": "Channel Islands (Jersey)",
+"provider": "bustimes.org (LibertyBus AVL, Ticketer)",
+"rt_type": "json_positions",
+"rt_format": "JSON",
+"needs_auth": false
+},
+{
+"url": "https://gtfs.ztp.krakow.pl/TripUpdates_A.pb",
+"cc": "PL",
+"city": "Kraków",
+"subdiv": "Małopolskie",
+"provider": "ZTP Kraków",
+"rt_type": "trip_updates",
+"rt_format": "gtfs-rt",
+"needs_auth": false
+},
+{
+"url": "https://api.um.warszawa.pl/api/action/busestrams_get/?resource_id=f2e5503e-927d-4ad3-9500-4ab9e55deb59&type=1",
+"cc": "PL",
+"city": "Warsaw",
+"subdiv": "Mazowieckie",
+"provider": "UM Warszawa / ZTM (official City Hall API)",
+"rt_type": "json_positions",
+"rt_format": "json",
+"needs_auth": true
 }
 ]

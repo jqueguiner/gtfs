@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Klaipedos autobusu parkas via stops.lt",
+    "country": "LT",
+    "subdivision": "Klaipeda",
+    "city": "Klaipeda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/klaipeda/gtfs_realtime.pb",
+    "mdb_id": "rtweb-lt-klaipedos-autobusu-parkas-",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

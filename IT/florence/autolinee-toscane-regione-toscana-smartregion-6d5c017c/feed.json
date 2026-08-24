@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autolinee Toscane (Regione Toscana smartregion)",
+    "country": "IT",
+    "subdivision": "Tuscany",
+    "city": "Florence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://regionetoscana.smartregion.toscana.it/mobility/artifacts/gtfs-rt/alerts",
+    "mdb_id": "rtweb-it-autolinee-toscane-regione--3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ametis (scolaire, Zenbus)",
+    "country": "FR",
+    "subdivision": "Somme (80)",
+    "city": "Amiens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=amiensametisscolaire&type=JSON",
+    "mdb_id": "rtweb-fr-ametis-scolaire-zenbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

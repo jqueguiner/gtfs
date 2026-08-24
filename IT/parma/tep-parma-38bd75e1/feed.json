@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TEP Parma",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "city": "Parma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/trip_updates.pb",
+    "mdb_id": "rtweb-it-tep-parma-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

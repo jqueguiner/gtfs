@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (LibertyBus AVL, Ticketer)",
+    "country": "JE",
+    "subdivision": "Channel Islands (Jersey)",
+    "city": "Jersey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=49.26&xmax=-2.02&ymin=49.16&xmin=-2.25",
+    "mdb_id": "rtweb-je-bustimes-org-libertybus-av",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

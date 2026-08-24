@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Irigo",
+    "country": "FR",
+    "subdivision": "Maine-et-Loire (49)",
+    "city": "Angers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ara-api.enroute.mobi/irigo/gtfs/trip-updates",
+    "mdb_id": "rtweb-fr-irigo-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

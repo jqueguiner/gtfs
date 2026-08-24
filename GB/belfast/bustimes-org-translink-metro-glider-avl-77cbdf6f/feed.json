@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Translink Metro/Glider AVL)",
+    "country": "GB",
+    "subdivision": "Northern Ireland",
+    "city": "Belfast"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=54.62&xmax=-5.88&ymin=54.57&xmin=-5.96",
+    "mdb_id": "rtweb-gb-bustimes-org-translink-met",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VRR (openVRR, Mentz EFA)",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ruhr / Rhein-Ruhr"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.vrr.de/vrr/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-vrr-openvrr-mentz-efa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rigas Satiksme",
+    "country": "LV",
+    "subdivision": "",
+    "city": "Riga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://saraksti.rigassatiksme.lv/trip_updates.pb",
+    "mdb_id": "rtweb-lv-rigas-satiksme-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RVV Regensburger Verkehrsverbund (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Regensburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.rvv.de/efa/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-rvv-regensburger-verkehrsv",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

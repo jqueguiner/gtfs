@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",
+    "country": "IT",
+    "subdivision": "South Tyrol / Alto Adige",
+    "city": "Bolzano"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/service-alerts",
+    "mdb_id": "rtweb-it-sta-sasa-open-data-hub-sud-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

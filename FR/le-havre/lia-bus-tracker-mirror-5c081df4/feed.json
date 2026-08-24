@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LiA (bus-tracker mirror)",
+    "country": "FR",
+    "subdivision": "Seine-Maritime (76)",
+    "city": "Le Havre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.bus-tracker.fr/gtfs-rt/lia/vehicle-positions",
+    "mdb_id": "rtweb-fr-lia-bus-tracker-mirror",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

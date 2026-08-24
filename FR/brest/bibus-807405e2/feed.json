@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bibus",
+    "country": "FR",
+    "subdivision": "Finistère (29)",
+    "city": "Brest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ara-api.enroute.mobi/bibus/siri",
+    "mdb_id": "rtweb-fr-bibus-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

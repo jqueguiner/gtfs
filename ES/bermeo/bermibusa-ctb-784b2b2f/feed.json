@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bermibusa (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Bermeo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/bermibusa-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-bermibusa-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

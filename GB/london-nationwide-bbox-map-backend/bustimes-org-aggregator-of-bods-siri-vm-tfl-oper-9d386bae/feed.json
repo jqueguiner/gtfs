@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (aggregator of BODS SIRI-VM + TfL + operator AVL)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "London (nationwide bbox map backend)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=51.55&xmax=-0.05&ymin=51.45&xmin=-0.15",
+    "mdb_id": "rtweb-gb-bustimes-org-aggregator-of",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "FGC (Ferrocarrils de la Generalitat de Catalunya)",
+    "country": "ES",
+    "subdivision": "Catalonia",
+    "city": "Barcelona (metropolitan)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dadesobertes.fgc.cat/api/explore/v2.1/catalog/datasets/vehicle-positions-gtfs_realtime/files/d286964db2d107ecdb1344bf02f7b27b",
+    "mdb_id": "rtweb-es-fgc-ferrocarrils-de-la-gen",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

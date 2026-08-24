@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fil Bleu",
+    "country": "FR",
+    "subdivision": "Indre-et-Loire (37)",
+    "city": "Tours"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.filbleu.fr/ws-tr/gtfs-rt/opendata/vehicle-positions",
+    "mdb_id": "rtweb-fr-fil-bleu",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

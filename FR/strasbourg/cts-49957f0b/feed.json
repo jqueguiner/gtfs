@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CTS",
+    "country": "FR",
+    "subdivision": "Bas-Rhin (67)",
+    "city": "Strasbourg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.cts-strasbourg.eu/v1/siri/2.0/stop-monitoring",
+    "mdb_id": "rtweb-fr-cts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

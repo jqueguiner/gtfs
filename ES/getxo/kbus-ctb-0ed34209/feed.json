@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kbus (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Getxo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/kbus-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-kbus-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

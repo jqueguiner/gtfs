@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VGN Verkehrsverbund Großraum Nürnberg (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Nuremberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.vgn.de/vgnExt_oeffi/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-vgn-verkehrsverbund-grorau",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

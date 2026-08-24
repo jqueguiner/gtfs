@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Erandiobusa (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Erandio"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/erandiobusa-vehicle-positions.pb",
+    "mdb_id": "rtweb-es-erandiobusa-ctb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

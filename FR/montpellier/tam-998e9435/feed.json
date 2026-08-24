@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TaM",
+    "country": "FR",
+    "subdivision": "Hérault (34)",
+    "city": "Montpellier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.montpellier3m.fr/GTFS/Urbain/TripUpdate.pb",
+    "mdb_id": "rtweb-fr-tam-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

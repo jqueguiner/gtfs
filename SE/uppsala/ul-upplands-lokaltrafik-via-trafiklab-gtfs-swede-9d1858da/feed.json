@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "UL (Upplands Lokaltrafik) via Trafiklab GTFS Sweden Realtime",
+    "country": "SE",
+    "subdivision": "Uppsala County",
+    "city": "Uppsala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://opendata.samtrafiken.se/gtfs-rt/ul/VehiclePositions.pb",
+    "mdb_id": "rtweb-se-ul-upplands-lokaltrafik-vi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

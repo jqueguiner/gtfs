@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RTM / Aix-Marseille-Provence Mobilité",
+    "country": "FR",
+    "subdivision": "Bouches-du-Rhône (13)",
+    "city": "Marseille / Aix-en-Provence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://siri.lametropolemobilite.fr/BDE_URB",
+    "mdb_id": "rtweb-fr-rtm-aix-marseille-provence",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

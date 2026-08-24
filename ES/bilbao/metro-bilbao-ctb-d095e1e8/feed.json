@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metro Bilbao (CTB)",
+    "country": "ES",
+    "subdivision": "Bizkaia",
+    "city": "Bilbao"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ctb-gtfs-rt.s3.eu-south-2.amazonaws.com/metro-bilbao-trip-updates.pb",
+    "mdb_id": "rtweb-es-metro-bilbao-ctb-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

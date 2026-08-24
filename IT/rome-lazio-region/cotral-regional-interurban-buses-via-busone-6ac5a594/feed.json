@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "COTRAL (regional/interurban buses) via BusOne",
+    "country": "IT",
+    "subdivision": "Lazio",
+    "city": "Rome (Lazio region)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.busone.app/cotral/gtfs-rt/trip-updates.pb",
+    "mdb_id": "rtweb-it-cotral-regional-interurban-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

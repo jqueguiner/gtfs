@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (Lothian AVL via BODS)",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Edinburgh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=55.99&xmax=-3.10&ymin=55.92&xmin=-3.25",
+    "mdb_id": "rtweb-gb-bustimes-org-lothian-avl-v",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

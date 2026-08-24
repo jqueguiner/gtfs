@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de (DELFI-derived, free stream)",
+    "country": "DE",
+    "subdivision": "",
+    "city": "nationwide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.gtfs.de/realtime-free.pb",
+    "mdb_id": "rtweb-de-gtfs-de-delfi-derived-free",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

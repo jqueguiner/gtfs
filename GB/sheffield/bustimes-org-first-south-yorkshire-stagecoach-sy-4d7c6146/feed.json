@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bustimes.org (First South Yorkshire / Stagecoach / SYPTE AVL via BODS)",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sheffield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bustimes.org/vehicles.json?ymax=53.40&xmax=-1.44&ymin=53.36&xmin=-1.50",
+    "mdb_id": "rtweb-gb-bustimes-org-first-south-y",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

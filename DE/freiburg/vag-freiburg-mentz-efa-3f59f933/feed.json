@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "VAG Freiburg (Mentz EFA)",
+    "country": "DE",
+    "subdivision": "Baden-Württemberg",
+    "city": "Freiburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://efa.vagfr.de/vagfr3/XML_DM_REQUEST",
+    "mdb_id": "rtweb-de-vag-freiburg-mentz-efa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

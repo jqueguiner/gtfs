@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Foli (Turun seudun joukkoliikenne)",
+    "country": "FI",
+    "subdivision": "Southwest Finland",
+    "city": "Turku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.foli.fi/siri/vm",
+    "mdb_id": "rtweb-fi-foli-turun-seudun-joukkoli",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EMT Malaga",
+    "country": "ES",
+    "subdivision": "Andalusia",
+    "city": "Malaga"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://datosabiertos.malaga.eu/recursos/transporte/EMT/EMTlineasUbicaciones/lineasyubicaciones.geojson",
+    "mdb_id": "rtweb-es-emt-malaga",
+    "license": null
+  },
+  "bbox": null,
+  "source": "rt-web",
+  "status": "active"
+}
