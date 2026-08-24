@@ -1,0 +1,14 @@
+{
+  "operator": "Vadodara Smart City Bus (VMC / VITCOS - Vadodara Municipal Corporation city bus, operated by VITCOS Pvt Ltd)",
+  "city": "Vadodara",
+  "cc": "IN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 326,
+    "routes": 12,
+    "trips": 24,
+    "stop_times": 550
+  },
+  "notes": "Source: official VMC/VSCDL ITMS portal (smartcitybus.vmc.gov.in) data — the portal itself was unreachable from this environment (ECONNREFUSED/timeout), but the community project github.com/open-vadodara/smart-city-bus mirrors its structured API output (all_stops.json: per-route ordered POIs with POI_ID, LATLAN, REACH_TIME, sequence). Full source has 64 route-variants (U/D), 126 route-directions, 911 unique stops, 2763 stop-times. This feed is a REPRESENTATIVE subset: 12 trunk route-variants (2,3,8,10,12,14,17,19,22,25,27,31), both directions each = 24 trips, 326 stops used, 550 stop_times. All stop coordinates are official portal WGS-84 (LATLAN parsed as \"lon lat\", verified inside Vadodara bbox 72.8-73.5E / 22.0-22.6N). Stop names Title-cased from portal ALLCAPS. Trip times are the first published morning departure's REACH_TIME per stop (HH:MM AM/PM -> HH:MM:SS); one anomalous >24h wrap value was clamped. route_type=3 (bus). service DAILY (Mon-Sun) — portal timetables are shown per calendar date without weekday variation, so daily service assumed. Terminal \"City Bus Stand\" = Janmahal/Sayajiganj hub. To extend to the full 64-route feed, iterate every route in all_stops.json the same way. Confidence 0.72: coordinates+stop order+first-trip times are authoritative; reduced because only 12/64 routes and one representative trip/direction (not every daily headway) are included.",
+  "source": "llm-normalized"
+}

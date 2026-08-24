@@ -1,0 +1,14 @@
+{
+  "operator": "Trans Musi BRT (PT Trans Musi Palembang Jaya + PT Bagong Dekaka Makmur)",
+  "city": "Palembang",
+  "cc": "ID",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 102,
+    "routes": 2,
+    "trips": 8,
+    "stop_times": 44
+  },
+  "notes": "Two active Trans Musi corridors: 2P (Terminal Sako<->Palembang Icon, operated by PT Bagong Dekaka Makmur) and 5P (Palembang Icon<->Talang Kelapa, operated by PT Trans Musi Palembang Jaya). Ordered per-direction halte lists scraped from busway.id (2P: 33 out / 30 in; 5P: 27 out / 25 in). Coordinates: 25 stops anchored to OSM/Nominatim WGS-84 (terminals, malls, LRT Demang, tagged Trans Musi halte nodes such as Palembang Icon Mall, Capil, RS Siti Khodijah, Grand Garden); remaining named halte are linearly interpolated along the corridor between anchors (approximate, roughly +/- a few hundred m). Service times: no per-stop timetable is published (busway.id departure fields are blank; Moovit line page returned empty), so modelled as an even 30-min headway 05:00-21:00 daily, matching the published Teman Bus-era operating hours 05:00-21:00 WIB. Fares (not in GTFS): 2P Rp4,000 cashless / 5P free per Wikipedia. Historic Koridor 1/3/4 (Teman Bus era) are discontinued and not included. The structured stop_times here are a representative subset (05:00 + midday departure per direction = 8 trips); a full even-headway feed of 132 trips (66 per route, both directions) is at /home/ubuntu/adresses/gtfs_transmusi/feed.json (build script: /home/ubuntu/adresses/gtfs_transmusi/build.py). Confidence 0.55: stop names + ordering are well-evidenced from busway.id; ~75% of coordinates and 100% of clock times are modelled rather than published.",
+  "source": "llm-normalized"
+}

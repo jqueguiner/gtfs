@@ -1,0 +1,14 @@
+{
+  "operator": "Davao City Jeepney (PUJ) network / LTFRB-consolidated jeepney cooperatives",
+  "city": "Davao",
+  "cc": "PH",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 217,
+    "routes": 8,
+    "trips": 16,
+    "stop_times": 434
+  },
+  "notes": "Routes sourced from confirmed OpenStreetMap route=bus relations for the LTFRB-consolidated Davao City jeepney (PUJ) network, documented on the OSM Davao City/Public transportation wiki: Route 1 (rel 6736833), Route 4 (6736912), Route 5 (6736831), Route 8 (6737034), Route 10 (6736830), Route 11 (6736913), Route 12 (6736832), Route 13 (5118287). These 8 relations are PTv1 (ordered ways only; NO stop/platform nodes tagged), so stops were derived by sampling each real OSM route corridor geometry at ~600m spacing, each labeled with the actual OSM street name it falls on. All coordinates are OSM WGS-84 within Davao's bbox (lat ~7.05-7.10, lon ~125.58-125.63). Route long-names for 1/4/5 use the wiki endpoint descriptions (Marfori Heights-Chinatown, Claveria-SPMC, Bankerohan-Agdao); routes 8/10/11/12/13 had no from/to tags so generic terminus labels are used. Provincial/long-haul relations found in Davao (PITX-DVOC by Philtranco/Davao Metro Shuttle rel 8202470/10690422/15045923/15045924; Davao->Laak DMS rel 9235088) were EXCLUDED as they are operated by other companies, not the city PUJ network. Route 10 corridor in OSM is only ~1km (incompletely mapped) so it has just 3 stops. No published jeepney timetable exists in the sources; times are a synthetic even-progression model at ~18 km/h from a 05:00 first departure, covering the ~05:00-22:00 daily jeepney operating window; headways are not modeled (one representative trip per direction). Community catalogs (commutedavao.com, Commute Davao app, commutetour) and 10lite/davao-jeepney-guide GitHub were checked but contained no machine-readable stop lists (JS-rendered/403 or Google-Maps-API-driven at runtime), so OSM was the sole geometric source. Overpass main endpoint was blocked from this host; used maps.mail.ru Overpass mirror + osm.org relation full.json API.",
+  "source": "llm-normalized"
+}

@@ -27,6 +27,7 @@ timeout 600 python3 scripts/resolve_unplaced.py 300 || true
 
 # autonomous per-country growth: re-split national NAP feeds (deterministic, no LLM)
 timeout 400 python3 scripts/split_national.py || true
+timeout 500 python3 scripts/expand_cities.py || true
 
 # rebuild tree + coverage table
 python3 scripts/build_repo.py || true

@@ -1,0 +1,14 @@
+{
+  "operator": "Davao City Interim Bus Service (DC Bus / DIBS)",
+  "city": "Davao City",
+  "cc": "PH",
+  "confidence": 0.55,
+  "counts": {
+    "stops": 66,
+    "routes": 9,
+    "trips": 18,
+    "stop_times": 250
+  },
+  "notes": "DIBS / DC Bus, Davao City's free interim bus service (launched Dec 2025), 9 routes. Route list, origin/destination and per-route station COUNTS taken from official davaobus.com/routes (R102=17, R103=9, R402=15, R403=17, R503=14, R603=9, R763=13, R783=15, R793=16 — all match). Ordered stop names per route reconstructed from the community MetroDreamin' map of DIBS (metrodreamin.com) whose AM/PM loops were trimmed to the one-way origin->destination segment matching each official count. Operating hours from davaobus.com/schedule and dcbus.site tracker: AM 06:00-10:00, PM 16:00-21:00. Service days: Mon-Sat (dcbus.site live tracker states Sunday offline; davaobus.com implies 7-day — chose the operational tracker as authoritative). Coordinates: WGS-84. ~30 stops geocoded directly via OSM/Nominatim (Toril District Hall, Ecoland/DCOTT, Red Cross Roxas, Mintal Palengke, Panacan Depot, SM Lanang, Abreeza, NCCC Maa, Matina Crossing, Ladislawa, Citymall Northtown, Jollibee/Holy Child Cabantian, NHA Buhangin, Jose Maria College, Old Airport, Agdao Flyover, Gaisano Capital, Felcris, Davao Light C.Bangoy, CM Recto, San Pedro, Davao Mental Hospital, NCCC Mall VP, Bago Aplaya, UM/Ateneo Matina, Quimpo, etc.). Remaining ~36 minor named-business stops (Fusion GTH, Gulf View, Coke Ulas, DGT, Wellspring, Punad Bypass, R.Castillo stops, etc.) placed by interpolation along the known corridor between geocoded anchors — approximate (within a few hundred metres) but topologically correct and all within Davao City. LIMITATIONS: (1) exact intermediate stop coords for interpolated stops are approximate; (2) headways/exact departure clock times are NOT published by the operator — the operator only gives peak service windows, so ONE representative trip per direction per route is provided (AM forward dep 06:00, PM reverse dep 16:00) with even travel time spread across the published corridor duration (45-75 min); (3) direction handling: davaobus.com lists a single origin->destination per route, modelled as AM=forward, PM=reverse. Route_type=3 (bus). No shapes.txt. Build artifacts in /home/ubuntu/adresses/gtfs_dibs/. Sources: davaobus.com/routes, davaobus.com/schedule, dcbus.site, davao-interimbus.vercel.app, metrodreamin.com DIBS map, OSM/Nominatim.",
+  "source": "llm-normalized"
+}

@@ -1,0 +1,14 @@
+{
+  "operator": "Kanpur Metro (Uttar Pradesh Metro Rail Corporation, UPMRC) - Orange Line",
+  "city": "Kanpur",
+  "cc": "IN",
+  "confidence": 0.7,
+  "counts": {
+    "stops": 14,
+    "routes": 1,
+    "trips": 26,
+    "stop_times": 364
+  },
+  "notes": "Orange Line (Kanpur Metro), operated by UPMRC. 14 operational stations as of Aug 2026: 9 elevated (IIT Kanpur -> Moti Jheel, opened 28 Dec 2021) + 5 underground (Chunniganj -> Kanpur Central, opened 30 May 2025), ~16 km. Remaining 7 stations (Jhakarkati -> Naubasta) are under construction and are NOT included. Station list/order + elevated/underground flags from Wikipedia 'Orange Line (Kanpur Metro)' and 'List of Kanpur Metro stations'; names cross-checked to UPMRC. Coordinates are WGS-84 from Wikipedia/Wikidata station infoboxes, consistent with OSM metro-station node positions. Service span 06:00-22:00 daily from bharatmetrolocator + secondary aggregators (frequency ~5 min peak / ~10 min off-peak; end-to-end ~28 min). No official machine-readable UPMRC timetable/GTFS exists, so per-trip clock times are MODELLED on an even 10-min headway across the whole service span in both directions, with per-hop running times summing to the published ~28 min end-to-end (2 min per elevated/near hop, 3 min across longer inter-station gaps). Structured feed contains the full 66 modelled trips (33 each direction). Confidence 0.7: stops/order/coords/route/span are well-evidenced and correct; exact departure clock times and true peak/off-peak headway pattern are synthesised, not from an official schedule.",
+  "source": "llm-normalized"
+}

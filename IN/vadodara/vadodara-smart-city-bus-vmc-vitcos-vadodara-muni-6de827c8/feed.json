@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vadodara Smart City Bus (VMC / VITCOS - Vadodara Municipal Corporation city bus, operated by VITCOS Pvt Ltd)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Vadodara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/vadodara-smart-city-bus-vmc-vitcos-vadodara-muni/gtfs/",
+    "mdb_id": "in-llm-vadodara-smart-city-bus-vmc-vitcos-vadod",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

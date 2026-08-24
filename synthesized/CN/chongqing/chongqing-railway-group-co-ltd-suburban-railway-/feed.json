@@ -1,0 +1,14 @@
+{
+  "operator": "Chongqing Railway Group Co., Ltd. — Suburban Railway (Jiangtiao line)",
+  "city": "Chongqing",
+  "cc": "CN",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 7,
+    "routes": 1,
+    "trips": 114,
+    "stop_times": 798
+  },
+  "notes": "Jiangtiao line (江跳线) of the Chongqing Suburban Railway, operated by Chongqing Jiangtiao Line Rail Transit Operation Management Co., Ltd. under Chongqing Railway Group. Opened 6 Aug 2022; 7 operational stations Tiaodeng (跳磴) -> Shengquansi (圣泉寺), ~28.22 km, end-to-end run time ~28 min. route_type=2 (suburban/commuter rail; dual-voltage 1.5kV DC / 25kV AC, 120 km/h).\n\nEVIDENCED (high confidence): station list, order, and all 7 WGS-84 coordinates from Wikidata (P81 = Jiangtiao line); cross-checked with Wikipedia. Tiaodeng also matches Wikipedia coords (29.411, 106.4337). China GCJ-02 offset avoided — all coords are OSM/Wikidata WGS-84. Service window 06:30 first / 21:30 last departure and headways (14 min peak, 17 min off-peak) from Chongqing Bendibao + cq.gov.cn schedule notices (Dec 2023 adjustment: Tiaodeng last train extended to 21:30).\n\nMODELLED (lower confidence): individual per-trip clock times are generated on an even peak/off-peak headway across the published service window (57 trips/direction), NOT copied from an official published train-graph (the operator does not publish a full public timetable; source www.cqrailway.com had no Jiangtiao timetable). Intermediate stop offsets interpolated from inter-station great-circle distances scaled to the 28-min total run, with ~30s dwell folded in. Peak windows assumed 07:00-09:00 and 17:00-19:00. Direction 1 (SQS->TDG) mirrors direction 0.\n\nNOT MODELLED: since 30 Nov 2023 the Jiangtiao line through-runs onto Rail Transit Line 5 to Shiqiaopu; this feed covers only the 7 Jiangtiao-line stations (Tiaodeng->Shengquansi), not the Line 5 through-service. Future stations Jijiang & Dingshan (open ~2027) excluded. Fare/shape/transfers not modelled.\n\nConfidence 0.72: stops/route/order/coords and overall span/headway are solidly evidenced; exact per-departure minute values are a realistic even-headway reconstruction rather than the operator's official train graph.",
+  "source": "llm-normalized"
+}

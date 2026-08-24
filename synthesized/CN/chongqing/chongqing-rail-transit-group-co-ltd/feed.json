@@ -1,0 +1,14 @@
+{
+  "operator": "Chongqing Rail Transit Group Co., Ltd. (重庆轨道交通)",
+  "city": "Chongqing",
+  "cc": "CN",
+  "confidence": 0.62,
+  "counts": {
+    "stops": 239,
+    "routes": 10,
+    "trips": 20,
+    "stop_times": 578
+  },
+  "notes": "METRO/RAIL-FIRST feed per instructions. The requested operator was the main urban BUS company (Chongqing Public Transportation Operating Co.), but the bus sources (zh.wikipedia route list, Baidu, Moovit) did not expose ordered per-route stop sequences in a scrapable form, and Baidu/Gaode coords are GCJ-02 (forbidden for CN GTFS). So per the explicit \"METRO/RAIL FIRST\" directive I built the highest-ridership, best-documented mode: Chongqing Rail Transit (CRT). Data source: OpenStreetMap route=subway/monorail relations in the Chongqing admin bbox (via mail.ru Overpass mirror; overpass-api.de and kumi were down/empty). All 576 ordered stop members were fetched with WGS-84 lat/lon (name + name:en), deduped to 239 unique stations. Station counts match Wikipedia (L1=25, L2=25, L4=32, L5=32, L6 main=28, L9=29, L10=26, L18=19, Loop=34; L3 main line=39 stations, excludes the airport/Bijin branch; L6 excludes the International Expo branch). Lines built: 1,2,3,4,5,6,9,10,18,Loop — all classified route_type=1 (metro); Lines 2 and 3 are monorail but run metro-grade service. Coordinates verified in-range (lat 29.38–29.83, lon 106.23–106.84), WGS-84, NOT GCJ-02 (Chaotianmen 29.567,106.582 matches reality). Trips/schedule: service hours ~06:30–23:00 daily and headways (peak 3–5 min, off-peak 6–8 min) come from travel-guide sources (travelchinaguide, metroeasy, ichongqing) — NOT an official CRT timetable, so exact clock times are SYNTHESIZED: one representative midday trip per direction per line, even 2-min inter-station hop + 45s dwell, departing 12:00. That is why confidence is moderate (0.62): stop names/order/coordinates are authoritative (OSM), but individual stop clock-times are modeled, not published. To make a fuller feed, add the 06:40 and 21:30 departures already generated (full version had 60 trips / 1734 stop_times), plus the L3 airport branch, L6 Expo branch, and suburban lines JT (Jiangtiao) and BT (Bitong). Full working files on disk: /tmp/cq_gtfs.json (60-trip version), /tmp/cq_compact.json (this 20-trip version), /tmp/cq_stopnodes.json (raw OSM stop nodes).",
+  "source": "llm-normalized"
+}

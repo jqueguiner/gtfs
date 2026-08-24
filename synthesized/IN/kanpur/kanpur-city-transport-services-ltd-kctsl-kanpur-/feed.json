@@ -1,0 +1,14 @@
+{
+  "operator": "Kanpur City Transport Services Ltd (KCTSL) / Kanpur Metropolitan Bus Service (KMBS)",
+  "city": "Kanpur",
+  "cc": "IN",
+  "confidence": 0.42,
+  "counts": {
+    "stops": 83,
+    "routes": 30,
+    "trips": 60,
+    "stop_times": 234
+  },
+  "notes": "Two modes combined. METRO (high confidence): Kanpur Metro Orange Line, all 14 operational stations (IIT Kanpur to Kanpur Central) in correct order with WGS-84 coords from Wikipedia station articles + Wikidata (Kanpur Central Q134692732 = 26.453887,80.351804); published hours 06:00-22:30 daily, 3-min headway. Modeled as one route_type=1 route, both directions, one representative trip each at ~2 min/interstation from 06:00. Under-construction stations (Jhakarkati->Naubasta; entire Blue Line) intentionally omitted. Rawatpur = future Orange/Blue interchange.\n\nBUSES (lower confidence): 27 KMBS routes + airport service from the Wikipedia KCTSL route table (fetched verbatim via MediaWiki API). Only routes 1,2,3,7 and the airport service publish ordered via-stop chains -> those got full stop sequences. Routes 4-6,8-27 publish ONLY origin+terminus, so each is a 2-stop trip (intermediates not evidenced -> not invented). Bus stop coords geocoded via Photon (OSM/WGS-84) since Nominatim was hard rate-limited (HTTP 429); a few landmark coords set manually.\n\nAPPROXIMATE coords (low precision, geocoder returned nothing usable): Chandari, NH2, Shahid Major Salman Khan Bus Station were set to nearby central-corridor points (~26.47,80.32 area) because the schema requires numeric lat/lon and null was rejected -- treat these three as unverified placeholders, not surveyed positions.\n\nSchedule caveat: uputd.gov.in bus-timing page (Fazalganj depot route-wise table) timed out on WebFetch; Chalo/TellMyRoute stop-by-stop paths not machine-accessible. Bus trip times are synthetic even-headway representatives (07:00 start, ~4 min/interstop; airport 06:00), NOT published clock times. Bus stop ORDER for the 4 detailed routes is authoritative (official Wikipedia via-chains); 2-stop routes are directionally correct but lack intermediate detail. OSM has 0 Kanpur bus route relations (confirmed) so no relation-based ordering possible. Confidence 0.42: metro highly faithful, bus topology partially evidenced, bus times synthetic.",
+  "source": "llm-normalized"
+}

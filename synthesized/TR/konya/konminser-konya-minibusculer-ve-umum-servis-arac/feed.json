@@ -1,0 +1,14 @@
+{
+  "operator": "KONMİNSER — Konya Minibüsçüler ve Umum Servis Araçları Esnaf Odası",
+  "city": "Konya",
+  "cc": "TR",
+  "confidence": 0.5,
+  "counts": {
+    "stops": 75,
+    "routes": 26,
+    "trips": 52,
+    "stop_times": 454
+  },
+  "notes": "Source: konminser.org per-line \"hat güzergahları\" pages (26 lines, full street-by-street route descriptions scraped via curl; site's HTTPS cert is invalid so WebFetch failed and curl over HTTP was used). KONMİNSER is a minibüs/dolmuş operator only — no metro/rail/BRT, so all routes are route_type=3 (bus); Konya's tram (KonTram/Konya Büyükşehir) is a different operator and out of scope. Dolmuş lines have no official discrete stops (passengers board/alight anywhere along the street), so each line is modeled with a representative ordered set of the major named streets/junctions/landmarks/terminals from its published güzergah — these are all evidenced in the source text, none invented. Coordinates (WGS-84) come from OpenStreetMap: 28 named streets + landmark/terminal nodes geocoded via Overpass (overpass-api.de and mail.ru mirror; Nominatim was rate-limited/429). ~20 of 75 stops (mostly outlying neighborhood termini like Özalkent, Aydınlıkevler, Büyükaymanas, Kombassan Villaları, Çiftlik, Kozağaç) were not directly resolvable in OSM and were given approximate coordinates in the correct district (rounded to ~3 decimals to signal lower precision); the ~55 street/landmark anchors are precise OSM values. Service hours from hareketvakti.com.tr: ~06:00–23:59 daily, 15-min headway. Each route has 1 representative trip per direction (direction_id 0=outbound to terminus, 1=return); stop_times use a synthetic 06:00 departure with 3-min inter-stop spacing (NOT real per-stop clock times — the sources publish frequency, not timetabled stop times). calendar = daily. Number of stops per trip is a representative subset of the full güzergah, not every point the minibus passes. konyadolmussaati.com returned no usable body; line-3 (Sille Yolu-Çimenlik) slug in the task prompt was actually line 3 (line 9 is Sedirler) — corrected from the index page.",
+  "source": "llm-normalized"
+}

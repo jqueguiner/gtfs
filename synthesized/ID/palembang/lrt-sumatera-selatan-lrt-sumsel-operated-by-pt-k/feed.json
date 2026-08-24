@@ -1,0 +1,14 @@
+{
+  "operator": "LRT Sumatera Selatan (LRT Sumsel), operated by PT Kereta Api Indonesia / DJKA",
+  "city": "Palembang",
+  "cc": "ID",
+  "confidence": 0.72,
+  "counts": {
+    "stops": 13,
+    "routes": 1,
+    "trips": 6,
+    "stop_times": 78
+  },
+  "notes": "Palembang LRT (LRT Sumsel), Line 1, single line SMB II Airport <-> DJKA, 23.4 km, 13 stations, opened 2018-08-01. Operator PT Kereta Api Indonesia (Divre III Palembang) on behalf of DJKA/Ministry of Transportation. Station order and names from Wikipedia + Moovit. Coordinates WGS-84 from Wikipedia per-station articles cross-checked with OSM relation 9732463 (Bandara->DJKA); all 13 geocoded, none null. Operating hours 05:05-20:43 with 17-min headway and ~94 trips/day per Wikipedia; full end-to-end run ~49 min. Timetable NOT published per-stop, so stop_times use an even 17-min headway across service hours with cumulative segment offsets summing to ~49 min (0,6,11,15,19,24,28,31,34,38,42,46,49). Feed includes representative trips: first + a mid-day + last departure per direction to encode headway and span. Service daily (Mon-Sun). Confidence 0.72: route, stops, coordinates, span and headway are well-evidenced; exact per-station clock times are modeled from the published frequency+span rather than an official per-stop timetable, and precise inter-station running times are estimated to sum to the published ~49 min. Sources: en.wikipedia.org/wiki/Palembang_LRT and per-station articles; OSM relation 9732463; Moovit line 112128412.",
+  "source": "llm-normalized"
+}
