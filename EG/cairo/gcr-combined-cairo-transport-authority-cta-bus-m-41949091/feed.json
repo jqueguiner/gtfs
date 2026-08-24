@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "GCR combined: Cairo Transport Authority (CTA) bus + minibus + paratransit + Metro",
+    "country": "EG",
+    "subdivision": "Cairo Governorate",
+    "city": "Cairo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.github.com/repos/transportforcairo/Transit---GCR-Digital-Cairo-2017-/zipball/master",
+    "mdb_id": "eg-gh-transit-gcr-digital-cairo-2017-zipball",
+    "license": "CC BY-NC 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

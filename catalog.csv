@@ -11578,6 +11578,8 @@ EE,Viru-Nigula vald,"HANSABUSS AS, Kihnu Veeteed AS",https://eu-gtfs.remix.com/t
 EE,Väike-Maarja vald,HANSABUSS AS,https://eu-gtfs.remix.com/rakvere.zip,mdb-3367,https://www.agri.ee/regionaalareng-uhistransport/uhistransport-ja-reisimine/uhistranspordiregistri-avaandmed,active
 EE,Võru vald,ELRON,https://eu-gtfs.remix.com/elron.zip,mdb-3153,,active
 EG,Alexandria,"Alexandria transit (tram + bus, APTA/city operators) mapped by TfC/DT4A",https://hub.tumidata.org/dataset/gtfs-alexandria,eg-w2r-11,,active
+EG,Cairo,Cairo Metro (National Authority for Tunnels / ECM) - 3 lines,https://raw.githubusercontent.com/transportforcairo/Metro-GTFS/master/Archive.zip,eg-gh-metro-gtfs-archive-zip,CC BY-NC 4.0,active
+EG,Cairo,GCR combined: Cairo Transport Authority (CTA) bus + minibus + paratransit + Metro,https://api.github.com/repos/transportforcairo/Transit---GCR-Digital-Cairo-2017-/zipball/master,eg-gh-transit-gcr-digital-cairo-2017-zipball,CC BY-NC 4.0,active
 EG,Cairo (Greater Cairo Region),Cairo Metro (National Authority for Tunnels / ECM) - 3 lines,https://github.com/transportforcairo/Metro-GTFS,eg-w2r-9,,active
 EG,Cairo (Greater Cairo Region),GCR combined: Cairo Transport Authority (CTA) bus + minibus + microbus/paratransit + Metro,https://hub.tumidata.org/dataset/gtfs_feed_for_the_formal_and_pratransit_in_the_gcr_the_cairo_metro_cairo,eg-w2r-10,,active
 EG,Portsaid,Port Said Transit,https://github.com/youssefelzedy/PortSaid-Transit-GTFS/releases/latest/download/gtfs.zip,mdb-3459,,active
@@ -24822,6 +24824,7 @@ US,Mountain View,mountainview rt,https://mtma.tripshot.com/v1/gtfs/realtime/feed
 US,Mountain View,mountainview rt,https://mtma.tripshot.com/v1/gtfs/realtime/feed/mvgo?types=VehiclePosition,rt-ve-f-9q9hy-mountainview~rt,,active
 US,Multnomah County,Swan Island Evening Shuttle,https://oregon-gtfs.trilliumtransit.com/gtfs_data/swanisland-or-us/swanisland-or-us.zip,mdb-255,,active
 US,Multnomah County,Washington Park Shuttle,https://oregon-gtfs.trilliumtransit.com/gtfs_data/washingtonparkshuttle-or-us/washingtonparkshuttle-or-us.zip,mdb-254,,active
+US,Murfreesboro,Murfreesboro~Transit,https://murfreesborotransit.tripsparkhost.com/gtfs/google_transit.zip,f-murfreesboro~transit,,active
 US,Murfreesboro,Regionaltransportationauthorityofmiddletennessee~Nashville,https://www.wegotransit.com/GoogleExport/Google_Transit.zip,f-dn6-regionaltransportationauthorityofmiddletennessee~nashville,https://www.nashvillemta.org/Nashville-MTA-Developer-Data-Request.asp,active
 US,Muscatine,Muscabus,https://data.trilliumtransit.com/gtfs/muscabus-ia-us/muscabus-ia-us.zip,f-9zr78-muscabus,https://iowa-gtfs.com/,active
 US,Muscatine County,MuscaBus,http://data.trilliumtransit.com/gtfs/muscabus-ia-us/muscabus-ia-us.zip,mdb-200,,active
@@ -25187,6 +25190,7 @@ US,San Luis Obispo,cityofsanluisobispotransit rt,https://slocity.connexionz.net/
 US,San Luis Obispo,cityofsanluisobispotransit rt,https://slocity.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-9q60w-cityofsanluisobispotransit~rt,,active
 US,San Luis Obispo County,City of San Luis Obispo Transit,https://app.mecatran.com/urb/ws/feed/c2l0ZT1zbG90cmFuc2l0O2NsaWVudD1zZWxmO2V4cGlyZT07dHlwZT1ndGZzO2tleT0zZTMwMzM1OTRiMTE2NzA0N2IxNjQwNjA0ZjQwMGMzMzdiM2E1MTQ0,mdb-44,,active
 US,San Luis Obispo County,San Luis Obispo Regional Transit Authority (SLORTA),http://slo.connexionz.net/rtt/public/resource/gtfs.zip,mdb-43,,active
+US,San Marcos,Capital~Area~Rural~Transportation,https://myride.ridecarts.com/realtime/google_transit.zip,f-capital~area~rural~transportation,,active
 US,San Mateo County,Commute.org San Mateo County Shuttles,http://data.trilliumtransit.com/gtfs/commute-ca-us/commute-ca-us.zip,mdb-61,,active
 US,San Miguel County,San Miguel County,https://data.trilliumtransit.com/gtfs/sanmiguelcounty-co-us/sanmiguelcounty-co-us.zip,mdb-2195,,active
 US,San Miguel County,Town of Telluride,https://data.trilliumtransit.com/gtfs/sanmiguelcounty-co-us/sanmiguelcounty-co-us--flex-v2.zip,mdb-2050,,active
@@ -26003,7 +26007,6 @@ XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/pu
 XX,national,Amarillo~City~Transit,http://gtfs-source-feeds.transit.land/amarillo-tx-us.zip,f-amarillo~city~transit,,active
 XX,national,Bandelier~National~Monument~Shuttle,https://www.nps.gov/external-resources/gtfs/band/bandelier-national-monument.zip,f-bandelier~national~monument~shuttle,,active
 XX,national,Benton~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/benton-or-us/benton-or-us--flex-v1.zip,f-benton~or~us~flex,,active
-XX,national,Capital~Area~Rural~Transportation,https://myride.ridecarts.com/realtime/google_transit.zip,f-capital~area~rural~transportation,,active
 XX,national,City~Of~Lompoc~Transit,https://www.cityoflompoc.com/home/showpublisheddocument/29896,f-city~of~lompoc~transit,,active
 XX,national,Columbiacounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/columbiacounty-or-us/columbiacounty-or-us--flex-v1.zip,f-columbiacounty~or~us~flex,,active
 XX,national,Dubai~Rta,http://gtfs-source-feeds.transit.land/dubai-rta.zip,f-dubai~rta,https://www.dubaipulse.gov.ae/data/rta_gtfs-open/datafiles/605e9d34-cfea-4bed-9b31-3b2ce86c7a25/rta-public-transports#preview,active
@@ -26014,7 +26017,6 @@ XX,national,Humboldt~Transit~Authority~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.
 XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v1.zip,f-lincolncounty~or~us~flex,,active
 XX,national,Mankato~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/mankato-mn-us/mankato-mn-us--flex-v2.zip,f-mankato~mn~us~flex,,active
 XX,national,Manteca~Transit~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/MantecaTransitParatransitFlex.zip,f-manteca~transit~paratransit~flex,,active
-XX,national,Murfreesboro~Transit,https://murfreesborotransit.tripsparkhost.com/gtfs/google_transit.zip,f-murfreesboro~transit,,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
 XX,national,Omniride~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/omniride-va-us/omniride-va-us--flex-v2.zip,f-omniride~va~us~flex,,active

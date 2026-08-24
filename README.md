@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**26850 feeds · 18981 cities · 117 countries** · updated automatically.
+**26852 feeds · 18983 cities · 117 countries** · updated automatically.
 
 ## Layout
 ```
@@ -16,13 +16,13 @@ Every public-transport operator we can find, organised **country → city → op
 | Country | Feeds | Cities | Operators |
 |---|--:|--:|--:|
 | 🇫🇷 France | 3465 | 2926 | 2995 |
-| 🇺🇸 United States | 2333 | 1005 | 2333 |
+| 🇺🇸 United States | 2335 | 1006 | 2335 |
 | 🇩🇪 Germany | 7254 | 6721 | 7254 |
 | 🇬🇧 United Kingdom | 4030 | 3373 | 4030 |
 | 🇯🇵 Japan | 2360 | 602 | 2360 |
 | 🇨🇭 Switzerland | 1825 | 1350 | 1825 |
 | 🇨🇿 Czechia | 1396 | 1252 | 1396 |
-| 🇽🇽 XX | 847 | 1 | 847 |
+| 🇽🇽 XX | 845 | 1 | 845 |
 | 🇩🇰 Denmark | 359 | 334 | 359 |
 | 🇨🇦 Canada | 301 | 152 | 301 |
 | 🇸🇻 SV | 295 | 1 | 295 |
@@ -70,6 +70,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇩🇿 DZ | 6 | 4 | 6 |
 | 🇳🇬 Nigeria | 6 | 3 | 6 |
 | 🇸🇬 Singapore | 6 | 3 | 6 |
+| 🇪🇬 EG | 6 | 4 | 6 |
 | 🇨🇱 Chile | 6 | 4 | 6 |
 | 🇧🇦 BA | 6 | 3 | 6 |
 | 🇰🇪 KE | 6 | 2 | 6 |
@@ -84,7 +85,6 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇺🇾 UY | 4 | 2 | 4 |
 | 🇮🇱 Israel | 4 | 4 | 4 |
 | 🇧🇴 BO | 4 | 3 | 4 |
-| 🇪🇬 EG | 4 | 3 | 4 |
 | 🇲🇰 MK | 3 | 2 | 3 |
 | 🇱🇰 LK | 3 | 2 | 3 |
 | 🇦🇱 AL | 3 | 3 | 3 |
