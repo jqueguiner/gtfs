@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bellenaves",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Bellenaves"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-efdb674790",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

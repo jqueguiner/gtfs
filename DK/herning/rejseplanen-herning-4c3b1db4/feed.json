@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Herning",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Herning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-f1b814ca11",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

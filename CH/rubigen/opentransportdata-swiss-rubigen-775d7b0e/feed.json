@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Rubigen",
+    "country": "CH",
+    "subdivision": "Bern",
+    "city": "Rubigen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-222820bc93",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

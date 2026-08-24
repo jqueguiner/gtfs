@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JR (CZ national) — Novy Bydzov",
+    "country": "CZ",
+    "subdivision": "Kralovehradecky",
+    "city": "Novy Bydzov"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-city-36e20cf209",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

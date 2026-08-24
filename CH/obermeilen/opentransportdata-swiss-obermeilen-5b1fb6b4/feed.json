@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Obermeilen",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Obermeilen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-f89ec61c33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

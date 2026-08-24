@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ventnor",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ventnor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3acddfe98b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

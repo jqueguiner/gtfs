@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Spessart",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Spessart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-35f12f0593",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

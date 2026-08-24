@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bockenheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bockenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-900ebf0021",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

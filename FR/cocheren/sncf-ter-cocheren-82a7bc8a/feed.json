@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cocheren",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Cocheren"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a4db68a0ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Lotzwil",
+    "country": "CH",
+    "subdivision": "Bern",
+    "city": "Lotzwil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-154c319505",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

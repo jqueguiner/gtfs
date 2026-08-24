@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Plate",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Plate"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-78246ba519",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

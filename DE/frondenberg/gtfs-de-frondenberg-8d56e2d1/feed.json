@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frondenberg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Frondenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-963e52cf9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

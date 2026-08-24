@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Lejre",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Lejre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-8cfef42a23",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

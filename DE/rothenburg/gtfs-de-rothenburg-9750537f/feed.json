@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rothenburg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Rothenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b5769ac4fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Scarcroft",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Scarcroft"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fb2213764c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

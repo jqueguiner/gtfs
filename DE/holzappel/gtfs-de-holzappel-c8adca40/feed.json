@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Holzappel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Holzappel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5db49183a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

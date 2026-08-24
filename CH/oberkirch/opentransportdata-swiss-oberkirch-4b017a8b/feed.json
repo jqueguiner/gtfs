@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Oberkirch",
+    "country": "CH",
+    "subdivision": "Lucerne",
+    "city": "Oberkirch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-a0e2b92495",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

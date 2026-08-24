@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Ramsen",
+    "country": "CH",
+    "subdivision": "Schaffhausen",
+    "city": "Ramsen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-95e46d1db1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

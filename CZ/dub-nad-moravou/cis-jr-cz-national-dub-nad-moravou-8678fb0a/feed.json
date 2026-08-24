@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JR (CZ national) — Dub nad Moravou",
+    "country": "CZ",
+    "subdivision": "Olomoucky",
+    "city": "Dub nad Moravou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-city-d24f13a344",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

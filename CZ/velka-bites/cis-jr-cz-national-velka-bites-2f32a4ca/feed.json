@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JR (CZ national) — Velka Bites",
+    "country": "CZ",
+    "subdivision": "Vysocina",
+    "city": "Velka Bites"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-city-8ac28bb2a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

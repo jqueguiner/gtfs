@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grimmen",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Grimmen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0de0696685",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

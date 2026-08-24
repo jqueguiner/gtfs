@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ortenberg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Ortenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9322cd2afb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Skagen",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Skagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ac0e864d6f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

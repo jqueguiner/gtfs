@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rethel",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Rethel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8d97a0f4f3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

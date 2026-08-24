@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saint-Georges-de-Luzencon",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Saint-Georges-de-Luzencon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-efb49d2738",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waal",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Waal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-517d5c6469",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

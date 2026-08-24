@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rossdorf",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Rossdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-257c96830b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

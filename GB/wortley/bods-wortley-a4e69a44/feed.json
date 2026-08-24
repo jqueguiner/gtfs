@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wortley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wortley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3a4c112b15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

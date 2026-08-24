@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marpingen",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Marpingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc77c1564a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

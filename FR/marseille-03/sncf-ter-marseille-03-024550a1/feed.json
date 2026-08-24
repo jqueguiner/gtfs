@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Marseille 03",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Cote d'Azur",
+    "city": "Marseille 03"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4aac47517a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

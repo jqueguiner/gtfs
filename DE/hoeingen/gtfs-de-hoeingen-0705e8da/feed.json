@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hoeingen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Hoeingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-118acc219a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

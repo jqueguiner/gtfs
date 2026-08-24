@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Blovstrod",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Blovstrod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-df99981fa3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

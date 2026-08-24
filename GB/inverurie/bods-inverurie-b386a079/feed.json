@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Inverurie",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Inverurie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2dd76c8c0c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

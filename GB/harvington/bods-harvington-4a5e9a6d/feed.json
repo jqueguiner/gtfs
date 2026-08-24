@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Harvington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Harvington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-02c376f2fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

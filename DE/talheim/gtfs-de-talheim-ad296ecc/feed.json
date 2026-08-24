@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Talheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Talheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2ceddb18a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

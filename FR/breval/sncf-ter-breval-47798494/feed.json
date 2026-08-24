@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Breval",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Breval"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ddf69bcb3a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Brive-la-Gaillarde",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Brive-la-Gaillarde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1ddda2782c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

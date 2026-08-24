@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwabhausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwabhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ed03d9dc96",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

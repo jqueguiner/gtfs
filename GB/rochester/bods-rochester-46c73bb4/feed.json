@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Rochester",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Rochester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ede7df1db8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Estrees-Saint-Denis",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Estrees-Saint-Denis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e7466f786d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

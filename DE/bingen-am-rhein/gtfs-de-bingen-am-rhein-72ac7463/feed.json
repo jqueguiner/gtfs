@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bingen am Rhein",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bingen am Rhein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b2f6c809f3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

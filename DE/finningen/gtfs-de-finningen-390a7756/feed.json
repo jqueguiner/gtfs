@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Finningen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Finningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa0258f9dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

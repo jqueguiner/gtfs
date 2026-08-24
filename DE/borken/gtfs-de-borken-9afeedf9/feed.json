@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Borken",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Borken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-158fad84dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JR (CZ national) — Tynec",
+    "country": "CZ",
+    "subdivision": "South Moravian",
+    "city": "Tynec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-city-7253231d8b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

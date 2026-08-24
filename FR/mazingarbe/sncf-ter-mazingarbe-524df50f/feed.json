@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mazingarbe",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Mazingarbe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1a1986279b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

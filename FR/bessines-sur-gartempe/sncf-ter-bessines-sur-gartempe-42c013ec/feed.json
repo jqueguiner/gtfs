@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bessines-sur-Gartempe",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Bessines-sur-Gartempe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fce5035a4e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

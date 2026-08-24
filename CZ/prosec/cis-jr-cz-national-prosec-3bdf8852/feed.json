@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CIS JR (CZ national) — Prosec",
+    "country": "CZ",
+    "subdivision": "Pardubicky",
+    "city": "Prosec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.spojenka.cz/jrdata/jizdnirady-gtfs.zip",
+    "mdb_id": "cz-city-a89f85a83d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

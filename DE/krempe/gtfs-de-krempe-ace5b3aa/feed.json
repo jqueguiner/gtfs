@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Krempe",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Krempe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b4cdc73fe3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

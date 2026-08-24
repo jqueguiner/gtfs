@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bad Soden am Taunus",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Bad Soden am Taunus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e7fea9491",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Joehlingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Joehlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c5711e0147",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

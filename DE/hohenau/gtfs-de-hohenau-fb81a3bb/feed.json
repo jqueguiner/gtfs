@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hohenau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hohenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9842d40f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

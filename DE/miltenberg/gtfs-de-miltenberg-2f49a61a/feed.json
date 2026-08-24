@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Miltenberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Miltenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8e24dd9f04",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

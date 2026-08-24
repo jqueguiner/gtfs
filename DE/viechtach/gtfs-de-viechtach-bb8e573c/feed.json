@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Viechtach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Viechtach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3de51e9de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

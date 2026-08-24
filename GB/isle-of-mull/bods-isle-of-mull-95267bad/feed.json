@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Isle Of Mull",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Isle Of Mull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d08e1003d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

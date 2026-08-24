@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rothenburg ob der Tauber",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rothenburg ob der Tauber"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c4ccb2afa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

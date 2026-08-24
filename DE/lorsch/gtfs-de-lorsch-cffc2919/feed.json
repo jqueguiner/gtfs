@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lorsch",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Lorsch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-12078fae03",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gangelt",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Gangelt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e58f433d47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

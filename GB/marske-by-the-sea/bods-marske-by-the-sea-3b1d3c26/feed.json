@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Marske-by-the-Sea",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Marske-by-the-Sea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-28ee175942",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

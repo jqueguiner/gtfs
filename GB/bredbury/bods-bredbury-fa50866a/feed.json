@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bredbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bredbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8a67e829c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

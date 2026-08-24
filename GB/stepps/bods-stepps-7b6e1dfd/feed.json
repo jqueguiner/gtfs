@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Stepps",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Stepps"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-771ec720fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

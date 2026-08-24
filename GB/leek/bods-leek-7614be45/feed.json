@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Leek",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Leek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-35d8132b41",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

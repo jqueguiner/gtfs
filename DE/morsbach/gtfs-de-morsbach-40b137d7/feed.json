@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Morsbach",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Morsbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8a33b35843",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

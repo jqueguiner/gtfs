@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Newcastle Emlyn",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Newcastle Emlyn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fc236840c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

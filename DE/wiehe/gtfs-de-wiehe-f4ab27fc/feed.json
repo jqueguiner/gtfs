@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiehe",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Wiehe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bdb7a5d921",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

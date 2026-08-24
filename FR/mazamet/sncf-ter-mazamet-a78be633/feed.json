@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mazamet",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Mazamet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b1c5b24531",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lalbenque",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Lalbenque"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e930875bbd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

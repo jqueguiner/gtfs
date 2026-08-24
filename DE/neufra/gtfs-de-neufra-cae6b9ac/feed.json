@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neufra",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Neufra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0bcf86ecc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

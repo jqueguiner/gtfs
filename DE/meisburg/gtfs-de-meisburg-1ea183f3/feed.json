@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meisburg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Meisburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4ad471b01f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

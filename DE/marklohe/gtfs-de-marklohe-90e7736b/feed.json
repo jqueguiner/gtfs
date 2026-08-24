@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marklohe",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Marklohe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-03a3b652c0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

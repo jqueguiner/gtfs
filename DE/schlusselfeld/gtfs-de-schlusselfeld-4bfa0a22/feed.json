@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schlusselfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schlusselfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc6568a8a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

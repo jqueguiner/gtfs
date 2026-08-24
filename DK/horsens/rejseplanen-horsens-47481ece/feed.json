@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Horsens",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Horsens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-d103d3f7f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

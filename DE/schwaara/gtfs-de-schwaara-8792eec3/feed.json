@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwaara",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Schwaara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2378275800",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

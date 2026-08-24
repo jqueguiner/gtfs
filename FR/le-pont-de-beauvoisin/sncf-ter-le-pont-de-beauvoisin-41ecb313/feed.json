@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Pont-de-Beauvoisin",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Pont-de-Beauvoisin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-63333b19da",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

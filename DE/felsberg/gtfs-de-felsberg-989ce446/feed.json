@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Felsberg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Felsberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f84c1a0922",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

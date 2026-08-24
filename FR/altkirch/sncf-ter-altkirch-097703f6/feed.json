@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Altkirch",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Altkirch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5849290fc6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

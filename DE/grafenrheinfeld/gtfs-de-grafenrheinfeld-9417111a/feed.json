@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grafenrheinfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grafenrheinfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f68c28687f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

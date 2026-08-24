@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Egesheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Egesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f512a55ec3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

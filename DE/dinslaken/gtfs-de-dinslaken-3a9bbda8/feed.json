@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dinslaken",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Dinslaken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ddda0d31ee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

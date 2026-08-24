@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Audruicq",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Audruicq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2873f7f9c8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

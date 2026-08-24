@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dinge",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Dinge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-245d31ba9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

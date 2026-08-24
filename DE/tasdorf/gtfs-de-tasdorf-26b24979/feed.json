@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tasdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Tasdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5f48b21467",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

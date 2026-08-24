@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gueret",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Gueret"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4e58c5e7ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

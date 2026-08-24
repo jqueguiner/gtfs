@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Muggleswick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Muggleswick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f48f3bb579",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

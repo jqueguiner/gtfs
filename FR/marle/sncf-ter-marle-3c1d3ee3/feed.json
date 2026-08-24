@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Marle",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Marle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-74c4a119ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

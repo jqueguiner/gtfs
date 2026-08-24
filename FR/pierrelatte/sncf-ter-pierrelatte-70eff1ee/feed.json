@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pierrelatte",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Pierrelatte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d9bf1556f0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

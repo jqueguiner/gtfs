@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erlenbach am Main",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Erlenbach am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d31525b8d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

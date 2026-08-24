@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longages",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Longages"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0f20f60267",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

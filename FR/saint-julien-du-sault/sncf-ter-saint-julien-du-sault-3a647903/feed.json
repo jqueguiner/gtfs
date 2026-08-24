@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saint-Julien-du-Sault",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Saint-Julien-du-Sault"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dc6ad6965f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

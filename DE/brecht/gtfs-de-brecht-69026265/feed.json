@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brecht",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Brecht"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e93723d3af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wettin",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Wettin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c6e231d2fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

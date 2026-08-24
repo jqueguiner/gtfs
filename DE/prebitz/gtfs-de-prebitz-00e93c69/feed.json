@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Prebitz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Prebitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-12082f5143",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

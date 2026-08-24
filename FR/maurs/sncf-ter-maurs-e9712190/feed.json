@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Maurs",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Maurs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8c1064fe1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

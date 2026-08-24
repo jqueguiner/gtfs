@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Welterod",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Welterod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8b12e6d3de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

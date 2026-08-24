@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Skovby",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Skovby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ba4c3a40a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

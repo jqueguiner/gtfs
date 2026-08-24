@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wahlitz",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Wahlitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-44abc98304",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

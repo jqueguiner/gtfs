@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Luebben",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Luebben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ab52f61ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

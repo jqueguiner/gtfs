@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mullion",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Mullion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0b53d13731",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederlauer",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Niederlauer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc7e43ea1d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

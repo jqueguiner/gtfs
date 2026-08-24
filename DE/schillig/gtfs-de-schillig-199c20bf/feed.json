@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schillig",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Schillig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a5dfb7c13e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

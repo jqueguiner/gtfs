@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wallenfels",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wallenfels"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a09c444d63",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

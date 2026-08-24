@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Merklingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Merklingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b3d71ef15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

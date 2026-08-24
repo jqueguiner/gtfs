@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burtenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burtenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bf8ce7427b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

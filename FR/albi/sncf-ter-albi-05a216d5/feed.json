@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Albi",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Albi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3ef0a2806a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

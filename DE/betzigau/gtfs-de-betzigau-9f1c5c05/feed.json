@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Betzigau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Betzigau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3f715fb0d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

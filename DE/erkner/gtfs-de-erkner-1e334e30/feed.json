@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erkner",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Erkner"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ff2c165614",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

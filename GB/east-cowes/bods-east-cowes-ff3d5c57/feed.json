@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — East Cowes",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "East Cowes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-31337c1372",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

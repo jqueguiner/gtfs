@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Blumberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Blumberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-08283650f3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

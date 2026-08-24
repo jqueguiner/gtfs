@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chevilly",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Chevilly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f7bfae2f33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niedernberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Niedernberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3de467ed25",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

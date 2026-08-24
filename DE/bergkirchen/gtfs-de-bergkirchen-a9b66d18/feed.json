@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergkirchen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bergkirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-12ef23531c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

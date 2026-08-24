@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gadheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gadheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-89ca632c5c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

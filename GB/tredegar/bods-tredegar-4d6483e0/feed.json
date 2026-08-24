@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tredegar",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Tredegar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ef20c047de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

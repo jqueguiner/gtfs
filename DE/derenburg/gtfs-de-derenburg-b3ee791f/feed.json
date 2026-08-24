@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Derenburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Derenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-725e9f1c62",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

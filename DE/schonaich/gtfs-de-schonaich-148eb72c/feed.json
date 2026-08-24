@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schonaich",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schonaich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2cb9dbb8cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

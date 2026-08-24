@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sury-le-Comtal",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Sury-le-Comtal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4105d1414a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

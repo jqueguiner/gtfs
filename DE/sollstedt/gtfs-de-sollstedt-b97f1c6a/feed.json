@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sollstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Sollstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f0fcc47f17",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

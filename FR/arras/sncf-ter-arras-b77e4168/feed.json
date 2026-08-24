@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Arras",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Arras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-13e4f63625",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

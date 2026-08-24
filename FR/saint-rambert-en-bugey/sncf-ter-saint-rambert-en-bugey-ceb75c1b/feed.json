@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saint-Rambert-en-Bugey",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Saint-Rambert-en-Bugey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7f818182d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

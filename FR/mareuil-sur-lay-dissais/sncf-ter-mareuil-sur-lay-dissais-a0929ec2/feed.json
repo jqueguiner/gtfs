@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mareuil-sur-Lay-Dissais",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Mareuil-sur-Lay-Dissais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6473144559",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

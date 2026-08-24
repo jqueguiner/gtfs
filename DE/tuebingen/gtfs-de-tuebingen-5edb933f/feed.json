@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tuebingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Tuebingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8a583c63e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

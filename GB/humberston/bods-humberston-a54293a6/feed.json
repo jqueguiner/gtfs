@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Humberston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Humberston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e05f3a8882",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

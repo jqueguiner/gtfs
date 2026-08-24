@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Noyal-sur-Vilaine",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Noyal-sur-Vilaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4c3dd4d07a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

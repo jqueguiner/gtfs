@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — High Ongar",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "High Ongar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-aa86bce663",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

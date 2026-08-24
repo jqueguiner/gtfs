@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chalon-sur-Saone",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Chalon-sur-Saone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-608cc47f83",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

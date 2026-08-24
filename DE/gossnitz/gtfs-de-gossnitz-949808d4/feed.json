@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gossnitz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gossnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dae7a61738",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longwy",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Longwy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f44b1e10a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

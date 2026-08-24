@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Messel",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Messel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e29df4a752",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

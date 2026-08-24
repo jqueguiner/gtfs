@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cardenden",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Cardenden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4aee09a650",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

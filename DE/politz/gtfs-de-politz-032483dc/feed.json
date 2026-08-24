@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Politz",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Politz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b57237e5a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breitenbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Breitenbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-46b7911322",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

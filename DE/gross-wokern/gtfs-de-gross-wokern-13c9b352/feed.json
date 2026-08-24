@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross Wokern",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Gross Wokern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ba185e152c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

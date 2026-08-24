@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sulzberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sulzberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-15b2c6ea50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

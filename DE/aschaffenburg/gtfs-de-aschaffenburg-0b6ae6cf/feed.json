@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aschaffenburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aschaffenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9671adeda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

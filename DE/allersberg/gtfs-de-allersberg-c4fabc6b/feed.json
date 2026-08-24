@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Allersberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Allersberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ba31872001",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

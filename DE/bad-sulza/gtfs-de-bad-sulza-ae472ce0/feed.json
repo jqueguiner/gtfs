@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bad Sulza",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bad Sulza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-484f8dabb4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

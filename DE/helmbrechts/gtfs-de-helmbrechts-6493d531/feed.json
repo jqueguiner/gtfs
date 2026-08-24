@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Helmbrechts",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Helmbrechts"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-87e6049d9c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

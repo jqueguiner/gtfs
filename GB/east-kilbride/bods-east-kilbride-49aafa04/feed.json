@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — East Kilbride",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "East Kilbride"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-eb96993266",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

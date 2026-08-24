@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cleethorpes",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cleethorpes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d0341d1702",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

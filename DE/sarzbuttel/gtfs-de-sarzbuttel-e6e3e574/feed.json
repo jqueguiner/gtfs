@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sarzbuttel",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Sarzbuttel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c32d91fffe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

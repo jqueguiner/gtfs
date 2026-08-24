@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bentzin",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Bentzin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8be48eb127",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

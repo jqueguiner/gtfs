@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Warnau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Warnau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf9117cbef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

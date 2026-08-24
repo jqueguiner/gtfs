@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schotten",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Schotten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa0cb98b00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

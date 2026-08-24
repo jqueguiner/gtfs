@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vern-sur-Seiche",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Vern-sur-Seiche"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ecf6db7b7b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

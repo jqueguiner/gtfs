@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sutton Bonington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sutton Bonington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3dc6040d3e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

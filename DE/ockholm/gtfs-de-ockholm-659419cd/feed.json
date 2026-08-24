@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ockholm",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Ockholm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-092c9463b4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

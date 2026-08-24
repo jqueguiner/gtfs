@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ostwald",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Ostwald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3295e4b4ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bedlington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bedlington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e5cd5a8e74",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

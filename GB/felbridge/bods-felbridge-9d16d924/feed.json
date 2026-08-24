@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Felbridge",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Felbridge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c56c0b7f78",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

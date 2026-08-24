@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirchberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kirchberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b52e76379",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

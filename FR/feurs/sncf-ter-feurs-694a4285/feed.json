@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Feurs",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Feurs"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-485c0a6e7f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

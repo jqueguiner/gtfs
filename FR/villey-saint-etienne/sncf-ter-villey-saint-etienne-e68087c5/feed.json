@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villey-Saint-Etienne",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Villey-Saint-Etienne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2f6126e4f6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

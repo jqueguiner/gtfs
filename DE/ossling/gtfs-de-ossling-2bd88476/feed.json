@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ossling",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Ossling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db55b3b334",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

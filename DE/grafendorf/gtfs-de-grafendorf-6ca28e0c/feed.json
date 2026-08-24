@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grafendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grafendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4bc7c32c6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

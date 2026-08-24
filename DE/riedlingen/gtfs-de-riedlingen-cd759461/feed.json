@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Riedlingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Riedlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5edfea6c46",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

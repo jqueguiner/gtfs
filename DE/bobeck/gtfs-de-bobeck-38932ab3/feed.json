@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bobeck",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bobeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b425c0f914",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

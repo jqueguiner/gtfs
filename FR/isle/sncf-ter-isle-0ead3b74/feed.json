@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Isle",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Isle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2a2d14259b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Betheln",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Betheln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ea63019391",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

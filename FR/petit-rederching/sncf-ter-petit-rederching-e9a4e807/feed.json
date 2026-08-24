@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Petit-Rederching",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Petit-Rederching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-da86bb3ebb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

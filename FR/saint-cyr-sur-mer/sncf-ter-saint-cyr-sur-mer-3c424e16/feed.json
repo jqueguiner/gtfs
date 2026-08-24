@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saint-Cyr-sur-Mer",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Cote d'Azur",
+    "city": "Saint-Cyr-sur-Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-10a789af4a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

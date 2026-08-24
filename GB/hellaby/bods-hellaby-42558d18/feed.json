@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hellaby",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hellaby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c1bc5ce95e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

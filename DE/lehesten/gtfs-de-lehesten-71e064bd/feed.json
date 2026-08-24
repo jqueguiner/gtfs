@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lehesten",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Lehesten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c33047df3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

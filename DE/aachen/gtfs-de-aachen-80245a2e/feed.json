@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aachen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Aachen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8eb7f54382",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

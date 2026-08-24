@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Balzhausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Balzhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5d585a1679",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

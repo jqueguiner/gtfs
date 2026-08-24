@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuried",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neuried"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e59210ebbe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

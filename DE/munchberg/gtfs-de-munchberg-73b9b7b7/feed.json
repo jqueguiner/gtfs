@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Munchberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Munchberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1afdc10595",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

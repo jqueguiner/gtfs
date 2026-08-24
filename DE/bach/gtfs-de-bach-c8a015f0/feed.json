@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b1d9ac7085",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

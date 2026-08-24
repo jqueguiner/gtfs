@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Naestved",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Naestved"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-5ed5940615",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Riegsee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Riegsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe2a733d68",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saint-Hilaire-de-Chaleons",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Saint-Hilaire-de-Chaleons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-786e7c9ca3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

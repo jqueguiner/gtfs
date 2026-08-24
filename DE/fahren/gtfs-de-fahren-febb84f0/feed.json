@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fahren",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Fahren"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-25bccb1e6e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

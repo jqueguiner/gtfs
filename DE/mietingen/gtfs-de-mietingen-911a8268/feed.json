@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mietingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mietingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cb3c28ca35",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

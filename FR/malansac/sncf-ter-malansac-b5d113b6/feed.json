@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Malansac",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Malansac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0e2f7f2898",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

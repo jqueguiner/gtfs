@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Quevauvillers",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Quevauvillers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3c78cc3c33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

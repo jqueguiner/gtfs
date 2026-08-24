@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Igney",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Igney"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d3e0b9c8ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

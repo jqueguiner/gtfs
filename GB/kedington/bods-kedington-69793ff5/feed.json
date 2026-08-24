@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Kedington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Kedington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-118c7ae5a6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

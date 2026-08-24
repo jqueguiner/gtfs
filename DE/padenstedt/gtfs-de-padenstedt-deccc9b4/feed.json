@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Padenstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Padenstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d8305b1bfd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

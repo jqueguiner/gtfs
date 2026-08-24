@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Forstinning",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Forstinning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24fc15aafc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

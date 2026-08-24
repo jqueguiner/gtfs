@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Uppershausen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Uppershausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c0c5d025fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

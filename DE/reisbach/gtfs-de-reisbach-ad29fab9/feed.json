@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reisbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Reisbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd564d23ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

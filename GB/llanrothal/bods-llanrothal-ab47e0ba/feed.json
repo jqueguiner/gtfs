@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llanrothal",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Llanrothal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-21cf2a8af1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

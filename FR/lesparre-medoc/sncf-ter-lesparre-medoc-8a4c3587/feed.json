@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lesparre-Medoc",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Lesparre-Medoc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9257ed192c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

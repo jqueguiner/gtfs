@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pibrac",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Pibrac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3008ee4ffc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

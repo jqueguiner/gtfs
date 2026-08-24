@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Aylsham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Aylsham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c3cf76f5bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

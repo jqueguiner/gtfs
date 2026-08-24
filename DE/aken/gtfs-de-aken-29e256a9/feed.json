@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aken",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Aken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c8ebb43d3c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

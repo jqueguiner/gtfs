@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Letchworth Garden City",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Letchworth Garden City"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ea1603c6b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

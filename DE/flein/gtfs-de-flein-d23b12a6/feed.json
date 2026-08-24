@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Flein",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Flein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e9455a174a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

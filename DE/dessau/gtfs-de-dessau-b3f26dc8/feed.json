@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dessau",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Dessau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4b952b2b04",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

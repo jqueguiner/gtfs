@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Suderburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Suderburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c500266536",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

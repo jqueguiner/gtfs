@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Laroquebrou",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Laroquebrou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-00a7945857",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

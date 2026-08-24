@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Kibaek",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Kibaek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-d9b80e799d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gailingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gailingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2e38850680",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

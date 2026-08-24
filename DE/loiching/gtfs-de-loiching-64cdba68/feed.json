@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Loiching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Loiching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e64620cbe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

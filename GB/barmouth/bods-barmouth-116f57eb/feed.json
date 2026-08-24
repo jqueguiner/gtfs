@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Barmouth",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Barmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-95a2668ed2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

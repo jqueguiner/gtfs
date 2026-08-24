@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Trebgast",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Trebgast"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bb0b7f3bd5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

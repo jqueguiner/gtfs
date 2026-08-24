@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friedewald",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Friedewald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c36e39848e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

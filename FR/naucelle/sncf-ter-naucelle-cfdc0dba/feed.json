@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Naucelle",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Naucelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9624e4e02b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Thisted",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Thisted"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-a1f95295ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

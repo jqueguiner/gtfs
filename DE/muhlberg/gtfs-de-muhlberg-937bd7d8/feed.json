@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Muhlberg",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Muhlberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6dc547abed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

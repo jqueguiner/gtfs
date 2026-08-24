@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Meursault",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Meursault"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-45356c2340",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

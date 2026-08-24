@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Selfkant",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Selfkant"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7e50f243e1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

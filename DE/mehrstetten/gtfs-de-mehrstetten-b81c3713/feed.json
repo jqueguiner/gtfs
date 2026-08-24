@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mehrstetten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mehrstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-740e905550",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

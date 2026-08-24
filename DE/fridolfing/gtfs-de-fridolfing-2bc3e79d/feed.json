@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fridolfing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Fridolfing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-83e2e08c4e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

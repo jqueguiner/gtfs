@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Itxassou",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Itxassou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-173886330a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

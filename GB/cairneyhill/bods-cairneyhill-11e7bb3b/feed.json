@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cairneyhill",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Cairneyhill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b86023cda5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

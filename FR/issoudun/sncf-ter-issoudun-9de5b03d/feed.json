@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Issoudun",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Issoudun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f67dd058f3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

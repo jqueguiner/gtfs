@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pommerby",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Pommerby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-94140ba178",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

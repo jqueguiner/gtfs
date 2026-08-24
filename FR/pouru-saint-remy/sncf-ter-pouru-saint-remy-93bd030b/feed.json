@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pouru-Saint-Remy",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Pouru-Saint-Remy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7893597d33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

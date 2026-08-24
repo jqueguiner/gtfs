@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ried",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ried"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-feb1d81abd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

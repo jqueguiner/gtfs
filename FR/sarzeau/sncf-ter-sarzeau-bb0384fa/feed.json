@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sarzeau",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Sarzeau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a83e912e40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

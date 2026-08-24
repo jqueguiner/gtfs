@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Owschlag",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Owschlag"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-09227d1428",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

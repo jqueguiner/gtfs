@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Penne-sur-Huveaune",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Cote d'Azur",
+    "city": "La Penne-sur-Huveaune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-731a61f180",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

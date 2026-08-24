@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9a8b9435b1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

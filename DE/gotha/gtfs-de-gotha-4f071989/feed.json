@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gotha",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gotha"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6abea856f9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

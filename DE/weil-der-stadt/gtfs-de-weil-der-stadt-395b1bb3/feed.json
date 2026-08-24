@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weil der Stadt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Weil der Stadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-78fd882fc0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Korbach",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Korbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-342b9a04c9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

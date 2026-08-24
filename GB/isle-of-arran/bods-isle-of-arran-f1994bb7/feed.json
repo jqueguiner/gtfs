@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Isle of Arran",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Isle of Arran"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0b095d65ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

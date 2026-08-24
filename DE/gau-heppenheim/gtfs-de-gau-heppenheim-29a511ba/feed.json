@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gau-Heppenheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gau-Heppenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f938265bfa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

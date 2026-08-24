@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Liseleje",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Liseleje"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ff0a9d4e26",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

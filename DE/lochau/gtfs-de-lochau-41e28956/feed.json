@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lochau",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Lochau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-19c0820258",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

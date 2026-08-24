@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Villmar",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Villmar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1c06f73b85",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oerel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Oerel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b66c07bba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Barmbek-Nord",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Barmbek-Nord"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-05310d66ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

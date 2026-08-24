@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zell im Wiesental",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Zell im Wiesental"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2234dc5dc9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

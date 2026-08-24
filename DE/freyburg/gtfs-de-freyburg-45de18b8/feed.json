@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Freyburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Freyburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df56697ed7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

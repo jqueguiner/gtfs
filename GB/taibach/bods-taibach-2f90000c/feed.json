@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Taibach",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Taibach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5b8e862176",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

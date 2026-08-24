@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Logten",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Logten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-546ff0fd07",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

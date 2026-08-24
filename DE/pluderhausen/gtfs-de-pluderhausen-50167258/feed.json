@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pluderhausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Pluderhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e705ed0395",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

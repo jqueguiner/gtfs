@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Himmelkron",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Himmelkron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-169fbf581a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

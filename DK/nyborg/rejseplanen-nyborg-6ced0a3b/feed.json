@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Nyborg",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Nyborg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-b0f1a4318e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

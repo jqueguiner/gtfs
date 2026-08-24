@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bretten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bretten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ab1fcbdadc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bewbush",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bewbush"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-161b6707bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

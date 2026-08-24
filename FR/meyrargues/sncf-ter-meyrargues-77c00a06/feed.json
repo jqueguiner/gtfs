@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Meyrargues",
+    "country": "FR",
+    "subdivision": "Provence-Alpes-Cote d'Azur",
+    "city": "Meyrargues"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8a5dcd7c1d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

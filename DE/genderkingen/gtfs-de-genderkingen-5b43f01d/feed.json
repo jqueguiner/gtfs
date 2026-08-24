@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Genderkingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Genderkingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-26f42d7296",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

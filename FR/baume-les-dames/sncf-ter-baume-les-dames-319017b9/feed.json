@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Baume-les-Dames",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Baume-les-Dames"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b27b596c94",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

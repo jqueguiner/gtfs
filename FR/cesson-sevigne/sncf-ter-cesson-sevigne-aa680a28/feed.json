@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cesson-Sevigne",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Cesson-Sevigne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-598ff99da3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

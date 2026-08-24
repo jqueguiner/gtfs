@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Britten",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Britten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9487b9638",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

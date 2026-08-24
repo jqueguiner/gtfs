@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kemmern",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kemmern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc0f399abc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

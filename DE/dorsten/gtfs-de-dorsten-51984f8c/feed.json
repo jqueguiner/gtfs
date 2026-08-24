@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dorsten",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Dorsten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e5d05af53",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

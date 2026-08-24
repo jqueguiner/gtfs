@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dingolfing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Dingolfing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-74a0619368",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Leutenberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Leutenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8092f9c38b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

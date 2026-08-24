@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wentorf bei Hamburg",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Wentorf bei Hamburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aa87d10ee5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

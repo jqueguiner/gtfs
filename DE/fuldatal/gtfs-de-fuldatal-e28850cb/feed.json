@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fuldatal",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Fuldatal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2edadb0269",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

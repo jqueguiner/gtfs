@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mainhardt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mainhardt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-128c0cefc7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

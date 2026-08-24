@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eschach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Eschach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a8d8ada5ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

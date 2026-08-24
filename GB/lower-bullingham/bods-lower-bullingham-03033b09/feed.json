@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Lower Bullingham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Lower Bullingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1b75362195",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

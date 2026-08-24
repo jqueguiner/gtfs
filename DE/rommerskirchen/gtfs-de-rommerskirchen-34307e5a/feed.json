@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rommerskirchen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Rommerskirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e0b2d93834",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

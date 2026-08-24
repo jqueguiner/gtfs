@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Awsworth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Awsworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1d9d74f66f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

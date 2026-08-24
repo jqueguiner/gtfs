@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weissdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8ff59b2958",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Liskeard",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Liskeard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c1c1fe0c96",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

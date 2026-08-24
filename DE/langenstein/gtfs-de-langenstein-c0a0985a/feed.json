@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Langenstein",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Langenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0c2b8157bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

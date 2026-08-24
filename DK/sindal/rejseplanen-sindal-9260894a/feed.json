@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Sindal",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Sindal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ef7c0596f9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

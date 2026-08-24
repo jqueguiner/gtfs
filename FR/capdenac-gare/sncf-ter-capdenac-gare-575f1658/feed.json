@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Capdenac-Gare",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Capdenac-Gare"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a0d155d826",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

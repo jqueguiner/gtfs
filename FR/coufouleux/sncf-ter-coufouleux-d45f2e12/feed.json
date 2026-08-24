@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Coufouleux",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Coufouleux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-78dd83b631",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

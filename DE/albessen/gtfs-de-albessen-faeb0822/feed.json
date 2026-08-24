@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Albessen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Albessen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-60d792d054",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

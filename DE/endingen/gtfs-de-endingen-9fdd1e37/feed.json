@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Endingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Endingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db7ca86335",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

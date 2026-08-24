@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hebburn",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hebburn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1db12d8f7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

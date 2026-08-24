@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Altendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-32ee3dafa6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

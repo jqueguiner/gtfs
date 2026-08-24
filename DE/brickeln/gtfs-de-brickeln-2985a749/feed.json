@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brickeln",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Brickeln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-247e44a672",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

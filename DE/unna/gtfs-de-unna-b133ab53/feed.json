@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Unna",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Unna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-15d85b527f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

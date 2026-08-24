@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergen an der Dumme",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Bergen an der Dumme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c25d2bd134",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

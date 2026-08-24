@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bosingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bosingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c13d7757ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

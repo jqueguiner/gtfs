@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brebel",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Brebel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41f5b9eb80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

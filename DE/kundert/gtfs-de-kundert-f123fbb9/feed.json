@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kundert",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kundert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bb0f307c30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

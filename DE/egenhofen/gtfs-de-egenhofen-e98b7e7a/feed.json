@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Egenhofen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Egenhofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c77ba82bd4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

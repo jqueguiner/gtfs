@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mockrehna",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Mockrehna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e785733b6b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

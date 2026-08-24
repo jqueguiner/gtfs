@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Radlett",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Radlett"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a2372212ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gourdan-Polignan",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Gourdan-Polignan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-abe2773074",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

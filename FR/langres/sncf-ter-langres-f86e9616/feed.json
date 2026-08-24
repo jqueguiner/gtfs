@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Langres",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Langres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d5ee389ad7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

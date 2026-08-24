@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schmockwitz",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Schmockwitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e23a655dc3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

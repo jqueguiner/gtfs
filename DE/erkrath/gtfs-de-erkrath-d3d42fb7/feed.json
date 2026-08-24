@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erkrath",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Erkrath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bdaf9940d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

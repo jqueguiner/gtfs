@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Revigny-sur-Ornain",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Revigny-sur-Ornain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4452b457d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rosenthal",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Rosenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-922dce51b7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

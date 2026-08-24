@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Monkhagen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Monkhagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-64ca6e61ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

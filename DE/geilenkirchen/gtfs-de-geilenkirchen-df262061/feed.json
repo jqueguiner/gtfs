@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geilenkirchen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Geilenkirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b92a19ed44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

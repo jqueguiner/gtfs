@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bouxwiller",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Bouxwiller"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a8b238d8e2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

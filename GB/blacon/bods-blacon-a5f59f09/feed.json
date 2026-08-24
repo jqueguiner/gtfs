@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Blacon",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Blacon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1ff5248922",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfedelbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Pfedelbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b1da16005b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

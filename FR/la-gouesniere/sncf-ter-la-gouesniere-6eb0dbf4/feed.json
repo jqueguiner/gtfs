@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Gouesniere",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "La Gouesniere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d49a3d17ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

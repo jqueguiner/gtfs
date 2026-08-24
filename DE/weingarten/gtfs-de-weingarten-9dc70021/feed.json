@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weingarten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Weingarten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6d86c80b00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberleichtersbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberleichtersbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b79d168b54",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

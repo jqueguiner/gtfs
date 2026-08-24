@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kienberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kienberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e6ae8efe8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

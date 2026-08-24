@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — West Mersea",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "West Mersea"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-84c32d73e6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Vamdrup",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Vamdrup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-a9a053fc72",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hartenstein",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hartenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-40ff8bae77",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

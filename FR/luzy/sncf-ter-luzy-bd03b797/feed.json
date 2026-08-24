@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Luzy",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Luzy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-27232945fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

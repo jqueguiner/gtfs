@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Brenderup",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Brenderup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-c3e6de3260",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

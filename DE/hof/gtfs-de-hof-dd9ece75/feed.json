@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hof",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hof"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-12ca06ed0b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

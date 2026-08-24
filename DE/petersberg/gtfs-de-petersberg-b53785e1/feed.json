@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Petersberg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Petersberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7ce29fb76b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

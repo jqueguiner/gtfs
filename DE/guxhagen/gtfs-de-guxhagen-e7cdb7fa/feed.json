@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Guxhagen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Guxhagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8a06d67075",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

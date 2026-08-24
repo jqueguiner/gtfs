@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rieux",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Rieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c0db13da20",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

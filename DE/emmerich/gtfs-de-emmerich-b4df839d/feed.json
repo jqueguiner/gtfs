@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Emmerich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Emmerich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4d29cc6554",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

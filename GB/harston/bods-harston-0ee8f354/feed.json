@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Harston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Harston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4c7ef74107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

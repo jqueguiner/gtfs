@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebenweiler",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ebenweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1d6927f477",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

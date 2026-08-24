@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schaufling",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schaufling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9529c55a8d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

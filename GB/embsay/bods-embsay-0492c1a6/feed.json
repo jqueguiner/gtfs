@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Embsay",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Embsay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bb7d0cbfa1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

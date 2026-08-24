@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fisch",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Fisch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3cb422aa32",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

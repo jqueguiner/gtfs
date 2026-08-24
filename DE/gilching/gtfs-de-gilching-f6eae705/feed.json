@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gilching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gilching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f28d89087a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

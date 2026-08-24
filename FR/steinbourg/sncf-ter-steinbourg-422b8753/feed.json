@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Steinbourg",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Steinbourg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-19c7496afe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

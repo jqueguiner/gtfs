@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gaggenau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gaggenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b0c2ca1f73",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

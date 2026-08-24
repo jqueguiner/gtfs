@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burglengenfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burglengenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-176ea4eaa5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

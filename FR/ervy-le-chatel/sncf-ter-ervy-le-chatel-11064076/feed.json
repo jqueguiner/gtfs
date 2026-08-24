@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ervy-le-Chatel",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Ervy-le-Chatel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8e3963b3dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

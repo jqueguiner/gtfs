@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Itterbeck",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Itterbeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2db2b1d742",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

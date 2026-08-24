@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Allan",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Allan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cd05aac633",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

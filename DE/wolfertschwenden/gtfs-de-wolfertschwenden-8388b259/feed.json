@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolfertschwenden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wolfertschwenden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db33d99beb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

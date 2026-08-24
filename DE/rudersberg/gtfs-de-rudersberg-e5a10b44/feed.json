@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rudersberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Rudersberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-359694c6d0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

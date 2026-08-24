@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villeneuve-la-Guyard",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Villeneuve-la-Guyard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cf7d15ef71",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

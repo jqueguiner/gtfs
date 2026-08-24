@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eschfeld",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Eschfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f6c27724d4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

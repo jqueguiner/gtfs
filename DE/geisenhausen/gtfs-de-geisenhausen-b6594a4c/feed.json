@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geisenhausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Geisenhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de5e3e9a01",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

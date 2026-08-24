@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tattenhall",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Tattenhall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a77f25d357",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

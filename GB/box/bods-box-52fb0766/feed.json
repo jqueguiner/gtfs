@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Box",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Box"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4aeacfd89a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

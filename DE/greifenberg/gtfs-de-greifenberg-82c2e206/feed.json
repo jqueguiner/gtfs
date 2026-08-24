@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Greifenberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Greifenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c2893dc971",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

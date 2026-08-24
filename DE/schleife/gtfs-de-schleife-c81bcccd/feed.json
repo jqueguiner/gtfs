@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schleife",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Schleife"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f7e2781869",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

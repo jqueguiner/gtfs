@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Baiersbronn",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Baiersbronn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5a0b8c0cea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Newmains",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Newmains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e62cabd19f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

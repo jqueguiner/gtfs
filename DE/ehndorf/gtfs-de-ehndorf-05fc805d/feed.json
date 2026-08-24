@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ehndorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Ehndorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-00fc24d5da",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

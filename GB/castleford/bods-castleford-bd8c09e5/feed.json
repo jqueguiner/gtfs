@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Castleford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Castleford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d735d02650",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

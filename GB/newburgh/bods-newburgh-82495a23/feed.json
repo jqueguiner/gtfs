@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Newburgh",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Newburgh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1196373319",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

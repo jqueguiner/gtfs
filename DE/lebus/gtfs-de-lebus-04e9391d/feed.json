@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lebus",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Lebus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fc552ad4de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

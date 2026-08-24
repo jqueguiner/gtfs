@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Arhus",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Arhus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-cabc1201e1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

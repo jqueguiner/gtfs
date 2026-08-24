@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waidhaus",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Waidhaus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-556280a86a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

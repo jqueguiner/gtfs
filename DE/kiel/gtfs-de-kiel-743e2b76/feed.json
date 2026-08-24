@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kiel",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Kiel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a5cc0b5ec1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gronau",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Gronau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0d83a6bebe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

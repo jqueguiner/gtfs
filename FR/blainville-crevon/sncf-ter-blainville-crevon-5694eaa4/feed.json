@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Blainville-Crevon",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Blainville-Crevon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e41b20c543",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

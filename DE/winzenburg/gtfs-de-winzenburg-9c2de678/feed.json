@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Winzenburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Winzenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e26712b75d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

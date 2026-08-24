@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eschweiler",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Eschweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cd5e82b3c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

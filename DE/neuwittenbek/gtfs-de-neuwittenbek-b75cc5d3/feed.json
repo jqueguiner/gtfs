@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuwittenbek",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Neuwittenbek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cdd83442c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

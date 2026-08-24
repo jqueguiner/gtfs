@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Seurre",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Seurre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2c8a4ba740",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

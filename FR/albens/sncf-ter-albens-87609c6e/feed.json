@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Albens",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Albens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d60c9f6826",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

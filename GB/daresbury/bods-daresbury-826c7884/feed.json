@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Daresbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Daresbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7ad5dc66b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

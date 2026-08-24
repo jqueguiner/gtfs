@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Flimby",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Flimby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0bacbffe5b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Manching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Manching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8bcd401c76",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

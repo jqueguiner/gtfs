@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eutingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Eutingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9a0aedac2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

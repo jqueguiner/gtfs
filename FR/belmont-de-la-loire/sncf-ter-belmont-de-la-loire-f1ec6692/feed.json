@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Belmont-de-la-Loire",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Belmont-de-la-Loire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ff10ea0cff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

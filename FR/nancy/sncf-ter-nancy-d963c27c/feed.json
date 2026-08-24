@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nancy",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Nancy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6821b428e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

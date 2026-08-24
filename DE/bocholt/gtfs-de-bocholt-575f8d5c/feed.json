@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bocholt",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bocholt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-73a919d7bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

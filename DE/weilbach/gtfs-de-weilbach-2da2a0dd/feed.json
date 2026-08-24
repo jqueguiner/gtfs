@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weilbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weilbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-455d8c7c0a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

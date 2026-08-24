@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Molln",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Molln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1a2147be89",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Galten",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Galten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-3f82789200",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

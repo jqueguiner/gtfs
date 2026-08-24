@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Creutzwald",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Creutzwald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1c2bd03974",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Stretton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Stretton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1dc1fe2a1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

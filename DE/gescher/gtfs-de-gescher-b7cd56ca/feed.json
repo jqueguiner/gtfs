@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gescher",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Gescher"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-11acf9f921",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

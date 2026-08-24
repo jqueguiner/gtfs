@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Verl",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Verl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-74e96d53e1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

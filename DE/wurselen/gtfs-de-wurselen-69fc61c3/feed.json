@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wurselen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Wurselen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-53e39b76a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

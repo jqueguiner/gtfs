@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lengdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lengdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b3fb261f88",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

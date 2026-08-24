@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Simmelsdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Simmelsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d437a9ac56",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montrichard",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Montrichard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a6704909bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

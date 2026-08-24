@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Moers",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Moers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-99517d1096",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bad Sooden-Allendorf",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Bad Sooden-Allendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cfbdfa1bc8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

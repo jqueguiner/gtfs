@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Rokeby",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Rokeby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c8a313e453",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

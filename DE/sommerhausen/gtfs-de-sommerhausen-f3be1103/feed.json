@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sommerhausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sommerhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b39e0a983d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Krautscheid",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Krautscheid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a53ab935d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

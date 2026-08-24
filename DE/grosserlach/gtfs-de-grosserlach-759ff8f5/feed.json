@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosserlach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grosserlach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8a50674e3e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

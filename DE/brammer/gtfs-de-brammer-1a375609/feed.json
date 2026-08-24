@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brammer",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Brammer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-84d391d260",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

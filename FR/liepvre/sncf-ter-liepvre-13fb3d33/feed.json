@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Liepvre",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Liepvre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8bfc9bdd70",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ancenis",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Ancenis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d6931254b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

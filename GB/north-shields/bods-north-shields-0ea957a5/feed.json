@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — North Shields",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "North Shields"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e0c01febee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

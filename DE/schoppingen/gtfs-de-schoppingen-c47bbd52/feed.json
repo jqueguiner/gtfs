@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schoppingen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Schoppingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aca85e925a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

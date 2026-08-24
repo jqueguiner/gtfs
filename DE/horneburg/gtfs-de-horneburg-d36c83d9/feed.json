@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Horneburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Horneburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3da25eb87b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Leyland",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Leyland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fc14f7a4a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

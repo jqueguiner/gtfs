@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Shipston on Stour",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Shipston on Stour"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a5ba4b037a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

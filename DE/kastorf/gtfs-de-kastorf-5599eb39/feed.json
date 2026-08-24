@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kastorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Kastorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8123deea13",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

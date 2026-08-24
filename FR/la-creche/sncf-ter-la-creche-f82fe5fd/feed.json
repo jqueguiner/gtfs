@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Creche",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "La Creche"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fbf278f7cd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

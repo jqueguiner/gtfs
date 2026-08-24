@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossbothen",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Grossbothen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3338dd6525",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

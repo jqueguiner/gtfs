@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Marcheprime",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Marcheprime"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3975d5d02f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

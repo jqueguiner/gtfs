@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerabronn",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gerabronn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6a8e9f4159",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

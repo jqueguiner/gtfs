@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bischofsmais",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bischofsmais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a565e275d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dewsbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Dewsbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9aef32b04e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

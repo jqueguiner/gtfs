@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Perrignier",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Perrignier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ec390a6441",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

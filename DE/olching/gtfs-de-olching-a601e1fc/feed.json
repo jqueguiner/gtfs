@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Olching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Olching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4582cd51b3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

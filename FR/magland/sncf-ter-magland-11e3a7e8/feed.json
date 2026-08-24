@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Magland",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Magland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-242fe8d44f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

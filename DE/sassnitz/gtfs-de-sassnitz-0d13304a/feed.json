@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sassnitz",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Sassnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-198c2b1974",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

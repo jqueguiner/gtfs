@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bagneres-de-Luchon",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Bagneres-de-Luchon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-51f37cf123",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

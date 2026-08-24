@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Laon",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Laon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-243b95cb6b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

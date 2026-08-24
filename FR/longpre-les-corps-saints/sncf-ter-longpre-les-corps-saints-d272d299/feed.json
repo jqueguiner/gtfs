@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longpre-les-Corps-Saints",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Longpre-les-Corps-Saints"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-385b7b3cb2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

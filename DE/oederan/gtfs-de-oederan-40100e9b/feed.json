@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oederan",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Oederan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a14ffe4267",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

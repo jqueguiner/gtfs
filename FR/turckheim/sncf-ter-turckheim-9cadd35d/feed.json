@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Turckheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Turckheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2b7d256718",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

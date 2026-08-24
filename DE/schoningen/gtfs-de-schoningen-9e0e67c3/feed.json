@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schoningen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Schoningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7414f4c701",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

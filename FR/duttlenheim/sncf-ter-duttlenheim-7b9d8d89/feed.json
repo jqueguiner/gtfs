@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Duttlenheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Duttlenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2c57f87174",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Velburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Velburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45c5c405f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

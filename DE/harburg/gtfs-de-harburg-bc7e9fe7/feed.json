@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Harburg",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Harburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2faaa8d80a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

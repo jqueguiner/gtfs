@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Camiers",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Camiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bd2ece8484",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

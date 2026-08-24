@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reiskirchen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Reiskirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6fa6fefb6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

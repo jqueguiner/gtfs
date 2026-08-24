@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schalkau",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Schalkau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cbd6798c47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

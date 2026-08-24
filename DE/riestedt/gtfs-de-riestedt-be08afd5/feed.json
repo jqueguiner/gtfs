@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Riestedt",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Riestedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-31e541c882",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sankt Georgen im Schwarzwald",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Sankt Georgen im Schwarzwald"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc20b81431",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

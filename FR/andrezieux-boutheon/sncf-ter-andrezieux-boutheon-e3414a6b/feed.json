@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Andrezieux-Boutheon",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Andrezieux-Boutheon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-31b5bfc46e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

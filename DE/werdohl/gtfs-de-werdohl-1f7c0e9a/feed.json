@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Werdohl",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Werdohl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7c9abc4a84",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

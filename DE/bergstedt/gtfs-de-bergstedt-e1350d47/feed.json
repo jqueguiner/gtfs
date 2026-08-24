@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergstedt",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Bergstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f679a062d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

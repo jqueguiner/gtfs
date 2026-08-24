@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gablingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gablingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7bf07278d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

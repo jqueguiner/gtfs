@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Boms",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Boms"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13c4c59fb4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

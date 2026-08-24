@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Brantingham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Brantingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3272000db4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

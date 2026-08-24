@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Obrigheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Obrigheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-591028eae3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

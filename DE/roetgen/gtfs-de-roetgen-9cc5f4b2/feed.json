@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Roetgen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Roetgen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-442758bce3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankenstein",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Frankenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1930c4637e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

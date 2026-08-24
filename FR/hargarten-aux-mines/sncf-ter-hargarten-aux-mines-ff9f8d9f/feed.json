@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Hargarten-aux-Mines",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Hargarten-aux-Mines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-199e9b51dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

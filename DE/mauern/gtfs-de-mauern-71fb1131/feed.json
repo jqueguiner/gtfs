@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mauern",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mauern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-42dfd492fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

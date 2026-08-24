@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Skibby",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Skibby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-b30db158ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mytholmroyd",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Mytholmroyd"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d167d9ba5a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

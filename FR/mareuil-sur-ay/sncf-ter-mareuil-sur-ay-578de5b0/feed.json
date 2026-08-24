@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mareuil-sur-Ay",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Mareuil-sur-Ay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bf27d73c2f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

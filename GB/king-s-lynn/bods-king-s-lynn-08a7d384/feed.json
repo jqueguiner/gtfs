@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — King's Lynn",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "King's Lynn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a4960e067d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Kingsley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Kingsley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1409f2fd3b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

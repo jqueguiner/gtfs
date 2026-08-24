@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jesteburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Jesteburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c3faaff6bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

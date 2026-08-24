@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bryneglwys",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Bryneglwys"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-564997c8cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

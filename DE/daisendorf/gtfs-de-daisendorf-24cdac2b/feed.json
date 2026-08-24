@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Daisendorf",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Daisendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-90c96f3f8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

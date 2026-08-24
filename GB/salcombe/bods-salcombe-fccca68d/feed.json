@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Salcombe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Salcombe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5e9ceee4cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

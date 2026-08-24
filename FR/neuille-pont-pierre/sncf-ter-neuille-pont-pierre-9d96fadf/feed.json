@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neuille-Pont-Pierre",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Neuille-Pont-Pierre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1d02a0a602",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

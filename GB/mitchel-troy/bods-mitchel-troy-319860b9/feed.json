@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mitchel Troy",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Mitchel Troy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-cb7a7aab99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

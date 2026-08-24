@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schneeberg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Schneeberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af7f3009ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

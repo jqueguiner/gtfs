@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longueville",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Longueville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-892ae74355",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

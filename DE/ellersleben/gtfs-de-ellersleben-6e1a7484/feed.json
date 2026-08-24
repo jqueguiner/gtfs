@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ellersleben",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ellersleben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ed87975dd9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

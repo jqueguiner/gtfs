@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bitterfeld-Wolfen",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Bitterfeld-Wolfen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13b2a36dcb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

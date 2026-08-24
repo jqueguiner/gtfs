@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Pelsall",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Pelsall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-beb790f683",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

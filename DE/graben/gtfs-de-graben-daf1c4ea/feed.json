@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Graben",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Graben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d5b2cf295a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

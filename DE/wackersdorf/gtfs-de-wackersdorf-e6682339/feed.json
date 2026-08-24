@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wackersdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wackersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f11ec2b15a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

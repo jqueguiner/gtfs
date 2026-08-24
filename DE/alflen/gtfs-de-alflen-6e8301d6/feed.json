@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Alflen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Alflen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-27e0007466",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

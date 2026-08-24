@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberschleissheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberschleissheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d95077a896",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

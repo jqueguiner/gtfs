@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cavignac",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Cavignac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d6f3bbb707",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

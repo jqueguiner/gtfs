@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Furstenzell",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Furstenzell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af96d27fd1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

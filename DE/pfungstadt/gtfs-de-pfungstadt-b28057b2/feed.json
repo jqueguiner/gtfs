@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfungstadt",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Pfungstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc921dc87c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

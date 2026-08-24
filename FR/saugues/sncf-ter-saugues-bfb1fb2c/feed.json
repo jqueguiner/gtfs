@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Saugues",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Saugues"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-af7c3651ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

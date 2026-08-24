@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Long Eaton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Long Eaton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-dd5e3d0799",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sielenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sielenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9cbed18fee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

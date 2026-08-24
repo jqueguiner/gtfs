@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — West Byfleet",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "West Byfleet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a9c33b111c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mireval",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Mireval"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6b150d835a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

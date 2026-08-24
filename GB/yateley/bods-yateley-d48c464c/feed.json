@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Yateley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Yateley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-63a6edc3d4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

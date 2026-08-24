@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ashby de la Zouch",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ashby de la Zouch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3648edf1d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

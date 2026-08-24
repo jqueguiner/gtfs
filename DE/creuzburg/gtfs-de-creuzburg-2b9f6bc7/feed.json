@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Creuzburg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Creuzburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3e71aa323a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

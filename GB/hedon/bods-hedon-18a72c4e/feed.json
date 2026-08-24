@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hedon",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hedon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c4eec59a28",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

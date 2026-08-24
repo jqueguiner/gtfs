@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burgheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0d16f7446a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

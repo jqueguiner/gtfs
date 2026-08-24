@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Windach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Windach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a9b74682ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

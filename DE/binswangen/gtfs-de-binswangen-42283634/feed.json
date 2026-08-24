@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Binswangen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Binswangen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9281c1778e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

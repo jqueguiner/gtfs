@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neulise",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Neulise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9abb55a848",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

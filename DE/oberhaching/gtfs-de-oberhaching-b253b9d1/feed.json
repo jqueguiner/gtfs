@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberhaching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberhaching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a817294cb6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

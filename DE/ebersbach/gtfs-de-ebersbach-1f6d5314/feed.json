@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebersbach",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Ebersbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e2c4969421",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ortenburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ortenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af3b3c75ee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

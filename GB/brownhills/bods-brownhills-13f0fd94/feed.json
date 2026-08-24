@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Brownhills",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Brownhills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4b9b92470c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

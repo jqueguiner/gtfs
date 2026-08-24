@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — East Wittering",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "East Wittering"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c33ea71f77",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

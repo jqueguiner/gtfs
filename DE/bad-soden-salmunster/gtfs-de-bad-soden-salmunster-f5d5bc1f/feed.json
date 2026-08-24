@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bad Soden-Salmunster",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Bad Soden-Salmunster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fac80660b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

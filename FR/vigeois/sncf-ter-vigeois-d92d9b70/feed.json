@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vigeois",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Vigeois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c0ba34e053",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

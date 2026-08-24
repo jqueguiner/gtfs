@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Meppershall",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Meppershall"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3f6e801f71",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

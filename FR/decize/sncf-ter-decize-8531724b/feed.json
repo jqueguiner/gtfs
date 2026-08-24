@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Decize",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Decize"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-33a25acafb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

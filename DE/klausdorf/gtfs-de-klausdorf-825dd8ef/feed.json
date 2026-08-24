@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Klausdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Klausdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-90997c4ebc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

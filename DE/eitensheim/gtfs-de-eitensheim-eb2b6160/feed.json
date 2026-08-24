@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eitensheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eitensheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10f26f76d0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

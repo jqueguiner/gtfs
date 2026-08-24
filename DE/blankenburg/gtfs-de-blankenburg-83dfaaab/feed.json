@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Blankenburg",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Blankenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-306ef05067",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

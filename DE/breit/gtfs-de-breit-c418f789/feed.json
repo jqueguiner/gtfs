@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breit",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Breit"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f93e6100eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

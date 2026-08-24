@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bodenmais",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bodenmais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b7ca59a6ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

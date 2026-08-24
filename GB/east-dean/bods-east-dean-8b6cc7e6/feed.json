@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — East Dean",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "East Dean"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-14469fc549",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

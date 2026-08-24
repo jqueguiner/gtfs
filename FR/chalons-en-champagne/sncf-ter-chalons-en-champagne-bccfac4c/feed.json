@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chalons-en-Champagne",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Chalons-en-Champagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fb61ca0eab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

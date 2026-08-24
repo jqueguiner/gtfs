@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Assamstadt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Assamstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e948edf6cd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

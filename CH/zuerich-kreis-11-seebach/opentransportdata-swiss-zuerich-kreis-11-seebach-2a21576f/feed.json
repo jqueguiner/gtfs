@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Zuerich (Kreis 11) / Seebach",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Zuerich (Kreis 11) / Seebach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-fa190a4d6a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

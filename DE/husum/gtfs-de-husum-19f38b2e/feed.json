@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Husum",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Husum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-92a69d608c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

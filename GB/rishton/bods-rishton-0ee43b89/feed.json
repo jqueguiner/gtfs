@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Rishton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Rishton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7937c4acaf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

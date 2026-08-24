@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cleland",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Cleland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0b4aa444af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

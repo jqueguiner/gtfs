@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Vaerlose",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Vaerlose"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-0f1acdfca4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

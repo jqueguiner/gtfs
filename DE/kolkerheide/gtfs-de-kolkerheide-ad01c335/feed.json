@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kolkerheide",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Kolkerheide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df8c90f79a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

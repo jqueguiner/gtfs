@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marth",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Marth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c20f94606e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

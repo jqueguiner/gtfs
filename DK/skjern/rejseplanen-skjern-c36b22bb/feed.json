@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Skjern",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Skjern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-09e1d60062",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

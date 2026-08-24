@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Obersimten",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Obersimten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d5dd6c40fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

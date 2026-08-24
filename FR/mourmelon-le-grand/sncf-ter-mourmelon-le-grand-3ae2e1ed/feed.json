@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mourmelon-le-Grand",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Mourmelon-le-Grand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e79291d512",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

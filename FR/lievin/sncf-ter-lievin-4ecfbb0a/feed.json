@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lievin",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Lievin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1e7da5819b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

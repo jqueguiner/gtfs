@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Calonne-Ricouart",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Calonne-Ricouart"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9e1c064e01",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

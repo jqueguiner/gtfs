@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wadebridge",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wadebridge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6e0cb3e22f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

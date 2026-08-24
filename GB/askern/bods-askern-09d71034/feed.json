@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Askern",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Askern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4cdc77b954",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Adelberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Adelberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-770a8be4f6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

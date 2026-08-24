@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ditton Hill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ditton Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-920046ae71",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

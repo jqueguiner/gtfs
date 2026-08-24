@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rettenberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rettenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fec5cd8eca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

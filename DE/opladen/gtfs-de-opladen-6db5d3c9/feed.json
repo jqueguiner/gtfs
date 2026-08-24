@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Opladen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Opladen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-06410a9f3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

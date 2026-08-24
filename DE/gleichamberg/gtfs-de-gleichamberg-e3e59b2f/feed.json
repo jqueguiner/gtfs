@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gleichamberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gleichamberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-980d52f8cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

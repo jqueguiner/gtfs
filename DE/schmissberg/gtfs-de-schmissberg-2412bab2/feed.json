@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schmissberg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Schmissberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de94aa58d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

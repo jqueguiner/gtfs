@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gorcy",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Gorcy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-23101b937e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

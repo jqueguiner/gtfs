@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Cendre",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Le Cendre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dbeccfba7d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

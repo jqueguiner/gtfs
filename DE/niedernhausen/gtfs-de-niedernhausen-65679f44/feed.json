@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niedernhausen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Niedernhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf84fc3b26",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

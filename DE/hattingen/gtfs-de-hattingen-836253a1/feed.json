@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hattingen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Hattingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bd2f73c0fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

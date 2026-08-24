@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Guisborough",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Guisborough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-98933aa256",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

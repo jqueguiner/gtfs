@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuzelle",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Neuzelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-21f72cb07b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

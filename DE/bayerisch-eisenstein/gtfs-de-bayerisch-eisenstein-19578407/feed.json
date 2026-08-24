@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bayerisch Eisenstein",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bayerisch Eisenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1dc8ce72bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

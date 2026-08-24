@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Elstree",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Elstree"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fe4cec47b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mittelstetten",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mittelstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-53318c746d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

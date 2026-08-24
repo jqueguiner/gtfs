@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heustreu",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Heustreu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-86d070fd2d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

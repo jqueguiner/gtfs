@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Contrexeville",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Contrexeville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f30243cdfa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

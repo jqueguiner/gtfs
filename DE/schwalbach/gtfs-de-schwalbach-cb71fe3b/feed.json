@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwalbach",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Schwalbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc0000e378",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

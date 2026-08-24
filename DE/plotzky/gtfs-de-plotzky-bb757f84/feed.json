@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Plotzky",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Plotzky"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e12d35ee76",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kerpen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Kerpen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-22a13e0d1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

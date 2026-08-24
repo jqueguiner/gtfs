@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Garmisch-Partenkirchen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Garmisch-Partenkirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-72b9f40687",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

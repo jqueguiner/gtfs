@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ladbergen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ladbergen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-81fe2dcded",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

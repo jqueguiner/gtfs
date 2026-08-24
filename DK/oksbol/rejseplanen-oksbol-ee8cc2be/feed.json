@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Oksbol",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Oksbol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-df2142df55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

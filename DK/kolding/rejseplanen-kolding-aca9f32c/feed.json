@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Kolding",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Kolding"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-573d54823d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

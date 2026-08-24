@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Effeltrich",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Effeltrich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8508656d9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberelsbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberelsbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7b52beb118",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berscheid",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Berscheid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d4c5b9b69c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

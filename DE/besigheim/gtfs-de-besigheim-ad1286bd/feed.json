@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Besigheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Besigheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3b67d1dd0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

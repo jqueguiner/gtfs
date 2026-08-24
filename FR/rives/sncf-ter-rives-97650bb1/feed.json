@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rives",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Rives"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2b1c3f19d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

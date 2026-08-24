@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Collioure",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Collioure"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d21f1db81d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

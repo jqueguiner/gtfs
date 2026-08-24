@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Todmorden",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Todmorden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c4726fb6be",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

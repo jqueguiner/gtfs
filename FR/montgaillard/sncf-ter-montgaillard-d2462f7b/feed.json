@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montgaillard",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Montgaillard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c47b5dc6d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

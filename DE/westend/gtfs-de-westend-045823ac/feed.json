@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Westend",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Westend"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0e22963ce6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

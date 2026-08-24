@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross Sarau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Gross Sarau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7d92121af0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

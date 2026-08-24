@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Balgstadt",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Balgstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4761eb1c19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

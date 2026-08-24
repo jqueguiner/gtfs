@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Saltford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Saltford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8ea5b7d29c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

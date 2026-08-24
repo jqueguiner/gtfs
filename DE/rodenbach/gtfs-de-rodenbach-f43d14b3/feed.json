@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rodenbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Rodenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cb52db9a7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

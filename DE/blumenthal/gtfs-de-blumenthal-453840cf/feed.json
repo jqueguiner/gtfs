@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Blumenthal",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Blumenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-96c97e0642",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

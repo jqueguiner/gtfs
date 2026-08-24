@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waldeck",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Waldeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-083b367b25",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

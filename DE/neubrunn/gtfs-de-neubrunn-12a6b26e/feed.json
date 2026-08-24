@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neubrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neubrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa5612539f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

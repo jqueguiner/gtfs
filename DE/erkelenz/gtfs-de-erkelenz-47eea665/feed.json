@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erkelenz",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Erkelenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c8e89cf37d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Modane",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Modane"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4aa83275a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

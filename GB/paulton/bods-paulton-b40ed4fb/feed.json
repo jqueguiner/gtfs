@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Paulton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Paulton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d165a07f36",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

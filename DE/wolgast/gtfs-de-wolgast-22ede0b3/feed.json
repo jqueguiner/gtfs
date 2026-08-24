@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolgast",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Wolgast"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-04a140335b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

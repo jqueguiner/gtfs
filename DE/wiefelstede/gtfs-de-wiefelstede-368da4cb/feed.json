@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiefelstede",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wiefelstede"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9fca0711da",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

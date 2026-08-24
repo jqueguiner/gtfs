@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Reignac-sur-Indre",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Reignac-sur-Indre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bb77578298",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

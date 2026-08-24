@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Homburg",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Homburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e7862db705",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

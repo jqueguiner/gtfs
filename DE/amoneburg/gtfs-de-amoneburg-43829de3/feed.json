@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Amoneburg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Amoneburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2b34df0fb2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

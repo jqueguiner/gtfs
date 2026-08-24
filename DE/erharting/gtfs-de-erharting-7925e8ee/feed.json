@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erharting",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Erharting"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c81c0a57f7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

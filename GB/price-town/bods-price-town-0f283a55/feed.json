@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Price Town",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Price Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c1eb67e9b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

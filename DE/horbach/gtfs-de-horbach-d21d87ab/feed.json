@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Horbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Horbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-304d10aca1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

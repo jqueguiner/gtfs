@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Chorlton cum Hardy",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Chorlton cum Hardy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d3e2106261",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Madeley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Madeley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0389dd4db0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

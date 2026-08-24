@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgsolms",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Burgsolms"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-598e214c8e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

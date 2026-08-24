@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Paray-le-Monial",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Paray-le-Monial"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6b62337d80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Baraqueville",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Baraqueville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9ded00ee28",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Rheu",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Le Rheu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3b0892e671",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

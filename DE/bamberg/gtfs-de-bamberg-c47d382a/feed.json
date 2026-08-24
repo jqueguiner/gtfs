@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bamberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bamberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-15c016cf6f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

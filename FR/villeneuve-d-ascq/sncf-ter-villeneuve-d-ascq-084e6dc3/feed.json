@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villeneuve-d'Ascq",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Villeneuve-d'Ascq"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f2f675c2f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

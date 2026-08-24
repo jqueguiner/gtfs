@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Busdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Busdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b0c1660ee4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

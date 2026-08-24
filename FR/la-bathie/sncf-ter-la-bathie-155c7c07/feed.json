@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Bathie",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "La Bathie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a4e4ff4003",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

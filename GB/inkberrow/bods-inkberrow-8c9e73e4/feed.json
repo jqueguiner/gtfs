@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Inkberrow",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Inkberrow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7b67c48c99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

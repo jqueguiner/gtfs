@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cires-les-Mello",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Cires-les-Mello"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6d48f90406",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lanstrop",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Lanstrop"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-39bb51c6cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

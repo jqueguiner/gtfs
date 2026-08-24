@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ampfing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ampfing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41ae0a1b39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

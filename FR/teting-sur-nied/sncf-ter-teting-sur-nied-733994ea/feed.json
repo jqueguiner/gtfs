@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Teting-sur-Nied",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Teting-sur-Nied"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9682f0b506",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

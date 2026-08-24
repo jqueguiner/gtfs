@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittingen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wittingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8214a6709d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

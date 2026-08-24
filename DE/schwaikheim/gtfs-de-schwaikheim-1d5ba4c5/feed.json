@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwaikheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schwaikheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-86b0b0de19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

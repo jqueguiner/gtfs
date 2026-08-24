@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Isen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Isen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-950686a1ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

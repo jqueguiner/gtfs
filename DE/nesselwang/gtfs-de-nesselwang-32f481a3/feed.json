@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nesselwang",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Nesselwang"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-da87c7f101",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

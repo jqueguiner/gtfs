@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sault-les-Rethel",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Sault-les-Rethel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-05a92aadbb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

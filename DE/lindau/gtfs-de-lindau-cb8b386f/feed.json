@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lindau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lindau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-31b2142714",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

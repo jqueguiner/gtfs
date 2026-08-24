@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steineroth",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Steineroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd97cfe85c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Chalfont Saint Peter",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Chalfont Saint Peter"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-084bfe669b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

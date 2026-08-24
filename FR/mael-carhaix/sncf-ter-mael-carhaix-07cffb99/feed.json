@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mael-Carhaix",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Mael-Carhaix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ef530f39db",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

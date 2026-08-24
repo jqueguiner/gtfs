@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rastenberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Rastenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3d51f07f37",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

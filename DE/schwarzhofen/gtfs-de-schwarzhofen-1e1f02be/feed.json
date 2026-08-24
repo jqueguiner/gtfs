@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwarzhofen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwarzhofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-226317c295",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

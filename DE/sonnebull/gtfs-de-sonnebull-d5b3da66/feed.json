@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sonnebull",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Sonnebull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f41996f8b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ham",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Ham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-823338fc53",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

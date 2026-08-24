@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bremm",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bremm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1c745c3ee8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

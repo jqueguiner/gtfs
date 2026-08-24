@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dannau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Dannau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-73e830cd43",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

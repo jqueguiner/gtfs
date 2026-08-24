@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hoogstede",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Hoogstede"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a301245256",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

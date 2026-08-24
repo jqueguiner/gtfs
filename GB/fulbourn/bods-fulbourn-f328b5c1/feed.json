@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Fulbourn",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Fulbourn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6ff0efeb27",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

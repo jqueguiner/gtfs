@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Etang-sur-Arroux",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Etang-sur-Arroux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d0f33d3b99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

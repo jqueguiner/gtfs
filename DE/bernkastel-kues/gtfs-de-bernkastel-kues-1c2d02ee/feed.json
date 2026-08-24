@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bernkastel-Kues",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bernkastel-Kues"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5db8bc19cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

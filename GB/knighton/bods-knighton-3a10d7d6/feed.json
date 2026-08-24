@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Knighton",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Knighton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3e2cae5503",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Houlme",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Le Houlme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6ba7eb4ff5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

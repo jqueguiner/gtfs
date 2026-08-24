@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ludersburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Ludersburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c504a1c796",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

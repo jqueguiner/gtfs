@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Capvern",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Capvern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-25a7206d03",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

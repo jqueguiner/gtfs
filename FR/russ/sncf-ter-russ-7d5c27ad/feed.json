@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Russ",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Russ"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e0177f5e87",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

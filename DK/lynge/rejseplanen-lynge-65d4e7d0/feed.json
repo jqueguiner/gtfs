@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Lynge",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Lynge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-00a205d40c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

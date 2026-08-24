@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kanzem",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kanzem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-baf71d0312",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

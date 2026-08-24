@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirchheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kirchheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0a60a7c86a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

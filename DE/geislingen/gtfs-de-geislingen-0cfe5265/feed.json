@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geislingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Geislingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-93e910e079",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

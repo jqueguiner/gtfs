@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Shipton Village",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Shipton Village"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a51707fb10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

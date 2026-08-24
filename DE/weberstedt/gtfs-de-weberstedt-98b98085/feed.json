@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weberstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Weberstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df0bae6110",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

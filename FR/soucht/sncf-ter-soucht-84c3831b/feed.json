@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Soucht",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Soucht"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-05e4b7f8cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

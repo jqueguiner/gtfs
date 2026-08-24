@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Welzow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Welzow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-40d243e277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

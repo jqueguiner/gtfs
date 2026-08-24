@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ceres",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Ceres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-377b439782",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

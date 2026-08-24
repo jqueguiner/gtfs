@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vireux-Wallerand",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Vireux-Wallerand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1149606d08",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waldsassen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Waldsassen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f14952ccfd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

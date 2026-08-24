@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Niederbronn-les-Bains",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Niederbronn-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-58baf4c1d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

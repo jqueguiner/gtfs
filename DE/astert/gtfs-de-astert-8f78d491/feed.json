@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Astert",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Astert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c4be928a21",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

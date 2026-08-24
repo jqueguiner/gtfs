@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buchlberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Buchlberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-89adfc9c66",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

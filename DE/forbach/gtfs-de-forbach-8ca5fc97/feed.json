@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Forbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Forbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe423c58f0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

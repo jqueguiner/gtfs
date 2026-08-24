@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pankow",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Pankow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-65c7bd4b9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

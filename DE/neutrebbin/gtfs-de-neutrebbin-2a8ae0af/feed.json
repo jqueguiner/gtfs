@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neutrebbin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Neutrebbin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-97b2285804",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

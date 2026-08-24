@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Hobro",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Hobro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-7e06241c3a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

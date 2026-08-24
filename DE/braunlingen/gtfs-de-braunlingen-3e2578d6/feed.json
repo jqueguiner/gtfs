@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Braunlingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Braunlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f04674158c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

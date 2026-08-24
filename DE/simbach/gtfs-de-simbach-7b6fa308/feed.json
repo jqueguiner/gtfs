@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Simbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Simbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ac2ba6522a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

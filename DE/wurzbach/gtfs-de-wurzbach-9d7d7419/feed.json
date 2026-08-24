@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wurzbach",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Wurzbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-793c1e8315",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

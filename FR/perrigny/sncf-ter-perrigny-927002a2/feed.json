@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Perrigny",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Perrigny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-eab079ba2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

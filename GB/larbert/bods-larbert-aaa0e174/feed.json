@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Larbert",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Larbert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6f98863158",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

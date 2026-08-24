@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ballstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ballstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-02f0eef242",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

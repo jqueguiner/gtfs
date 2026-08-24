@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rochetaillee-sur-Saone",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Rochetaillee-sur-Saone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d6c09a2274",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mauves-sur-Loire",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Mauves-sur-Loire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-95fd37144c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

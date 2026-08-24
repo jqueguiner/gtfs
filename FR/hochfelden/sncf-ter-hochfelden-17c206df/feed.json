@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Hochfelden",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Hochfelden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-014f0aa388",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

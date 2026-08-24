@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rastow",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Rastow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-827e6b06db",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

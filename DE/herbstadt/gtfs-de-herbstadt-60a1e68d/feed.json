@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herbstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Herbstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2bb96f383c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wingerode",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Wingerode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ab2c047912",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

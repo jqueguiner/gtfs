@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Belleville",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Belleville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0235ef62ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

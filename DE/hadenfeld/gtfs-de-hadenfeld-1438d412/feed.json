@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hadenfeld",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Hadenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-18799aba6b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

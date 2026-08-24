@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Raddestorf",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Raddestorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0e120bf798",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

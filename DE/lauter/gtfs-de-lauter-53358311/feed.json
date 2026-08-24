@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauter",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lauter"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8204f3be6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

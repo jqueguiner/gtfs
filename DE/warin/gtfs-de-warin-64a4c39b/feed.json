@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Warin",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Warin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2e065ed438",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

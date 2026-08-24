@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wednesbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wednesbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-44419c6c61",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

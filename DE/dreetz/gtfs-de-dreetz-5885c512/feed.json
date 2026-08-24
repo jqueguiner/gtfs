@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dreetz",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Dreetz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3d86615575",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

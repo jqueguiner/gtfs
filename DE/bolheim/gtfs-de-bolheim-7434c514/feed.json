@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bolheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bolheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5a17749624",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

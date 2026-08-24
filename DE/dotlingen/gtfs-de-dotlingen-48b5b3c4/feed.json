@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dotlingen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Dotlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc065d48f0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

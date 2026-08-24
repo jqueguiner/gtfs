@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Voiron",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Voiron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dd2673f6b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

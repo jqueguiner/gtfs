@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rudow",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Rudow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-56348b0dde",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

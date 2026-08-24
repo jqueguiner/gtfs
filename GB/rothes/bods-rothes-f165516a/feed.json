@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Rothes",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Rothes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-779ad6adba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

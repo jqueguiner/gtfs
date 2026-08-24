@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llangynog",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llangynog"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bdd697b0c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

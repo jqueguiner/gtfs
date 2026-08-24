@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dudeldorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dudeldorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dcc67fcb1d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

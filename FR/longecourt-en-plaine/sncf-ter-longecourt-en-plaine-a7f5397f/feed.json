@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longecourt-en-Plaine",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Longecourt-en-Plaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7d06b9bb64",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

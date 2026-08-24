@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stauchitz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Stauchitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-528bbaf1a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

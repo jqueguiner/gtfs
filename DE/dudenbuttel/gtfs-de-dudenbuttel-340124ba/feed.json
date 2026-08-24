@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dudenbuttel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Dudenbuttel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6dd106ebcc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

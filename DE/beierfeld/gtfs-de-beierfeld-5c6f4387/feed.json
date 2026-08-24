@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beierfeld",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Beierfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f935775c9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

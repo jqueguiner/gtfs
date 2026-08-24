@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sauerlach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sauerlach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eb34d87c7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

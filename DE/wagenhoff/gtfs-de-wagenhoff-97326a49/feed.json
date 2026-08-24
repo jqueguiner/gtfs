@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wagenhoff",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wagenhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cc23c4e35d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

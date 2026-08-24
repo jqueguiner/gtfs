@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dunkirk",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Dunkirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-cd271353ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

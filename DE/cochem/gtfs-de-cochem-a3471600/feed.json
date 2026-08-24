@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Cochem",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Cochem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b6334923c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

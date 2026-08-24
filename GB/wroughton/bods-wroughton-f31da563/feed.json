@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wroughton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wroughton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-714b7c7abd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

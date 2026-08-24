@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — North Bradley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "North Bradley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d200103fa3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

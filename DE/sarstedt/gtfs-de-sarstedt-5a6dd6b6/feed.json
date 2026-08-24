@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sarstedt",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Sarstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13dca28daa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

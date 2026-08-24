@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ramerberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ramerberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2330e98bff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

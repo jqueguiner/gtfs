@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Malsch",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Malsch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aad862f9dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

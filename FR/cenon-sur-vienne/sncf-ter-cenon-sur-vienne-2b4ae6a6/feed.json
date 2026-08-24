@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cenon-sur-Vienne",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Cenon-sur-Vienne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fa0387d6e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

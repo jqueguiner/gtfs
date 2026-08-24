@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Illfurth",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Illfurth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1275f9b158",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

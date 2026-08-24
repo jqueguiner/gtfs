@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Roslau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Roslau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ac3d3fb947",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

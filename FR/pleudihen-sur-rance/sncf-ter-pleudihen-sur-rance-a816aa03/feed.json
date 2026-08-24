@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pleudihen-sur-Rance",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Pleudihen-sur-Rance"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c541fd26a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

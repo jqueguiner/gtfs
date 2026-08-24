@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altrip",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Altrip"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e24cf2b551",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

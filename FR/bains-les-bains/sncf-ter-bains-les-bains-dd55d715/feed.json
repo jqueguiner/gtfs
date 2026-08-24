@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bains-les-Bains",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Bains-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0b275162c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

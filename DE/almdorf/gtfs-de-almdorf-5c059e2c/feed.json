@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Almdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Almdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f451e093c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

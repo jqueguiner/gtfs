@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Potsdam",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Potsdam"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-27b9d1eab0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

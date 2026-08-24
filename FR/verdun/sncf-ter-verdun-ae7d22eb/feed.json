@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Verdun",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Verdun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fe65676f39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

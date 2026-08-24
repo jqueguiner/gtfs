@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eich",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Eich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-71cb6a71dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

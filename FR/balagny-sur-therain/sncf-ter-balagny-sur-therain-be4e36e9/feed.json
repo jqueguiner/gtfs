@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Balagny-sur-Therain",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Balagny-sur-Therain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-16095dcc2e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

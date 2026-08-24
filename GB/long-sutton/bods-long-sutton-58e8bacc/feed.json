@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Long Sutton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Long Sutton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-12af31c491",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mintlaw",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Mintlaw"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-800acf1b65",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

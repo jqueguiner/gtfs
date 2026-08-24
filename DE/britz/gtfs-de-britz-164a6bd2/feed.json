@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Britz",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Britz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0e27b7a39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

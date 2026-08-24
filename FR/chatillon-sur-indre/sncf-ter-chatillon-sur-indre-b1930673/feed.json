@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chatillon-sur-Indre",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Chatillon-sur-Indre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fab9ce33d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

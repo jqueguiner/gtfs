@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Purton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Purton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4d081a6a39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

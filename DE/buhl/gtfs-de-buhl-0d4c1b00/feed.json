@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buhl",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Buhl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ecdd8b819",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Tune",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Tune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-656a41dd86",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

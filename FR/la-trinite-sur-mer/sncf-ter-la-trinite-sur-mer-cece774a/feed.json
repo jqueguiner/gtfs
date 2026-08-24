@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Trinite-sur-Mer",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "La Trinite-sur-Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1d0834833e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

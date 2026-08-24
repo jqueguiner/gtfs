@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Norvenich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Norvenich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0128f4fab5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

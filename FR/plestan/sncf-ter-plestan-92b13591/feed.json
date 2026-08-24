@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Plestan",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Plestan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8a0dc0e3fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

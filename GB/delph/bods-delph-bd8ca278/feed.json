@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Delph",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Delph"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-38050361ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Castlemartin",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Castlemartin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f941357a58",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

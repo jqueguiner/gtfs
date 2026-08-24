@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebermannsdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ebermannsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c7c05f2179",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

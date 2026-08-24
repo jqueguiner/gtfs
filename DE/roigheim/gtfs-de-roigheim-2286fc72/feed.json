@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Roigheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Roigheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9fc71f0417",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

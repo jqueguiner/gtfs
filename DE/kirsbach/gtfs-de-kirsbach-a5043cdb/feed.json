@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirsbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kirsbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45c1261ae2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

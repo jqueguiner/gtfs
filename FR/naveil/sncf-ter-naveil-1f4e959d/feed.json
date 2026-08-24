@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Naveil",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Naveil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7dae4e2b95",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

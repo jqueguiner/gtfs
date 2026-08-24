@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Flechtingen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Flechtingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d8eb86d879",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

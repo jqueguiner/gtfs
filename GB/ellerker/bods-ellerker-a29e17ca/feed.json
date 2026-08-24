@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ellerker",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ellerker"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1004f41574",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

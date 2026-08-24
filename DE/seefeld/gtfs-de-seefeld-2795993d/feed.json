@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Seefeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Seefeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c66074b53e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eslarn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eslarn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-43a91308aa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

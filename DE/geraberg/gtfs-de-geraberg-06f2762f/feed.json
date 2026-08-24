@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geraberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Geraberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-52862aef1d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

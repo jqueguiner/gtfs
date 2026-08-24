@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Porthleven",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Porthleven"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-567aca0ad4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

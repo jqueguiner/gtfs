@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Alesheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Alesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e2157be920",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

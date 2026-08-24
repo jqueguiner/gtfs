@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pegnitz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pegnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-078d6240d8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

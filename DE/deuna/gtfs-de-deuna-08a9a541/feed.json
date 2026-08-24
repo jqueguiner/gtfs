@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Deuna",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Deuna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ee0ceb4e74",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

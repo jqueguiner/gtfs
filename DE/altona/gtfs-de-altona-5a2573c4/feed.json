@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altona",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Altona"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-87005ea526",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

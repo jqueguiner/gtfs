@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross Munzel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Gross Munzel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9f5d688fbe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

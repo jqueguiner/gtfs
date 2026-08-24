@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — East Horsley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "East Horsley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a03d435bba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cbc77067ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

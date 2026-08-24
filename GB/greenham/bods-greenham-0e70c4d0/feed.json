@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Greenham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Greenham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ff403a17d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

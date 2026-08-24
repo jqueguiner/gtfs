@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Stovring",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Stovring"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-cb965df34f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

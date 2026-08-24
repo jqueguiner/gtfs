@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wetherby",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wetherby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9d0be5e4e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Beccles",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Beccles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b93f3a06fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

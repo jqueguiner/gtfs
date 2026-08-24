@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuhausel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Neuhausel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-65dd2c56e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

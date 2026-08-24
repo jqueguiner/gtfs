@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederkassel",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Niederkassel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-73bf899b51",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

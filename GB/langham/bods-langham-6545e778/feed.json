@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Langham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Langham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-98db950ccb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

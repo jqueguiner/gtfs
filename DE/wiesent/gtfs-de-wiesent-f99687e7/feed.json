@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiesent",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wiesent"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-49eddcb5d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

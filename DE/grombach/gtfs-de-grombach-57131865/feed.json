@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grombach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grombach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-739ffb2ab4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

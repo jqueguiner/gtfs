@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heessen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Heessen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8353506b62",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

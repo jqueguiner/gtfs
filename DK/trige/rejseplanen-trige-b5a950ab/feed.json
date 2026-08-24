@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Trige",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Trige"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ce0ed6bc57",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

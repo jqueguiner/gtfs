@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bad Wilsnack",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Bad Wilsnack"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e933a72e68",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

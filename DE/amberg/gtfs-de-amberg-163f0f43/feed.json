@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Amberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Amberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b9e20b42bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

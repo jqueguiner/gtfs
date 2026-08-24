@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villedieu-sur-Indre",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Villedieu-sur-Indre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-87d6a7fce0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

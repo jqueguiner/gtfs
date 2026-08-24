@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ailly-sur-Noye",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Ailly-sur-Noye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e8431af6c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

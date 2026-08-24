@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Torgau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Torgau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d2ad0fb99e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

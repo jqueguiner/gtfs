@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwarzenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwarzenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-825fd3ec35",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bohmstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bohmstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9ba8605d72",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

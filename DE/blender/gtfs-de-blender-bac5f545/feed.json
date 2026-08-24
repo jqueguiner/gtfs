@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Blender",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Blender"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f6998cb6ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

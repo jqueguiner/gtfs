@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hollingstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Hollingstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ab7ff20469",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Birx",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Birx"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-50b39a143b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

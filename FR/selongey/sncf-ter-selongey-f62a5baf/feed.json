@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Selongey",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Selongey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f07b574546",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

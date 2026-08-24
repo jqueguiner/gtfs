@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fontaine-au-Pire",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Fontaine-au-Pire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b0dfacbda3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

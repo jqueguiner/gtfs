@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tempelhof Bezirk",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Tempelhof Bezirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b39054445",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Laage",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Laage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f31b1e6307",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hartlepool",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hartlepool"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-eadd765250",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

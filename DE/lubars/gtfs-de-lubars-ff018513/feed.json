@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lubars",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Lubars"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f26d4daa33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

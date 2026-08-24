@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Porta Westfalica",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Porta Westfalica"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c7009c7b35",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friedeburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Friedeburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7a567f9afe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

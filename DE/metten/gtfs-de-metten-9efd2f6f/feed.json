@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Metten",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Metten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-30010fe336",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

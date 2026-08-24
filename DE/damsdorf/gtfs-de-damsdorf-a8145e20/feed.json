@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Damsdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Damsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de823c8206",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

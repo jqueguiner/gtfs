@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Champ-sur-Drac",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Champ-sur-Drac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bbc887f56c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

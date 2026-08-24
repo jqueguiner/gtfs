@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Alkersum",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Alkersum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45dc4c64c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Molinet",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Molinet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-142266f9ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

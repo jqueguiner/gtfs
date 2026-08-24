@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Charmes-sur-Rhone",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Charmes-sur-Rhone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1620d7abdd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

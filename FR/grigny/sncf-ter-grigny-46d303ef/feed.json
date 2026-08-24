@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Grigny",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Grigny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-aa85e4df99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

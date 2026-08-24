@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Boden",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Boden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-33bc979797",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

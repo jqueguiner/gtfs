@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Birkweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Birkweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f1d062cb6e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

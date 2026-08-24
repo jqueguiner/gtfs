@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dalrymple",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Dalrymple"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0c032c2737",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

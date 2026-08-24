@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Barr",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Barr"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f960a8d0eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Strukdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Strukdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4b266c3fe7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

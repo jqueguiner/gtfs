@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mobiliteit.lu — Bridel",
+    "country": "LU",
+    "subdivision": "Luxembourg",
+    "city": "Bridel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip",
+    "mdb_id": "lu-city-d72212a6b8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

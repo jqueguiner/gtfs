@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Koditz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Koditz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ced429c4ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

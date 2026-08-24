@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ottenbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ottenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-25929d1c72",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

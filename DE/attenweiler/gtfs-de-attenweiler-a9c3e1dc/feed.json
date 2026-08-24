@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Attenweiler",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Attenweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0c76fce9d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eichendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eichendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af35032761",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

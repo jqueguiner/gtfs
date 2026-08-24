@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glott",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Glott"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de2da3e2ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

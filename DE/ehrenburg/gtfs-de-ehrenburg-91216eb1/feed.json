@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ehrenburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Ehrenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c3c60b8157",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

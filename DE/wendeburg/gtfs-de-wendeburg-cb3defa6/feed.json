@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wendeburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wendeburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c723180b09",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

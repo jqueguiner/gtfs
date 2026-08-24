@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauchringen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lauchringen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bcb9d41933",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lugau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Lugau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-658d381d8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

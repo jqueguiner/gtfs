@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montrabe",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Montrabe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e3841f397a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

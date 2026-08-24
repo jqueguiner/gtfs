@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buggingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Buggingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10fae3fe8c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

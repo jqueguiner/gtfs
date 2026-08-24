@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pruniers-en-Sologne",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Pruniers-en-Sologne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-258adb8de4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

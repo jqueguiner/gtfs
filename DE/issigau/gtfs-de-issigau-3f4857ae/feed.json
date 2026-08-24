@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Issigau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Issigau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-25fafc2508",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

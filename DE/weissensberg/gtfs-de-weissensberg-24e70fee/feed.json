@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissensberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weissensberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d75bc6ed8f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

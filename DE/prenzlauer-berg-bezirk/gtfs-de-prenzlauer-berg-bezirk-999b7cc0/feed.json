@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Prenzlauer Berg Bezirk",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Prenzlauer Berg Bezirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4af999160f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

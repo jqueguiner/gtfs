@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sagard",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Sagard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-378ce38485",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

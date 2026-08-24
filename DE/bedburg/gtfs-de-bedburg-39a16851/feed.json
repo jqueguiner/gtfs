@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bedburg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bedburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c6b246af2a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

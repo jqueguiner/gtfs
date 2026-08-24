@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wedding Bezirk",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Wedding Bezirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ed31c93d42",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

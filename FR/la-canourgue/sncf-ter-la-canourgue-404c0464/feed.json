@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Canourgue",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "La Canourgue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-14ec6db891",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

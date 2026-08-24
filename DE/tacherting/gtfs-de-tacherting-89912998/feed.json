@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tacherting",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tacherting"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4a70f4b76b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gundershoffen",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Gundershoffen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7c8e9640c0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

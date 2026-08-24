@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Noyers-sur-Cher",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Noyers-sur-Cher"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-08e32cb8c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

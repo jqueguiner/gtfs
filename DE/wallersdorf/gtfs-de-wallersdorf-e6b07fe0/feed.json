@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wallersdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wallersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-92cc286ad5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

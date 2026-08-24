@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marktrodach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Marktrodach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e28c664e77",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

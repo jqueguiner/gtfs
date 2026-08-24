@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schaalby",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Schaalby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e98f546b03",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

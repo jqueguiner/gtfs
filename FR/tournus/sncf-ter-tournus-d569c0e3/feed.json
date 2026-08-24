@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Tournus",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Tournus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-021dc10059",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elsterberg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Elsterberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e576b2d347",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

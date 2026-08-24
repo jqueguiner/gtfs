@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Musweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Musweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4f1505629a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

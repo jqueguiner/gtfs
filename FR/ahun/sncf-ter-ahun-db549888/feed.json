@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ahun",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Ahun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-47fbabf6e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

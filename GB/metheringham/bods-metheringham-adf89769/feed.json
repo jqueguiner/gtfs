@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Metheringham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Metheringham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-de7b0411ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Angerville",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Angerville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fb78d590d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

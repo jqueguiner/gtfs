@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Viersen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Viersen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5affa7ea83",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross Gronau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Gross Gronau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4ead086d76",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

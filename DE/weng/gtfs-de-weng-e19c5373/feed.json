@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weng",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weng"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-08ffd4d922",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

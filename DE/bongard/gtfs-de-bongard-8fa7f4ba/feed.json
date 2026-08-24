@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bongard",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bongard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-80a77b32e9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

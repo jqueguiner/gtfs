@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Beauly",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Beauly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4fb5eb8769",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

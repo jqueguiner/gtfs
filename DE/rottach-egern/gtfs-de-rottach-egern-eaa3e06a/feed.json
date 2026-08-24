@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rottach-Egern",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rottach-Egern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-653b2f66a5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

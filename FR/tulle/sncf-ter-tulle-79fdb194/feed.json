@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Tulle",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Tulle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f71d3f641b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

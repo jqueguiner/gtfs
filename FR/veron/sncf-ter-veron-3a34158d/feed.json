@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Veron",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Veron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-be82495458",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

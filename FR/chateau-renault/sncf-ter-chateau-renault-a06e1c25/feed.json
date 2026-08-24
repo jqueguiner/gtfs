@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chateau-Renault",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Chateau-Renault"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8241ba8cb8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

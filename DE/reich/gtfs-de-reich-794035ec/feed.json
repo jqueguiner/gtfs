@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reich",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Reich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-191124ca94",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

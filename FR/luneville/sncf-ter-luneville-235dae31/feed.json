@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Luneville",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Luneville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-330bb3ac85",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

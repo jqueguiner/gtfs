@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eltville",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Eltville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-86a2652089",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

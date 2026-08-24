@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ditzingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ditzingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a89c4a67c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

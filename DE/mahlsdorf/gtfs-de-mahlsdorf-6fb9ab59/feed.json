@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mahlsdorf",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Mahlsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9f7ad4ffda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

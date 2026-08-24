@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Greifensee / Muellerwis / Seilerwis",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Greifensee / Muellerwis / Seilerwis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-2870d870fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Brecon",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Brecon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0dfc841d2e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

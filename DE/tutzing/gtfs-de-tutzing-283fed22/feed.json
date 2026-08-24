@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tutzing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tutzing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eb1f59cb33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hohenstadt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Hohenstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bb5cf43c16",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

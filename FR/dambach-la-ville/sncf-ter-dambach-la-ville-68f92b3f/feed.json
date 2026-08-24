@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dambach-la-Ville",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Dambach-la-Ville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ff01ccce1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

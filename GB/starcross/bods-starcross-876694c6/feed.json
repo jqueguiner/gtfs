@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Starcross",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Starcross"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b4e8fd6394",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

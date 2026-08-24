@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Great Torrington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Great Torrington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-db1477bad8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolfsegg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wolfsegg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-084e6ff2c3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nonancourt",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Nonancourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0628cfcd75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

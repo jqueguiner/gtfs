@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Voerde",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Voerde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5bca0f6eac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lourdes",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Lourdes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5e04424ce5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

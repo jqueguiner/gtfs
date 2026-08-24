@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cliffe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cliffe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f98b186baf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

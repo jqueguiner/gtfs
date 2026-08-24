@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dossenheim-sur-Zinsel",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Dossenheim-sur-Zinsel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9a5239f0bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

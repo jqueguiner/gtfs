@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lamarche",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Lamarche"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5bb06c31b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

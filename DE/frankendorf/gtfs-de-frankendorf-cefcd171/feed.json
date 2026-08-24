@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankendorf",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Frankendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c2d0282d75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

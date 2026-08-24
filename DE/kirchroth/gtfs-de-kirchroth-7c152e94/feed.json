@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirchroth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kirchroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-295b78256d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

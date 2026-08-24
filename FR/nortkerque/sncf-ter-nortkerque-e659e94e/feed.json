@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nortkerque",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Nortkerque"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5b2dd7d7af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

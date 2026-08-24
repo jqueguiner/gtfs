@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dreisbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dreisbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-74ae5f1003",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

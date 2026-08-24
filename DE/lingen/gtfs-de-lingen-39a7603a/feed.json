@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lingen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Lingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5e2e97efbe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

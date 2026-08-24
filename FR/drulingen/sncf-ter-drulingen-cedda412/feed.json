@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Drulingen",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Drulingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-65e3674a5e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nogent-sur-Vernisson",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Nogent-sur-Vernisson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e5f0485760",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heiligenstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Heiligenstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a383ab6207",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

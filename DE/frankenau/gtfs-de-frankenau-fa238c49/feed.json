@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankenau",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Frankenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-07e45e2f45",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

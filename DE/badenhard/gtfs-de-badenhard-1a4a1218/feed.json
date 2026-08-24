@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Badenhard",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Badenhard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3e77533c1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

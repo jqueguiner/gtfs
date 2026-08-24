@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montchanin",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Montchanin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e8655efc19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

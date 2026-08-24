@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neukirch",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Neukirch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c27a9ecd67",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

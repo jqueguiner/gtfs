@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llangwm",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llangwm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b6f6012142",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

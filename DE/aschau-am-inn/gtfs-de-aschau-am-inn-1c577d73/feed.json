@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aschau am Inn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aschau am Inn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dcae5dec1e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

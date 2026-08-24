@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kraiburg am Inn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kraiburg am Inn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e088769ada",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

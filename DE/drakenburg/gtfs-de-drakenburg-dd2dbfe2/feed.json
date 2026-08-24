@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Drakenburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Drakenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-92b2689b46",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wye",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-dbb86d39fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

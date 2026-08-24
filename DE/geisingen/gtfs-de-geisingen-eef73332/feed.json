@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geisingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Geisingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d583bf35f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

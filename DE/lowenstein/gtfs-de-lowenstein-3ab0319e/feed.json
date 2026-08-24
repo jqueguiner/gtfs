@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lowenstein",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lowenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8fb1969816",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

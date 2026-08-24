@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Esches",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Esches"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e83b1f5347",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

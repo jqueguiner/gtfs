@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossgoltern",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Grossgoltern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-88c46e6743",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

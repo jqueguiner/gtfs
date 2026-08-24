@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schapen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Schapen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6519cd8c59",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

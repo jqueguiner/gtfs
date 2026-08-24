@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Carmaux",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Carmaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7ff94abc7b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

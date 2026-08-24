@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sainte-Bazeille",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Sainte-Bazeille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a453e5bc80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

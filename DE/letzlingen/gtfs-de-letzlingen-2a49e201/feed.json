@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Letzlingen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Letzlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bf84a1df08",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

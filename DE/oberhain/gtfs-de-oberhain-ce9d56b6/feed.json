@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberhain",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Oberhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0629efe2cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

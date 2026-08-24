@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bodenham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bodenham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-62a984bbe2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altenriet",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Altenriet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cdb2b3808d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

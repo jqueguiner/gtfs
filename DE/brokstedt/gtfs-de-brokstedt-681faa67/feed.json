@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brokstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Brokstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f4e8bceaf3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

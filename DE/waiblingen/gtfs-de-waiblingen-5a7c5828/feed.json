@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waiblingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Waiblingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fd17469a3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

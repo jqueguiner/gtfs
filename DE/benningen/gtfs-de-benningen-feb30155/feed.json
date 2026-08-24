@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Benningen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Benningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9a51f47e41",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

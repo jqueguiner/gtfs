@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Uttoxeter",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Uttoxeter"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-94b8c2f668",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

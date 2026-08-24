@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vezelise",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Vezelise"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-19dc72b261",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

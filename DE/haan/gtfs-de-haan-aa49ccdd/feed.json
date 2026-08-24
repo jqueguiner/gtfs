@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haan",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Haan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bfc9500d4e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

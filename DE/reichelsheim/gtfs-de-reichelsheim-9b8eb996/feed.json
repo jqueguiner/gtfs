@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reichelsheim",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Reichelsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7fc76fcc79",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

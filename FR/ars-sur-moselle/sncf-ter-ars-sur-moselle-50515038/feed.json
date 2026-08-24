@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ars-sur-Moselle",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Ars-sur-Moselle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-88706f2d59",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

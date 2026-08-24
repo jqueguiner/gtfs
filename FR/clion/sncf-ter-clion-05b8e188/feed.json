@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Clion",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Clion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1a05794cc4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

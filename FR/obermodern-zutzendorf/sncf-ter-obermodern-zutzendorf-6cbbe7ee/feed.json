@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Obermodern-Zutzendorf",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Obermodern-Zutzendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d9a7d06820",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

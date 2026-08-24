@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauterhofen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lauterhofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-20db96fa9c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

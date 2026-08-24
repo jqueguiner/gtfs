@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Uchaud",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Uchaud"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-550c1d56be",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

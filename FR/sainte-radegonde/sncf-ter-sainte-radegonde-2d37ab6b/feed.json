@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sainte-Radegonde",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Sainte-Radegonde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-172e59e785",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

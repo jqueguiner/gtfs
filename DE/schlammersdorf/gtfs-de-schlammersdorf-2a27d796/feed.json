@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schlammersdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schlammersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0b91d2db17",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

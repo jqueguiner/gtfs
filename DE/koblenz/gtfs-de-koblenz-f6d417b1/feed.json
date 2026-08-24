@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Koblenz",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Koblenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2ecf43b26a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

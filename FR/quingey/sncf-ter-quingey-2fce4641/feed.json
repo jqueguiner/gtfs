@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Quingey",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Quingey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fe6236cae9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bichl",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bichl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0c84de5782",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

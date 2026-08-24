@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llanfaethlu",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llanfaethlu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9dba75b5eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

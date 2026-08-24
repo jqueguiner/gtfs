@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Traunreut",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Traunreut"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3de10efdc7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

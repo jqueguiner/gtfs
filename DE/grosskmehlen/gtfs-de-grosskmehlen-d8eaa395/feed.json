@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosskmehlen",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Grosskmehlen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0e712cc607",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

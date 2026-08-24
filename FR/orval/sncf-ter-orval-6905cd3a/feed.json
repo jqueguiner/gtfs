@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Orval",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Orval"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fbf271edf0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

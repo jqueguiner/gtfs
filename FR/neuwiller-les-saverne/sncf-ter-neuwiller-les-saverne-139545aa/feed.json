@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neuwiller-les-Saverne",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Neuwiller-les-Saverne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0fd7824af7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Warngau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Warngau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6ef9e24510",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

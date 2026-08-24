@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nort-sur-Erdre",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Nort-sur-Erdre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-47579c5b95",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

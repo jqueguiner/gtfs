@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kleinich",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kleinich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ef022854de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

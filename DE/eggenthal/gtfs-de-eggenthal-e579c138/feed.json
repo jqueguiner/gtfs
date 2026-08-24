@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eggenthal",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eggenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4f6dc49da9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

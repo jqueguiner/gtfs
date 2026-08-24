@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ferschweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Ferschweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0a0013f01b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

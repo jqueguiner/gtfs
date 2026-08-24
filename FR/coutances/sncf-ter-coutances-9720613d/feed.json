@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Coutances",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Coutances"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e7c00e0e0a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

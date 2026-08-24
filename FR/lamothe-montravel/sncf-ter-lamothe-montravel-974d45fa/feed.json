@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lamothe-Montravel",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Lamothe-Montravel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-969c4ec741",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

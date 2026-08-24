@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Great Horkesley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Great Horkesley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b5c685895c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

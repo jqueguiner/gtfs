@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Holton le Clay",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Holton le Clay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0e3eeb6b92",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Svejbaek",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Svejbaek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-256ed26ea2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

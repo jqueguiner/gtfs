@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Eastleigh",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Eastleigh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ff3a46b628",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

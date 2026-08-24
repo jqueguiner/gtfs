@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Thirsk",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Thirsk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3276bb94cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kinsau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kinsau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b9a7ad6015",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

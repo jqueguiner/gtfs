@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stuhlingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Stuhlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ba99c42871",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

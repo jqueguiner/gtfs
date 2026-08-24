@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Templeuve",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Templeuve"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1b121104ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

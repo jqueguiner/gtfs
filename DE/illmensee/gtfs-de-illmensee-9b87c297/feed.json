@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Illmensee",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Illmensee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-60b5e9f2c0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

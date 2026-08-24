@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — High Bentham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "High Bentham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9077804fda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

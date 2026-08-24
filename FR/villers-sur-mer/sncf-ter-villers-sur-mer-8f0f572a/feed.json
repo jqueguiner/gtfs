@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villers-sur-Mer",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Villers-sur-Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-650847c01c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

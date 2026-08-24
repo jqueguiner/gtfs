@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marsberg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Marsberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5cfa4941ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

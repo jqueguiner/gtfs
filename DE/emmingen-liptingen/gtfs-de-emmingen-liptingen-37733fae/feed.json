@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Emmingen-Liptingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Emmingen-Liptingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9da89b9e0b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

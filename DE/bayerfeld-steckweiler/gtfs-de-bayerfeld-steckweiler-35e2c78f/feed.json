@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bayerfeld-Steckweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bayerfeld-Steckweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db8fd61fda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

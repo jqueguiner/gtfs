@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Thame",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Thame"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d855cd372e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

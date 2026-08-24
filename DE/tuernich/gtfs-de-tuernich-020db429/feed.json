@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tuernich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Tuernich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13cf0b5126",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

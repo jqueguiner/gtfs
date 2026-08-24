@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Arup",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Arup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-e1ce609fbe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Walsrode",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Walsrode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bec0720dd6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Einselthum",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Einselthum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c8fe4cfb50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

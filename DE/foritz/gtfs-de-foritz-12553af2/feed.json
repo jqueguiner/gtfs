@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Foritz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Foritz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aae36f3b30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hohenkirchen-Siegertsbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hohenkirchen-Siegertsbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ba9c5f2cd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

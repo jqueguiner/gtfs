@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Port Talbot",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Port Talbot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3d4bdb04df",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

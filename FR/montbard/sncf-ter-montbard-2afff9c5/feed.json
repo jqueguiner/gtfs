@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montbard",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Montbard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2a0fd585f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

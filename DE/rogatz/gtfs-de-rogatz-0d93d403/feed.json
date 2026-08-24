@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rogatz",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Rogatz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c34b89a0c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

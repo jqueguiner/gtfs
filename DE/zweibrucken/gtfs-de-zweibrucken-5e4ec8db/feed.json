@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zweibrucken",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Zweibrucken"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4018fc20d2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

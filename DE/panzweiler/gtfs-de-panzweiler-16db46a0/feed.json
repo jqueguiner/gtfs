@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Panzweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Panzweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-70c55cda75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

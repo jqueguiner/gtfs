@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bourg-en-Bresse",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Bourg-en-Bresse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e518a83df3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

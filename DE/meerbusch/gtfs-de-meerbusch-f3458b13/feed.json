@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meerbusch",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Meerbusch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f20d9af9e6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

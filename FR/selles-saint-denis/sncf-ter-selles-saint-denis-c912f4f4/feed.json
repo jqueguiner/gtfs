@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Selles-Saint-Denis",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Selles-Saint-Denis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0af412e2fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergen auf Ruegen",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Bergen auf Ruegen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f3d66dd7ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

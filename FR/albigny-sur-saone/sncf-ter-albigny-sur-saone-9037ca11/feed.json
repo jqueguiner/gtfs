@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Albigny-sur-Saone",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Albigny-sur-Saone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ea6404e401",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

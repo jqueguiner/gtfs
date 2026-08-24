@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Horn",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Horn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b0e7121577",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

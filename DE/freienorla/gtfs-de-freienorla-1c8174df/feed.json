@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Freienorla",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Freienorla"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6b6d301595",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

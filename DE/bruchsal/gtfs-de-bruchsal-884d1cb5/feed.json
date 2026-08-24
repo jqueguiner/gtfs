@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruchsal",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bruchsal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ae1750a83c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

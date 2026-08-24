@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Henneberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Henneberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9c8c7818ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

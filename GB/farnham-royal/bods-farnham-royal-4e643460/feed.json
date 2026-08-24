@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Farnham Royal",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Farnham Royal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d804eb28a5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

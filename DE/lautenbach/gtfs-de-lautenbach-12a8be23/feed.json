@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lautenbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lautenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2b0cbcf567",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

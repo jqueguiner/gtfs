@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ellerstadt",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Ellerstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1ee039f2c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

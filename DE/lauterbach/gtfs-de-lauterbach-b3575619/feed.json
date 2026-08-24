@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauterbach",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Lauterbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b21008f0f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

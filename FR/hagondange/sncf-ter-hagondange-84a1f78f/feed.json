@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Hagondange",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Hagondange"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-114fe0681d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

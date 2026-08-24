@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Linthwaite",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Linthwaite"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2ccad34e18",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

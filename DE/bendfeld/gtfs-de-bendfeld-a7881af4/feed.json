@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bendfeld",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bendfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5a7e34d5a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

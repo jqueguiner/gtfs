@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montereau-Fault-Yonne",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Montereau-Fault-Yonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-61c1a31ebe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

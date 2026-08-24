@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neu-Ulm",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neu-Ulm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc5e1e8d40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

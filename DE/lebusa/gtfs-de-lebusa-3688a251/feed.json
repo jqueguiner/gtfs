@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lebusa",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Lebusa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-77a3dc07bf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

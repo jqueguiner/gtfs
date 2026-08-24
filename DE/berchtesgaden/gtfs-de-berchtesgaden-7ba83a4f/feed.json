@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berchtesgaden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Berchtesgaden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1b432d3831",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

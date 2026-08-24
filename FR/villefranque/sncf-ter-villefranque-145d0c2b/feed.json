@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Villefranque",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Villefranque"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d3d3aa8d7f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

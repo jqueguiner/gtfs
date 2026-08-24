@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Velines",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Velines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fb57276293",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

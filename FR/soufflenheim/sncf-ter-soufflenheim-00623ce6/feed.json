@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Soufflenheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Soufflenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6213998b98",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

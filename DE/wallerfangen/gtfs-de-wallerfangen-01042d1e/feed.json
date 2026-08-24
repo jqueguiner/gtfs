@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wallerfangen",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Wallerfangen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f40b4dbdb7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

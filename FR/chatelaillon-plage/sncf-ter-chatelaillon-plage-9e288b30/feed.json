@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chatelaillon-Plage",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Chatelaillon-Plage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fa09050a25",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

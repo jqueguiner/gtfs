@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolferode",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Wolferode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48cfb2fc50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

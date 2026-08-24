@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tipton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Tipton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c7f8b8ff4b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

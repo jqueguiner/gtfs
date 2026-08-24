@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Borslingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Borslingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-76d613a822",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

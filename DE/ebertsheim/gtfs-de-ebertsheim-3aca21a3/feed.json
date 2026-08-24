@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebertsheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Ebertsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-09c8207d7b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

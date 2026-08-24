@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Westerhorn",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Westerhorn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d95397c8ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

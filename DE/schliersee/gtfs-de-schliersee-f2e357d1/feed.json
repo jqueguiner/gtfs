@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schliersee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schliersee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41b4eba52e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

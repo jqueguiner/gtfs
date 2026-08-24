@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Winterbourne",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Winterbourne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4e77f6b938",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

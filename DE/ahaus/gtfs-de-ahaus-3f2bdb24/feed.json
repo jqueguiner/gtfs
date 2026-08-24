@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ahaus",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ahaus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7844be75a6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

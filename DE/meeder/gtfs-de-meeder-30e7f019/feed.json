@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meeder",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Meeder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-32f705b3d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

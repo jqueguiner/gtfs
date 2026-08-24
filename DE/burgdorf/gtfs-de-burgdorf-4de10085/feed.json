@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgdorf",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Burgdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b931ac1444",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

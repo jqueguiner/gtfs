@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Perach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Perach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5dca71f6ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wildberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Wildberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-64ee6faa2d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

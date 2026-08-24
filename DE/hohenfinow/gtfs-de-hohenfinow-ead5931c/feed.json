@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hohenfinow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Hohenfinow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-051228b9aa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

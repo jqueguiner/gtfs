@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kleinlangheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kleinlangheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-00847056d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

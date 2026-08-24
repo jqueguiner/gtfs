@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bramham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bramham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3373b3cecc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

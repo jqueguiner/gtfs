@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Frizington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Frizington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f802f393e9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gironde-sur-Dropt",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Gironde-sur-Dropt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-048de96b6a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

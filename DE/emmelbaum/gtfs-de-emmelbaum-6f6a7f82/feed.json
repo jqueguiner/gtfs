@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Emmelbaum",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Emmelbaum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-17ac30c05b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

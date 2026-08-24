@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Busumer Deichhausen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Busumer Deichhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10bd776202",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

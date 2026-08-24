@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eschenbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Eschenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f014b31097",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

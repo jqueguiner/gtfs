@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Seaton Delaval",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Seaton Delaval"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9ef7a4a9a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

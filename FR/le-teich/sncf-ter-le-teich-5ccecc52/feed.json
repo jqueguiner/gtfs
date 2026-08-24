@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Teich",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Le Teich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d104ed23fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

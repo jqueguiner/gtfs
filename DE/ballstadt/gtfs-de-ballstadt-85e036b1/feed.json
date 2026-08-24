@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ballstadt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ballstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c31b550f6e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

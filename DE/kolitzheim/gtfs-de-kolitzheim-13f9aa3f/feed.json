@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kolitzheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kolitzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d4244e0b87",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

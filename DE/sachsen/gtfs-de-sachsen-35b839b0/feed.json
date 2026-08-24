@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sachsen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sachsen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-731ff846c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

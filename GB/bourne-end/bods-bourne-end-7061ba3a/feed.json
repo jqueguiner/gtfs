@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bourne End",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bourne End"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0b4fe289b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

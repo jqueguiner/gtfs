@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fohrden-Barl",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Fohrden-Barl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24901e6428",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

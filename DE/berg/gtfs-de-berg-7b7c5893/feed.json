@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Berg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7a2250223c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ergolding",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ergolding"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d460d5e115",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

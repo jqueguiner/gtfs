@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Monheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Monheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-babedcd4ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

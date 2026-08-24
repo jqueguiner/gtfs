@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erkheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Erkheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-abfd7932ee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

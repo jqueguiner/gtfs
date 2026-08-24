@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hohenwarth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hohenwarth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-515c2f6779",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Virieu-le-Grand",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Virieu-le-Grand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3c0b6665b8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

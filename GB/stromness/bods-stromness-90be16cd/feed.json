@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Stromness",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Stromness"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-995c37789f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

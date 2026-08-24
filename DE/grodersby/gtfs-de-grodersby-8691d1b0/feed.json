@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grodersby",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Grodersby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8b0328165d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

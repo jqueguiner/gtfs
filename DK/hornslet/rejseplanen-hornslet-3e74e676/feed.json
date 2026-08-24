@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Hornslet",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Hornslet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-c64ec8f069",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

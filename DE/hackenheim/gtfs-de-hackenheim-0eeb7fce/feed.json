@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hackenheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Hackenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b2e0a6f304",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Preignac",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Preignac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a137a19e73",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

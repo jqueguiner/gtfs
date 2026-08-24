@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Treport",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Le Treport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-eeb3c284c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

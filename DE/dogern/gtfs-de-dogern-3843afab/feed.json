@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dogern",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Dogern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e52806a21a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

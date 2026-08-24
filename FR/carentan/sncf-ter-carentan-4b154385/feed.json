@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Carentan",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Carentan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8994208da9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

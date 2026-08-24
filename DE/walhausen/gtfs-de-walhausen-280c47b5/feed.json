@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Walhausen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Walhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8d8fb09fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

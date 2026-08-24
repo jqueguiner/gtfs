@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rendsburg",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Rendsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-06c02544b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

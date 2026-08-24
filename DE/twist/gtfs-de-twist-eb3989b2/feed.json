@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Twist",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Twist"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7a8b678f13",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

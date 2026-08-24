@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lagny-le-Sec",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Lagny-le-Sec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6078e745c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gevrey-Chambertin",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Gevrey-Chambertin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0be30310b3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

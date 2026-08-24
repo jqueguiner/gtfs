@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llansadwrn",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llansadwrn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8963f4e6b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

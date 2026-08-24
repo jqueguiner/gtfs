@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Southampton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Southampton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2b71f0041f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

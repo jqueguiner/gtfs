@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sainte-Marguerite",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Sainte-Marguerite"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-78ad1a2fc7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

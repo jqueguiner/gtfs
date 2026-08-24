@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haag in Oberbayern",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Haag in Oberbayern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-21df5586c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

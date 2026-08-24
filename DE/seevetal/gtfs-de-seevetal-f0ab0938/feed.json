@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Seevetal",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Seevetal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0d02ff7a2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

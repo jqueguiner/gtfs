@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glauburg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Glauburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-614e1613cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

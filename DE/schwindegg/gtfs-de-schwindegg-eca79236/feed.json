@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwindegg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwindegg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c34c452e5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

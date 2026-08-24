@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tettenweis",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tettenweis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-54e57390d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

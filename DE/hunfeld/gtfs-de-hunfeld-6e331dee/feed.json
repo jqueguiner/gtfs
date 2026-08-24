@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hunfeld",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Hunfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c4e131aaf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

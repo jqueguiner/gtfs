@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Murnau am Staffelsee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Murnau am Staffelsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e405ba018a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

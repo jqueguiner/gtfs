@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Auckley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Auckley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-10d8253946",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

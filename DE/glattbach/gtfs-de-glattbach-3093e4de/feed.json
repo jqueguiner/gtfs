@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glattbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Glattbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f2537ef2e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

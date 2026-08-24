@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ottringham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ottringham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-48c3377a23",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

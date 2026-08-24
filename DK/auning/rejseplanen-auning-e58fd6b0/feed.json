@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Auning",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Auning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-9aae412b2c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

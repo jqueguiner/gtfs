@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brockel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Brockel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6a1df0a06a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

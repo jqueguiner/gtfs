@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Luncarty",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Luncarty"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d77d6b7340",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dahlem",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Dahlem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a6588fbd19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steeden",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Steeden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf49325887",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Trorod",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Trorod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ee243edfcf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

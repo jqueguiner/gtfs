@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wendorf",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Wendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6aa8c57854",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

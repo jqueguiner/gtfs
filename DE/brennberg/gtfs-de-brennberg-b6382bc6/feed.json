@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brennberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Brennberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a33191dff9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beuren",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Beuren"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0e3215c7f0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

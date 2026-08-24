@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weiden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weiden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-286b6e7606",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

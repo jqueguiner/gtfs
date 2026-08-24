@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Arcis-sur-Aube",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Arcis-sur-Aube"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b81b9ed772",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

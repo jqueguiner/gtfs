@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Forheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Forheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf30f46aba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

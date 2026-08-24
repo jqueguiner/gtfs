@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meckel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Meckel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f904feb8ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

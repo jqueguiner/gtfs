@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Valley",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Valley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f3314d3aee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

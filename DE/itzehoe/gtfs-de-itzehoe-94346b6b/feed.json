@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Itzehoe",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Itzehoe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-984b4e4b15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Schwindratzheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Schwindratzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5e17345a69",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

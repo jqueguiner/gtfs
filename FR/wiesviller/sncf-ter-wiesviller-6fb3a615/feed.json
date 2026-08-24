@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Wiesviller",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Wiesviller"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e132d9778b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

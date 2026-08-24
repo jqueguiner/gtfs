@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Meriden",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Meriden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ecfa6b1fda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

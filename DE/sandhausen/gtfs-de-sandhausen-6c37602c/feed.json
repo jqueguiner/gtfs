@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sandhausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Sandhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c05161785e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Publow",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Publow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0055b0a7d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossenseebach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grossenseebach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fdca78c07d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

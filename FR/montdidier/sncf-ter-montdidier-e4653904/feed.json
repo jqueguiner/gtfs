@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montdidier",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Montdidier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-54c82d9669",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

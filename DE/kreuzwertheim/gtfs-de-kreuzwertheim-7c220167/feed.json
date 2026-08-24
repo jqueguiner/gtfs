@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kreuzwertheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kreuzwertheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2524b59bdb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

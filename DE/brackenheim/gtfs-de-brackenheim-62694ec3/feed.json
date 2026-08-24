@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brackenheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Brackenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-96f37bad00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

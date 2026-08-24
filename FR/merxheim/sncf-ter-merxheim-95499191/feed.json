@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Merxheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Merxheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0a3c2bb07f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

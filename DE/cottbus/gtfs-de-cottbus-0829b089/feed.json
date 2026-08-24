@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Cottbus",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Cottbus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-817b887eac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

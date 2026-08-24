@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kriftel",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Kriftel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-30022611e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herzogenaurach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Herzogenaurach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-afe33a9b7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

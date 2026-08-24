@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossheirath",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grossheirath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-82dc0baf00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

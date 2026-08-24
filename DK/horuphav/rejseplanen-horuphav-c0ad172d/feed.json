@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Horuphav",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Horuphav"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-ee7a1c3410",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

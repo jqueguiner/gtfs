@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Uberlingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Uberlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df10fb5623",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vielmur-sur-Agout",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Vielmur-sur-Agout"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-52a9334540",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

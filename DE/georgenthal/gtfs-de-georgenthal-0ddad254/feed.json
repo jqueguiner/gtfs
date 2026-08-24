@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Georgenthal",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Georgenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ec7e5b0211",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

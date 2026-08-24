@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Pant",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Pant"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5422eb901d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

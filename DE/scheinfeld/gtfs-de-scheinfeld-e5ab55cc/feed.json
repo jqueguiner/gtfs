@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Scheinfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Scheinfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ad778a411",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

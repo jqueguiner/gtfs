@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Spelle",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Spelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd119f6b77",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

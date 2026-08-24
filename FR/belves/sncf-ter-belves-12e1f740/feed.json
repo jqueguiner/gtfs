@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Belves",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Belves"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f8ad87405f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

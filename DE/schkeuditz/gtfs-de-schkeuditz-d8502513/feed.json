@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schkeuditz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Schkeuditz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c2e2b614c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

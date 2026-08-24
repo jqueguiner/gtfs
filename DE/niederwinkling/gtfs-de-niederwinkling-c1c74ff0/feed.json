@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederwinkling",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Niederwinkling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9888f3200e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

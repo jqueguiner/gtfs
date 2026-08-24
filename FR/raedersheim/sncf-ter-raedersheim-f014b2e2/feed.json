@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Raedersheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Raedersheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7e1a3c58ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

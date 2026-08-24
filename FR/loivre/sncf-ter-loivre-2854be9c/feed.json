@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Loivre",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Loivre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9f2186e394",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Zuerich (Kreis 4) / Hard",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Zuerich (Kreis 4) / Hard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-3e8c9f2820",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

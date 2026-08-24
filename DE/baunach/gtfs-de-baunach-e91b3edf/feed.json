@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Baunach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Baunach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ef11f8bf1a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

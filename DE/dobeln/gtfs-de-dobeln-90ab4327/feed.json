@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dobeln",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Dobeln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-26c65754d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beerfelden",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Beerfelden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e63b85ce1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

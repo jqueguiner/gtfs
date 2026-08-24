@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wiston",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Wiston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-01a7b98ea9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

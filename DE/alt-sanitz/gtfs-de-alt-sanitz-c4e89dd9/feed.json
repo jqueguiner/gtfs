@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Alt-Sanitz",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Alt-Sanitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d8274deb3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

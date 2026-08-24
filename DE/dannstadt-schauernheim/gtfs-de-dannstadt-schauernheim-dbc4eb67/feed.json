@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dannstadt-Schauernheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dannstadt-Schauernheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-95fe1c250a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

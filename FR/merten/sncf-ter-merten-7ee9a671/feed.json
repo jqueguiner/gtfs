@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Merten",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Merten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-aceb5d588b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

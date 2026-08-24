@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Langenburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Langenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d5d746ad47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

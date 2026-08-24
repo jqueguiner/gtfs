@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oestrich-Winkel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oestrich-Winkel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e8d007c096",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Feilitzsch",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Feilitzsch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48cd587945",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

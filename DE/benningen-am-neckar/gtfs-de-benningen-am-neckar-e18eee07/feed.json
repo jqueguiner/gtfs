@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Benningen am Neckar",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Benningen am Neckar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b6c9811ab0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

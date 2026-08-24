@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Thalmassing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Thalmassing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-16a827b33d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

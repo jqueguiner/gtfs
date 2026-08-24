@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Fallowfield",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Fallowfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-65164de1ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

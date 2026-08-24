@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Seven Sisters",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Seven Sisters"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d1805278b7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

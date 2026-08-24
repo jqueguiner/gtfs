@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sandbostel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Sandbostel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-73c8f731c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

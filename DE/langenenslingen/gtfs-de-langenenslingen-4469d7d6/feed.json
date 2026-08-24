@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Langenenslingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Langenenslingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c721d8a985",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

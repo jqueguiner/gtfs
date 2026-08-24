@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heinersdorf",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Heinersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c6140bad2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

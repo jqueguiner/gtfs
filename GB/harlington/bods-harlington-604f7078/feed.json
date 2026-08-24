@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Harlington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Harlington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bfa988f9f7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

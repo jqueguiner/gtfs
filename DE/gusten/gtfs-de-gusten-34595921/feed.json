@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gusten",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Gusten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eeb2ab0490",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grunstadt",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Grunstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7f61886d3c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

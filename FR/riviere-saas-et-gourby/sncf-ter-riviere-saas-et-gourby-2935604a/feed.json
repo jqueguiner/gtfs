@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Riviere-Saas-et-Gourby",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Riviere-Saas-et-Gourby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a2700dce96",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

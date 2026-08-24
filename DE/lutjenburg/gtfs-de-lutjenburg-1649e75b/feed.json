@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lutjenburg",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Lutjenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe04dc6d5e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

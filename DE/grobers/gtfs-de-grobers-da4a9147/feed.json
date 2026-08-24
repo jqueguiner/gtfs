@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grobers",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Grobers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-178835943e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Giroussens",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Giroussens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6ea46c947a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

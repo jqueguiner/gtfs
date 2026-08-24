@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bietigheim-Bissingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bietigheim-Bissingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-172b42b5d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

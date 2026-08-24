@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Conde-sur-Huisne",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Conde-sur-Huisne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5c788e4fcd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

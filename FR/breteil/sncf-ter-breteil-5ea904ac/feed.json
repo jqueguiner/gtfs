@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Breteil",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Breteil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-80422d1067",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wurzen",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Wurzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c60897b486",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

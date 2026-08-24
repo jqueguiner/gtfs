@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lons-le-Saunier",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Lons-le-Saunier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cd3b1ee3e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

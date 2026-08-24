@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pont-de-Vaux",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Pont-de-Vaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9810316fcb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

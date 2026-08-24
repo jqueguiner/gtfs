@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Fort William",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Fort William"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ff020d87b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

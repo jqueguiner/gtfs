@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Quern",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Quern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aa02b82286",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

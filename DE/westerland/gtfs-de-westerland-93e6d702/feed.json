@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Westerland",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Westerland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-280e18412e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

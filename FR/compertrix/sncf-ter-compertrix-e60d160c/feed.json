@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Compertrix",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Compertrix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cf410c2f8b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

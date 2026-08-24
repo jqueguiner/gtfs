@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Boxberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Boxberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8f2365444c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wallen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Wallen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-401de3fb9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

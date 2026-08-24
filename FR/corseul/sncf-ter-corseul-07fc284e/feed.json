@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Corseul",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Corseul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-123df0f7d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

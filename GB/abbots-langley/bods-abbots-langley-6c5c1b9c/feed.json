@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Abbots Langley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Abbots Langley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-999d71a081",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

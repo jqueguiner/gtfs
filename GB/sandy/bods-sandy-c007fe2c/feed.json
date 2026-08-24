@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sandy",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sandy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-41b6ead561",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sharlston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sharlston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7d3c14ecb2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

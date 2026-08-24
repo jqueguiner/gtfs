@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bammental",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bammental"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ce241b7e3e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

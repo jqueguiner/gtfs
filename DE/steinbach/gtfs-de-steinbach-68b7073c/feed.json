@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steinbach",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Steinbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ddaf63c51f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

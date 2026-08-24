@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Selestat",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Selestat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7aa26b923e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

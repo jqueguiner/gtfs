@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Noeux-les-Mines",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Noeux-les-Mines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-606c788c33",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

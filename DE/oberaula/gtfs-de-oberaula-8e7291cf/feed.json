@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberaula",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Oberaula"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a06cbd63a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

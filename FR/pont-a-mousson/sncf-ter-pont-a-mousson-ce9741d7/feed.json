@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pont-a-Mousson",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Pont-a-Mousson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0f5832f8c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

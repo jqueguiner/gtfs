@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Artix",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Artix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-37cdfd97bd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

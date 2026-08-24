@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mainleus",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mainleus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-04995f53e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

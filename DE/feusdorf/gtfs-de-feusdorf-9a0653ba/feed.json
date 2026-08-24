@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Feusdorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Feusdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-980f6c1800",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hille",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Hille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dc2d5cea12",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

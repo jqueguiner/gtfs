@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llancillo",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Llancillo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f24a04e0a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

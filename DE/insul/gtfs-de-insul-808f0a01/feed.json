@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Insul",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Insul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9fd8501c5d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

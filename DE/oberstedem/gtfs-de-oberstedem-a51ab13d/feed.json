@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberstedem",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oberstedem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cc78673c6b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

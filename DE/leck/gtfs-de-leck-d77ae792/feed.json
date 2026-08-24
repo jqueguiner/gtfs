@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Leck",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Leck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c93823f57e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Manhagen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Manhagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bd7d728619",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

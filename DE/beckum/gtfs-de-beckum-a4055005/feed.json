@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beckum",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Beckum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c7d3d48566",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cousance",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Cousance"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-34c47620d4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

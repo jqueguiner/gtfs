@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bechtolsheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bechtolsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-75db217ebe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

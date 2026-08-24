@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burg bei Magdeburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Burg bei Magdeburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e8ce9e798c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

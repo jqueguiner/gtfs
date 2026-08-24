@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nagold",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Nagold"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ca275d6b69",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

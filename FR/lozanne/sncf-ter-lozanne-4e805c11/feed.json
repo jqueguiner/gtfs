@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lozanne",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Lozanne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ae6b0adad8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

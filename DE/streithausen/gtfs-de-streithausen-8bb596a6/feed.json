@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Streithausen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Streithausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa8bc12359",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

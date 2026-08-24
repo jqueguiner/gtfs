@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Boddam",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Boddam"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-33b86934a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

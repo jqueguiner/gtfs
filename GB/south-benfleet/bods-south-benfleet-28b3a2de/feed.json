@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — South Benfleet",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "South Benfleet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e43be40c7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

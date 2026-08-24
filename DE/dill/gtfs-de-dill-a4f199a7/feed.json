@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dill",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8f7a2fd768",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

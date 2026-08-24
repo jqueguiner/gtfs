@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauenau",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Lauenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c44b57a6c6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

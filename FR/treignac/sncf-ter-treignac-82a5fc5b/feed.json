@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Treignac",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Treignac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7f59cc2455",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

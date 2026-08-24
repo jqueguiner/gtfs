@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haibach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Haibach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4b5ec2508e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

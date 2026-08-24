@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jubar",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Jubar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a37c3e5cbb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

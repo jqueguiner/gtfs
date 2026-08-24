@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breddorf",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Breddorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7a7e729882",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

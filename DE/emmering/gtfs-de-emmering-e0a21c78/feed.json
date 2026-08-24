@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Emmering",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Emmering"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f7b16595fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

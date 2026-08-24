@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kandern",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Kandern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-47b4ab79f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

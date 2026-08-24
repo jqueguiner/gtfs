@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cullingworth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cullingworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-468b5cb3c3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Siegenburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Siegenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4475663b26",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

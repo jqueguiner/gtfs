@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Biesenthal",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Biesenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-63e632d629",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

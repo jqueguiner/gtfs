@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mauze-sur-le-Mignon",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Mauze-sur-le-Mignon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d00ee615a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

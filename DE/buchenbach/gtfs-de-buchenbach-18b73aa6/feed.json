@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buchenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Buchenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eaf25d63a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

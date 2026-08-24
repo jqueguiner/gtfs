@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Etival-Clairefontaine",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Etival-Clairefontaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bf4b5bc4df",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

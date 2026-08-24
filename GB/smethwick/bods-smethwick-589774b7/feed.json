@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Smethwick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Smethwick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fda4811e19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

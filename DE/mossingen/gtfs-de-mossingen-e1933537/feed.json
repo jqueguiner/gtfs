@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mossingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mossingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8c193ab462",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

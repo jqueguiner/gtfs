@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Theuma",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Theuma"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eea4170a7e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

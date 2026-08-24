@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Balzfeld",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Balzfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-72cfd22e15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

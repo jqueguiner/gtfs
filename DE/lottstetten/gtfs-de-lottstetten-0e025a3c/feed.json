@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lottstetten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lottstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-593ba393e5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

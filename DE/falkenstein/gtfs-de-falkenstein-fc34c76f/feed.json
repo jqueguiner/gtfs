@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Falkenstein",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Falkenstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7c3a3c2f42",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

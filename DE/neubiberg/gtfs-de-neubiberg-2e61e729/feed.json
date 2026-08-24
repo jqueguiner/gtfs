@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neubiberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neubiberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc93348c3a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

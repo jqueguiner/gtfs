@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Habsheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Habsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2c7df7b6f3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

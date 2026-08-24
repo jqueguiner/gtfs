@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pleyber-Christ",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Pleyber-Christ"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-06022fb50d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Uckange",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Uckange"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d098daa2f1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

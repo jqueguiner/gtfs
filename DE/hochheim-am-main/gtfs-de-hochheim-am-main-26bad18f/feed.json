@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hochheim am Main",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Hochheim am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-61f204c3bd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

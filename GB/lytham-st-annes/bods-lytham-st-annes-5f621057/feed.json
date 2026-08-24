@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Lytham St Annes",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Lytham St Annes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0a89881744",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

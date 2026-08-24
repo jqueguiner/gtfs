@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Middlesbrough",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Middlesbrough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0a94c2c7c9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

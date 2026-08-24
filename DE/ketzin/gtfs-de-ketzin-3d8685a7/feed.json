@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ketzin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Ketzin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3dbdba3277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

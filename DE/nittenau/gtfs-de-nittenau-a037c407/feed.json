@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nittenau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Nittenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-05b7c951ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

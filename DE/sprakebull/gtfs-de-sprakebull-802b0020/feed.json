@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sprakebull",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Sprakebull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-07430c317f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

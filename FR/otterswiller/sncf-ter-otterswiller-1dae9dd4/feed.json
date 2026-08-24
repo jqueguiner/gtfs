@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Otterswiller",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Otterswiller"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2cd804486d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

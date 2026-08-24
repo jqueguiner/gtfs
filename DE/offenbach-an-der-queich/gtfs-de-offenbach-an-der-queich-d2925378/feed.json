@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Offenbach an der Queich",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Offenbach an der Queich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a19ddedba2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

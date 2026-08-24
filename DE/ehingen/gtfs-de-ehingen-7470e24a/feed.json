@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ehingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ehingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9e6a0bd28a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

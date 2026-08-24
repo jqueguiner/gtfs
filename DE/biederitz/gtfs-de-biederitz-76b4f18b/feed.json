@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Biederitz",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Biederitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7d86f7b4ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

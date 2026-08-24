@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Penistone",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Penistone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-61279b6f0e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

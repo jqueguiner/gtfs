@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ballendorf",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ballendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ace9e1e128",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

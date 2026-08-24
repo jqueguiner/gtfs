@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Berlaimont",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Berlaimont"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ae56723500",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

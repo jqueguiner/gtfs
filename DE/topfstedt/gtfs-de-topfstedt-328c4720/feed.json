@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Topfstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Topfstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a619880048",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

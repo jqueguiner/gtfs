@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Brou",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Brou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-38a170abf1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

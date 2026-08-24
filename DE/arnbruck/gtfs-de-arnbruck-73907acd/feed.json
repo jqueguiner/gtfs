@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Arnbruck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Arnbruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-50262a99ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

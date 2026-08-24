@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Sakskobing",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Sakskobing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-e59f90308e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

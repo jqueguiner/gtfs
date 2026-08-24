@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Siegbach",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Siegbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5e8315e0b3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

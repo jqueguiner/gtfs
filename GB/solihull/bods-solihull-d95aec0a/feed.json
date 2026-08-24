@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Solihull",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Solihull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-569773e1b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

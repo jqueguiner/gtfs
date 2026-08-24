@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Runkel",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Runkel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-01a222c9e9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

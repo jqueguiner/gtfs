@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fuerstenfeldbruck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Fuerstenfeldbruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8c3e5cc9a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

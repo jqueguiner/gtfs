@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ascot",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ascot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-cf666c45a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

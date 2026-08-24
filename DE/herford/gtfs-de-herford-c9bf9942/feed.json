@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herford",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Herford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ef68c9d2c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

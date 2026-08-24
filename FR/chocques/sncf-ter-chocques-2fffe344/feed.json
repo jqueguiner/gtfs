@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chocques",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Chocques"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6a77976c97",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zwiesel",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Zwiesel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-68e24e3deb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

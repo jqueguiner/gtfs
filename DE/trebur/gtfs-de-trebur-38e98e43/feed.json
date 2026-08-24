@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Trebur",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Trebur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-382a3deaca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

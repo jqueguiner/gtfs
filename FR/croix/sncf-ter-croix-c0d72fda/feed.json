@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Croix",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Croix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cc1ff1b88d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

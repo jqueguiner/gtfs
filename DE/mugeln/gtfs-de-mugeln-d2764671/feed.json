@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mugeln",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Mugeln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c02a9110fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

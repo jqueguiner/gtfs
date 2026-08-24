@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schleching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schleching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-813314d536",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

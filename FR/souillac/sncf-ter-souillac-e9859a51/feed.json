@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Souillac",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Souillac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-90559f2a24",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

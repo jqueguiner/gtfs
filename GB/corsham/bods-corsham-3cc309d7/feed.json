@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Corsham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Corsham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c332db2f97",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

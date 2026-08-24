@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eppendorf",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Eppendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-968d00e62c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gmund am Tegernsee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gmund am Tegernsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c8e93dade7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

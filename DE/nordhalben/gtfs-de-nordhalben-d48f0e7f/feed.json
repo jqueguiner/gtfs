@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nordhalben",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Nordhalben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-71fc1bf142",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

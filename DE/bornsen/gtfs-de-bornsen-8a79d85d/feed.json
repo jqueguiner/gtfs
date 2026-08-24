@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bornsen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bornsen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3bf37241d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

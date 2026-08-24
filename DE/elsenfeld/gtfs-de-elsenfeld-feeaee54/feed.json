@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elsenfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Elsenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1cfbb8afd7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

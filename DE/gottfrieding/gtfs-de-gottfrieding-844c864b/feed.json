@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gottfrieding",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gottfrieding"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bfa0b16d8d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

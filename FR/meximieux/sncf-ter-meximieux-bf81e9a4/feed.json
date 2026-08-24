@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Meximieux",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Meximieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-60efa03b18",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

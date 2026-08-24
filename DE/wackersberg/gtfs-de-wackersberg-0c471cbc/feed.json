@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wackersberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wackersberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a080e0e214",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

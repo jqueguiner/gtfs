@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fitzen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Fitzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45e2f9e12a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

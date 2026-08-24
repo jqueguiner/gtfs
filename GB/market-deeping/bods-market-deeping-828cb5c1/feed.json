@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Market Deeping",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Market Deeping"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d4e9bc60dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

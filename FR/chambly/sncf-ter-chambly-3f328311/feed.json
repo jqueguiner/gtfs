@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chambly",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Chambly"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-50354c7704",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

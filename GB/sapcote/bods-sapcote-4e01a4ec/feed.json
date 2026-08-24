@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sapcote",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sapcote"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-20c080e7df",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

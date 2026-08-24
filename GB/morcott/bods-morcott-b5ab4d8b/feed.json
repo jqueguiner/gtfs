@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Morcott",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Morcott"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e0258c2774",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

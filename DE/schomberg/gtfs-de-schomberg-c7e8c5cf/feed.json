@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schomberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schomberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-be6ca56b1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

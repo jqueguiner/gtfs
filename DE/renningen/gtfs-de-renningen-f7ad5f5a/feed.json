@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Renningen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Renningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-76beb1a0e3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

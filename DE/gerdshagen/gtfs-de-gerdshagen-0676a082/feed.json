@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerdshagen",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Gerdshagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-175a9fa741",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

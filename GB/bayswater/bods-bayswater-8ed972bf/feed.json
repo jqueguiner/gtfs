@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bayswater",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bayswater"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-54f40e3b06",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

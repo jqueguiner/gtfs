@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wackerow",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Wackerow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-67d6f90080",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

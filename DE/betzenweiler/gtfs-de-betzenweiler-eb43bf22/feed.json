@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Betzenweiler",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Betzenweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-796e281424",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

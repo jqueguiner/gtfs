@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Virginia Water",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Virginia Water"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-220a4a2fc9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

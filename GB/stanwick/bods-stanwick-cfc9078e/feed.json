@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Stanwick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Stanwick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bad65fe98b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

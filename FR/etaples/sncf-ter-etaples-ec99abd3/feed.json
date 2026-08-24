@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Etaples",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Etaples"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9ea6104279",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

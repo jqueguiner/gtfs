@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bosdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bosdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f94abc258",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

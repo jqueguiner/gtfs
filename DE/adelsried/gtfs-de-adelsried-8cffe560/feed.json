@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Adelsried",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Adelsried"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e74e63b69a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

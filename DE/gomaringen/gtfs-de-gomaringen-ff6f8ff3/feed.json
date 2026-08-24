@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gomaringen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gomaringen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-58bcd1ed14",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

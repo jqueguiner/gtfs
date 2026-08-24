@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gevelsberg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Gevelsberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b240ca3024",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

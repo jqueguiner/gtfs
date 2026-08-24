@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Merthyr Mawr",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Merthyr Mawr"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-196f136364",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

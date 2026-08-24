@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bargum",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bargum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-79f80f08b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

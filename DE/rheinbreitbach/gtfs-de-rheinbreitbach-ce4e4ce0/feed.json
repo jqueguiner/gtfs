@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rheinbreitbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Rheinbreitbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5cac4a0085",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

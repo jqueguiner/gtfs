@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Schirmeck",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Schirmeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5e4d26f8e5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

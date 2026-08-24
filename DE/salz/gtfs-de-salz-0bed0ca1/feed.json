@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Salz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Salz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-166cf94cb9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

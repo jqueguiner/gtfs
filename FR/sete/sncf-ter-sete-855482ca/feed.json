@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sete",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Sete"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-262b7e3520",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

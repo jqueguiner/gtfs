@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pinon",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Pinon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-577f9d745c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

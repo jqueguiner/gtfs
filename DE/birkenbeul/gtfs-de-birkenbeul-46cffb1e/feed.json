@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Birkenbeul",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Birkenbeul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3c26f20288",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

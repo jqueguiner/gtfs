@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fuchshofen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Fuchshofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2d06141bd7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

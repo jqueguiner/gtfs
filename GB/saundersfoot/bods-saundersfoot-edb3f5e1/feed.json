@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Saundersfoot",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Saundersfoot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2a1d4c9a34",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

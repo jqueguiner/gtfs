@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fauville-en-Caux",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Fauville-en-Caux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-08fe3d94d8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

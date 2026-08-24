@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Karlshorst",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Karlshorst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e2bf5674eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

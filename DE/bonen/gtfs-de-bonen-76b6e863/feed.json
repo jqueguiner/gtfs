@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bonen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bonen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9b48fea8e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

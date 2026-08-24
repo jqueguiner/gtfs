@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rotthalmunster",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rotthalmunster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd02134b44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

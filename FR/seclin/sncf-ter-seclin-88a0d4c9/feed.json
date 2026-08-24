@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Seclin",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Seclin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-03443d0458",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

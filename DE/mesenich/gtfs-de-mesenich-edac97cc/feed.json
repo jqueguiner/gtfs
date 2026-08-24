@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mesenich",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Mesenich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-06e0179599",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

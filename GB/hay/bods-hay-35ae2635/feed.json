@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hay",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Hay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d3b1951ceb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

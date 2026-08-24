@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friedrichswalde",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Friedrichswalde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5badf1d1ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

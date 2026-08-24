@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aham",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bea05e77a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Potters Bar",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Potters Bar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-82585e89a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

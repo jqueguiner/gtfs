@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Radis",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Radis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-780f5b6a56",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

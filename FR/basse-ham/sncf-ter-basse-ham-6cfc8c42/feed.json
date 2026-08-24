@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Basse-Ham",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Basse-Ham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ad8fb187cd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wilsum",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wilsum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-00fd3f98e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

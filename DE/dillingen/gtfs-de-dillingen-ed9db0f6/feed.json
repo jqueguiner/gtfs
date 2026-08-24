@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dillingen",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Dillingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-feec04deef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

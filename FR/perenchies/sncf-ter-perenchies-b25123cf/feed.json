@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Perenchies",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Perenchies"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-428dc5e93e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

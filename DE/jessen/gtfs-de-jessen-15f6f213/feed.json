@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jessen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Jessen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-63c0942fa7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nouan-le-Fuzelier",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Nouan-le-Fuzelier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6664344d16",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

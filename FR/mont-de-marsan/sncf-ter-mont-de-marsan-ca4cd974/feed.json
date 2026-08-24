@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mont-de-Marsan",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Mont-de-Marsan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0c23e6e1d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

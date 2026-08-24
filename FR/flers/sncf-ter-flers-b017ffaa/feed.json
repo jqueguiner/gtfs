@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Flers",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Flers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-047f768909",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

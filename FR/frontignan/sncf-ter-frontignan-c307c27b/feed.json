@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Frontignan",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Frontignan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5916fb2b0d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mobiliteit.lu — Lamadelaine",
+    "country": "LU",
+    "subdivision": "Luxembourg",
+    "city": "Lamadelaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip",
+    "mdb_id": "lu-city-e7977eb002",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

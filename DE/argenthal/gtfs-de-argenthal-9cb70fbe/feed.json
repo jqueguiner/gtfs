@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Argenthal",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Argenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-32030083d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

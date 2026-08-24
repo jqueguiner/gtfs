@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dulmen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Dulmen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ffc7278881",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

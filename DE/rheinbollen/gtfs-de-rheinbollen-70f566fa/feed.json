@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rheinbollen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Rheinbollen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-00f6d8ad6f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

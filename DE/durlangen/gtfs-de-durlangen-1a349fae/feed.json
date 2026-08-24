@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Durlangen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Durlangen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-958d5f8353",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Halensee",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Halensee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4bd08e127d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

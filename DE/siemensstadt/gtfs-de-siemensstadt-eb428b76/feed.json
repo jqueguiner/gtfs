@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Siemensstadt",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Siemensstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ed6768f6a6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

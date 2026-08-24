@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bodelwitz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bodelwitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1c0a63b221",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

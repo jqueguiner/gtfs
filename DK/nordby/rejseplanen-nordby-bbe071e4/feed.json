@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Nordby",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Nordby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-b731c331cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

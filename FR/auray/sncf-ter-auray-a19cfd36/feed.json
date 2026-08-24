@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Auray",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Auray"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-414b3e21e3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

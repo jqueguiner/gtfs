@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brannenburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Brannenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4882d0a001",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

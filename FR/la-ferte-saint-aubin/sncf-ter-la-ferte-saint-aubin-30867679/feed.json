@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Ferte-Saint-Aubin",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "La Ferte-Saint-Aubin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d39ac4f984",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

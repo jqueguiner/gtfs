@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schalkham",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schalkham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b1fc011ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

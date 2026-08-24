@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Drage",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Drage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a8c8bf5ad9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

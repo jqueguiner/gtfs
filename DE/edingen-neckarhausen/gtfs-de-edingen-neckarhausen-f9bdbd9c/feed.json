@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Edingen-Neckarhausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Edingen-Neckarhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e35f4ba4ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

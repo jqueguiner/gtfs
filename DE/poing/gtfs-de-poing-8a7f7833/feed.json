@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Poing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Poing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d405a6b47c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bazancourt",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Bazancourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-16e14bb277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

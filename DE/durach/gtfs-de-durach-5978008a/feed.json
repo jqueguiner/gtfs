@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Durach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Durach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7f8fa5c5ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

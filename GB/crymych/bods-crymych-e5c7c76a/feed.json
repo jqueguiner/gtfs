@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Crymych",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Crymych"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1888ed36b8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

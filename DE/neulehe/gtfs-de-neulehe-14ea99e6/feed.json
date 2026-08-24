@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neulehe",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Neulehe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5a9422f3d8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

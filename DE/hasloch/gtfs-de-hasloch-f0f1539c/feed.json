@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hasloch",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hasloch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-568f570006",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

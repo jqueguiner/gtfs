@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kaiserslautern",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kaiserslautern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5c10af7344",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Roskilde",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Roskilde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-9c63b460d0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

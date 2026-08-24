@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hofheim am Taunus",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Hofheim am Taunus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0c42d0277d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

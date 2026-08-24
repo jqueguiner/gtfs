@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wackernheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Wackernheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dfdf3166e3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

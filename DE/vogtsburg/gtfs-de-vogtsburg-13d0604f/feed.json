@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vogtsburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Vogtsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cbaa2cd9f1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

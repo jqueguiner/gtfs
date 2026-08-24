@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lunel-Viel",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Lunel-Viel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2006f33066",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

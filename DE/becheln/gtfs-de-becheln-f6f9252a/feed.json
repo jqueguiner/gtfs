@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Becheln",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Becheln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-691d319439",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

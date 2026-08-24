@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Stow on the Wold",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Stow on the Wold"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-50f792e37c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

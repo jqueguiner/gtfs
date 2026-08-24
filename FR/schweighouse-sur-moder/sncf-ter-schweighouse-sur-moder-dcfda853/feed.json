@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Schweighouse-sur-Moder",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Schweighouse-sur-Moder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-790b79718d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

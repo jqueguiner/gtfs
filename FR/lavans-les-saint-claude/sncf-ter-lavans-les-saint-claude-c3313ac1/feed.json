@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lavans-les-Saint-Claude",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Lavans-les-Saint-Claude"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-db987b72c8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

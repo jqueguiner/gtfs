@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Barmissen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Barmissen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fdc1070e74",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

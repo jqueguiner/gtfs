@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kremmen",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Kremmen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5063bfec39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

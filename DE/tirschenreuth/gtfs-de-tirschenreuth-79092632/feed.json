@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tirschenreuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tirschenreuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-39df3e9fba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

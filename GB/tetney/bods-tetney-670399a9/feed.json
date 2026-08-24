@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tetney",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Tetney"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-26a34a805a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

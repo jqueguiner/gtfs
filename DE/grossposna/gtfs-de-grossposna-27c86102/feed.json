@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossposna",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Grossposna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1ff7a24c17",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

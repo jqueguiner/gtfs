@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Sabro",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Sabro"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-6ab24cd93d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

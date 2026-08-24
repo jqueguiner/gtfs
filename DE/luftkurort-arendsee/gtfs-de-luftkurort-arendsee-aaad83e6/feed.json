@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Luftkurort Arendsee",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Luftkurort Arendsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-850c21ea47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

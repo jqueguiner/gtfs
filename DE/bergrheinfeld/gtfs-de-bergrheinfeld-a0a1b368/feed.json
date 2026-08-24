@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergrheinfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bergrheinfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c5d5772277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

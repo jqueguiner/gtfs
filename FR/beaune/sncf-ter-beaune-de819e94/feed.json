@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Beaune",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Beaune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-900d4f441b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

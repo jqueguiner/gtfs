@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gotteszell",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gotteszell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2fcca3c809",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

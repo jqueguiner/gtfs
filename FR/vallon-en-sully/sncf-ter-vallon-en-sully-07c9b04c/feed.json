@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vallon-en-Sully",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Vallon-en-Sully"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ea83938543",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

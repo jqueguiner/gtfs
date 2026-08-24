@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Templemars",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Templemars"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-84d1917ae5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

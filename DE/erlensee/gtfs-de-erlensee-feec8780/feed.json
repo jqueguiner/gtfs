@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erlensee",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Erlensee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f719e87a48",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rehon",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Rehon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dec5b7cc9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

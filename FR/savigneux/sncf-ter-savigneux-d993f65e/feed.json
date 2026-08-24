@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Savigneux",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Savigneux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-58b0bb3b83",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

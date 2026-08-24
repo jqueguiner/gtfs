@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberstdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberstdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6a6a9f6a22",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

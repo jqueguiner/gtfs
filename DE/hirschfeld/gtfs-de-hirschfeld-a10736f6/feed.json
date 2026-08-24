@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hirschfeld",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Hirschfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3995be7798",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Korntal",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Korntal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a3d6aec8c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Scherwiller",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Scherwiller"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1dcd28683a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Macduff",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Macduff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-057196c80f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

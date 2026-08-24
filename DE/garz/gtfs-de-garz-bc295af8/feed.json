@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Garz",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Garz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cedb42df23",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

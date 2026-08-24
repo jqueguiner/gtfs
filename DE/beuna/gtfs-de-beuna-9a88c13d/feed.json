@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beuna",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Beuna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3a7a5a63bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

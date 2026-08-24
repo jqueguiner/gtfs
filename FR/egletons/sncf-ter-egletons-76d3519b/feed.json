@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Egletons",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Egletons"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-47f4e25fa5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

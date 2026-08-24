@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Julich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Julich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b207c14463",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

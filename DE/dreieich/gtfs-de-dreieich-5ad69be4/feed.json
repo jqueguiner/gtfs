@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dreieich",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Dreieich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3005a6ce0a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

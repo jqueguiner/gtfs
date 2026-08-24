@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wildsteig",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wildsteig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-148c3bc09b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

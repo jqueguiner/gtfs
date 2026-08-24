@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Selkirk",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Selkirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-00a3d36cbf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

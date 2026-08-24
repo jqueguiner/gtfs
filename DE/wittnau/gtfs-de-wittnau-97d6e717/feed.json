@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittnau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Wittnau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3c2b8aec76",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

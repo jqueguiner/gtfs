@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llandrindod Wells",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llandrindod Wells"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-061f924371",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

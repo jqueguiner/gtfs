@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Crecy-sur-Serre",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Crecy-sur-Serre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5277770325",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Kingsclere",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Kingsclere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-76cda6b550",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

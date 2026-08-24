@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rohrmoos",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rohrmoos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1980917140",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

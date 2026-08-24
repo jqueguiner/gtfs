@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Niederweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5c0b317f95",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

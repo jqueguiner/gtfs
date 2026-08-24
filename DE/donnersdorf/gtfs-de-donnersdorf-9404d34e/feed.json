@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Donnersdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Donnersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0a539b027",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

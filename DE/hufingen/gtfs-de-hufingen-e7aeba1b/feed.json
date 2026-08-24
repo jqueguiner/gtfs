@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hufingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Hufingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-42a7651ba0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dachau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Dachau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-331132afec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

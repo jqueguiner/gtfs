@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Blakemere",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Blakemere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d0966bdeed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

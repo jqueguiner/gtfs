@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Puyoo",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Puyoo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-63a3f93c55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

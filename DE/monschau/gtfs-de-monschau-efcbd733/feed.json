@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Monschau",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Monschau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8ff4d15caa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

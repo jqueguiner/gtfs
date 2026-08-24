@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Boe",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Boe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-61788d57fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

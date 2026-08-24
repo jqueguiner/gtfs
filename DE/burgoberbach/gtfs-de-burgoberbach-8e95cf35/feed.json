@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgoberbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burgoberbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a408b83a50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

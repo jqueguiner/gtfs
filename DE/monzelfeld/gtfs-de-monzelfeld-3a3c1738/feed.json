@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Monzelfeld",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Monzelfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-128f847463",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breckerfeld",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Breckerfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e4751c91b4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

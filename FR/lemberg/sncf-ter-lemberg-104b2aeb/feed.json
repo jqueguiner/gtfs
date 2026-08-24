@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lemberg",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Lemberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fb6f42c337",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

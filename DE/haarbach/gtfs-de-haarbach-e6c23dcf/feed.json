@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haarbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Haarbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4647d64c89",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

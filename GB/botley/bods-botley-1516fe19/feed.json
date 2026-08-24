@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Botley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Botley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-989c01590e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

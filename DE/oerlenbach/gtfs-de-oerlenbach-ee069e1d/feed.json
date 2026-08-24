@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oerlenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oerlenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-47a5d3899e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grainau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grainau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37c8d342a5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pougues-les-Eaux",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Pougues-les-Eaux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b6bfff964a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

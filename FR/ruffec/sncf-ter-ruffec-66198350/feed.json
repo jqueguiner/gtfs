@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ruffec",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Ruffec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ee258b7c41",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

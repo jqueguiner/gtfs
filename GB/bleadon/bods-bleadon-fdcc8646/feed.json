@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bleadon",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bleadon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c0a666a79d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

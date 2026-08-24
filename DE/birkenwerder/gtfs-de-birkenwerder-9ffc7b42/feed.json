@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Birkenwerder",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Birkenwerder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b01ce5722c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

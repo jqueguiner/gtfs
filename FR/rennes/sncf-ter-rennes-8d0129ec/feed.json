@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rennes",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Rennes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a8e997da15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

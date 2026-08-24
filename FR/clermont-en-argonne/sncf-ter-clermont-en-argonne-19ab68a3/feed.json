@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Clermont-en-Argonne",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Clermont-en-Argonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-32af1d297a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

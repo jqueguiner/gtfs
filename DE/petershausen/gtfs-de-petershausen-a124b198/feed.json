@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Petershausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Petershausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c2c21aee30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

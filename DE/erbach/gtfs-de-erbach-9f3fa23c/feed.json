@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Erbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0aa68c4768",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

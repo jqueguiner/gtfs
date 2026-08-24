@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Thorlingen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Thorlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-07be82c19d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

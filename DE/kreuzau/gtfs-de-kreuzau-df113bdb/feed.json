@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kreuzau",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Kreuzau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a9699cf360",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

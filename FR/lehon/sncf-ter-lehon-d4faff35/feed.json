@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lehon",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Lehon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-02b622b0bd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montpon-Menesterol",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Montpon-Menesterol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-93c166dbfb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

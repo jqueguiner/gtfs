@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mehun-sur-Yevre",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Mehun-sur-Yevre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-92620772a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

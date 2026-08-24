@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — South Hetton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "South Hetton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f2a8d626f1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

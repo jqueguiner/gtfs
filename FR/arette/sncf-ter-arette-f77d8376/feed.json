@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Arette",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Arette"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2d6163faf5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

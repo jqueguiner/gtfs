@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Aouste-sur-Sye",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Aouste-sur-Sye"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7071d39545",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

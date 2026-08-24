@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgebrach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burgebrach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5226ce01ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

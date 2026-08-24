@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Loriol-sur-Drome",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Loriol-sur-Drome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-76bd461518",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

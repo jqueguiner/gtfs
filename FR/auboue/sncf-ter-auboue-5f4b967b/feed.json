@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Auboue",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Auboue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2d05a7f00f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

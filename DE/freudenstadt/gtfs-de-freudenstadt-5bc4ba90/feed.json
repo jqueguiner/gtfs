@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Freudenstadt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Freudenstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9147d9581a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

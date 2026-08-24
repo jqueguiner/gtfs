@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hainfeld",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Hainfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-048a72e418",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ostfildern",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ostfildern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8a6e0aa258",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

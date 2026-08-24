@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Hericourt",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Hericourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-221c519143",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

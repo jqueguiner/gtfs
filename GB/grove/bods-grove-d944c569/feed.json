@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Grove",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Grove"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f64a2652dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

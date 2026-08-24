@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bude",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bude"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-cb18a00a69",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

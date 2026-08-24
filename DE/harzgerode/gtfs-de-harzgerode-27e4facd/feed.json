@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Harzgerode",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Harzgerode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10602df5b7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

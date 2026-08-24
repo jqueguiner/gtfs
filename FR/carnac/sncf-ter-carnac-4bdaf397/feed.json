@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Carnac",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Carnac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0f2bc7ef34",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

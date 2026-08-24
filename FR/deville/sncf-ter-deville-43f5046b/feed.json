@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Deville",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Deville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-240450f6ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

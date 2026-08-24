@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gaiberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gaiberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-80108040b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

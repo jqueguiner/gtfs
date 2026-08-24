@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Kintzheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Kintzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e7bf455a00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

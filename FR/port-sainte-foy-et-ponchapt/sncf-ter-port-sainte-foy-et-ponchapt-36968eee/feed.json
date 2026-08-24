@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Port-Sainte-Foy-et-Ponchapt",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Port-Sainte-Foy-et-Ponchapt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cfac7516fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

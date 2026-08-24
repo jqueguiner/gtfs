@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lathus-Saint-Remy",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Lathus-Saint-Remy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2f51e73358",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

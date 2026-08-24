@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cugand",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Cugand"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e869b8095a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

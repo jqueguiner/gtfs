@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Tour-sur-Orb",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "La Tour-sur-Orb"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-394914c474",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

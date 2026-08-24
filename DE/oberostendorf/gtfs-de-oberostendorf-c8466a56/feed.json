@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberostendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberostendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7c3518123e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

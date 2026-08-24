@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Egremont",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Egremont"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-459dd28788",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

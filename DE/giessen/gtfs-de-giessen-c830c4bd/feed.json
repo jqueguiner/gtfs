@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Giessen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Giessen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-808a1fd49c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

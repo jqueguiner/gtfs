@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bornichen",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Bornichen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bd25ff2f4a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

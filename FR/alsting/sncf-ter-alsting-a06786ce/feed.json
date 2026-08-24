@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Alsting",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Alsting"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-28f7ad4ea3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

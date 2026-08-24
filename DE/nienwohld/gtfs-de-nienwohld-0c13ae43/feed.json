@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nienwohld",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Nienwohld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9f19e28c00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mettmann",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Mettmann"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a94c89acff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

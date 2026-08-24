@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bliesbruck",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Bliesbruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0cb53583f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

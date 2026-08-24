@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Farmsen-Berne",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Farmsen-Berne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8b6b8bc939",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

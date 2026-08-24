@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Budingen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Budingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d3f7775118",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

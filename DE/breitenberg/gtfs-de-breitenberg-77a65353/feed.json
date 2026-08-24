@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breitenberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Breitenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d16f0a1aac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

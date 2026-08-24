@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neuilly-les-Dijon",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Neuilly-les-Dijon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ee6dffe7fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

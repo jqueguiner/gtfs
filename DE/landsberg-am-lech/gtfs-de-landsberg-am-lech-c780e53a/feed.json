@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Landsberg am Lech",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Landsberg am Lech"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a5865521ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haltern",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Haltern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e9a8027041",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

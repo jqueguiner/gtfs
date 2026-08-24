@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissenborn",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Weissenborn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc5005682a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

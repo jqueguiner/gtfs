@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Coburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Coburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-017653505b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

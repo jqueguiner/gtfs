@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Flers-en-Escrebieux",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Flers-en-Escrebieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-def93ea5ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

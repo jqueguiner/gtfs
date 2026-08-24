@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schluchsee",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schluchsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6230d09151",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

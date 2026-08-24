@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wendelstein",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wendelstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c344d3aca1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

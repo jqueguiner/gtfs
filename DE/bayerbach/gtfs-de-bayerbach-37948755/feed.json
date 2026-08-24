@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bayerbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bayerbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6e9fd1f039",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

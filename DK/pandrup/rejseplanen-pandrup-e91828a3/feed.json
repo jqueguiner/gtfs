@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Pandrup",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Pandrup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-a4b5f07d65",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

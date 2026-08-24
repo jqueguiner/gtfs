@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ichenhausen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ichenhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ec93c3fb01",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

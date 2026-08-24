@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Barssel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Barssel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8456bb466",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

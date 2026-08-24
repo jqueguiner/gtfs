@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Goldisthal",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Goldisthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0bee96e5a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

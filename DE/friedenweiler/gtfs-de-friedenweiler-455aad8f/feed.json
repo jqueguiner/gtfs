@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friedenweiler",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Friedenweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8c5f461ff8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

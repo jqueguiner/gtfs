@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bischoffen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Bischoffen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cd54480abc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

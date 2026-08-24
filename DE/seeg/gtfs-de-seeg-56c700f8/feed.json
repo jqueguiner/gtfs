@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Seeg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Seeg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37e568be81",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

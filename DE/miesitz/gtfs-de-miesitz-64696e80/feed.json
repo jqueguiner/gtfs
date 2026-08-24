@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Miesitz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Miesitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b32a7985a6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

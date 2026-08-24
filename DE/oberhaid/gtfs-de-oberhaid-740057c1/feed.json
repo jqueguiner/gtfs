@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberhaid",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberhaid"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48e9426d67",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

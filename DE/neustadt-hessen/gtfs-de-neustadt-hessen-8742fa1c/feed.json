@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neustadt (Hessen)",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Neustadt (Hessen)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c06e550a11",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

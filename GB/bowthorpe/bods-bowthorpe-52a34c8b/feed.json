@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bowthorpe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bowthorpe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-05d4c12f75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

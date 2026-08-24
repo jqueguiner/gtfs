@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Roehrnbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Roehrnbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-05a9b48709",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

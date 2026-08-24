@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Buchy",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Buchy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cdc27fac9b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

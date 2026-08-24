@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pleinfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pleinfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa85836b76",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

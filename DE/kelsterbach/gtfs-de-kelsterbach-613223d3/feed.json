@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kelsterbach",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Kelsterbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-80cac7688c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

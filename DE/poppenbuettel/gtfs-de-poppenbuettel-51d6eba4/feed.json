@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Poppenbuettel",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Poppenbuettel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7c49c45d50",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

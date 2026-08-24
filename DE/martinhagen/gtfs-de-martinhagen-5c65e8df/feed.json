@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Martinhagen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Martinhagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1c081ab5fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

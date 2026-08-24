@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Metzeral",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Metzeral"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-028fae51f8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

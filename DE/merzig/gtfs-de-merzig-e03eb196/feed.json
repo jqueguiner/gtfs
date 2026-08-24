@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Merzig",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Merzig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c95b85c87b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

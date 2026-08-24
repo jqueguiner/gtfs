@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Munchsmunster",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Munchsmunster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bf87c56e05",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

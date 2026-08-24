@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Boizenburg",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Boizenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e5eee457f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

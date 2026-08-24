@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Grand-Lemps",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Grand-Lemps"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1c95e0f6e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

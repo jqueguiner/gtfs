@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gemunden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gemunden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-529a0e88eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

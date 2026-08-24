@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burstadt",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Burstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-90c90522af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

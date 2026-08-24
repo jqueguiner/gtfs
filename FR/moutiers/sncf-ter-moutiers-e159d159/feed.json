@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Moutiers",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Moutiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c6b3304cb7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

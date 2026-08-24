@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Guenzburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Guenzburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a10b460bc7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

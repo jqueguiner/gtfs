@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sallanches",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Sallanches"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-23bbdb6a12",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

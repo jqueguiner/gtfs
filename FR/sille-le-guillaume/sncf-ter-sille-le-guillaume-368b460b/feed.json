@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sille-le-Guillaume",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Sille-le-Guillaume"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c24fbb3b47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

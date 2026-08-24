@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fichtenwalde",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Fichtenwalde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-91b51e7ca5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

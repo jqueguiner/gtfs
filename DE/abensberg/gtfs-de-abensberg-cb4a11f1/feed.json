@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Abensberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Abensberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-04313da93f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

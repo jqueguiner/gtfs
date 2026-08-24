@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Chemnitz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Chemnitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7e8a61a7cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

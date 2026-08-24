@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bueil",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Bueil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6d65bd6f4b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

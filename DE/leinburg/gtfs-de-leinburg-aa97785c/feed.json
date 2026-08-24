@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Leinburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Leinburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9fad300542",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

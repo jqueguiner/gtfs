@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Shotwick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Shotwick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e57fd9ae98",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lubz",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Lubz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dae5377b79",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

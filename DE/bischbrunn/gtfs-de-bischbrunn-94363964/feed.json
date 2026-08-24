@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bischbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bischbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a112cf5eeb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

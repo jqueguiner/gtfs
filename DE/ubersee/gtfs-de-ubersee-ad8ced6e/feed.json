@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ubersee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ubersee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0d50e80f21",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herten",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Herten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f546c3b4bf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

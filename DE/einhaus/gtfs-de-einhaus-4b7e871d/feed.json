@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Einhaus",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Einhaus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24a039e9d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

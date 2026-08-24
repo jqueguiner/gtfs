@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Carden",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Carden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ee56e8206f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vaterstetten",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Vaterstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aaac6d595b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

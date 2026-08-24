@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Teterow",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Teterow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-798f15d2f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

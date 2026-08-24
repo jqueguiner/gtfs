@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fellheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Fellheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5f5f4a56fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

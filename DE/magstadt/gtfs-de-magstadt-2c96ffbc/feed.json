@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Magstadt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Magstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f6e0da3eb2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

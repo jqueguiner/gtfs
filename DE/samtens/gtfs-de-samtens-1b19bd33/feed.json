@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Samtens",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Samtens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-62a5375064",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

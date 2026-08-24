@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montfort-sur-Meu",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Montfort-sur-Meu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a1918b36cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

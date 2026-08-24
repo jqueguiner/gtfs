@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Thurnau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Thurnau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13ffc8a4ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

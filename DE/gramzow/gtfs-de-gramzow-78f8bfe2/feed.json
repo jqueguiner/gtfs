@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gramzow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Gramzow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f305e1111",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

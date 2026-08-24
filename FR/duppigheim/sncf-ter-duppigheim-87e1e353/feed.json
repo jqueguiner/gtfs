@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Duppigheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Duppigheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bb34ac8073",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

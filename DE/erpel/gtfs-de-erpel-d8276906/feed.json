@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erpel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Erpel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ea4e0423c0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

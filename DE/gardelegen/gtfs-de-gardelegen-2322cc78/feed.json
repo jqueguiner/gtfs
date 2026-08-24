@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gardelegen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Gardelegen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ffd04e673",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

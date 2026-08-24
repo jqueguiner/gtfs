@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fahrdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Fahrdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9db5383c5c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

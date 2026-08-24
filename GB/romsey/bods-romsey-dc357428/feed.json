@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Romsey",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Romsey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1fd3d15708",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

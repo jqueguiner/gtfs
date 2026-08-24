@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elsdorf",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Elsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-22e3e7b1dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

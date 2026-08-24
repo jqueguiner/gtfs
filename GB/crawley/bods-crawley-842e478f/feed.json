@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Crawley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Crawley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ebc3bbc214",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

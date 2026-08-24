@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hanslope",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hanslope"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ce3e856efc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

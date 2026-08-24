@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kieselbronn",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Kieselbronn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-321e178d7e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

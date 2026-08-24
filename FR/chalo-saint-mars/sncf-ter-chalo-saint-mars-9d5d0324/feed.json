@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chalo-Saint-Mars",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Chalo-Saint-Mars"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-409f4b11f6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

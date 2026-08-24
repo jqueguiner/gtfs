@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eggebek",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Eggebek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8db4a5302",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

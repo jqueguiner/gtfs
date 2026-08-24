@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gossenheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gossenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aad49502f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

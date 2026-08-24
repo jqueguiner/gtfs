@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Unseburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Unseburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a59b90291d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

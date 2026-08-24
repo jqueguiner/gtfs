@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wetschen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wetschen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df7b7c1df0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

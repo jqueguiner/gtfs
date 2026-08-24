@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mablethorpe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Mablethorpe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8531721f45",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

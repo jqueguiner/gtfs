@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Merzdorf",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Merzdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3a43b5ca96",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

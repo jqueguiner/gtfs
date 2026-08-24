@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Herbitzheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Herbitzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e0d7a26c61",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

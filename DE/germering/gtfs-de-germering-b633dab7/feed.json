@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Germering",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Germering"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-be65e0cf54",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ershausen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ershausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1cd5013aeb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

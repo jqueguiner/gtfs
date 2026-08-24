@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Meung-sur-Loire",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Meung-sur-Loire"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-91b7f6daa8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

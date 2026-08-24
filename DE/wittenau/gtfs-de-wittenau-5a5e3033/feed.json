@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittenau",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Wittenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b9e9c2e99a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bourg-de-Thizy",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Bourg-de-Thizy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d3e4166fa5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Apfeldorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Apfeldorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0f66f5e97",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

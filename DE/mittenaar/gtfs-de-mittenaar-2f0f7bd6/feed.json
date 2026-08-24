@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mittenaar",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Mittenaar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b31c0f3694",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

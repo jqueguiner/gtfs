@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Stadt Winterthur (Kreis 1) / Lind",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Stadt Winterthur (Kreis 1) / Lind"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-dd9b31e17c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

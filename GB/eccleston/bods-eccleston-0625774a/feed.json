@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Eccleston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Eccleston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b0ddd80b30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

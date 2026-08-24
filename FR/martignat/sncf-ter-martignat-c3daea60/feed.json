@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Martignat",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Martignat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-74d02928fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tangstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Tangstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8c6fc67a5b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

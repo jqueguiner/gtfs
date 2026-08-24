@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruggen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bruggen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9bcd90152d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

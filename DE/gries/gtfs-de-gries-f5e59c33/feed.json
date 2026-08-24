@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gries",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gries"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8e8a500667",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

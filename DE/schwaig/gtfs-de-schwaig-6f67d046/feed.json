@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwaig",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwaig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c0902a10d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

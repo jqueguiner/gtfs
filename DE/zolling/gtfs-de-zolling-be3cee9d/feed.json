@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zolling",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Zolling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10d4cad979",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

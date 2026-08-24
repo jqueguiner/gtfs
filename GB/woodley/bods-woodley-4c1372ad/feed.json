@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Woodley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Woodley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7eb755af56",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

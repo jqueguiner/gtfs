@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Les Salles-du-Gardon",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Les Salles-du-Gardon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9a49aea1ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

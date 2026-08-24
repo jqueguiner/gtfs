@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Hornbaek",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Hornbaek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-5590bb4a5d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

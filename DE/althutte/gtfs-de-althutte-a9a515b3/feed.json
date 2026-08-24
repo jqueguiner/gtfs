@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Althutte",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Althutte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-81d605da04",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

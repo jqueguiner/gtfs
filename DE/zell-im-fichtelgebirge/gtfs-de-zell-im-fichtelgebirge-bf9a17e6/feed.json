@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zell im Fichtelgebirge",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Zell im Fichtelgebirge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e6994eef65",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

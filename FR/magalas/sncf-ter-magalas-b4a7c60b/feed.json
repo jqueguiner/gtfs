@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Magalas",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Magalas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-92c80c7497",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

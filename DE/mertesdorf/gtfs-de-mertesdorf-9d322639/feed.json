@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mertesdorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Mertesdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fb30fcdf11",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

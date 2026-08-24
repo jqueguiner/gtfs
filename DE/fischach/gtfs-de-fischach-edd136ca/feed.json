@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Fischach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Fischach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-246e1448fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

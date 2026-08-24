@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebhausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ebhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-175d60a407",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

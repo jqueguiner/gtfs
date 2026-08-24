@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erlabrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Erlabrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2ec48155a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

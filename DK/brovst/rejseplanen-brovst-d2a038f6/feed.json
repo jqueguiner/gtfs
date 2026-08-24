@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Brovst",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Brovst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-7071d45979",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

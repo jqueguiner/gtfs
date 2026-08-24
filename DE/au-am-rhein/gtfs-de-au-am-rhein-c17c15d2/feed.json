@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Au am Rhein",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Au am Rhein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-17cf4babdc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

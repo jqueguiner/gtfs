@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Solms",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Solms"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e7bb8219d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Heckmondwike",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Heckmondwike"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4fe03a33b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

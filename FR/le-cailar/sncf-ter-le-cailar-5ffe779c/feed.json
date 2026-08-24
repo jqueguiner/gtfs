@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Cailar",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Le Cailar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b15d6417ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

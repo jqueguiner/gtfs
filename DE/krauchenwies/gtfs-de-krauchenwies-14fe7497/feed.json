@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Krauchenwies",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Krauchenwies"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c02f559242",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

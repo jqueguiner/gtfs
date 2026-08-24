@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Carterton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Carterton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e39e1c15c6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

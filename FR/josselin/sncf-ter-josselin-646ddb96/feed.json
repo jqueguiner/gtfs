@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Josselin",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Josselin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-908fe8d48e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

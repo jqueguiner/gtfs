@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Garbsen-Mitte",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Garbsen-Mitte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2c30f7fd64",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

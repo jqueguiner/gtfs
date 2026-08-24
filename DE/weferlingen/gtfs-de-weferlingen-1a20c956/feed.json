@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weferlingen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Weferlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db9ebc1cc3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

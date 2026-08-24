@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Osnabrueck",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Osnabrueck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f1e095a7db",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

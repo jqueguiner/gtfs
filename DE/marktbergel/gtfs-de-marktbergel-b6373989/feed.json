@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marktbergel",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Marktbergel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e49c538a87",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

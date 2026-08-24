@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Elwick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Elwick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7a2cb69d9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

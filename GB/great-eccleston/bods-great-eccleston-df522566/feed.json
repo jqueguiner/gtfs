@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Great Eccleston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Great Eccleston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e31aa15655",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

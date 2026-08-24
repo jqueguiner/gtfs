@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sulza",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Sulza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9cbba05bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

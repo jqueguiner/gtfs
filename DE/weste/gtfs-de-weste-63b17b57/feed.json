@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weste",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Weste"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9dfa9e1a5b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Enspel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Enspel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45b7528435",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

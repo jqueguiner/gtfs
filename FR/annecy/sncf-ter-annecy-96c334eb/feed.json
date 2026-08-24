@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Annecy",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Annecy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7561ad0b95",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

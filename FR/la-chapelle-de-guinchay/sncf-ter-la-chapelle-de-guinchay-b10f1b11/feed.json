@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Chapelle-de-Guinchay",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "La Chapelle-de-Guinchay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dcd58cb0fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

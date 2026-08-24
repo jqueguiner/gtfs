@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Nyrad",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Nyrad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-8f553b4480",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

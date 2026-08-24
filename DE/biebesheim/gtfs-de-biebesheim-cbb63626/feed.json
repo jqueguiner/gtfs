@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Biebesheim",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Biebesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-42c738c6d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

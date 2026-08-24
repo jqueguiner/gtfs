@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Guteneck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Guteneck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9bbc99a4ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

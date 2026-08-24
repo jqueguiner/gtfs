@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schmiedeberg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Schmiedeberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fc3ed485ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

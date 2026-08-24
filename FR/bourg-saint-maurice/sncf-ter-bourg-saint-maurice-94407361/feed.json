@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bourg-Saint-Maurice",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Bourg-Saint-Maurice"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-58b0365fed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

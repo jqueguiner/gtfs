@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Tricot",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Tricot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-442cb2673e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

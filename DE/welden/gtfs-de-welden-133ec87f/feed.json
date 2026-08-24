@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Welden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Welden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c7f7fd6bde",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

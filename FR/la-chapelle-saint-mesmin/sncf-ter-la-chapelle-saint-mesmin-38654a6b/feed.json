@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Chapelle-Saint-Mesmin",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "La Chapelle-Saint-Mesmin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f14524cf89",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

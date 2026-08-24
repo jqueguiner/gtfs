@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Goch",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Goch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fd980dc883",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

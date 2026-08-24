@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Goldbeck",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Goldbeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dca03f286a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

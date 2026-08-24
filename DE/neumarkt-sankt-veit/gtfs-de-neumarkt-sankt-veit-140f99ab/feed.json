@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neumarkt-Sankt Veit",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neumarkt-Sankt Veit"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf105cb868",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

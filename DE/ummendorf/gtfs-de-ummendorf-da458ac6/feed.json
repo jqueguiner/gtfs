@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ummendorf",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ummendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e01a69e0c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

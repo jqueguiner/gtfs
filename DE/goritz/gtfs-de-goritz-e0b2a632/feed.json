@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Goritz",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Goritz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-462d0f1dca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

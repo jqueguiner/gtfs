@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montlucon",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Montlucon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3b89adb728",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

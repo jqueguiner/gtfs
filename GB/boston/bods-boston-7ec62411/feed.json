@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Boston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Boston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0e65050c0f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tschirn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tschirn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-42c0ca862d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

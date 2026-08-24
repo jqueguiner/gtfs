@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Milhaud",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Milhaud"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5a9c310cc7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

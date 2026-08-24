@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lochgau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lochgau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5bf5c09246",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

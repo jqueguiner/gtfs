@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vellberg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Vellberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-349245ff1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

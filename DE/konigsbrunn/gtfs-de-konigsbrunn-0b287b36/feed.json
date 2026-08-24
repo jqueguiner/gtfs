@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Konigsbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Konigsbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2c6db753a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

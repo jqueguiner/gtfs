@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Barentin",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Barentin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-99724aa7d2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

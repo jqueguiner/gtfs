@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cleator Moor",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cleator Moor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9b89172ea0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

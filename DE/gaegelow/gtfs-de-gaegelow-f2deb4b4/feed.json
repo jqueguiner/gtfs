@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gaegelow",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Gaegelow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37515a4830",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

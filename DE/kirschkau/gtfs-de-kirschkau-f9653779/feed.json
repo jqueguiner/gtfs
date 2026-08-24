@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirschkau",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Kirschkau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6be88f7299",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

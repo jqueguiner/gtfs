@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ziegelheim",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ziegelheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-23c3d1caed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Moorenweis",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Moorenweis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-875fe3dcd4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

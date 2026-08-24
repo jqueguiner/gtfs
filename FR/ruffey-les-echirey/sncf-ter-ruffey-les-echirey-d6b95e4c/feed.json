@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ruffey-les-Echirey",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Ruffey-les-Echirey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8addb63896",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

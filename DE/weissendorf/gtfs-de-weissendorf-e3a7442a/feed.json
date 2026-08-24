@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissendorf",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Weissendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-38ae7ae2ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

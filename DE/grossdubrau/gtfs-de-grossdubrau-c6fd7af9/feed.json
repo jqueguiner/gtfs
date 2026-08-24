@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossdubrau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Grossdubrau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e58ba44a7a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

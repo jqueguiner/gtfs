@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dale",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Dale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-40b7cf36a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

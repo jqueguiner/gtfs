@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Coux",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Coux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5a0d8ff559",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

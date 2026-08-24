@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bardowick",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Bardowick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-562e40d277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

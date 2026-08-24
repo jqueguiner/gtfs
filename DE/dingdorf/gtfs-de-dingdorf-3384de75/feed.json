@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dingdorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dingdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b79b79909a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

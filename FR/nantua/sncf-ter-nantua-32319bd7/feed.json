@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nantua",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Nantua"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-43e1af1bb3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

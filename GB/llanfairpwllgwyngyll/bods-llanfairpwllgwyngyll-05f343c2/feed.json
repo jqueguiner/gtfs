@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llanfairpwllgwyngyll",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llanfairpwllgwyngyll"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-518e20f529",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

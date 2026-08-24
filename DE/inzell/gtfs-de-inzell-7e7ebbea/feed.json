@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Inzell",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Inzell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9e8f1bf432",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

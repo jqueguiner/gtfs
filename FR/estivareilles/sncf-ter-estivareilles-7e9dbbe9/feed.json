@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Estivareilles",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Estivareilles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bd36a6b227",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

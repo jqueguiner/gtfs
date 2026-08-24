@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vireux-Molhain",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Vireux-Molhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-918a73494e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

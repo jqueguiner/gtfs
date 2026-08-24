@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Beautiran",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Beautiran"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-134d29594d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

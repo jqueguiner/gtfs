@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Teignmouth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Teignmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d7a1d296af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

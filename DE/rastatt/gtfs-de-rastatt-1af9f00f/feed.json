@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rastatt",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Rastatt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe3f4fe68d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

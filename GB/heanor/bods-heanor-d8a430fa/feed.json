@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Heanor",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Heanor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-fc2d2d55ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

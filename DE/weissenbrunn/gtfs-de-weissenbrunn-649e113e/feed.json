@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissenbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weissenbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4041751f5d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

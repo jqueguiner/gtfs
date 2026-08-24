@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ettenheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ettenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8e9acac654",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

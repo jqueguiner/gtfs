@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buhren",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Buhren"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2d3d953229",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

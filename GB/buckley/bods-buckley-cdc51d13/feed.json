@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Buckley",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Buckley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-23d976ce39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

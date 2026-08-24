@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Whitehills",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Whitehills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3b48ab80b1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rhinow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Rhinow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e960fde779",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

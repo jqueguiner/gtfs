@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hochstadt an der Donau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hochstadt an der Donau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aa63d48e05",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

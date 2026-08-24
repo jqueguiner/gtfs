@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geringswalde",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Geringswalde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2fa6a914f7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

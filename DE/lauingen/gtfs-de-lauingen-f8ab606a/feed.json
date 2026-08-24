@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lauingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b34fbe5bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

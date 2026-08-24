@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cople",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cople"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-286323f270",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

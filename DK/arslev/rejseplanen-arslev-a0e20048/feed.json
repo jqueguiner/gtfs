@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Arslev",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Arslev"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-2ac82c5d9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nohn",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Nohn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e67681249a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

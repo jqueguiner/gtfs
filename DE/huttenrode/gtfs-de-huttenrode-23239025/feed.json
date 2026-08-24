@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Huttenrode",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Huttenrode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-120c9c8ded",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gablenz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Gablenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-909e6dfa14",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

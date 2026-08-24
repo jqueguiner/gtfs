@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Framlev",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Framlev"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-2cdfe857f9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Riedenberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Riedenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-09e8cc04d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wusterhausen",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Wusterhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cfd2efd477",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

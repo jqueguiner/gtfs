@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Eynsham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Eynsham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-033fca3fdf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

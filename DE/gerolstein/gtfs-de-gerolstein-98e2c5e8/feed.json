@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerolstein",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gerolstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d26cc6cd08",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wenzenbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wenzenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-85e0e9087e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

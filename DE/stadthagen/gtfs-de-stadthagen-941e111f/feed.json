@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stadthagen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Stadthagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bcc0478883",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

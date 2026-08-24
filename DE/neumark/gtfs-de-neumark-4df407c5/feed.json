@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neumark",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Neumark"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-018f5f0c7d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

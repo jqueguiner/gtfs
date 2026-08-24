@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ederheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ederheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af7add63ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

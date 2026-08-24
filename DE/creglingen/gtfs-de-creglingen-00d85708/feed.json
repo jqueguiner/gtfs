@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Creglingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Creglingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cf8a0c358d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

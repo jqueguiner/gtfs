@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Zuerich (Kreis 11) / Affoltern",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Zuerich (Kreis 11) / Affoltern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-d2803a43a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

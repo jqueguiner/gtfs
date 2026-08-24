@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montmoreau-Saint-Cybard",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Montmoreau-Saint-Cybard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6f1663fa70",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

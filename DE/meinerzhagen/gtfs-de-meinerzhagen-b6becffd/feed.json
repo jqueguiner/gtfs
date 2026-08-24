@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meinerzhagen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Meinerzhagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a05b22fd8b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zscherndorf",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Zscherndorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48eb577e79",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

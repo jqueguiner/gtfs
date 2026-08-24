@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Haswell",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Haswell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f2f3f5db4b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

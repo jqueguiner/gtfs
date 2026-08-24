@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dobritz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Dobritz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-22ec9a848a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

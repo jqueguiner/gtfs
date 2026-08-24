@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rausdorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Rausdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-63d8177334",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

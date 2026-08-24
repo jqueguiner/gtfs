@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cherbourg-Octeville",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Cherbourg-Octeville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e8394e5a44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

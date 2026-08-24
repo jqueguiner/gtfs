@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fontaines-sur-Saone",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Fontaines-sur-Saone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-90b3ec820e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

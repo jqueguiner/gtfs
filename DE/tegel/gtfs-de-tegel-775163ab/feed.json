@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tegel",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Tegel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9608c4aec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

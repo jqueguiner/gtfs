@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zoblitz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Zoblitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7ce5717eaf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

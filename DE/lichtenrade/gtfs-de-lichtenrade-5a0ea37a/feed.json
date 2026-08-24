@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lichtenrade",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Lichtenrade"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d239f4158c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

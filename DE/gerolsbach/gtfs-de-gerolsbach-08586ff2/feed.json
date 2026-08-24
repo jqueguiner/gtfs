@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerolsbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gerolsbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-564b9d2a84",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

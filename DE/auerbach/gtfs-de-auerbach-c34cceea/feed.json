@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Auerbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Auerbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af4778af85",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

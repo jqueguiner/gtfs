@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Frankweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-354252ed56",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

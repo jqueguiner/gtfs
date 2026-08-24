@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Voreppe",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Voreppe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dee0cb6b9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

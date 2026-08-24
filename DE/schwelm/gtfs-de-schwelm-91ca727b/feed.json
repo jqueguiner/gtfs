@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwelm",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Schwelm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e600f3a708",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

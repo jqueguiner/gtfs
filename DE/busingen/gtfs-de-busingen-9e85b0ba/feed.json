@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Busingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Busingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a827fbefba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kunzell",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Kunzell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-06bb3f4485",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

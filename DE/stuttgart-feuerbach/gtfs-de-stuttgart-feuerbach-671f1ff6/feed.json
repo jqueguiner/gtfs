@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stuttgart Feuerbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Stuttgart Feuerbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ca5a0e4303",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

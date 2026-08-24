@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schleusingen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Schleusingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-22c19e17de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

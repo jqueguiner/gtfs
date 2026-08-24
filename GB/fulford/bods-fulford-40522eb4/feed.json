@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Fulford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Fulford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ce32036f62",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Katlenburg-Lindau",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Katlenburg-Lindau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13ec4dbc3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

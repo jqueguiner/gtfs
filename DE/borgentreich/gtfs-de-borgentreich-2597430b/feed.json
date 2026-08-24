@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Borgentreich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Borgentreich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe94c6976f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

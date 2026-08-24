@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Allegre",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Allegre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f54b675b44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

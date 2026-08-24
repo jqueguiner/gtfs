@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Conisbrough",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Conisbrough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-33b57d7616",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

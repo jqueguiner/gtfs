@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Odense",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Odense"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-7c57f1e01a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

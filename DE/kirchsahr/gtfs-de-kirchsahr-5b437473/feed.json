@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirchsahr",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Kirchsahr"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d1233b1245",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

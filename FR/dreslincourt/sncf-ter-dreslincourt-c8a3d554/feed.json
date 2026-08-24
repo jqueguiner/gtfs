@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dreslincourt",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Dreslincourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bcb0b69b4e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

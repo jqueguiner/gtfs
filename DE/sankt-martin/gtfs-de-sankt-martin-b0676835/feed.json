@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sankt Martin",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Sankt Martin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cb0125905c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

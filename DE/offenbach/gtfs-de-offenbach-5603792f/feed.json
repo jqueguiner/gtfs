@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Offenbach",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Offenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2c0cfe1bcb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

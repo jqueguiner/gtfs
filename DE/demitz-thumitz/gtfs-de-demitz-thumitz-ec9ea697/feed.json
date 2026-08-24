@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Demitz-Thumitz",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Demitz-Thumitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1f8ca76634",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

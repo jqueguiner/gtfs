@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bryn",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Bryn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-45e2151d2f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

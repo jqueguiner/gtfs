@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mulfingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mulfingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cfb51b2394",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

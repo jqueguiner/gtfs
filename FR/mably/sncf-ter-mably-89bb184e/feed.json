@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mably",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Mably"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-42a51bf252",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

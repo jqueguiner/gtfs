@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Pont-de-Claix",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Pont-de-Claix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-09a0dbc6a6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glindenberg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Glindenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9daa1e41e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

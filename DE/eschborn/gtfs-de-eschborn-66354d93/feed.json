@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eschborn",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Eschborn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e5dfd0ebb2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

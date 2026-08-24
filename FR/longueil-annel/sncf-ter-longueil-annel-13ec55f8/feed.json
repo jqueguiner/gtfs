@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longueil-Annel",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Longueil-Annel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-90c5f1b86d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

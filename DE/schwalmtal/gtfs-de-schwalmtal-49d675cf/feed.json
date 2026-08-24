@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwalmtal",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Schwalmtal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8e8cacb40e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

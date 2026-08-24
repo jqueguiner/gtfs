@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Yerville",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Yerville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-01b5abecb8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

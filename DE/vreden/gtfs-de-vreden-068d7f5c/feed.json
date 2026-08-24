@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vreden",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Vreden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0f44d01d51",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ziesar",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Ziesar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b90be9ae1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Grau-du-Roi",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Le Grau-du-Roi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-30880aadf2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

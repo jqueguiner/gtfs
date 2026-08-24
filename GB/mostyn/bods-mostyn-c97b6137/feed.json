@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mostyn",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Mostyn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4143a172f6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

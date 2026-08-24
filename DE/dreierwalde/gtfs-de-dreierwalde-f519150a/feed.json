@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dreierwalde",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Dreierwalde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5270f2b384",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

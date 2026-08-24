@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ludersdorf",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Ludersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e577eba242",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

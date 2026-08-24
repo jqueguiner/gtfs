@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vorey",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Vorey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7b8cc9386a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

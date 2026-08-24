@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bruton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bruton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e060c1bf55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

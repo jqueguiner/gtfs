@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Arzfeld",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Arzfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eda1a13bf1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

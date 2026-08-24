@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dorsheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dorsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1db610480b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

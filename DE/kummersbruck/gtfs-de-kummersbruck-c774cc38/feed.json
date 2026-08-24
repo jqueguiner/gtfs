@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kummersbruck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kummersbruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4d432f1ec1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bauler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bauler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13afa604ce",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

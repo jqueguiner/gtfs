@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chanceaux-sur-Choisille",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Chanceaux-sur-Choisille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b4d5e66405",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

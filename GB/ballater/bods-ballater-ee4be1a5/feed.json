@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ballater",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Ballater"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-62abfa8556",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

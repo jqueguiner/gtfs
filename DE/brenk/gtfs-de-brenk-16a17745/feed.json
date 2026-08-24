@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brenk",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Brenk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e019c5dc55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

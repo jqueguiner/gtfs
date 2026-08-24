@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aitern",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Aitern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ec8b80656f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

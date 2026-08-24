@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hackney",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hackney"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7b48409752",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

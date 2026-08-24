@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Welver",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Welver"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eca3959efa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

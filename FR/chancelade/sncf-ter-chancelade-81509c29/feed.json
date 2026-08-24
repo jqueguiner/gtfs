@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chancelade",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Chancelade"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3b12834178",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

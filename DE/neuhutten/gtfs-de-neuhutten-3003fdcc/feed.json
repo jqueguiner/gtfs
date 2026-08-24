@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuhutten",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Neuhutten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-10ed36524b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

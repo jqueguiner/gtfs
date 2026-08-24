@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ramsla",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ramsla"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9ea97aa07d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

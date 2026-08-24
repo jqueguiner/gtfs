@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llanfair",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llanfair"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-008074502c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

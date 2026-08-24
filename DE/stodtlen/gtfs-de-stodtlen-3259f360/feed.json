@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stodtlen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Stodtlen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0ef518ffd1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

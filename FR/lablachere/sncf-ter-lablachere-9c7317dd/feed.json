@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lablachere",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Lablachere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9947394e34",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

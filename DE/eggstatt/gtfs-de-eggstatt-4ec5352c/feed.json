@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eggstatt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eggstatt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-40143c8618",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

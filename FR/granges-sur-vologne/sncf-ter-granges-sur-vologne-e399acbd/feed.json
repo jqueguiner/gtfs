@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Granges-sur-Vologne",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Granges-sur-Vologne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-94444412af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

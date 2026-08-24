@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Labarthe-Riviere",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Labarthe-Riviere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-593b9319f1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

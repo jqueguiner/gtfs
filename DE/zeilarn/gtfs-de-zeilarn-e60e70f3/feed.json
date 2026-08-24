@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zeilarn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Zeilarn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b2b8cbd7ee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

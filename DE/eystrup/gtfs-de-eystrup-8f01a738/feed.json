@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eystrup",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Eystrup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e4d9c15c23",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

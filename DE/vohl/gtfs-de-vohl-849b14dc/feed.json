@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vohl",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Vohl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bb811af4e5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossmolsen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Grossmolsen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3daeff2569",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rummelsburg",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Rummelsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-54372f7c64",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

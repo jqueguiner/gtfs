@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lumes",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Lumes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-91d40242cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

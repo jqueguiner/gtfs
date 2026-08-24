@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waldmunchen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Waldmunchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-369115a437",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

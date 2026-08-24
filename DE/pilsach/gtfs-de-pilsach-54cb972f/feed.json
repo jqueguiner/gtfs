@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pilsach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pilsach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-687773ed46",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Karup",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Karup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-63c2aecf38",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

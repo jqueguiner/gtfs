@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossostheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grossostheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-934397ccb1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

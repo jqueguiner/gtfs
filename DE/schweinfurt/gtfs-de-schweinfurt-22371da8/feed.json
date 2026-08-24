@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schweinfurt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schweinfurt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c63aecf169",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

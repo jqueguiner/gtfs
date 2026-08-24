@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Motzing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Motzing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-607590eb2e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

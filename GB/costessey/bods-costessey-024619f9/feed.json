@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Costessey",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Costessey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-87d30e1b30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

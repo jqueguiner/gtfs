@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Agen",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Agen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8c51d5465b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

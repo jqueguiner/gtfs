@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Burgess Hill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Burgess Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3fa3e5a660",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

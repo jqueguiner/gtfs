@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bondelum",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bondelum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ad5292dde0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

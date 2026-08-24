@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Thungen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Thungen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8219cb0f9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

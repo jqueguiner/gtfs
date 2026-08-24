@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruckmuhl",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bruckmuhl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c5e5376c73",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

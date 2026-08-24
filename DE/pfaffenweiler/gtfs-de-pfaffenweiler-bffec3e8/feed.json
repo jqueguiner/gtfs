@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfaffenweiler",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Pfaffenweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-90aeea4d2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

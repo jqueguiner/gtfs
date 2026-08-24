@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neumarkt in der Oberpfalz",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neumarkt in der Oberpfalz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e8d957349b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kirchdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kirchdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5db557dd10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

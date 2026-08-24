@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Malterdingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Malterdingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2d8cabf4cc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

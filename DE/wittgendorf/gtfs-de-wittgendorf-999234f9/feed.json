@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittgendorf",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Wittgendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-40bb7eefdc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

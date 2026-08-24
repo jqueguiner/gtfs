@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hipstedt",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Hipstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a2ea57fa99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

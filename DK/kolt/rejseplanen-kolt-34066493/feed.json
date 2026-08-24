@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Kolt",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Kolt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-3d1921e4a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

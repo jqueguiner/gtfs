@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hirschbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hirschbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-26074cb08e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

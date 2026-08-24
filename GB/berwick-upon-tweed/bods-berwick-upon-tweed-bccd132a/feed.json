@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Berwick-Upon-Tweed",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Berwick-Upon-Tweed"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5922c61e54",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

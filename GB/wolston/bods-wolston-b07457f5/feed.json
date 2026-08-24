@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wolston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wolston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-cf1927fab7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

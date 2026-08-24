@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dietingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Dietingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8ace5faaf6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

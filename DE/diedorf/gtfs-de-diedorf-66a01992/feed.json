@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Diedorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Diedorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-035bb1f6c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

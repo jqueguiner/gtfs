@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Millbrook",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Millbrook"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e03aa7f71f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Igoville",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Igoville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8f6a24ce44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

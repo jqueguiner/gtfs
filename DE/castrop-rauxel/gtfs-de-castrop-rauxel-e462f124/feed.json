@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Castrop-Rauxel",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Castrop-Rauxel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7f67bf5873",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

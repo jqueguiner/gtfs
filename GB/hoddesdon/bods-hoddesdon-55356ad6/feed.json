@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hoddesdon",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hoddesdon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9dc3c2c144",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

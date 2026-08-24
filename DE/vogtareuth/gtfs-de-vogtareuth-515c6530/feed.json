@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vogtareuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Vogtareuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1987b85705",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Paulhaguet",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Paulhaguet"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-911dd020fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

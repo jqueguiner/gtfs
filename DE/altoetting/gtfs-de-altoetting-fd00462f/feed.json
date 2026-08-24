@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altoetting",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Altoetting"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d1d0df9cfb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

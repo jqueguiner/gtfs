@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altbach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Altbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aeb30d8220",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

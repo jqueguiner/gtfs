@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Shalford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Shalford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4727f57ae5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

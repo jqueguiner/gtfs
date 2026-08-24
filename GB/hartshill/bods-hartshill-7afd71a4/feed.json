@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hartshill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hartshill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-aa0a27dbfe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

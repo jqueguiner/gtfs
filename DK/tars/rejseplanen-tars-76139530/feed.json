@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Tars",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Tars"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-f7785e3fdf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

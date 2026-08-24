@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sonning",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sonning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-542513cf4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

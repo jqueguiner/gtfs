@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lossburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lossburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6e6f75b58e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

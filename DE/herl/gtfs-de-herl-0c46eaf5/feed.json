@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herl",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Herl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5710786423",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — West Kilbride",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "West Kilbride"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3595f0110c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cintegabelle",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Cintegabelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9968ed60a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Fairlie",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Fairlie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5d5f7f07ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

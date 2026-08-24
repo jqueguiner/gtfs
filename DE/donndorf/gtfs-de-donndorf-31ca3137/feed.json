@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Donndorf",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Donndorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6ed4447aba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

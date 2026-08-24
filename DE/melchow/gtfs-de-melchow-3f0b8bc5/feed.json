@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Melchow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Melchow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8cbba5b4c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

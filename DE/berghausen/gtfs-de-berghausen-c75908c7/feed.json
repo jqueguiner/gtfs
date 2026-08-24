@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berghausen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Berghausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a199d1c677",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

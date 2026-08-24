@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cornil",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Cornil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c24da40019",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

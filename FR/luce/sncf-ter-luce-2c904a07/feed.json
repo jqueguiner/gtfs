@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Luce",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Luce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-49c4bc6c4a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

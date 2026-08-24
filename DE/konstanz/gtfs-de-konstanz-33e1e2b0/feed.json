@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Konstanz",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Konstanz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c0f4d639b6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

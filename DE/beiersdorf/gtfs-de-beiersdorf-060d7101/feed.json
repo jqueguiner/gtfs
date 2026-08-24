@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beiersdorf",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Beiersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-911d55ad38",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

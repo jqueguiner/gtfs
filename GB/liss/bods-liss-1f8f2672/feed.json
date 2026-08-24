@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Liss",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Liss"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2c57bca30a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

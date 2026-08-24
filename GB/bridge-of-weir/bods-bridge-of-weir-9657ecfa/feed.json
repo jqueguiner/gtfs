@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bridge of Weir",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Bridge of Weir"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-05450f88c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hayling Island",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hayling Island"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5fc2c131af",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

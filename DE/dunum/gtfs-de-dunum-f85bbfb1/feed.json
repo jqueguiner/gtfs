@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dunum",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Dunum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d5791acdec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

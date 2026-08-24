@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Winzer",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Winzer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4792d3f39d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

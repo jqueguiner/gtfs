@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erlangen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Erlangen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-55aa795888",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

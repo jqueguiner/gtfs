@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Waterlooville",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Waterlooville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4e5c7b7964",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

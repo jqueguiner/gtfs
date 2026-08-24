@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Earith",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Earith"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6ac4516b27",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

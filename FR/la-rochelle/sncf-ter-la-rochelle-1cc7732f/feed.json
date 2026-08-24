@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Rochelle",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "La Rochelle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0f1f5a6b1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

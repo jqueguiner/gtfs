@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Uhingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Uhingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e08bea8aac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

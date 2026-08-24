@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herdecke",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Herdecke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-55d101ad53",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

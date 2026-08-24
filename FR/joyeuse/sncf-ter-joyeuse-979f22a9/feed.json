@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Joyeuse",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Joyeuse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-af3ebb41bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Olgod",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Olgod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-e49fd8367f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

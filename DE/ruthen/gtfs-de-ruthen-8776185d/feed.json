@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ruthen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ruthen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2e7901f11d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

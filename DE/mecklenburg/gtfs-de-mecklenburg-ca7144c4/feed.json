@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mecklenburg",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-72482fb9d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

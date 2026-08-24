@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Slough",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Slough"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-edc8b5194c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

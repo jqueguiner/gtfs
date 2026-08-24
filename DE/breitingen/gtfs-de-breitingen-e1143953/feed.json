@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breitingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Breitingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6533a25642",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

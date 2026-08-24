@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Varetz",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Varetz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-22b9b53372",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

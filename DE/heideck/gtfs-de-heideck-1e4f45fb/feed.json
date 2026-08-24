@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heideck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Heideck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-52632e3a44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Aberford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Aberford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b864b91f55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eichenau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eichenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4883d8aa32",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

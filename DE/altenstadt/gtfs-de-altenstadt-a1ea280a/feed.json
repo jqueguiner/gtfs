@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altenstadt",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Altenstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c6fe87e38",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

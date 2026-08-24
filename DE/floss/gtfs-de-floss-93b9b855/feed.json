@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Floss",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Floss"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8a8b6e354",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gottenheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gottenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-05c9f6bed8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

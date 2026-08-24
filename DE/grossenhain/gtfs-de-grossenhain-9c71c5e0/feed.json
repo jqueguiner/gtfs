@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossenhain",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Grossenhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ae082695e9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

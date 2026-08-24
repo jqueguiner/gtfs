@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bergheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Bergheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-72d24616ff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

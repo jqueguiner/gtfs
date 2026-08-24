@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Westhausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Westhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4a38d002a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

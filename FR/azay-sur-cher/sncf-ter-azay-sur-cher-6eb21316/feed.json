@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Azay-sur-Cher",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Azay-sur-Cher"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5c0134d0a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hallstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hallstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7495bcd52d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

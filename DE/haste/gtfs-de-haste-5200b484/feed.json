@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Haste",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Haste"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4d97f37f73",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

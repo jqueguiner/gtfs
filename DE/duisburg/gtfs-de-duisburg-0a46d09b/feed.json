@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Duisburg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Duisburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dac7f8d35c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Travenhorst",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Travenhorst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eda5a20acd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

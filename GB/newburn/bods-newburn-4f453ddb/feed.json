@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Newburn",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Newburn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4158c6ca82",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eichstegen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Eichstegen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ca0aecfd8e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

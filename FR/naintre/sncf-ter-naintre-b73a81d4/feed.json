@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Naintre",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Naintre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-57ed1123c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Merseburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Merseburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd3f162f7d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

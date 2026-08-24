@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Spornitz",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Spornitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8c4d0b94d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

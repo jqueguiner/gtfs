@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Echirolles",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Echirolles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4ee7db8d36",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

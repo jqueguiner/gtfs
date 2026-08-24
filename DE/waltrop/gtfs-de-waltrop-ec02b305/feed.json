@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waltrop",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Waltrop"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-753c2a1f98",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

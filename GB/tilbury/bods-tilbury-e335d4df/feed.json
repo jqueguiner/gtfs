@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tilbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Tilbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ee8ec4fb7b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

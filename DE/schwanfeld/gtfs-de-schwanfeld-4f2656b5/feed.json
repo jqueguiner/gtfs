@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwanfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwanfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a694c83bbb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

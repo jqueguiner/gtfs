@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pasing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pasing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-440242c9aa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

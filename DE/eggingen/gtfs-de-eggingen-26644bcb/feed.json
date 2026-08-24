@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eggingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Eggingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-414d7937a4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pullenreuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pullenreuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7eda8708ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

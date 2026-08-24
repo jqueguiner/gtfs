@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Angouleme",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Angouleme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a9d4f53830",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

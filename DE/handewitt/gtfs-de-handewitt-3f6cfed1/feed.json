@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Handewitt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Handewitt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2e2e027d65",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

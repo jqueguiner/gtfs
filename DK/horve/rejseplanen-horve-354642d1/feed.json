@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Horve",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Horve"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-fe258cdd80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

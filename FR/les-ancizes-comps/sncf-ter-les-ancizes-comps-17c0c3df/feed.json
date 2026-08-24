@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Les Ancizes-Comps",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Les Ancizes-Comps"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-dcd200a805",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

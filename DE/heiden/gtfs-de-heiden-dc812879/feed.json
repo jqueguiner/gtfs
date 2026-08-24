@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heiden",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Heiden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-17e009ad4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

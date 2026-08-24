@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mappleton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Mappleton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d9945baf93",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

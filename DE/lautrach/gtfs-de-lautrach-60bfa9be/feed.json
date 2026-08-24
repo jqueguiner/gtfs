@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lautrach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lautrach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-89f82e891e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

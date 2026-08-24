@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weisendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weisendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13ae4f8416",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

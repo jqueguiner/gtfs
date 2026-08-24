@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Westerstede",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Westerstede"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-323a645e9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Severn Beach",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Severn Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bb7b0af2fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

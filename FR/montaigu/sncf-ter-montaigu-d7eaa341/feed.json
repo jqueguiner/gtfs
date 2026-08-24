@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Montaigu",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Montaigu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-503a6bee1e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

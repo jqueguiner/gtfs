@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rosieres-en-Santerre",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Rosieres-en-Santerre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f89ae46621",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

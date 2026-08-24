@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Poligny",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Poligny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-98a27035de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

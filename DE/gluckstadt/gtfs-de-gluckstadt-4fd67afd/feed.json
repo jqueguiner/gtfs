@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gluckstadt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Gluckstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e344bf1f7b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

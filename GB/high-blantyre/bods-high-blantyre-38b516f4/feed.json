@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — High Blantyre",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "High Blantyre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0dc1fb836b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

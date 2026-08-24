@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Adenau",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Adenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a32895f070",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pluneret",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Pluneret"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1c8ba83910",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Michelfeld",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Michelfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d3d58b0d07",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

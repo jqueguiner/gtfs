@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Zuerich (Kreis 7) / Fluntern",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Zuerich (Kreis 7) / Fluntern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-7bc4484454",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

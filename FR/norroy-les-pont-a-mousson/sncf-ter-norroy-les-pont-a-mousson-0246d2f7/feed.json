@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Norroy-les-Pont-a-Mousson",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Norroy-les-Pont-a-Mousson"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-99926933ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

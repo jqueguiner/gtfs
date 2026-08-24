@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sulzbach am Main",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sulzbach am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3251802d44",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

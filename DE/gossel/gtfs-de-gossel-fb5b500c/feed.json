@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gossel",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gossel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bbf2c7bfb3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

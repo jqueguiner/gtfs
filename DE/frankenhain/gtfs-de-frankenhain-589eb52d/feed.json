@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankenhain",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Frankenhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ef3b1c8dac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

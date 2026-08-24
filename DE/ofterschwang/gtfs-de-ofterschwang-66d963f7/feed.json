@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ofterschwang",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ofterschwang"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a03537e30d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

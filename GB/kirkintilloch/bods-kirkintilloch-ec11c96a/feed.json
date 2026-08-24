@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Kirkintilloch",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Kirkintilloch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-227189c5ed",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

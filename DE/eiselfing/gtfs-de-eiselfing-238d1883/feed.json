@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eiselfing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eiselfing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8e6ab8a379",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

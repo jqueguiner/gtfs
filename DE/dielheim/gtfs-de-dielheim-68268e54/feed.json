@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dielheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Dielheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5d08276992",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

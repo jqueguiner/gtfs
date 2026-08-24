@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vohringen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Vohringen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0edf804cab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

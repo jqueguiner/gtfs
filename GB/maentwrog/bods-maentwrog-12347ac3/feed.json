@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Maentwrog",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Maentwrog"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b2bdeca28f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

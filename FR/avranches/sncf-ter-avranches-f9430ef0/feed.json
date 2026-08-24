@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Avranches",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Avranches"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2c3f4aff25",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

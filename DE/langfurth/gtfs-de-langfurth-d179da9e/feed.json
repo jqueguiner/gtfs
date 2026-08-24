@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Langfurth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Langfurth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6dfa2d6484",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Saarlouis",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Saarlouis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f6353ff75f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

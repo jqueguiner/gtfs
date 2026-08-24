@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Needingworth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Needingworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6e16a67f7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

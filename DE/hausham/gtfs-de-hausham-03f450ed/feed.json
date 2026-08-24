@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hausham",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hausham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a795a03c71",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

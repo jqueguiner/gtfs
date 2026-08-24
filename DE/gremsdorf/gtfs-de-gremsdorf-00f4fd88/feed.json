@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gremsdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gremsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-93a1e9b5ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

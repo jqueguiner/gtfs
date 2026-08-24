@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "opentransportdata.swiss — Elgg / Staedtchen und Umgebung",
+    "country": "CH",
+    "subdivision": "Zurich",
+    "city": "Elgg / Staedtchen und Umgebung"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.geops.ch/dl/gtfs_complete.zip",
+    "mdb_id": "ch-city-7d7598cd02",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

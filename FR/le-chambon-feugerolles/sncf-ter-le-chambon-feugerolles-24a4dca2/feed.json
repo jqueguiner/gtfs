@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Chambon-Feugerolles",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Chambon-Feugerolles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4b534c2ea2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

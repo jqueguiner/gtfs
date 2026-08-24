@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Guer",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Guer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f08449b609",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

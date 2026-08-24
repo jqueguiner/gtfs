@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bischofsheim",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Bischofsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e157044af7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

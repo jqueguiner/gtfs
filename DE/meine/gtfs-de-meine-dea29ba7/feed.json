@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Meine",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Meine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2b515c0215",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

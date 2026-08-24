@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bietigheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bietigheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9cf6f851a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

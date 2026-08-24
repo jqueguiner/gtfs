@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lindlar",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Lindlar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-488f4900e0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

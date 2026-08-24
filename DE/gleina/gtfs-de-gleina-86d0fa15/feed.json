@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gleina",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Gleina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0efc2b97fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

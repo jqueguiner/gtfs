@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bayreuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bayreuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bb81697f22",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

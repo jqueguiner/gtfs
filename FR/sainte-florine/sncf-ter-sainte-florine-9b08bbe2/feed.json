@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sainte-Florine",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Sainte-Florine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f038adf567",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

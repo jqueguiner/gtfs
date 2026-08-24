@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sotteville-les-Rouen",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Sotteville-les-Rouen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2c7621edca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

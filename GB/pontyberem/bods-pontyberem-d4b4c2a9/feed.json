@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Pontyberem",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Pontyberem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-71eb5d8339",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Llandysul",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Llandysul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8ad4d0b7ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bishopthorpe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bishopthorpe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4879703c82",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

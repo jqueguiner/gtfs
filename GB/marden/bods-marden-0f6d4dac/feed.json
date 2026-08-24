@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Marden",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Marden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4152f549c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

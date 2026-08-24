@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Euerdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Euerdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7b1bc2a9a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

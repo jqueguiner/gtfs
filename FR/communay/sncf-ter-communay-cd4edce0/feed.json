@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Communay",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Communay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-453cdaab39",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

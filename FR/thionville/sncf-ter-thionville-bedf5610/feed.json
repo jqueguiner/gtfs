@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Thionville",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Thionville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1a266c2514",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

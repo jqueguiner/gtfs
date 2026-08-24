@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Reze",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Reze"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d8e0eabdff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

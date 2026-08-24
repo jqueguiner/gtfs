@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Deols",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Deols"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-58cb993959",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bridge Sollers",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bridge Sollers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-16e1998b15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

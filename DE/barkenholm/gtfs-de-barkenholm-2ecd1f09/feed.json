@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Barkenholm",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Barkenholm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c6caf90952",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

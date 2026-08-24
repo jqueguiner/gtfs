@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bettenfeld",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bettenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c6e33367bf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

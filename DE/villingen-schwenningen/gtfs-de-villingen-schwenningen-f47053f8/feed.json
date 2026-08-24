@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Villingen-Schwenningen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Villingen-Schwenningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0d44ad49d0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

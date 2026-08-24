@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Freiberg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Freiberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-122b4769c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lutzingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lutzingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6c9239096d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

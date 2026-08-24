@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Froncles",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Froncles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0a6367572a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

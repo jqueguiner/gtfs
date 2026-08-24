@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lembruch",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Lembruch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e841c86c91",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

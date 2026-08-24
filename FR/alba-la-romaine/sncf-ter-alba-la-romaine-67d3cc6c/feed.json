@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Alba-la-Romaine",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Alba-la-Romaine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d62625710a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

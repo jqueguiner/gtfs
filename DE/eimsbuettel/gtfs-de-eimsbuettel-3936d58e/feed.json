@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eimsbuettel",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Eimsbuettel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cd0687f015",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

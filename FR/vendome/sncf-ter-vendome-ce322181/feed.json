@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vendome",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Vendome"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7dc6bd041a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

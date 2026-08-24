@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bernau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bernau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41f8c42b8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

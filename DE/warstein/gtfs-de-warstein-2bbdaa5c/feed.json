@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Warstein",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Warstein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c1fa2769cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

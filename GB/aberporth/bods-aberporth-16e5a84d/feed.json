@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Aberporth",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Aberporth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-46c86e6fae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

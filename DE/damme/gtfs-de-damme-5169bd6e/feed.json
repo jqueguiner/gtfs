@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Damme",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Damme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f5baf88248",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

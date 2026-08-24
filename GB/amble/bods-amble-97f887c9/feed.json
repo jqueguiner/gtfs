@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Amble",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Amble"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-8f4cb73126",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

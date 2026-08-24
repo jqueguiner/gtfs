@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gefrees",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gefrees"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a0eab75958",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

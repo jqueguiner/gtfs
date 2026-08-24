@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ebensfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ebensfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-baa210f034",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

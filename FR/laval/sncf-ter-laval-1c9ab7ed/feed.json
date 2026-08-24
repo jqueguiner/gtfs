@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Laval",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Laval"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4c8819cec8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

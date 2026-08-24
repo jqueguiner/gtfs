@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wallgau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wallgau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0fc93a09a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

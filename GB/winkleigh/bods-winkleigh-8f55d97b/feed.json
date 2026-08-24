@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Winkleigh",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Winkleigh"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e926a81b4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

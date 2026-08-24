@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erlenmoos",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Erlenmoos"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c198d94026",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

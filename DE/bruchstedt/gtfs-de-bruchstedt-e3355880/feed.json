@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruchstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bruchstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-76c63b1d30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

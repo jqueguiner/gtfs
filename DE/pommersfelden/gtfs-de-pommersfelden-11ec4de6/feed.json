@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pommersfelden",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pommersfelden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a38eefbb7a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

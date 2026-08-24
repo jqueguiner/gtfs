@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Flogeln",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Flogeln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ffba050ca8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wangen im Allgau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Wangen im Allgau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-54b83df1e0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

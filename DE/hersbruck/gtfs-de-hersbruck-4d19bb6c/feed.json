@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hersbruck",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hersbruck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8a25b037fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

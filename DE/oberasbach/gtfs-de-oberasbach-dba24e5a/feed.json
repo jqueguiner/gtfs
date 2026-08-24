@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberasbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberasbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-71423440fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

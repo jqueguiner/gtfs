@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hoyerswerda",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Hoyerswerda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8df13d505d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

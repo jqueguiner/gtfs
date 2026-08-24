@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wirsberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wirsberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-782168c657",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

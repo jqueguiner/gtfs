@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Starnberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Starnberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6d625a6594",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

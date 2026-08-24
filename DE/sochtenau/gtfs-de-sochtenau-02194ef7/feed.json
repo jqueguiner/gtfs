@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sochtenau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sochtenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-93b475125b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

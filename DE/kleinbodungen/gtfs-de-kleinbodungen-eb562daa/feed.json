@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kleinbodungen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Kleinbodungen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5d50c758ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

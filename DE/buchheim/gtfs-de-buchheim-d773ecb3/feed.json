@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buchheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Buchheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0090f80551",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

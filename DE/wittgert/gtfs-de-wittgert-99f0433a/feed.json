@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittgert",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Wittgert"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c068d49f45",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Bourget-du-Lac",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Bourget-du-Lac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2fe11c0fae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gondelsheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gondelsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c2914b269b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

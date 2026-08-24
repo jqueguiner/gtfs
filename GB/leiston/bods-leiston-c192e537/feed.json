@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Leiston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Leiston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9a834f9b0f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

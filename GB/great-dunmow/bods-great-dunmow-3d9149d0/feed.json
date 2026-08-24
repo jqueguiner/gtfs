@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Great Dunmow",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Great Dunmow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bef909dff5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

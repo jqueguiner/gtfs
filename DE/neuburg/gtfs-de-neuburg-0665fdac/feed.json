@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuburg",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Neuburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a281651823",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

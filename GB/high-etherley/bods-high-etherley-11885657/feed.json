@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — High Etherley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "High Etherley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-66116e53e2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Quellendorf",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Quellendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9a099c87a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

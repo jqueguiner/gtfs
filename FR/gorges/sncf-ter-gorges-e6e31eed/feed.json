@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gorges",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Gorges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-143bec8f6d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

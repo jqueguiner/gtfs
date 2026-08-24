@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Labry",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Labry"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-82b83b2482",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

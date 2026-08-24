@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lutzen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Lutzen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de5c77f7ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

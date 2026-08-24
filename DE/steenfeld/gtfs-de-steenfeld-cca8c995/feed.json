@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steenfeld",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Steenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dee03ab93f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

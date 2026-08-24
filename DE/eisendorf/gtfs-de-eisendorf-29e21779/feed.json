@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eisendorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Eisendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1fcf815249",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

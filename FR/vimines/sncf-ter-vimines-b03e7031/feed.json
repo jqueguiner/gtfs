@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vimines",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Vimines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7f545ab2c7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

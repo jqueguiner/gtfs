@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schmelz",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Schmelz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ce8aa1a5fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

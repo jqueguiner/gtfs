@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Weiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-074dd68775",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

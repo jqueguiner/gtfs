@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Poulton le Fylde",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Poulton le Fylde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-becd658da0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

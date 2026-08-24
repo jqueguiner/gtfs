@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lahr",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lahr"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c81434e8cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

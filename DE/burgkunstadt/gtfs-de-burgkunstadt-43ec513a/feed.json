@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burgkunstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burgkunstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d7e5801400",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

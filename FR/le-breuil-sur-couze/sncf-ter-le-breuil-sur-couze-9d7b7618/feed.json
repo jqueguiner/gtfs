@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Breuil-sur-Couze",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Le Breuil-sur-Couze"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-950b743c17",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

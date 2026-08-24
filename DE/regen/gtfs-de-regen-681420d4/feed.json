@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Regen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Regen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a6c3cdba8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

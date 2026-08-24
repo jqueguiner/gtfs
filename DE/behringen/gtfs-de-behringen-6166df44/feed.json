@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Behringen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Behringen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-560587aff8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

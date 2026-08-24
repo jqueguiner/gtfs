@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Felm",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Felm"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-73c8bb02dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

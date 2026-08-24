@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Miltach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Miltach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-80d78d3d2d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

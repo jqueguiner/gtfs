@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Trier",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Trier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f13fcb8741",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

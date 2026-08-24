@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross Kreutz",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Gross Kreutz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e746002c8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

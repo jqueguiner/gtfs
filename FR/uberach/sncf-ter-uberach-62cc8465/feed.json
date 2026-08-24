@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Uberach",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Uberach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b5c717c46d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

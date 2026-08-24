@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hakenfelde",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Hakenfelde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-18ddc705e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

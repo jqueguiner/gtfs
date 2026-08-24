@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bruel",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Bruel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c65c532cd0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

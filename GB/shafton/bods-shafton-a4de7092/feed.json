@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Shafton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Shafton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c1bc2aa0d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Gillingham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Gillingham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d56db2ce53",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

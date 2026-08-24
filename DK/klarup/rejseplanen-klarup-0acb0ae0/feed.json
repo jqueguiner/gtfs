@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Klarup",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Klarup"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-597657dcec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

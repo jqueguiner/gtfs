@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chamalieres",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Chamalieres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-749b890e5a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

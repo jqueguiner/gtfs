@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Longchamp",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Longchamp"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-27ab179d19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

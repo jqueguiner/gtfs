@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Trelissac",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Trelissac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9fa56a1f2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

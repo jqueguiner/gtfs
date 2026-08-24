@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Rodbyhavn",
+    "country": "DK",
+    "subdivision": "Zealand",
+    "city": "Rodbyhavn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-e6df8e5814",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

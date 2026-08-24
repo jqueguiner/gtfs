@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bechstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bechstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-27d24c75c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

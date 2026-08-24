@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neustadt am Rubenberge",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Neustadt am Rubenberge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e2e7221386",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

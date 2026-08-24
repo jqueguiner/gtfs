@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sainte-Pazanne",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Sainte-Pazanne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-949a89cb6e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

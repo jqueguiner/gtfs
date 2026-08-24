@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Feuquieres",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Feuquieres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-14b9d0e323",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

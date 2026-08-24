@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schlagsdorf",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Schlagsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37c09e8ea7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mistelbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mistelbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0cd5031a1d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

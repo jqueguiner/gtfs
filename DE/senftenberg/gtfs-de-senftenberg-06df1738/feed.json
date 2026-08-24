@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Senftenberg",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Senftenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24201d1575",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Donville-les-Bains",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Donville-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-44f3ee3b42",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

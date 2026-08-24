@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dange-Saint-Romain",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Dange-Saint-Romain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-47061a781c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

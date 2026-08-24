@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Borkop",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Borkop"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-fb9fca1a02",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

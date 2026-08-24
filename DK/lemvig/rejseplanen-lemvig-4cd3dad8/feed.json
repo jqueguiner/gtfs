@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Lemvig",
+    "country": "DK",
+    "subdivision": "Central Jutland",
+    "city": "Lemvig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-640adee285",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

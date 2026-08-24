@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heede",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Heede"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3d4ca63a24",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

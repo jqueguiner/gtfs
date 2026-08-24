@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Oxted",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Oxted"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a9aa80a172",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

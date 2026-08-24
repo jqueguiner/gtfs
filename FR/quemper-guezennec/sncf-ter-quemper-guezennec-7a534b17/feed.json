@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Quemper-Guezennec",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Quemper-Guezennec"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a3858386b7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

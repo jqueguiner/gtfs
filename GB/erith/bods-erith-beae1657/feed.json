@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Erith",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Erith"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-337807b77d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

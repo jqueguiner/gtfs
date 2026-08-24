@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Coedpoeth",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Coedpoeth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-eb86c7318b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

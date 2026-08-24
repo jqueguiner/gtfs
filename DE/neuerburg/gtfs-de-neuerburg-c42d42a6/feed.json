@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuerburg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Neuerburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1c87c57088",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Essen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Essen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-733293a959",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

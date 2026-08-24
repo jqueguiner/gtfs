@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Strathblane",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Strathblane"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-21c8831bcd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

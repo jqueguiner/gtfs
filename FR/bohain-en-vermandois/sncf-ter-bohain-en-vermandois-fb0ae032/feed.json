@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bohain-en-Vermandois",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Bohain-en-Vermandois"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-99631968a5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

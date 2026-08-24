@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Datzeroth",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Datzeroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-15ee958dd7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

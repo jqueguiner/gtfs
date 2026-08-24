@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Esch",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Esch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-463d98c670",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

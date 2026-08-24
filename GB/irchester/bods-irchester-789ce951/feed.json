@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Irchester",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Irchester"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d9810d48ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

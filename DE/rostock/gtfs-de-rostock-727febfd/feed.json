@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rostock",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Rostock"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-365578d9b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

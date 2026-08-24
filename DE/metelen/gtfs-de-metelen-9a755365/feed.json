@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Metelen",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Metelen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a9f38e66cb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

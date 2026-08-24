@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sailly-Flibeaucourt",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Sailly-Flibeaucourt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-34d5c0bd81",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

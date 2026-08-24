@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Iggensbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Iggensbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-21f7c1578c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

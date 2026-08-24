@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Limoges",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Limoges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-aec0a567f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

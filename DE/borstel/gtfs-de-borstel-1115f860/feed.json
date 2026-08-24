@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Borstel",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Borstel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a84432c8b9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Anderlingen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Anderlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3ddb9773b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

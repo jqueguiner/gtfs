@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Berching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f5f0d8df40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

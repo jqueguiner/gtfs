@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosskugel",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Grosskugel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4787af6645",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

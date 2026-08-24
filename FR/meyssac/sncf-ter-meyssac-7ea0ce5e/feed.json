@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Meyssac",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Meyssac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-928335c8d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

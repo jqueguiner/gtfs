@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Densborn",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Densborn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cfe2ef1278",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

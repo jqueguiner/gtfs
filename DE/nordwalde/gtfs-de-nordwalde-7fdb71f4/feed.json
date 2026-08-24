@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nordwalde",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Nordwalde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-aff7025a31",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neussargues-Moissac",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Neussargues-Moissac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1d7b84f386",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

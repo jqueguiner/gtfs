@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Binau",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Binau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1d30aad3a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

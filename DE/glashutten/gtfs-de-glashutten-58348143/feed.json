@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glashutten",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Glashutten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-621dfdcadd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

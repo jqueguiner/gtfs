@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rechlin",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Rechlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-240a3c7f2b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

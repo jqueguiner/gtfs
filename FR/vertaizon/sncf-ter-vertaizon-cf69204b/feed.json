@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Vertaizon",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Vertaizon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bc36d0de00",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

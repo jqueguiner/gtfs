@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zulpich",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Zulpich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-64ddd9e5c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Langon",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Langon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9f20ebc44e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

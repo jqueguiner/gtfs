@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pretzier",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Pretzier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a287dbdf5e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

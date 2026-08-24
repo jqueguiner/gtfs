@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ramonville-Saint-Agne",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Ramonville-Saint-Agne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b5b9a500fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

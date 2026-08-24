@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwebheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwebheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1fa9915261",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

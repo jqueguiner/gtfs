@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Leutesdorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Leutesdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c9ebac3e31",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

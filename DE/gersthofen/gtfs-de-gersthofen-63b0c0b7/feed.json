@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gersthofen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Gersthofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ddfb058570",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

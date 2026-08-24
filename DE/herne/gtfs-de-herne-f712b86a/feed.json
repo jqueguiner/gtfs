@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Herne",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Herne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0dbea91e13",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

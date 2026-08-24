@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sandbach",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sandbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0b10e97ed3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

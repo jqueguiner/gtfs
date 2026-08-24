@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hethersett",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hethersett"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b704c4c067",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

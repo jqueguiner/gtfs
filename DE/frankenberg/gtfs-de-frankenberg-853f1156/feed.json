@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankenberg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Frankenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c888403139",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

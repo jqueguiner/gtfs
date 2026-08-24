@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Breisach am Rhein",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Breisach am Rhein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f3d43502d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

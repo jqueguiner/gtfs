@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Konigsfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Konigsfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-75281fa823",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

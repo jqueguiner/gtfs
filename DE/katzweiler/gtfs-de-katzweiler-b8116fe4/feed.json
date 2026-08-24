@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Katzweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Katzweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d9c198d46c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

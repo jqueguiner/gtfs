@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Apen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Apen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e6a291f0ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

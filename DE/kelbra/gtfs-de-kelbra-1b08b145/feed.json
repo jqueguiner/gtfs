@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kelbra",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Kelbra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8adabb090f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

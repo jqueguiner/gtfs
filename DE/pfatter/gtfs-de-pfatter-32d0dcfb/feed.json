@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfatter",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pfatter"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-78aaf4cd81",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Estenfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Estenfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eb687d2621",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

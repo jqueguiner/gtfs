@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ilford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ilford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-08e623085f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

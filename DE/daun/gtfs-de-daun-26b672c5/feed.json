@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Daun",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Daun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6856190052",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

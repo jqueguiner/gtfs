@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Briedel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Briedel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b137b9243a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

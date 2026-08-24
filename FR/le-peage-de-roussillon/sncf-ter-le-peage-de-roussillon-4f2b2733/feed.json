@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Peage-de-Roussillon",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Le Peage-de-Roussillon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8ebd23d140",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

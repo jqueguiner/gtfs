@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Valognes",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Valognes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2e5ce4924e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

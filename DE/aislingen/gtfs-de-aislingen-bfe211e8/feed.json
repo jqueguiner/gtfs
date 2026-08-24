@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aislingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aislingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-968b71e415",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

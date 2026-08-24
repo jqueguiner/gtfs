@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittislingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wittislingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37cb3e6c10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

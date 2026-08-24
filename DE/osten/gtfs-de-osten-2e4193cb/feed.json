@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Osten",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Osten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24a3552f8d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

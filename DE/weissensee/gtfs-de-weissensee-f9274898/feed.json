@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weissensee",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Weissensee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3a54e38354",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

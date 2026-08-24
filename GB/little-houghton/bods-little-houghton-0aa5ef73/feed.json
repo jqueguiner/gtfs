@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Little Houghton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Little Houghton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3a69f04652",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

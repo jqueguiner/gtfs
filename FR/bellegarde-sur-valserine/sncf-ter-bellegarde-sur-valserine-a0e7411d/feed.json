@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bellegarde-sur-Valserine",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Bellegarde-sur-Valserine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-39c8551708",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

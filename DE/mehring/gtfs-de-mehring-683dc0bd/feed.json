@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mehring",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mehring"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e24b2f74ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

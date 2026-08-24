@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tegernsee",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tegernsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b8f55b63ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

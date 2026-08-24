@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Bassee",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "La Bassee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cd92f912c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

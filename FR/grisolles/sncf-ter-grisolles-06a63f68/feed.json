@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Grisolles",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Grisolles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5be0a6b366",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

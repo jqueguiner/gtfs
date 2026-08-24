@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Muenster",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Muenster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e7ae80abc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

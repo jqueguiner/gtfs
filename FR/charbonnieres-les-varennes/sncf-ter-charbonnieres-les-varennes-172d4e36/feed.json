@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Charbonnieres-les-Varennes",
+    "country": "FR",
+    "subdivision": "Auvergne",
+    "city": "Charbonnieres-les-Varennes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5f81410d3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Maroth",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Maroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-95462e6d89",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

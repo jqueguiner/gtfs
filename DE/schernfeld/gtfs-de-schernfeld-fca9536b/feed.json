@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schernfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schernfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e1f907c24b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

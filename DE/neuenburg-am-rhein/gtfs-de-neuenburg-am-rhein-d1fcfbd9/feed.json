@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuenburg am Rhein",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Neuenburg am Rhein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fb27564578",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elleben",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Elleben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c598bd62f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

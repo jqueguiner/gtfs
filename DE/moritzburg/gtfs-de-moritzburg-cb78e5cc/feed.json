@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Moritzburg",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Moritzburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-70d80d3be8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

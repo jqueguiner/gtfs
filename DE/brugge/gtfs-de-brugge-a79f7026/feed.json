@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brugge",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Brugge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-751753ec13",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

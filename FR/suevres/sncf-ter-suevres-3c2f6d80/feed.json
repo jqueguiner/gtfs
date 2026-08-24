@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Suevres",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Suevres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ff00bd80d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

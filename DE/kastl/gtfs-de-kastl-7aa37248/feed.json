@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kastl",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kastl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5159633067",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

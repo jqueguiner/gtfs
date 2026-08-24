@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fontaines",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Fontaines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-87c973b86c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

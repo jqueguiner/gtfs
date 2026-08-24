@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zechin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Zechin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-01a4163767",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ohlsdorf",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Ohlsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bfb40b614e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

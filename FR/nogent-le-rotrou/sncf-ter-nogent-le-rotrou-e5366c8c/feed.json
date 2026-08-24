@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Nogent-le-Rotrou",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Nogent-le-Rotrou"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-710d51e6d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

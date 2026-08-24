@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pamiers",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Pamiers"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7bf9d02d18",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

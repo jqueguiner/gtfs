@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sacriston",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Sacriston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e7eb20661c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

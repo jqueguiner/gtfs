@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Boeblingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Boeblingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b110fb9edd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

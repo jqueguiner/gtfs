@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schkopau",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Schkopau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48a9fb26be",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

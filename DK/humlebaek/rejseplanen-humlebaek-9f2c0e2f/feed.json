@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Humlebaek",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Humlebaek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-c4497ac4c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

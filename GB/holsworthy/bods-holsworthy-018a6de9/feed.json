@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Holsworthy",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Holsworthy"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ec7bc4a8aa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

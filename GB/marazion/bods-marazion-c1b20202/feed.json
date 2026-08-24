@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Marazion",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Marazion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-51b99c54c9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Diez",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Diez"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-be081a1a99",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

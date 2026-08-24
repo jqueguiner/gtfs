@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ponitz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ponitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ede20ca662",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

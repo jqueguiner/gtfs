@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Annonay",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Annonay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-61f2d8e72b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

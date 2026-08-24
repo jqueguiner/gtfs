@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Jaunay-Clan",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "Jaunay-Clan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-570fe84288",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

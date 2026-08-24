@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pont-sur-Yonne",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Pont-sur-Yonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b4f088f1a8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Mold",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Mold"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b7fda9e37b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolfsburg",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wolfsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7a5351b668",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

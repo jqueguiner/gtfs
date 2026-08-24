@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neugersdorf",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Neugersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f66f0421a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

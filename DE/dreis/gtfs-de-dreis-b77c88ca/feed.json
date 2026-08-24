@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dreis",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dreis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0581df2f19",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

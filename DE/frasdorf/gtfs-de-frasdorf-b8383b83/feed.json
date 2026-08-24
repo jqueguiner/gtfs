@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frasdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Frasdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2ee253ded6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dingen",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Dingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bdf4969f72",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

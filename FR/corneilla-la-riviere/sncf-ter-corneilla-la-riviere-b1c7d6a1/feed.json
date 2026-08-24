@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Corneilla-la-Riviere",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Corneilla-la-Riviere"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bf2a487dd8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

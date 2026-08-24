@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Thaon-les-Vosges",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Thaon-les-Vosges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1bae0c6774",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

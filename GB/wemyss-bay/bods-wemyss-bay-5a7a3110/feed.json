@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wemyss Bay",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Wemyss Bay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7e18890175",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

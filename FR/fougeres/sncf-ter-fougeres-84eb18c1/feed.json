@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fougeres",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Fougeres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6fcfbc2c47",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

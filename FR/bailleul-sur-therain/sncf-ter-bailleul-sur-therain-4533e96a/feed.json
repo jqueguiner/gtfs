@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bailleul-sur-Therain",
+    "country": "FR",
+    "subdivision": "Picardie",
+    "city": "Bailleul-sur-Therain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-41a5ee39d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

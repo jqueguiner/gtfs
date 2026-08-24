@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chanas",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Chanas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-933535c216",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

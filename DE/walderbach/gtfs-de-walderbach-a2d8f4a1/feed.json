@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Walderbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Walderbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe7b8029b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

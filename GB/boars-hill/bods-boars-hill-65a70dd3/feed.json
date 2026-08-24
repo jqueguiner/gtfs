@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Boars Hill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Boars Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0195dbe705",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

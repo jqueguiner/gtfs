@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Charolles",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Charolles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-080e874d1e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gomadingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gomadingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3754e53426",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

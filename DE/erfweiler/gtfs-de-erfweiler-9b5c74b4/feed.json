@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erfweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Erfweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-16dddf8eab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

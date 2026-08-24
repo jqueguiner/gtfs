@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weimar",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Weimar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-779abe3ef0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

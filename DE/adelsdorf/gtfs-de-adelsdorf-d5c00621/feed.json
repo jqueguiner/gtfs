@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Adelsdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Adelsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-381a6a1694",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

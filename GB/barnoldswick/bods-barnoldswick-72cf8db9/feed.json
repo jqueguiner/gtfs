@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Barnoldswick",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Barnoldswick"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-488b0061fa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

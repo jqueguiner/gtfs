@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heidenheim an der Brenz",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Heidenheim an der Brenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f5f1464e3e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Aichen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Aichen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-43e1560b82",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

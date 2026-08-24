@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sarlat-la-Caneda",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Sarlat-la-Caneda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-86ef71ea18",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

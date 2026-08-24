@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tiergarten Bezirk",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Tiergarten Bezirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-df7e91d662",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

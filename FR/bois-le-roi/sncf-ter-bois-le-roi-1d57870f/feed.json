@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bois-le-Roi",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Bois-le-Roi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-aca07078de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

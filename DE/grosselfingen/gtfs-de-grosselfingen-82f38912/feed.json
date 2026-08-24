@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosselfingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grosselfingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c1f6eb39a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

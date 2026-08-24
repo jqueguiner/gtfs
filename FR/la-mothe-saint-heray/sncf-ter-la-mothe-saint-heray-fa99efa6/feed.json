@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Mothe-Saint-Heray",
+    "country": "FR",
+    "subdivision": "Poitou-Charentes",
+    "city": "La Mothe-Saint-Heray"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-273d32c7a3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

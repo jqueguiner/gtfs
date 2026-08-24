@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dieterode",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Dieterode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5414171f9e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Matzenheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Matzenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6dfc088f49",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wachau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Wachau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-78ae5e334f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

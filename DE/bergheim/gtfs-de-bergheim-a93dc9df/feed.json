@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bergheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bergheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc1c8c6c64",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

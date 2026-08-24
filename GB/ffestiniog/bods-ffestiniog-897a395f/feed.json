@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ffestiniog",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Ffestiniog"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-09d61f770e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

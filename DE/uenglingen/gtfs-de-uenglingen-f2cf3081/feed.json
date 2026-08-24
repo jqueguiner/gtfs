@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Uenglingen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Uenglingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-460c8f047f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

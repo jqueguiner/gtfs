@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Garstang",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Garstang"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-3adc6627a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

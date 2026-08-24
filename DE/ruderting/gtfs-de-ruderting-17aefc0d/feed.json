@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ruderting",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ruderting"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-32e8df6295",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

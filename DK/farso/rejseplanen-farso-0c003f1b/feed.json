@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Farso",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Farso"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-8600755778",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

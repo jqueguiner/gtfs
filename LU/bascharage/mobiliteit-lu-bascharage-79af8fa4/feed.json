@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mobiliteit.lu — Bascharage",
+    "country": "LU",
+    "subdivision": "Luxembourg",
+    "city": "Bascharage"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip",
+    "mdb_id": "lu-city-4a6a7d002a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Salbris",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Salbris"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-0dd83fd720",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

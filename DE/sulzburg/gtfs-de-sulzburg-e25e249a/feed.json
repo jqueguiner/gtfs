@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sulzburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Sulzburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-01c29959ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

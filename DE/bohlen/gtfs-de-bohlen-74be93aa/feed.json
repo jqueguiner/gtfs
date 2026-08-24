@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bohlen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bohlen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d43f953bc4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

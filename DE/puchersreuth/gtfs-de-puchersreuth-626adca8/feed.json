@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Puchersreuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Puchersreuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f2849642b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

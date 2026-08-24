@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwetzingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schwetzingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f9490852ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

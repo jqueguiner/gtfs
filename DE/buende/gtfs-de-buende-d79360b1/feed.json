@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buende",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Buende"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c0c042321a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

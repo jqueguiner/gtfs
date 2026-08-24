@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kulmbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kulmbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1d4557dcbf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

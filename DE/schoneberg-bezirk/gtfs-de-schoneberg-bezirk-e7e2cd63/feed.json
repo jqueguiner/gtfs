@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schoneberg Bezirk",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Schoneberg Bezirk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ac15a155b0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

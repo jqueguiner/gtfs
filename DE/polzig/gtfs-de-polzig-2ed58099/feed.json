@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Polzig",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Polzig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3c8b321519",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

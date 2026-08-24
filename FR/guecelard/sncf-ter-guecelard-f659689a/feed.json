@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Guecelard",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "Guecelard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-90b6081889",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Calcot",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Calcot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4b97019e46",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

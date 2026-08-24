@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ensdorf",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Ensdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b1888e115b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Brixton Hill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Brixton Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4bcb67f9a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

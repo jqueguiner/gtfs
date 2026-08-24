@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mauerstetten",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mauerstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4bded32fbd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

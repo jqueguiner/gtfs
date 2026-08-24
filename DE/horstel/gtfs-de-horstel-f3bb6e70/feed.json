@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Horstel",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Horstel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-19082e7b97",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

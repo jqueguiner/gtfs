@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Menitre",
+    "country": "FR",
+    "subdivision": "Pays de la Loire",
+    "city": "La Menitre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-586ab78fb3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

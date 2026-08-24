@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossobringen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Grossobringen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a53b669be6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

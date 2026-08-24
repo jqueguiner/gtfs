@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Regensburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Regensburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a3c90243d7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

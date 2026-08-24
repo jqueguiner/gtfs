@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bettancourt-la-Ferree",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Bettancourt-la-Ferree"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7a3c44dc40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

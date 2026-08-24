@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Averlak",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Averlak"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f5b469ac1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

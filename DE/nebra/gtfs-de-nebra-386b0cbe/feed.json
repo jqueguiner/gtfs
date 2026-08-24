@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nebra",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Nebra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f653f72b66",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

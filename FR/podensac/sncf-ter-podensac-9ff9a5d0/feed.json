@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Podensac",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Podensac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-cb802ce75d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

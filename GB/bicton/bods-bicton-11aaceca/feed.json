@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bicton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bicton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-9b31d2f2c5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

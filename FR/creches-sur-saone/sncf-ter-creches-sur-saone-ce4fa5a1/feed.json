@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Creches-sur-Saone",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Creches-sur-Saone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-95a19b4346",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

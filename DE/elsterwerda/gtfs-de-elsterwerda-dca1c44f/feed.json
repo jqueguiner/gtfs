@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elsterwerda",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Elsterwerda"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e95bd058bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

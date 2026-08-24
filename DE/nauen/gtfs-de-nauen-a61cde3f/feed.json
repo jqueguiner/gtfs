@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Nauen",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Nauen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e36fdd89a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

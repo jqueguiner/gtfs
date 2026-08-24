@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Saeby",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Saeby"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-2ebff95a4f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Buchdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Buchdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-56a0f8c981",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

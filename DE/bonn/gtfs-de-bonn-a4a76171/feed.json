@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bonn",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bonn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a74c47cdbc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

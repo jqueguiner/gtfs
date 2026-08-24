@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Barth",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Barth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-edbf3f259b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

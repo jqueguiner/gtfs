@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Engelsberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Engelsberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fcdc33089a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

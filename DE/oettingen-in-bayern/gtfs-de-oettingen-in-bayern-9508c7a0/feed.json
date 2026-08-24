@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oettingen in Bayern",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oettingen in Bayern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45b9c37798",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

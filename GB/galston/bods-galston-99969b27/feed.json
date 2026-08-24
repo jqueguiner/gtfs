@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Galston",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Galston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-5c74db280c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

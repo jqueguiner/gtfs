@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Vojens",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Vojens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-b8f3fca26c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

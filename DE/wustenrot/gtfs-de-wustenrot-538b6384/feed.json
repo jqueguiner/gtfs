@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wustenrot",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Wustenrot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0e38b95fa5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

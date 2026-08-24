@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Faaborg",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Faaborg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-8f4a03f750",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

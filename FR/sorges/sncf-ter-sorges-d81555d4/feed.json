@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sorges",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Sorges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e283011872",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

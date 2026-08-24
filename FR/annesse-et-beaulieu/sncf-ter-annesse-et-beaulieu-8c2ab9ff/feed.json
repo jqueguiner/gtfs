@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Annesse-et-Beaulieu",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Annesse-et-Beaulieu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6299091f18",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

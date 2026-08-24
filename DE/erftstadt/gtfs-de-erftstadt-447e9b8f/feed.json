@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Erftstadt",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Erftstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d402df2cd7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

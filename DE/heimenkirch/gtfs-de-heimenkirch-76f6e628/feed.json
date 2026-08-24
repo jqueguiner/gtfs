@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heimenkirch",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Heimenkirch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a5096e9d2d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

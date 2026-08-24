@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lorch",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Lorch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-886a69cfff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

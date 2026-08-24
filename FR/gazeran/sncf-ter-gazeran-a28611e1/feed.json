@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gazeran",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Gazeran"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a1aec2f6ce",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

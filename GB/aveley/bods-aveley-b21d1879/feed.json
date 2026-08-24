@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Aveley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Aveley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-18967d8f54",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

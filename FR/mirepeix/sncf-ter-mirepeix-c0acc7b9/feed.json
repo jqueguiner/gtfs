@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mirepeix",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Mirepeix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c297ee39fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ichtershausen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Ichtershausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-20e0dbd633",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

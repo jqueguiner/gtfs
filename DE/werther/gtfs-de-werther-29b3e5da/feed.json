@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Werther",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Werther"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4c969969d2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

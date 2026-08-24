@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grebenhain",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Grebenhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4b8dc6d095",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

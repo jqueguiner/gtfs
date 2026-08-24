@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stockach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Stockach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-75c7b2cc7f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

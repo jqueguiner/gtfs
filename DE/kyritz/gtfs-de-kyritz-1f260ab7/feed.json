@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kyritz",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Kyritz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4945077e74",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

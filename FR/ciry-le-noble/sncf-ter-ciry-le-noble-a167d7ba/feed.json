@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Ciry-le-Noble",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Ciry-le-Noble"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ad1003943a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

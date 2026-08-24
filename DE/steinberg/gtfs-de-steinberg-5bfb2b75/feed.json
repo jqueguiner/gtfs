@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steinberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Steinberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-954af08f8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

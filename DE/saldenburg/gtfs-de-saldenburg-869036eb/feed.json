@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Saldenburg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Saldenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5163f50c26",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

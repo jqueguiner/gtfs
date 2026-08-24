@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Falkland",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Falkland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-dd7d2c5692",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

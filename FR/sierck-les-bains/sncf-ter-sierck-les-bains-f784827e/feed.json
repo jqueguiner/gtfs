@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Sierck-les-Bains",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Sierck-les-Bains"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-662faf7fc8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Lamonzie-Saint-Martin",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Lamonzie-Saint-Martin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6c094dacce",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

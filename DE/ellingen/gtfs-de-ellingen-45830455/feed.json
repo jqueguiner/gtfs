@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ellingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ellingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-48818800b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossmonra",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Grossmonra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fcaa8106bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

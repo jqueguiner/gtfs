@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Plaue",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Plaue"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-87a67515f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

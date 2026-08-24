@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfaffing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pfaffing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b0d236af80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

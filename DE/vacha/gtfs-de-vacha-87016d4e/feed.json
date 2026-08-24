@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vacha",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Vacha"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dcb13e6ff0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

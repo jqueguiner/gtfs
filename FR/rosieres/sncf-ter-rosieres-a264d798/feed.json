@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rosieres",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Rosieres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-8a5afe9079",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

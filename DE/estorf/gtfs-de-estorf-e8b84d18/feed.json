@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Estorf",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Estorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f351eb4d3a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

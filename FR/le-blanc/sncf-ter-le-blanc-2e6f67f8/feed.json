@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Le Blanc",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Le Blanc"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f9ed520abc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

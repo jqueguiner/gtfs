@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mereau",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Mereau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-32d12ae491",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

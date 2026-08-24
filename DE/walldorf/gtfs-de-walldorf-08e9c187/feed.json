@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Walldorf",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Walldorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-437425c21b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

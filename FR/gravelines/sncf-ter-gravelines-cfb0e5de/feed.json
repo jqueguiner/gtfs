@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Gravelines",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Gravelines"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7dc79bbe6d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

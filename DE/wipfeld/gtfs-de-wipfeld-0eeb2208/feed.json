@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wipfeld",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wipfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-eff8a80062",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

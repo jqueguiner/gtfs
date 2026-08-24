@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Saalfeld",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Saalfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-419541fd1c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

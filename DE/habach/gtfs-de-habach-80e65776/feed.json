@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Habach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Habach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd7d88b3d8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

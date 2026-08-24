@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Champs-sur-Yonne",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Champs-sur-Yonne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7f10a69955",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

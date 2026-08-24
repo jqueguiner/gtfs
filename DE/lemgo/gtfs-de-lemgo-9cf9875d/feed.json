@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lemgo",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Lemgo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-51190c9d80",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

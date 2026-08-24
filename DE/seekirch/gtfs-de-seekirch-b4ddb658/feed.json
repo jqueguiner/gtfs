@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Seekirch",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Seekirch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-581f6b0080",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

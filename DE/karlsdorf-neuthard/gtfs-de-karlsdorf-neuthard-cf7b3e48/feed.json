@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Karlsdorf-Neuthard",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Karlsdorf-Neuthard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f4c9ab87cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

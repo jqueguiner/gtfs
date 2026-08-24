@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reinsdorf",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Reinsdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-841c425782",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

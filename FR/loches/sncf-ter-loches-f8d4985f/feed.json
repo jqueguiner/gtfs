@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Loches",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Loches"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-525984db29",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

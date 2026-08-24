@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kist",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kist"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-78cde844d2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

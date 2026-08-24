@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Long Melford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Long Melford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-360715cfcf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

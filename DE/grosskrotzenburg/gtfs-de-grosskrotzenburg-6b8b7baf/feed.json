@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosskrotzenburg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Grosskrotzenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-00b3ef8e5c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

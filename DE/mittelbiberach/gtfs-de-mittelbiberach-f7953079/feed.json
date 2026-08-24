@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mittelbiberach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Mittelbiberach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af46ce14db",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

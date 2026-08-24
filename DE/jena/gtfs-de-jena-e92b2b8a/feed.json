@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jena",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Jena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ee24a82ff7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

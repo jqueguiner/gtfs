@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Billerbeck",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Billerbeck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f7e8cb50ac",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

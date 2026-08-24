@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Aiserey",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Aiserey"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-49789dd17e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

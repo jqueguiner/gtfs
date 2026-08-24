@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Serezin-du-Rhone",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Serezin-du-Rhone"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6bd84c8a86",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

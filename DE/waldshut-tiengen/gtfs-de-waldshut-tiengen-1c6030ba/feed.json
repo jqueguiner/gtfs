@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Waldshut-Tiengen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Waldshut-Tiengen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8103e5b6ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

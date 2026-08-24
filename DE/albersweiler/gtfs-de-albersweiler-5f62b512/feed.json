@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Albersweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Albersweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a9da723348",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

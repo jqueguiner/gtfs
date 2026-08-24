@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Roulans",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Roulans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-177bdc5baa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Beaumont-de-Lomagne",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Beaumont-de-Lomagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e391ac7f4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

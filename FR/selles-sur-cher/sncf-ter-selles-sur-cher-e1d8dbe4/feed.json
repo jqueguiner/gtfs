@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Selles-sur-Cher",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Selles-sur-Cher"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5d7c66669e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Tyberton",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Tyberton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-127dfc1a9d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

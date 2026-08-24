@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Famars",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Famars"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-fabeab60e3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

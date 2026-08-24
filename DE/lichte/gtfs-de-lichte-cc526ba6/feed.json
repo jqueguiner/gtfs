@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lichte",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Lichte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d5a66699e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

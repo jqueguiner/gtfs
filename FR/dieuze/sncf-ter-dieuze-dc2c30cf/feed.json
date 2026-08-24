@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dieuze",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Dieuze"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d83c1cc054",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

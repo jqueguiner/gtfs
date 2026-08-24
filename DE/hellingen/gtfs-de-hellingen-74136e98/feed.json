@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hellingen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Hellingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fd17349d64",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Paderborn",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Paderborn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8d5f17f65b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

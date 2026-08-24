@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Harrow on the Hill",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Harrow on the Hill"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d06bb968ea",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

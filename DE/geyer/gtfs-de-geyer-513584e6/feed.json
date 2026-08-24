@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geyer",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Geyer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-389b434c3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

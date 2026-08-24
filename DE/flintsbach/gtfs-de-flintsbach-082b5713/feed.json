@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Flintsbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Flintsbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cae18fbb32",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Belau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Belau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2dffd38a9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

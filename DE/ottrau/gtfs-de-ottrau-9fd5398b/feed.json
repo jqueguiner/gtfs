@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ottrau",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Ottrau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-71200f021b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Denkendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Denkendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b0796c554",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Dourdan",
+    "country": "FR",
+    "subdivision": "Ile-de-France",
+    "city": "Dourdan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-626d2226ce",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

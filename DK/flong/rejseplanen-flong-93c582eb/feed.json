@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Flong",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Flong"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-0db42fe6c0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

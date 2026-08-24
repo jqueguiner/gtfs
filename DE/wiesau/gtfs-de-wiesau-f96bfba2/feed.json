@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiesau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wiesau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e4b07af92c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eibelstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eibelstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b4e75b8101",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

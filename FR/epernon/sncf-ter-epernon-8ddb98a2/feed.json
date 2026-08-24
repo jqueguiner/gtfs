@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Epernon",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Epernon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-18e13070b3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

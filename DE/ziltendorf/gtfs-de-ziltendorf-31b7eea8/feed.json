@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ziltendorf",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Ziltendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3b41c0d02c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

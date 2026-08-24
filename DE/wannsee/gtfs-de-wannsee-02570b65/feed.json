@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wannsee",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Wannsee"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b297e191e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

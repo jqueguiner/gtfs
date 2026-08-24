@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Xanten",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Xanten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1084c29277",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

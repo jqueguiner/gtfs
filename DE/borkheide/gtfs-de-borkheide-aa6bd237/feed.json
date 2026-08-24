@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Borkheide",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Borkheide"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-192fd903e1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

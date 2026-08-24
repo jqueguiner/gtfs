@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — South Bank",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "South Bank"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c0db03b2e1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

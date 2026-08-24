@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Plouagat",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Plouagat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-47e68f77bc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

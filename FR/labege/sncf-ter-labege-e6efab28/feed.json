@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Labege",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Labege"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a64a390e0b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Veyras",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Veyras"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-7ac3bb7bd2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

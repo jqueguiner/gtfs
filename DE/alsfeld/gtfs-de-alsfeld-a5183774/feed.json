@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Alsfeld",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Alsfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2e7bac33e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

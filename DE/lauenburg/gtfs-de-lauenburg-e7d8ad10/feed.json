@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lauenburg",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Lauenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9274d101c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

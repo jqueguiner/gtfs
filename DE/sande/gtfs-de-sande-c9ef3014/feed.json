@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sande",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Sande"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-601a272263",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

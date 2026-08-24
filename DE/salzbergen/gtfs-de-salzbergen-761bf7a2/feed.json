@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Salzbergen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Salzbergen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e4396f29eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

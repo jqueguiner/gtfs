@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Reckendorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Reckendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d67832b980",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

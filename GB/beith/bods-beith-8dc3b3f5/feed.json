@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Beith",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Beith"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f4d2d5f429",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

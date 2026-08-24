@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weilmunster",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Weilmunster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ab5e7d3c6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

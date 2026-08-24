@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kehl",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Kehl"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dbfc9e7b5b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

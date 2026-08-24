@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Butthard",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Butthard"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b70fd329dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

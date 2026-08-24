@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Leslie",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Leslie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-30e8cece67",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

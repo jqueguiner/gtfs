@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schillingsfurst",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schillingsfurst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1eeafd1319",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

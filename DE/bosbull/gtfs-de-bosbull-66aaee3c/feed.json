@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bosbull",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bosbull"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-50dfd46203",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friesenheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Friesenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bc4536b5d1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

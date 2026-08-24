@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Luckington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Luckington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-f20ed12d2c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

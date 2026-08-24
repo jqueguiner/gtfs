@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Horrabridge",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Horrabridge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-754844f1ef",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

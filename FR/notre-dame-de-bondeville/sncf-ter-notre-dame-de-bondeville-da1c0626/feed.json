@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Notre-Dame-de-Bondeville",
+    "country": "FR",
+    "subdivision": "Haute-Normandie",
+    "city": "Notre-Dame-de-Bondeville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1eacf55b0e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

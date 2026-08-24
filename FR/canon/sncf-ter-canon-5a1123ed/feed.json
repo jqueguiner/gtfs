@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Canon",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Canon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-eb3fc7c5fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

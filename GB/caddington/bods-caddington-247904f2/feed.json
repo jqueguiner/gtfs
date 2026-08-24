@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Caddington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Caddington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c7d6838b7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

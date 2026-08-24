@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Lauder",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Lauder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c4b4b2d060",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

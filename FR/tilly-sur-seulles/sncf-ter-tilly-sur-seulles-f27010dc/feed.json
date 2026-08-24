@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Tilly-sur-Seulles",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Tilly-sur-Seulles"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2ed07a620c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

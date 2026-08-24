@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Grandris",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Grandris"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ef9fa6d70f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

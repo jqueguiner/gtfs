@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rodelmaier",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Rodelmaier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-51b7fc0998",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

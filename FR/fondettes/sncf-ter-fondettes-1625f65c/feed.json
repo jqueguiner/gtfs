@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Fondettes",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Fondettes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9b64643617",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

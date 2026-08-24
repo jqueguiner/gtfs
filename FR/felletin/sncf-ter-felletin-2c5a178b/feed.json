@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Felletin",
+    "country": "FR",
+    "subdivision": "Limousin",
+    "city": "Felletin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-d85cd20054",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

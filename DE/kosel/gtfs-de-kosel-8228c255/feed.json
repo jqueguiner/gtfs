@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kosel",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Kosel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d3714f3c3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

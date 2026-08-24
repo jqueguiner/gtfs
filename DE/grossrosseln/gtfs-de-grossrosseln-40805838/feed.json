@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossrosseln",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Grossrosseln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-58ca4249fe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

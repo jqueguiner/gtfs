@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Belrieth",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Belrieth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5d01c90c52",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

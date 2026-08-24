@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Niva",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Niva"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-52971c004b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

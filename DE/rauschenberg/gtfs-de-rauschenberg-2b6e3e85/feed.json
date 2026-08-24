@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rauschenberg",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Rauschenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e523a6933c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

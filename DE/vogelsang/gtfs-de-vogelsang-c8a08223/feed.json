@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vogelsang",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Vogelsang"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-49faeed47b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sinzing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sinzing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-16e5b73061",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Nettleham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Nettleham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-6ec6edee36",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

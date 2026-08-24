@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Suippes",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Suippes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e4e68ee8d6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

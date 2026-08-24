@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Billy-Montigny",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Billy-Montigny"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f9cbe4a4d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Elster",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Elster"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0df01f82bb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

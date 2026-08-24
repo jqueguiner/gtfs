@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Unterdiessen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Unterdiessen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-21b2b398e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

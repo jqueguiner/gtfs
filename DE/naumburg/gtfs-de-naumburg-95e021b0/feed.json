@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Naumburg",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Naumburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af8abcf2fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

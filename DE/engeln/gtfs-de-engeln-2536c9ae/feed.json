@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Engeln",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Engeln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-904a64b5db",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

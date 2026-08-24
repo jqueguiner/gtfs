@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Harsewinkel",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Harsewinkel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fedc57dabb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

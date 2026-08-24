@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hemmingstedt",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Hemmingstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e50fc443a9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

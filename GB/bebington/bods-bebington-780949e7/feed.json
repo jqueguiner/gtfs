@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bebington",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bebington"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-a71114a6be",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Whitley Bay",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Whitley Bay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c6128f4586",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

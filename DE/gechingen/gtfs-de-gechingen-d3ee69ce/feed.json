@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gechingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gechingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-51410cbba8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

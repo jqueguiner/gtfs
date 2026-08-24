@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Neuvic",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Neuvic"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-94b1e2063f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

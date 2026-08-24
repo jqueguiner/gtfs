@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pont-Saint-Esprit",
+    "country": "FR",
+    "subdivision": "Languedoc-Roussillon",
+    "city": "Pont-Saint-Esprit"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5e4e9e09cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

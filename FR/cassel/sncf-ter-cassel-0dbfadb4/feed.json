@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Cassel",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Cassel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e0d3e26fc3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

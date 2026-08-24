@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederkruchten",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Niederkruchten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd605f1fc0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

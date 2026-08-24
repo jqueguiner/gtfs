@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Seisla",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Seisla"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c179bab0c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

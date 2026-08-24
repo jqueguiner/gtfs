@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neumagen-Dhron",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Neumagen-Dhron"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b432d7a37e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

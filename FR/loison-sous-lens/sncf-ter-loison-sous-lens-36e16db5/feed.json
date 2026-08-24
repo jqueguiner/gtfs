@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Loison-sous-Lens",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Loison-sous-Lens"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-4eafaf82dc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

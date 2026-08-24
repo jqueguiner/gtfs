@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Leimbach",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Leimbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-999fed0059",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

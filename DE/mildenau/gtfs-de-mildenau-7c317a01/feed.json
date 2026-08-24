@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mildenau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Mildenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dd41737225",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

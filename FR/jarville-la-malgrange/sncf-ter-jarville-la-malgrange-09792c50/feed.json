@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Jarville-la-Malgrange",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Jarville-la-Malgrange"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ac56698140",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

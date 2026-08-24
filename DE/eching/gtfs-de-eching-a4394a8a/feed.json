@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Eching",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Eching"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e79170e4b2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

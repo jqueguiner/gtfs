@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Padborg",
+    "country": "DK",
+    "subdivision": "South Denmark",
+    "city": "Padborg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-036d47d7fb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

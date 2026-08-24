@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wippra",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Wippra"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a2feb9cc9f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

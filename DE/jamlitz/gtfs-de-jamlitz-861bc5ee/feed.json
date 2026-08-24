@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jamlitz",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Jamlitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c7502cf874",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Beeskow",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Beeskow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-344fd87c61",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

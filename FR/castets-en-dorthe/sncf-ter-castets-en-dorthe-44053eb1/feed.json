@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Castets-en-Dorthe",
+    "country": "FR",
+    "subdivision": "Aquitaine",
+    "city": "Castets-en-Dorthe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-14118440f0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

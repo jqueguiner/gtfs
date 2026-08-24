@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Knottingley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Knottingley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b40b45ba1e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

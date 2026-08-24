@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Charnay-les-Macon",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Charnay-les-Macon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a74d7ce4a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

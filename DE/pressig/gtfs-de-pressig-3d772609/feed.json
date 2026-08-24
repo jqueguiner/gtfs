@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pressig",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Pressig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b317651ced",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

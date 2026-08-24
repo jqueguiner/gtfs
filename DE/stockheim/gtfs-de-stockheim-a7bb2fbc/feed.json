@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stockheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Stockheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b71478ce57",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

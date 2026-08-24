@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ostbevern",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ostbevern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-115e34da1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

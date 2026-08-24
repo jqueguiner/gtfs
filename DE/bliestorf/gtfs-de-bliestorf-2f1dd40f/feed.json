@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bliestorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Bliestorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-322ce523a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

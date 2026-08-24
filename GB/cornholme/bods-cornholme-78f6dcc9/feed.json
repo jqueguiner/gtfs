@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Cornholme",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Cornholme"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-2a3a4831ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

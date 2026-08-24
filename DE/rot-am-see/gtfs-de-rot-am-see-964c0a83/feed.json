@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rot am See",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Rot am See"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bd68590329",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

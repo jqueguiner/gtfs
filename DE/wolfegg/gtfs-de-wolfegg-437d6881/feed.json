@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolfegg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Wolfegg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cdf6e167d5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dornstetten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Dornstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c0340afeda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

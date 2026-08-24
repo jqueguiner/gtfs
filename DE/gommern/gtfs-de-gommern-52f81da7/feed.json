@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gommern",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Gommern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bebcfc0206",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Norbury",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Norbury"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b2201fecc2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

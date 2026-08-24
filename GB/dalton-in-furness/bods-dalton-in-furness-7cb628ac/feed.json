@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dalton in Furness",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Dalton in Furness"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-511d6023da",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

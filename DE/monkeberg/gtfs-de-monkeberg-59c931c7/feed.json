@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Monkeberg",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Monkeberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8ffa8993f2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Didcot",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Didcot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-4021becd3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

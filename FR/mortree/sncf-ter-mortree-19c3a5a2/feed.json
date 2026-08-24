@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mortree",
+    "country": "FR",
+    "subdivision": "Lower Normandy",
+    "city": "Mortree"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-14b527e0e4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

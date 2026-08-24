@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kuhlenthal",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kuhlenthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cd147c755d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

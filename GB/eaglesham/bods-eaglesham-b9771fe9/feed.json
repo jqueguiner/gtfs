@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Eaglesham",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Eaglesham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b2db1f427a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

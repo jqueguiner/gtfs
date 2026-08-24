@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Carpin",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Carpin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8d85453e16",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

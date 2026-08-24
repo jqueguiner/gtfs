@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Arc-et-Senans",
+    "country": "FR",
+    "subdivision": "Franche-Comte",
+    "city": "Arc-et-Senans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-71b74579d9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

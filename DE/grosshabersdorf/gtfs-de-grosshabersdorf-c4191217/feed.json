@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosshabersdorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grosshabersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3d5ba6641",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

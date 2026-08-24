@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oldenhutten",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Oldenhutten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5d56e53111",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

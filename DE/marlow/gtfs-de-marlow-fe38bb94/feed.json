@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Marlow",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Marlow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-81a53cd802",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Rosult",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Rosult"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-f467848ed0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kiedrich",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Kiedrich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fb45bc18ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

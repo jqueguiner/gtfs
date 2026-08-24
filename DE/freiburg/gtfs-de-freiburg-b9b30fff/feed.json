@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Freiburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Freiburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4a4ab43d4a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

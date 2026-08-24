@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lotte",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Lotte"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a57929000c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

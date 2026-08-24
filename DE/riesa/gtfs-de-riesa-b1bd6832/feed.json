@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Riesa",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Riesa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1f66c90b3f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

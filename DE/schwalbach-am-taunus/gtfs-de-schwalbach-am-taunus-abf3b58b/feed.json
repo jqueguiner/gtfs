@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwalbach am Taunus",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Schwalbach am Taunus"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ec7ac7323a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sasel",
+    "country": "DE",
+    "subdivision": "Hamburg",
+    "city": "Sasel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-445f80153c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

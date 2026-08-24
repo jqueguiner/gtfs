@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rinteln",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Rinteln"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-21f3816f58",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

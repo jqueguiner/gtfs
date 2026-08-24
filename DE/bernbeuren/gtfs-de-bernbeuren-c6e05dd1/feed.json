@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bernbeuren",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bernbeuren"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e11b980579",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

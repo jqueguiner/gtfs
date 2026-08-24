@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Taching am See",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Taching am See"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7b1436fd3d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

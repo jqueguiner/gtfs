@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heidenau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Heidenau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fa1015301e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

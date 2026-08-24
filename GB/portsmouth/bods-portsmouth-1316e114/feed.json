@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Portsmouth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Portsmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-90ae6d9c4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

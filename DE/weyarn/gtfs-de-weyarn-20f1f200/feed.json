@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weyarn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Weyarn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-99c14d4204",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

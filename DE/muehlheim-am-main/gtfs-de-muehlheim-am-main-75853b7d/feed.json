@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Muehlheim am Main",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Muehlheim am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b03fb41e96",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

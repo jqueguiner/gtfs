@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Castelsarrasin",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Castelsarrasin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-1628ed5319",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

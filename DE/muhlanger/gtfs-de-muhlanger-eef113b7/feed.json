@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Muhlanger",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Muhlanger"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ede24ddbe1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

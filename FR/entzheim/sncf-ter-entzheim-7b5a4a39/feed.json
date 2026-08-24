@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Entzheim",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Entzheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-ac6366dd85",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

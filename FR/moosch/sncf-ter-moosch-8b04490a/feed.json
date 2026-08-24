@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Moosch",
+    "country": "FR",
+    "subdivision": "Alsace",
+    "city": "Moosch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6d8a6caabc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

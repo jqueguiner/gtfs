@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Roubaix",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Roubaix"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-89ba7c343a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

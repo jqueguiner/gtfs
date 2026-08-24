@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Sanquhar",
+    "country": "GB",
+    "subdivision": "Scotland",
+    "city": "Sanquhar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-c8fbaceabd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bottrop",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Bottrop"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b3a81f041b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

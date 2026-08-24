@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Frankenheim",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Frankenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-29bd28ebc5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Hvidovre",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Hvidovre"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-12ac00df7c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

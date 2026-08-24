@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Chenimenil",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Chenimenil"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-a28ccfa08c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

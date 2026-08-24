@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Otterfing",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Otterfing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-95080f9a93",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

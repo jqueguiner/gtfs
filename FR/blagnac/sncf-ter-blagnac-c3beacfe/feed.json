@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Blagnac",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Blagnac"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-5389fca2c2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

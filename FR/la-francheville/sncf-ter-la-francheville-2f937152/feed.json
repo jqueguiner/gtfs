@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — La Francheville",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "La Francheville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9f0da9f3ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

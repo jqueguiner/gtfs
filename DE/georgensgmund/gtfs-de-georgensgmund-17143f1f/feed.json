@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Georgensgmund",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Georgensgmund"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1eda5498ba",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

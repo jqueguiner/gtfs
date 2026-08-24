@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Berg im Gau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Berg im Gau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f71d42ce5f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

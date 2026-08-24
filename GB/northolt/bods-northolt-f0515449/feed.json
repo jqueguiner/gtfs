@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Northolt",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Northolt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-1c9aab1afe",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

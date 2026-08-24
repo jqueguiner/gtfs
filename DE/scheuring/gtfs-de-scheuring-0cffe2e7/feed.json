@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Scheuring",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Scheuring"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1cc6ed120e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

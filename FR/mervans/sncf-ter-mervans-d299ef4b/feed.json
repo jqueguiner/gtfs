@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mervans",
+    "country": "FR",
+    "subdivision": "Bourgogne",
+    "city": "Mervans"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-92ca79a239",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Coise-Saint-Jean-Pied-Gauthier",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Coise-Saint-Jean-Pied-Gauthier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-93d77e6764",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

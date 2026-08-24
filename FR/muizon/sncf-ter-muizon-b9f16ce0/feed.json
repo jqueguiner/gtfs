@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Muizon",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Muizon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-6e2ef49b7a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

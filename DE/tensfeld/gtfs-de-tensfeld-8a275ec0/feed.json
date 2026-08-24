@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tensfeld",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Tensfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-761cba3f93",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

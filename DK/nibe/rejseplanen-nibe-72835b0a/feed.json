@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Nibe",
+    "country": "DK",
+    "subdivision": "North Denmark",
+    "city": "Nibe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-c57126102a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neustadt am Main",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Neustadt am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-256f82390d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pleudaniel",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Pleudaniel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-9391c08528",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

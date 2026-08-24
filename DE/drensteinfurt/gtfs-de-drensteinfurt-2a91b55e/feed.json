@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Drensteinfurt",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Drensteinfurt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-31198c8580",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

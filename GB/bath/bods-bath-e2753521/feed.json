@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Bath",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Bath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-7d7c140931",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

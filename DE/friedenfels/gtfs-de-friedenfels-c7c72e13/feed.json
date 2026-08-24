@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Friedenfels",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Friedenfels"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-36191c5812",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

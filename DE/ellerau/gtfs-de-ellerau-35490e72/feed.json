@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ellerau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Ellerau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-11eca0f071",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

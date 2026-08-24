@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Altensteig",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Altensteig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-646ac7105c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

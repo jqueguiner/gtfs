@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bodenkirchen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Bodenkirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c5b9941127",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

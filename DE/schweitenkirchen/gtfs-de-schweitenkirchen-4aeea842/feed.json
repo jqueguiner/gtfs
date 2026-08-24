@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schweitenkirchen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schweitenkirchen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7be5100af0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

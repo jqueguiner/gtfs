@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Rejseplanen — Stavnsholt",
+    "country": "DK",
+    "subdivision": "Capital Region",
+    "city": "Stavnsholt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.rejseplanen.info/labs/GTFS.zip",
+    "mdb_id": "dk-city-f2aa361050",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

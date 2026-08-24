@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Dartmouth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Dartmouth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-43b15ce7a5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

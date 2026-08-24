@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Dambach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Dambach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-309c74033c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

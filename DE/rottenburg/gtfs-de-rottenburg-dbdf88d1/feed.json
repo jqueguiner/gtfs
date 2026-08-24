@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rottenburg",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Rottenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5c9de1b106",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

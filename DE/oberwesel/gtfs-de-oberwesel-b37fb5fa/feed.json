@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberwesel",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oberwesel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e3eb5d7a52",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

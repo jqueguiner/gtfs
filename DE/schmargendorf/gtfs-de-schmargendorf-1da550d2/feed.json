@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schmargendorf",
+    "country": "DE",
+    "subdivision": "Berlin",
+    "city": "Schmargendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c46b0b794d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

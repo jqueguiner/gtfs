@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Heubach",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Heubach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-784d58385a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

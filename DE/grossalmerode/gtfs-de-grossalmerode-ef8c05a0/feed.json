@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossalmerode",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Grossalmerode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3dbe760cfa",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

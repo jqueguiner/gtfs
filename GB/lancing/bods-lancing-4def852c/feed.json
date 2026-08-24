@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Lancing",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Lancing"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-297a179542",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

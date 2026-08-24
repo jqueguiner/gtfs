@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rambin",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Rambin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fe316beccd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

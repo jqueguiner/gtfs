@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Brilon",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Brilon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3ad7521f51",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

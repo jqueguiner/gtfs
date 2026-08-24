@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ostrau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Ostrau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5e4b593829",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bernau bei Berlin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Bernau bei Berlin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ab13c7a83f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

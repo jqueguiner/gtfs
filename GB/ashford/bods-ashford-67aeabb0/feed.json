@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Ashford",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Ashford"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-b784059a83",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

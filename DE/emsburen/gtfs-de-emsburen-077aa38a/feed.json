@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Emsburen",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Emsburen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-35fb5a288f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

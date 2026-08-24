@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lich",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Lich"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a2bf3770cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

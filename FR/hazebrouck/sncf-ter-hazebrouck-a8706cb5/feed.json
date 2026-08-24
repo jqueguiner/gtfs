@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Hazebrouck",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Hazebrouck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-e0406cfd32",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

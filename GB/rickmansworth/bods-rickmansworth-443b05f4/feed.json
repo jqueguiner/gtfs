@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Rickmansworth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Rickmansworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-e14de81c1b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

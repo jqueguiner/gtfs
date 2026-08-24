@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Darfield",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Darfield"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-01fb91fc40",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

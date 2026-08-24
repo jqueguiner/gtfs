@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Windlesham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Windlesham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bd17972c4c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

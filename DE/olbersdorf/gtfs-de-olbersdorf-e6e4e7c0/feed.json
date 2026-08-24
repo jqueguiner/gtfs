@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Olbersdorf",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Olbersdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d0ec2159c1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

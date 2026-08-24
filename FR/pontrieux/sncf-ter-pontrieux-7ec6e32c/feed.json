@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Pontrieux",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Pontrieux"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-bd8d9517f7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bourges",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Bourges"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-863a54b0a2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

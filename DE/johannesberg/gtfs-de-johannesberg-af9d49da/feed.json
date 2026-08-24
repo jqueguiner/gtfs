@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Johannesberg",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Johannesberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-63b3d6e60c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

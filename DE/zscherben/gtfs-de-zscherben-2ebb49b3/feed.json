@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Zscherben",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Zscherben"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9deebb0045",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Chieming",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Chieming"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9554245d04",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ammerndorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ammerndorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-159a0a4745",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Coxhoe",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Coxhoe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-0ad3da5c94",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

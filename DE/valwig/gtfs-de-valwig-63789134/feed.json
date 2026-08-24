@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Valwig",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Valwig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-050dff47e8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

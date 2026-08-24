@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pockau",
+    "country": "DE",
+    "subdivision": "Saxony",
+    "city": "Pockau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-93b0170831",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

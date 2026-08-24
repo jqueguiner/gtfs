@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mauth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mauth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7539dd5e9b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

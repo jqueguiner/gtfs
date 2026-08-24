@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Mer",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-c3013c1b48",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

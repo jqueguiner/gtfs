@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bourgoin-Jallieu",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Bourgoin-Jallieu"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-3f927f8056",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

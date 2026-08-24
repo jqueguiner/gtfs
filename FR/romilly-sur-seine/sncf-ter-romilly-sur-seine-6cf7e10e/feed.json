@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Romilly-sur-Seine",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Romilly-sur-Seine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-b73430a59e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

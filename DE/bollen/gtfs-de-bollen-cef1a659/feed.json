@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bollen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Bollen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13e2d3371b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ennepetal",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Ennepetal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-db969adb60",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

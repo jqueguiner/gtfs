@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neubrueck",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Neubrueck"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-894a555419",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Hazel Grove",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Hazel Grove"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-76129979f4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

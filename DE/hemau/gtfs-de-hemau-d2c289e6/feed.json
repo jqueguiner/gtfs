@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hemau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hemau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6f0ef98023",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

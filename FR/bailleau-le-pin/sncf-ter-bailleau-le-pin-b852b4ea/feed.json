@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Bailleau-le-Pin",
+    "country": "FR",
+    "subdivision": "Centre",
+    "city": "Bailleau-le-Pin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-2a861eb022",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Immenreuth",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Immenreuth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f72741217b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

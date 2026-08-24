@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Aigueblanche",
+    "country": "FR",
+    "subdivision": "Rhone-Alpes",
+    "city": "Aigueblanche"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-932b4b9d10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

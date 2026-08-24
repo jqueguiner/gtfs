@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Burk",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Burk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e0e7898091",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

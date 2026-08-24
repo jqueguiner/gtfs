@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hurth",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Hurth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-529b18fba8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

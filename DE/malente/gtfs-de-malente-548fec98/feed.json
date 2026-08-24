@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Malente",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Malente"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d70ec5d238",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

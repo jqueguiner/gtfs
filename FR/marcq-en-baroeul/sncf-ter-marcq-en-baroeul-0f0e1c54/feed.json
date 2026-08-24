@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Marcq-en-Baroeul",
+    "country": "FR",
+    "subdivision": "Nord-Pas-de-Calais",
+    "city": "Marcq-en-Baroeul"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-efe670cb03",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

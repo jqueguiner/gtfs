@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittmar",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Wittmar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cfdac7fa43",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

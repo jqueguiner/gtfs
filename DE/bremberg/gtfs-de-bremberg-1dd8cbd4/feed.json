@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bremberg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Bremberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f480c5d352",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

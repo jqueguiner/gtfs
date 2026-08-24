@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Brest",
+    "country": "FR",
+    "subdivision": "Brittany",
+    "city": "Brest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-14b517d1cf",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

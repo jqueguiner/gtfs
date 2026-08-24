@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Illingen",
+    "country": "DE",
+    "subdivision": "Saarland",
+    "city": "Illingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9f64c1345c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

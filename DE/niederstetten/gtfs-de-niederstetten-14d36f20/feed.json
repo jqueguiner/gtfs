@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Niederstetten",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Niederstetten"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5e1dc4055a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

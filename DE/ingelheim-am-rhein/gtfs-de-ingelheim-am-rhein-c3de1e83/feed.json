@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ingelheim am Rhein",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Ingelheim am Rhein"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5c435816de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SNCF TER — Castelnau-d'Estretefonds",
+    "country": "FR",
+    "subdivision": "Midi-Pyrenees",
+    "city": "Castelnau-d'Estretefonds"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip",
+    "mdb_id": "fr-city-074156a20d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

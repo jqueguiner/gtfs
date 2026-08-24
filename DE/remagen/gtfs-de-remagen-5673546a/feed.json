@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Remagen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Remagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-24d987398f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

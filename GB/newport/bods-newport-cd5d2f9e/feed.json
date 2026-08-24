@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Newport",
+    "country": "GB",
+    "subdivision": "Wales",
+    "city": "Newport"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-aa65105067",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

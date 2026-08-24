@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Warthausen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Warthausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ae26290432",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

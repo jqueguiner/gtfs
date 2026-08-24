@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Oakley",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Oakley"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-ade54b278c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

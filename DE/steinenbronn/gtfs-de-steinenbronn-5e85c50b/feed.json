@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Steinenbronn",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Steinenbronn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-169272f8c8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

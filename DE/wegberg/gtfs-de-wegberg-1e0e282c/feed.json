@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wegberg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Wegberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a72fd041dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

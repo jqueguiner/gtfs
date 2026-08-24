@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schnaittach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schnaittach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b21217157",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — Wentworth",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "Wentworth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-bd0005386d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
