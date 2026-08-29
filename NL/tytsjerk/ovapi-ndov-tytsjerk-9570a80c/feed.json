@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — Tytsjerk",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "Tytsjerk"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-1c49a2e3a7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

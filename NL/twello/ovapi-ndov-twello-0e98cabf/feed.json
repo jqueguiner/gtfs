@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — Twello",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "city": "Twello"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-a83926f5d8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

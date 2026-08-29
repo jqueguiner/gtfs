@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — Mantgum",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "Mantgum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-41f3fbb461",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

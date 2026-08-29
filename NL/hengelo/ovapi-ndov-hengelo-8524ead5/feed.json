@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — Hengelo",
+    "country": "NL",
+    "subdivision": "Overijssel",
+    "city": "Hengelo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-7b2c17a8c9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

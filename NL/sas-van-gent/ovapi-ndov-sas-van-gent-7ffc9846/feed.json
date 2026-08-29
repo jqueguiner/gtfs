@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — Sas van Gent",
+    "country": "NL",
+    "subdivision": "Zeeland",
+    "city": "Sas van Gent"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-00d44699ec",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

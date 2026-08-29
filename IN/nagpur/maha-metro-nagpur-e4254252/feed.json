@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Maha Metro Nagpur",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Nagpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/maha-metro-nagpur/gtfs/",
+    "mdb_id": "in-llm-maha-metro-nagpur",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weida",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Weida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8d90321c1c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — 's-Gravenzande",
+    "country": "NL",
+    "subdivision": "South Holland",
+    "city": "'s-Gravenzande"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-13b4106f9a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

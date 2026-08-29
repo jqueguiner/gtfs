@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — De Bilt",
+    "country": "NL",
+    "subdivision": "Utrecht",
+    "city": "De Bilt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-0ed922ac27",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — West-Terschelling",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "West-Terschelling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-095e0996e2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

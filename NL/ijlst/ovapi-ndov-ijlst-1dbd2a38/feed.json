@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — IJlst",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "IJlst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-e55010be06",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

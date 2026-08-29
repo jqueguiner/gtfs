@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — De Steeg",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "city": "De Steeg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-4edd96f031",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

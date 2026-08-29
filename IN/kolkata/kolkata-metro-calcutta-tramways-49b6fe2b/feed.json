@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kolkata Metro / Calcutta Tramways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/kolkata-metro-calcutta-tramways/gtfs/",
+    "mdb_id": "in-llm-kolkata-metro-calcutta-tramways",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

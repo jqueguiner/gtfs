@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — De Lier",
+    "country": "NL",
+    "subdivision": "South Holland",
+    "city": "De Lier"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-2ad5abae34",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

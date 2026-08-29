@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Oberau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-be3760a9f7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

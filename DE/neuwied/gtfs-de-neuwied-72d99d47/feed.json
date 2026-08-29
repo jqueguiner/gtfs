@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neuwied",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Neuwied"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b0761a0fa4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

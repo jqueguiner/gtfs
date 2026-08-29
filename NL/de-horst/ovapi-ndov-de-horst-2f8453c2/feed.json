@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — De Horst",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "city": "De Horst"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-cb65bc807e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

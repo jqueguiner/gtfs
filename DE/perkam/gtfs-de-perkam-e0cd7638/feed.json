@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Perkam",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Perkam"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41039b1054",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

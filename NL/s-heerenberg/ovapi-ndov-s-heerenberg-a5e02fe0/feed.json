@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "OVapi/NDOV — s-Heerenberg",
+    "country": "NL",
+    "subdivision": "Gelderland",
+    "city": "s-Heerenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/gtfs-nl.zip",
+    "mdb_id": "nl-city-5f15412308",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
