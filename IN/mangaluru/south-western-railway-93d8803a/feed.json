@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mangaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mangaluru/south-western-railway/gtfs/",
+    "mdb_id": "in-llm-south-western-railway-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Private Owners",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/private-owners/gtfs/",
+    "mdb_id": "in-llm-private-owners",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

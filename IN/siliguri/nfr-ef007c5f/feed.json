@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NFR",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Siliguri"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/siliguri/nfr/gtfs/",
+    "mdb_id": "in-llm-nfr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

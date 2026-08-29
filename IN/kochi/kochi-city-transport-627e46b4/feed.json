@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kochi City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/kochi-city-transport/gtfs/",
+    "mdb_id": "in-llm-kochi-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

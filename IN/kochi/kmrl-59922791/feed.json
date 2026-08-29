@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KMRL",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/kmrl/gtfs/",
+    "mdb_id": "in-llm-kmrl",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Indian Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Saharanpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/saharanpur/indian-railways/gtfs/",
+    "mdb_id": "in-llm-indian-railways-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

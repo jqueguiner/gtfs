@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Erode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/erode/southern-railway/gtfs/",
+    "mdb_id": "in-llm-southern-railway-5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

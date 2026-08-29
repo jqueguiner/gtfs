@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Coast Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Firozabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/firozabad/east-coast-railway/gtfs/",
+    "mdb_id": "in-llm-east-coast-railway-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

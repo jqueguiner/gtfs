@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kochi Metro Rail Limited",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/kochi-metro-rail-limited/gtfs/",
+    "mdb_id": "in-llm-kochi-metro-rail-limited",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

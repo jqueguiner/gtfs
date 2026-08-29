@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Gurugram"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gurugram/western-railway/gtfs/",
+    "mdb_id": "in-llm-western-railway-8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jamshedpur City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Jamshedpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jamshedpur/jamshedpur-city-transport/gtfs/",
+    "mdb_id": "in-llm-jamshedpur-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

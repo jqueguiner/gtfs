@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "DTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Noida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/noida/dtc/gtfs/",
+    "mdb_id": "in-llm-dtc-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

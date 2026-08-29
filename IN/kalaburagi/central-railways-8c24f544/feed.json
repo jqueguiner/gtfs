@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kalaburagi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kalaburagi/central-railways/gtfs/",
+    "mdb_id": "in-llm-central-railways-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

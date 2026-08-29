@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ahmedabad Metro",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Gandhinagar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gandhinagar/ahmedabad-metro/gtfs/",
+    "mdb_id": "in-llm-ahmedabad-metro-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

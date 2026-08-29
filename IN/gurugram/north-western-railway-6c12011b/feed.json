@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Gurugram"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gurugram/north-western-railway/gtfs/",
+    "mdb_id": "in-llm-north-western-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

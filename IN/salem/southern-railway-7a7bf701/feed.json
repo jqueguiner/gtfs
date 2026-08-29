@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Salem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/salem/southern-railway/gtfs/",
+    "mdb_id": "in-llm-southern-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

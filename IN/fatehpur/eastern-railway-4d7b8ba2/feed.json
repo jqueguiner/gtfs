@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Fatehpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/fatehpur/eastern-railway/gtfs/",
+    "mdb_id": "in-llm-eastern-railway-15",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

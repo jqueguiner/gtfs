@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Central Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Alwar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/alwar/north-central-railway/gtfs/",
+    "mdb_id": "in-llm-north-central-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

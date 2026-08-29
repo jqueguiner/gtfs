@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mangaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mangaluru/southern-railway/gtfs/",
+    "mdb_id": "in-llm-southern-railway-4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

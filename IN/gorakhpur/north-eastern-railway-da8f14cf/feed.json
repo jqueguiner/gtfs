@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Gorakhpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gorakhpur/north-eastern-railway/gtfs/",
+    "mdb_id": "in-llm-north-eastern-railway-7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

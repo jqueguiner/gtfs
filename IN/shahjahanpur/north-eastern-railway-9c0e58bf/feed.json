@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Shahjahanpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/shahjahanpur/north-eastern-railway/gtfs/",
+    "mdb_id": "in-llm-north-eastern-railway-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

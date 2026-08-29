@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Coast Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Noida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/noida/east-coast-railway/gtfs/",
+    "mdb_id": "in-llm-east-coast-railway-7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

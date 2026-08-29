@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mirzapur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mirzapur/south-eastern-railway/gtfs/",
+    "mdb_id": "in-llm-south-eastern-railway-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

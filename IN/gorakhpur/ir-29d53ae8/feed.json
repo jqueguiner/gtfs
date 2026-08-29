@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "IR",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Gorakhpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gorakhpur/ir/gtfs/",
+    "mdb_id": "in-llm-ir-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

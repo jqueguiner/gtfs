@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Noida City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Noida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/noida/noida-city-transport/gtfs/",
+    "mdb_id": "in-llm-noida-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CRUT",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Cuttack"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/cuttack/crut/gtfs/",
+    "mdb_id": "in-llm-crut-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

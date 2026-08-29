@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CRUT",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bhubaneswar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhubaneswar/crut/gtfs/",
+    "mdb_id": "in-llm-crut",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

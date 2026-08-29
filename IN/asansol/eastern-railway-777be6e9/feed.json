@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Asansol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/asansol/eastern-railway/gtfs/",
+    "mdb_id": "in-llm-eastern-railway-10",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

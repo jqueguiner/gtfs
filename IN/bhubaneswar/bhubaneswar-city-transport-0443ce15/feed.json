@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bhubaneswar City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bhubaneswar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhubaneswar/bhubaneswar-city-transport/gtfs/",
+    "mdb_id": "in-llm-bhubaneswar-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

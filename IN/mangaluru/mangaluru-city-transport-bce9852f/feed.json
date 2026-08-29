@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mangaluru City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mangaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mangaluru/mangaluru-city-transport/gtfs/",
+    "mdb_id": "in-llm-mangaluru-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

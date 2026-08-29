@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Noida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/noida/western-railway/gtfs/",
+    "mdb_id": "in-llm-western-railway-9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

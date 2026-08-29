@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Srikakulam City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Srikakulam"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/srikakulam/srikakulam-city-transport/gtfs/",
+    "mdb_id": "in-llm-srikakulam-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

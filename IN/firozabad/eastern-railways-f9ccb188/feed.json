@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Firozabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/firozabad/eastern-railways/gtfs/",
+    "mdb_id": "in-llm-eastern-railways-12",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

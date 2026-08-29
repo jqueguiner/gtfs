@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Western Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mangaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mangaluru/western-railways/gtfs/",
+    "mdb_id": "in-llm-western-railways-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

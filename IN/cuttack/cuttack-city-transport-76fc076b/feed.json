@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cuttack City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Cuttack"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/cuttack/cuttack-city-transport/gtfs/",
+    "mdb_id": "in-llm-cuttack-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

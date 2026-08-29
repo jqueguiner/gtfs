@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "APSRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Guntur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/guntur/apsrtc/gtfs/",
+    "mdb_id": "in-llm-apsrtc-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

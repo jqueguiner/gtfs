@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/south-western-railways/gtfs/",
+    "mdb_id": "in-llm-south-western-railways-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

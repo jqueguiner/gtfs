@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Jhansi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jhansi/south-western-railway/gtfs/",
+    "mdb_id": "in-llm-south-western-railway-9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

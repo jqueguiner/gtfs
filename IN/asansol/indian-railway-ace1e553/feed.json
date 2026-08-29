@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Indian Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Asansol"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/asansol/indian-railway/gtfs/",
+    "mdb_id": "in-llm-indian-railway-7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

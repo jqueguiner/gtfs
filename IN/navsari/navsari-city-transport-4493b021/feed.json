@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Navsari City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Navsari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navsari/navsari-city-transport/gtfs/",
+    "mdb_id": "in-llm-navsari-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

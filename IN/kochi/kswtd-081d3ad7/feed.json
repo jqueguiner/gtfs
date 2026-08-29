@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KSWTD",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/kswtd/gtfs/",
+    "mdb_id": "in-llm-kswtd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

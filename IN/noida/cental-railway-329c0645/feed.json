@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cental Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Noida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/noida/cental-railway/gtfs/",
+    "mdb_id": "in-llm-cental-railway-7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

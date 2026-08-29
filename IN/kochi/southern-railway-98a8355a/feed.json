@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Southern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kochi/southern-railway/gtfs/",
+    "mdb_id": "in-llm-southern-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

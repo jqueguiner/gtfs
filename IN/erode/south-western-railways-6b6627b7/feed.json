@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Erode"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/erode/south-western-railways/gtfs/",
+    "mdb_id": "in-llm-south-western-railways-4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}
