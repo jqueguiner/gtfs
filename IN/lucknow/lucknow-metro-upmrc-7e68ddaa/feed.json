@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lucknow Metro (UPMRC)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Lucknow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lucknow-metro-upmrc/gtfs/",
+    "mdb_id": "in-llm-lucknow-metro-upmrc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

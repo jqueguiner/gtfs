@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Navi Mumbai Metro",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Navi Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navi-mumbai/navi-mumbai-metro/gtfs/",
+    "mdb_id": "in-llm-navi-mumbai-metro",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

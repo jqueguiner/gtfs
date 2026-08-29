@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Mumbai Metro (MMRDA)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mumbai-metro-mmrda/gtfs/",
+    "mdb_id": "in-llm-mumbai-metro-mmrda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}
