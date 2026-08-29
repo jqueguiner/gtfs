@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Central Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/south-central-railways/gtfs/",
+    "mdb_id": "in-llm-south-central-railways",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

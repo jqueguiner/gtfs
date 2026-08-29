@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BMRCL",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bmrcl/gtfs/",
+    "mdb_id": "in-llm-bmrcl",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Calcutta Tramways Company",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/calcutta-tramways-company/gtfs/",
+    "mdb_id": "in-llm-calcutta-tramways-company",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

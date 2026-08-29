@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Thane Muncipal Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/thane-muncipal-transport/gtfs/",
+    "mdb_id": "in-llm-thane-muncipal-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

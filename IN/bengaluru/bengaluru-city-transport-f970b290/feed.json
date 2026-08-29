@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bengaluru City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-city-transport/gtfs/",
+    "mdb_id": "in-llm-bengaluru-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

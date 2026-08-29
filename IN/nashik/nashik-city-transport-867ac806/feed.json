@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nashik City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Nashik"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nashik/nashik-city-transport/gtfs/",
+    "mdb_id": "in-llm-nashik-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

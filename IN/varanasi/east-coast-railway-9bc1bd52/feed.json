@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Coast Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Varanasi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/east-coast-railway/gtfs/",
+    "mdb_id": "in-llm-east-coast-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

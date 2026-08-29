@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Surat City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Surat"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/surat-city-transport/gtfs/",
+    "mdb_id": "in-llm-surat-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

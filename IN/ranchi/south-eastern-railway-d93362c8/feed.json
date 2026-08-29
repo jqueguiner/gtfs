@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Ranchi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ranchi/south-eastern-railway/gtfs/",
+    "mdb_id": "in-llm-south-eastern-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

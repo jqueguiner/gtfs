@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Kolkata City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/kolkata-city-transport/gtfs/",
+    "mdb_id": "in-llm-kolkata-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

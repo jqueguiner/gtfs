@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NCRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Meerut"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/meerut/ncrtc/gtfs/",
+    "mdb_id": "in-llm-ncrtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

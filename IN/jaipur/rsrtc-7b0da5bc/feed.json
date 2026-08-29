@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "RSRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Jaipur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/rsrtc/gtfs/",
+    "mdb_id": "in-llm-rsrtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

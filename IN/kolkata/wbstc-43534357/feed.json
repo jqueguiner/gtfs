@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "WBSTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/wbstc/gtfs/",
+    "mdb_id": "in-llm-wbstc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

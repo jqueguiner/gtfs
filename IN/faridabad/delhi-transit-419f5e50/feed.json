@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Transit",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Faridabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/delhi-transit/gtfs/",
+    "mdb_id": "in-llm-delhi-transit-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kanpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/eastern-railway/gtfs/",
+    "mdb_id": "in-llm-eastern-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

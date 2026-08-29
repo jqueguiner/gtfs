@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Central Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/south-central-railway/gtfs/",
+    "mdb_id": "in-llm-south-central-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

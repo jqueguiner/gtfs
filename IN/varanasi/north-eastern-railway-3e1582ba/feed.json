@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Varanasi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/north-eastern-railway/gtfs/",
+    "mdb_id": "in-llm-north-eastern-railway-5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LMRC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Lucknow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lmrc/gtfs/",
+    "mdb_id": "in-llm-lmrc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

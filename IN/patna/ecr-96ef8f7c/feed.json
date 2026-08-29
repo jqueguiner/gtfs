@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ECR",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Patna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/ecr/gtfs/",
+    "mdb_id": "in-llm-ecr",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

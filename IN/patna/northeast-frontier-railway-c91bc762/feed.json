@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northeast Frontier Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Patna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/northeast-frontier-railway/gtfs/",
+    "mdb_id": "in-llm-northeast-frontier-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

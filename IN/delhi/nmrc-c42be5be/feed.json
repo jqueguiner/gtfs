@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "NMRC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/nmrc/gtfs/",
+    "mdb_id": "in-llm-nmrc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

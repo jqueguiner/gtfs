@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Central Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Pune"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/central-railway/gtfs/",
+    "mdb_id": "in-llm-central-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

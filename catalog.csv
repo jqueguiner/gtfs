@@ -19699,51 +19699,230 @@ IL,Nationwide,Hasadna Open-Bus Stride API (Swagger UI),https://open-bus-stride-a
 IL,"Nationwide (Tel Aviv, Jerusalem, Haifa, etc.)",Israel Ministry of Transport (MoT) via Hasadna Open-Bus Stride API,https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100,rtweb-il-israel-ministry-of-transport,,active
 IL,"Nationwide (all Israel: Tel Aviv, Jerusalem, Haifa, Beer Sheva...)","Israel Ministry of Transport SIRI, republished by Hasadna Open Bus (Public Knowledge Workshop)",https://open-bus-stride-api.hasadna.org.il/siri_vehicle_locations/list?limit=100&order_by=id%20desc,rtweb-il-israel-ministry-of-transpo,,active
 IL,Petah Tikva Subdistrict,Ministry of Transport and Road Safety,https://gtfs.mot.gov.il/gtfsfiles/israel-public-transportation.zip,mdb-2519,https://www.gov.il/he/pages/gtfs_general_transit_feed_specifications,active
+IN,Agra,Agra Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/agra-metro/gtfs/,in-llm-agra-metro,,active
+IN,Agra,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/cental-railway/gtfs/,in-llm-cental-railway-4,,active
+IN,Agra,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/eastern-railways/gtfs/,in-llm-eastern-railways-5,,active
+IN,Agra,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/northern-railway/gtfs/,in-llm-northern-railway-10,,active
+IN,Agra,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/south-central-railway/gtfs/,in-llm-south-central-railway-7,,active
+IN,Agra,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/agra/south-western-railway/gtfs/,in-llm-south-western-railway-6,,active
+IN,Ahmedabad,Ahmedabad Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ahmedabad/ahmedabad-metro/gtfs/,in-llm-ahmedabad-metro,,active
 IN,Ahmedabad,Ahmedabad Metro (GMRC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ahmedabad/ahmedabad-metro-gmrc/gtfs/,in-llm-ahmedabad-metro-gmrc,,active
+IN,Ahmedabad,Gujarat Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ahmedabad/gujarat-metro-rail-corporation-limited/gtfs/,in-llm-gujarat-metro-rail-corporation-limited,,active
+IN,Ahmedabad,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ahmedabad/western-railway/gtfs/,in-llm-western-railway-3,,active
+IN,Bengaluru,BMRCL,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bmrcl/gtfs/,in-llm-bmrcl,,active
+IN,Bengaluru,BMTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bmtc/gtfs/,in-llm-bmtc,,active
+IN,Bengaluru,Bangalore Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bangalore-metro-rail-corporation-limited/gtfs/,in-llm-bangalore-metro-rail-corporation-limited,,active
+IN,Bengaluru,Bengaluru City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-city-transport/gtfs/,in-llm-bengaluru-city-transport,,active
+IN,Bengaluru,Bengaluru Metro Tranport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-metro-tranport-corporation/gtfs/,in-llm-bengaluru-metro-tranport-corporation,,active
+IN,Bengaluru,Bengaluru Metropolitan Tranport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-metropolitan-tranport-corporation/gtfs/,in-llm-bengaluru-metropolitan-tranport-corporat,,active
+IN,Bengaluru,Bengaluru Metropolitan Transport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-metropolitan-transport-corporation/gtfs/,in-llm-bengaluru-metropolitan-transport-corpora,,active
 IN,Bengaluru,Bengaluru Metropolitan Transport Corporation (BMTC),https://raw.githubusercontent.com/Vonter/bmtc-gtfs/master/gtfs/bmtc.zip,in-bmtc-bengaluru,MIT,active
+IN,Bengaluru,Central Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/central-railways/gtfs/,in-llm-central-railways-2,,active
+IN,Bengaluru,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/indian-railways/gtfs/,in-llm-indian-railways-3,,active
+IN,Bengaluru,KSRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/ksrtc/gtfs/,in-llm-ksrtc,,active
+IN,Bengaluru,Namma Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/namma-metro/gtfs/,in-llm-namma-metro,,active
+IN,Bengaluru,South Central Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/south-central-railways/gtfs/,in-llm-south-central-railways,,active
+IN,Bengaluru,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/south-western-railway/gtfs/,in-llm-south-western-railway-2,,active
+IN,Bengaluru,South Western Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/south-western-railways/gtfs/,in-llm-south-western-railways,,active
+IN,Bengaluru,Southern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/southern-railway/gtfs/,in-llm-southern-railway,,active
+IN,Bengaluru,Southern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/southern-railways/gtfs/,in-llm-southern-railways,,active
+IN,Bhopal,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhopal/cental-railway/gtfs/,in-llm-cental-railway-3,,active
+IN,Bhopal,Madhya Pradesh Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhopal/madhya-pradesh-metro-rail-corporation-limited/gtfs/,in-llm-madhya-pradesh-metro-rail-corporation-li-3,,active
+IN,Bhopal,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhopal/northern-railway/gtfs/,in-llm-northern-railway-6,,active
+IN,Bhopal,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhopal/south-central-railway/gtfs/,in-llm-south-central-railway-6,,active
+IN,Bhopal,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bhopal/south-western-railway/gtfs/,in-llm-south-western-railway-5,,active
 IN,Chennai,"MTC (Chalo backend, via IthuUngalSoththu PWA proxy)",https://ithuungalsoththu.vercel.app/api/proxy,rtweb-in-mtc-chalo-backend-via-ithu,,active
 IN,Chennai,Metropolitan Transport Corporation (MTC) / Chennai Metro (CMRL),https://busmaps.com/en/india/Chennai-MTC-CMRL/chennai-mtc-cmrl,in-mtc-cmrl-chennai,,active
 IN,Chennai,Metropolitan Transport Corporation (MTC) buses + Chennai Metro (CMRL),https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/raw/master/mtc_chennai.zip,in-disc-58,,active
+IN,Delhi,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/cental-railway/gtfs/,in-llm-cental-railway,,active
 IN,Delhi,DMRC Metro Feeder Bus (Delhi Metro Rail Corporation last-mile buses),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/dmrc-metro-feeder-bus-delhi-metro-rail-corporati/gtfs/,in-llm-dmrc-metro-feeder-bus-delhi-metro-rail-c,,active
+IN,Delhi,DTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/dtc/gtfs/,in-llm-dtc,,active
+IN,Delhi,Delhi City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-city-transport/gtfs/,in-llm-delhi-city-transport,,active
 IN,Delhi,Delhi Integrated Multi-Modal Transit System (DIMTS) / DTC,https://otd.delhi.gov.in/data/static/,in-otd-delhi-bus,opendata.iiitd.edu.in terms,active
 IN,Delhi,Delhi Metro Rail Corporation (DMRC),https://otd.delhi.gov.in/data/staticDMRC/,in-otd-delhi-dmrc,opendata.iiitd.edu.in terms,active
+IN,Delhi,Delhi Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-metro-rail-corporation-limited/gtfs/,in-llm-delhi-metro-rail-corporation-limited,,active
+IN,Delhi,Delhi Public Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-public-transport/gtfs/,in-llm-delhi-public-transport,,active
+IN,Delhi,Delhi Transit,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-transit/gtfs/,in-llm-delhi-transit,,active
+IN,Delhi,Delhi Transport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-transport-corporation/gtfs/,in-llm-delhi-transport-corporation,,active
+IN,Delhi,"Delhi Transport Corporation, Delhi Transit",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-transport-corporation-delhi-transit/gtfs/,in-llm-delhi-transport-corporation-delhi-transi,,active
+IN,Delhi,East Coast Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/east-coast-railway/gtfs/,in-llm-east-coast-railway,,active
+IN,Delhi,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/eastern-railway/gtfs/,in-llm-eastern-railway,,active
+IN,Delhi,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/eastern-railways/gtfs/,in-llm-eastern-railways,,active
+IN,Delhi,IIT Delhi,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/iit-delhi/gtfs/,in-llm-iit-delhi,,active
+IN,Delhi,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/indian-railways/gtfs/,in-llm-indian-railways,,active
 IN,Delhi,"NCRTC Namo Bharat / RapidX (Delhi–Ghaziabad–Meerut RRTS, operated by DB RRTS)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/ncrtc-namo-bharat-rapidx-delhighaziabadmeerut-rr/gtfs/,in-llm-ncrtc-namo-bharat-rapidx-delhighaziabadm,,active
+IN,Delhi,NMRC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/nmrc/gtfs/,in-llm-nmrc,,active
+IN,Delhi,National Capital Region Transport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/national-capital-region-transport-corporation/gtfs/,in-llm-national-capital-region-transport-corpor,,active
+IN,Delhi,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/north-eastern-railway/gtfs/,in-llm-north-eastern-railway,,active
+IN,Delhi,North Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/north-western-railway/gtfs/,in-llm-north-western-railway,,active
+IN,Delhi,Northeast Frontier Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/northeast-frontier-railway/gtfs/,in-llm-northeast-frontier-railway,,active
+IN,Delhi,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/northern-railway/gtfs/,in-llm-northern-railway,,active
+IN,Delhi,Northern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/northern-railways/gtfs/,in-llm-northern-railways,,active
 IN,Delhi,Open Transit Data Delhi (DTC + DIMTS cluster buses; DDC/IIIT-Delhi/Transport Dept GNCTD),https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb,rtweb-in-open-transit-data-delhi-dt-2,,active
 IN,Delhi,"Open Transit Data Delhi (DTC/DIMTS, IIIT-Delhi)",https://otd.delhi.gov.in/api/realtime/VehiclePositions.pb?key=YOUR_PRIVATE_KEY,rtweb-in-open-transit-data-delhi-dt,,active
+IN,Delhi,Rapid Metro Gurgaon Ltd.,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/rapid-metro-gurgaon-ltd/gtfs/,in-llm-rapid-metro-gurgaon-ltd,,active
+IN,Delhi,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/south-central-railway/gtfs/,in-llm-south-central-railway,,active
+IN,Delhi,South Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/south-eastern-railway/gtfs/,in-llm-south-eastern-railway,,active
+IN,Delhi,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/south-western-railway/gtfs/,in-llm-south-western-railway,,active
+IN,Delhi,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/western-railway/gtfs/,in-llm-western-railway,,active
 IN,Dharawada taluku,Hubli Dharwad Bus Rapid Transit System Company Ltd.,https://github.com/croyla/hdbrts-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3141,,active
+IN,Faridabad,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/cental-railway/gtfs/,in-llm-cental-railway-6,,active
+IN,Faridabad,Delhi Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/delhi-metro-rail-corporation-limited/gtfs/,in-llm-delhi-metro-rail-corporation-limited-2,,active
+IN,Faridabad,Delhi Transit,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/delhi-transit/gtfs/,in-llm-delhi-transit-2,,active
+IN,Faridabad,Delhi Transport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/delhi-transport-corporation/gtfs/,in-llm-delhi-transport-corporation-2,,active
+IN,Faridabad,Faridabad City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/faridabad-city-transport/gtfs/,in-llm-faridabad-city-transport,,active
+IN,Faridabad,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/indian-railways/gtfs/,in-llm-indian-railways-7,,active
+IN,Faridabad,NMRC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/nmrc/gtfs/,in-llm-nmrc-2,,active
+IN,Faridabad,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/northern-railway/gtfs/,in-llm-northern-railway-12,,active
+IN,Faridabad,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/south-central-railway/gtfs/,in-llm-south-central-railway-8,,active
+IN,Faridabad,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/south-western-railway/gtfs/,in-llm-south-western-railway-7,,active
+IN,Faridabad,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/western-railway/gtfs/,in-llm-western-railway-7,,active
 IN,George Town,Metropolitantransportcorporation,http://gtfs-source-feeds.transit.land/mtc_chennai.zip,f-tf34-metropolitantransportcorporation,,active
 IN,Goa,Kadamba Transport Corp (KTCL) + Goa buses,https://goatransport.gov.in/download_Forms/gtfs.zip,in-goa-ktcl,GoI-OGDL,active
 IN,Gurugram (Delhi NCR),"GMCBL / Gurugaman (Gurugram Metropolitan City Bus Ltd, GMDA)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/gurugram-delhi-ncr/gmcbl-gurugaman-gurugram-metropolitan-city-bus-l/gtfs/,in-llm-gmcbl-gurugaman-gurugram-metropolitan-ci,,active
 IN,Hosakote taluk,Bangalore Metropolitan Transport Corporation (BMTC),https://github.com/Vonter/bmtc-gtfs/raw/refs/heads/main/gtfs/bmtc.zip,mdb-2595,,active
 IN,Hyderabad,Government of Telangana,https://data.opencity.in/dataset/4e72c202-4cdb-4437-a629-ffcbe9519f73/resource/5fa250e1-3104-4ca7-ad31-4fa3321f6255/download/telangana_opendata_gtfs_hmrl_03_july_2026.zip,in-opencity-5fa250e1,Other (Public Domain),active
+IN,Hyderabad,HMRL,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/hyderabad/hmrl/gtfs/,in-llm-hmrl,,active
 IN,Hyderabad,Hyderabad Metro Rail Ltd (HMRL),https://hmrl.co.in/open-data/,in-hmrl-hyderabad,Free non-exclusive (HMRL Open Data),active
 IN,Hyderabad,Hyderabad TGSRTC Bus,https://data.opencity.in/dataset/88e2d145-7ec6-4666-88dd-6cf18b18312e/resource/1b0d18bb-b2fb-4a79-8ed0-1e071da5790c/download/telangana_opendata_gtfs_tgsrtc_08_february_2026.zip,mdb-3361,https://hmrl.co.in/open-data.html,active
+IN,Hyderabad,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/hyderabad/south-central-railway/gtfs/,in-llm-south-central-railway-3,,active
+IN,Hyderabad,South Central Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/hyderabad/south-central-railways/gtfs/,in-llm-south-central-railways-2,,active
+IN,Hyderabad,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/hyderabad/south-western-railway/gtfs/,in-llm-south-western-railway-3,,active
 IN,Indore,Atal Indore City Transport Service Limited (AICTSL),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/indore/atal-indore-city-transport-service-limited-aicts/gtfs/,in-llm-atal-indore-city-transport-service-limit,,active
+IN,Indore,Madhya Pradesh Metro Rail Corporation Limited,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/indore/madhya-pradesh-metro-rail-corporation-limited/gtfs/,in-llm-madhya-pradesh-metro-rail-corporation-li-2,,active
 IN,Indore,Madhya Pradesh Metro Rail Corporation Limited (MPMRCL) — Indore Metro Yellow Line,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/indore/madhya-pradesh-metro-rail-corporation-limited-mp/gtfs/,in-llm-madhya-pradesh-metro-rail-corporation-li,,active
+IN,Jaipur,JCTSL,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/jctsl/gtfs/,in-llm-jctsl,,active
+IN,Jaipur,JMRC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/jmrc/gtfs/,in-llm-jmrc,,active
 IN,Jaipur,Jaipur Metro (JMRC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/jaipur-metro-jmrc/gtfs/,in-llm-jaipur-metro-jmrc,,active
+IN,Jaipur,North Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/north-central-railway/gtfs/,in-llm-north-central-railway,,active
+IN,Jaipur,North Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/north-western-railway/gtfs/,in-llm-north-western-railway-2,,active
+IN,Jaipur,RSRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/rsrtc/gtfs/,in-llm-rsrtc,,active
+IN,Jaipur,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/western-railway/gtfs/,in-llm-western-railway-5,,active
+IN,Kanpur,East Coast Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/east-coast-railway/gtfs/,in-llm-east-coast-railway-2,,active
+IN,Kanpur,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/eastern-railway/gtfs/,in-llm-eastern-railway-3,,active
+IN,Kanpur,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/eastern-railways/gtfs/,in-llm-eastern-railways-4,,active
+IN,Kanpur,Indian Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/indian-railway/gtfs/,in-llm-indian-railway-3,,active
 IN,Kanpur,Kanpur City Transport Services Ltd (KCTSL) / Kanpur Metropolitan Bus Service (KMBS),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/kanpur-city-transport-services-ltd-kctsl-kanpur-/gtfs/,in-llm-kanpur-city-transport-services-ltd-kctsl,,active
 IN,Kanpur,Kanpur Metro (UPMRC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/kanpur-metro-upmrc/gtfs/,in-llm-kanpur-metro-upmrc,,active
 IN,Kanpur,"Kanpur Metro (Uttar Pradesh Metro Rail Corporation, UPMRC) - Orange Line",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/kanpur-metro-uttar-pradesh-metro-rail-corporatio/gtfs/,in-llm-kanpur-metro-uttar-pradesh-metro-rail-co,,active
+IN,Kanpur,Northeast Frontier Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/northeast-frontier-railway/gtfs/,in-llm-northeast-frontier-railway-2,,active
+IN,Kanpur,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/northern-railway/gtfs/,in-llm-northern-railway-4,,active
+IN,Kanpur,South Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/south-eastern-railway/gtfs/,in-llm-south-eastern-railway-2,,active
+IN,Kanpur,Uttar Pradesh Metro Rail Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/uttar-pradesh-metro-rail-corporation/gtfs/,in-llm-uttar-pradesh-metro-rail-corporation,,active
 IN,Kochi,Kochi Metro Rail Ltd (KMRL),https://kochimetro.org/opendata/KMRLOpenData.zip,in-kmrl-kochi,"Free non-exclusive, attribution required (KMRL Open Data)",active
+IN,Kolkata,BMTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/bmtc/gtfs/,in-llm-bmtc-2,,active
+IN,Kolkata,Calcutta Tramways Company,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/calcutta-tramways-company/gtfs/,in-llm-calcutta-tramways-company,,active
+IN,Kolkata,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/eastern-railway/gtfs/,in-llm-eastern-railway-2,,active
+IN,Kolkata,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/eastern-railways/gtfs/,in-llm-eastern-railways-2,,active
+IN,Kolkata,Indian Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/indian-railway/gtfs/,in-llm-indian-railway,,active
+IN,Kolkata,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/indian-railways/gtfs/,in-llm-indian-railways-4,,active
+IN,Kolkata,Kolkata City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/kolkata-city-transport/gtfs/,in-llm-kolkata-city-transport,,active
+IN,Kolkata,Kolkata Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/kolkata-metro/gtfs/,in-llm-kolkata-metro,,active
 IN,Kolkata,Kolkata Metro / Calcutta Tramways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/kolkata-metro-calcutta-tramways/gtfs/,in-llm-kolkata-metro-calcutta-tramways,,active
+IN,Kolkata,"Metro Railway, Kolkata",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/metro-railway-kolkata/gtfs/,in-llm-metro-railway-kolkata,,active
+IN,Kolkata,WBSTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/wbstc/gtfs/,in-llm-wbstc,,active
+IN,Kolkata,West Bengal Transport Corporation (WBTC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/west-bengal-transport-corporation-wbtc/gtfs/,in-llm-west-bengal-transport-corporation-wbtc,,active
 IN,Lodhika Taluka,Rajkot Rampath Limited,https://github.com/croyla/rrl-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3142,,active
+IN,Lucknow,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/eastern-railways/gtfs/,in-llm-eastern-railways-3,,active
+IN,Lucknow,IR,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/ir/gtfs/,in-llm-ir,,active
+IN,Lucknow,Indian Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/indian-railway/gtfs/,in-llm-indian-railway-2,,active
+IN,Lucknow,LMRC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lmrc/gtfs/,in-llm-lmrc,,active
+IN,Lucknow,Lucknow City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lucknow-city-transport/gtfs/,in-llm-lucknow-city-transport,,active
 IN,Lucknow,Lucknow Metro (UPMRC),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lucknow-metro-upmrc/gtfs/,in-llm-lucknow-metro-upmrc,,active
+IN,Lucknow,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/north-eastern-railway/gtfs/,in-llm-north-eastern-railway-3,,active
+IN,Lucknow,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/northern-railway/gtfs/,in-llm-northern-railway-3,,active
+IN,Lucknow,Northern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/northern-railways/gtfs/,in-llm-northern-railways-2,,active
+IN,Ludhiana,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ludhiana/northern-railway/gtfs/,in-llm-northern-railway-9,,active
+IN,Meerut,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/meerut/indian-railways/gtfs/,in-llm-indian-railways-8,,active
+IN,Meerut,NCRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/meerut/ncrtc/gtfs/,in-llm-ncrtc,,active
+IN,Meerut,National Capital Region Transport Corporation,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/meerut/national-capital-region-transport-corporation/gtfs/,in-llm-national-capital-region-transport-corpor-2,,active
+IN,Meerut,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/meerut/northern-railway/gtfs/,in-llm-northern-railway-13,,active
+IN,Mumbai,BEST,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/best/gtfs/,in-llm-best,,active
 IN,Mumbai,BEST (Brihanmumbai Electric Supply & Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/best-brihanmumbai-electric-supply-transport/gtfs/,in-llm-best-brihanmumbai-electric-supply-transp,,active
+IN,Mumbai,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/cental-railway/gtfs/,in-llm-cental-railway-2,,active
+IN,Mumbai,Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/central-railway/gtfs/,in-llm-central-railway,,active
+IN,Mumbai,Central Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/central-railways/gtfs/,in-llm-central-railways,,active
+IN,Mumbai,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/indian-railways/gtfs/,in-llm-indian-railways-2,,active
+IN,Mumbai,MMMOCL,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mmmocl/gtfs/,in-llm-mmmocl,,active
+IN,Mumbai,MMRDA,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mmrda/gtfs/,in-llm-mmrda,,active
+IN,Mumbai,MSRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/msrtc/gtfs/,in-llm-msrtc,,active
+IN,Mumbai,Mumbai City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mumbai-city-transport/gtfs/,in-llm-mumbai-city-transport,,active
 IN,Mumbai,Mumbai Metro (MMRDA),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mumbai-metro-mmrda/gtfs/,in-llm-mumbai-metro-mmrda,,active
+IN,Mumbai,Mumbai Metro Rail Corporation Ltd.,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mumbai-metro-rail-corporation-ltd/gtfs/,in-llm-mumbai-metro-rail-corporation-ltd,,active
 IN,Mumbai,NMMT (Navi Mumbai Municipal Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/nmmt-navi-mumbai-municipal-transport/gtfs/,in-llm-nmmt-navi-mumbai-municipal-transport-2,,active
+IN,Mumbai,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/north-eastern-railway/gtfs/,in-llm-north-eastern-railway-2,,active
+IN,Mumbai,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/south-central-railway/gtfs/,in-llm-south-central-railway-2,,active
+IN,Mumbai,Thane Muncipal Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/thane-muncipal-transport/gtfs/,in-llm-thane-muncipal-transport,,active
+IN,Mumbai,Thane Municipal Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/thane-municipal-transport/gtfs/,in-llm-thane-municipal-transport,,active
+IN,Mumbai,The Brihanmumbai Electric Supply & Transport Undertaking,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/the-brihanmumbai-electric-supply-transport-under/gtfs/,in-llm-the-brihanmumbai-electric-supply-transpo,,active
+IN,Mumbai,Vande Bharat Express,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/vande-bharat-express/gtfs/,in-llm-vande-bharat-express,,active
+IN,Mumbai,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/western-railway/gtfs/,in-llm-western-railway-2,,active
+IN,Mumbai,Western Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/western-railways/gtfs/,in-llm-western-railways,,active
 IN,Nagpur,Maha Metro Nagpur,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/maha-metro-nagpur/gtfs/,in-llm-maha-metro-nagpur,,active
+IN,Nagpur,MahaMetro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/mahametro/gtfs/,in-llm-mahametro-2,,active
+IN,Nagpur,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/northern-railway/gtfs/,in-llm-northern-railway-5,,active
+IN,Nagpur,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/south-central-railway/gtfs/,in-llm-south-central-railway-5,,active
+IN,Nagpur,South Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nagpur/south-western-railway/gtfs/,in-llm-south-western-railway-4,,active
+IN,Nashik,Cental Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nashik/cental-railway/gtfs/,in-llm-cental-railway-5,,active
+IN,Nashik,Nashik City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nashik/nashik-city-transport/gtfs/,in-llm-nashik-city-transport,,active
+IN,Nashik,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nashik/north-eastern-railway/gtfs/,in-llm-north-eastern-railway-4,,active
+IN,Nashik,Vande Bharat Express,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/nashik/vande-bharat-express/gtfs/,in-llm-vande-bharat-express-2,,active
 IN,Navi Mumbai,NMMT (Navi Mumbai Municipal Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navi-mumbai/nmmt-navi-mumbai-municipal-transport/gtfs/,in-llm-nmmt-navi-mumbai-municipal-transport,,active
 IN,Navi Mumbai,Navi Mumbai Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/navi-mumbai/navi-mumbai-metro/gtfs/,in-llm-navi-mumbai-metro,,active
+IN,Patna,ECR,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/ecr/gtfs/,in-llm-ecr,,active
+IN,Patna,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/eastern-railway/gtfs/,in-llm-eastern-railway-4,,active
+IN,Patna,IR,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/ir/gtfs/,in-llm-ir-2,,active
+IN,Patna,Northeast Frontier Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/northeast-frontier-railway/gtfs/,in-llm-northeast-frontier-railway-3,,active
+IN,Patna,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/northern-railway/gtfs/,in-llm-northern-railway-7,,active
+IN,Patna,Patna Metro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/patna/patna-metro/gtfs/,in-llm-patna-metro,,active
+IN,Prayagraj,East Coast Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/east-coast-railway/gtfs/,in-llm-east-coast-railway-4,,active
+IN,Prayagraj,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/eastern-railway/gtfs/,in-llm-eastern-railway-6,,active
+IN,Prayagraj,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/eastern-railways/gtfs/,in-llm-eastern-railways-7,,active
+IN,Prayagraj,Indian Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/indian-railway/gtfs/,in-llm-indian-railway-5,,active
+IN,Prayagraj,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/north-eastern-railway/gtfs/,in-llm-north-eastern-railway-6,,active
+IN,Prayagraj,Northeast Frontier Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/northeast-frontier-railway/gtfs/,in-llm-northeast-frontier-railway-5,,active
+IN,Prayagraj,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/northern-railway/gtfs/,in-llm-northern-railway-15,,active
+IN,Prayagraj,Prayagraj City Transport Service Ltd,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/prayagraj-city-transport-service-ltd/gtfs/,in-llm-prayagraj-city-transport-service-ltd,,active
+IN,Prayagraj,South Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/prayagraj/south-eastern-railway/gtfs/,in-llm-south-eastern-railway-5,,active
+IN,Pune,Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/central-railway/gtfs/,in-llm-central-railway-2,,active
 IN,Pune,Chartr (PMPML / Apli-PMPML),https://pmpml-bus-gps-ingest.chartr.in/gps-positions/positions,rtweb-in-chartr-pmpml-apli-pmpml,,active
 IN,Pune,Chartr (PMPML / Apli-PMPML),https://prod-pmpml-live-data-api.chartr.in/all-buses,rtweb-in-chartr-pmpml-apli-pmpml-2,,active
 IN,Pune,Chartr (PMPML / Apli-PMPML),https://prod-pmpml-routesapi.chartr.in/routes,rtweb-in-chartr-pmpml-apli-pmpml-3,,active
+IN,Pune,MSRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/msrtc/gtfs/,in-llm-msrtc-2,,active
+IN,Pune,MahaMetro,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/mahametro/gtfs/,in-llm-mahametro,,active
+IN,Pune,PMPML,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/pmpml/gtfs/,in-llm-pmpml,,active
+IN,Pune,Pune City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/pune-city-transport/gtfs/,in-llm-pune-city-transport,,active
+IN,Pune,Pune Mahanagar Parivahan Mahamandal Ltd,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/pune-mahanagar-parivahan-mahamandal-ltd/gtfs/,in-llm-pune-mahanagar-parivahan-mahamandal-ltd,,active
 IN,Pune,Pune Mahanagar Parivahan Mahamandal Ltd (PMPML),https://raw.githubusercontent.com/croyla/pmpml-gtfs/main/pmpml_gtfs.zip,in-pmpml-pune,MIT,active
+IN,Pune,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/pune/south-central-railway/gtfs/,in-llm-south-central-railway-4,,active
+IN,Ranchi,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ranchi/northern-railway/gtfs/,in-llm-northern-railway-11,,active
+IN,Ranchi,South Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/ranchi/south-eastern-railway/gtfs/,in-llm-south-eastern-railway-3,,active
+IN,Surat,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/indian-railways/gtfs/,in-llm-indian-railways-5,,active
+IN,Surat,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/northern-railway/gtfs/,in-llm-northern-railway-2,,active
+IN,Surat,Surat City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/surat-city-transport/gtfs/,in-llm-surat-city-transport,,active
 IN,Surat,Surat Sitilink Limited (BRTS + City Bus),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/surat-sitilink-limited-brts-city-bus/gtfs/,in-llm-surat-sitilink-limited-brts-city-bus,,active
+IN,Surat,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/surat/western-railway/gtfs/,in-llm-western-railway-4,,active
 IN,Telangana,Hyderabad Metro Rail Ltd.,https://drive.usercontent.google.com/u/0/uc?id=15yr-YE_7BerxTDXCyVOWWkw4nyQlVUpb&export=download,mdb-2457,https://hmrl.co.in/open-data.html,active
 IN,Thane (Mumbai Metropolitan Region),TMT (Thane Municipal Transport),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/thane-mumbai-metropolitan-region/tmt-thane-municipal-transport/gtfs/,in-llm-tmt-thane-municipal-transport,,active
+IN,Vadodara,Indian Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/indian-railways/gtfs/,in-llm-indian-railways-6,,active
+IN,Vadodara,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/northern-railway/gtfs/,in-llm-northern-railway-8,,active
+IN,Vadodara,Vadodara City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/vadodara-city-transport/gtfs/,in-llm-vadodara-city-transport,,active
 IN,Vadodara,"Vadodara Smart City Bus (VMC / VITCOS - Vadodara Municipal Corporation city bus, operated by VITCOS Pvt Ltd)",https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/vadodara-smart-city-bus-vmc-vitcos-vadodara-muni/gtfs/,in-llm-vadodara-smart-city-bus-vmc-vitcos-vadod,,active
+IN,Vadodara,Western Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/western-railway/gtfs/,in-llm-western-railway-6,,active
 IN,Vapi Taluka,Vapi City Bus Service,https://github.com/shubhamvelani/VapiGTFS/releases/download/v1.0.0/Vapi_GTFS.zip,mdb-3426,https://github.com/shubhamvelani/VapiGTFS/,active
+IN,Varanasi,East Coast Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/east-coast-railway/gtfs/,in-llm-east-coast-railway-3,,active
+IN,Varanasi,Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/eastern-railway/gtfs/,in-llm-eastern-railway-5,,active
+IN,Varanasi,Eastern Railways,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/eastern-railways/gtfs/,in-llm-eastern-railways-6,,active
+IN,Varanasi,Indian Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/indian-railway/gtfs/,in-llm-indian-railway-4,,active
+IN,Varanasi,North Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/north-eastern-railway/gtfs/,in-llm-north-eastern-railway-5,,active
+IN,Varanasi,Northeast Frontier Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/northeast-frontier-railway/gtfs/,in-llm-northeast-frontier-railway-4,,active
+IN,Varanasi,Northern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/northern-railway/gtfs/,in-llm-northern-railway-14,,active
+IN,Varanasi,South Eastern Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/south-eastern-railway/gtfs/,in-llm-south-eastern-railway-4,,active
+IN,Varanasi,Varanasi City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/varanasi-city-transport/gtfs/,in-llm-varanasi-city-transport,,active
 IN,Vasai,"Mumbai Bus (BEST, KDMT)",https://github.com/croyla/mumbai-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3138,,active
+IN,Vijayawada,APSRTC,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vijayawada/apsrtc/gtfs/,in-llm-apsrtc,,active
+IN,Vijayawada,South Central Railway,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vijayawada/south-central-railway/gtfs/,in-llm-south-central-railway-9,,active
+IN,Vijayawada,Vijayawada City Transport,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vijayawada/vijayawada-city-transport/gtfs/,in-llm-vijayawada-city-transport,,active
 IN,national,"Ahmedabad Janmarg Ltd, Ahmedabad Municipal Transit Services",https://github.com/croyla/amd-gtfs/raw/refs/heads/main/gtfs_compat.zip,mdb-3131,,active
 IN,national,Mmts~Hyderabad,https://data.telangana.gov.in/sites/default/files/Open_Data_MMTS_Hyd.zip,f-mmts~hyderabad,https://data.telangana.gov.in/dataset/gtfs-mmts-hyderabad,active
 IN,national,PMPML,https://raw.githubusercontent.com/croyla/pmpml-gtfs/refs/heads/main/pmpml_gtfs_compat.zip,mdb-3137,,active

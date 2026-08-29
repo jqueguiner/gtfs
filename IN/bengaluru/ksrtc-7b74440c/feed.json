@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "KSRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/ksrtc/gtfs/",
+    "mdb_id": "in-llm-ksrtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

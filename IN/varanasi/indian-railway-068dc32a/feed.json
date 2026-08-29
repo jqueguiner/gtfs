@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Indian Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Varanasi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/indian-railway/gtfs/",
+    "mdb_id": "in-llm-indian-railway-4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

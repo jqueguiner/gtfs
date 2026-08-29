@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vijayawada City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Vijayawada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vijayawada/vijayawada-city-transport/gtfs/",
+    "mdb_id": "in-llm-vijayawada-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

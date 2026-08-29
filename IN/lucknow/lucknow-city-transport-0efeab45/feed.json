@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lucknow City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Lucknow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/lucknow-city-transport/gtfs/",
+    "mdb_id": "in-llm-lucknow-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Vadodara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/northern-railway/gtfs/",
+    "mdb_id": "in-llm-northern-railway-8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

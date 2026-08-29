@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Transport Corporation, Delhi Transit",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-transport-corporation-delhi-transit/gtfs/",
+    "mdb_id": "in-llm-delhi-transport-corporation-delhi-transi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

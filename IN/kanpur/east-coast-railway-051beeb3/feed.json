@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "East Coast Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kanpur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kanpur/east-coast-railway/gtfs/",
+    "mdb_id": "in-llm-east-coast-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

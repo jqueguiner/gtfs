@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "North Central Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Jaipur"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/jaipur/north-central-railway/gtfs/",
+    "mdb_id": "in-llm-north-central-railway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

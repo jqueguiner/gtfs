@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Faridabad City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Faridabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/faridabad-city-transport/gtfs/",
+    "mdb_id": "in-llm-faridabad-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

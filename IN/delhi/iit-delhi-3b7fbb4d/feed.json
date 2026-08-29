@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "IIT Delhi",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/iit-delhi/gtfs/",
+    "mdb_id": "in-llm-iit-delhi",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

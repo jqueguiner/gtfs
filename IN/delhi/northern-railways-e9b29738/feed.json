@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northern Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/northern-railways/gtfs/",
+    "mdb_id": "in-llm-northern-railways",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

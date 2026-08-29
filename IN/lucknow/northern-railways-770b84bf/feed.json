@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northern Railways",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Lucknow"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/lucknow/northern-railways/gtfs/",
+    "mdb_id": "in-llm-northern-railways-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

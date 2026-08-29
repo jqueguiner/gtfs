@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Public Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-public-transport/gtfs/",
+    "mdb_id": "in-llm-delhi-public-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

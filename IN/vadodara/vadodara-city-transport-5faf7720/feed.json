@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vadodara City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Vadodara"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vadodara/vadodara-city-transport/gtfs/",
+    "mdb_id": "in-llm-vadodara-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

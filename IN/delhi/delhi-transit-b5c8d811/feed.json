@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delhi Transit",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/delhi-transit/gtfs/",
+    "mdb_id": "in-llm-delhi-transit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

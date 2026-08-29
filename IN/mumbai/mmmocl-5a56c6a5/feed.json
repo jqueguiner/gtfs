@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MMMOCL",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/mmmocl/gtfs/",
+    "mdb_id": "in-llm-mmmocl",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

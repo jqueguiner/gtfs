@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BEST",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/best/gtfs/",
+    "mdb_id": "in-llm-best",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

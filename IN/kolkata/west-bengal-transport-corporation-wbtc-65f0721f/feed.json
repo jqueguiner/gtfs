@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "West Bengal Transport Corporation (WBTC)",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/west-bengal-transport-corporation-wbtc/gtfs/",
+    "mdb_id": "in-llm-west-bengal-transport-corporation-wbtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

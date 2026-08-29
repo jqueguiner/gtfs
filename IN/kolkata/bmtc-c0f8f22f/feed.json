@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BMTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Kolkata"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/kolkata/bmtc/gtfs/",
+    "mdb_id": "in-llm-bmtc-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

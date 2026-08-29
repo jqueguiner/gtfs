@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Vande Bharat Express",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/vande-bharat-express/gtfs/",
+    "mdb_id": "in-llm-vande-bharat-express",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

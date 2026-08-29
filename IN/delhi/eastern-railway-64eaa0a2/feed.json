@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eastern Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Delhi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/delhi/eastern-railway/gtfs/",
+    "mdb_id": "in-llm-eastern-railway",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

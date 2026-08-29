@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "MSRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/msrtc/gtfs/",
+    "mdb_id": "in-llm-msrtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

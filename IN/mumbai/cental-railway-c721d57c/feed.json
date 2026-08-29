@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cental Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Mumbai"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/mumbai/cental-railway/gtfs/",
+    "mdb_id": "in-llm-cental-railway-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

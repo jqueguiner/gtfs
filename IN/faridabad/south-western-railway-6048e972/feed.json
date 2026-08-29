@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Faridabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/faridabad/south-western-railway/gtfs/",
+    "mdb_id": "in-llm-south-western-railway-7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

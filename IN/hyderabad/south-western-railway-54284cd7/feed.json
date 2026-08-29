@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "South Western Railway",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Hyderabad"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/hyderabad/south-western-railway/gtfs/",
+    "mdb_id": "in-llm-south-western-railway-3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

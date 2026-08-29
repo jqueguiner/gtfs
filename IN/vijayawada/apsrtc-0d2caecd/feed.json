@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "APSRTC",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Vijayawada"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/vijayawada/apsrtc/gtfs/",
+    "mdb_id": "in-llm-apsrtc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

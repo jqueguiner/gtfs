@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Bengaluru Metropolitan Transport Corporation",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Bengaluru"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/bengaluru/bengaluru-metropolitan-transport-corporation/gtfs/",
+    "mdb_id": "in-llm-bengaluru-metropolitan-transport-corpora",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}

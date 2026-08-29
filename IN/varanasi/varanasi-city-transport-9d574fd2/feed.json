@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Varanasi City Transport",
+    "country": "IN",
+    "subdivision": null,
+    "city": "Varanasi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IN/varanasi/varanasi-city-transport/gtfs/",
+    "mdb_id": "in-llm-varanasi-city-transport",
+    "license": null
+  },
+  "bbox": null,
+  "source": "llm-normalized",
+  "status": "active"
+}
