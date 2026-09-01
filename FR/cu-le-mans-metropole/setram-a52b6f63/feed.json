@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SETRAM",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU Le Mans Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eur.mecatran.com/utw/ws/gtfsfeed/static/lemans?apiKey=73334a124f3a1654141d6979113106450f291d15&type=gtfs_setram_urbsco",
+    "mdb_id": "tdg-84170",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

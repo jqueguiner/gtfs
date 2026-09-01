@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "CHATEAUROUX METROPOLE",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Châteauroux Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.chateauroux-metropole.fr/api/v2/catalog/datasets/reseau-de-bus-urbain_horizon/alternative_exports/gtfs_20260901_zip",
+    "mdb_id": "tdg-84169",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
