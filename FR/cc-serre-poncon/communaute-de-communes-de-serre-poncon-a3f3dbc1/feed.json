@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de communes de Serre-Ponçon",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Serre-Ponçon"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/reseau-vai-embrun/20260818-144546/transports-vai-embrun-2026-2027.zip",
+    "mdb_id": "tdg-84175",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
