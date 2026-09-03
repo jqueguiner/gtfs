@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "昭島市",
+    "country": "JP",
+    "subdivision": "Tokyo",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus/files/feed.zip",
+    "mdb_id": "jp-akishimacity-abus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
