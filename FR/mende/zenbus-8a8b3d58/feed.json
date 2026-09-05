@@ -2,14 +2,14 @@
   "agency": {
     "name": "Zenbus",
     "country": "FR",
-    "subdivision": "Occitania",
+    "subdivision": null,
     "city": "Mende"
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://www.data.gouv.fr/api/1/datasets/r/2f42baea-fbe1-4b01-bf4a-8232fd83b24e",
+    "url": "https://zenbus.net/gtfs/static/download.zip?dataset=MAX",
     "mdb_id": "tdg-8487",
-    "license": "https://opendatacommons.org/licenses/odbl/1.0/"
+    "license": "odc-odbl"
   },
   "bbox": null,
   "source": "mobility-database",
