@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Worth an der Isar",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Worth an der Isar"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-61a05f1554",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

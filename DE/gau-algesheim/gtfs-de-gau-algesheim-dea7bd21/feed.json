@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gau-Algesheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gau-Algesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-706a728c52",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

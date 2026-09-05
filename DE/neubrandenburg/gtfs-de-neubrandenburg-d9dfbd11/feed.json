@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Neubrandenburg",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Neubrandenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-41ac8206fc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

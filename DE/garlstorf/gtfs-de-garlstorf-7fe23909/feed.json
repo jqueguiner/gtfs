@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Garlstorf",
+    "country": "DE",
+    "subdivision": "Lower Saxony",
+    "city": "Garlstorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-37a06a0107",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

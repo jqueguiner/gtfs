@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Stammbach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Stammbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-33f5728503",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
