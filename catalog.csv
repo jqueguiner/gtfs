@@ -719,10 +719,17 @@ CA,Yellowknife,Yellowknife~Transit,https://passio3.com/yellowknife/passioTransit
 CA,York,Union Pearson Express (UP Express),https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/UP-GTFS.zip,mdb-1995,https://www.gotransit.com/en/partner-with-us/software-developers,active
 CA,national,Aquabus~Bc~Ca,https://github.com/AquabusFerries/gtfs-feed/raw/main/aquabus-bc-ca.zip,f-aquabus~bc~ca,,active
 CA,national,Coldlake~Ab~Ca,https://clt.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-coldlake~ab~ca,,active
+CA,national,Denman~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/DENMAN_feed/feed-Denman.zip,f-denman~bc~ca,,active
+CA,national,Gabriola~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/GABRIOLA_feed/feed-GERTIE.zip,f-gabriola~bc~ca,,active
 CA,national,Guelph~Owen~Sound~Transportation~On~Ca,https://www.owensound.ca/media/cvddnxpn/gost-static-2026-03-03.zip,f-guelph~owen~sound~transportation~on~ca,,active
+CA,national,Hornby~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/HORNBY_feed/feed-hornby.zip,f-hornby~bc~ca,,active
 CA,national,Kbus~Ns~Ca,https://kbus.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-kbus~ns~ca,,active
+CA,national,Mountain~Man~Mikes~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/MMM_feed/feed-MMM.zip,f-mountain~man~mikes~bc~ca,,active
+CA,national,Protection~Island~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip,f-protection~island~bc~ca,,active
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
+CA,national,Tofino~Shuttle~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TOFINO_feed/feed-tofino.zip,f-tofino~shuttle~bc~ca,,active
+CA,national,West~Coast~Trail~Express~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TRAILBUS_feed/feed-trailbus.zip,f-west~coast~trail~express~bc~ca,,active
 CA,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/tripUpdates.pb,rt-tr-f-regional~municipality~of~wood~buffalo~rt,,active
 CA,national,regional municipality of wood buffalo rt,https://rmwb-gtfsrt.civilia.ca/pb/vehiclePositions.pb,rt-ve-f-regional~municipality~of~wood~buffalo~rt,,active
 CA,national,yrt rt,http://rtu.york.ca/gtfsrealtime/TripUpdates,rt-tr-f-yrt~rt,,active
@@ -13259,6 +13266,7 @@ FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotat
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20260902-205003/gtfszipnk3ryl.zip,tdg-83510,lov2,active
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20260904-205002/gtfszipw66kch.zip,tdg-83510,lov2,active
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20260907-205002/gtfszipuidqwy.zip,tdg-83510,lov2,active
+FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20260909-205003/gtfszip3gtsbh.zip,tdg-83510,lov2,active
 FR,Corse,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-chemins-de-fer-corse-1/20260303-151209/chemin-de-fer-de-la-corse.zip,tdg-83882,lov2,active
 FR,Corse,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-via-strada/20260707-125009/via-strada.zip,tdg-83200,lov2,active
 FR,Corse,Corsica Ferries,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-ferries/20251226-152616/gtfs-updated.zip,tdg-81996,lov2,active
@@ -27392,6 +27400,45 @@ XX,national,baton rouge cats rt,https://cats.rideralerts.com/InfoPoint/gtfs-real
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-trip-updates,rt-tr-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-vehicle-positions,rt-ve-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt alerts,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-alerts,rt-al-f-baytowntrolley~fl~rt~alerts,,active
+XX,national,bctransit 100 mile house rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=34,rt-al-f-bctransit~100~mile~house~rt,,active
+XX,national,bctransit 100 mile house rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=34,rt-tr-f-bctransit~100~mile~house~rt,,active
+XX,national,bctransit 100 mile house rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=34,rt-ve-f-bctransit~100~mile~house~rt,,active
+XX,national,bctransit ashcroft cache creek clinton rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=38,rt-al-f-bctransit~ashcroft~cache~creek~clinton~rt,,active
+XX,national,bctransit ashcroft cache creek clinton rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=38,rt-tr-f-bctransit~ashcroft~cache~creek~clinton~rt,,active
+XX,national,bctransit ashcroft cache creek clinton rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=38,rt-ve-f-bctransit~ashcroft~cache~creek~clinton~rt,,active
+XX,national,bctransit clearwater rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=35,rt-al-f-bctransit~clearwater~rt,,active
+XX,national,bctransit clearwater rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=35,rt-tr-f-bctransit~clearwater~rt,,active
+XX,national,bctransit clearwater rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=35,rt-ve-f-bctransit~clearwater~rt,,active
+XX,national,bctransit hazeltons rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=26,rt-al-f-bctransit~hazeltons~rt,,active
+XX,national,bctransit hazeltons rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=26,rt-tr-f-bctransit~hazeltons~rt,,active
+XX,national,bctransit hazeltons rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=26,rt-ve-f-bctransit~hazeltons~rt,,active
+XX,national,bctransit merritt rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=37,rt-al-f-bctransit~merritt~rt,,active
+XX,national,bctransit merritt rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=37,rt-tr-f-bctransit~merritt~rt,,active
+XX,national,bctransit merritt rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=37,rt-ve-f-bctransit~merritt~rt,,active
+XX,national,bctransit mount waddington rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=17,rt-al-f-bctransit~mount~waddington~rt,,active
+XX,national,bctransit mount waddington rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=17,rt-tr-f-bctransit~mount~waddington~rt,,active
+XX,national,bctransit mount waddington rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=17,rt-ve-f-bctransit~mount~waddington~rt,,active
+XX,national,bctransit pemberton valley rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=50,rt-al-f-bctransit~pemberton~valley~rt,,active
+XX,national,bctransit pemberton valley rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=50,rt-tr-f-bctransit~pemberton~valley~rt,,active
+XX,national,bctransit pemberton valley rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=50,rt-ve-f-bctransit~pemberton~valley~rt,,active
+XX,national,bctransit quesnel rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=32,rt-al-f-bctransit~quesnel~rt,,active
+XX,national,bctransit quesnel rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=32,rt-tr-f-bctransit~quesnel~rt,,active
+XX,national,bctransit quesnel rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=32,rt-ve-f-bctransit~quesnel~rt,,active
+XX,national,bctransit revelstoke rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=36,rt-al-f-bctransit~revelstoke~rt,,active
+XX,national,bctransit revelstoke rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=36,rt-tr-f-bctransit~revelstoke~rt,,active
+XX,national,bctransit revelstoke rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=36,rt-ve-f-bctransit~revelstoke~rt,,active
+XX,national,bctransit salt spring island rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=39,rt-al-f-bctransit~salt~spring~island~rt,,active
+XX,national,bctransit salt spring island rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=39,rt-tr-f-bctransit~salt~spring~island~rt,,active
+XX,national,bctransit salt spring island rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=39,rt-ve-f-bctransit~salt~spring~island~rt,,active
+XX,national,bctransit smithers rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=31,rt-al-f-bctransit~smithers~rt,,active
+XX,national,bctransit smithers rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=31,rt-tr-f-bctransit~smithers~rt,,active
+XX,national,bctransit smithers rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=31,rt-ve-f-bctransit~smithers~rt,,active
+XX,national,bctransit west coast rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=51,rt-al-f-bctransit~west~coast~rt,,active
+XX,national,bctransit west coast rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=51,rt-tr-f-bctransit~west~coast~rt,,active
+XX,national,bctransit west coast rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=51,rt-ve-f-bctransit~west~coast~rt,,active
+XX,national,bctransit williams lake rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=33,rt-al-f-bctransit~williams~lake~rt,,active
+XX,national,bctransit williams lake rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=33,rt-tr-f-bctransit~williams~lake~rt,,active
+XX,national,bctransit williams lake rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=33,rt-ve-f-bctransit~williams~lake~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-beckley~wv~us~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-beckley~wv~us~rt,,active
 XX,national,beckley wv us rt,https://passio3.com/beckley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-beckley~wv~us~rt,,active

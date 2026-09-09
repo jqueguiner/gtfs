@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit west coast rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=51",
+    "mdb_id": "rt-ve-f-bctransit~west~coast~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

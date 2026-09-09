@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit 100 mile house rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=34",
+    "mdb_id": "rt-ve-f-bctransit~100~mile~house~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

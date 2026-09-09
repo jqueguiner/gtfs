@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "bctransit williams lake rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=33",
+    "mdb_id": "rt-tr-f-bctransit~williams~lake~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
