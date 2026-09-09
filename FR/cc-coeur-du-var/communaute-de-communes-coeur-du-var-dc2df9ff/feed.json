@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de Communes Coeur du Var",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Coeur du Var"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/lr-coeurduvar/gtfs/pub",
+    "mdb_id": "tdg-84190",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
