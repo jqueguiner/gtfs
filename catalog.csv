@@ -553,6 +553,9 @@ CA,Lethbridge,Lethbridge Transit,https://gis.lethbridge.ca/OpenData/DataSets/GTF
 CA,Lions Bay,bctransit squamishtransitsystem rt,http://squamish.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin,rt-al-f-c2b6v-bctransit~squamishtransitsystem~rt,,active
 CA,Lions Bay,bctransit squamishtransitsystem rt,http://squamish.mapstrat.com/current/gtfrealtime_TripUpdates.bin,rt-tr-f-c2b6v-bctransit~squamishtransitsystem~rt,,active
 CA,Lions Bay,bctransit squamishtransitsystem rt,http://squamish.mapstrat.com/current/gtfrealtime_VehiclePositions.bin,rt-ve-f-c2b6v-bctransit~squamishtransitsystem~rt,,active
+CA,Lions Bay,bctransit squamishtransitsystem rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=43,rt-al-f-c2b6v-bctransit~squamishtransitsystem~rt-2,,active
+CA,Lions Bay,bctransit squamishtransitsystem rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=43,rt-tr-f-c2b6v-bctransit~squamishtransitsystem~rt-2,,active
+CA,Lions Bay,bctransit squamishtransitsystem rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=43,rt-ve-f-c2b6v-bctransit~squamishtransitsystem~rt-2,,active
 CA,London,London Transit Commission,http://www.londontransit.ca/gtfsfeed/google_transit.zip,mdb-2,https://www.londontransit.ca/open-data/ltcs-open-data-terms-of-use/,active
 CA,London,Middlesex County Connect,https://drive.google.com/drive/folders/1iz7wrnSoWXY_mwAVFVJdL_I0Rv6Ui5Mm,tld-5875,,active
 CA,Longueuil,Exo Chambly-Richelieu-Carignan,https://exo.quebec/xdata/citcrc/google_transit.zip,mdb-750,https://www.donneesquebec.ca/licence/,active
@@ -646,6 +649,9 @@ CA,Saskatoon,Saskatoon Transit,https://apps2.saskatoon.ca/app/data/Alert/Alerts.
 CA,Saskatoon,Saskatoon Transit,https://apps2.saskatoon.ca/app/data/TripUpdate/TripUpdates.pb,rt-tr-f-saskatoon~rt,,active
 CA,Saskatoon,Saskatoon Transit,https://apps2.saskatoon.ca/app/data/Vehicle/VehiclePositions.pb,rt-ve-f-saskatoon~rt,,active
 CA,Saskatoon,Saskatoon Transit,https://apps5.saskatoon.ca/data/gtfs/google_transit.zip,f-c9k0-saskatoontransit,,active
+CA,Saskatoon,Saskatoon Transit,https://saskprdtmgtfs.sasktrpcloud.com/TMGTFSRealTimeWebService/Alert/Alerts.pb,rt-al-f-saskatoon~rt-2,,active
+CA,Saskatoon,Saskatoon Transit,https://saskprdtmgtfs.sasktrpcloud.com/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb,rt-tr-f-saskatoon~rt-2,,active
+CA,Saskatoon,Saskatoon Transit,https://saskprdtmgtfs.sasktrpcloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,rt-ve-f-saskatoon~rt-2,,active
 CA,Sault Ste. Marie,Sault Ste. Marie Transit,http://metrolinx.tmix.se/gtfs/gtfs-saultstemarie.zip,tld-4740,,active
 CA,Scarborough,Toronto Transit Commission,https://bustime.ttc.ca/gtfsrt/alerts,rt-al-f-dpz8-ttc~surface~rt,,active
 CA,Scarborough,Toronto Transit Commission,https://bustime.ttc.ca/gtfsrt/trips,rt-tr-f-dpz8-ttc~surface~rt,,active
@@ -27291,6 +27297,7 @@ XX,national,City~Of~Lompoc~Transit,https://www.cityoflompoc.com/home/showpublish
 XX,national,Columbiacounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/columbiacounty-or-us/columbiacounty-or-us--flex-v1.zip,f-columbiacounty~or~us~flex,,active
 XX,national,Dubai~Rta,http://gtfs-source-feeds.transit.land/dubai-rta.zip,f-dubai~rta,https://www.dubaipulse.gov.ae/data/rta_gtfs-open/datafiles/605e9d34-cfea-4bed-9b31-3b2ce86c7a25/rta-public-transports#preview,active
 XX,national,Fairmont~Marion~County,https://fmcta.com/gtfs/google_transit.zip,f-fairmont~marion~county,,active
+XX,national,Gamagoricity~Communitybus,https://api.gtfs-data.jp/v2/organizations/gamagoricity/feeds/communitybus/files/feed.zip?uid=a629e1f5-b628-406d-bf02-4a5c49ec9a0a,f-gamagoricity~communitybus,CC-BY-4.0,active
 XX,national,Grahamtransit~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/grahamtransit-va-us/grahamtransit-va-us--flex-v2.zip,f-grahamtransit~va~us~flex,,active
 XX,national,Hmrl~Hyderabad,https://drive.google.com/uc?export=download&id=1q8hqxY6WVZYYqd2LE8vNNQ4RjFPkfORJ,f-hmrl~hyderabad,https://hmrl.co.in/open-data.html,active
 XX,national,Humboldt~Transit~Authority~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/HumboldtTransitAuthorityDialARideFlex.zip,f-humboldt~transit~authority~dial~a~ride~flex,,active
@@ -27316,6 +27323,8 @@ XX,national,Suffolk~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/suffolk-va-
 XX,national,Tahoe~Truckee~Regional~Transportation~Tart~Connect~Dial~A~Ride~Placer~Tart~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/TahoeTruckeeRegionalTransportationTARTConnectDialARidePlacerTARTParatransitFlex.zip,f-tahoe~truckee~regional~transportation~tart~connect~dial~a~ride~placer~tart~paratransit~flex,,active
 XX,national,Thousand~Oaks~Dial~A~Ride~Paratransitand~Connect~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/ThousandOaksDialARideParatransitandConnectFlex.zip,f-thousand~oaks~dial~a~ride~paratransitand~connect~flex,,active
 XX,national,Tillamookcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us--flex-v1.zip,f-tillamookcounty~or~us~flex,,active
+XX,national,Tohtetsu~Tohtetsu~Kani,https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_kani/files/feed.zip?uid=e544a3b6-9cc7-45c7-8152-96091420855d,f-tohtetsu~tohtetsu~kani,CC-BY-4.0,active
+XX,national,Tohtetsu~Tohtetsu~Tajimi,https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_tajimi/files/feed.zip?uid=55018190-4a50-40df-a372-ae61b8cbab7d,f-tohtetsu~tohtetsu~tajimi,CC-BY-4.0,active
 XX,national,Transport~For~London,http://gtfs-source-feeds.transit.land/uk-tfl.zip,f-transport~for~london,,active
 XX,national,Transport~For~West~Midlands,http://api.tfwm.org.uk/gtfs/tfwm_gtfs.zip?app_id=9c2ed2e7,f-transport~for~west~midlands,,active
 XX,national,Tricityroadrunner~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/tricityroadrunner-ne-us/tricityroadrunner-ne-us--flex-v2.zip,f-tricityroadrunner~ne~us~flex,,active

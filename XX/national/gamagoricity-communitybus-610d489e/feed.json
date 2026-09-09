@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gamagoricity~Communitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/gamagoricity/feeds/communitybus/files/feed.zip?uid=a629e1f5-b628-406d-bf02-4a5c49ec9a0a",
+    "mdb_id": "f-gamagoricity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
