@@ -204,6 +204,7 @@ AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CN
 AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CNS/TripUpdates,rt-tr-f-rhzx-translink~cairns~rt,,active
 AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CNS/VehiclePositions,rt-ve-f-rhzx-translink~cairns~rt,,active
 AU,national,Alice~Springs~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice-springs.zip,f-alice~springs~nt~au,CC-BY-4.0,active
+AU,national,Byron~Bay~Train~Nsw~Au,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/BYRONBAY_feed/feed-BYRON.zip,f-byron~bay~train~nsw~au,,active
 AU,national,Darwin~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
 AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses,rt-tr-f-nsw~buses~rt,,active
 AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses,rt-ve-f-nsw~buses~rt,,active
@@ -720,6 +721,7 @@ CA,York,Union Pearson Express (UP Express),https://assets.metrolinx.com/raw/uplo
 CA,national,Aquabus~Bc~Ca,https://github.com/AquabusFerries/gtfs-feed/raw/main/aquabus-bc-ca.zip,f-aquabus~bc~ca,,active
 CA,national,Coldlake~Ab~Ca,https://clt.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-coldlake~ab~ca,,active
 CA,national,Denman~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/DENMAN_feed/feed-Denman.zip,f-denman~bc~ca,,active
+CA,national,Edmonton~Radial~Railway~Ab~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/ERRSHighLevel_feed/feed-ERRS.zip,f-edmonton~radial~railway~ab~ca,,active
 CA,national,Gabriola~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/GABRIOLA_feed/feed-GERTIE.zip,f-gabriola~bc~ca,,active
 CA,national,Guelph~Owen~Sound~Transportation~On~Ca,https://www.owensound.ca/media/cvddnxpn/gost-static-2026-03-03.zip,f-guelph~owen~sound~transportation~on~ca,,active
 CA,national,Hornby~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/HORNBY_feed/feed-hornby.zip,f-hornby~bc~ca,,active
