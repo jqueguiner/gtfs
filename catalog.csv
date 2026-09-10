@@ -547,6 +547,7 @@ CA,Kitchener,PC Connect Transit System,https://www.perthcounty.ca/en/living-here
 CA,Lake Louise,Bow Valley Regional Transit Services Commission,https://bowvalley.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/,f-c3j-757,,active
 CA,Lake Louise,Bow Valley Regional Transit Services Commission,https://bowvalley.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-bowvalley~ab~ca~rt,,active
 CA,Lake Louise,Bow Valley Regional Transit Services Commission,https://bowvalley.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-bowvalley~ab~ca~rt,,active
+CA,Lake Louise,Bow Valley Regional Transit Services Commission,https://bowvalley.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-bowvalley~ab~ca~rt,,active
 CA,Les Cedres,exo citsud ouest rt,https://exo.chrono-saeiv.com/api/opendata/v1/CITSO/alert,rt-al-f-f253-exo~citsud~ouest~rt,,active
 CA,Les Cedres,exo citsud ouest rt,https://exo.chrono-saeiv.com/api/opendata/v1/CITSO/tripupdate,rt-tr-f-f253-exo~citsud~ouest~rt,,active
 CA,Les Cedres,exo citsud ouest rt,https://exo.chrono-saeiv.com/api/opendata/v1/CITSO/vehicleposition,rt-ve-f-f253-exo~citsud~ouest~rt,,active
@@ -631,6 +632,7 @@ CA,Quesnel,BC Transit (Quesnel),https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtf
 CA,Québec,MRC les Moulins,https://transitfeeds.com/p/agence-metropolitaine-de-transport/142/latest/download,ca-quebec-mrc-les-moulins-gtfs-1180,,active
 CA,Red Deer,Greyhound,http://gtfs.gis.flix.tech/gtfs_generic_us.zip,f-9-flixbus,,active
 CA,Regina,City of Regina,https://opengis.regina.ca/reginagtfs/google_transit.zip,mdb-715,https://open.regina.ca/pages/terms-of-use,active
+CA,Regina,The City of Regina,https://transitlive.com/gtfs-rt/alerts.pb,rt-al-f-c8vx-thecityofregina~rt,,active
 CA,Revelstoke,BC Transit (Revelstoke),https://bct.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/?operatorIds=36,mdb-2464,https://www.bctransit.com/open-data/terms-of-use,active
 CA,Rimouski,Société des transports de Rimouski,https://www.donneesquebec.ca/recherche/dataset/d2d92b84-4361-42f0-81eb-3c395bc54597/resource/bd4021ba-d3ae-4d3b-b8fd-016405166761/download/gtfsrimouskibus.zip,mdb-2276,https://www.donneesquebec.ca/recherche/dataset/transport-collectif/resource/bd4021ba-d3ae-4d3b-b8fd-016405166761,active
 CA,Rouyn-Noranda,Rouyn-Noranda,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download/gtfs.zip,mdb-2603,https://www.donneesquebec.ca/licence/,active
@@ -727,6 +729,7 @@ CA,national,Guelph~Owen~Sound~Transportation~On~Ca,https://www.owensound.ca/medi
 CA,national,Hornby~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/HORNBY_feed/feed-hornby.zip,f-hornby~bc~ca,,active
 CA,national,Kbus~Ns~Ca,https://kbus.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-kbus~ns~ca,,active
 CA,national,Mountain~Man~Mikes~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/MMM_feed/feed-MMM.zip,f-mountain~man~mikes~bc~ca,,active
+CA,national,Prince~Albert~Sk~Ca,https://media-002-ca.cdn.govstack.com/citypa-015-ca/media/gnsfaref/2025-01-20-google-transit-gtfs.zip,f-prince~albert~sk~ca,https://www.citypa.ca/parking-streets-and-transportation/transit/routes-schedules/,active
 CA,national,Protection~Island~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip,f-protection~island~bc~ca,,active
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
@@ -2177,6 +2180,7 @@ CH,national,BNP (Bus Nyon-Prangins),https://gtfs.geops.ch/dl/gtfs_complete.zip,c
 CH,national,BO (Bergbahnen Obersaxen AG),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-6e5371a45c,,active
 CH,national,BOB (Berner Oberland-Bahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-a042624094,,active
 CH,national,BOB Auto (Busbetrieb BOB),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-346025ef39,,active
+CH,national,BOB-EV (Berner Oberland-Bahnen Ersatzverkehr),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-e0451862e3,,active
 CH,national,BOB-spb (Berner Oberland-Bahnen),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-ddb03daa39,,active
 CH,national,BOD (FPLAN BOD RAB OMP),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-5623ba7897,,active
 CH,national,BOG (Busbetrieb Oberems-Gruben),https://gtfs.geops.ch/dl/gtfs_complete.zip,ch-op-1dcd30f66e,,active

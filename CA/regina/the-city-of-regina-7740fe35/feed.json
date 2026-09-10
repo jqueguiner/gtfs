@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "The City of Regina",
+    "country": "CA",
+    "subdivision": "Saskatchewan",
+    "city": "Regina"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transitlive.com/gtfs-rt/alerts.pb",
+    "mdb_id": "rt-al-f-c8vx-thecityofregina~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
