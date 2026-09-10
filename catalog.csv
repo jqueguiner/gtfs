@@ -529,6 +529,7 @@ CA,Guelph,Grand River Transit,https://webapps.regionofwaterloo.ca/api/grt-routes
 CA,Guelph,Grand River Transit,https://webapps.regionofwaterloo.ca/api/grt-routes/api/tripupdates/2,rt-tr-f-grt~lrt~rt,,active
 CA,Guelph,Grand River Transit,https://webapps.regionofwaterloo.ca/api/grt-routes/api/vehiclepositions/1,rt-ve-f-grt~bus~rt,,active
 CA,Guelph,Grand River Transit,https://webapps.regionofwaterloo.ca/api/grt-routes/api/vehiclepositions/2,rt-ve-f-grt~lrt~rt,,active
+CA,Guelph,Guelphtransit,https://drive.usercontent.google.com/download?id=1SsCgQ0agO_EONavJoOuBPMlbcu2VcUs4&export=download,f-dpwz-guelphtransit,https://explore.guelph.ca/pages/terms-of-use,active
 CA,Hamilton,Hamilton Street Railway,https://opendata.hamilton.ca/GTFS-Static/google_transit.zip,mdb-2618,https://www.hamilton.ca/city-council/data-maps/open-data/open-data-licence-terms-and-conditions,active
 CA,Hanwell,Fredericton Transit,https://fredericton.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/gtfs.zip,mdb-2460,https://www.arcgis.com/home/item.html?id=0bc9093b47c744fdb82af7e830ed8590,active
 CA,Huntingdon,MRC du Haut-Saint-Laurent,https://gtfs-rt.infra-hubup.fr/mrchsl/current/revision/gtfs,tld-6692,,active
@@ -736,9 +737,11 @@ CA,national,Gabriola~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Cons
 CA,national,Guelph~Owen~Sound~Transportation~On~Ca,https://www.owensound.ca/media/cvddnxpn/gost-static-2026-03-03.zip,f-guelph~owen~sound~transportation~on~ca,,active
 CA,national,Hornby~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/HORNBY_feed/feed-hornby.zip,f-hornby~bc~ca,,active
 CA,national,Kbus~Ns~Ca,https://kbus.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-kbus~ns~ca,,active
+CA,national,Middlesex~County~On~Ca,https://drive.usercontent.google.com/download?id=1pCs6qk9nHvP7ff18AJZas2dQVB3kF28l&export=download,f-middlesex~county~on~ca,,active
 CA,national,Mountain~Man~Mikes~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/MMM_feed/feed-MMM.zip,f-mountain~man~mikes~bc~ca,,active
 CA,national,Prince~Albert~Sk~Ca,https://media-002-ca.cdn.govstack.com/citypa-015-ca/media/gnsfaref/2025-01-20-google-transit-gtfs.zip,f-prince~albert~sk~ca,https://www.citypa.ca/parking-streets-and-transportation/transit/routes-schedules/,active
 CA,national,Protection~Island~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip,f-protection~island~bc~ca,,active
+CA,national,Quinte~Transit~Ca,https://myride.quintetransit.ca/gtfs/20260701%20Summer%20CTS%20V3/google_transit.zip,f-quinte~transit~ca,,active
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
 CA,national,Tofino~Shuttle~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TOFINO_feed/feed-tofino.zip,f-tofino~shuttle~bc~ca,,active
@@ -23071,6 +23074,7 @@ LU,Lorentzweiler,mobiliteit.lu — Lorentzweiler,https://download.data.public.lu
 LU,Luxembourg,mobiliteit.lu — Luxembourg,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-473e222026,,active
 LU,Luxembourg (national),Verkéiersverbond / ATP (mobiliteit.lu),https://cdt.hafas.de/opendata/apiserver/departureBoard?accessId=<KEY>&id=<stopExtId>&format=json,rtweb-lu-verkeiersverbond-atp-mobil,,active
 LU,Luxembourg City,AVL (Autobus de la Ville de Luxembourg),https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260903-044206/gtfs-20260902-20261212.zip,lu-avl,CC-BY-4.0,active
+LU,Luxembourg City,AVL (Autobus de la Ville de Luxembourg),https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260910-051908/gtfs-20260909-20261212.zip,lu-avl,CC-BY-4.0,active
 LU,Mamer,mobiliteit.lu — Mamer,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-21627cceea,,active
 LU,Manternach,mobiliteit.lu — Manternach,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-0b5b6658d8,,active
 LU,Medernach,mobiliteit.lu — Medernach,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,lu-city-0b26273bdd,,active
