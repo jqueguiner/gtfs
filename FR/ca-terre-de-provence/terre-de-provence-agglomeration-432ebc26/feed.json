@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Terre de Provence Agglomération",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Terre de Provence"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/donnees-gtfs-reseau-topaz/20260901-142356/gtfs-20260901a-topostudio.zip",
+    "mdb_id": "tdg-84193",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
