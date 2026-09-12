@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wittenberge",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Wittenberge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-18d43d5ec3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hagenbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Hagenbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2c0db3250d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gau-Weinheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gau-Weinheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-6a8f19a5b1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
