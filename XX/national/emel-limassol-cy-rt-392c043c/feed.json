@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "emel limassol cy rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://20.19.98.194:8328/Api/api/gtfs-realtime/6",
+    "mdb_id": "rt-ve-f-emel~limassol~cy~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

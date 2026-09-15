@@ -699,8 +699,11 @@ CA,Sechelt,BC Transit (Sunshine Coast Transit System),https://bct.tmix.se/Tmix.C
 CA,Shawinigan,Régie de transport en commun de Shawinigan,https://app.mecatran.com/urb/ws/feed/c2l0ZT1zaGF3aW5pZ2FuO2NsaWVudD1zZWxmO2V4cGlyZT07dHlwZT1ndGZzO2tleT03MjQxM2QzMTNiMmM1ZTY2MWIwMzJlN2E0YTY4NWU0YTI1MzUwNzZi,tld-857,,active
 CA,Sherbrooke,Société de Transport de Sherbrooke,https://gtfs.sts.qc.ca:8443/gtfs/client/GTFS_clients.zip,mdb-1996,https://www.donneesquebec.ca/recherche/fr/dataset/transport-sts,active
 CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/alert,rt-al-f-f2hf-sociétédetransportdesherbrooke~rt,,active
+CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/alert?token=ed02f9a16ccc44f1b3ee37d704db5bfd,rt-al-f-f2hf-sociétédetransportdesherbrooke~rt-2,,active
 CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/tripupdate,rt-tr-f-f2hf-sociétédetransportdesherbrooke~rt,,active
+CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/tripupdate?token=ed02f9a16ccc44f1b3ee37d704db5bfd,rt-tr-f-f2hf-sociétédetransportdesherbrooke~rt-2,,active
 CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/vehicleposition,rt-ve-f-f2hf-sociétédetransportdesherbrooke~rt,,active
+CA,Sherbrooke,sociétédetransportdesherbrooke rt,https://exo.chrono-saeiv.com/api/opendata/v1/STS/vehicleposition?token=ed02f9a16ccc44f1b3ee37d704db5bfd,rt-ve-f-f2hf-sociétédetransportdesherbrooke~rt-2,,active
 CA,Sorel-Tracy,Société de transport collectif de Pierre-De Saurel,https://zenbus.net/gtfs/static/download.zip?dataset=pierre-de-saurel,mdb-2379,,active
 CA,Sorel-Tracy,Société des Traversiers du Québec,https://gtfs.traversiers.com/api/gtfs.zip,f-societe~des~traversiers~du~quebec,CC-BY-4.0,active
 CA,Southwestern Ontario,Go Transit,https://assets.metrolinx.com/raw/upload/Documents/Metrolinx/Open%20Data/GO-GTFS.zip,mdb-1993,https://www.gotransit.com/en/partner-with-us/software-developers,active
@@ -768,6 +771,7 @@ CA,national,Prince~Albert~Sk~Ca,https://media-002-ca.cdn.govstack.com/citypa-015
 CA,national,Protection~Island~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/PROTECTIONISLAND_feed/feed-ProtectionIsland.zip,f-protection~island~bc~ca,,active
 CA,national,Quinte~Transit~Ca,https://myride.quintetransit.ca/gtfs/20260701%20Summer%20CTS%20V3/google_transit.zip,f-quinte~transit~ca,,active
 CA,national,Rouyn~Noranda~Qc~Ca,https://www.donneesquebec.ca/recherche/dataset/41ae2192-51ec-4e20-9a1a-6dd1ffd43777/resource/c08636e0-5ce0-4bcf-9fb3-e3be76665c84/download,f-rouyn~noranda~qc~ca,,active
+CA,national,Rouyn~Noranda~Qc~Ca,https://zenbus.net/gtfs/static/download.zip?dataset=rouynnoranda,f-rouyn~noranda~qc~ca,ODbL-1.0,active
 CA,national,Saint~John~Nb~Ca,https://saintjohn.maps.arcgis.com/sharing/rest/content/items/d6f4783521364429a2e51a64c60ae234/data,f-saint~john~nb~ca,https://saintjohn.maps.arcgis.com/home/item.html?id=d6f4783521364429a2e51a64c60ae234,active
 CA,national,Tofino~Shuttle~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TOFINO_feed/feed-tofino.zip,f-tofino~shuttle~bc~ca,,active
 CA,national,West~Coast~Trail~Express~Bc~Ca,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/TRAILBUS_feed/feed-trailbus.zip,f-west~coast~trail~express~bc~ca,,active
@@ -27442,8 +27446,13 @@ XX,national,West~Virginia~University,https://prt.wvu.edu/files/d/fcc4abeb-9e23-4
 XX,national,Winona~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/winona-mn-us/winona-mn-us--flex-v2.zip,f-winona~mn~us~flex,,active
 XX,national,Wintran~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/wintran-va-us/wintran-va-us--flex-v2.zip,f-wintran~va~us~flex,,active
 XX,national,Zenbus~Arche,https://zenbus.net/gtfs/static/download.zip?dataset=lr11-arche,f-zenbus~arche,ODbL-1.0,active
+XX,national,Zenbus~Boischatel,https://zenbus.net/gtfs/static/download.zip?dataset=boischatel,f-zenbus~boischatel,ODbL-1.0,active
 XX,national,Zenbus~Coeur~De~Tarentaise,https://zenbus.net/gtfs/static/download.zip?dataset=coeur-de-tarentaise,f-zenbus~coeur~de~tarentaise,ODbL-1.0,active
 XX,national,Zenbus~Ile~De~Re,https://zenbus.net/gtfs/static/download.zip?dataset=iledere-rna,f-zenbus~ile~de~re,ODbL-1.0,active
+XX,national,Zenbus~Limocar,https://zenbus.net/gtfs/static/download.zip?dataset=limocar,f-zenbus~limocar,ODbL-1.0,active
+XX,national,Zenbus~Mobilite~Charlevoix,https://zenbus.net/gtfs/static/download.zip?dataset=charlevoix,f-zenbus~mobilite~charlevoix,ODbL-1.0,active
+XX,national,Zenbus~Mrc~Brome~Missisquoi,https://zenbus.net/gtfs/static/download.zip?dataset=bromemissisquoi,f-zenbus~mrc~brome~missisquoi,ODbL-1.0,active
+XX,national,Zenbus~Mrc~Cote~De~Beaupre,https://zenbus.net/gtfs/static/download.zip?dataset=cote-de-beaupre,f-zenbus~mrc~cote~de~beaupre,ODbL-1.0,active
 XX,national,abqride rt,https://api.goswift.ly/real-time/abq-ride/gtfs-rt-trip-updates,rt-tr-f-abqride~rt,,active
 XX,national,abqride rt,https://api.goswift.ly/real-time/abq-ride/gtfs-rt-vehicle-positions,rt-ve-f-abqride~rt,,active
 XX,national,abqride rt alerts,https://api.goswift.ly/real-time/abq-ride/gtfs-rt-alerts,rt-al-f-abqride~rt~alerts,,active
@@ -27664,6 +27673,7 @@ XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realti
 XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-edmond~ok~us~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/realtime/embarkok,rt-tr-f-embarknorman~ok~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/vehicles/embarkok,rt-ve-f-embarknorman~ok~rt,,active
+XX,national,emel limassol cy rt,http://20.19.98.194:8328/Api/api/gtfs-realtime/6,rt-ve-f-emel~limassol~cy~rt,,active
 XX,national,emerygo round rt,https://egrshuttle.com/gtfs-rt/alerts,rt-al-f-emerygo~round~rt,,active
 XX,national,emerygo round rt,https://egrshuttle.com/gtfs-rt/tripupdates,rt-tr-f-emerygo~round~rt,,active
 XX,national,emerygo round rt,https://egrshuttle.com/gtfs-rt/vehiclepositions,rt-ve-f-emerygo~round~rt,,active
@@ -27830,6 +27840,9 @@ XX,national,ladot rt,https://ladotbus.com/gtfs-rt/vehiclepositions,rt-ve-f-ladot
 XX,national,lafayette la rt,https://lts.syncromatics.com/gtfs-rt/alerts,rt-al-f-lafayette~la~rt,,active
 XX,national,lafayette la rt,https://lts.syncromatics.com/gtfs-rt/tripupdates,rt-tr-f-lafayette~la~rt,,active
 XX,national,lafayette la rt,https://lts.syncromatics.com/gtfs-rt/vehiclepositions,rt-ve-f-lafayette~la~rt,,active
+XX,national,lanka metro transit rt,https://api.transit.seyone.dev/api/v1/realtime/alerts?agency=LMT,rt-al-f-lanka~metro~transit~rt,,active
+XX,national,lanka metro transit rt,https://api.transit.seyone.dev/api/v1/realtime/trip-updates?agency=LMT,rt-tr-f-lanka~metro~transit~rt,,active
+XX,national,lanka metro transit rt,https://api.transit.seyone.dev/api/v1/realtime/vehicle-positions?agency=LMT,rt-ve-f-lanka~metro~transit~rt,,active
 XX,national,las cruces road runner rt,https://passio3.com/roadrunner/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-las~cruces~road~runner~rt,,active
 XX,national,las cruces road runner rt,https://passio3.com/roadrunner/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-las~cruces~road~runner~rt,,active
 XX,national,las cruces road runner rt,https://passio3.com/roadrunner/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-las~cruces~road~runner~rt,,active
@@ -28013,6 +28026,8 @@ XX,national,rosemead ca us rt,https://passio3.com/rosemead/passioTransit/gtfs/re
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/serviceAlert/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-al-f-rosevilletransit~rt,,active
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/tripUpdate/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-tr-f-rosevilletransit~rt,,active
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/vehiclePosition/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-ve-f-rosevilletransit~rt,,active
+XX,national,rouyn noranda qc ca rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=rouynnoranda,rt-tr-f-rouyn~noranda~qc~ca~rt,,active
+XX,national,rouyn noranda qc ca rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=rouynnoranda,rt-ve-f-rouyn~noranda~qc~ca~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=alert,rt-al-f-rrta~pa~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-rrta~pa~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-rrta~pa~rt,,active
@@ -28212,6 +28227,8 @@ XX,national,zenbus bernay rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&datas
 XX,national,zenbus bernay rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=bernay,rt-ve-f-zenbus~bernay~rt,,active
 XX,national,zenbus bigorre mongie rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=bigorre-mongie,rt-tr-f-zenbus~bigorre~mongie~rt,,active
 XX,national,zenbus bigorre mongie rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=bigorre-mongie,rt-ve-f-zenbus~bigorre~mongie~rt,,active
+XX,national,zenbus boischatel rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=boischatel,rt-tr-f-zenbus~boischatel~rt,,active
+XX,national,zenbus boischatel rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=boischatel,rt-ve-f-zenbus~boischatel~rt,,active
 XX,national,zenbus bordeaux navettes aeroport rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=bordeaux-navettes-aeroport&file=tu,rt-tr-f-zenbus~bordeaux~navettes~aeroport~rt,,active
 XX,national,zenbus bordeaux navettes aeroport rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=bordeaux-navettes-aeroport&file=vp,rt-ve-f-zenbus~bordeaux~navettes~aeroport~rt,,active
 XX,national,zenbus capbus rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=agdecapbus68429531,rt-tr-f-zenbus~capbus~rt,,active
@@ -28230,14 +28247,22 @@ XX,national,zenbus laurentides rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&
 XX,national,zenbus laurentides rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=linter,rt-ve-f-zenbus~laurentides~rt,,active
 XX,national,zenbus les saisies rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=lessaisies,rt-tr-f-zenbus~les~saisies~rt,,active
 XX,national,zenbus les saisies rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=lessaisies,rt-ve-f-zenbus~les~saisies~rt,,active
+XX,national,zenbus limocar rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=limocar,rt-tr-f-zenbus~limocar~rt,,active
+XX,national,zenbus limocar rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=limocar,rt-ve-f-zenbus~limocar~rt,,active
 XX,national,zenbus mayenne rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=maybus,rt-tr-f-zenbus~mayenne~rt,,active
 XX,national,zenbus mayenne rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=maybus,rt-ve-f-zenbus~mayenne~rt,,active
 XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tum,rt-tr-f-zenbus~mendois~rt,,active
 XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=tum,rt-ve-f-zenbus~mendois~rt,,active
+XX,national,zenbus mobilite charlevoix rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=charlevoix,rt-tr-f-zenbus~mobilite~charlevoix~rt,,active
+XX,national,zenbus mobilite charlevoix rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=charlevoix,rt-ve-f-zenbus~mobilite~charlevoix~rt,,active
 XX,national,zenbus mont tremblant rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tcmt6w8qbuxm,rt-tr-f-zenbus~mont~tremblant~rt,,active
 XX,national,zenbus mont tremblant rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=tcmt6w8qbuxm,rt-ve-f-zenbus~mont~tremblant~rt,,active
 XX,national,zenbus moselle et madon rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=moselle-et-madon,rt-tr-f-zenbus~moselle~et~madon~rt,,active
 XX,national,zenbus moselle et madon rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=moselle-et-madon,rt-ve-f-zenbus~moselle~et~madon~rt,,active
+XX,national,zenbus mrc brome missisquoi rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=bromemissisquoi,rt-tr-f-zenbus~mrc~brome~missisquoi~rt,,active
+XX,national,zenbus mrc brome missisquoi rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=bromemissisquoi,rt-ve-f-zenbus~mrc~brome~missisquoi~rt,,active
+XX,national,zenbus mrc cote de beaupre rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=cote-de-beaupre,rt-tr-f-zenbus~mrc~cote~de~beaupre~rt,,active
+XX,national,zenbus mrc cote de beaupre rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=cote-de-beaupre,rt-ve-f-zenbus~mrc~cote~de~beaupre~rt,,active
 XX,national,zenbus oloron sainte marie rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=oloron,rt-tr-f-zenbus~oloron~sainte~marie~rt,,active
 XX,national,zenbus oloron sainte marie rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=oloron,rt-ve-f-zenbus~oloron~sainte~marie~rt,,active
 XX,national,zenbus paris saclay rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=caee&file=tu,rt-tr-f-zenbus~paris~saclay~rt,,active

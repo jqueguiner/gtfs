@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lanka metro transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.transit.seyone.dev/api/v1/realtime/trip-updates?agency=LMT",
+    "mdb_id": "rt-tr-f-lanka~metro~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

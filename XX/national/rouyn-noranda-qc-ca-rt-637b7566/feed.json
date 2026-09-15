@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rouyn noranda qc ca rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=rouynnoranda",
+    "mdb_id": "rt-ve-f-rouyn~noranda~qc~ca~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

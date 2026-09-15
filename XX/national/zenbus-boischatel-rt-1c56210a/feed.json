@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus boischatel rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=boischatel",
+    "mdb_id": "rt-tr-f-zenbus~boischatel~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

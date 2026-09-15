@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sociétédetransportdesherbrooke rt",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Sherbrooke"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.chrono-saeiv.com/api/opendata/v1/STS/vehicleposition?token=ed02f9a16ccc44f1b3ee37d704db5bfd",
+    "mdb_id": "rt-ve-f-f2hf-sociétédetransportdesherbrooke~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
