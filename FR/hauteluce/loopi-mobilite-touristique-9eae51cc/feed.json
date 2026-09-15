@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Loopi, Mobilité Touristique",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Hauteluce"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/navette-colette-savoie-les-saisies/20260609-175152/colette-gtfs.zip",
+    "mdb_id": "tdg-84203",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
