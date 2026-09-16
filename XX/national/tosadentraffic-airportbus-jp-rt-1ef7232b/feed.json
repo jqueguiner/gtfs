@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tosadentraffic airportbus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Airportbus_vehicle",
+    "mdb_id": "rt-ve-f-tosadentraffic~airportbus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

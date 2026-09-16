@@ -22852,6 +22852,8 @@ JP,national,さかわ~おち花＊花ループバス,https://www.pref.kochi.lg.j
 JP,national,つくば市~筑波地区支線型バスつくばね号,https://www.city.tsukuba.lg.jp/material/files/group/126/GTFS.zip,f-つくば市~筑波地区支線型バスつくばね号,CC-BY-4.0,active
 JP,national,つくば観光交通株式会社,https://api.odpt.org/api/v4/files/odpt/TsukubaKankouKotsu/CoCoBusNogawa.zip?date=current,f-tsukubakankoukotsu~cocobusnogawa~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,とさでん交通~一般路線,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Tosaden-Traffic_Regularbus.zip,f-とさでん交通~一般路線,CC-BY-4.0,active
+JP,national,とさでん交通株式会社,https://api.odpt.org/api/v4/files/odpt/TosadenTraffic/Airportbus.zip?date=current,f-tosadentraffic~airportbus~jp,CC-BY-4.0,active
+JP,national,とさでん交通株式会社,https://api.odpt.org/api/v4/files/odpt/TosadenTraffic/Regularbus.zip?date=current,f-tosadentraffic~regularbus~jp,CC-BY-4.0,active
 JP,national,ふじみ野市内循環バスふじみん号,http://cms2nd.nec.asp.lgwan.jp/material/local/1177/files/group/5/112453_basujoho.zip,f-ふじみ野市内循環バスふじみん号,CC-BY-4.0,active
 JP,national,ふれあいバス大府市循環バス,https://www.city.obu.aichi.jp/_res/projects/default_project/_page_/001/017/133/bus/obu-gtfs-current-data.zip,f-ふれあいバス大府市循環バス,CC-BY-4.0,active
 JP,national,みどり市,https://api.odpt.org/api/v4/files/odpt/MidoriCity/AllLines.zip?date=current,f-midoricity~alllines~jp,CC-BY-4.0,active
@@ -28156,6 +28158,12 @@ XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/vehicles,rt-ve-f-
 XX,national,tosacity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosaCity_AllLines_alert,rt-al-f-tosacity~alllines~jp~rt,,active
 XX,national,tosacity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosaCity_AllLines_trip_update,rt-tr-f-tosacity~alllines~jp~rt,,active
 XX,national,tosacity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosaCity_AllLines_vehicle,rt-ve-f-tosacity~alllines~jp~rt,,active
+XX,national,tosadentraffic airportbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Airportbus_alert,rt-al-f-tosadentraffic~airportbus~jp~rt,,active
+XX,national,tosadentraffic airportbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Airportbus_trip_update,rt-tr-f-tosadentraffic~airportbus~jp~rt,,active
+XX,national,tosadentraffic airportbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Airportbus_vehicle,rt-ve-f-tosadentraffic~airportbus~jp~rt,,active
+XX,national,tosadentraffic regularbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Regularbus_alert,rt-al-f-tosadentraffic~regularbus~jp~rt,,active
+XX,national,tosadentraffic regularbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Regularbus_trip_update,rt-tr-f-tosadentraffic~regularbus~jp~rt,,active
+XX,national,tosadentraffic regularbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Regularbus_vehicle,rt-ve-f-tosadentraffic~regularbus~jp~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-towson~loop~rt,,active

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tosadentraffic regularbus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TosadenTraffic_Regularbus_alert",
+    "mdb_id": "rt-al-f-tosadentraffic~regularbus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
