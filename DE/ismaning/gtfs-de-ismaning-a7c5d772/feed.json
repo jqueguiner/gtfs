@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ismaning",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Ismaning"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-4ff26a53c4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
