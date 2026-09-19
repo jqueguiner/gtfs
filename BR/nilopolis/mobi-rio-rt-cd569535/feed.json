@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mobi rio rt",
+    "country": "BR",
+    "subdivision": "Rio de Janeiro",
+    "city": "Nilopolis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dados.mobilidade.rio/gtfs/realtime",
+    "mdb_id": "rt-ve-f-75cj-mobi~rio~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
