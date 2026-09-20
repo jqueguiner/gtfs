@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Del~Gobierno~De~Aragón",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nap.transportes.gob.es/api/Fichero/download/2554",
+    "mdb_id": "f-autobuses~del~gobierno~de~aragón",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
