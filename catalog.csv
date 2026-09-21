@@ -24689,8 +24689,10 @@ SE,Östergötland County,Östgötatrafiken,https://opendata.samtrafiken.se/gtfs/
 SG,Central,Land Transport Authority (Singapore),https://github.com/thecrapone/singapore-gtfs-2026/raw/main/singapore-gtfs.zip,mdb-3051,https://data.gov.sg/open-data-licence,active
 SG,Central,Mandai Wildlife Reserve,https://www.mandai.com/content/dam/mandai/misc/gtfs.zip,mdb-2938,,active
 SG,Central,"SMRT, SBS Transit (SBST), Land Transport Authority (LTA), Go Ahead Singapore (GAS), Tower Transit (TTS)",https://cdn.rushowl.app/rushtrail-app/gtfs-feed/gtfs-feed-lta.zip,mdb-1076,,active
+SG,Singapore,Go-Ahead Singapore,http://gtfs-source-feeds.transit.land/singapore-lta-bus.zip,f-w21z-lta~bus,https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html,active
 SG,Singapore,LTA DataMall (Land Transport Authority),https://datamall2.mytransport.sg/ltaodataservice/v3/BusArrival?BusStopCode=83139,rtweb-sg-lta-datamall-land-transpor,,active
 SG,Singapore,LTA DataMall (SBST/SMRT/TTS/GAS),https://datamall2.mytransport.sg/ltaodataservice/BusArrivalv2,rtweb-sg-lta-datamall-sbst-smrt-tts,,active
+SG,Singapore,SBS Transit,http://gtfs-source-feeds.transit.land/singapore-lta-rail.zip,f-w21z-lta~rail,https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html,active
 SG,Southeast,Singapore typical weekday,https://github.com/Vorld/singapore-gtfs/releases/download/v2026-07-12/singapore-gtfs.zip,mdb-3409,https://github.com/Vorld/singapore-gtfs#licence,active
 SI,Brežice,"NOMAGO, storitve mobilnosti in potovanj, d.o.o.",https://b2b.nap.si/data/b2b.gtfs.brezice,mdb-2941,https://creativecommons.org/licenses/by-sa/4.0/deed.sl,active
 SI,Celje,Celebus,https://gitlab.com/api/v4/projects/derp-si%2Fgtfs-generators/packages/generic/CELEBUS/latest/celje.zip,si-nap-celebus,CC-BY-SA-4.0,active
@@ -27487,6 +27489,7 @@ UY,Colonia,Colonia del Sacramento - Bus,https://github.com/manufarfaro/colonia-g
 UY,Montevideo,Intendencia de Montevideo (STM),https://www.montevideo.gub.uy/buses/rest/stm-online,rtweb-uy-intendencia-de-montevideo-st,,active
 UY,Montevideo,Intendencia de Montevideo — Montevideo API (publictransport),https://api.montevideo.gub.uy/api/transporte/buses/busesnew,rtweb-uy-intendencia-de-montevideo-,,active
 UY,Montevideo,MTOP / Dirección Nacional de Transporte (DNT),https://catalogodatos.gub.uy/dataset/1d50ccf7-121d-48a7-951e-28a02858d24e/resource/9f44b654-751a-42a4-a481-af91b7c9a2e4/download/gtfs_20260326.zip,uy-mtop-dnt-gtfs,Licencia de Datos Abiertos de Gobierno de Uruguay,active
+UY,Montevideo,MTOP / Dirección Nacional de Transporte (DNT),https://catalogodatos.gub.uy/dataset/1d50ccf7-121d-48a7-951e-28a02858d24e/resource/9f44b654-751a-42a4-a481-af91b7c9a2e4/download/gtfs_20260921.zip,uy-mtop-dnt-gtfs,Licencia de Datos Abiertos de Gobierno de Uruguay,active
 UZ,Tashkent,JSC Toshshahartransxizmat - City bus network,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/UZ/tashkent/jsc-toshshahartransxizmat-city-bus-network/gtfs/,uz-llm-jsc-toshshahartransxizmat-city-bus-netwo,,active
 UZ,Tashkent,JSC Toshshahartransxizmat - Suburban bus routes,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/UZ/tashkent/jsc-toshshahartransxizmat-suburban-bus-routes/gtfs/,uz-llm-jsc-toshshahartransxizmat-suburban-bus-r,,active
 UZ,Tashkent,SUE Toshkent Metropoliteni (Tashkent Metro),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/UZ/tashkent/sue-toshkent-metropoliteni-tashkent-metro/gtfs/,uz-llm-sue-toshkent-metropoliteni-tashkent-metr,,active

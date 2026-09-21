@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "SBS Transit",
+    "country": "SG",
+    "subdivision": null,
+    "city": "Singapore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/singapore-lta-rail.zip",
+    "mdb_id": "f-w21z-lta~rail",
+    "license": "https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
