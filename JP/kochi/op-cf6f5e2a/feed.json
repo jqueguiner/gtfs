@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "とさでん交通株式会社",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": "Kochi"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/TosadenTraffic/Airportbus.zip?date=current",
+    "mdb_id": "jp-gdjp-tosaden-kotsu-GTFS-Tosadentraffic_Airportbus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "gtfs-data.jp",
+  "status": "active"
+}
