@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Suzukacity~Communitybus",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/suzukacity/feeds/communitybus/files/feed.zip?uid=b901ca29-ec66-4f22-b34a-0b7b06b362ed",
+    "mdb_id": "f-suzukacity~communitybus",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
