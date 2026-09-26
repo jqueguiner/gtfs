@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schongau",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schongau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e049ff9f55",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

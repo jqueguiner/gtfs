@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grafenhainichen",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Grafenhainichen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7168db1a2d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
