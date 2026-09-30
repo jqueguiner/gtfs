@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "browardcountytransit rt",
+    "country": "US",
+    "subdivision": "Florida",
+    "city": "Weston"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://myride2.broward.org/gtfsrealtime/api/vehiclepositions",
+    "mdb_id": "rt-ve-f-dhw-browardcountytransit~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

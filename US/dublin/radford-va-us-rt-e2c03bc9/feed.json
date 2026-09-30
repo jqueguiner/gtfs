@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "radford va us rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Dublin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/radford/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dnwe-radford~va~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

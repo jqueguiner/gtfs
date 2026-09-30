@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nywaterway rt",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Brinckerhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate",
+    "mdb_id": "rt-tr-f-dr7-nywaterway~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

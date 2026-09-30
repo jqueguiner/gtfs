@@ -25522,6 +25522,9 @@ US,Bridgeport,Greater Bridgeport Transit,http://data.trilliumtransit.com/gtfs/gb
 US,Bridgeport,Southeastern Pennsylvania Transportation Authority (SEPTA),https://www3.septa.org/developer/google_bus.zip,mdb-502,https://www3.septa.org/developer/,active
 US,Brinckerhoff,MTA Metro-North Railroad,https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/mnr%2Fgtfs-mnr,rt-tr-f-mta~nyc~rt~mnr,,active
 US,Brinckerhoff,Westchestercountybee~Linesystem,https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip,f-dr7-westchestercountybee~linesystem,https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service,active
+US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-dr7-nywaterway~rt,,active
+US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-dr7-nywaterway~rt,,active
+US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-dr7-nywaterway~rt,,active
 US,Bristol,Bristol Virginia Transit,http://data.trilliumtransit.com/gtfs/bristol-va-us/bristol-va-us.zip,mdb-238,,active
 US,Bristol,City of Bristol Tennessee,https://www.bristoltn.org/DocumentCenter/View/10245/btt-bristol-tn-us,ntd-40055,,active
 US,Broadmoor,San Francisco Municipal Transportation Agency,http://api.511.org/transit/datafeeds?operator_id=SF,f-9q8y-sfmta,https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf,active
@@ -25609,6 +25612,9 @@ US,Charlottesville,Charlottesvilleareatransit,https://s3.amazonaws.com/etatransi
 US,Charlottesville,Jaunt,https://gtfs.remix.com/jaunt_charlottesville_va_us.zip,mdb-3492,,active
 US,Charlottesville,University~Of~Virginia,https://uva.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-university~of~virginia,,active
 US,Charlottesville,Uva~Hsts,https://uva-hsts.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-uva~hsts,,active
+US,Charlottesville,charlottesvilleareatransit rt,https://s3.amazonaws.com/etatransit.gtfs/catpublic.etaspot.net/alerts.pb,rt-al-f-dqb0q-charlottesvilleareatransit~rt,,active
+US,Charlottesville,charlottesvilleareatransit rt,https://s3.amazonaws.com/etatransit.gtfs/catpublic.etaspot.net/position_updates.pb,rt-ve-f-dqb0q-charlottesvilleareatransit~rt,,active
+US,Charlottesville,charlottesvilleareatransit rt,https://s3.amazonaws.com/etatransit.gtfs/catpublic.etaspot.net/trip_updates.pb,rt-tr-f-dqb0q-charlottesvilleareatransit~rt,,active
 US,Chatham,Capecodregionaltransitauthorityccrta,https://data.trilliumtransit.com/gtfs/capecod-ma-us/capecod-ma-us.zip,f-drq-capecodregionaltransitauthorityccrta,https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf,active
 US,Chatham,Freedomcruiseline~Ma~Us,https://data.trilliumtransit.com/gtfs/freedomcruiseline-ma-us/freedomcruiseline-ma-us.zip,f-drq-freedomcruiseline~ma~us,https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf,active
 US,Chattanooga,Chattanooga Area Regional Transportation Authority (CARTA),https://raw.githubusercontent.com/gocarta/gtfs/refs/heads/master/gtfs_current.zip,mdb-3474,,active
@@ -25772,6 +25778,9 @@ US,Douglas County,Omaha Metro,https://www.ometro.com/wp-content/uploads/GTFSRT/g
 US,Douglas County,Tahoe Transportation District,http://data.trilliumtransit.com/gtfs/tahoe-ca-us/tahoe-ca-us.zip,mdb-897,,active
 US,Doña Ana County,NMDOT Park and Ride,https://api.realfile.rtsclients.com/PublicFiles/f260a66b364d453e91ff9b3fedd494dc/0058c359-58f0-438f-9e65-c47fc855d4cf/NMDOT%20Park%20and%20Ride%20GTFS%20Data%20updated%20April%201%202024.zip,tld-5537,,active
 US,Doña Ana County,RoadRUNNER Transit,https://passio3.com/roadrunner/passioTransit/gtfs/google_transit.zip,mdb-2075,,active
+US,Dublin,radford va us rt,https://passio3.com/radford/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-dnwe-radford~va~us~rt,,active
+US,Dublin,radford va us rt,https://passio3.com/radford/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-dnwe-radford~va~us~rt,,active
+US,Dublin,radford va us rt,https://passio3.com/radford/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-dnwe-radford~va~us~rt,,active
 US,Dubuque County,The Jule,https://myride.cityofdubuque.org/gtfs/google_transit.zip,mdb-2083,,active
 US,Dukes County,Hy-Line Cruises,http://data.trilliumtransit.com/gtfs/hylinecruises-ma-us/hylinecruises-ma-us.zip,mdb-427,,active
 US,Dukes County,Patriots Party Boats,http://data.trilliumtransit.com/gtfs/patriotpartyboats-ma-us/patriotpartyboats-ma-us.zip,mdb-424,,active
@@ -26063,6 +26072,7 @@ US,Ipswich,Capeann~Ma~Us,https://data.trilliumtransit.com/gtfs/capeann-ma-us/cap
 US,Irvine,Lagunabeachtransit,https://lagunabeach.tripshot.com/v1/gtfs.zip,f-lagunabeachtransit,,active
 US,Irvine,Uc~Irvine~Anteater~Express,https://ucirvine.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-uc~irvine~anteater~express,,active
 US,Island County,Island Transit,https://data.trilliumtransit.com/gtfs/islandtransit-wa-us/islandtransit-wa-us.zip,mdb-280,,active
+US,Ivins,Suntran,https://apps.sgcityutah.gov/GTFS_2025-10-13.zip,f-9qx5-suntran,,active
 US,Ivins,Suntran,https://enet.sgcity.org/GTFS_2025-10-13.zip,f-9qx5-suntran,,active
 US,Jackson Township,New Castle Area Transit Authority,https://ncata.rideralerts.com/InfoPoint/gtfs-zip.ashx,tld-7030,,active
 US,Jacksonville,jacksonvilletransit rt,https://passio3.com/jacksonville/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-dq0v-jacksonvilletransit~rt,,active
@@ -26313,6 +26323,9 @@ US,Luzerne County,Luzerne County Transportation Authority,https://realtimelctabu
 US,Lyndhurst,Brite~Bus~Va,https://data.trilliumtransit.com/gtfs/brite-va-us/brite-va-us.zip,f-brite~bus~va,,active
 US,Lynwood,Lynwood~Trolley,https://www.ips-systems.com/GTFS/Schedule/53,f-lynwood~trolley,,active
 US,Lyon County,Community Transit,https://data.trilliumtransit.com/gtfs/unitedcap-mn-us/unitedcap-mn-us.zip,tld-5761,,active
+US,Mableton,cobbavl rt,https://cobb.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-dn5b-cobbavl~rt,,active
+US,Mableton,cobbavl rt,https://cobb.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-dn5b-cobbavl~rt,,active
+US,Mableton,cobbavl rt,https://cobb.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-dn5b-cobbavl~rt,,active
 US,Macon County,Decatur Public Transit System,https://gtfs.remix.com/dpts_decatur_il_us.zip,tld-7036,,active
 US,Madera Acres,Maderaareaexpress~Ca~Us,https://data.trilliumtransit.com/gtfs/cityofmadera-ca-us/cityofmadera-ca-us.zip,f-9qdd-maderaareaexpress~ca~us,,active
 US,Madera County,Madera County Transit,http://data.trilliumtransit.com/gtfs/maderactc-ca-us/maderactc-ca-us.zip,mdb-572,,active
@@ -27173,6 +27186,9 @@ US,Westchester County,Mercy College,https://passio3.com/mercy/passioTransit/gtfs
 US,Westernport,Potomac~Valley~Transit~Authority,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/12017/feed.zip,f-potomac~valley~transit~authority,https://www.potomacvalleytransit.org/gtfs-feed/,active
 US,Weston,browardcountytransit rt,https://bctmyride-buspas.com:8080/GTFS/TripUpdates,rt-tr-f-dhw-browardcountytransit~rt,,active
 US,Weston,browardcountytransit rt,https://bctmyride-buspas.com:8080/GTFS/VehiclePositions,rt-ve-f-dhw-browardcountytransit~rt,,active
+US,Weston,browardcountytransit rt,https://myride2.broward.org/gtfsrealtime/api/alerts,rt-al-f-dhw-browardcountytransit~rt,,active
+US,Weston,browardcountytransit rt,https://myride2.broward.org/gtfsrealtime/api/tripupdates,rt-tr-f-dhw-browardcountytransit~rt-2,,active
+US,Weston,browardcountytransit rt,https://myride2.broward.org/gtfsrealtime/api/vehiclepositions,rt-ve-f-dhw-browardcountytransit~rt-2,,active
 US,Weston,browardcountytransit tracktrolley rt,https://tcbct.tracktrolley.com/api/v1/key/3e1f2497/agency/BCT/command/gtfs-rt/tripUpdates,rt-tr-f-dhw-browardcountytransit~tracktrolley~rt,,active
 US,Weston,browardcountytransit tracktrolley rt,https://tcbct.tracktrolley.com/api/v1/key/3e1f2497/agency/BCT/command/gtfs-rt/vehiclePositions,rt-ve-f-dhw-browardcountytransit~tracktrolley~rt,,active
 US,"Westwood, Los Angeles",Ucla~Bruinbus,https://uclabruinbus.tripshot.com/v1/gtfs.zip?regionId=CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,f-ucla~bruinbus,,active
@@ -27667,6 +27683,7 @@ XX,national,Autobuses~Del~Gobierno~De~Aragón,https://nap.transportes.gob.es/api
 XX,national,Bandelier~National~Monument~Shuttle,https://www.nps.gov/external-resources/gtfs/band/bandelier-national-monument.zip,f-bandelier~national~monument~shuttle,,active
 XX,national,Benton~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/benton-or-us/benton-or-us--flex-v1.zip,f-benton~or~us~flex,,active
 XX,national,City~Of~Lompoc~Transit,https://www.cityoflompoc.com/home/showpublisheddocument/29896,f-city~of~lompoc~transit,,active
+XX,national,Clatsopcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/clatsopcounty-or-us/clatsopcounty-or-us--flex-v2.zip,f-clatsopcounty~or~us~flex,,active
 XX,national,Columbiacounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/columbiacounty-or-us/columbiacounty-or-us--flex-v1.zip,f-columbiacounty~or~us~flex,,active
 XX,national,Dubai~Rta,http://gtfs-source-feeds.transit.land/dubai-rta.zip,f-dubai~rta,https://www.dubaipulse.gov.ae/data/rta_gtfs-open/datafiles/605e9d34-cfea-4bed-9b31-3b2ce86c7a25/rta-public-transports#preview,active
 XX,national,Fairmont~Marion~County,https://fmcta.com/gtfs/FMCTA-GTFS.zip,f-fairmont~marion~county,,active
@@ -27677,6 +27694,7 @@ XX,national,Hmrl~Hyderabad,https://drive.google.com/uc?export=download&id=1q8hqx
 XX,national,Humboldt~Transit~Authority~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/HumboldtTransitAuthorityDialARideFlex.zip,f-humboldt~transit~authority~dial~a~ride~flex,,active
 XX,national,Kasugaicity~Kasugaicitybus,https://api.gtfs-data.jp/v2/organizations/kasugaicity/feeds/kasugaicitybus/files/feed.zip?uid=58f5b828-c21e-4897-8d1e-587c6b44c61d,f-kasugaicity~kasugaicitybus,CC0-1.0,active
 XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v1.zip,f-lincolncounty~or~us~flex,,active
+XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v2.zip,f-lincolncounty~or~us~flex,,active
 XX,national,Mankato~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/mankato-mn-us/mankato-mn-us--flex-v2.zip,f-mankato~mn~us~flex,,active
 XX,national,Manteca~Transit~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/MantecaTransitParatransitFlex.zip,f-manteca~transit~paratransit~flex,,active
 XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-iidacity-3/files/feed.zip?uid=7721b837-c0ca-45dc-820a-470e0cee4582,f-minamishinshu~minamishinshu~iidacity~3,CC-BY-4.0,active
@@ -27701,6 +27719,7 @@ XX,national,Tahoe~Truckee~Regional~Transportation~Tart~Connect~Dial~A~Ride~Place
 XX,national,Texas~State~San~Marcos,https://s3.amazonaws.com/etatransit.gtfs/bobcatshuttle.etaspot.net/gtfs.zip,f-texas~state~san~marcos,https://www.shuttle.txst.edu/about/gtfs.html,active
 XX,national,Thousand~Oaks~Dial~A~Ride~Paratransitand~Connect~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/ThousandOaksDialARideParatransitandConnectFlex.zip,f-thousand~oaks~dial~a~ride~paratransitand~connect~flex,,active
 XX,national,Tillamookcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us--flex-v1.zip,f-tillamookcounty~or~us~flex,,active
+XX,national,Tillamookcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us--flex-v2.zip,f-tillamookcounty~or~us~flex,,active
 XX,national,Tohtetsu~Tohtetsu~Kani,https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_kani/files/feed.zip?uid=e544a3b6-9cc7-45c7-8152-96091420855d,f-tohtetsu~tohtetsu~kani,CC-BY-4.0,active
 XX,national,Tohtetsu~Tohtetsu~Tajimi,https://api.gtfs-data.jp/v2/organizations/tohtetsu/feeds/tohtetsu_tajimi/files/feed.zip?uid=55018190-4a50-40df-a372-ae61b8cbab7d,f-tohtetsu~tohtetsu~tajimi,CC-BY-4.0,active
 XX,national,Transport~For~London,http://gtfs-source-feeds.transit.land/uk-tfl.zip,f-transport~for~london,,active
@@ -27710,6 +27729,7 @@ XX,national,Turlock~Transit~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_fi
 XX,national,Uk~Rail,http://gtfs-source-feeds.transit.land/uk-rail.zip,f-uk~rail,,active
 XX,national,Union~City~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/UnionCityParatransitFlex.zip,f-union~city~paratransit~flex,,active
 XX,national,Valley~Express~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/ValleyExpressDialARideFlex.zip,f-valley~express~dial~a~ride~flex,,active
+XX,national,Virginia~Breeze,https://maps.tds.ai/download-feed/virginia-breeze-gtfs,f-virginia~breeze,https://drpt.virginia.gov/data/gtfs-feed-clearinghouse/,active
 XX,national,Wasco~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/WascoDialaRideFlex.zip,f-wasco~dial~a~ride~flex,,active
 XX,national,West~Cat~Senior~Dial~A~Rideand~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/WestCATSeniorDialARideandParatransitFlex.zip,f-west~cat~senior~dial~a~rideand~paratransit~flex,,active
 XX,national,West~Virginia~University,https://prt.wvu.edu/files/d/fcc4abeb-9e23-477b-b648-30623cb8ad80/gtfs.zip,f-west~virginia~university,https://prt.wvu.edu/regulatory-compliance/gtfs,active
@@ -27875,6 +27895,8 @@ XX,national,chittendoncounty rt,https://api.goswift.ly/real-time/green-mountain/
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/alerts,rt-al-f-citiesareatransit~rt,,active
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/tripupdates,rt-tr-f-citiesareatransit~rt,,active
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/vehiclepositions,rt-ve-f-citiesareatransit~rt,,active
+XX,national,city of kokomo rt,https://drive.google.com/uc?export=download&id=12OWJm28dWakSVM3TnmajNWmUrmcytZPq,rt-ve-f-city~of~kokomo~rt,,active
+XX,national,city of kokomo rt,https://drive.google.com/uc?export=download&id=1Ytg04NVUpr7b069y7GOn1kzdawhkemXm,rt-tr-f-city~of~kokomo~rt,,active
 XX,national,cityandboroughofjuneau rt,https://api.goswift.ly/real-time/juneau/gtfs-rt-trip-updates,rt-tr-f-cityandboroughofjuneau~rt,,active
 XX,national,cityandboroughofjuneau rt,https://api.goswift.ly/real-time/juneau/gtfs-rt-vehicle-positions,rt-ve-f-cityandboroughofjuneau~rt,,active
 XX,national,clackamascounty or us rt,https://passio3.com/clackamas/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-clackamascounty~or~us~rt,,active
@@ -27942,6 +27964,9 @@ XX,national,east tennessee human resource agency inc rt,https://passio3.com/ethr
 XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-edmond~ok~us~rt,,active
 XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-edmond~ok~us~rt,,active
 XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-edmond~ok~us~rt,,active
+XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/ServiceAlert.pb,rt-al-f-el~paso~county~rt,,active
+XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/TripUpdate.pb,rt-tr-f-el~paso~county~rt,,active
+XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/VehiclePosition.pb,rt-ve-f-el~paso~county~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/realtime/embarkok,rt-tr-f-embarknorman~ok~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/vehicles/embarkok,rt-ve-f-embarknorman~ok~rt,,active
 XX,national,emel limassol cy rt,http://20.19.98.194:8328/Api/api/gtfs-realtime/6,rt-ve-f-emel~limassol~cy~rt,,active
@@ -28301,6 +28326,9 @@ XX,national,rochester mn us rt,https://gtfsrt.rpt.cadavl.com/ProfilGtfsRt2_0RSPr
 XX,national,rochester mn us rt,https://gtfsrt.rpt.cadavl.com/ProfilGtfsRt2_0RSProducer-RPT/VehiclePosition.pb,rt-ve-f-rochester~mn~us~rt,,active
 XX,national,rogue valley transportation district rt,http://gtfsrt.rvtd.org:8085/ProfilGtfsRt2_0RSProducer-RVTD/Alert.pb,rt-al-f-rogue~valley~transportation~district~rt,,active
 XX,national,rogue valley transportation district rt,http://gtfsrt.rvtd.org:8085/ProfilGtfsRt2_0RSProducer-RVTD/TripUpdate.pb,rt-tr-f-rogue~valley~transportation~district~rt,,active
+XX,national,rogue valley transportation district rt,https://gtfsrt.rvtd.cadavl.com/ProfilGtfsRt2_0RSProducer-RVTD/Alert.pb,rt-al-f-rogue~valley~transportation~district~rt-2,,active
+XX,national,rogue valley transportation district rt,https://gtfsrt.rvtd.cadavl.com/ProfilGtfsRt2_0RSProducer-RVTD/TripUpdate.pb,rt-tr-f-rogue~valley~transportation~district~rt-2,,active
+XX,national,rogue valley transportation district rt,https://gtfsrt.rvtd.cadavl.com/ProfilGtfsRt2_0RSProducer-RVTD/VehiclePosition.pb,rt-ve-f-rogue~valley~transportation~district~rt,,active
 XX,national,rosemead ca us rt,https://passio3.com/rosemead/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-rosemead~ca~us~rt,,active
 XX,national,rosemead ca us rt,https://passio3.com/rosemead/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-rosemead~ca~us~rt,,active
 XX,national,rosemead ca us rt,https://passio3.com/rosemead/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-rosemead~ca~us~rt,,active

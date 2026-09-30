@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "el paso county rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.peaktransit.com/gtfsrt/193/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-el~paso~county~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
