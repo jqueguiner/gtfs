@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pee dee sc us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/pdtransit.etaspot.net/trip_updates.pb",
+    "mdb_id": "rt-tr-f-pee~dee~sc~us~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

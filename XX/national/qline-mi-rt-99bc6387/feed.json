@@ -1,17 +1,17 @@
 {
   "agency": {
-    "name": "Fairmont~Marion~County",
+    "name": "qline mi rt",
     "country": "XX",
     "subdivision": null,
     "city": null
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://fmcta.com/gtfs/FMCTA-GTFS.zip",
-    "mdb_id": "f-fairmont~marion~county",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/qline.etaspot.net/trip_updates.pb",
+    "mdb_id": "rt-tr-f-qline~mi~rt-2",
     "license": null
   },
   "bbox": null,
-  "source": "transitland-atlas",
+  "source": "gtfs-rt",
   "status": "active"
 }

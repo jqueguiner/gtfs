@@ -1,17 +1,17 @@
 {
   "agency": {
-    "name": "Fairmont~Marion~County",
+    "name": "coast rta sc us rt",
     "country": "XX",
     "subdivision": null,
     "city": null
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://fmcta.com/gtfs/FMCTA-GTFS.zip",
-    "mdb_id": "f-fairmont~marion~county",
+    "url": "https://coastrta.transloc.com/subscriptions/gtfsrt/vehicles.ashx",
+    "mdb_id": "rt-ve-f-coast~rta~sc~us~rt",
     "license": null
   },
   "bbox": null,
-  "source": "transitland-atlas",
+  "source": "gtfs-rt",
   "status": "active"
 }

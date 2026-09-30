@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Texas~State~San~Marcos",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/bobcatshuttle.etaspot.net/gtfs.zip",
+    "mdb_id": "f-texas~state~san~marcos",
+    "license": "https://www.shuttle.txst.edu/about/gtfs.html"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
