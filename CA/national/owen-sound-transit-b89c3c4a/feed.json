@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Owen Sound Transit",
+    "country": "CA",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://metrolinx.tmix.se/gtfs/gtfs-owensound.zip",
+    "mdb_id": "f-owensound~on~ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Société de transport du Saguenay",
+    "country": "CA",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://saguenay.tmix.se/Tmix.Cap.TdExport.WebApi/gtfs/",
+    "mdb_id": "f-saguenay~qc~ca",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
