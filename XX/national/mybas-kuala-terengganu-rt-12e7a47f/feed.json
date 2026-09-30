@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mybas kuala terengganu rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuala-terengganu",
+    "mdb_id": "rt-ve-f-mybas~kuala~terengganu~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

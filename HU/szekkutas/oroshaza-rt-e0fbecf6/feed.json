@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "oroshaza rt",
+    "country": "HU",
+    "subdivision": "Csongrad",
+    "city": "Szekkutas"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gpspositions.net/storage/realtime/OROSH_V_ONK/trip_updates.pb",
+    "mdb_id": "rt-tr-f-u2q8-oroshaza~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

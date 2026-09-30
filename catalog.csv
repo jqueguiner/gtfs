@@ -2731,6 +2731,7 @@ CL,Santiago,"Seguimos.cl (third-party, RED Metropolitana fleet)",https://velocid
 CL,Santiago Metropolitan Region,"Red Metropolitana de Movilida, EFE Trenes de Chile, Bus de Acercamiento Aeropuerto, Metro de Santiago",https://www.dtpm.cl/descargas/gtfs/GTFS_20260704.zip,mdb-3357,https://www.dtpm.cl/index.php/gtfs-vigente,active
 CL,Temuco,"Sociedad de Transportes Linea N°5 S.A., Sociedad de Transporte A. Alemania - P. Nuevo S.A - Línea Nº1, Transportes Línea Número Dos Limitada, Transp. P.De Valdivia-P.Las Casas Ltda. Nº3, Transportes Sta. Rosa Limitada., Taxibuses Numero Seis S.A., Empresa Tobalaba, Mall, Cajón S. A. Línea Nº7, Empresa de Transportes Línea Nº 8 P.L. Casas S.A., E. de Transportes de Pasajeros Línea Nueve S.A, Empresa de Transportes Altamira S.A, Fesub",http://datos.gob.cl/dataset/cef4c471-2837-412b-a78e-1d4c6a261bf9/resource/7887a7e7-9af6-4fc8-b19f-8ff4ea474d1c/download/temuco24nov16.zip,mdb-1864,,active
 CL,"Villa Presidente Frei, Nunoa, Santiago, Chile",Transantiago~Metrodesantiago,https://www.dtpm.cl/descargas/gtfs/GTFS_20260418.zip,f-66jc-transantiago~metrodesantiago,https://www.dtpm.cl/index.php/noticias/gtfs-vigente,active
+CL,"Villa Presidente Frei, Nunoa, Santiago, Chile",Transantiago~Metrodesantiago,https://www.dtpm.cl/descargas/gtfs/GTFS_20261003.zip,f-66jc-transantiago~metrodesantiago,https://www.dtpm.cl/index.php/noticias/gtfs-vigente,active
 CM,Dibombari,Socatur~Taxisco,https://gitlab.com/digitaltransport/data/africa/douala/-/raw/master/GTFS-SYSTRA/GTFS-SYSTRA.zip,f-s0wz-socatur~taxisco,ODbL-1.0,active
 CM,Douala,Camrail,https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CM/douala/camrail/gtfs/,cm-llm-camrail,,active
 CN,Beijing,Beijing MTR Corporation (BJMTR),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/CN/beijing/beijing-mtr-corporation-bjmtr/gtfs/,cn-llm-beijing-mtr-corporation-bjmtr,,active
@@ -2767,7 +2768,9 @@ CO,Localidad San Cristóbal,SIMUR Bogota,https://storage.googleapis.com/gtfs-est
 CO,Medellin,Metro de Medellin Ltda.,https://www.arcgis.com/sharing/rest/content/items/929fbd2dbfbf493ab44935577e8fbff6/data,co-metro-de-medellin-ltda,,active
 CO,Tolima,Transporte Público Urbano de Ibagué,https://raw.githubusercontent.com/omtu-unibague/gtfs-ibague/main/gtfs_ibague.zip,mdb-3188,,active
 CR,Cantón Curridabat,INCOFER,https://feeds.simovi.org/incofer/schedule/feed.zip,mdb-3480,,active
+CR,Cariari,Ctp~Costarica,https://feeds.simovi.org/ctp/schedule/gtfs.zip,f-d1u-ctp~costarica,,active
 CR,San Jose (Aserri/Acosta corridor),Transportes San Gabriel (TSG) - rutas Acosta / San Gabriel / Turrujal - San Jose,https://transportessangabriel.com/static/gtfs/TSG_GTFS.zip,cr-w2r-8,,active
+CR,Santa Ana,Incofer,https://feeds.simovi.org/incofer/schedule/gtfs.zip,f-d1u0-incofer,,active
 CY,Famagusta District,OSEA,https://www.motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C4_google_transit.zip&rel=True,mdb-1916,,active
 CY,Famagusta district (Ammochostos / Ayia Napa–Paralimni),OSEA — Famagusta district buses,https://motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C4_google_transit.zip&rel=True,cy-w2r-5,,active
 CY,Larnaca (Larnaka),LPT — Larnaca Public Transport,https://motionbuscard.org.cy/opendata/downloadfile?file=GTFS%5C10_google_transit.zip&rel=True,cy-w2r-3,,active
@@ -10200,6 +10203,7 @@ DE,Tarp,gtfs.de — Tarp,https://download.gtfs.de/germany/free/latest.zip,de-cit
 DE,Tasdorf,gtfs.de — Tasdorf,https://download.gtfs.de/germany/free/latest.zip,de-city-5f48b21467,,active
 DE,Tastrup,gtfs.de — Tastrup,https://download.gtfs.de/germany/free/latest.zip,de-city-850b956db0,,active
 DE,Tauberbischofsheim,gtfs.de — Tauberbischofsheim,https://download.gtfs.de/germany/free/latest.zip,de-city-1c28530192,,active
+DE,Taucha,De~Leipziger~Mitteldeutscher,https://www.mdv.de/media/file/f36bb2e5,f-u30u-de~leipziger~mitteldeutscher,CC-BY-4.0,active
 DE,Taucha,gtfs.de — Taucha,https://download.gtfs.de/germany/free/latest.zip,de-city-189e5e4d9c,,active
 DE,Tauche,gtfs.de — Tauche,https://download.gtfs.de/germany/free/latest.zip,de-city-e394baaf60,,active
 DE,Taufkirchen,gtfs.de — Taufkirchen,https://download.gtfs.de/germany/free/latest.zip,de-city-9fa6f913cc,,active
@@ -20102,6 +20106,9 @@ HU,Pécs,BIOKOM,http://mobilitas.biokom.hu/gtfs,mdb-861,,active
 HU,Pécs,Tüke Busz / BIOKOM,https://gtfs.menetbrand.com/download/pecs/,hu-disc-21,,active
 HU,Sopron,"VOLÁNBUSZ - Balatonfűzfő, VOLÁNBUSZ - Balmazújváros, VOLÁNBUSZ - Dunaújváros, VOLÁNBUSZ - Baja, VOLÁNBUSZ - Mezőtúr, VOLÁNBUSZ - Mórahalom, VOLÁNBUSZ - Mosonmagyaróvár, VOLÁNBUSZ - Karcag, VOLÁNBUSZ - Gyula, VOLÁNBUSZ - Csongrád, VOLÁNBUSZ - Hajdúszoboszló, VOLÁNBUSZ - Gyöngyös, VOLÁNBUSZ - Komárom, VOLÁNBUSZ - Siklós, VOLÁNBUSZ - Bonyhád, VOLÁNBUSZ - Ajka, VOLÁNBUSZ - Kazincbarcika, VOLÁNBUSZ - Makó, VOLÁNBUSZ - Sopron, VOLÁNBUSZ - Bátaszék, VOLÁNBUSZ - Békés, VOLÁNBUSZ - Várpalota, VOLÁNBUSZ - Lenti, VOLÁNBUSZ - Körmend, VOLÁNBUSZ - Balassagyarmat, VOLÁNBUSZ - Szentes, VOLÁNBUSZ - Ózd, VOLÁNBUSZ - Fonyód, VOLÁNBUSZ - Székesfehérvár, VOLÁNBUSZ - Békéscsaba, VOLÁNBUSZ - Újszász, VOLÁNBUSZ - Nyíregyháza, VOLÁNBUSZ - Siófok, VOLÁNBUSZ - Nagyatád, VOLÁNBUSZ - Jászberény, VOLÁNBUSZ - Keszthely, VOLÁNBUSZ - Mezőberény, VOLÁNBUSZ - Tata, VOLÁNBUSZ - Eger, VOLÁNBUSZ - Balatonfüred, VOLÁNBUSZ - Csurgó, VOLÁNBUSZ - Szekszárd, VOLÁNBUSZ - Orosháza, VOLÁNBUSZ - Ercsi, VOLÁNBUSZ - Mohács, VOLÁNBUSZ - Vác, VOLÁNBUSZ - Esztergom, VOLÁNBUSZ - Győr, VOLÁNBUSZ - Salgótarján, VOLÁNBUSZ - Komló, VOLÁNBUSZ - Szigetvár, VOLÁNBUSZ - Szolnok, VOLÁNBUSZ - Tiszaújváros, VOLÁNBUSZ - Tiszafüred, VOLÁNBUSZ - Oroszlány, VOLÁNBUSZ - Nagykanizsa, VOLÁNBUSZ - Érd, VOLÁNBUSZ - Pápa, VOLÁNBUSZ - Zalaegerszeg, VOLÁNBUSZ - Gödöllő, VOLÁNBUSZ - Szeged, VOLÁNBUSZ - Bátonyterenye",https://gtfs.kti.hu/public-gtfs/volanbusz_gtfs.zip,tld-5862,,active
 HU,Szeged,Szegedi Közlekedési Társaság,https://gtfs.menetbrand.com/download/szeged,mdb-887,http://szegedimenetrend.hu/,active
+HU,Szekkutas,oroshaza rt,https://gtfs.gpspositions.net/storage/realtime/OROSH_V_ONK/service_alerts.pb,rt-al-f-u2q8-oroshaza~rt,,active
+HU,Szekkutas,oroshaza rt,https://gtfs.gpspositions.net/storage/realtime/OROSH_V_ONK/trip_updates.pb,rt-tr-f-u2q8-oroshaza~rt,,active
+HU,Szekkutas,oroshaza rt,https://gtfs.gpspositions.net/storage/realtime/OROSH_V_ONK/vehicle_positions.pb,rt-ve-f-u2q8-oroshaza~rt,,active
 HU,Szombathely,Blaguss Agora Hungary Kft.,https://szombathely.utas.hu/api/static/v1/gtfs-google/gtfs-google.zip,tld-7875,,active
 HU,Szombathely,Blaguss Agora Hungary Kft. (city bus),https://gtfs.menetbrand.com/download/szombathely/,hu-disc-24,,active
 HU,Székesfehérvár,Székesfehérvár city transit,https://gtfs.menetbrand.com/download/szekesfehervar/,hu-disc-23,,active
@@ -23272,6 +23279,8 @@ LT,Vilnius,Vilniaus m. sav.,https://www.visimarsrutai.lt/gtfs/VilniausM.zip,lt-v
 LT,Vilnius,"Vilniaus viesasis transportas (Vilnius City, JUDU)",https://www.stops.lt/vilnius/gtfs_realtime.pb,lt-disc-34,,active
 LT,Visaginas,Visagino sav.,https://www.visimarsrutai.lt/gtfs/VisaginoM.zip,lt-visagino-sav,CC-BY-4.0,active
 LT,Zemaiciu Naumiestis,Klaipėdos keleivinis transportas,https://www.stops.lt/klaipeda/klaipeda/gtfs.zip,f-u3z-klaipėdoskeleivinistransportas,,active
+LT,Zemaiciu Naumiestis,Klaipėdos keleivinis transportas,https://www.stops.lt/klaipeda/service_alerts.pb,rt-al-f-u3z-klaipėdoskeleivinistransportas~rt,,active
+LT,Zemaiciu Naumiestis,Klaipėdos keleivinis transportas,https://www.stops.lt/klaipeda/trip_updates.pb,rt-tr-f-u3z-klaipėdoskeleivinistransportas~rt,,active
 LT,national,Akmenės r. sav.,https://www.visimarsrutai.lt/gtfs/AkmenesR.zip,lt-akmenes-r-sav,CC-BY-4.0,active
 LT,national,Alytaus r. sav.,https://www.visimarsrutai.lt/gtfs/AlytausR.zip,lt-alytaus-r-sav,CC-BY-4.0,active
 LT,national,Anykščių r. sav.,https://www.visimarsrutai.lt/gtfs/AnyksciuR.zip,lt-anyksciu-r-sav,CC-BY-4.0,active
@@ -23466,6 +23475,7 @@ LV,Daugavpils,Daugavpils satiksme,https://satiksme.daugavpils.lv/saraksti/GTFS.z
 LV,Jekabpils,Jekabpils autobusu parks,https://gsvalbe.id.lv/pieturas/dati/gtfs/jekabpils.zip,lv-gsvalbe-id-lv-pieturas-dati-gtfs-jekabpils-zip,CC0-1.0,active
 LV,Jelgava,Jelgavas autobusu parks,http://data.lvnap.lv/jap/gtfs-lv-jap.zip,lv-data-lvnap-lv-jap-gtfs-lv-jap-zip,CC0-1.0,active
 LV,Jelgava,Jelgavas autobusu parks,https://gsvalbe.id.lv/pieturas/dati/gtfs/jelgava.zip,lv-gsvalbe-id-lv-pieturas-dati-gtfs-jelgava-zip,CC0-1.0,active
+LV,Jelgava,Jelgavasautobusuparks,https://data.lvnap.lv/jap/gtfs-lv-jap.zip,f-ud0f-jelgavasautobusuparks,,active
 LV,Jurmala,Hansabuss (Jurmala),https://gsvalbe.id.lv/pieturas/dati/gtfs/jurmala.zip,lv-gsvalbe-id-lv-pieturas-dati-gtfs-jurmala-zip,CC0-1.0,active
 LV,Jurmala,Jurmalas autobusu satiksme,https://marsruti.lv/jurmala/hansabus/gtfs.zip,lv-marsruti-lv-jurmala-hansabus-gtfs-zip,CC0-1.0,active
 LV,Jurmala,Jurmalas autobusu satiksme,https://marsruti.lv/jurmala/jurmala/gtfs.zip,lv-marsruti-lv-jurmala-jurmala-gtfs-zip,CC0-1.0,active
@@ -23832,6 +23842,7 @@ NL,Hoek van Holland,OVapi/NDOV — Hoek van Holland,https://gtfs.ovapi.nl/nl/gtf
 NL,Hoensbroek,OVapi/NDOV — Hoensbroek,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-4dba5f0f78,,active
 NL,Hoge Vucht,OVapi/NDOV — Hoge Vucht,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-964e271f07,,active
 NL,Hollum,Delijn,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/static,f-u1-delijn,CC-BY-4.0,active
+NL,Hollum,Hamburgerverkehrsverbundhvv~Hamburgerverkehrsverbundhvv~Ham,https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/a7f133cb-2428-4008-812f-56ff86bf25ae/Upload__hvv_Rohdaten_GTFS_Fpl_20260903.ZIP,f-u1-hamburgerverkehrsverbundhvv~hamburgerverkehrsverbundhvv~ham,https://www.govdata.de/dl-de/by-2-0,active
 NL,Hollum,OVapi/NDOV — Hollum,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-88431265ea,,active
 NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/alert,rt-al-f-u1-delijn~rt,,active
 NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/trip-update,rt-tr-f-u1-delijn~rt,,active
@@ -24417,12 +24428,14 @@ PL,Białystok County,Białostocka Komunikacja Miejska,https://komunikacja.bialys
 PL,Bielsk Podlaski,U92K~Bielsk~Podlaski,https://files.girlc.at/gtfs/bielsk_podlaski.zip,f-u92k~bielsk~podlaski,CC0-1.0,active
 PL,Bielsko-Biala,U2Ve~Bielsko~Biala,https://files.girlc.at/gtfs/bielsko_biala.zip,f-u2ve~bielsko~biala,CC0-1.0,active
 PL,Biskupiec,U3W~Tribus,https://files.girlc.at/gtfs/tribus.zip,f-u3w~tribus,CC0-1.0,active
+PL,Boguchwala,rzeszow rt,https://www.mpkrzeszow.pl/gtfs/rt/gtfsrt.pb,rt-ve-f-u2zs-rzeszow~rt,,active
 PL,Bydgoszcz,ZDMiKP w Bydgoszczy,https://mkuran.pl/gtfs/bydgoszcz.zip,mdb-1009,https://mkuran.pl/gtfs/,active
 PL,Cedry Wielkie,ztm gdansk rt,http://ckan2.multimediagdansk.pl/gtfs-rt?feed=tripUpdates,rt-tr-f-u3tm-ztm~gdansk~rt,,active
 PL,Cedry Wielkie,ztm gdansk rt,http://ckan2.multimediagdansk.pl/gtfs-rt?feed=vehiclePositions,rt-ve-f-u3tm-ztm~gdansk~rt,,active
 PL,Ciechanow,U3Q~Ciechanow,https://files.girlc.at/gtfs/ciechanow.zip,f-u3q~ciechanow,CC0-1.0,active
 PL,Czechowice-Dziedzice,Koleje~Slaskie,https://koleje-ks.pl/gtfs/2025-2026.zip,f-u2v-koleje~slaskie,CC0-1.0,active
 PL,Czestochowa,MPK Czestochowa,https://cdn.zbiorkom.live/gtfs/czestochowa.zip,pl-czestochowa,,active
+PL,Czudec,pks rzeszow rt,https://www.mpkrzeszow.pl/gtfs-pks/rt/gtfsrt.pb,rt-ve-f-u2z-pks~rzeszow~rt,,active
 PL,Dabrowka,Gmina Dabrowka transit,https://cdn.zbiorkom.live/gtfs/warsaw-dabrowka.zip,pl-warsaw-dabrowka,,active
 PL,Deszczno,Gorzow~Wielkopolski,https://mkuran.pl/gtfs/gorzow_wlkp.zip,f-u36g-gorzow~wielkopolski,CC0-1.0,active
 PL,Dolnoslaskie,Koleje Dolnoslaskie (KD),https://cdn.zbiorkom.live/gtfs/pkp-kd.zip,pl-pkp-kd,,active
@@ -24445,7 +24458,9 @@ PL,Goleniow,Gmina Goleniow transit,https://cdn.zbiorkom.live/gtfs/szczecin-golen
 PL,Gorzow Wielkopolski,MZK Gorzow Wielkopolski,https://cdn.zbiorkom.live/gtfs/gorzow.zip,pl-gorzow,,active
 PL,Grodzisk Mazowiecki,Grodziskie Przewozy Autobusowe (GPA),https://cdn.zbiorkom.live/gtfs/warsaw-gpa.zip,pl-warsaw-gpa,,active
 PL,Jarosław County,Komunikacja miejska w Jarosławiu,https://github.com/rozkladnik/gtfs-pwik-jaroslaw/releases/latest/download/gtfs.zip,mdb-3189,,active
+PL,Jastrowie,Günterangergüterverkehrsgmbh~Coomnibusvermietungkg~Fritzbeh,https://unternehmen.vbb.de/gtfs,f-u3-günterangergüterverkehrsgmbh~coomnibusvermietungkg~fritzbeh,CC-BY-4.0,active
 PL,Jastrowie,Günterangergüterverkehrsgmbh~Coomnibusvermietungkg~Fritzbeh,https://www.vbb.de/fileadmin/user_upload/VBB/Dokumente/API-Datensaetze/gtfs-mastscharf/GTFS.zip,f-u3-günterangergüterverkehrsgmbh~coomnibusvermietungkg~fritzbeh,CC-BY-4.0,active
+PL,Jastrowie,Vbb~Flex,https://unternehmen.vbb.de/gtfs-flex,f-u3-vbb~flex,,active
 PL,Jastrzebie-Zdroj,MZK Jastrzebie-Zdroj,https://cdn.zbiorkom.live/gtfs/rybnik-jastrzebie.zip,pl-rybnik-jastrzebie,,active
 PL,Jeziorany,U3W~Jeziorany,https://files.girlc.at/gtfs/jeziorany.zip,f-u3w~jeziorany,CC0-1.0,active
 PL,Karczew,U3R~Otwock,https://files.girlc.at/gtfs/otwock.zip,f-u3r~otwock,CC0-1.0,active
@@ -27701,6 +27716,8 @@ XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/o
 XX,national,Naganocity~Noriai,https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/noriai/files/feed.zip?uid=ea37c6fb-f2e7-48fb-a31b-3814c7a18f5c,f-naganocity~noriai,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
+XX,national,Nvbw~Move,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/move.zip,f-nvbw~move,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+XX,national,Nvbw~Vvs,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vvs.zip,f-nvbw~vvs,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 XX,national,Omniride~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/omniride-va-us/omniride-va-us--flex-v2.zip,f-omniride~va~us~flex,,active
 XX,national,Ord~Aa~Bus,https://ORDAABUS.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-ord~aa~bus,,active
 XX,national,Orlando~Airport~People~Mover,http://gtfs-source-feeds.transit.land/orlando-airport-people-mover.zip,f-orlando~airport~people~mover,ODbL-1.0,active
@@ -27771,6 +27788,9 @@ XX,national,arcadia ca us rt,https://passio3.com/ArcadiaCity/passioTransit/gtfs/
 XX,national,area transit authority north central pa rt,https://rideata.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-area~transit~authority~north~central~pa~rt,,active
 XX,national,area transit authority north central pa rt,https://rideata.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-area~transit~authority~north~central~pa~rt,,active
 XX,national,area transit authority north central pa rt,https://rideata.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-area~transit~authority~north~central~pa~rt,,active
+XX,national,arroyobus rt,https://enzeyiwpoomhlxmcjivn.supabase.co/functions/v1/gtfs-rt,rt-ve-f-arroyobus~rt,,active
+XX,national,arroyobus rt,https://enzeyiwpoomhlxmcjivn.supabase.co/functions/v1/gtfs-rt-alerts,rt-al-f-arroyobus~rt,,active
+XX,national,arroyobus rt,https://enzeyiwpoomhlxmcjivn.supabase.co/functions/v1/gtfs-rt-trip-updates,rt-tr-f-arroyobus~rt,,active
 XX,national,ata bus ks rt,https://api.goswift.ly/real-time/flint-hills-ata/gtfs-rt-trip-updates/,rt-tr-f-ata~bus~ks~rt,,active
 XX,national,ata bus ks rt,https://api.goswift.ly/real-time/flint-hills-ata/gtfs-rt-vehicle-positions/,rt-ve-f-ata~bus~ks~rt,,active
 XX,national,ata bus ks rt alerts,https://api.goswift.ly/real-time/flint-hills-ata/gtfs-rt-alerts/,rt-al-f-ata~bus~ks~rt~alerts,,active
@@ -28053,6 +28073,9 @@ XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtim
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-hoboken~nj~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update?acl:consumerKey=,rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_vehicle?acl:consumerKey=,rt-ve-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
+XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/service_alert,rt-al-f-hubup~rivercat~rt,,active
+XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/trip_updates,rt-tr-f-hubup~rivercat~rt,,active
+XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/vehicle_positions,rt-ve-f-hubup~rivercat~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-indiana~county~transit~authority~rt,,active
@@ -28227,12 +28250,18 @@ XX,national,muskegon area transit rt,https://muskegon.connexionz.net/rtt/public/
 XX,national,muskegon area transit rt,https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-muskegon~area~transit~rt,,active
 XX,national,mwasalat rt,https://avl.mwasalat.om/data/gtfs/trip-updates.pb,rt-tr-f-mwasalat~rt,,active
 XX,national,mwasalat rt,https://avl.mwasalat.om/data/gtfs/vehicle-positions.pb,rt-ve-f-mwasalat~rt,,active
+XX,national,mybas alor setar rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-alor-setar,rt-ve-f-mybas~alor~setar~rt,,active
 XX,national,mybas jb rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-johor,rt-ve-f-mybas~jb~rt,,active
+XX,national,mybas kuala terengganu rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuala-terengganu,rt-ve-f-mybas~kuala~terengganu~rt,,active
+XX,national,mybas kuching rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuching,rt-ve-f-mybas~kuching~rt,,active
+XX,national,mybas melaka rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-melaka,rt-ve-f-mybas~melaka~rt,,active
 XX,national,mybas rapid bus kl rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-kl,rt-ve-f-mybas~rapid~bus~kl~rt,,active
 XX,national,mybas rapid bus kuantan rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-kuantan,rt-ve-f-mybas~rapid~bus~kuantan~rt,,active
 XX,national,mybas rapid bus mrt feeder rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-mrtfeeder,rt-ve-f-mybas~rapid~bus~mrt~feeder~rt,,active
 XX,national,mybas rapid bus penang rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-bus-penang,rt-ve-f-mybas~rapid~bus~penang~rt,,active
 XX,national,mybas rapid rail kl rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-rail-kl,rt-ve-f-mybas~rapid~rail~kl~rt,,active
+XX,national,mybas seremban a rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-a,rt-ve-f-mybas~seremban~a~rt,,active
+XX,national,mybas seremban b rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-b,rt-ve-f-mybas~seremban~b~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb,rt-ve-f-nashvillemta~rt,,active

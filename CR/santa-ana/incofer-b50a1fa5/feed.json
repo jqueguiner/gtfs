@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Incofer",
+    "country": "CR",
+    "subdivision": "San Jose",
+    "city": "Santa Ana"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.simovi.org/incofer/schedule/gtfs.zip",
+    "mdb_id": "f-d1u0-incofer",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

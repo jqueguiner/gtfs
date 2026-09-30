@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mybas alor setar rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-alor-setar",
+    "mdb_id": "rt-ve-f-mybas~alor~setar~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Klaipėdos keleivinis transportas",
+    "country": "LT",
+    "subdivision": "",
+    "city": "Zemaiciu Naumiestis"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.stops.lt/klaipeda/service_alerts.pb",
+    "mdb_id": "rt-al-f-u3z-klaipėdoskeleivinistransportas~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Jelgavasautobusuparks",
+    "country": "LV",
+    "subdivision": "Jelgava",
+    "city": "Jelgava"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.lvnap.lv/jap/gtfs-lv-jap.zip",
+    "mdb_id": "f-ud0f-jelgavasautobusuparks",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

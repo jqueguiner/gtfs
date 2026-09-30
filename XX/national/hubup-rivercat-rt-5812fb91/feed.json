@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hubup rivercat rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.infra-hubup.fr/rivercat/trip_updates",
+    "mdb_id": "rt-tr-f-hubup~rivercat~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

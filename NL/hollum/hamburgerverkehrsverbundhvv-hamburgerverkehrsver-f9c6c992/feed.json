@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hamburgerverkehrsverbundhvv~Hamburgerverkehrsverbundhvv~Ham",
+    "country": "NL",
+    "subdivision": "Friesland",
+    "city": "Hollum"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/a7f133cb-2428-4008-812f-56ff86bf25ae/Upload__hvv_Rohdaten_GTFS_Fpl_20260903.ZIP",
+    "mdb_id": "f-u1-hamburgerverkehrsverbundhvv~hamburgerverkehrsverbundhvv~ham",
+    "license": "https://www.govdata.de/dl-de/by-2-0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

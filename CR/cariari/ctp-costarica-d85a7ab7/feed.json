@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ctp~Costarica",
+    "country": "CR",
+    "subdivision": "Limon",
+    "city": "Cariari"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feeds.simovi.org/ctp/schedule/gtfs.zip",
+    "mdb_id": "f-d1u-ctp~costarica",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

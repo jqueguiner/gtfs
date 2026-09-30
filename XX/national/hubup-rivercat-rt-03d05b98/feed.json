@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hubup rivercat rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt.infra-hubup.fr/rivercat/vehicle_positions",
+    "mdb_id": "rt-ve-f-hubup~rivercat~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

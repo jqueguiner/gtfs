@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "mybas kuching rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-kuching",
+    "mdb_id": "rt-ve-f-mybas~kuching~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
