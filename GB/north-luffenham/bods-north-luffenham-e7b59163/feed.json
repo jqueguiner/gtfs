@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "BODS — North Luffenham",
+    "country": "GB",
+    "subdivision": "England",
+    "city": "North Luffenham"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/",
+    "mdb_id": "gb-city-d86ed0b950",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
