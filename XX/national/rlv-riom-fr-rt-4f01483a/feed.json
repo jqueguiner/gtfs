@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rlv riom fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/riom-rlv-mobilites-gtfs-rt-trip-update",
+    "mdb_id": "rt-tr-f-rlv~riom~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

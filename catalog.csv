@@ -28384,6 +28384,8 @@ XX,national,reseau express metropolitain rt,https://storage.googleapis.com/trans
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-river~valley~transit~authority~rt,,active
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-river~valley~transit~authority~rt,,active
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-river~valley~transit~authority~rt,,active
+XX,national,rlv riom fr rt,https://proxy.transport.data.gouv.fr/resource/riom-rlv-mobilites-gtfs-rt-trip-update,rt-tr-f-rlv~riom~fr~rt,,active
+XX,national,rlv riom fr rt,https://proxy.transport.data.gouv.fr/resource/riom-rlv-mobilites-gtfs-rt-vehicle-position,rt-ve-f-rlv~riom~fr~rt,,active
 XX,national,rochester institute of technology rt,https://passio3.com/ritech/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-rochester~institute~of~technology~rt,,active
 XX,national,rochester institute of technology rt,https://passio3.com/ritech/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-rochester~institute~of~technology~rt,,active
 XX,national,rochester institute of technology rt,https://passio3.com/ritech/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-rochester~institute~of~technology~rt,,active
@@ -28685,6 +28687,8 @@ XX,national,zenbus valmorel rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dat
 XX,national,zenbus valmorel rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=valmorel,rt-ve-f-zenbus~valmorel~rt,,active
 XX,national,zenbus verdun rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=verdun-rezo&file=tu,rt-tr-f-zenbus~verdun~rt,,active
 XX,national,zenbus verdun rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=verdun-rezo&file=vp,rt-ve-f-zenbus~verdun~rt,,active
+XX,national,zest menton fr rt,https://proxy.transport.data.gouv.fr/resource/zest-menton-riviera-gtfs-rt-trip-update,rt-tr-f-zest~menton~fr~rt,,active
+XX,national,zest menton fr rt,https://proxy.transport.data.gouv.fr/resource/zest-menton-riviera-gtfs-rt-vehicle-position,rt-ve-f-zest~menton~fr~rt,,active
 XX,national,マリックスライン~クイーンコーラルプラス~クイーンコーラル８,https://www.ottop.databed.org/transitfeed/9340001004024,f-マリックスライン~クイーンコーラルプラス~クイーンコーラル８,CC-BY-4.0,active
 XX,national,マルエーフェリー~鹿児島航路~フェリーあけぼの,https://www.ottop.databed.org/transitfeed/5340001010554,f-マルエーフェリー~鹿児島航路~フェリーあけぼの,CC-BY-4.0,active
 XX,national,仙台市営バス2026.3.2～,https://api-public.odpt.org/api/v4/files/odpt/SendaiMunicipal/bus.zip?date=current,f-仙台市営バス2026.3.2～,CC-BY-4.0,active
