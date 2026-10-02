@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Le Grand Charolais",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Le Grand Charolais"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/bus-plm/20260922-120359/plm.zip",
+    "mdb_id": "tdg-84245",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
