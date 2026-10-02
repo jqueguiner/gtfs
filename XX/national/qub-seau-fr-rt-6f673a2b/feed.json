@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "qub seau fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://notify.ratpdev.com/api/networks/RD%20QUIMPER/alerts/gtfsrt",
+    "mdb_id": "rt-al-f-qub~seau~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

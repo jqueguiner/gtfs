@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "papillon cosne fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/coeur-de-loire/gtfs-rt",
+    "mdb_id": "rt-al-f-papillon~cosne~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

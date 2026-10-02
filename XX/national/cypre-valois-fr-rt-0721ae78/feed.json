@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cypre valois fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=CYPRE&dataFormat=gtfs-rt",
+    "mdb_id": "rt-ve-f-cypre~valois~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

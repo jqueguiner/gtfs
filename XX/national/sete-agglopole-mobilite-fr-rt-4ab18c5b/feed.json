@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sete agglopole mobilite fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://sete.ceccli.com/gtfs/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-sete~agglopole~mobilite~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

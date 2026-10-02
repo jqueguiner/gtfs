@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus tempobus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/agen/gtfs-rt",
+    "mdb_id": "rt-ve-f-zenbus~tempobus~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

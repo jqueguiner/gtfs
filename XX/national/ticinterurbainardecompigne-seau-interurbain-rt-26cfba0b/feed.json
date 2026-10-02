@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ticinterurbainardecompigne seau interurbain rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TIC_INT&dataFormat=gtfs-rt",
+    "mdb_id": "rt-tr-f-ticinterurbainardecompigne~seau~interurbain~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

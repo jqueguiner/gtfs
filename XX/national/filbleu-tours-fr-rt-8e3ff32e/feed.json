@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "filbleu tours fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.filbleu.fr/ws-tr/gtfs-rt/opendata/service-alerts",
+    "mdb_id": "rt-al-f-filbleu~tours~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

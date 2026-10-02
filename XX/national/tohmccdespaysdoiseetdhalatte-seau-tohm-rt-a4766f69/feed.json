@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tohmccdespaysdoiseetdhalatte seau tohm rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TOHM&dataFormat=gtfs-rt",
+    "mdb_id": "rt-tr-f-tohmccdespaysdoiseetdhalatte~seau~tohm~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

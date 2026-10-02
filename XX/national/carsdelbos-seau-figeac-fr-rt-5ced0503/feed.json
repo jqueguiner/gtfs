@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "carsdelbos seau figeac fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?dataset=figeac",
+    "mdb_id": "rt-tr-f-carsdelbos~seau~figeac~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

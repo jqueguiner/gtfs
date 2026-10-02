@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lemet proxis rt",
+    "country": "FR",
+    "subdivision": "Lorraine",
+    "city": "Le Ban Saint-Martin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-service-alert",
+    "mdb_id": "rt-al-f-u0sr-lemet~proxis~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

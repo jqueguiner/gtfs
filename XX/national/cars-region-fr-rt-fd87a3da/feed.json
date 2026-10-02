@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cars région fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oura3.cityway.fr/dataflow/info-transport/download?provider=ISERE&dataFormat=GTFS-RT&dataProfil=OPENDATA",
+    "mdb_id": "rt-al-f-cars~région~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cvlmobilit seau cvl fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cvlmobilite.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/CVLMOBILITE-4423-7657-4931/bin",
+    "mdb_id": "rt-ve-f-cvlmobilit~seau~cvl~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

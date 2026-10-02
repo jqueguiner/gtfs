@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "espacecoteetbus seau bus fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/beaune-cote-et-bus-gtfs-rt-vehicle-position",
+    "mdb_id": "rt-ve-f-espacecoteetbus~seau~bus~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

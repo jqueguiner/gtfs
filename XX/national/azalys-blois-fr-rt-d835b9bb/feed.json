@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "azalys blois fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.mecatran.com/utw/ws/gtfsfeed/realtime/blois?apiKey=7a0d1031460836674e76041e7a78011813347f04",
+    "mdb_id": "rt-ve-f-azalys~blois~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "zenbus alesy rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://alesy.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/ALESY-6574-4401-7572/bin",
+    "mdb_id": "rt-tr-f-zenbus~alesy~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

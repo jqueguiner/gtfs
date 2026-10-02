@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lisatis lavaur fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?dataset=lavaur",
+    "mdb_id": "rt-ve-f-lisatis~lavaur~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

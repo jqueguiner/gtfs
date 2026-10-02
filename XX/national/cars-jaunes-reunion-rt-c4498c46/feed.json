@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cars jaunes reunion rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://pysae.com/api/v2/groups/car-jaune/gtfs-rt",
+    "mdb_id": "rt-al-f-cars~jaunes~reunion~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

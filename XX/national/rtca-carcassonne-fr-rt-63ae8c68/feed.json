@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "rtca carcassonne fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/rtca-carcassonne-gtfs-rt-service-alert",
+    "mdb_id": "rt-al-f-rtca~carcassonne~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

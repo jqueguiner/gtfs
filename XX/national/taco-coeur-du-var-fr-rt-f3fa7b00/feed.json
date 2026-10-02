@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "taco coeur du var fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/transdev-var-taco/gtfs-rt",
+    "mdb_id": "rt-ve-f-taco~coeur~du~var~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

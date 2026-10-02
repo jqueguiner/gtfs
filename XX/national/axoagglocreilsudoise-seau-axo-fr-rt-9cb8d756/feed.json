@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "axoagglocreilsudoise seau axo fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=AXO&dataFormat=gtfs-rt",
+    "mdb_id": "rt-tr-f-axoagglocreilsudoise~seau~axo~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

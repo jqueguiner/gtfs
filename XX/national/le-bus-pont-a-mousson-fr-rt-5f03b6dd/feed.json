@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "le bus pont a mousson fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://proxy.transport.data.gouv.fr/resource/fluo-lebus-pontamousson-gtfs-rt",
+    "mdb_id": "rt-tr-f-le~bus~pont~a~mousson~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

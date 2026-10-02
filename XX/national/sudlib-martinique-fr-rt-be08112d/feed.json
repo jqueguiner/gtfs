@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "sudlib martinique fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/sud_lib/gtfs-rt",
+    "mdb_id": "rt-ve-f-sudlib~martinique~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

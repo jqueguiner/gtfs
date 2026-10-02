@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "navette chinon fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.pysae.com/api/v2/groups/cc-cvl-navette-estivale/gtfs-rt",
+    "mdb_id": "rt-ve-f-navette~chinon~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

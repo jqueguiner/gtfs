@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citibus narbonne fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://notifytest.ratpdev.com/api/networks/RD%20GRAND%20NARBONNE/alerts/gtfsrt",
+    "mdb_id": "rt-al-f-citibus~narbonne~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

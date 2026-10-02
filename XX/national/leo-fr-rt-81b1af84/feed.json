@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "léo fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://auxerre.api.instant-system.com/public/disruptions/gtfs-rt/alert.pb?apikey=8bd10ac5e522fe43eed239439e556b3b",
+    "mdb_id": "rt-al-f-léo~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

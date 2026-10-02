@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cmonbus cavaillon fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://app.pysae.com/api/v2/groups/cavaillon/gtfs-rt",
+    "mdb_id": "rt-al-f-cmonbus~cavaillon~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

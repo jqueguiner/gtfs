@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citibus narbonne fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feed-citibus-narbonne.ratpdev.com/GTFS-RT/gtfs-rt.bin",
+    "mdb_id": "rt-ve-f-citibus~narbonne~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

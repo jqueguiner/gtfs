@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "saint sulpice la pointe fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://zenbus.net/gtfs/rt/poll.proto?dataset=saint-sulpice-la-pointe",
+    "mdb_id": "rt-ve-f-saint~sulpice~la~pointe~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

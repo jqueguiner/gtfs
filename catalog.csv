@@ -14227,6 +14227,7 @@ FR,Lavaur,SPL D'UN POINT A L'AUTRE,https://zenbus.net/gtfs/static/download.zip?d
 FR,Lavilledieu,SNCF TER — Lavilledieu,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-2660644652,,active
 FR,Lavérune,Montpellier Méditerranée Métropole,https://www.data.gouv.fr/api/1/datasets/r/c9d1350c-8f13-4761-b603-ecb12ad10b5b,tdg-83773,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,Layrac,SNCF TER — Layrac,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-fdde22a8cf,,active
+FR,Le Ban Saint-Martin,lemet proxis rt,https://proxy.transport.data.gouv.fr/resource/lemet-metz-gtfs-rt-service-alert,rt-al-f-u0sr-lemet~proxis~rt,,active
 FR,Le Blanc,SNCF TER — Le Blanc,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-f9ed520abc,,active
 FR,Le Bourget-du-Lac,SNCF TER — Le Bourget-du-Lac,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-2fe11c0fae,,active
 FR,Le Breuil-sur-Couze,SNCF TER — Le Breuil-sur-Couze,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-950b743c17,,active
@@ -14718,6 +14719,7 @@ FR,Nancy,SUB (Nancy suburban),https://proxy.transport.data.gouv.fr/resource/fluo
 FR,Nantes,Nantes Métropole,https://www.data.gouv.fr/api/1/datasets/r/65bdd7e4-a8e7-4a54-893a-808e71c34d68,tdg-84101,https://www.data.gouv.fr/pages/legal/licences/etalab-2.0,active
 FR,Nantes,Naolib/TAN (Semitan) / Nantes Métropole,https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-trip-update,rtweb-fr-naolib-tan-semitan-nantes-,,active
 FR,Nantes,SNCF TER — Nantes,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-5e34a2bf5c,,active
+FR,Nantes,semitan rt,https://proxy.transport.data.gouv.fr/resource/naolib-nantes-gtfs-rt-alerts,rt-al-f-gbqu-semitan~rt,,active
 FR,Nantes Métropole,Ecov,https://storage.googleapis.com/ecov-gtfs/nantes/gtfs_nantes.zip,tdg-84096,lov2,active
 FR,Nantes Métropole,Nantes Métropole,https://data.nantesmetropole.fr/explore/dataset/244400404_transports_commun_naolib_nantes_metropole_gtfs/files/0cc0469a72de54ee045cb66d1a21de9e/download/,tdg-84101,lov2,active
 FR,Nanteuil,SNCF TER — Nanteuil,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-c543a78aa7,,active
@@ -15073,6 +15075,9 @@ FR,Rochefort,SNCF TER — Rochefort,https://eu.ftp.opendatasoft.com/sncf/gtfs/ex
 FR,Roches-Prémarie-Andillé,Nouvelle-Aquitaine Mobilités,https://www.data.gouv.fr/api/1/datasets/r/a70fab11-9ac9-481e-91c8-925e805741ba,tdg-82332,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,Rochetaillee-sur-Saone,SNCF TER — Rochetaillee-sur-Saone,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-d6c09a2274,,active
 FR,Rodez,SNCF TER — Rodez,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-c7988dac57,,active
+FR,Rodilhan,Transdev Nîmes Mobilités,http://185.220.72.38:8085/ProfilGtfsRt2_0RSProducer-TANGO/Alert.pb,rt-al-f-spg1-tango~rt-2,,active
+FR,Rodilhan,Transdev Nîmes Mobilités,http://185.220.72.38:8085/ProfilGtfsRt2_0RSProducer-TANGO/TripUpdate.pb,rt-tr-f-spg1-tango~rt-2,,active
+FR,Rodilhan,Transdev Nîmes Mobilités,http://185.220.72.38:8085/ProfilGtfsRt2_0RSProducer-TANGO/VehiclePosition.pb,rt-ve-f-spg1-tango~rt-2,,active
 FR,Rodilhan,Transdev Nîmes Mobilités,http://92.103.236.106:8085/ProfilGtfsRt2_0RSProducer-TANGO/Alerts.pb,rt-al-f-spg1-tango~rt,,active
 FR,Rodilhan,Transdev Nîmes Mobilités,http://92.103.236.106:8085/ProfilGtfsRt2_0RSProducer-TANGO/TripUpdate.pb,rt-tr-f-spg1-tango~rt,,active
 FR,Rodilhan,Transdev Nîmes Mobilités,http://92.103.236.106:8085/ProfilGtfsRt2_0RSProducer-TANGO/VehiclePosition.pb,rt-ve-f-spg1-tango~rt,,active
@@ -15843,7 +15848,9 @@ FR,national,Agglobus~Guyane,https://api-data.cacl-guyane.fr/v1/gtfs-agglobus-age
 FR,national,Amibusintercomdelavireaunoireau~Seau~Amibus,https://transport.data.gouv.fr/resources/82316/download,f-amibusintercomdelavireaunoireau~seau~amibus,ODbL-1.0,active
 FR,national,Autun~Fr,https://www.data.gouv.fr/fr/datasets/r/0fd67eb8-24a4-4ae0-b98b-b442f74244e1,f-autun~fr,ODbL-1.0,active
 FR,national,Azalys~Blois~Fr,https://data.centrevaldeloire.fr/api/explore/v2.1/catalog/datasets/agglopolys-offre-theorique-mobilite-reseau-urbain-blois/files/af673e7cbb43033c60c117ddf5f4ecaa,f-azalys~blois~fr,ODbL-1.0,active
+FR,national,Baagcca~Seau~Baag~Fr,https://www.data.gouv.fr/api/1/datasets/r/ba040e45-b186-4d16-9657-ceb865ff0315,f-baagcca~seau~baag~fr,etalab-2.0,active
 FR,national,Bacs~Ecouflant~Cantenaypinard~Fr,https://transport.data.gouv.fr/resources/83579/download,f-bacs~ecouflant~cantenaypinard~fr,ODbL-1.0,active
+FR,national,Bacs~Ecouflant~Cantenaypinard~Fr,https://www.data.gouv.fr/api/1/datasets/r/6246947e-4aed-442c-baef-a160465b76f1,f-bacs~ecouflant~cantenaypinard~fr,etalab-2.0,active
 FR,national,BlaBlaCar Bus,https://drive.google.com/uc?export=download&id=1VXd01yQl2Mb67C9bkrx0P8sqNIL532_o,tdg-52605,odc-odbl,active
 FR,national,Brittanyferries~Fr,https://transport.data.gouv.fr/resources/83427/download,f-brittanyferries~fr,ODbL-1.0,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20260809-040042/gtfs.zip,tdg-83756,lov2,active
@@ -15877,6 +15884,8 @@ FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gt
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20260929-040047/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20260930-040003/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261001-040014/gtfs.zip,tdg-83756,lov2,active
+FR,national,Cbus~Chateaubriant~Fr,https://www.data.gouv.fr/api/1/datasets/r/2234503f-83b0-46fc-8cb7-ad09050c6b5a,f-cbus~chateaubriant~fr,https://transport.data.gouv.fr/datasets/cbus-5,active
+FR,national,Colette~Les~Saisies~Fr,https://www.data.gouv.fr/api/1/datasets/r/089cbb8d-6ed6-4e9b-b017-fbb657925bd3,f-colette~les~saisies~fr,etalab-2.0,active
 FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina/20260707-092242/a-berlina.zip,tdg-82995,lov2,active
 FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-maritime-via-mare/20260707-130622/via-mare.zip,tdg-82305,lov2,active
 FR,national,Elsa~Seau~Deslestat~Fr,https://transport.data.gouv.fr/resources/80401/download,f-elsa~seau~deslestat~fr,ODbL-1.0,active
@@ -15895,12 +15904,20 @@ FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDAT
 FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=TED,tdg-80423,lov2,active
 FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=TIM,tdg-80427,lov2,active
 FR,national,Forbus~Seau~Fr,https://transport.data.gouv.fr/resources/80467/download,f-forbus~seau~fr,ODbL-1.0,active
+FR,national,Funiculaire~Les~Arcs~Fr,https://www.data.gouv.fr/api/1/datasets/r/9131fde8-b37a-4ed6-84f7-9b3907e8952e,f-funiculaire~les~arcs~fr,etalab-2.0,active
 FR,national,Grand~Poitiers~Vitalis,https://data.grandpoitiers.fr/api/v2/catalog/datasets/mobilite-arret-services-theoriques-bus-hiver/files/400d7da94eaacb5e52c612f8ac28e420,f-grand~poitiers~vitalis,https://transport.data.gouv.fr/datasets/mobilite-arrets-services-et-horaires-theoriques-bus-fichier-gtfs/,active
+FR,national,Ibus~Bernay~Fr,https://www.data.gouv.fr/api/1/datasets/r/2ff9ad0d-c014-4da2-9f70-9ecf9aa15b1c,f-ibus~bernay~fr,etalab-2.0,active
 FR,national,Imagine~Seau~Depinal~Fr,https://transport.data.gouv.fr/resources/80461/download,f-imagine~seau~depinal~fr,ODbL-1.0,active
 FR,national,Keolis~Dijon~Fr,https://www.data.gouv.fr/fr/datasets/r/e0dbd217-15cd-4e28-9459-211a27511a34,f-keolis~dijon~fr,ODbL-1.0,active
 FR,national,Keolis~Orleans~Fr,https://chouette.enroute.mobi/api/v1/datas/keolis_orleans.gtfs.zip,f-keolis~orleans~fr,,active
 FR,national,Keolis~Seau~Riv~Fr,https://transport.data.gouv.fr/resources/83277/download,f-keolis~seau~riv~fr,ODbL-1.0,active
+FR,national,La~Ronde~Bourg~Saint~Maurice~Fr,https://www.data.gouv.fr/api/1/datasets/r/76210b43-2647-413a-84ed-adf07b0a7392,f-la~ronde~bourg~saint~maurice~fr,etalab-2.0,active
+FR,national,Le~Bus~Pont~Audemer~Fr,https://www.data.gouv.fr/api/1/datasets/r/e8fe8980-c502-466c-9054-ddb28d367e4f,f-le~bus~pont~audemer~fr,etalab-2.0,active
+FR,national,Lila~Presquile~Fr,https://www.data.gouv.fr/api/1/datasets/r/bf73faa9-d8b5-49de-b2c9-792225e1c060,f-lila~presquile~fr,ODbL-1.0,active
 FR,national,Mouvo~Seau~Mouv~Fr,https://transport.data.gouv.fr/resources/80443/download,f-mouvo~seau~mouv~fr,ODbL-1.0,active
+FR,national,Navettes~La~Rosiere~Fr,https://www.data.gouv.fr/api/1/datasets/r/20869881-bf65-4485-b58c-3134d342031a,f-navettes~la~rosiere~fr,etalab-2.0,active
+FR,national,Navettes~Pornic~Fr,https://www.data.gouv.fr/api/1/datasets/r/5342ec1d-387e-458f-9baf-31a6aab1c26b,f-navettes~pornic~fr,etalab-2.0,active
+FR,national,Navette~2~Alpes~Fr,https://www.data.gouv.fr/api/1/datasets/r/3556663d-8bec-4adb-83e4-bd6bbe5d6e0b,f-navette~2~alpes~fr,etalab-2.0,active
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/bac_gironde-aggregated-gtfs.zip,tdg-82382,odc-odbl,active
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/charente-aggregated-gtfs.zip,tdg-82324,odc-odbl,active
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/charente_maritime-aggregated-gtfs.zip,tdg-82326,odc-odbl,active
@@ -15913,6 +15930,8 @@ FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/lot_et_garonne-aggregated-gtfs.zip,tdg-82344,odc-odbl,active
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/pyrenees_atlantiques-aggregated-gtfs.zip,tdg-82346,odc-odbl,active
 FR,national,Nouvelle-Aquitaine Mobilités,https://www.pigma.org/public/opendata/nouvelle_aquitaine_mobilites/publication/vienne-aggregated-gtfs.zip,tdg-82332,odc-odbl,active
+FR,national,Obc~Fr,https://www.data.gouv.fr/api/1/datasets/r/0be5ca56-c951-483b-b206-a25c3c759872,f-obc~fr,etalab-2.0,active
+FR,national,Ole~Lunel~Fr,https://www.data.gouv.fr/api/1/datasets/r/c125f0fc-3582-411c-bda6-9a8dcfc366fc,f-ole~lunel~fr,etalab-2.0,active
 FR,national,Passo~Seau~Pass~Fr,https://transport.data.gouv.fr/resources/80439/download,f-passo~seau~pass~fr,ODbL-1.0,active
 FR,national,Paysdesecrins~Seau~Pays~Fr,https://transport.data.gouv.fr/resources/83467/download,f-paysdesecrins~seau~pays~fr,ODbL-1.0,active
 FR,national,Public Transport Germany,https://download.gtfs.de/germany/nv_free/latest.zip,mdb-1090,https://www.nvbw.de/open-data/lizenz,active
@@ -15957,19 +15976,29 @@ FR,national,Région Hauts-de-France,https://sig.hautsdefrance.fr/ext/opendata/Tr
 FR,national,SNCF,https://eu.ftp.opendatasoft.com/sncf/plandata/Export_OpenData_SNCF_GTFS_NewTripId.zip,tdg-83582,odc-odbl,active
 FR,national,SNCF,https://www.data.gouv.fr/api/1/datasets/r/9ae758ec-cd7a-40cd-a890-bb3963224942,tdg-83582,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,national,SNCF TGV RT,https://proxy.transport.data.gouv.fr/resource/sncf-tgv-gtfs-rt-trip-updates,rt-nat-fr-tr,,active
+FR,national,Skibus~Belleville~Fr,https://www.data.gouv.fr/api/1/datasets/r/f0d13bee-97f8-4d7d-b7ea-4d96d0f9fde6,f-skibus~belleville~fr,ODbL-1.0,active
+FR,national,Stibus~Maubeuge~Fr,https://www.data.gouv.fr/api/1/datasets/r/af6a58e3-2daa-4d5a-94be-7d276918bf98,f-stibus~maubeuge~fr,etalab-2.0,active
 FR,national,Sub~Seau~Moselleetmadon~Fr,https://transport.data.gouv.fr/resources/80431/download,f-sub~seau~moselleetmadon~fr,ODbL-1.0,active
 FR,national,Syndicat mixte Atoumod,https://static.data.gouv.fr/resources/bacs-de-seine-departement-seine-maritime/20251230-075024/pt-th-offer-seinemaritime76-gtfs-20251230-303-opendata.zip,tdg-82308,lov2,active
 FR,national,TRENITALIA FRANCE,https://thello.axelor.com/public/gtfs/gtfs.zip,tdg-81653,lov2,active
 FR,national,Tanéo~Fr,https://www.data.gouv.fr/fr/datasets/r/0b65dda9-51d3-4d84-811b-8a11629a5e55,f-tanéo~fr,https://transport.data.gouv.fr/datasets/versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs,active
 FR,national,Taoorlans~Seau~Tao~Fr,https://www.data.gouv.fr/api/1/datasets/r/824c3fc5-7631-4147-990a-3621e2786093,f-taoorlans~seau~tao~fr,ODbL-1.0,active
 FR,national,Tgemeusemoselle~Seau~Fil~Fr,https://transport.data.gouv.fr/resources/80445/download,f-tgemeusemoselle~seau~fil~fr,ODbL-1.0,active
+FR,national,Tgl~Seau~Fr,https://www.data.gouv.fr/api/1/datasets/r/4f11e16d-e326-44fe-b18a-d83e7d041806,f-tgl~seau~fr,etalab-2.0,active
 FR,national,Ticea~Seau~Tic~Fr,https://transport.data.gouv.fr/resources/80477/download,f-ticea~seau~tic~fr,ODbL-1.0,active
 FR,national,Tlphriquedufaron~Rique~Mont~Fr,https://www.data.gouv.fr/api/1/datasets/r/65bb47dd-28de-43c0-92b9-f3208b5f8295,f-tlphriquedufaron~rique~mont~fr,ODbL-1.0,active
+FR,national,Tmco~Mayotte~Fr,https://www.data.gouv.fr/api/1/datasets/r/d7d4bb94-c156-42c7-8046-ffc985cae38c,f-tmco~mayotte~fr,etalab-2.0,active
+FR,national,Topaz~Fr,https://www.data.gouv.fr/api/1/datasets/r/5c32ec67-4a7c-4645-bcfe-d6b04c6a746d,f-topaz~fr,etalab-2.0,active
 FR,national,Trace~Seau~Fr,https://transport.data.gouv.fr/resources/80479/download,f-trace~seau~fr,ODbL-1.0,active
+FR,national,Troyes~Tcat~Fr,https://www.data.gouv.fr/api/1/datasets/r/764e07f3-4297-44ac-810e-f3db295dbef6,f-troyes~tcat~fr,ODbL-1.0,active
 FR,national,Troyes~Tcat~Fr,https://www.data.gouv.fr/fr/datasets/r/79151f50-b842-4fa9-a4b5-046c0029417b,f-troyes~tcat~fr,ODbL-1.0,active
+FR,national,Tréma~Fr,https://www.data.gouv.fr/api/1/datasets/r/0a01b036-796f-43a3-9c64-a2f6024427b0,f-tréma~fr,ODbL-1.0,active
 FR,national,Tréma~Fr,https://www.data.gouv.fr/fr/datasets/r/ad03b8ed-b904-4c23-aa4d-7544ea531a67,f-tréma~fr,https://transport.data.gouv.fr/datasets/offre-de-transport-du-reseau-trema-gtfs,active
 FR,national,Tummnhildien~Seau~Tum~Fr,https://transport.data.gouv.fr/resources/80471/download,f-tummnhildien~seau~tum~fr,ODbL-1.0,active
+FR,national,Vai~Chorges~Fr,https://www.data.gouv.fr/api/1/datasets/r/22051937-ea0c-476a-9670-be3d96583d74,f-vai~chorges~fr,etalab-2.0,active
 FR,national,Va~Navettes~Hivernales~Fr,https://www.data.gouv.fr/api/1/datasets/r/4d976a6e-2dcf-40e5-9bdb-5bc3c52325aa,f-va~navettes~hivernales~fr,ODbL-1.0,active
+FR,national,Va~Seau~Embrun~Fr,https://www.data.gouv.fr/api/1/datasets/r/00729dab-d14a-4412-90f3-1985738bd1e4,f-va~seau~embrun~fr,etalab-2.0,active
+FR,national,Yole~Bus~Challans~Fr,https://www.data.gouv.fr/api/1/datasets/r/cc570fd4-a7dd-43c9-803b-56f7d63753e6,f-yole~bus~challans~fr,etalab-2.0,active
 FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-alerts,rt-al-f-aléop~pays~de~la~loire~rt,,active
 FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-trip-update,rt-tr-f-aléop~pays~de~la~loire~rt,,active
 FR,national,aléop pays de la loire rt,https://proxy.transport.data.gouv.fr/resource/aleop-pdl-gtfs-rt-vehicle-position,rt-ve-f-aléop~pays~de~la~loire~rt,,active
@@ -27716,6 +27745,7 @@ XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/pu
 XX,national,Akishimacity~Abus,https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus/files/feed.zip?uid=7a301bd6-372a-42aa-b05b-069db42dd974,f-akishimacity~abus,CC0-1.0,active
 XX,national,Amarillo~City~Transit,http://gtfs-source-feeds.transit.land/amarillo-tx-us.zip,f-amarillo~city~transit,,active
 XX,national,Amarillo~City~Transit,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/12076/ACT_GTFS_24.zip,f-amarillo~city~transit,,active
+XX,national,Amibusintercomdelavireaunoireau~Seau~Amibus,https://www.data.gouv.fr/api/1/datasets/r/fc31923a-0fde-486a-852a-f3321c7c99a5,f-amibusintercomdelavireaunoireau~seau~amibus,etalab-2.0,active
 XX,national,Arenac~Public~Transit~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Arenac_Public_Transit_Authority.zip,f-arenac~public~transit~authority~mi~us~flex,,active
 XX,national,Autobuses~Del~Gobierno~De~Aragón,https://nap.transportes.gob.es/api/Fichero/download/2554,f-autobuses~del~gobierno~de~aragón,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Bandelier~National~Monument~Shuttle,https://www.nps.gov/external-resources/gtfs/band/bandelier-national-monument.zip,f-bandelier~national~monument~shuttle,,active
@@ -27806,14 +27836,26 @@ XX,national,acadia national park island explorer rt,https://islandexplorertracke
 XX,national,acadia national park island explorer rt,https://islandexplorertracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?&Type=VehiclePosition&serverid=0,rt-ve-f-acadia~national~park~island~explorer~rt,,active
 XX,national,advancetransit rt,https://api.goswift.ly/real-time/advance-transit/gtfs-rt-trip-updates,rt-tr-f-advancetransit~rt,,active
 XX,national,advancetransit rt,https://api.goswift.ly/real-time/advance-transit/gtfs-rt-vehicle-positions,rt-ve-f-advancetransit~rt,,active
+XX,national,agglo en bus gap fr rt,https://gtfs-rt.infra-hubup.fr/cagtd/realtime,rt-ve-f-agglo~en~bus~gap~fr~rt,,active
+XX,national,agglobus bourges fr rt,https://proxy.transport.data.gouv.fr/resource/agglobus-bourges-gtfs-rt-alerts,rt-al-f-agglobus~bourges~fr~rt,,active
+XX,national,agglobus bourges fr rt,https://proxy.transport.data.gouv.fr/resource/agglobus-bourges-gtfs-rt-trip-update,rt-tr-f-agglobus~bourges~fr~rt,,active
+XX,national,agglobus cavem fr rt,https://api.pysae.com/api/v4/groups/agglobus-cavem/gtfs-rt,rt-tr-f-agglobus~cavem~fr~rt,,active
+XX,national,agglobus guyane rt,https://cacl.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/CACL-1823-7594-1349/bin,rt-tr-f-agglobus~guyane~rt,,active
+XX,national,agglobus guyane rt,https://cacl.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/CACL-1823-7594-1349/bin,rt-ve-f-agglobus~guyane~rt,,active
+XX,national,agglopaysdissoire seau cherpa fr rt,https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=agglopaysdissoire,rt-al-f-agglopaysdissoire~seau~cherpa~fr~rt,,active
 XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_trip_update?acl:consumerKey=,rt-tr-f-akihabusservice~alllines~jp~rt,,active
 XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_vehicle?acl:consumerKey=,rt-ve-f-akihabusservice~alllines~jp~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=Alert,rt-al-f-akronmetro~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate,rt-tr-f-akronmetro~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=VehiclePosition&serverid=0,rt-ve-f-akronmetro~rt,,active
+XX,national,allianceatlantique seau gratibus rt,https://pysae.com/api/v2/groups/noirmoutiers/gtfs-rt,rt-al-f-allianceatlantique~seau~gratibus~rt,,active
+XX,national,alternéo reunion rt,https://proxy.transport.data.gouv.fr/resource/alterneo-civis-gtfs-rt-service-alert,rt-al-f-alternéo~reunion~rt,,active
+XX,national,alternéo reunion rt,https://proxy.transport.data.gouv.fr/resource/alterneo-civis-gtfs-rt-trip-update,rt-tr-f-alternéo~reunion~rt,,active
+XX,national,alternéo reunion rt,https://proxy.transport.data.gouv.fr/resource/alterneo-civis-gtfs-rt-vehicle-position,rt-ve-f-alternéo~reunion~rt,,active
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-altoona~metro~transit~rt,,active
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-altoona~metro~transit~rt,,active
 XX,national,altoona metro transit rt,https://amtran.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-altoona~metro~transit~rt,,active
+XX,national,ametis amiens fr rt,https://proxy.transport.data.gouv.fr/resource/ametis-amiens-gtfs-rt-alerts,rt-al-f-ametis~amiens~fr~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-antelope~valley~transit~authority~rt,,active
@@ -27835,6 +27877,9 @@ XX,national,ata bus ks rt alerts,https://api.goswift.ly/real-time/flint-hills-at
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-athens~clarke~county~ga~rt,,active
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-athens~clarke~county~ga~rt,,active
 XX,national,athens clarke county ga rt,https://bustracker.accgov.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-athens~clarke~county~ga~rt,,active
+XX,national,axoagglocreilsudoise seau axo fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=AXO&dataFormat=gtfs-rt,rt-tr-f-axoagglocreilsudoise~seau~axo~fr~rt,,active
+XX,national,axoagglocreilsudoise seau axo fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=AXO&dataFormat=gtfs-rt,rt-ve-f-axoagglocreilsudoise~seau~axo~fr~rt,,active
+XX,national,azalys blois fr rt,https://app.mecatran.com/utw/ws/gtfsfeed/realtime/blois?apiKey=7a0d1031460836674e76041e7a78011813347f04,rt-ve-f-azalys~blois~fr~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-bangor~me~us~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-bangor~me~us~rt,,active
 XX,national,bangor me us rt,https://passio3.com/bangor/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-bangor~me~us~rt,,active
@@ -27898,6 +27943,8 @@ XX,national,billings mt us rt,https://passio3.com/billings/passioTransit/gtfs/re
 XX,national,bismarck nd us rt,https://passio3.com/bisman/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-bismarck~nd~us~rt,,active
 XX,national,bismarck nd us rt,https://passio3.com/bisman/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-bismarck~nd~us~rt,,active
 XX,national,bismarck nd us rt,https://passio3.com/bisman/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-bismarck~nd~us~rt,,active
+XX,national,boulonnais marinéo rt,https://proxy.transport.data.gouv.fr/resource/marineo-boulonnais-gtfs-rt-alerts,rt-al-f-boulonnais~marinéo~rt,,active
+XX,national,boulonnais marinéo rt,https://proxy.transport.data.gouv.fr/resource/marineo-boulonnais-gtfs-rt-trip-update,rt-tr-f-boulonnais~marinéo~rt,,active
 XX,national,brightline fl us rt,https://api.goswift.ly/real-time/brightline-fl-us/gtfs-rt-trip-updates,rt-tr-f-brightline~fl~us~rt,,active
 XX,national,brightline fl us rt,https://api.goswift.ly/real-time/brightline-fl-us/gtfs-rt-vehicle-positions,rt-ve-f-brightline~fl~us~rt,,active
 XX,national,brightline fl us rt alerts,https://api.goswift.ly/real-time/brightline-fl-us/gtfs-rt-alerts,rt-al-f-brightline~fl~us~rt~alerts,,active
@@ -27907,6 +27954,7 @@ XX,national,brightline trails rt,http://feed.gobrightline.com/trip_updates.pb,rt
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-brockton~ma~us~rt,,active
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-brockton~ma~us~rt,,active
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-brockton~ma~us~rt,,active
+XX,national,brvibus seau vibus fr rt,https://pysae.com/api/v2/groups/brevibus/gtfs-rt,rt-ve-f-brvibus~seau~vibus~fr~rt,,active
 XX,national,bryce canyon shuttle rt,https://brycecanyonshuttle.com/subscriptions/gtfsrt/vehicles.ashx,rt-ve-f-bryce~canyon~shuttle~rt,,active
 XX,national,burbankbus rt,https://rideburbankbus.com/gtfs-rt/alerts,rt-al-f-burbankbus~rt,,active
 XX,national,burbankbus rt,https://rideburbankbus.com/gtfs-rt/tripupdates,rt-tr-f-burbankbus~rt,,active
@@ -27930,9 +27978,14 @@ XX,national,cap cotentin rt,https://app.pysae.com/api/v2/groups/transdev-cotenti
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-capitalareatransit~pa~rt,,active
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-capitalareatransit~pa~rt,,active
 XX,national,capitalareatransit pa rt,https://cat.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-capitalareatransit~pa~rt,,active
+XX,national,cars jaunes reunion rt,https://pysae.com/api/v2/groups/car-jaune/gtfs-rt,rt-al-f-cars~jaunes~reunion~rt,,active
+XX,national,cars région fr rt,https://api.oura3.cityway.fr/dataflow/horaire-tr/download?provider=ISERE&dataFormat=GTFS-RT&dataProfil=OPENDATA,rt-tr-f-cars~région~fr~rt-2,,active
+XX,national,cars région fr rt,https://api.oura3.cityway.fr/dataflow/info-transport/download?provider=ISERE&dataFormat=GTFS-RT&dataProfil=OPENDATA,rt-al-f-cars~région~fr~rt,,active
+XX,national,carsdelbos seau figeac fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=figeac,rt-tr-f-carsdelbos~seau~figeac~fr~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-casper~wy~us~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-casper~wy~us~rt,,active
 XX,national,casper wy us rt,https://passio3.com/casper/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-casper~wy~us~rt,,active
+XX,national,ccgst seau navette fr rt,https://pysae.com/api/v2/groups/st-tropez/gtfs-rt,rt-ve-f-ccgst~seau~navette~fr~rt,,active
 XX,national,central transit wa rt,https://api.goswift.ly/real-time/central-transit-wa/gtfs-rt-trip-updates,rt-tr-f-central~transit~wa~rt,,active
 XX,national,central transit wa rt,https://api.goswift.ly/real-time/central-transit-wa/gtfs-rt-vehicle-positions,rt-ve-f-central~transit~wa~rt,,active
 XX,national,central transit wa rt alerts,https://api.goswift.ly/real-time/central-transit-wa/gtfs-rt-alerts/,rt-al-f-central~transit~wa~rt~alerts,,active
@@ -27942,6 +27995,7 @@ XX,national,cercanías renfe rt,https://gtfsrt.renfe.com/vehicle_positions.pb,rt
 XX,national,cgcta mo us rt,https://cgcta.tripshot.com/v1/gtfs/realtime/feed/cgcta?types=Alert,rt-al-f-cgcta~mo~us~rt,,active
 XX,national,cgcta mo us rt,https://cgcta.tripshot.com/v1/gtfs/realtime/feed/cgcta?types=TripUpdate,rt-tr-f-cgcta~mo~us~rt,,active
 XX,national,cgcta mo us rt,https://cgcta.tripshot.com/v1/gtfs/realtime/feed/cgcta?types=VehiclePosition,rt-ve-f-cgcta~mo~us~rt,,active
+XX,national,chamonix bus rt,https://api.pysae.com/api/v4/groups/chamonix-bus/gtfs-rt,rt-ve-f-chamonix~bus~rt,,active
 XX,national,chemung c tran rt,https://passio3.com/chemung/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-chemung~c~tran~rt,,active
 XX,national,chemung c tran rt,https://passio3.com/chemung/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-chemung~c~tran~rt,,active
 XX,national,chemung c tran rt,https://passio3.com/chemung/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-chemung~c~tran~rt,,active
@@ -27950,6 +28004,10 @@ XX,national,chitacity chita aiaibus rt,https://realtime.gtfs.info/chita/trip_upd
 XX,national,chitacity chita aiaibus rt,https://realtime.gtfs.info/chita/vehicle.pb,rt-ve-f-chitacity~chita~aiaibus~rt,,active
 XX,national,chittendoncounty rt,https://api.goswift.ly/real-time/green-mountain/gtfs-rt-trip-updates,rt-tr-f-chittendoncounty~rt,,active
 XX,national,chittendoncounty rt,https://api.goswift.ly/real-time/green-mountain/gtfs-rt-vehicle-positions,rt-ve-f-chittendoncounty~rt,,active
+XX,national,choletbus seau fr rt,https://app.mecatran.com/utw/ws/gtfsfeed/alerts/choletbus?apiKey=0b0f0b6035007b7f1243311973401c294e6a0143,rt-al-f-choletbus~seau~fr~rt,,active
+XX,national,choletbus seau fr rt,https://app.mecatran.com/utw/ws/gtfsfeed/realtime/choletbus?apiKey=0b0f0b6035007b7f1243311973401c294e6a0143,rt-tr-f-choletbus~seau~fr~rt,,active
+XX,national,citibus narbonne fr rt,https://feed-citibus-narbonne.ratpdev.com/GTFS-RT/gtfs-rt.bin,rt-ve-f-citibus~narbonne~fr~rt,,active
+XX,national,citibus narbonne fr rt,https://notifytest.ratpdev.com/api/networks/RD%20GRAND%20NARBONNE/alerts/gtfsrt,rt-al-f-citibus~narbonne~fr~rt,,active
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/alerts,rt-al-f-citiesareatransit~rt,,active
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/tripupdates,rt-tr-f-citiesareatransit~rt,,active
 XX,national,citiesareatransit rt,https://catprowler.org/gtfs-rt/vehiclepositions,rt-ve-f-citiesareatransit~rt,,active
@@ -27961,7 +28019,9 @@ XX,national,clackamascounty or us rt,https://passio3.com/clackamas/passioTransit
 XX,national,clackamascounty or us rt,https://passio3.com/clackamas/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-clackamascounty~or~us~rt,,active
 XX,national,clackamascounty or us rt,https://passio3.com/clackamas/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-clackamascounty~or~us~rt,,active
 XX,national,clean air express ca us rt,https://lat-long-prototype.wl.r.appspot.com/vehicle-positions.pb?agency=santa-barbara-clean-air-express,rt-ve-f-clean~air~express~ca~us~rt,,active
+XX,national,cmonbus cavaillon fr rt,https://app.pysae.com/api/v2/groups/cavaillon/gtfs-rt,rt-al-f-cmonbus~cavaillon~fr~rt,,active
 XX,national,coast rta sc us rt,https://coastrta.transloc.com/subscriptions/gtfsrt/vehicles.ashx,rt-ve-f-coast~rta~sc~us~rt,,active
+XX,national,colibri toul fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-colibri-terres-touloises-gtfs-rt-trip-update,rt-tr-f-colibri~toul~fr~rt,,active
 XX,national,columbus in us rt,https://columbusindianatransit.com/gtfs-rt/alerts,rt-al-f-columbus~in~us~rt,,active
 XX,national,columbus in us rt,https://columbusindianatransit.com/gtfs-rt/tripupdates,rt-tr-f-columbus~in~us~rt,,active
 XX,national,columbus in us rt,https://columbusindianatransit.com/gtfs-rt/vehiclepositions,rt-ve-f-columbus~in~us~rt,,active
@@ -27977,6 +28037,10 @@ XX,national,connecttransit rt,https://rideconnecttransit.com/gtfs-rt/vehicleposi
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-cooperative~alliance~for~seacoast~transportation~rt,,active
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-cooperative~alliance~for~seacoast~transportation~rt,,active
 XX,national,cooperative alliance for seacoast transportation rt,https://passio3.com/COAST/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-cooperative~alliance~for~seacoast~transportation~rt,,active
+XX,national,corolis beauvais fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=COROLIS_URB&dataFormat=gtfs-rt,rt-tr-f-corolis~beauvais~fr~rt,,active
+XX,national,corolis beauvais fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=COROLIS_URB&dataFormat=gtfs-rt,rt-ve-f-corolis~beauvais~fr~rt,,active
+XX,national,corolis interurbain fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=COROLIS_INT&dataFormat=gtfs-rt,rt-tr-f-corolis~interurbain~fr~rt,,active
+XX,national,corolis interurbain fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=COROLIS_INT&dataFormat=gtfs-rt,rt-ve-f-corolis~interurbain~fr~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/Alert.pb,rt-al-f-corpus~christi~regional~transportation~authority~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/TripUpdate.pb,rt-tr-f-corpus~christi~regional~transportation~authority~rt,,active
 XX,national,corpus christi regional transportation authority rt,https://gtfsrt.ccrta.cadavl.com/ProfilGtfsRt2_0RSProducer-CCRTA/VehiclePosition.pb,rt-ve-f-corpus~christi~regional~transportation~authority~rt,,active
@@ -28001,6 +28065,10 @@ XX,national,cuats tn us rt,https://passio3.com/cuats/passioTransit/gtfs/realtime
 XX,national,cuboulder rt,https://api.goswift.ly/real-time/cu-boulder/gtfs-rt-trip-updates/,rt-tr-f-cuboulder~rt,,active
 XX,national,cuboulder rt,https://api.goswift.ly/real-time/cu-boulder/gtfs-rt-vehicle-positions/,rt-ve-f-cuboulder~rt,,active
 XX,national,cuboulder rt alerts,https://api.goswift.ly/real-time/cu-boulder/gtfs-rt-alerts/,rt-al-f-cuboulder~rt~alerts,,active
+XX,national,cvlmobilit seau cvl fr rt,https://cvlmobilite.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/CVLMOBILITE-4423-7657-4931/bin,rt-tr-f-cvlmobilit~seau~cvl~fr~rt,,active
+XX,national,cvlmobilit seau cvl fr rt,https://cvlmobilite.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/CVLMOBILITE-4423-7657-4931/bin,rt-ve-f-cvlmobilit~seau~cvl~fr~rt,,active
+XX,national,cypre valois fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=CYPRE&dataFormat=gtfs-rt,rt-tr-f-cypre~valois~fr~rt,,active
+XX,national,cypre valois fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=CYPRE&dataFormat=gtfs-rt,rt-ve-f-cypre~valois~fr~rt,,active
 XX,national,dentoncountytransportationauthority rt,https://api.goswift.ly/real-time/dcta/gtfs-rt-trip-updates,rt-tr-f-dentoncountytransportationauthority~rt,,active
 XX,national,dentoncountytransportationauthority rt,https://api.goswift.ly/real-time/dcta/gtfs-rt-vehicle-positions,rt-ve-f-dentoncountytransportationauthority~rt,,active
 XX,national,denver rtd bustang rt,https://www.rtd-denver.com/files/bustang/gtfs-rt/Bustang_TripUpdate.pb,rt-tr-f-denver~rtd~bustang~rt,,active
@@ -28025,6 +28093,7 @@ XX,national,edmond ok us rt,https://passio3.com/edmond/passioTransit/gtfs/realti
 XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/ServiceAlert.pb,rt-al-f-el~paso~county~rt,,active
 XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/TripUpdate.pb,rt-tr-f-el~paso~county~rt,,active
 XX,national,el paso county rt,https://data.peaktransit.com/gtfsrt/193/VehiclePosition.pb,rt-ve-f-el~paso~county~rt,,active
+XX,national,elsa seau deslestat fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-tis-selestat-gtfs-rt-trip-update,rt-tr-f-elsa~seau~deslestat~fr~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/realtime/embarkok,rt-tr-f-embarknorman~ok~rt,,active
 XX,national,embarknorman ok rt,https://app.mecatran.com/utw/ws/gtfsfeed/vehicles/embarkok,rt-ve-f-embarknorman~ok~rt,,active
 XX,national,emel limassol cy rt,http://20.19.98.194:8328/Api/api/gtfs-realtime/6,rt-ve-f-emel~limassol~cy~rt,,active
@@ -28036,6 +28105,8 @@ XX,national,endless mountains transportation authority rt,https://best.rideraler
 XX,national,endless mountains transportation authority rt,https://best.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-endless~mountains~transportation~authority~rt,,active
 XX,national,entur rt,https://api.entur.io/realtime/v1/gtfs-rt/alerts,rt-al-f-entur~rt,,active
 XX,national,entur rt,https://api.entur.io/realtime/v1/gtfs-rt/trip-updates,rt-tr-f-entur~rt,,active
+XX,national,espacecoteetbus seau bus fr rt,https://proxy.transport.data.gouv.fr/resource/beaune-cote-et-bus-gtfs-rt-trip-update,rt-tr-f-espacecoteetbus~seau~bus~fr~rt,,active
+XX,national,espacecoteetbus seau bus fr rt,https://proxy.transport.data.gouv.fr/resource/beaune-cote-et-bus-gtfs-rt-vehicle-position,rt-ve-f-espacecoteetbus~seau~bus~fr~rt,,active
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin,rt-al-f-everetttransit~rt,,active
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_TripUpdates.bin,rt-tr-f-everetttransit~rt,,active
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_VehiclePositions.bin,rt-ve-f-everetttransit~rt,,active
@@ -28048,21 +28119,33 @@ XX,national,fairfaxconnector rt,https://www.fairfaxcounty.gov/gtfsrt/vehicles,rt
 XX,national,fayette area coordinated transportation rt,https://fact.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-fayette~area~coordinated~transportation~rt,,active
 XX,national,fayette area coordinated transportation rt,https://fact.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-fayette~area~coordinated~transportation~rt,,active
 XX,national,fayette area coordinated transportation rt,https://fact.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-fayette~area~coordinated~transportation~rt,,active
+XX,national,filbleu tours fr rt,https://data.filbleu.fr/ws-tr/gtfs-rt/opendata/service-alerts,rt-al-f-filbleu~tours~fr~rt,,active
 XX,national,florida gulf coast university rt,https://passio3.com/fgcu/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-florida~gulf~coast~university~rt,,active
 XX,national,florida gulf coast university rt,https://passio3.com/fgcu/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-florida~gulf~coast~university~rt,,active
 XX,national,florida gulf coast university rt,https://passio3.com/fgcu/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-florida~gulf~coast~university~rt,,active
+XX,national,fluo grand est solea rt,https://proxy.transport.data.gouv.fr/resource/solea-mulhouse-gtfs-rt,rt-tr-f-fluo~grand~est~solea~rt,,active
+XX,national,fluo grand est solea rt,https://proxy.transport.data.gouv.fr/resource/solea-mulhouse-gtfs-rt-service-alert,rt-al-f-fluo~grand~est~solea~rt,,active
+XX,national,fluograndest68 seau interurbain rt,https://proxy.transport.data.gouv.fr/resource/fluo-haut-rhin-68-gtfs-rt-alerts,rt-al-f-fluograndest68~seau~interurbain~rt,,active
+XX,national,fluograndest68 seau interurbain rt,https://proxy.transport.data.gouv.fr/resource/fluo-haut-rhin-68-gtfs-rt-trip-update,rt-tr-f-fluograndest68~seau~interurbain~rt,,active
+XX,national,fluograndest68 seau interurbain rt,https://proxy.transport.data.gouv.fr/resource/fluo-haut-rhin-68-gtfs-rt-vehicle-position,rt-ve-f-fluograndest68~seau~interurbain~rt,,active
 XX,national,foothilltransit rt,https://gtfs-rt.myavail.cloud/GtfsProtoBuf?FeedLabel=Foothill&FeedType=Alerts,rt-al-f-foothilltransit~rt,,active
 XX,national,foothilltransit rt,https://gtfs-rt.myavail.cloud/GtfsProtoBuf?FeedLabel=Foothill&FeedType=TripUpdates,rt-tr-f-foothilltransit~rt,,active
 XX,national,foothilltransit rt,https://gtfs-rt.myavail.cloud/GtfsProtoBuf?FeedLabel=Foothill&FeedType=VehiclePositions,rt-ve-f-foothilltransit~rt,,active
+XX,national,forbus seau fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-forbus-forbach-gtfs-rt-trip-update,rt-tr-f-forbus~seau~fr~rt,,active
+XX,national,forbus seau fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-forbus-forbach-gtfs-rt-vehicle-position,rt-ve-f-forbus~seau~fr~rt,,active
 XX,national,freedom transit pa us rt,https://freedom.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-freedom~transit~pa~us~rt,,active
 XX,national,freedom transit pa us rt,https://freedom.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-freedom~transit~pa~us~rt,,active
 XX,national,freedom transit pa us rt,https://freedom.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-freedom~transit~pa~us~rt,,active
 XX,national,gatlinburg tn us rt,https://gatlinburg.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-gatlinburg~tn~us~rt,,active
 XX,national,gatlinburg tn us rt,https://gatlinburg.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-gatlinburg~tn~us~rt,,active
 XX,national,gatlinburg tn us rt,https://gatlinburg.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-gatlinburg~tn~us~rt,,active
+XX,national,glazgo seau fr rt,https://api.pysae.com/api/v4/groups/glazgo/gtfs-rt,rt-tr-f-glazgo~seau~fr~rt,,active
 XX,national,goose creek transit rt,https://api.goswift.ly/real-time/goose-creek-transit/gtfs-rt-trip-updates,rt-tr-f-goose~creek~transit~rt,,active
 XX,national,goose creek transit rt,https://api.goswift.ly/real-time/goose-creek-transit/gtfs-rt-vehicle-positions,rt-ve-f-goose~creek~transit~rt,,active
 XX,national,goose creek transit rt alerts,https://api.goswift.ly/real-time/goose-creek-transit/gtfs-rt-alerts,rt-al-f-goose~creek~transit~rt~alerts,,active
+XX,national,grand dole rt,https://proxy.transport.data.gouv.fr/resource/tgd-dole-gtfs-rt-trip-update,rt-tr-f-grand~dole~rt,,active
+XX,national,grand dole rt,https://proxy.transport.data.gouv.fr/resource/tgd-dole-gtfs-rt-vehicle-position,rt-ve-f-grand~dole~rt,,active
+XX,national,grand poitiers vitalis rt,https://data.grandpoitiers.fr/data-fair/api/v1/datasets/offre-de-transport-du-reseau-vitalis/metadata-attachments/poitiers.pbf,rt-tr-f-grand~poitiers~vitalis~rt,,active
 XX,national,greaterclevelandregionaltransitauthority rt,https://gtfs-rt.gcrta.vontascloud.com/TMGTFSRealTimeWebService/Alert/Alerts.pb,rt-al-f-greaterclevelandregionaltransitauthority~rt,,active
 XX,national,greaterclevelandregionaltransitauthority rt,https://gtfs-rt.gcrta.vontascloud.com/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb,rt-tr-f-greaterclevelandregionaltransitauthority~rt,,active
 XX,national,greaterclevelandregionaltransitauthority rt,https://gtfs-rt.gcrta.vontascloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,rt-ve-f-greaterclevelandregionaltransitauthority~rt,,active
@@ -28111,18 +28194,26 @@ XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtim
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-hoboken~nj~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update?acl:consumerKey=,rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_vehicle?acl:consumerKey=,rt-ve-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
+XX,national,hoplccdelaplainedestres seau hopl rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=HOPLA&dataFormat=gtfs-rt,rt-tr-f-hoplccdelaplainedestres~seau~hopl~rt,,active
+XX,national,hoplccdelaplainedestres seau hopl rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=HOPLA&dataFormat=gtfs-rt,rt-ve-f-hoplccdelaplainedestres~seau~hopl~rt,,active
 XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/service_alert,rt-al-f-hubup~rivercat~rt,,active
 XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/trip_updates,rt-tr-f-hubup~rivercat~rt,,active
 XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/vehicle_positions,rt-ve-f-hubup~rivercat~rt,,active
+XX,national,ibus bernay fr rt,https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=bernay,rt-tr-f-ibus~bernay~fr~rt,,active
+XX,national,illygo seau fr rt,https://pysae.com/api/v2/groups/illygo/gtfs-rt,rt-al-f-illygo~seau~fr~rt,,active
+XX,national,imagine seau depinal fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-imagine-epinal-gtfs-rt-trip-update,rt-tr-f-imagine~seau~depinal~fr~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-indiana~county~transit~authority~rt,,active
 XX,national,indygo rt,https://realtime.indygo.net/infopoint/GTFS-Realtime.ashx?&Type=Alert,rt-al-f-indygo~rt,,active
 XX,national,indygo rt,https://realtime.indygo.net/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate,rt-tr-f-indygo~rt,,active
 XX,national,indygo rt,https://realtime.indygo.net/infopoint/GTFS-Realtime.ashx?&Type=VehiclePosition&serverid=0,rt-ve-f-indygo~rt,,active
+XX,national,inglard seau hop fr rt,https://gtfs-rt.infra-hubup.fr/hopbus/realtime,rt-al-f-inglard~seau~hop~fr~rt,,active
 XX,national,intercitytransit rt,https://its.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-intercitytransit~rt,,active
 XX,national,intercitytransit rt,https://its.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-intercitytransit~rt,,active
 XX,national,intercitytransit rt,https://its.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=alert,rt-al-f-intercitytransit~rt,,active
+XX,national,interurbain express zou rt,https://proxy-data.zou.maregionsud.fr/GTFS-RT/GTFS-RT_SA_ZOU_express.pb,rt-al-f-interurbain~express~zou~rt,,active
+XX,national,interurbain express zou rt,https://proxy-data.zou.maregionsud.fr/GTFS-RT/GTFS-RT_trips_ZOU_express.pb,rt-tr-f-interurbain~express~zou~rt,,active
 XX,national,iowacitytransitsystem rt,https://iowa.syncromatics.com/gtfs-rt/alerts,rt-al-f-iowacitytransitsystem~rt,,active
 XX,national,iowacitytransitsystem rt,https://iowa.syncromatics.com/gtfs-rt/tripupdates,rt-tr-f-iowacitytransitsystem~rt,,active
 XX,national,iowacitytransitsystem rt,https://iowa.syncromatics.com/gtfs-rt/vehiclepositions,rt-ve-f-iowacitytransitsystem~rt,,active
@@ -28169,11 +28260,14 @@ XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/g
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_trip_update,rt-tr-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,rt-ve-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keolis orleans fr rt,https://ara-api.enroute.mobi/tao/gtfs/trip-updates,rt-tr-f-keolis~orleans~fr~rt,,active
+XX,national,keolis seau riv fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-rivconnect-rives-de-moselle-gtfs-rt,rt-tr-f-keolis~seau~riv~fr~rt,,active
 XX,national,kerncounty ca rt,https://api.goswift.ly/real-time/kern-transit/gtfs-rt-trip-updates,rt-tr-f-kerncounty~ca~rt,,active
 XX,national,kerncounty ca rt,https://api.goswift.ly/real-time/kern-transit/gtfs-rt-vehicle-positions,rt-ve-f-kerncounty~ca~rt,,active
 XX,national,keywesttransit rt,https://kwtransit.com/gtfs-rt/alerts,rt-al-f-keywesttransit~rt,,active
 XX,national,keywesttransit rt,https://kwtransit.com/gtfs-rt/tripupdates,rt-tr-f-keywesttransit~rt,,active
 XX,national,keywesttransit rt,https://kwtransit.com/gtfs-rt/vehiclepositions,rt-ve-f-keywesttransit~rt,,active
+XX,national,kico seau kic fr rt,https://proxy.transport.data.gouv.fr/resource/kiceo-vannes-gtfs-rt,rt-tr-f-kico~seau~kic~fr~rt,,active
+XX,national,kico seau kic fr rt,https://proxy.transport.data.gouv.fr/resource/kiceo-vannes-gtfs-rt-vehicle-position,rt-ve-f-kico~seau~kic~fr~rt,,active
 XX,national,kingcountymetro rt,https://s3.amazonaws.com/kcm-alerts-realtime-prod/alerts.pb,rt-al-f-kingcountymetro~rt,,active
 XX,national,kingcountymetro rt,https://s3.amazonaws.com/kcm-alerts-realtime-prod/tripupdates.pb,rt-tr-f-kingcountymetro~rt,,active
 XX,national,kingcountymetro rt,https://s3.amazonaws.com/kcm-alerts-realtime-prod/vehiclepositions.pb,rt-ve-f-kingcountymetro~rt,,active
@@ -28209,12 +28303,27 @@ XX,national,lasvegasloop nv us rt,https://api.goswift.ly/real-time/city-las-vega
 XX,national,lasvegasloop nv us rt,https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-vehicle-positions,rt-ve-f-lasvegasloop~nv~us~rt,,active
 XX,national,lasvegasloop nv us rt alerts,https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-alerts,rt-al-f-lasvegasloop~nv~us~rt~alerts,,active
 XX,national,laxflyaway rt,https://laxflyaway.transloc.com/subscriptions/gtfsrt/vehicles.ashx,rt-ve-f-laxflyaway~rt,,active
+XX,national,le bus clermontois fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=LEBUS&dataFormat=gtfs-rt,rt-tr-f-le~bus~clermontois~fr~rt,,active
+XX,national,le bus clermontois fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=LEBUS&dataFormat=gtfs-rt,rt-ve-f-le~bus~clermontois~fr~rt,,active
+XX,national,le bus pont a mousson fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-lebus-pontamousson-gtfs-rt,rt-tr-f-le~bus~pont~a~mousson~fr~rt,,active
 XX,national,lebanon transit pa us rt,https://realtime.lebanontransit.org/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-lebanon~transit~pa~us~rt,,active
 XX,national,lebanon transit pa us rt,https://realtime.lebanontransit.org/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-lebanon~transit~pa~us~rt,,active
 XX,national,lebanon transit pa us rt,https://realtime.lebanontransit.org/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-lebanon~transit~pa~us~rt,,active
+XX,national,levibvierzon seau vib fr rt,https://proxy.transport.data.gouv.fr/resource/le-vib-vierzon-gtfs-rt-alerts,rt-al-f-levibvierzon~seau~vib~fr~rt,,active
+XX,national,levibvierzon seau vib fr rt,https://proxy.transport.data.gouv.fr/resource/le-vib-vierzon-gtfs-rt-trip-update,rt-tr-f-levibvierzon~seau~vib~fr~rt,,active
+XX,national,levibvierzon seau vib fr rt,https://proxy.transport.data.gouv.fr/resource/le-vib-vierzon-gtfs-rt-vehicle-position,rt-ve-f-levibvierzon~seau~vib~fr~rt,,active
+XX,national,libbus noyon fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=LIBBUS&dataFormat=gtfs-rt,rt-tr-f-libbus~noyon~fr~rt,,active
+XX,national,libbus noyon fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=LIBBUS&dataFormat=gtfs-rt,rt-ve-f-libbus~noyon~fr~rt,,active
+XX,national,libellule liancourt fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=LELIBELLULE&dataFormat=gtfs-rt,rt-tr-f-libellule~liancourt~fr~rt,,active
+XX,national,libellule liancourt fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=LELIBELLULE&dataFormat=gtfs-rt,rt-ve-f-libellule~liancourt~fr~rt,,active
+XX,national,lila presquile fr rt,https://proxy.transport.data.gouv.fr/resource/lila-presquile-cap-atlantique-gtfs-rt,rt-ve-f-lila~presquile~fr~rt,,active
+XX,national,lila presquile fr rt,https://proxy.transport.data.gouv.fr/resource/lila-presquile-cap-atlantique-gtfs-rt-service-alert,rt-al-f-lila~presquile~fr~rt,,active
 XX,national,linktransit nc us rt,https://mylinktransit.org/gtfs-rt/alerts,rt-al-f-linktransit~nc~us~rt,,active
 XX,national,linktransit nc us rt,https://mylinktransit.org/gtfs-rt/tripupdates,rt-tr-f-linktransit~nc~us~rt,,active
 XX,national,linktransit nc us rt,https://mylinktransit.org/gtfs-rt/vehiclepositions,rt-ve-f-linktransit~nc~us~rt,,active
+XX,national,lio fr rt,https://lio.2cloud.app/api/gtfsrt/2.0/tripupdates/LIO65-6765-2617-7480/bin,rt-tr-f-lio~fr~rt,,active
+XX,national,lio fr rt,https://lio.2cloud.app/api/gtfsrt/2.0/vehiclepositions/LIO65-6765-2617-7480/bin,rt-ve-f-lio~fr~rt,,active
+XX,national,lisatis lavaur fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=lavaur,rt-ve-f-lisatis~lavaur~fr~rt,,active
 XX,national,longbeachtransit rt,https://gtfs-rt.lbt.vontascloud.com/TMGTFSRealTimeWebService/Alert/Alerts.pb,rt-al-f-longbeachtransit~rt,,active
 XX,national,longbeachtransit rt,https://gtfs-rt.lbt.vontascloud.com/TMGTFSRealTimeWebService/TripUpdate/TripUpdates.pb,rt-tr-f-longbeachtransit~rt,,active
 XX,national,longbeachtransit rt,https://gtfs-rt.lbt.vontascloud.com/TMGTFSRealTimeWebService/Vehicle/VehiclePositions.pb,rt-ve-f-longbeachtransit~rt,,active
@@ -28224,9 +28333,13 @@ XX,national,lower anthracite transit system rt,https://lats.rideralerts.com/Info
 XX,national,lubbock tx us rt,https://api.goswift.ly/real-time/lubbock-citibus/gtfs-rt-trip-updates,rt-tr-f-lubbock~tx~us~rt,,active
 XX,national,lubbock tx us rt,https://api.goswift.ly/real-time/lubbock-citibus/gtfs-rt-vehicle-positions,rt-ve-f-lubbock~tx~us~rt,,active
 XX,national,lubbock tx us rt alerts,https://api.goswift.ly/real-time/lubbock-citibus/gtfs-rt-alerts,rt-al-f-lubbock~tx~us~rt~alerts,,active
+XX,national,luneo seau lun fr rt,https://pysae.com/api/v2/groups/luneo/gtfs-rt,rt-al-f-luneo~seau~lun~fr~rt,,active
 XX,national,luzerne county transit authority rt,https://realtimelctabus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-luzerne~county~transit~authority~rt,,active
 XX,national,luzerne county transit authority rt,https://realtimelctabus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-luzerne~county~transit~authority~rt,,active
 XX,national,luzerne county transit authority rt,https://realtimelctabus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-luzerne~county~transit~authority~rt,,active
+XX,national,léo fr rt,http://auxerre.api.instant-system.com/public/disruptions/gtfs-rt/alert.pb?apikey=8bd10ac5e522fe43eed239439e556b3b,rt-al-f-léo~fr~rt,,active
+XX,national,léo fr rt,https://leo.plateforme-2cloud.com/api/gtfsrt/2.0/tripUpdates/LEO-6547-2543-6895?&format=bin&network=AURMLEBUS,rt-tr-f-léo~fr~rt,,active
+XX,national,léo fr rt,https://leo.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/LEO-6547-2543-6895?&format=bin&network=AURMLEBUS,rt-ve-f-léo~fr~rt,,active
 XX,national,madera county connection rt,https://api.goswift.ly/real-time/madera/gtfs-rt-trip-updates,rt-tr-f-madera~county~connection~rt,,active
 XX,national,madera county connection rt,https://api.goswift.ly/real-time/madera/gtfs-rt-vehicle-positions,rt-ve-f-madera~county~connection~rt,,active
 XX,national,madera county connection rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/maderactc-ca-us/service_alerts.proto,rt-al-f-madera~county~connection~rt~alerts,,active
@@ -28236,6 +28349,7 @@ XX,national,madison county transit il us rt,https://nextmctbus.org/gtfs-rt/vehic
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/alerts.pb,rt-al-f-manteca~transit~rt,,active
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/position_updates.pb,rt-ve-f-manteca~transit~rt,,active
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/trip_updates.pb,rt-tr-f-manteca~transit~rt,,active
+XX,national,mat seau fr rt,https://proxy.transport.data.gouv.fr/resource/mat-st-malo-gtfs-rt,rt-ve-f-mat~seau~fr~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/alerts,rt-al-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/tripupdates,rt-tr-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/vehiclepositions,rt-ve-f-maui~county~transit~rt,,active
@@ -28269,18 +28383,28 @@ XX,national,mid county transit authority rt,https://tact.rideralerts.com/InfoPoi
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-mid~mon~valley~transit~authority~pa~rt,,active
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-mid~mon~valley~transit~authority~pa~rt,,active
 XX,national,mid mon valley transit authority pa rt,https://mmvta.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-mid~mon~valley~transit~authority~pa~rt,,active
+XX,national,mocacommunautdecommunescauxaustreberthe seau moca rt,https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt,rt-al-f-mocacommunautdecommunescauxaustreberthe~seau~moca~rt,,active
+XX,national,mocacommunautdecommunescauxaustreberthe seau moca rt,https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt-trip-update,rt-tr-f-mocacommunautdecommunescauxaustreberthe~seau~moca~rt,,active
+XX,national,mocacommunautdecommunescauxaustreberthe seau moca rt,https://proxy.transport.data.gouv.fr/resource/moca-caux-austreberthe-gtfs-rt-vehicle-position,rt-ve-f-mocacommunautdecommunescauxaustreberthe~seau~moca~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-modestoareaexpress~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-montebello~bus~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-montebello~bus~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-montebello~bus~rt,,active
+XX,national,moova seau devesoul fr rt,https://proxy.transport.data.gouv.fr/resource/moova-vesoul-gtfs-rt-trip-update,rt-tr-f-moova~seau~devesoul~fr~rt,,active
+XX,national,moova seau devesoul fr rt,https://proxy.transport.data.gouv.fr/resource/moova-vesoul-gtfs-rt-vehicle-position,rt-ve-f-moova~seau~devesoul~fr~rt,,active
 XX,national,morongo basin rt,https://ridebasintransit.com/gtfs-rt/alerts,rt-al-f-morongo~basin~rt,,active
 XX,national,morongo basin rt,https://ridebasintransit.com/gtfs-rt/tripupdates,rt-tr-f-morongo~basin~rt,,active
 XX,national,morongo basin rt,https://ridebasintransit.com/gtfs-rt/vehiclepositions,rt-ve-f-morongo~basin~rt,,active
 XX,national,mountain line az rt,https://mountainline.syncromatics.com/gtfs-rt/alerts,rt-al-f-mountain~line~az~rt,,active
 XX,national,mountain line az rt,https://mountainline.syncromatics.com/gtfs-rt/tripupdates,rt-tr-f-mountain~line~az~rt,,active
 XX,national,mountain line az rt,https://mountainline.syncromatics.com/gtfs-rt/vehiclepositions,rt-ve-f-mountain~line~az~rt,,active
+XX,national,mouvo seau mouv fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-mouveo-eprenay-gtfs-rt-trip-update,rt-tr-f-mouvo~seau~mouv~fr~rt,,active
+XX,national,moveterritoiresvendmois seau move rt,https://pysae.com/api/v2/groups/vendome/gtfs-rt,rt-al-f-moveterritoiresvendmois~seau~move~rt,,active
+XX,national,mozaik martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Centre/Alert.pb,rt-al-f-mozaik~martinique~fr~rt,,active
+XX,national,mozaik martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Centre/TripUpdate.pb,rt-tr-f-mozaik~martinique~fr~rt,,active
+XX,national,mozaik martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Centre/VehiclePosition.pb,rt-ve-f-mozaik~martinique~fr~rt,,active
 XX,national,mrc montcalm rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=mrc-montcalm,rt-tr-f-mrc~montcalm~rt,,active
 XX,national,mrc montcalm rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=mrc-montcalm,rt-ve-f-mrc~montcalm~rt,,active
 XX,national,muskegon area transit rt,https://muskegon.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-muskegon~area~transit~rt,,active
@@ -28303,9 +28427,13 @@ XX,national,mybas seremban b rt,https://api.data.gov.my/gtfs-realtime/vehicle-po
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb,rt-ve-f-nashvillemta~rt,,active
+XX,national,navette chinon fr rt,https://app.pysae.com/api/v2/groups/cc-cvl-navette-estivale/gtfs-rt,rt-ve-f-navette~chinon~fr~rt,,active
+XX,national,navetteestivaleramatuelle navette estivale rt,https://pysae.com/api/v2/groups/keolis-yr25/gtfs-rt,rt-ve-f-navetteestivaleramatuelle~navette~estivale~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-ncrtd~nm~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-ncrtd~nm~rt,,active
 XX,national,ncrtd nm rt,https://bluebustracker.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-ncrtd~nm~rt,,active
+XX,national,nemus seau flersagglo fr rt,https://flers-agglo.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/FLERS-5197-3181-6523/bin?network=104,rt-tr-f-nemus~seau~flersagglo~fr~rt,,active
+XX,national,nemus seau flersagglo fr rt,https://flers-agglo.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/FLERS-5197-3181-6523/bin?network=104,rt-ve-f-nemus~seau~flersagglo~fr~rt,,active
 XX,national,nevadacountygoldcountrystage rt,https://api.goswift.ly/real-time/gold-country-stage/gtfs-rt-trip-updates,rt-tr-f-nevadacountygoldcountrystage~rt,,active
 XX,national,nevadacountygoldcountrystage rt,https://api.goswift.ly/real-time/gold-country-stage/gtfs-rt-vehicle-positions,rt-ve-f-nevadacountygoldcountrystage~rt,,active
 XX,national,nevadacountygoldcountrystage rt alerts,https://api.goswift.ly/real-time/gold-country-stage/gtfs-rt-alerts/,rt-al-f-nevadacountygoldcountrystage~rt~alerts,,active
@@ -28319,23 +28447,37 @@ XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-trip-updates,rt-tr-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-vehicle-positions,rt-ve-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt alerts,https://api.goswift.ly/real-time/nctd/gtfs-rt-alerts/,rt-al-f-northcountrytransitdistrict~rt~alerts,,active
+XX,national,nosbusnogentlerotrou seau nosbus rt,https://api.pysae.com/api/v4/groups/nosbus/gtfs-rt,rt-al-f-nosbusnogentlerotrou~seau~nosbus~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-nycferry~rt,,active
+XX,national,ole lunel fr rt,https://ole.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/OLE-2187-9024-3517/bin,rt-tr-f-ole~lunel~fr~rt,,active
+XX,national,ole lunel fr rt,https://ole.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/OLE-2187-9024-3517/bin,rt-ve-f-ole~lunel~fr~rt,,active
+XX,national,orizo grand avignon rt,https://api.maas-fr.cityway.fr/dataflow/horaire-tc-tr/download?provider=ORIZO&dataFormat=gtfs-rt,rt-tr-f-orizo~grand~avignon~rt,,active
+XX,national,orizo grand avignon rt,https://api.maas-fr.cityway.fr/dataflow/vehicule-tc-tr/download?provider=ORIZO&dataFormat=gtfs-rt,rt-ve-f-orizo~grand~avignon~rt-2,,active
 XX,national,owensound on ca rt,https://metrolinx.tmix.se/gtfs-realtime-owensound/alerts.pb,rt-al-f-owensound~on~ca~rt,,active
 XX,national,owensound on ca rt,https://metrolinx.tmix.se/gtfs-realtime-owensound/tripupdates.pb,rt-tr-f-owensound~on~ca~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-ozark~regional~transit~rt,,active
+XX,national,ozcar fr rt,https://api.pysae.com/api/v4/groups/lr-coeurduvar/gtfs-rt,rt-ve-f-ozcar~fr~rt,,active
 XX,national,palmettobreeze sc rt,https://trackthebreeze.com/gtfs-rt/alerts,rt-al-f-palmettobreeze~sc~rt,,active
 XX,national,palmettobreeze sc rt,https://trackthebreeze.com/gtfs-rt/tripupdates,rt-tr-f-palmettobreeze~sc~rt,,active
 XX,national,palmettobreeze sc rt,https://trackthebreeze.com/gtfs-rt/vehiclepositions,rt-ve-f-palmettobreeze~sc~rt,,active
+XX,national,palmlademande seau palmbus fr rt,https://proxy.transport.data.gouv.fr/resource/palmbus-cannes-gtfs-rt-service-alert,rt-al-f-palmlademande~seau~palmbus~fr~rt,,active
+XX,national,palmlademande seau palmbus fr rt,https://proxy.transport.data.gouv.fr/resource/palmbus-cannes-gtfs-rt-trip-update,rt-tr-f-palmlademande~seau~palmbus~fr~rt,,active
+XX,national,palmlademande seau palmbus fr rt,https://proxy.transport.data.gouv.fr/resource/palmbus-cannes-gtfs-rt-vehicle-position,rt-ve-f-palmlademande~seau~palmbus~fr~rt,,active
+XX,national,papillon cosne fr rt,https://api.pysae.com/api/v4/groups/coeur-de-loire/gtfs-rt,rt-al-f-papillon~cosne~fr~rt,,active
 XX,national,park city ut rt,https://gtfsrt.parkcity.cadavl.com/ProfilGtfsRt2_0RSProducer-PARKCITY/Alert.pb,rt-al-f-park~city~ut~rt,,active
 XX,national,park city ut rt,https://gtfsrt.parkcity.cadavl.com/ProfilGtfsRt2_0RSProducer-PARKCITY/TripUpdate.pb,rt-tr-f-park~city~ut~rt,,active
 XX,national,park city ut rt,https://gtfsrt.parkcity.cadavl.com/ProfilGtfsRt2_0RSProducer-PARKCITY/VehiclePosition.pb,rt-ve-f-park~city~ut~rt,,active
 XX,national,pasadenatransit rt,https://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-pasadenatransit~rt,,active
 XX,national,pasadenatransit rt,https://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-pasadenatransit~rt,,active
 XX,national,pasadenatransit rt,https://rt.pasadenatransit.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-pasadenatransit~rt,,active
+XX,national,pass thelle bus fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=PASSTHELLE&dataFormat=gtfs-rt,rt-tr-f-pass~thelle~bus~fr~rt,,active
+XX,national,pass thelle bus fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=PASSTHELLE&dataFormat=gtfs-rt,rt-ve-f-pass~thelle~bus~fr~rt,,active
+XX,national,passo seau pass fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-passo-obernai-gtfs-rt-trip-update,rt-tr-f-passo~seau~pass~fr~rt,,active
+XX,national,paysdesecrins seau pays fr rt,https://app.pysae.com/api/v2/groups/pays-des-ecrins/gtfs-rt,rt-ve-f-paysdesecrins~seau~pays~fr~rt,,active
 XX,national,pee dee sc us rt,https://s3.amazonaws.com/etatransit.gtfs/pdtransit.etaspot.net/alerts.pb,rt-al-f-pee~dee~sc~us~rt-2,,active
 XX,national,pee dee sc us rt,https://s3.amazonaws.com/etatransit.gtfs/pdtransit.etaspot.net/position_updates.pb,rt-ve-f-pee~dee~sc~us~rt-2,,active
 XX,national,pee dee sc us rt,https://s3.amazonaws.com/etatransit.gtfs/pdtransit.etaspot.net/trip_updates.pb,rt-tr-f-pee~dee~sc~us~rt-2,,active
@@ -28354,15 +28496,19 @@ XX,national,piercetransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realt
 XX,national,pigeon forge tn us rt,https://pigeonforge.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-pigeon~forge~tn~us~rt,,active
 XX,national,pigeon forge tn us rt,https://pigeonforge.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-pigeon~forge~tn~us~rt,,active
 XX,national,pigeon forge tn us rt,https://pigeonforge.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-pigeon~forge~tn~us~rt,,active
+XX,national,pondibus seau pontivy fr rt,https://pysae.com/api/v2/groups/pondibus/gtfs-rt,rt-ve-f-pondibus~seau~pontivy~fr~rt,,active
 XX,national,portage area regional transportation authority rt,https://passio3.com/parta/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-portage~area~regional~transportation~authority~rt,,active
 XX,national,portage area regional transportation authority rt,https://passio3.com/parta/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-portage~area~regional~transportation~authority~rt,,active
 XX,national,portage area regional transportation authority rt,https://passio3.com/parta/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-portage~area~regional~transportation~authority~rt,,active
+XX,national,portovecchiaiseuropeparishttpacitadinaportovecchio rt,https://pysae.com/api/v2/groups/porto-vecchio/gtfs-rt,rt-tr-f-portovecchiaiseuropeparishttpacitadinaportovecchio~r,,active
 XX,national,pottstown area rapid transit rt,https://part.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-pottstown~area~rapid~transit~rt,,active
 XX,national,pottstown area rapid transit rt,https://part.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-pottstown~area~rapid~transit~rt,,active
 XX,national,pottstown area rapid transit rt,https://part.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-pottstown~area~rapid~transit~rt,,active
 XX,national,presidigo ca us rt,https://presidiobus.com/gtfs-rt/alerts,rt-al-f-presidigo~ca~us~rt,,active
 XX,national,presidigo ca us rt,https://presidiobus.com/gtfs-rt/tripupdates,rt-tr-f-presidigo~ca~us~rt,,active
 XX,national,presidigo ca us rt,https://presidiobus.com/gtfs-rt/vehiclepositions,rt-ve-f-presidigo~ca~us~rt,,active
+XX,national,proximité zou rt,https://proxy-data.zou.maregionsud.fr/GTFS-RT/GTFS-RT_SA_ZOU_proximite.pb,rt-al-f-proximité~zou~rt,,active
+XX,national,proximité zou rt,https://proxy-data.zou.maregionsud.fr/GTFS-RT/GTFS-RT_trips_ZOU_proximite.pb,rt-tr-f-proximité~zou~rt,,active
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/alerts,rt-al-f-pullman~transit~wa~us~rt,,active
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/tripupdates,rt-tr-f-pullman~transit~wa~us~rt,,active
 XX,national,pullman transit wa us rt,https://pullmanbusbeacon.com/gtfs-rt/vehiclepositions,rt-ve-f-pullman~transit~wa~us~rt,,active
@@ -28372,6 +28518,11 @@ XX,national,qline mi rt,https://s3.amazonaws.com/etatransit.gtfs/qline.etaspot.n
 XX,national,qline mi rt,https://s3.amazonaws.com/etatransit.gtfs/qline.etaspot.net/position_updates.pb,rt-ve-f-qline~mi~rt-2,,active
 XX,national,qline mi rt,https://s3.amazonaws.com/etatransit.gtfs/qline.etaspot.net/trip_updates.pb,rt-tr-f-qline~mi~rt-2,,active
 XX,national,qline mi rt alerts,https://api.goswift.ly/real-time/detroit-m1-rail/gtfs-rt-alerts/,rt-al-f-qline~mi~rt~alerts,,active
+XX,national,qub seau fr rt,https://feed-qub-quimper.ratpdev.com/GTFS-RT_tripUpdate/gtfs-rt.bin,rt-tr-f-qub~seau~fr~rt,,active
+XX,national,qub seau fr rt,https://feed-qub-quimper.ratpdev.com/GTFS-RT_vehiclePosition/gtfs-rt.bin,rt-ve-f-qub~seau~fr~rt,,active
+XX,national,qub seau fr rt,https://notify.ratpdev.com/api/networks/RD%20QUIMPER/alerts/gtfsrt,rt-al-f-qub~seau~fr~rt,,active
+XX,national,rdbm seau beemob fr rt,https://feed-beemob-beziers.ratpdev.com/GTFS-RT_tripUpdate/gtfs-rt.bin,rt-tr-f-rdbm~seau~beemob~fr~rt,,active
+XX,national,rdbm seau beemob fr rt,https://feed-beemob-beziers.ratpdev.com/GTFS-RT_vehiclePosition/gtfs-rt.bin,rt-ve-f-rdbm~seau~beemob~fr~rt,,active
 XX,national,redondo beach cities transit rt,https://redondobeachbct.com/gtfs-rt/alerts,rt-al-f-redondo~beach~cities~transit~rt,,active
 XX,national,redondo beach cities transit rt,https://redondobeachbct.com/gtfs-rt/tripupdates,rt-tr-f-redondo~beach~cities~transit~rt,,active
 XX,national,redondo beach cities transit rt,https://redondobeachbct.com/gtfs-rt/vehiclepositions,rt-ve-f-redondo~beach~cities~transit~rt,,active
@@ -28382,6 +28533,12 @@ XX,national,regional public transportation inc rt,https://passio3.com/smart/pass
 XX,national,regional public transportation inc rt,https://passio3.com/smart/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-regional~public~transportation~inc~rt,,active
 XX,national,regional public transportation inc rt,https://passio3.com/smart/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-regional~public~transportation~inc~rt,,active
 XX,national,reseau express metropolitain rt,https://storage.googleapis.com/transit-terminal-alerts-bucket-production/rem_montreal.pb,rt-al-f-reseau~express~metropolitain~rt,,active
+XX,national,reseau maelis montlucon communaute rt,https://proxy.transport.data.gouv.fr/resource/maelis-montlucon-gtfs-rt-trip-update,rt-tr-f-reseau~maelis~montlucon~communaute~rt,,active
+XX,national,reseau maelis montlucon communaute rt,https://proxy.transport.data.gouv.fr/resource/maelis-montlucon-gtfs-rt-vehicle-position,rt-ve-f-reseau~maelis~montlucon~communaute~rt,,active
+XX,national,reseau nord martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Nord/Alert.pb,rt-al-f-reseau~nord~martinique~fr~rt,,active
+XX,national,reseau nord martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Nord/TripUpdate.pb,rt-tr-f-reseau~nord~martinique~fr~rt,,active
+XX,national,reseau nord martinique fr rt,https://ext.saemartinique.ovh:4435/ProfilGtfsRt2_0RSProducer-Nord/VehiclePosition.pb,rt-ve-f-reseau~nord~martinique~fr~rt,,active
+XX,national,rezo seau dugrandverdun fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-rezo-verdun-gtfs-rt-trip-update,rt-tr-f-rezo~seau~dugrandverdun~fr~rt,,active
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-river~valley~transit~authority~rt,,active
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-river~valley~transit~authority~rt,,active
 XX,national,river valley transit authority rt,https://my.ridervt.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-river~valley~transit~authority~rt,,active
@@ -28409,17 +28566,27 @@ XX,national,rouyn noranda qc ca rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=alert,rt-al-f-rrta~pa~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-rrta~pa~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-rrta~pa~rt,,active
+XX,national,rseaumistral seau mistral fr rt,https://feed-rdtpm-toulon.ratpdev.com/TripUpdate/GTFS-RT,rt-tr-f-rseaumistral~seau~mistral~fr~rt,,active
+XX,national,rseaumistral seau mistral fr rt,https://feed-rdtpm-toulon.ratpdev.com/VehiclePosition/GTFS-RT,rt-ve-f-rseaumistral~seau~mistral~fr~rt,,active
+XX,national,rseaumistral seau mistral fr rt,https://notify.ratpdev.com/api/networks/RD%20TPM/alerts/gtfsrt,rt-al-f-rseaumistral~seau~mistral~fr~rt,,active
+XX,national,rso seau dusabolien fr rt,https://gtfs-rt.infra-hubup.fr/reso/realtime,rt-al-f-rso~seau~dusabolien~fr~rt,,active
 XX,national,rta rt,https://rtabus.com/gtfsrt/alerts,rt-al-f-rta~rt,,active
 XX,national,rta rt,https://rtabus.com/gtfsrt/trips,rt-tr-f-rta~rt,,active
 XX,national,rta rt,https://rtabus.com/gtfsrt/vehicles,rt-ve-f-rta~rt,,active
+XX,national,rtca carcassonne fr rt,https://proxy.transport.data.gouv.fr/resource/rtca-carcassonne-gtfs-rt-service-alert,rt-al-f-rtca~carcassonne~fr~rt,,active
+XX,national,rtca carcassonne fr rt,https://proxy.transport.data.gouv.fr/resource/rtca-carcassonne-gtfs-rt-trip-update,rt-tr-f-rtca~carcassonne~fr~rt,,active
+XX,national,rtca carcassonne fr rt,https://proxy.transport.data.gouv.fr/resource/rtca-carcassonne-gtfs-rt-vehicle-position,rt-ve-f-rtca~carcassonne~fr~rt,,active
 XX,national,rtcsnv rt,https://api.goswift.ly/real-time/las-vegas-rtc/gtfs-rt-trip-updates,rt-tr-f-rtcsnv~rt,,active
 XX,national,rtcsnv rt,https://api.goswift.ly/real-time/las-vegas-rtc/gtfs-rt-vehicle-positions,rt-ve-f-rtcsnv~rt,,active
 XX,national,rtcsnv rt alerts,https://api.goswift.ly/real-time/las-vegas-rtc/gtfs-rt-alerts/,rt-al-f-rtcsnv~rt~alerts,,active
 XX,national,ruralcommunity vt rt,https://api.goswift.ly/real-time/rct/gtfs-rt-trip-updates,rt-tr-f-ruralcommunity~vt~rt,,active
 XX,national,ruralcommunity vt rt,https://api.goswift.ly/real-time/rct/gtfs-rt-vehicle-positions,rt-ve-f-ruralcommunity~vt~rt,,active
+XX,national,sablons bus fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=SABLONS&dataFormat=gtfs-rt,rt-tr-f-sablons~bus~fr~rt,,active
+XX,national,sablons bus fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=SABLONS&dataFormat=gtfs-rt,rt-ve-f-sablons~bus~fr~rt,,active
 XX,national,saguenay qc ca rt,https://saguenay.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-saguenay~qc~ca~rt,,active
 XX,national,saguenay qc ca rt,https://saguenay.tmix.se/gtfs-realtime/tripupdates.pb,rt-tr-f-saguenay~qc~ca~rt,,active
 XX,national,saguenay qc ca rt,https://saguenay.tmix.se/gtfs-realtime/vehicleupdates.pb,rt-ve-f-saguenay~qc~ca~rt,,active
+XX,national,saint sulpice la pointe fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=saint-sulpice-la-pointe,rt-ve-f-saint~sulpice~la~pointe~fr~rt,,active
 XX,national,saintlouis rt,https://www.metrostlouis.org/RealTimeData/StlRealTimeAlerts.pb,rt-al-f-saintlouis~rt,,active
 XX,national,saintlouis rt,https://www.metrostlouis.org/RealTimeData/StlRealTimeTrips.pb,rt-tr-f-saintlouis~rt,,active
 XX,national,saintlouis rt,https://www.metrostlouis.org/RealTimeData/StlRealTimeVehicles.pb,rt-ve-f-saintlouis~rt,,active
@@ -28445,6 +28612,7 @@ XX,national,seattlechildrenshospitalshuttle rt,https://api.goswift.ly/real-time/
 XX,national,selkirks pend oreille transit authority rt,https://passio3.com/spotbus/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-selkirks~pend~oreille~transit~authority~rt,,active
 XX,national,selkirks pend oreille transit authority rt,https://passio3.com/spotbus/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-selkirks~pend~oreille~transit~authority~rt,,active
 XX,national,selkirks pend oreille transit authority rt,https://passio3.com/spotbus/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-selkirks~pend~oreille~transit~authority~rt,,active
+XX,national,semop seau rezo fr rt,https://app.pysae.com/api/v4/groups/caux-seine-agglo/gtfs-rt,rt-al-f-semop~seau~rezo~fr~rt,,active
 XX,national,sendaimunicipal bus realtime information jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SendaiMunicipal_bus_realtime_information_alert,rt-al-f-sendaimunicipal~bus~realtime~information~jp~rt,,active
 XX,national,sendaimunicipal bus realtime information jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SendaiMunicipal_bus_realtime_information_trip_update,rt-tr-f-sendaimunicipal~bus~realtime~information~jp~rt,,active
 XX,national,sendaimunicipal bus realtime information jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SendaiMunicipal_bus_realtime_information_vehicle,rt-ve-f-sendaimunicipal~bus~realtime~information~jp~rt,,active
@@ -28459,18 +28627,25 @@ XX,national,septa rail rt,https://www3.septa.org/gtfsrt/septarail-pa-us/Vehicle/
 XX,national,septa rt,https://www3.septa.org/gtfsrt/septa-pa-us/Service/rtServiceAlerts.pb,rt-al-f-septa~rt,,active
 XX,national,septa rt,https://www3.septa.org/gtfsrt/septa-pa-us/Trip/rtTripUpdates.pb,rt-tr-f-septa~rt,,active
 XX,national,septa rt,https://www3.septa.org/gtfsrt/septa-pa-us/Vehicle/rtVehiclePosition.pb,rt-ve-f-septa~rt,,active
+XX,national,sete agglopole mobilite fr rt,https://sete.ceccli.com/gtfs/Alerts.pb,rt-al-f-sete~agglopole~mobilite~fr~rt,,active
+XX,national,sete agglopole mobilite fr rt,https://sete.ceccli.com/gtfs/TripUpdates.pb,rt-tr-f-sete~agglopole~mobilite~fr~rt,,active
+XX,national,sete agglopole mobilite fr rt,https://sete.ceccli.com/gtfs/VehiclePositions.pb,rt-ve-f-sete~agglopole~mobilite~fr~rt,,active
+XX,national,setram seau culemans fr rt,https://eur.mecatran.com/utw/ws/gtfsfeed/realtime/lemans?apiKey=73334a124f3a1654141d6979113106450f291d15,rt-tr-f-setram~seau~culemans~fr~rt,,active
+XX,national,setram seau culemans fr rt,https://proxy.transport.data.gouv.fr/resource/setram-lemans-gtfs-rt-service-alert,rt-al-f-setram~seau~culemans~fr~rt,,active
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-shenango~valley~shuttle~service~pa~rt,,active
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-shenango~valley~shuttle~service~pa~rt,,active
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-shenango~valley~shuttle~service~pa~rt,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_alert?acl:consumerKey=,rt-al-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_trip_update?acl:consumerKey=,rt-tr-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_vehicle?acl:consumerKey=,rt-ve-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
+XX,national,sitac chalons fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sitac-chalons-gtfs-rt-trip-update,rt-tr-f-sitac~chalons~fr~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_ServiceAlerts.pb,rt-al-f-skagit~wa~us~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_TripUpdates.pb,rt-tr-f-skagit~wa~us~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_VehiclePositions.pb,rt-ve-f-skagit~wa~us~rt,,active
 XX,national,smart mi rt,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-trip-updates,rt-tr-f-smart~mi~rt,,active
 XX,national,smart mi rt,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-vehicle-positions,rt-ve-f-smart~mi~rt,,active
 XX,national,smart mi rt alerts,https://api.goswift.ly/real-time/detroit-smartbus/gtfs-rt-alerts/,rt-al-f-smart~mi~rt~alerts,,active
+XX,national,sntsuma navette estivale fr rt,https://pysae.com/api/v2/groups/suma-22ua/gtfs-rt,rt-ve-f-sntsuma~navette~estivale~fr~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/alerts-for-agency/40.pb,rt-al-f-soundtransit~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-updates-for-agency/40.pb,rt-tr-f-soundtransit~rt,,active
 XX,national,soundtransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/40.pb,rt-ve-f-soundtransit~rt,,active
@@ -28492,8 +28667,19 @@ XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/g
 XX,national,stony brook university ny us rt,https://s3.amazonaws.com/etatransit.gtfs/stonybrook.etaspot.net/alerts.pb,rt-al-f-stony~brook~university~ny~us~rt,,active
 XX,national,stony brook university ny us rt,https://s3.amazonaws.com/etatransit.gtfs/stonybrook.etaspot.net/position_updates.pb,rt-ve-f-stony~brook~university~ny~us~rt,,active
 XX,national,stony brook university ny us rt,https://s3.amazonaws.com/etatransit.gtfs/stonybrook.etaspot.net/trip_updates.pb,rt-tr-f-stony~brook~university~ny~us~rt,,active
+XX,national,sudlib martinique fr rt,https://api.pysae.com/api/v4/groups/sud_lib/gtfs-rt,rt-ve-f-sudlib~martinique~fr~rt,,active
+XX,national,suma seau estival fr rt,https://pysae.com/api/v2/groups/cavalaire/gtfs-rt,rt-ve-f-suma~seau~estival~fr~rt,,active
+XX,national,suma seau hivernal fr rt,https://pysae.com/api/v2/groups/cavalaire-h/gtfs-rt,rt-ve-f-suma~seau~hivernal~fr~rt,,active
+XX,national,sumanavettelacroixvalmer seau croix rt,https://pysae.com/api/v2/groups/croix-valmer/gtfs-rt,rt-ve-f-sumanavettelacroixvalmer~seau~croix~rt,,active
 XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-time/setd/gtfs-rt-trip-updates,rt-tr-f-sunsetempiretransportationdistrict~rt,,active
 XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-time/setd/gtfs-rt-vehicle-positions,rt-ve-f-sunsetempiretransportationdistrict~rt,,active
+XX,national,surf seau fr rt,https://proxy.transport.data.gouv.fr/resource/surf-fougeres-gtfs-rt-trip-update,rt-tr-f-surf~seau~fr~rt,,active
+XX,national,surf seau fr rt,https://proxy.transport.data.gouv.fr/resource/surf-fougeres-gtfs-rt-vehicle-position,rt-ve-f-surf~seau~fr~rt,,active
+XX,national,sylvia saint die fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sylvia-stdie-des-vosges-gtfs-rt-service-alert,rt-al-f-sylvia~saint~die~fr~rt,,active
+XX,national,sylvia saint die fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sylvia-stdie-des-vosges-gtfs-rt-trip-update,rt-tr-f-sylvia~saint~die~fr~rt,,active
+XX,national,tac charleville fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-tac-ardenne-gtfs-rt,rt-tr-f-tac~charleville~fr~rt,,active
+XX,national,taco coeur du var fr rt,https://api.pysae.com/api/v4/groups/transdev-var-taco/gtfs-rt,rt-ve-f-taco~coeur~du~var~fr~rt,,active
+XX,national,tadao seau delenslivin fr rt,https://ara-api.enroute.mobi/tadao_production/gtfs,rt-ve-f-tadao~seau~delenslivin~fr~rt,,active
 XX,national,tahoe ca rt,https://api.goswift.ly/real-time/bluego/gtfs-rt-trip-updates,rt-tr-f-tahoe~ca~rt,,active
 XX,national,tahoe ca rt,https://api.goswift.ly/real-time/bluego/gtfs-rt-vehicle-positions,rt-ve-f-tahoe~ca~rt,,active
 XX,national,tahoe ca rt alerts,https://api.goswift.ly/real-time/bluego/gtfs-rt-alerts,rt-al-f-tahoe~ca~rt~alerts,,active
@@ -28506,14 +28692,26 @@ XX,national,takeyakoutu takeyakotsu rt,https://realtime.gtfs.info/takeyakotsu/ve
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-tarc~rt,,active
+XX,national,tbk quimperle fr rt,https://proxy.transport.data.gouv.fr/resource/tbk-quimperle-communaute-gtfs-rt-alerts,rt-al-f-tbk~quimperle~fr~rt,,active
+XX,national,tbk quimperle fr rt,https://pysae.com/api/v2/groups/quimperle/gtfs-rt,rt-tr-f-tbk~quimperle~fr~rt,,active
+XX,national,tedbus draguignan fr rt,https://pysae.com/api/v2/groups/draguignan/gtfs-rt,rt-ve-f-tedbus~draguignan~fr~rt,,active
 XX,national,texas state san marcos rt,https://s3.amazonaws.com/etatransit.gtfs/bobcatshuttle.etaspot.net/alerts.pb,rt-al-f-texas~state~san~marcos~rt,,active
 XX,national,texas state san marcos rt,https://s3.amazonaws.com/etatransit.gtfs/bobcatshuttle.etaspot.net/position_updates.pb,rt-ve-f-texas~state~san~marcos~rt,,active
 XX,national,texas state san marcos rt,https://s3.amazonaws.com/etatransit.gtfs/bobcatshuttle.etaspot.net/trip_updates.pb,rt-tr-f-texas~state~san~marcos~rt,,active
+XX,national,tgl seau fr rt,https://proxy.transport.data.gouv.fr/resource/tgl-longwy-gtfs-rt-trip-update,rt-tr-f-tgl~seau~fr~rt,,active
+XX,national,tgl seau fr rt,https://proxy.transport.data.gouv.fr/resource/tgl-longwy-gtfs-rt-vehicle-position,rt-ve-f-tgl~seau~fr~rt,,active
 XX,national,thebus hi rt,https://api.goswift.ly/real-time/thebus/gtfs-rt-trip-updates,rt-tr-f-thebus~hi~rt,,active
 XX,national,thebus hi rt,https://api.goswift.ly/real-time/thebus/gtfs-rt-vehicle-positions,rt-ve-f-thebus~hi~rt,,active
 XX,national,thebus vt rt,https://api.goswift.ly/real-time/marble-valley/gtfs-rt-trip-updates,rt-tr-f-thebus~vt~rt,,active
 XX,national,thebus vt rt,https://api.goswift.ly/real-time/marble-valley/gtfs-rt-vehicle-positions,rt-ve-f-thebus~vt~rt,,active
 XX,national,thello rt,https://thello.axelor.com/public/gtfs/GTFS-RT.bin,rt-tr-f-thello~rt,,active
+XX,national,ticardecompigne seau tic fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TIC_URB&dataFormat=gtfs-rt,rt-tr-f-ticardecompigne~seau~tic~fr~rt,,active
+XX,national,ticardecompigne seau tic fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TIC_URB&dataFormat=gtfs-rt,rt-ve-f-ticardecompigne~seau~tic~fr~rt,,active
+XX,national,ticinterurbainardecompigne seau interurbain rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TIC_INT&dataFormat=gtfs-rt,rt-tr-f-ticinterurbainardecompigne~seau~interurbain~rt,,active
+XX,national,ticinterurbainardecompigne seau interurbain rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TIC_INT&dataFormat=gtfs-rt,rt-ve-f-ticinterurbainardecompigne~seau~interurbain~rt,,active
+XX,national,tlpmobilits20202028 seau tlp fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=tlp-mobilites,rt-ve-f-tlpmobilits20202028~seau~tlp~fr~rt,,active
+XX,national,tohmccdespaysdoiseetdhalatte seau tohm rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TOHM&dataFormat=gtfs-rt,rt-tr-f-tohmccdespaysdoiseetdhalatte~seau~tohm~rt,,active
+XX,national,tohmccdespaysdoiseetdhalatte seau tohm rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TOHM&dataFormat=gtfs-rt,rt-ve-f-tohmccdespaysdoiseetdhalatte~seau~tohm~rt,,active
 XX,national,tokaikisen alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TokaiKisen_AllLines_alert?acl:consumerKey=,rt-al-f-tokaikisen~alllines~jp~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/alert.pb,rt-al-f-tokonamecity~gruun~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/trip_update.pb,rt-tr-f-tokonamecity~gruun~rt,,active
@@ -28535,9 +28733,16 @@ XX,national,tosadentraffic regularbus jp rt,https://api-public.odpt.org/api/v4/g
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-towson~loop~rt,,active
+XX,national,transpor pays de l or fr rt,https://proxy.transport.data.gouv.fr/resource/transpor-gtfs-rt-trip-update,rt-tr-f-transpor~pays~de~l~or~fr~rt,,active
+XX,national,transpor pays de l or fr rt,https://proxy.transport.data.gouv.fr/resource/transpor-gtfs-rt-vehicle-position,rt-ve-f-transpor~pays~de~l~or~fr~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_alert?acl:consumerKey=,rt-al-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_trip_update?acl:consumerKey=,rt-tr-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_vehicle?acl:consumerKey=,rt-ve-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
+XX,national,transvilles valenciennes fr rt,https://ara-api.enroute.mobi/transvilles/gtfs,rt-ve-f-transvilles~valenciennes~fr~rt,,active
+XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/Alert.pb,rt-al-f-troyes~tcat~fr~rt,,active
+XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/TripUpdate.pb,rt-tr-f-troyes~tcat~fr~rt,,active
+XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/VehiclePosition.pb,rt-ve-f-troyes~tcat~fr~rt,,active
+XX,national,tub bar le duc fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-tub-bar-le-duc-gtfs-rt,rt-tr-f-tub~bar~le~duc~fr~rt,,active
 XX,national,tulare county regional transit agency rt,http://data.peaktransit.com/gtfsrt/120/TripUpdate.pb,rt-tr-f-tulare~county~regional~transit~agency~rt,,active
 XX,national,tulare county regional transit agency rt,http://data.peaktransit.com/gtfsrt/120/VehiclePosition.pb,rt-ve-f-tulare~county~regional~transit~agency~rt,,active
 XX,national,turlock ca rt,https://api.goswift.ly/real-time/turlock/gtfs-rt-trip-updates,rt-tr-f-turlock~ca~rt,,active
@@ -28549,12 +28754,14 @@ XX,national,tuscaloosa county parking and transit authority rt,https://passio3.c
 XX,national,tutigerride md rt,https://www.tutigerride.com/gtfs-rt/alerts,rt-al-f-tutigerride~md~rt,,active
 XX,national,tutigerride md rt,https://www.tutigerride.com/gtfs-rt/tripupdates,rt-tr-f-tutigerride~md~rt,,active
 XX,national,tutigerride md rt,https://www.tutigerride.com/gtfs-rt/vehiclepositions,rt-ve-f-tutigerride~md~rt,,active
+XX,national,u vagabondu fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=speluncaliamone,rt-al-f-u~vagabondu~fr~rt,,active
 XX,national,ucla bruinbus rt,https://uclabruinbus.tripshot.com/v1/gtfs/realtime/serviceAlert/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-al-f-ucla~bruinbus~rt,,active
 XX,national,ucla bruinbus rt,https://uclabruinbus.tripshot.com/v1/gtfs/realtime/tripUpdate/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-tr-f-ucla~bruinbus~rt,,active
 XX,national,ucla bruinbus rt,https://uclabruinbus.tripshot.com/v1/gtfs/realtime/vehiclePosition/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-ve-f-ucla~bruinbus~rt,,active
 XX,national,uga ga us rt,https://passio3.com/uga/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-uga~ga~us~rt,,active
 XX,national,uga ga us rt,https://passio3.com/uga/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-uga~ga~us~rt,,active
 XX,national,uga ga us rt,https://passio3.com/uga/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-uga~ga~us~rt,,active
+XX,national,uggomobilite seau uggo fr rt,http://cagr.2cloud.app/api/gtfsrt/2.0/tripupdates/CAGR-3920-8301-5738/bin,rt-tr-f-uggomobilite~seau~uggo~fr~rt,,active
 XX,national,uiowa niteride rt,https://uiowaniteride.com/gtfs-rt/alerts,rt-al-f-uiowa~niteride~rt,,active
 XX,national,uiowa niteride rt,https://uiowaniteride.com/gtfs-rt/tripupdates,rt-tr-f-uiowa~niteride~rt,,active
 XX,national,uiowa niteride rt,https://uiowaniteride.com/gtfs-rt/vehiclepositions,rt-ve-f-uiowa~niteride~rt,,active
@@ -28572,12 +28779,16 @@ XX,national,valleymetro rt,https://mna.mecatran.com/utw/ws/gtfsfeed/vehicles/val
 XX,national,valleyride rt,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/alerts.pb,rt-al-f-valleyride~rt,,active
 XX,national,valleyride rt,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/position_updates.pb,rt-ve-f-valleyride~rt,,active
 XX,national,valleyride rt,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/trip_updates.pb,rt-tr-f-valleyride~rt,,active
+XX,national,viastrada seau interurbain fr rt,https://ctc.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/CTC-2298-2048-0876/bin,rt-tr-f-viastrada~seau~interurbain~fr~rt,,active
 XX,national,visaliatransit rt,https://visaliatransit.info/gtfs-rt/alerts,rt-al-f-visaliatransit~rt,,active
 XX,national,visaliatransit rt,https://visaliatransit.info/gtfs-rt/tripupdates,rt-tr-f-visaliatransit~rt,,active
 XX,national,visaliatransit rt,https://visaliatransit.info/gtfs-rt/vehiclepositions,rt-ve-f-visaliatransit~rt,,active
 XX,national,votran rt,https://realtimevotran.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-votran~rt,,active
 XX,national,votran rt,https://realtimevotran.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-votran~rt,,active
 XX,national,votran rt,https://realtimevotran.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-votran~rt,,active
+XX,national,vrm fr rt,https://proxy.transport.data.gouv.fr/resource/citea-valence-gtfs-rt-service-alert,rt-al-f-vrm~fr~rt,,active
+XX,national,vrm fr rt,https://proxy.transport.data.gouv.fr/resource/citea-valence-gtfs-rt-trip-update,rt-tr-f-vrm~fr~rt,,active
+XX,national,vrm fr rt,https://proxy.transport.data.gouv.fr/resource/citea-valence-gtfs-rt-vehicle-position,rt-ve-f-vrm~fr~rt,,active
 XX,national,warren county transit authority oh us rt,https://tawc.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-warren~county~transit~authority~oh~us~rt,,active
 XX,national,warren county transit authority oh us rt,https://tawc.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-warren~county~transit~authority~oh~us~rt,,active
 XX,national,warren county transit authority oh us rt,https://tawc.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-warren~county~transit~authority~oh~us~rt,,active
@@ -28606,6 +28817,8 @@ XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-u
 XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/95.pb,rt-ve-f-wsf~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-trip-updates/,rt-tr-f-xtrafik~se~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-vehicle-positions/,rt-ve-f-xtrafik~se~rt,,active
+XX,national,zenbus alesy rt,https://alesy.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/ALESY-6574-4401-7572/bin,rt-tr-f-zenbus~alesy~rt-2,,active
+XX,national,zenbus alesy rt,https://alesy.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/ALESY-6574-4401-7572/bin,rt-ve-f-zenbus~alesy~rt-2,,active
 XX,national,zenbus alesy rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=alesy,rt-tr-f-zenbus~alesy~rt,,active
 XX,national,zenbus alesy rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=alesy,rt-ve-f-zenbus~alesy~rt,,active
 XX,national,zenbus alpe huez rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=alpe-huez,rt-tr-f-zenbus~alpe~huez~rt,,active
@@ -28644,7 +28857,9 @@ XX,national,zenbus limocar rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&data
 XX,national,zenbus limocar rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=limocar,rt-ve-f-zenbus~limocar~rt,,active
 XX,national,zenbus mayenne rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=maybus,rt-tr-f-zenbus~mayenne~rt,,active
 XX,national,zenbus mayenne rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=maybus,rt-ve-f-zenbus~mayenne~rt,,active
+XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=MAX,rt-tr-f-zenbus~mendois~rt-2,,active
 XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tum,rt-tr-f-zenbus~mendois~rt,,active
+XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=MAX,rt-ve-f-zenbus~mendois~rt-2,,active
 XX,national,zenbus mendois rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=tum,rt-ve-f-zenbus~mendois~rt,,active
 XX,national,zenbus mobilite charlevoix rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=charlevoix,rt-tr-f-zenbus~mobilite~charlevoix~rt,,active
 XX,national,zenbus mobilite charlevoix rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=charlevoix,rt-ve-f-zenbus~mobilite~charlevoix~rt,,active
@@ -28676,6 +28891,7 @@ XX,national,zenbus sel et vermois rt,https://zenbus.net/gtfs/rt/poll.proto?file=
 XX,national,zenbus sel et vermois rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=sel-et-vermois,rt-ve-f-zenbus~sel~et~vermois~rt,,active
 XX,national,zenbus sitac calais rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=sitac-calais-rt,rt-tr-f-zenbus~sitac~calais~rt,,active
 XX,national,zenbus sitac calais rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=sitac-calais-rt,rt-ve-f-zenbus~sitac~calais~rt,,active
+XX,national,zenbus tempobus rt,https://api.pysae.com/api/v4/groups/agen/gtfs-rt,rt-ve-f-zenbus~tempobus~rt-2,,active
 XX,national,zenbus tempobus rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=16i2434229,rt-tr-f-zenbus~tempobus~rt,,active
 XX,national,zenbus tempobus rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=16i2434229,rt-ve-f-zenbus~tempobus~rt,,active
 XX,national,zenbus tignes rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=tignes,rt-tr-f-zenbus~tignes~rt,,active

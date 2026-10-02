@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hoplccdelaplainedestres seau hopl rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=HOPLA&dataFormat=gtfs-rt",
+    "mdb_id": "rt-ve-f-hoplccdelaplainedestres~seau~hopl~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

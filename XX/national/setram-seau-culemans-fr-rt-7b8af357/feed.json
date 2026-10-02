@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "setram seau culemans fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://eur.mecatran.com/utw/ws/gtfsfeed/realtime/lemans?apiKey=73334a124f3a1654141d6979113106450f291d15",
+    "mdb_id": "rt-tr-f-setram~seau~culemans~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

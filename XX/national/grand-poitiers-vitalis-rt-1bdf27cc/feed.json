@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "grand poitiers vitalis rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.grandpoitiers.fr/data-fair/api/v1/datasets/offre-de-transport-du-reseau-vitalis/metadata-attachments/poitiers.pbf",
+    "mdb_id": "rt-tr-f-grand~poitiers~vitalis~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
