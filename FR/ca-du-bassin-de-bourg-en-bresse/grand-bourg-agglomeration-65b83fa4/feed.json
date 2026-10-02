@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Grand Bourg Agglomération",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Bassin de Bourg-en-Bresse"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/rubis-grand-bourg-mobilites-offre-de-transport-theorique-et-temps-reel/20261001-155520/gtfs-saeiv-v2.zip",
+    "mdb_id": "tdg-84243",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
