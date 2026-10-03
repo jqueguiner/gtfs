@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wolnzach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wolnzach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-0cbdd28405",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

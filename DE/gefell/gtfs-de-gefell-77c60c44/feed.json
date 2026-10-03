@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gefell",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gefell"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dba50c0f75",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

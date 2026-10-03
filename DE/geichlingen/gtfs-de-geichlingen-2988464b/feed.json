@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geichlingen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Geichlingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-56bcbe77b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kodderitzsch",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Kodderitzsch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bcd2cefbdb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

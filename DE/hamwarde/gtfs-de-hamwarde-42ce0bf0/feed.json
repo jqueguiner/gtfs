@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hamwarde",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Hamwarde"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1800e9ba6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

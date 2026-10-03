@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gehofen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gehofen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8616ead11d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

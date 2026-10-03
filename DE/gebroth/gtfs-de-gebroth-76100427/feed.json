@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gebroth",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gebroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-72f29b89e7",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
