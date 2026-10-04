@@ -327,6 +327,9 @@ AU,Innisfail,qconnect transnorth rt,https://gtfsrt.api.translink.com.au/api/real
 AU,Innisfail,qconnect transnorth rt,https://gtfsrt.api.translink.com.au/api/realtime/INN/VehiclePositions,rt-ve-f-rhzu-qconnect~transnorth~rt,,active
 AU,Kingsbury,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip#11/google_transit.zip,f-r1r1-ptv~11,CC-BY-4.0,active
 AU,Mackay Regional,Mackay Transit Coaches,https://gtfsrt.api.translink.com.au/GTFS/MKY_GTFS.zip,mdb-678,https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-qconnect/resource/03426b3e-1ea6-4878-bd9b-cfaef7ca2b1d?truncate=30&inner_span=True,active
+AU,Mallala,adelaidemetrocomau rt,https://gtfs.adelaidemetro.com.au/v1/realtime/service_alerts,rt-al-f-r1f-adelaidemetrocomau~rt,,active
+AU,Mallala,adelaidemetrocomau rt,https://gtfs.adelaidemetro.com.au/v1/realtime/trip_updates,rt-tr-f-r1f-adelaidemetrocomau~rt,,active
+AU,Mallala,adelaidemetrocomau rt,https://gtfs.adelaidemetro.com.au/v1/realtime/vehicle_positions,rt-ve-f-r1f-adelaidemetrocomau~rt,,active
 AU,Melbourne,Public Transport Victoria,http://data.ptv.vic.gov.au/downloads/gtfs.zip#7/google_transit.zip,tld-752,,active
 AU,Melbourne,Public Transport Victoria (PTV),https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip,mdb-3340,https://creativecommons.org/licenses/by/4.0/,active
 AU,Moreton Bay Regional,Translink South East Queensland (Translink SEQ),https://gtfsrt.api.translink.com.au/gtfs/SEQ_SCH_GTFS.zip,mdb-3048,https://www.data.qld.gov.au/dataset/general-transit-feed-specification-gtfs-translink/resource/e43b6b9f-fc2b-4630-a7c9-86dd5483552b,active
@@ -345,9 +348,11 @@ AU,Mundulla,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4
 AU,Mundulla,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip#5/google_transit.zip,f-r1-ptv~5,CC-BY-4.0,active
 AU,Mundulla,Transport Victoria,https://opendata.transport.vic.gov.au/dataset/3f4e292e-7f8a-4ffe-831f-1953be0fe448/resource/fb152201-859f-4882-9206-b768060b50ad/download/gtfs.zip#6/google_transit.zip,f-r1-ptv~3,CC-BY-4.0,active
 AU,New Norfolk,Metrotasmania,https://www.transport.tas.gov.au/__data/assets/file/0011/557615/GTFS_240425_Tasmania_post.zip,f-r22-metrotasmania,https://www.transport.tas.gov.au/public_transport/gtfs-data,active
+AU,New Norfolk,Metrotasmania,https://www.transport.tas.gov.au/__data/assets/file/0011/557615/tas_gtfs.zip,f-r22-metrotasmania,https://www.transport.tas.gov.au/public_transport/gtfs-data,active
 AU,New South Wales,Transport for New South Wales,https://opendata.transport.nsw.gov.au/data/dataset/d1f68d4f-b778-44df-9823-cf2fa922e47f/resource/67974f14-01bf-47b7-bfa5-c7f2f8a950ca/download/full_greater_sydney_gtfs_static_0.zip,mdb-2449,https://opendata.transport.nsw.gov.au/dataset/timetables-complete-gtfs,active
 AU,Perth (WA),"Transperth (Public Transport Authority WA — bus, rail, ferry)",https://www.transperth.wa.gov.au/TimetablePDFs/GoogleTransit/Production/google_transit.zip,au-disc-54,,active
 AU,Queanbeyan,Wwwactionactgovau,https://transport.api.act.gov.au/gtfs/data/gtfs/v2/google_transit.zip,f-r3dp-wwwactionactgovau,CC-BY-4.0,active
+AU,Queanbeyan,wwwactionactgovau lightrail rt,http://files.transport.act.gov.au/feeds/lightrail.pb,rt-ve-f-r3dp-wwwactionactgovau~lightrail~rt,,active
 AU,Queanbeyan,wwwactionactgovau rt,https://transport.api.act.gov.au/gtfs/data/gtfs/v2/service-alerts.pb,rt-al-f-r3dp-wwwactionactgovau~rt,,active
 AU,Queanbeyan,wwwactionactgovau rt,https://transport.api.act.gov.au/gtfs/data/gtfs/v2/trip-updates.pb,rt-tr-f-r3dp-wwwactionactgovau~rt,,active
 AU,Queanbeyan,wwwactionactgovau rt,https://transport.api.act.gov.au/gtfs/data/gtfs/v2/vehicle-positions-mywayplus.pb,rt-ve-f-r3dp-wwwactionactgovau~rt,,active
@@ -371,8 +376,11 @@ AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CN
 AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CNS/TripUpdates,rt-tr-f-rhzx-translink~cairns~rt,,active
 AU,Woree,translink cairns rt,https://gtfsrt.api.translink.com.au/api/realtime/CNS/VehiclePositions,rt-ve-f-rhzx-translink~cairns~rt,,active
 AU,national,Alice~Springs~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice-springs.zip,f-alice~springs~nt~au,CC-BY-4.0,active
+AU,national,Alice~Springs~Nt~Au,https://dli.nt.gov.au/data-feeds/bus-gtfs/google-transit-alice.zip,f-alice~springs~nt~au,CC-BY-4.0,active
+AU,national,Byron~Bay~Express~Au,https://byronbayexpress.com.au/wp-content/uploads/2026/09/byronbayexpress_gtfs.zip,f-byron~bay~express~au,,active
 AU,national,Byron~Bay~Train~Nsw~Au,https://github.com/colinjstepney/Stepney-Transit-Consulting/raw/refs/heads/main/BYRONBAY_feed/feed-BYRON.zip,f-byron~bay~train~nsw~au,,active
 AU,national,Darwin~Nt~Au,https://dipl.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
+AU,national,Darwin~Nt~Au,https://dli.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip,f-darwin~nt~au,CC-BY-4.0,active
 AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/realtime/buses,rt-tr-f-nsw~buses~rt,,active
 AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v1/gtfs/vehiclepos/buses,rt-ve-f-nsw~buses~rt,,active
 AU,national,nsw buses rt,https://api.transport.nsw.gov.au/v2/gtfs/alerts/buses,rt-al-f-nsw~buses~rt,,active
@@ -27844,6 +27852,8 @@ XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/o
 XX,national,Naganocity~Noriai,https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/noriai/files/feed.zip?uid=ea37c6fb-f2e7-48fb-a31b-3814c7a18f5c,f-naganocity~noriai,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
+XX,national,Nsw~Ferries,https://api.transport.nsw.gov.au/v1/gtfs/schedule/ferries/sydneyferries,f-nsw~ferries,CC-BY-4.0,active
+XX,national,Nsw~Trains,https://api.transport.nsw.gov.au/v1/gtfs/schedule/sydneytrains,f-nsw~trains,CC-BY-4.0,active
 XX,national,Nvbw~Move,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/move.zip,f-nvbw~move,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 XX,national,Nvbw~Vvs,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/vvs.zip,f-nvbw~vvs,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
 XX,national,Ogemaw~County~Public~Transit~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Ogemaw_County_Public_Transit.zip,f-ogemaw~county~public~transit~mi~us~flex,,active
@@ -28512,6 +28522,8 @@ XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-vehicle-positions,rt-ve-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt alerts,https://api.goswift.ly/real-time/nctd/gtfs-rt-alerts/,rt-al-f-northcountrytransitdistrict~rt~alerts,,active
 XX,national,nosbusnogentlerotrou seau nosbus rt,https://api.pysae.com/api/v4/groups/nosbus/gtfs-rt,rt-al-f-nosbusnogentlerotrou~seau~nosbus~rt,,active
+XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v2/gtfs/realtime/lightrail/innerwest,rt-tr-f-nsw~lightrail~rt-2,,active
+XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos/lightrail/innerwest,rt-ve-f-nsw~lightrail~rt-2,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-nycferry~rt,,active

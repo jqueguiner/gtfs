@@ -1,15 +1,15 @@
 {
   "agency": {
-    "name": "Darwin~Nt~Au",
+    "name": "Byron~Bay~Express~Au",
     "country": "AU",
     "subdivision": null,
     "city": null
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://dli.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip",
-    "mdb_id": "f-darwin~nt~au",
-    "license": "CC-BY-4.0"
+    "url": "https://byronbayexpress.com.au/wp-content/uploads/2026/09/byronbayexpress_gtfs.zip",
+    "mdb_id": "f-byron~bay~express~au",
+    "license": null
   },
   "bbox": null,
   "source": "transitland-atlas",

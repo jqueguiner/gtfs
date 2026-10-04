@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "wwwactionactgovau lightrail rt",
+    "country": "AU",
+    "subdivision": "New South Wales",
+    "city": "Queanbeyan"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://files.transport.act.gov.au/feeds/lightrail.pb",
+    "mdb_id": "rt-ve-f-r3dp-wwwactionactgovau~lightrail~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

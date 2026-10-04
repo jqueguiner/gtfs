@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "adelaidemetrocomau rt",
+    "country": "AU",
+    "subdivision": "South Australia",
+    "city": "Mallala"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.adelaidemetro.com.au/v1/realtime/vehicle_positions",
+    "mdb_id": "rt-ve-f-r1f-adelaidemetrocomau~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,14 +1,14 @@
 {
   "agency": {
-    "name": "Darwin~Nt~Au",
-    "country": "AU",
+    "name": "Nsw~Ferries",
+    "country": "XX",
     "subdivision": null,
     "city": null
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://dli.nt.gov.au/data-feeds/bus-gtfs/google-transit-darwin.zip",
-    "mdb_id": "f-darwin~nt~au",
+    "url": "https://api.transport.nsw.gov.au/v1/gtfs/schedule/ferries/sydneyferries",
+    "mdb_id": "f-nsw~ferries",
     "license": "CC-BY-4.0"
   },
   "bbox": null,
