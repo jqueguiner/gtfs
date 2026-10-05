@@ -428,7 +428,10 @@ BE,Flanders (Antwerp/Ghent/...),De Lijn,https://api-management-discovery-product
 BE,Flanders (Antwerp/Ghent/...),De Lijn,https://api.delijn.be/gtfs/v3/realtime?position=true&json=true,rtweb-be-de-lijn-3,,active
 BE,Gedinne,Tec,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/static,f-u0g-tec,CC-BY-4.0,active
 BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/alert,rt-al-f-u0g-tec~rt,,active
+BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/alert?format=protobuf,rt-al-f-u0g-tec~rt-2,,active
 BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/trip-update,rt-tr-f-u0g-tec~rt,,active
+BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/trip-update?format=protobuf,rt-tr-f-u0g-tec~rt-2,,active
+BE,Gedinne,tec rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/vehicle-position?format=protobuf,rt-ve-f-u0g-tec~rt,,active
 BE,"Nationwide (Brussels, Antwerp, Ghent, etc.)","iRail (community, backed by NMBS/SNCB data)",https://api.irail.be/liveboard/?station={name}&format=json,rtweb-be-irail-community-backed-by-nm,,active
 BE,Ramillies,Société Régionale Wallonne du Transport,http://opendata.tec-wl.be/Current%20GTFS/TEC-GTFS.zip,mdb-1212,,active
 BE,Ramillies,TEC,https://data.gtfs.be/tec/gtfs/be-tec-gtfs.zip,mdb-1868,https://gtfs.be/,active
@@ -13642,6 +13645,7 @@ FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotat
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20261002-205003/gtfszipdldvkt.zip,tdg-83510,lov2,active
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20261003-205002/gtfsziphki5nm.zip,tdg-83510,lov2,active
 FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20261004-205002/gtfszipszp9zm.zip,tdg-83510,lov2,active
+FR,Corse,CORSICA LINEA,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-linea/20261005-205003/gtfsziplm1j8l.zip,tdg-83510,lov2,active
 FR,Corse,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-chemins-de-fer-corse-1/20260303-151209/chemin-de-fer-de-la-corse.zip,tdg-83882,lov2,active
 FR,Corse,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-via-strada/20260707-125009/via-strada.zip,tdg-83200,lov2,active
 FR,Corse,Corsica Ferries,https://static.data.gouv.fr/resources/programme-des-rotations-corsica-ferries/20251226-152616/gtfs-updated.zip,tdg-81996,lov2,active
@@ -23975,7 +23979,9 @@ NL,Hollum,Delijn,https://api-management-opendata-production.azure-api.net/api/gt
 NL,Hollum,Hamburgerverkehrsverbundhvv~Hamburgerverkehrsverbundhvv~Ham,https://daten.transparenz.hamburg.de/Dataport.HmbTG.ZS.Webservice.GetRessource100/GetRessource100.svc/a7f133cb-2428-4008-812f-56ff86bf25ae/Upload__hvv_Rohdaten_GTFS_Fpl_20260903.ZIP,f-u1-hamburgerverkehrsverbundhvv~hamburgerverkehrsverbundhvv~ham,https://www.govdata.de/dl-de/by-2-0,active
 NL,Hollum,OVapi/NDOV — Hollum,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-88431265ea,,active
 NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/alert,rt-al-f-u1-delijn~rt,,active
+NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/alert?format=protobuf,rt-al-f-u1-delijn~rt-2,,active
 NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/trip-update,rt-tr-f-u1-delijn~rt,,active
+NL,Hollum,delijn rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/delijn/rt/trip-update?format=protobuf,rt-tr-f-u1-delijn~rt-2,,active
 NL,Holwerd,OVapi/NDOV — Holwerd,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-4363715aff,,active
 NL,Honselersdijk,OVapi/NDOV — Honselersdijk,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-3d894784c1,,active
 NL,Hoofddorp,OVapi/NDOV — Hoofddorp,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-city-5cce0c34b7,,active
@@ -28527,6 +28533,8 @@ XX,national,nice rt,http://nicebus.com/downloads/gtfs/NYC_NICE.proto,rt-al-f-nic
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_alert?acl:consumerKey=,rt-al-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_trip_update?acl:consumerKey=,rt-tr-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_vehicle?acl:consumerKey=,rt-ve-f-nishitokyobus~ntbus~jp~rt,,active
+XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/alert?format=protobuf,rt-al-f-u-nmbs~sncb~rt-2,,active
+XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update?format=protobuf,rt-tr-f-u-nmbs~sncb~rt-2,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-trip-updates,rt-tr-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-vehicle-positions,rt-ve-f-northcountrytransitdistrict~rt,,active
 XX,national,northcountrytransitdistrict rt alerts,https://api.goswift.ly/real-time/nctd/gtfs-rt-alerts/,rt-al-f-northcountrytransitdistrict~rt~alerts,,active

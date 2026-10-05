@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tec rt",
+    "country": "BE",
+    "subdivision": "Wallonia",
+    "city": "Gedinne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-management-opendata-production.azure-api.net/api/gtfs/feed/tec/rt/trip-update?format=protobuf",
+    "mdb_id": "rt-tr-f-u0g-tec~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
