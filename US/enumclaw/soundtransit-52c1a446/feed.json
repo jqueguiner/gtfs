@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Soundtransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Enumclaw"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.soundtransit.org/GTFS-rail/40_gtfs.zip",
+    "mdb_id": "f-c23-soundtransit",
+    "license": "https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/transit-data-terms-use"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

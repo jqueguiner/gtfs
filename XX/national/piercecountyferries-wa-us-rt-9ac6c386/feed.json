@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "piercecountyferries wa us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://hbwest.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert",
+    "mdb_id": "rt-al-f-piercecountyferries~wa~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

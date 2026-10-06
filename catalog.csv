@@ -25894,6 +25894,9 @@ US,Darrington,Communitytransit,https://www.communitytransit.org/docs/default-sou
 US,Darrington,communitytransit rt,http://s3.amazonaws.com/commtrans-realtime-prod/alerts.pb,rt-al-f-c29-communitytransit~rt,,active
 US,Darrington,communitytransit rt,http://s3.amazonaws.com/commtrans-realtime-prod/tripupdates.pb,rt-tr-f-c29-communitytransit~rt,,active
 US,Darrington,communitytransit rt,http://s3.amazonaws.com/commtrans-realtime-prod/vehiclepositions.pb,rt-ve-f-c29-communitytransit~rt,,active
+US,Darrington,communitytransit rt,https://s3.amazonaws.com/commtrans-realtime-prod/alerts.pb,rt-al-f-c29-communitytransit~rt-2,,active
+US,Darrington,communitytransit rt,https://s3.amazonaws.com/commtrans-realtime-prod/tripupdates.pb,rt-tr-f-c29-communitytransit~rt-2,,active
+US,Darrington,communitytransit rt,https://s3.amazonaws.com/commtrans-realtime-prod/vehiclepositions.pb,rt-ve-f-c29-communitytransit~rt-2,,active
 US,Dauphin County,Capital Area Transit,https://cat.rideralerts.com/InfoPoint/gtfs-zip.ashx,tld-4298,,active
 US,Dauphin County,Lebanon Transit,https://realtime.lebanontransit.org/InfoPoint/gtfs-zip.ashx,tld-5531,,active
 US,Dauphin County,rabbittransit,https://realtime.rabbittransit.org/InfoPoint/GTFS-Zip.ashx,tld-223,,active
@@ -26001,6 +26004,7 @@ US,Encinitas,San Diego Metropolitan Transit System,http://app.mecatran.com/utw/w
 US,Encinitas,San Diego Metropolitan Transit System,http://www.sdmts.com/google_transit_files/google_transit.zip,f-9mu-mts,https://www.sdmts.com/business-center-developers/terms-and-conditions,active
 US,Encinitas,San Diego Metropolitan Transit System,https://realtime.sdmts.com/api/api/gtfs_realtime/trip-updates-for-agency/MTS.pb,rt-tr-f-mts~rt~onebusaway,,active
 US,Encinitas,San Diego Metropolitan Transit System,https://realtime.sdmts.com/api/api/gtfs_realtime/vehicle-positions-for-agency/MTS.pb,rt-ve-f-mts~rt~onebusaway,,active
+US,Enumclaw,Soundtransit,https://www.soundtransit.org/GTFS-rail/40_gtfs.zip,f-c23-soundtransit,https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/transit-data-terms-use,active
 US,Erie County,Sandusky Transit System,https://mjcaction.com/MJC_GTFS_Public/sandusky_google_transit.zip,tld-1213_1,,active
 US,Escambia County,National Park Service,https://www.nps.gov/external-resources/gtfs/guis/guis-ferry-service-fl.zip,tld-6676,,active
 US,Estancia,Riometroregionaltransitdistrict,https://mjcaction.com/MJC_GTFS_Public/nmrailrunner_google_transit.zip,f-9wh-riometroregionaltransitdistrict,,active
@@ -26066,6 +26070,7 @@ US,Fremont County,Wind River Transportation Authority,https://rapid.nationalrtap
 US,Fresno,Fresno State University,https://passio3.com/fresno/passioTransit/gtfs/google_transit.zip,tld-4461,,active
 US,Fresno County,Fresno Area Express (FAX),https://gis4u.fresno.gov/downloads/fax_gtfs.zip,mdb-90,,active
 US,Fresno County,Fresno County Rural Transit Agency (FCRTA),https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7869/google_transit.zip,mdb-85,,active
+US,Friday Harbor,Islandtransit,https://passio3.com/islandtransit/passioTransit/gtfs/google_transit.zip,f-c28-islandtransit,,active
 US,Friday Harbor,South Coast British Columbia Transportation Authority,https://gtfsapi.translink.ca/v3/gtfsalerts,rt-al-f-translink~rt,,active
 US,Friday Harbor,South Coast British Columbia Transportation Authority,https://gtfsapi.translink.ca/v3/gtfsposition,rt-ve-f-translink~rt,,active
 US,Friday Harbor,South Coast British Columbia Transportation Authority,https://gtfsapi.translink.ca/v3/gtfsrealtime,rt-tr-f-translink~rt,,active
@@ -26078,6 +26083,9 @@ US,Friday Harbor,bctransit creston rt,https://bct.tmix.se/gtfs-realtime/vehicleu
 US,Friday Harbor,bctransit victoriaregionaltransitsystem rt,https://bct.tmix.se/gtfs-realtime/alerts.pb?operatorIds=48,rt-al-f-c28-bctransit~victoriaregionaltransitsystem~rt,,active
 US,Friday Harbor,bctransit victoriaregionaltransitsystem rt,https://bct.tmix.se/gtfs-realtime/tripupdates.pb?operatorIds=48,rt-tr-f-c28-bctransit~victoriaregionaltransitsystem~rt,,active
 US,Friday Harbor,bctransit victoriaregionaltransitsystem rt,https://bct.tmix.se/gtfs-realtime/vehicleupdates.pb?operatorIds=48,rt-ve-f-c28-bctransit~victoriaregionaltransitsystem~rt,,active
+US,Friday Harbor,islandtransit rt,https://passio3.com/islandtransit/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-c28-islandtransit~rt,,active
+US,Friday Harbor,islandtransit rt,https://passio3.com/islandtransit/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-c28-islandtransit~rt,,active
+US,Friday Harbor,islandtransit rt,https://passio3.com/islandtransit/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-c28-islandtransit~rt,,active
 US,Friendship Village,Americanuniversity,https://AmericanUniversity.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-americanuniversity,,active
 US,Frostburg,Alleganycountytransit,https://atcgtfsdownload.itcurves.us/DownloadGtfs,f-dppc-alleganycountytransit,https://github.com/mobilityequity/maryland-local-gtfs/blob/master/README.md,active
 US,Fulton County,Concho Valley Transit District,https://passio3.com/conchovt/passioTransit/gtfs/google_transit.zip,tld-5864,,active
@@ -26298,6 +26306,9 @@ US,Kittitas,linktransit wa us rt,https://link.rideralerts.com/InfoPoint/GTFS-Rea
 US,Kittitas,yakimatransit rt,http://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-c26-yakimatransit~rt,,active
 US,Kittitas,yakimatransit rt,http://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-c26-yakimatransit~rt,,active
 US,Kittitas,yakimatransit rt,http://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-c26-yakimatransit~rt,,active
+US,Kittitas,yakimatransit rt,https://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-c26-yakimatransit~rt-2,,active
+US,Kittitas,yakimatransit rt,https://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-c26-yakimatransit~rt-2,,active
+US,Kittitas,yakimatransit rt,https://yakima.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-c26-yakimatransit~rt-2,,active
 US,Kittitas County,City of Ellensburg Public Transit (Central Transit),https://data.trilliumtransit.com/gtfs/ellensburg-wa-us/ellensburg-wa-us.zip,mdb-2456,,active
 US,Klamath County,Basin Transit Service (BTS),https://oregon-gtfs.trilliumtransit.com/gtfs_data/basin-or-us/basin-or-us.zip,mdb-125,,active
 US,Klamath County,Quail Trail Public Transit,https://oregon-gtfs.trilliumtransit.com/gtfs_data/quailtrail-or-us/quailtrail-or-us.zip,mdb-1327,,active
@@ -26564,6 +26575,7 @@ US,Middletown,transitservicesoffrederickcounty rt,https://api.goswift.ly/real-ti
 US,Middletown,transitservicesoffrederickcounty rt,https://api.goswift.ly/real-time/frederick-county-transit/gtfs-rt-vehicle-positions,rt-ve-f-dr0b-transitservicesoffrederickcounty~rt,,active
 US,Middletown,transitservicesoffrederickcounty rt alerts,https://api.goswift.ly/real-time/frederick-county-transit/gtfs-rt-alerts,rt-al-f-dr0b-transitservicesoffrederickcounty~rt~alerts,,active
 US,Mill Plain,c tran rt,http://gtfs-rt.c-tran.org/gtfsrealtime/TripUpdates,rt-tr-f-c20g-c~tran~rt,,active
+US,Mill Plain,c tran rt,http://gtfs-rt.c-tran.org/gtfsrealtime/VehiclePositions,rt-ve-f-c20g-c~tran~rt-2,,active
 US,Mill Plain,c tran rt,http://gtfs-rt.c-tran.org/gtfsrealtime/VehiclePostions,rt-ve-f-c20g-c~tran~rt,,active
 US,Milwaukee,The~Hop~Mke,https://thehopmke.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-the~hop~mke,,active
 US,Minneapolis / St. Paul,Metro Transit,https://svc.metrotransit.org/mdocs/GTFS.zip,us-disc-44,,active
@@ -27060,6 +27072,7 @@ US,Sharon,Brockton~Ma~Us,https://data.trilliumtransit.com/gtfs/brockton-ma-us/br
 US,Shawnee County,Topeka Metro,https://gtfs.remix.com/topeka_metro_ks_us.zip,tld-1660_1,,active
 US,Sheboygan,Sheboygan~Wi~Us,https://data.trilliumtransit.com/gtfs/sheboygan-wi-us/sheboygan-wi-us.zip,f-dpc8-sheboygan~wi~us,,active
 US,Sheboygan County,Shoreline Metro,http://data.trilliumtransit.com/gtfs/sheboygan-wi-us/sheboygan-wi-us.zip,mdb-399,,active
+US,Shelton,Piercetransit~Soundtransit,https://prod.piercetransit.org/GTFS/gtfs.zip,f-c22-piercetransit~soundtransit,https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/transit-data-terms-use,active
 US,Sherwood,Yamhill County Transit Area,http://ycta.connexionz.net/rtt/public/resource/gtfs.zip,mdb-250,,active
 US,Shoshone County,Silver Express Shuttle,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11688/shoshone-idaho-id-us.zip,ntd-404,,active
 US,Shreveport,Sportran,https://sportran.rideralerts.com/infopoint/gtfs-zip.ashx,f-sportran,,active
@@ -27613,6 +27626,7 @@ US,national,Maywood~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/MaywoodGTFS.zip
 US,national,Mcallen~Tx~Us,https://cityofmcallen.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-mcallen~tx~us,,active
 US,national,Menomineeindiantribeofwisconsin~Wi~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13094/MITW_WI_GTFS.zip,f-menomineeindiantribeofwisconsin~wi~us,,active
 US,national,Middletown~Ny~Us,https://s3.amazonaws.com/datatools-511ny/public/TransitOrange_-_Middletown_Area_Transit.zip,f-middletown~ny~us,https://data.ny.gov/download/77gx-ii52/application/pdf,active
+US,national,Miltonfreewater~Or~Us,https://oregon-gtfs.trilliumtransit.com/gtfs_data/milton-freewater-or-us/milton-freewater-or-us.zip,f-miltonfreewater~or~us,https://oregon-gtfs.trilliumtransit.com,active
 US,national,Minotcitytransit~Nd~Us,https://myride.minotnd.gov/gtfs/google_transit.zip,f-minotcitytransit~nd~us,,active
 US,national,Miramar~Fl~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11651/Miramarfl_gtfs.zip,f-miramar~fl~us,,active
 US,national,Moab~Area~Transit~Ut~Us,https://downtowner-gtfs.s3.us-east-1.amazonaws.com/moab/gtfs.zip,f-moab~area~transit~ut~us,,active
@@ -27667,6 +27681,7 @@ US,national,Northernmarianascommonwealthofficeoftransitauthority~Mp~Us,https://r
 US,national,Northern~Transit~Interlocal~Mt~Us,https://northern.rural-transit.com/wp-content/uploads/sites/6/2024/01/NTI-Public-Feed.zip,f-northern~transit~interlocal~mt~us,,active
 US,national,North~Central~Area~Transit~Oh~Us,https://ncatohio.org/mt-content/uploads/2026/01/2026-ncat-gtfs-feeds.zip,f-north~central~area~transit~oh~us,,active
 US,national,Ocracoketram~Nc~Us,https://gtfs.transitportal.org/CurrentGTFS/Ocracoke%20Tram_%208/OcracokeTram.zip,f-ocracoketram~nc~us,,active
+US,national,Octn~Wa~Us,https://business.wsdot.wa.gov/Transit/GTFS/OCTN/octn-wa-us.zip,f-octn~wa~us,,active
 US,national,Odu~Va~Us,https://odu.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-odu~va~us,,active
 US,national,Oglalasiouxtribe~Sd~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/7364/UTF-8OST_SD_GTFS.zip,f-oglalasiouxtribe~sd~us,,active
 US,national,Ohiovalleyregionaltransportationauthority~Wv~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13736/OVRTAFeed.zip,f-ohiovalleyregionaltransportationauthority~wv~us,,active
@@ -27684,6 +27699,7 @@ US,national,Penn~State~Pa~Us,https://pennstate.transloc.com/Secure/Admin/Reports
 US,national,Pepperdineuniversity~Ca~Us,https://passio3.com/pepperdine/passioTransit/gtfs/google_transit.zip,f-pepperdineuniversity~ca~us,,active
 US,national,Petersburg~Va~Us,https://data.trilliumtransit.com/gtfs/petersburg-va-us/petersburg-va-us.zip,f-petersburg~va~us,,active
 US,national,Picca~Transit~Oh~Us,https://www.piccatransit.com/s/GTFS-Update.zip,f-picca~transit~oh~us,,active
+US,national,Piercecountyferries~Wa~Us,https://hbwest.connexionz.net/rtt/public/resource/gtfs.zip,f-piercecountyferries~wa~us,,active
 US,national,Piercecounty~Wa~Us,https://data.trilliumtransit.com/gtfs/piercecounty-wa-us/piercecounty-wa-us.zip,f-piercecounty~wa~us,,active
 US,national,Pikecountycommunityactiontransitsystem~Oh~Us,http://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14836/cats_gtfs.zip,f-pikecountycommunityactiontransitsystem~oh~us,,active
 US,national,Plaqueminesportharborandterminaldistrict~La~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13377/PPHTD_GTFS.zip,f-plaqueminesportharborandterminaldistrict~la~us,,active
@@ -27813,6 +27829,8 @@ US,national,Yates~Dial~A~Ride~Mi~Us,https://www.yatesdialaride.com/_files/archiv
 US,national,Yavapaiapachenation~Az~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13396/YAN_AZ_GTFS.zip,f-yavapaiapachenation~az~us,,active
 US,national,Yorktown~Va~Us,https://s3.amazonaws.com/etatransit.gtfs/historicyorktowntrolley.etaspot.net/gtfs.zip,f-yorktown~va~us,,active
 US,national,Yurok~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/YurokGTFS.zip,f-yurok~ca~us,https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines,active
+US,national,Yurok~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/YurokTribeTransitServiceGTFS.zip,f-yurok~ca~us,https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines,active
+US,national,Yurok~Riverotterferry~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/YurokRiverOtterFerryGTFS.zip,f-yurok~riverotterferry~ca~us,https://dot.ca.gov/cal-itp/california-minimum-general-transit-feed-specification-gtfs-guidelines,active
 US,national,Ziatherapycenterinc~Nm~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11874/Zia_gtfs.zip,f-ziatherapycenterinc~nm~us,,active
 US,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-alerts,rt-al-f-metrolinktrains~rt,,active
 US,national,metrolinktrains rt,https://metrolink-gtfsrt.gbsdigital.us/feed/gtfsrt-trips,rt-tr-f-metrolinktrains~rt,,active
@@ -28615,6 +28633,9 @@ XX,national,pepperdineuniversity ca us rt,https://passio3.com/pepperdine/passioT
 XX,national,philomath corvallis or us rt,http://www.corvallistransit.com/rtt/public/utility/gtfsrealtime.aspx/alert?ProjectID=PC,rt-al-f-philomath~corvallis~or~us~rt,,active
 XX,national,philomath corvallis or us rt,http://www.corvallistransit.com/rtt/public/utility/gtfsrealtime.aspx/tripupdate?ProjectID=PC,rt-tr-f-philomath~corvallis~or~us~rt,,active
 XX,national,philomath corvallis or us rt,http://www.corvallistransit.com/rtt/public/utility/gtfsrealtime.aspx/vehicleposition?ProjectID=PC,rt-ve-f-philomath~corvallis~or~us~rt,,active
+XX,national,piercecountyferries wa us rt,https://hbwest.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-piercecountyferries~wa~us~rt,,active
+XX,national,piercecountyferries wa us rt,https://hbwest.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-piercecountyferries~wa~us~rt,,active
+XX,national,piercecountyferries wa us rt,https://hbwest.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-piercecountyferries~wa~us~rt,,active
 XX,national,piercetransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/alerts-for-agency/3.pb,rt-al-f-piercetransit~rt,,active
 XX,national,piercetransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-updates-for-agency/3.pb,rt-tr-f-piercetransit~rt,,active
 XX,national,piercetransit rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/3.pb,rt-ve-f-piercetransit~rt,,active

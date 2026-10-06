@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "islandtransit rt",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Friday Harbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/islandtransit/passioTransit/gtfs/realtime/tripUpdates",
+    "mdb_id": "rt-tr-f-c28-islandtransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

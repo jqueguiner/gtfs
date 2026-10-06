@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Islandtransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Friday Harbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/islandtransit/passioTransit/gtfs/google_transit.zip",
+    "mdb_id": "f-c28-islandtransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

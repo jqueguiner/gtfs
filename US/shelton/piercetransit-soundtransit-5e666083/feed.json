@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Piercetransit~Soundtransit",
+    "country": "US",
+    "subdivision": "Washington",
+    "city": "Shelton"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://prod.piercetransit.org/GTFS/gtfs.zip",
+    "mdb_id": "f-c22-piercetransit~soundtransit",
+    "license": "https://www.soundtransit.org/help-contacts/business-information/open-transit-data-otd/transit-data-terms-use"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
