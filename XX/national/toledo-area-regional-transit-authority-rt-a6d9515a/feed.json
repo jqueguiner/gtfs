@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "toledo area regional transit authority rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/alerts.pb",
+    "mdb_id": "rt-al-f-toledo~area~regional~transit~authority~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

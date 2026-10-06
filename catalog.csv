@@ -15971,6 +15971,7 @@ FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gt
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261003-040037/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261004-040047/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261005-040058/gtfs.zip,tdg-83756,lov2,active
+FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261006-040010/gtfs.zip,tdg-83756,lov2,active
 FR,national,Cbus~Chateaubriant~Fr,https://www.data.gouv.fr/api/1/datasets/r/2234503f-83b0-46fc-8cb7-ad09050c6b5a,f-cbus~chateaubriant~fr,https://transport.data.gouv.fr/datasets/cbus-5,active
 FR,national,Colette~Les~Saisies~Fr,https://www.data.gouv.fr/api/1/datasets/r/089cbb8d-6ed6-4e9b-b017-fbb657925bd3,f-colette~les~saisies~fr,etalab-2.0,active
 FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina/20260707-092242/a-berlina.zip,tdg-82995,lov2,active
@@ -26602,6 +26603,9 @@ US,Modoc County,Sage Stage,http://data.trilliumtransit.com/gtfs/sagestage-ca-us/
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/alerts,rt-al-f-metra~rt,,active
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/positions,rt-ve-f-metra~rt,,active
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/tripupdates,rt-tr-f-metra~rt,,active
+US,Mokena,pace rt,https://tmweb.pacebus.com/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-dp3-pace~rt,,active
+US,Mokena,pace rt,https://tmweb.pacebus.com/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-dp3-pace~rt,,active
+US,Mokena,pace rt,https://tmweb.pacebus.com/TMGTFSRealTimeWebService/vehicle/VehiclePositions.pb,rt-ve-f-dp3-pace~rt,,active
 US,Moline,Bettendorf Transit,https://data.trilliumtransit.com/gtfs/bettendorf-ia-us/bettendorf-ia-us.zip,mdb-1826,,active
 US,Monongalia County,Mountain Line Transit Authority,http://site.busride.org/google/google_transit.zip,mdb-407,,active
 US,Monongalia County,West Virginia University Morgantown Personal Rapid Transit,https://prt.wvu.edu/files/d/fcc4abeb-9e23-477b-b648-30623cb8ad80/gtfs-3.zip,tld-7068_1,,active
@@ -26759,6 +26763,9 @@ US,North Union Township,Fayette Area Coordinated Transportation,https://fact.rid
 US,North Wilkesboro,Wta,https://gtfs.transitportal.org/CurrentGTFS/Wilkes%20Transportation%20Authority_193/WTA.zip,f-dnqm-wta,,active
 US,Northfield,Akron Metro Regional Transit Authority (METRO),https://www.yourmetrobus.org/Data/Sites/2/gtfs-data/metro_rta_gtfs.zip,mdb-2071,,active
 US,Northridge,Csu~Northridge,https://csun.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-csu~northridge,,active
+US,Northridge,greaterdaytonrta rt,https://ridetime.greaterdaytonrta.org/gtfsrt/alerts,rt-al-f-dph4-greaterdaytonrta~rt,,active
+US,Northridge,greaterdaytonrta rt,https://ridetime.greaterdaytonrta.org/gtfsrt/trips,rt-tr-f-dph4-greaterdaytonrta~rt,,active
+US,Northridge,greaterdaytonrta rt,https://ridetime.greaterdaytonrta.org/gtfsrt/vehicles,rt-ve-f-dph4-greaterdaytonrta~rt,,active
 US,Northumberland County,Borough of Mt. Carmel,https://lats.rideralerts.com/infopoint/gtfs-zip.ashx,ntd-30116,,active
 US,Northumberland County,Lower Anthracite Transit System,https://lats.rideralerts.com/InfoPoint/gtfs-zip.ashx,tld-7023,,active
 US,Northwest Harborcreek,Eriemetropolitantransitauthority,https://emta.availtec.com/InfoPoint/gtfs-zip.ashx,f-dprp-eriemetropolitantransitauthority,https://ride-the-e.com/developerlicenseagreement/,active
@@ -27524,6 +27531,7 @@ US,national,Clarksville~Tn~Us,https://www.clarksvilletn.gov/DocumentCenter/View/
 US,national,Clastran~Al~Us,https://www.clastran.com/_files/archives/866304_1257fc996ab741c69f3afd6a25304e90.zip?dn=2025.02.07%20Columbiana%20Trolley%20GTFS%20Feed%20(latest%20version).zip,f-clastran~al~us,,active
 US,national,Clean~Air~Express~Ca~Us,https://cleanairexpress.com/wp-content/uploads/GTFS.zip,f-clean~air~express~ca~us,,active
 US,national,Clearcreek~Co~Us,https://data.trilliumtransit.com/gtfs/clearcreek-co-us/clearcreek-co-us.zip,f-clearcreek~co~us,,active
+US,national,Clermont~County~Oh~Us,https://ctc.clermontcountyohio.gov/media/CTC.zip,f-clermont~county~oh~us,,active
 US,national,Clermont~County~Oh~Us,https://ctc.clermontcountyohio.gov/wp-content/uploads/sites/35/2025/06/CTC.zip,f-clermont~county~oh~us,,active
 US,national,Coast~Rta~Sc~Us,http://coastrtaridetracker.com/Secure/Admin/Reports/GTFSDownload.aspx,f-coast~rta~sc~us,,active
 US,national,Coast~Rta~Sc~Us,https://coastrta.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-coast~rta~sc~us,,active
@@ -27532,6 +27540,7 @@ US,national,Colescounty~Il~Us,https://rapid.nationalrtap.org/GTFSFileManagement/
 US,national,Columbus~In~Us,https://columbusindianatransit.com/gtfs,f-columbus~in~us,,active
 US,national,Compton~Ca~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13657/20251205-GTFSDec25adjdate.zip,f-compton~ca~us,,active
 US,national,Compton~Ca~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14915/20260522-GTFS.zip,f-compton~ca~us,,active
+US,national,Concordareatransit~Fixedroute~Nh~Us,https://cnhrpc.org/wp-content/uploads/cat-nh-us.zip,f-concordareatransit~fixedroute~nh~us,,active
 US,national,Countyoflacrosse~Wi~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13162/SMRTfeedfinal2026.zip,f-countyoflacrosse~wi~us,,active
 US,national,Covina~Ca~Us,https://www.ips-systems.com/GTFS/Schedule/27,f-covina~ca~us,,active
 US,national,Craigtribalassociation~Ak~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13783/cta_ak_gtfs.zip,f-craigtribalassociation~ak~us,,active
@@ -27546,6 +27555,7 @@ US,national,Cwru~Oh~Us,https://cwruuh.transloc.com/Secure/Admin/Reports/GTFSDown
 US,national,C~Carts~Il~Us,https://c-carts.com/api/gtfs,f-c~carts~il~us,,active
 US,national,D2A2~Mi~Us,https://gtfs.watevrawanabi.com/d2a2-dax-gtfs.zip,f-d2a2~mi~us,,active
 US,national,Danapointtrolley~Ca~Us,https://passio3.com/dptrolley/passioTransit/gtfs/google_transit.zip,f-danapointtrolley~ca~us,,active
+US,national,Danville~Il~Us,https://danvillemasstransit.tripshot.com/v1/gtfs.zip,f-danville~il~us,,active
 US,national,Danville~Il~Us,https://www.ridedmt.org/home/showpublisheddocument/1979/638712314709900000,f-danville~il~us,,active
 US,national,Dart~Douglascounty~Nv~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14782/DART_douglas_co_nv_gtfs.zip,f-dart~douglascounty~nv~us,,active
 US,national,Delmarvacommunityservicesinc~Md~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13663/dcsdct_gtfs.zip,f-delmarvacommunityservicesinc~md~us,,active
@@ -27607,6 +27617,7 @@ US,national,Jackson~Mi~Us,https://myride.mijata.org/gtfs/google_transit.zip,f-ja
 US,national,Jalbertleasinginc~Nh~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13306/gtfs.zip,f-jalbertleasinginc~nh~us,,active
 US,national,Jhm~Md~Us,https://jhm.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jhm~md~us,,active
 US,national,Jumparoundcarson~Nv~Us,https://JumpAroundCarson.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jumparoundcarson~nv~us,,active
+US,national,Kabs~In~Us,https://gtfs.macog.com/KosciuskoAreaBusService/google_transit.zip,f-kabs~in~us,,active
 US,national,Kalkaska~Public~Transit~Authority~Mi~Us,https://img1.wsimg.com/blobby/go/c8af6a6d-67d8-4429-b7ec-3fefc453da10/downloads/6c8055e7-dacf-4207-bf23-0d2472d8d10b/KPTA_GTFS.zip?ver=1775756557796,f-kalkaska~public~transit~authority~mi~us,,active
 US,national,Kaserbusservice~Ny~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13356/kaser_ny_gtfs.zip,f-kaserbusservice~ny~us,,active
 US,national,Kenosha~Wi~Us,https://kenoshatransit.com/gtfs,f-kenosha~wi~us,https://gtfs-directory.syncromatics.com/,active
@@ -27703,6 +27714,7 @@ US,national,Opportunitylink~Mt~Us,https://rapid.nationalrtap.org/GTFSFileManagem
 US,national,Ou~Health~Ok~Us,https://ouhealth.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-ou~health~ok~us,,active
 US,national,Oxford~University~Transit~Mi~Us,https://outransit.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-oxford~university~transit~mi~us,,active
 US,national,Oxford~University~Transit~Ms~Us,https://www.outransit.com/_files/archives/00f7ca_da222b72511042ee91defff282d6a35a.zip?dn=All_Fixed_Routes-2026-05-20-18-08-04-gtfs.zip,f-oxford~university~transit~ms~us,,active
+US,national,Paducah~Ky~Us,https://myride.paducahtransit.com/gtfs/google_transit.zip,f-paducah~ky~us,,active
 US,national,Paratransit~Inc~Ca~Us,https://paratransit.org/gtfs,f-paratransit~inc~ca~us,,active
 US,national,Paulbunyantransit~Mn~Us,https://data.trilliumtransit.com/gtfs/paulbunyantransit-mn-us/paulbunyantransit-mn-us--flex-v2.zip,f-paulbunyantransit~mn~us,,active
 US,national,Pee~Dee~Sc~Us,https://s3.amazonaws.com/etatransit.gtfs/pdtransit.etaspot.net/gtfs.zip,f-pee~dee~sc~us,,active
@@ -27901,6 +27913,7 @@ XX,national,Kalkaska~Public~Transit~Authority~Mi~Us~Flex,https://miruralmobility
 XX,national,Kasugaicity~Kasugaicitybus,https://api.gtfs-data.jp/v2/organizations/kasugaicity/feeds/kasugaicitybus/files/feed.zip?uid=58f5b828-c21e-4897-8d1e-587c6b44c61d,f-kasugaicity~kasugaicitybus,CC0-1.0,active
 XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v1.zip,f-lincolncounty~or~us~flex,,active
 XX,national,Lincolncounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/lincolncounty-or-us/lincolncounty-or-us--flex-v2.zip,f-lincolncounty~or~us~flex,,active
+XX,national,Macog,https://passio3.com/macog/passioTransit/gtfs/google_transit.zip,f-macog,,active
 XX,national,Manistee~County~Transportation~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Manistee_County_Transportation.zip,f-manistee~county~transportation~mi~us~flex,,active
 XX,national,Mankato~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/mankato-mn-us/mankato-mn-us--flex-v2.zip,f-mankato~mn~us~flex,,active
 XX,national,Manteca~Transit~Paratransit~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/MantecaTransitParatransitFlex.zip,f-manteca~transit~paratransit~flex,,active
@@ -27926,6 +27939,7 @@ XX,national,Roscommon~County~Transportation~Authority~Mi~Us~Flex,https://mirural
 XX,national,Saginaw~Stars,http://gtfs-source-feeds.transit.land/saginaw-stars.zip,f-saginaw~stars,,active
 XX,national,Societàtrasportocerignola,https://mazzarino.gq/index.php/s/Bo56mFd57aGc9MZ/download,f-s-societàtrasportocerignola,,active
 XX,national,Soundgenerations~Wa~Us~Flex,https://data.trilliumtransit.com/gtfs/soundgenerations-wa-us/soundgenerations-wa-us-hyde--flex-v2.zip,f-soundgenerations~wa~us~flex,,active
+XX,national,Stark~Area~Regional~Transit~Authority,https://pinpoint.sartaonline.com/InfoPoint/GTFS-Zip.ashx,f-stark~area~regional~transit~authority,,active
 XX,national,Straits~Regional~Ride~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Straits_Regional_Cheboygan.zip,f-straits~regional~ride~mi~us~flex,,active
 XX,national,Suffolk~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/suffolk-va-us/suffolk-va-us--flex-v2.zip,f-suffolk~va~us~flex,,active
 XX,national,Suzukacity~Communitybus,https://api.gtfs-data.jp/v2/organizations/suzukacity/feeds/communitybus/files/feed.zip?uid=b901ca29-ec66-4f22-b34a-0b7b06b362ed,f-suzukacity~communitybus,CC-BY-4.0,active
@@ -28214,6 +28228,9 @@ XX,national,cypre valois fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-
 XX,national,danapointtrolley ca us rt,https://passio3.com/dptrolley/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-danapointtrolley~ca~us~rt,,active
 XX,national,danapointtrolley ca us rt,https://passio3.com/dptrolley/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-danapointtrolley~ca~us~rt,,active
 XX,national,danapointtrolley ca us rt,https://passio3.com/dptrolley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-danapointtrolley~ca~us~rt,,active
+XX,national,danville il us rt,https://danvillemasstransit.tripshot.com/v1/gtfs/realtime/serviceAlert,rt-al-f-danville~il~us~rt,,active
+XX,national,danville il us rt,https://danvillemasstransit.tripshot.com/v1/gtfs/realtime/tripUpdate,rt-tr-f-danville~il~us~rt,,active
+XX,national,danville il us rt,https://danvillemasstransit.tripshot.com/v1/gtfs/realtime/vehiclePosition,rt-ve-f-danville~il~us~rt,,active
 XX,national,dentoncountytransportationauthority rt,https://api.goswift.ly/real-time/dcta/gtfs-rt-trip-updates,rt-tr-f-dentoncountytransportationauthority~rt,,active
 XX,national,dentoncountytransportationauthority rt,https://api.goswift.ly/real-time/dcta/gtfs-rt-vehicle-positions,rt-ve-f-dentoncountytransportationauthority~rt,,active
 XX,national,denver rtd bustang rt,https://www.rtd-denver.com/files/bustang/gtfs-rt/Bustang_TripUpdate.pb,rt-tr-f-denver~rtd~bustang~rt,,active
@@ -28491,6 +28508,9 @@ XX,national,luzerne county transit authority rt,https://realtimelctabus.availtec
 XX,national,léo fr rt,http://auxerre.api.instant-system.com/public/disruptions/gtfs-rt/alert.pb?apikey=8bd10ac5e522fe43eed239439e556b3b,rt-al-f-léo~fr~rt,,active
 XX,national,léo fr rt,https://leo.plateforme-2cloud.com/api/gtfsrt/2.0/tripUpdates/LEO-6547-2543-6895?&format=bin&network=AURMLEBUS,rt-tr-f-léo~fr~rt,,active
 XX,national,léo fr rt,https://leo.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/LEO-6547-2543-6895?&format=bin&network=AURMLEBUS,rt-ve-f-léo~fr~rt,,active
+XX,national,macog rt,https://passio3.com/macog/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-macog~rt,,active
+XX,national,macog rt,https://passio3.com/macog/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-macog~rt,,active
+XX,national,macog rt,https://passio3.com/macog/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-macog~rt,,active
 XX,national,madera county connection rt,https://api.goswift.ly/real-time/madera/gtfs-rt-trip-updates,rt-tr-f-madera~county~connection~rt,,active
 XX,national,madera county connection rt,https://api.goswift.ly/real-time/madera/gtfs-rt-vehicle-positions,rt-ve-f-madera~county~connection~rt,,active
 XX,national,madera county connection rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/maderactc-ca-us/service_alerts.proto,rt-al-f-madera~county~connection~rt~alerts,,active
@@ -28829,6 +28849,9 @@ XX,national,sportran rt,https://sportran.rideralerts.com/infopoint/GTFS-Realtime
 XX,national,st lawrence county ny rt,https://passio3.com/stlawrence/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-st~lawrence~county~ny~rt,,active
 XX,national,st lawrence county ny rt,https://passio3.com/stlawrence/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-st~lawrence~county~ny~rt,,active
 XX,national,st lawrence county ny rt,https://passio3.com/stlawrence/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-st~lawrence~county~ny~rt,,active
+XX,national,stark area regional transit authority rt,https://pinpoint.sartaonline.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-stark~area~regional~transit~authority~rt,,active
+XX,national,stark area regional transit authority rt,https://pinpoint.sartaonline.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-stark~area~regional~transit~authority~rt,,active
+XX,national,stark area regional transit authority rt,https://pinpoint.sartaonline.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-stark~area~regional~transit~authority~rt,,active
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-stevens~point~wi~rt,,active
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-stevens~point~wi~rt,,active
 XX,national,stevens point wi rt,https://passio3.com/centraltrans/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-stevens~point~wi~rt,,active
@@ -28886,6 +28909,9 @@ XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/trip_update.p
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/vehicle.pb,rt-ve-f-tokonamecity~gruun~rt,,active
 XX,national,tokyosuginamicity greenslowmobility jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TokyoSuginamiCity_GreenSlowMobility_trip_update,rt-tr-f-tokyosuginamicity~greenslowmobility~jp~rt,,active
 XX,national,tokyosuginamicity greenslowmobility jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TokyoSuginamiCity_GreenSlowMobility_vehicle,rt-ve-f-tokyosuginamicity~greenslowmobility~jp~rt,,active
+XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/alerts.pb,rt-al-f-toledo~area~regional~transit~authority~rt,,active
+XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/position_updates.pb,rt-ve-f-toledo~area~regional~transit~authority~rt,,active
+XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/trip_updates.pb,rt-tr-f-toledo~area~regional~transit~authority~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/alerts,rt-al-f-torrancetransit~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/trips,rt-tr-f-torrancetransit~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/vehicles,rt-ve-f-torrancetransit~rt,,active

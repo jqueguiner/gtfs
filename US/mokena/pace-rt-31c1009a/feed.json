@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "pace rt",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Mokena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://tmweb.pacebus.com/TMGTFSRealTimeWebService/alert/alerts.pb",
+    "mdb_id": "rt-al-f-dp3-pace~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

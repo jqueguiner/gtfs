@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "greaterdaytonrta rt",
+    "country": "US",
+    "subdivision": "Ohio",
+    "city": "Northridge"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://ridetime.greaterdaytonrta.org/gtfsrt/vehicles",
+    "mdb_id": "rt-ve-f-dph4-greaterdaytonrta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
