@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "baldwinpark ca us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/baldwinpark/passioTransit/gtfs/realtime/vehiclePositions",
+    "mdb_id": "rt-ve-f-baldwinpark~ca~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

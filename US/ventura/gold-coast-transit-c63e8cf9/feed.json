@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Gold Coast Transit",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Ventura"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.gctd.org/wp-content/uploads/2021/06/GCTD_GTFS.zip",
+    "mdb_id": "f-9q54-goldcoasttransit",
+    "license": "https://www.gctd.org/about/developer-resources/"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
