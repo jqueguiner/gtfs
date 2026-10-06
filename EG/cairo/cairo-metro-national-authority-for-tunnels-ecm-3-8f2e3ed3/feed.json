@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Cairo Metro (National Authority for Tunnels / ECM) - 3 lines",
+    "country": "EG",
+    "subdivision": "Cairo Governorate",
+    "city": "Cairo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.github.com/repos/transportforcairo/Metro-GTFS/zipball/master",
+    "mdb_id": "eg-gh-metro-gtfs-zipball",
+    "license": "CC BY-NC 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
