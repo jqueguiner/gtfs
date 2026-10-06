@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "detroitdepartmentoftransportation rt",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ferndale"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.myddotbus.com/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-dpsc-detroitdepartmentoftransportation~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

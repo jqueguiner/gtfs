@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "universityofmichigantransitservices rt",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Ann Arbor"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mbus.ltp.umich.edu/gtfsrt/trips",
+    "mdb_id": "rt-tr-f-dps2w-universityofmichigantransitservices~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -269,6 +269,8 @@ AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/28241/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/28282/file,at-gtfs-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/28283/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
+AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/28339/file,at-gtfs-vor-2026,Data License Mobilitätsverbünde Österreich,active
+AT,Vienna,Verkehrsverbund Ost-Region (VOR),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/28340/file,at-gtfs-flex-vor-2026,Data License Mobilitätsverbünde Österreich,active
 AT,Vienna,Wiener Linien,https://www.wienerlinien.at/ogd_realtime/monitor?rbl=4111,rtweb-at-wiener-linien,,active
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
 AT,Vorarlberg (Bregenz/Feldkirch/Dornbirn),Verkehrsverbund Vorarlberg (VMOBIL) — Landbus network + ÖBB-Postbus,https://mobilitaetsdaten.gv.at/sites/default/files/metadataset/sample_data/20260703-0010_gtfs_flex_vmobil_2026.zip,at-eutail-verkehrsverbund-vorarlberg-vmo,Datenlizenz Mobilitätsverbünde Österreich (free/open),active
@@ -25490,6 +25492,9 @@ US,Anchorage,Anchorage People Mover,http://gtfs.muni.org/People_Mover.gtfs.zip,m
 US,Andover,wichitatransit rt,https://bus.wichitatransit.org/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-9ydy-wichitatransit~rt,,active
 US,Andover,wichitatransit rt,https://bus.wichitatransit.org/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-9ydy-wichitatransit~rt,,active
 US,Andover,wichitatransit rt,https://bus.wichitatransit.org/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-9ydy-wichitatransit~rt,,active
+US,Ann Arbor,universityofmichigantransitservices rt,https://mbus.ltp.umich.edu/gtfsrt/alerts,rt-al-f-dps2w-universityofmichigantransitservices~rt,,active
+US,Ann Arbor,universityofmichigantransitservices rt,https://mbus.ltp.umich.edu/gtfsrt/trips,rt-tr-f-dps2w-universityofmichigantransitservices~rt,,active
+US,Ann Arbor,universityofmichigantransitservices rt,https://mbus.ltp.umich.edu/gtfsrt/vehicles,rt-ve-f-dps2w-universityofmichigantransitservices~rt,,active
 US,Anne Arundel County,Annapolis Transit,https://www.arcgis.com/sharing/rest/content/items/c307923d57ab4871aff79491b4a1bfd3/data,mdb-2285,,active
 US,Anne Arundel County,Maryland Transit Administration,https://mdotmta-gtfs.s3.amazonaws.com/mdotmta_gtfs_lightrail.zip,mdb-469,,active
 US,Apache County,Navajo Transit System,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/5372/Navajo_Transit_GTFS.zip,mdb-2346,,active
@@ -26031,6 +26036,9 @@ US,Fayette County,Blue Grass Community Action Partnership,http://data.trilliumtr
 US,Fayetteville,Fast,https://fast.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-dnpz-fast,,active
 US,Fayston,Tri-Valley Transit,http://data.trilliumtransit.com/gtfs/trivalleytransit-vt-us/trivalleytransit-vt-us.zip,mdb-852,,active
 US,Fergus Falls,The Otter Express,https://data.trilliumtransit.com/gtfs/otterexpress-mn-us/otterexpress-mn-us--flex-v2.zip,mdb-2038,,active
+US,Ferndale,detroitdepartmentoftransportation rt,https://www.myddotbus.com/gtfsrt/alerts,rt-al-f-dpsc-detroitdepartmentoftransportation~rt,,active
+US,Ferndale,detroitdepartmentoftransportation rt,https://www.myddotbus.com/gtfsrt/trips,rt-tr-f-dpsc-detroitdepartmentoftransportation~rt,,active
+US,Ferndale,detroitdepartmentoftransportation rt,https://www.myddotbus.com/gtfsrt/vehicles,rt-ve-f-dpsc-detroitdepartmentoftransportation~rt,,active
 US,Ferndale,humboldtcounty ca us redwood rt,https://api.goswift.ly/real-time/redwood/gtfs-rt-trip-updates,rt-tr-f-9pp-humboldtcounty~ca~us~redwood~rt,,active
 US,Ferndale,humboldtcounty ca us redwood rt,https://api.goswift.ly/real-time/redwood/gtfs-rt-vehicle-positions,rt-ve-f-9pp-humboldtcounty~ca~us~redwood~rt,,active
 US,Ferndale,humboldtcounty ca us rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/humboldtcounty-ca-us/service_alerts.proto,rt-al-f-9pp-humboldtcounty~ca~us~rt~alerts,,active
@@ -27166,6 +27174,9 @@ US,Swannanoa,asheville nc us rt,https://api.goswift.ly/real-time/art-asheville/g
 US,Swansea,Southeasternregionaltransitauthority,https://data.trilliumtransit.com/gtfs/srta-ma-us/srta-ma-us.zip,f-drmm-southeasternregionaltransitauthority,https://www.massdot.state.ma.us/Portals/0/docs/developers/develop_license_agree.pdf,active
 US,Swanton,Chittenden County Transportation Authority (CCTA),http://data.trilliumtransit.com/gtfs/ccta-vt-us/ccta-vt-us.zip,mdb-629,,active
 US,Swanton,Rural Community Transportation (RCT),https://data.trilliumtransit.com/gtfs/ruralcommunity-vt-us/ruralcommunity-vt-us--flex-v2.zip,mdb-2882,,active
+US,Swartz Creek,Masstransportationauthorityflint,https://flint.connexionz.net/rtt/public/resource/gtfs.zip,f-dpsk-masstransportationauthorityflint,,active
+US,Swartz Creek,masstransportationauthorityflint rt,https://flint.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-dpsk-masstransportationauthorityflint~rt,,active
+US,Swartz Creek,masstransportationauthorityflint rt,https://flint.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-dpsk-masstransportationauthorityflint~rt,,active
 US,Sylva,Jacksoncountync,https://gtfs.transitportal.org/CurrentGTFS/Jackson%20County_99/JacksonTrolly.zip,f-dnkc-jacksoncountync,,active
 US,Syracuse,Centro,https://www.centro.org/CentroGTFS/CentroGTFS.zip,mdb-534,,active
 US,Taft,Taft Area Transit,https://gtfs.calitp.org/production/TaftGTFS.zip,mdb-2236,,active
@@ -27592,6 +27603,7 @@ US,national,Ihanktowantransit~Sd~Us,https://mjcaction.com/MJC_GTFS_Public/ihankt
 US,national,Imperial~Valley~Transit~Ca~Us,https://schedule.ivtransit.com/gtfs/data.zip,f-imperial~valley~transit~ca~us,https://www.ivtransit.com/gtfs,active
 US,national,Isleauhautboatservices~Me~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13053/isleauhaut_me_gtfs.zip,f-isleauhautboatservices~me~us,,active
 US,national,Jackson~Mi~Us,https://jacksonareatransit.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-jackson~mi~us,,active
+US,national,Jackson~Mi~Us,https://myride.mijata.org/gtfs/google_transit.zip,f-jackson~mi~us,,active
 US,national,Jalbertleasinginc~Nh~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13306/gtfs.zip,f-jalbertleasinginc~nh~us,,active
 US,national,Jhm~Md~Us,https://jhm.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jhm~md~us,,active
 US,national,Jumparoundcarson~Nv~Us,https://JumpAroundCarson.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jumparoundcarson~nv~us,,active
@@ -28016,6 +28028,9 @@ XX,national,barta pa rt,https://busfinder.bartabus.com/Infopoint/gtfs-realtime.a
 XX,national,baton rouge cats rt,https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-baton~rouge~cats~rt,,active
 XX,national,baton rouge cats rt,https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-baton~rouge~cats~rt,,active
 XX,national,baton rouge cats rt,https://cats.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-baton~rouge~cats~rt,,active
+XX,national,bay area transportation authority mi rt,https://batabustracker.com/gtfs-rt/alerts,rt-al-f-bay~area~transportation~authority~mi~rt,,active
+XX,national,bay area transportation authority mi rt,https://batabustracker.com/gtfs-rt/tripupdates,rt-tr-f-bay~area~transportation~authority~mi~rt,,active
+XX,national,bay area transportation authority mi rt,https://batabustracker.com/gtfs-rt/vehiclepositions,rt-ve-f-bay~area~transportation~authority~mi~rt,,active
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-trip-updates,rt-tr-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-vehicle-positions,rt-ve-f-baytowntrolley~fl~rt,,active
 XX,national,baytowntrolley fl rt alerts,https://api.goswift.ly/real-time/bay-town-trolley/gtfs-rt-alerts,rt-al-f-baytowntrolley~fl~rt~alerts,,active

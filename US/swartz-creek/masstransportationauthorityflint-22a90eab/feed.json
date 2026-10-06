@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Masstransportationauthorityflint",
+    "country": "US",
+    "subdivision": "Michigan",
+    "city": "Swartz Creek"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://flint.connexionz.net/rtt/public/resource/gtfs.zip",
+    "mdb_id": "f-dpsk-masstransportationauthorityflint",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
