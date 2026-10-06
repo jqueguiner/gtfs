@@ -26490,6 +26490,7 @@ US,Lula,Marta,https://itsmarta.com/google_transit_feed/google_transit.zip,f-dnh-
 US,Lula,grtaxpress rt,https://myxpress2.xpressga.com/gtfsrt/alerts,rt-al-f-dnh-grtaxpress~rt,,active
 US,Lula,grtaxpress rt,https://myxpress2.xpressga.com/gtfsrt/trips,rt-tr-f-dnh-grtaxpress~rt,,active
 US,Lula,grtaxpress rt,https://myxpress2.xpressga.com/gtfsrt/vehicles,rt-ve-f-dnh-grtaxpress~rt,,active
+US,Lula,marta rt,https://gtfs-rt.itsmarta.com/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-dnh-marta~rt,,active
 US,Lula,marta rt,https://gtfs-rt.itsmarta.com/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-dnh-marta~rt,,active
 US,Lula,marta rt,https://gtfs-rt.itsmarta.com/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb,rt-ve-f-dnh-marta~rt,,active
 US,Luzerne County,Fullington Trailways,https://s3.amazonaws.com/datatools-511ny/public/Fullington_Trailways.zip,tld-4379,,active
@@ -27193,6 +27194,9 @@ US,Tazewell County,Four County Transit,https://data.trilliumtransit.com/gtfs/fou
 US,Tazewell County,Four County Transit,https://data.trilliumtransit.com/gtfs/fourcounty-va-us/fourcounty-va-us.zip,mdb-2308,,active
 US,Tazewell County,Graham Transit,http://data.trilliumtransit.com/gtfs/grahamtransit-va-us/grahamtransit-va-us.zip,mdb-611,,active
 US,Tea,Siouxareametro~Sd~Us,https://s3.amazonaws.com/etatransit.gtfs/siouxareametro.etaspot.net/gtfs.zip,f-9zep-siouxareametro~sd~us,,active
+US,Tea,siouxareametro sd us rt,https://s3.amazonaws.com/etatransit.gtfs/siouxareametro.etaspot.net/alerts.pb,rt-al-f-9zep-siouxareametro~sd~us~rt,,active
+US,Tea,siouxareametro sd us rt,https://s3.amazonaws.com/etatransit.gtfs/siouxareametro.etaspot.net/position_updates.pb,rt-ve-f-9zep-siouxareametro~sd~us~rt,,active
+US,Tea,siouxareametro sd us rt,https://s3.amazonaws.com/etatransit.gtfs/siouxareametro.etaspot.net/trip_updates.pb,rt-tr-f-9zep-siouxareametro~sd~us~rt,,active
 US,Teller County,Cripple Creek Transportation,http://data.trilliumtransit.com/gtfs/cripplecreek-co-us/cripplecreek-co-us.zip,mdb-317,,active
 US,Teller County,Teller Senior Coalition Transit (TSC Transit),http://data.trilliumtransit.com/gtfs/tsctransit-co-us/tsctransit-co-us.zip,mdb-827,,active
 US,Terra Bella,Kerncounty~Ca~Us,https://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip,f-9q7-kerncounty~ca~us,https://kerntransit.org/developers-gtfs/,active
@@ -27218,6 +27222,7 @@ US,The Meadows,sarasotacountyareatransit rt,https://breezerider.tripsparkhost.co
 US,The Meadows,sarasotacountyareatransit rt,https://breezerider.tripsparkhost.com/gtfs/Realtime/GTFS_TripUpdates.pb,rt-tr-f-dhv-sarasotacountyareatransit~rt,,active
 US,The Meadows,sarasotacountyareatransit rt,https://breezerider.tripsparkhost.com/gtfs/Realtime/GTFS_VehiclePositions.pb,rt-ve-f-dhv-sarasotacountyareatransit~rt,,active
 US,Three Oaks,Florida~Gulf~Coast~University,https://passio3.com/fgcu/passioTransit/gtfs/google_transit.zip,f-florida~gulf~coast~university,,active
+US,Thunderbolt,Chathamareatransit,https://catchacat.org/wp-content/uploads/CAT_S70_GTFSExport_2026-08-27.zip,f-djwq-chathamareatransit,,active
 US,Thunderbolt,Chathamareatransit,https://catchacat.org/wp-content/uploads/GTFS-1.zip,f-djwq-chathamareatransit,,active
 US,Thurston County,ruralTRANSIT,http://data.trilliumtransit.com/gtfs/thurston-wa-us/thurston-wa-us.zip,mdb-822,,active
 US,Tillamook County,"Sunset Empire Transportation District (SETD), Tillamook County Transportation District, Columbia County Rider",https://oregon-gtfs.trilliumtransit.com/gtfs_data/tillamookcounty-or-us/tillamookcounty-or-us.zip,mdb-246,,active
@@ -27745,6 +27750,7 @@ US,national,Renosparksindiancolony~Nv~Us,https://rapid.nationalrtap.org/GTFSFile
 US,national,Rhtbus~Mn~Us,https://data.trilliumtransit.com/gtfs/rhtbus-mn-us/rhtbus-mn-us--flex-v2.zip,f-rhtbus~mn~us,,active
 US,national,Richmond~Airport~Va~Us,https://richmond.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-richmond~airport~va~us,,active
 US,national,Rides~Mass~Transit~District~Il~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13041/ridesmtd_il_gtfs.zip,f-rides~mass~transit~district~il~us,,active
+US,national,Ridethebay~Ri~Us,https://www.ridethebayri.com/RIDOT-GTFS.zip,f-ridethebay~ri~us,,active
 US,national,Riolimo~Co~Us,https://riolimo.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-riolimo~co~us,,active
 US,national,Rivervalleymetromasstransitdistrict~Il~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13076/Transit.zip,f-rivervalleymetromasstransitdistrict~il~us,,active
 US,national,Rochester~Mn~Us,https://gtfs.rpt.cadavl.com/RPT/GTFS/GTFS_RPT.zip,f-rochester~mn~us,,active
@@ -27772,7 +27778,9 @@ US,national,Southcountytransitlink~Ca~Us,http://apps.sacrt.com/gtfs/SCTLink/goog
 US,national,Southcountytransitlink~Ca~Us,https://iportal.sacrt.com/gtfs/SCTLink/google_transit.zip,f-southcountytransitlink~ca~us,http://www.sacrt.com/schedules/gtfs.aspx,active
 US,national,Southeastkansascommunityactionprogram~Ks~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11365/GTFSzipSEK-CAP01222025.zip,f-southeastkansascommunityactionprogram~ks~us,,active
 US,national,Southeastmissouristateuniversity~Mo~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13198/SEMO_gtfs.zip,f-southeastmissouristateuniversity~mo~us,,active
+US,national,Southern Nevada Transit Coalition,https://silverrider.net/wp-content/uploads/2026/03/Laughlin-Feed.zip,f-silver~rider~laughlin~local~nv~us,,active
 US,national,Southern Nevada Transit Coalition,https://silverrider.net/wp-content/uploads/2026/03/LaughlinVegasExpress-.zip,f-silver~rider~laughlin~nv~us,,active
+US,national,Southern Nevada Transit Coalition,https://silverrider.net/wp-content/uploads/2026/03/Mesquite-Feed.zip,f-silver~rider~mesquite~local~nv~us,,active
 US,national,Southern Nevada Transit Coalition,https://silverrider.net/wp-content/uploads/2026/03/MesquiteVegasExpress.zip,f-silver~rider~mesquite~nv~us,,active
 US,national,Southplainscommunityactionassociationinc~Tx~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13691/GTFS_SPCAA.zip,f-southplainscommunityactionassociationinc~tx~us,,active
 US,national,Southwestarearegionaltransitdistrict~Tx~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13091/SWART_12.2024_GTFS.zip,f-southwestarearegionaltransitdistrict~tx~us,,active
@@ -28968,12 +28976,16 @@ XX,national,university of chicago rt,https://passio3.com/chicago/passioTransit/g
 XX,national,university of connecticut rt,https://passio3.com/uconn/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-university~of~connecticut~rt,,active
 XX,national,university of connecticut rt,https://passio3.com/uconn/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-university~of~connecticut~rt,,active
 XX,national,university of connecticut rt,https://passio3.com/uconn/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-university~of~connecticut~rt,,active
+XX,national,universityofarkansas ar us rt,https://passio3.com/UofArkansas/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-universityofarkansas~ar~us~rt,,active
+XX,national,universityofarkansas ar us rt,https://passio3.com/UofArkansas/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-universityofarkansas~ar~us~rt,,active
+XX,national,universityofarkansas ar us rt,https://passio3.com/UofArkansas/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-universityofarkansas~ar~us~rt,,active
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-universityofsandiegotram~ca~us~rt,,active
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-universityofsandiegotram~ca~us~rt,,active
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-universityofsandiegotram~ca~us~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/alerts,rt-al-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/tripupdates,rt-tr-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/vehiclepositions,rt-ve-f-vailtransit~rt,,active
+XX,national,valleymetro rt,https://mna.mecatran.com/utw/ws/gtfsfeed/alerts/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f,rt-al-f-valleymetro~rt,,active
 XX,national,valleymetro rt,https://mna.mecatran.com/utw/ws/gtfsfeed/realtime/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f,rt-tr-f-valleymetro~rt,,active
 XX,national,valleymetro rt,https://mna.mecatran.com/utw/ws/gtfsfeed/vehicles/valleymetro?apiKey=4f22263f69671d7f49726c3011333e527368211f,rt-ve-f-valleymetro~rt,,active
 XX,national,valleyride rt,https://s3.amazonaws.com/etatransit.gtfs/valleyregionaltransit.etaspot.net/alerts.pb,rt-al-f-valleyride~rt,,active
