@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "switzerland rt",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Fayl-Billot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opentransportdata.swiss/la/gtfs-rt",
+    "mdb_id": "rt-tr-f-u0-switzerland~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

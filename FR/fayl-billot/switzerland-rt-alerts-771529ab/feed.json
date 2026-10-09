@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "switzerland rt alerts",
+    "country": "FR",
+    "subdivision": "Champagne-Ardenne",
+    "city": "Fayl-Billot"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.opentransportdata.swiss/la/gtfs-sa",
+    "mdb_id": "rt-al-f-u0-switzerland~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

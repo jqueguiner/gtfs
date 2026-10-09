@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Nl",
+    "country": "NL",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/gtfs-nl.zip",
+    "mdb_id": "f-u-nl",
+    "license": "https://gtfs.ovapi.nl/README"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

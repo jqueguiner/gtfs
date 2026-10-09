@@ -13891,6 +13891,9 @@ FR,Faulquemont,SNCF TER — Faulquemont,https://eu.ftp.opendatasoft.com/sncf/gtf
 FR,Fauville-en-Caux,SNCF TER — Fauville-en-Caux,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-08fe3d94d8,,active
 FR,Fayl-Billot,Openov~Lu,https://download.data.public.lu/resources/horaires-et-arrets-des-transport-publics-gtfs/20260821-055311/gtfs-20260819-20261212.zip,f-u0-openov~lu,CC-BY-4.0,active
 FR,Fayl-Billot,Switzerland,https://data.opentransportdata.swiss/en/dataset/timetable-2026-gtfs2020/permalink,f-u0-switzerland,https://opentransportdata.swiss/en/terms-of-use/,active
+FR,Fayl-Billot,Switzerland~Flex,https://data.opentransportdata.swiss/en/dataset/gtfsflex/permalink,f-u0-switzerland~flex,https://opentransportdata.swiss/en/terms-of-use/,active
+FR,Fayl-Billot,switzerland rt,https://api.opentransportdata.swiss/la/gtfs-rt,rt-tr-f-u0-switzerland~rt,,active
+FR,Fayl-Billot,switzerland rt alerts,https://api.opentransportdata.swiss/la/gtfs-sa,rt-al-f-u0-switzerland~rt~alerts,,active
 FR,Fecamp,SNCF TER — Fecamp,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-105c840029,,active
 FR,Fegersheim,SNCF TER — Fegersheim,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-a1aaf5969e,,active
 FR,Felines,SNCF TER — Felines,https://eu.ftp.opendatasoft.com/sncf/gtfs/export-ter-gtfs-last.zip,fr-city-b301ea849b,,active
@@ -16018,6 +16021,7 @@ FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gt
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261007-040021/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261007-233146/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261008-040046/gtfs.zip,tdg-83756,lov2,active
+FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261009-040050/gtfs.zip,tdg-83756,lov2,active
 FR,national,Cbus~Chateaubriant~Fr,https://www.data.gouv.fr/api/1/datasets/r/2234503f-83b0-46fc-8cb7-ad09050c6b5a,f-cbus~chateaubriant~fr,https://transport.data.gouv.fr/datasets/cbus-5,active
 FR,national,Colette~Les~Saisies~Fr,https://www.data.gouv.fr/api/1/datasets/r/089cbb8d-6ed6-4e9b-b017-fbb657925bd3,f-colette~les~saisies~fr,etalab-2.0,active
 FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina/20260707-092242/a-berlina.zip,tdg-82995,lov2,active
@@ -24463,6 +24467,7 @@ NL,national,Miljoenenlijn,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-e757abc830,
 NL,national,NMBS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-cb38fbefc0,CC0,active
 NL,national,NS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-53c8d15a17,CC0,active
 NL,national,NS International,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-e1d00c584b,CC0,active
+NL,national,Nl,https://gtfs.ovapi.nl/gtfs-nl.zip,f-u-nl,https://gtfs.ovapi.nl/README,active
 NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/tripUpdates.pb,rt-nat-nl-tr,,active
 NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/vehiclePositions.pb,rt-nat-nl-ve,,active
 NL,national,Openbaar Vervoer Collectie Nederland,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-43baf05a03,CC0,active
@@ -28675,6 +28680,8 @@ XX,national,nice rt,http://nicebus.com/downloads/gtfs/NYC_NICE.proto,rt-al-f-nic
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_alert?acl:consumerKey=,rt-al-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_trip_update?acl:consumerKey=,rt-tr-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_vehicle?acl:consumerKey=,rt-ve-f-nishitokyobus~ntbus~jp~rt,,active
+XX,national,nl rt,https://gtfs.ovapi.nl/nl/alerts.pb,rt-al-f-u-nl~rt,,active
+XX,national,nl trains rt,https://gtfs.ovapi.nl/nl/trainUpdates.pb,rt-tr-f-u-nl~trains~rt,,active
 XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/alert?format=protobuf,rt-al-f-u-nmbs~sncb~rt-2,,active
 XX,national,nmbs sncb rt,https://api-management-opendata-production.azure-api.net/api/gtfs/feed/nmbssncb/rt/trip-update?format=protobuf,rt-tr-f-u-nmbs~sncb~rt-2,,active
 XX,national,northcountrytransitdistrict rt,https://api.goswift.ly/real-time/nctd/gtfs-rt-trip-updates,rt-tr-f-northcountrytransitdistrict~rt,,active

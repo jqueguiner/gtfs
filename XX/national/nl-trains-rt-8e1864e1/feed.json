@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nl trains rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.ovapi.nl/nl/trainUpdates.pb",
+    "mdb_id": "rt-tr-f-u-nl~trains~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
