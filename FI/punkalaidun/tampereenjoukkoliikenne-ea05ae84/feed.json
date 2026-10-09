@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tampereenjoukkoliikenne",
+    "country": "FI",
+    "subdivision": "Pirkanmaa",
+    "city": "Punkalaidun"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.itsfactory.fi/journeys/files/gtfs/latest/gtfs_tampere.zip",
+    "mdb_id": "f-udb-tampereenjoukkoliikenne",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
