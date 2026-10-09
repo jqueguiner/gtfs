@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ひたちなか市",
+    "country": "JP",
+    "subdivision": "Ibaraki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hitachinakacity/feeds/Hitachinaka-smileaozorabus/files/feed.zip",
+    "mdb_id": "jp-hitachinakacity-hitachinaka-smileaozorabus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
