@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geldersheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Geldersheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-70d69c0773",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

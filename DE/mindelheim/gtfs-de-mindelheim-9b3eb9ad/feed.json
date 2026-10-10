@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Mindelheim",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Mindelheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-477fd93dd1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

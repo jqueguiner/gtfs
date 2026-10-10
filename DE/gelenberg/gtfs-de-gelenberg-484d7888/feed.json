@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gelenberg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gelenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ed5fba8d1f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

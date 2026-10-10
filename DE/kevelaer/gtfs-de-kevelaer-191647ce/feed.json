@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kevelaer",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Kevelaer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cedb4eeb52",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geisa",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Geisa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ae240c203b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

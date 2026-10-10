@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oppenheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oppenheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-9aabdf3c7d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hirzenhain",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Hirzenhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-de974c8f4d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
