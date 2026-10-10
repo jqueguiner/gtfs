@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Tdx~Tw",
+    "country": "TW",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://gtfs-source-feeds.transit.land/taiwan-tdx.zip",
+    "mdb_id": "f-tdx~tw",
+    "license": "https://tdx.transportdata.tw/term"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
