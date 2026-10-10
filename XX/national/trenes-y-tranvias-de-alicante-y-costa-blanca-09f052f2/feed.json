@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trenes~Y~Tranvías~De~Alicante~Y~Costa~Blanca",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1167.zip",
+    "mdb_id": "f-trenes~y~tranvías~de~alicante~y~costa~blanca",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Sarbus~La~Vallesana",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1581.zip",
+    "mdb_id": "f-autobuses~sarbus~la~vallesana",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

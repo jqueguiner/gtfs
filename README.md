@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**29206 feeds · 19831 cities · 117 countries** · updated automatically.
+**29383 feeds · 19833 cities · 117 countries** · updated automatically.
 
 ## Layout
 ```
@@ -16,21 +16,21 @@ Every public-transport operator we can find, organised **country → city → op
 | Country | Feeds | Cities | Operators |
 |---|--:|--:|--:|
 | 🇫🇷 France | 3800 | 2937 | 3060 |
-| 🇺🇸 United States | 2423 | 1016 | 2400 |
+| 🇺🇸 United States | 2429 | 1016 | 2400 |
 | 🇩🇪 Germany | 7358 | 6816 | 7358 |
 | 🇬🇧 United Kingdom | 4047 | 3379 | 4047 |
 | 🇯🇵 Japan | 2375 | 602 | 2375 |
 | 🇨🇭 Switzerland | 1827 | 1351 | 1827 |
 | 🇨🇿 Czechia | 1410 | 1252 | 1410 |
-| 🇽🇽 XX | 1244 | 1 | 1240 |
+| 🇽🇽 XX | 1396 | 1 | 1384 |
 | 🇳🇱 Netherlands | 733 | 672 | 733 |
-| 🇮🇳 India | 364 | 71 | 364 |
+| 🇮🇳 India | 365 | 71 | 364 |
 | 🇩🇰 Denmark | 360 | 334 | 360 |
 | 🇨🇦 Canada | 327 | 152 | 326 |
 | 🇦🇹 Austria | 319 | 15 | 32 |
 | 🇸🇻 SV | 295 | 1 | 295 |
+| 🇪🇸 Spain | 243 | 112 | 236 |
 | 🇮🇹 Italy | 233 | 125 | 233 |
-| 🇪🇸 Spain | 229 | 110 | 229 |
 | 🇵🇱 Poland | 177 | 115 | 176 |
 | 🇱🇺 Luxembourg | 151 | 141 | 146 |
 | 🇧🇷 Brazil | 149 | 81 | 149 |
@@ -54,17 +54,17 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇳🇿 New Zealand | 22 | 11 | 22 |
 | 🇨🇳 CN | 22 | 13 | 22 |
 | 🇸🇮 Slovenia | 20 | 17 | 20 |
-| 🇹🇼 Taiwan | 19 | 12 | 19 |
+| 🇹🇼 Taiwan | 20 | 12 | 19 |
 | 🇲🇾 Malaysia | 16 | 15 | 16 |
 | 🇷🇸 Serbia | 16 | 11 | 16 |
 | 🇨🇾 Cyprus | 15 | 11 | 15 |
-| 🇵🇭 Philippines | 14 | 7 | 14 |
+| 🇵🇭 Philippines | 15 | 7 | 14 |
 | 🇮🇩 Indonesia | 12 | 5 | 12 |
 | 🇨🇴 CO | 11 | 5 | 9 |
 | 🇭🇰 Hong Kong | 11 | 1 | 11 |
+| 🇸🇬 Singapore | 10 | 3 | 8 |
 | 🇬🇷 Greece | 9 | 5 | 9 |
 | 🇧🇬 Bulgaria | 8 | 5 | 8 |
-| 🇸🇬 Singapore | 8 | 3 | 8 |
 | 🇵🇪 PE | 7 | 5 | 7 |
 | 🇲🇽 Mexico | 7 | 5 | 6 |
 | 🇪🇬 EG | 7 | 4 | 7 |

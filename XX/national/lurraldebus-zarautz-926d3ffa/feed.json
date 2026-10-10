@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus~Zarautz",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1237.zip",
+    "mdb_id": "f-lurraldebus~zarautz",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

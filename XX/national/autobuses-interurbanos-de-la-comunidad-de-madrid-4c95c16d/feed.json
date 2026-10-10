@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Interurbanos~De~La~Comunidad~De~Madrid",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1361.zip",
+    "mdb_id": "f-autobuses~interurbanos~de~la~comunidad~de~madrid",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

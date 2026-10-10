@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Emt~Tarragona",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1694.zip",
+    "mdb_id": "f-emt~tarragona",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

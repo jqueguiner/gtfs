@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus~Tolosaldea",
+    "country": "ES",
+    "subdivision": "Basque Country",
+    "city": "Leioa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1235.zip",
+    "mdb_id": "f-ezty-lurraldebus~tolosaldea",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

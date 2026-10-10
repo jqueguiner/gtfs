@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Dbus",
+    "country": "ES",
+    "subdivision": "Basque Country",
+    "city": "Pasaia"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1196.zip",
+    "mdb_id": "f-ezww-dbus",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

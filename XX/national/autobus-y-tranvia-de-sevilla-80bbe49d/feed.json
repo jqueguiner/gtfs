@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Y~Tranvía~De~Sevilla",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1567.zip",
+    "mdb_id": "f-autobús~y~tranvía~de~sevilla",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

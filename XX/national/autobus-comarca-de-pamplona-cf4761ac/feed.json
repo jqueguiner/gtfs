@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Comarca~De~Pamplona",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1177.zip",
+    "mdb_id": "f-autobús~comarca~de~pamplona",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

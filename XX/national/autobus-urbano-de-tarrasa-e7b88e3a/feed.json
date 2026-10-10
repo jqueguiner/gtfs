@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Urbano~De~Tarrasa",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1175.zip",
+    "mdb_id": "f-autobús~urbano~de~tarrasa",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

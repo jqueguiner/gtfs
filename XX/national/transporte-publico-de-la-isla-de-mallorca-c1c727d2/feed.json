@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Transporte~Público~De~La~Isla~De~Mallorca",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1272.zip",
+    "mdb_id": "f-transporte~público~de~la~isla~de~mallorca",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

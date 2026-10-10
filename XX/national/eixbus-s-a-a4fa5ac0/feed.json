@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Eixbus~S~A",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1969.zip",
+    "mdb_id": "f-eixbus~s~a",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

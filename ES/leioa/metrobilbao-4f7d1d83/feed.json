@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Metrobilbao",
+    "country": "ES",
+    "subdivision": "Basque Country",
+    "city": "Leioa"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1267.zip",
+    "mdb_id": "f-ezty-metrobilbao",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobús~Interurbano~Comunidad~Valenciana",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1526.zip",
+    "mdb_id": "f-autobús~interurbano~comunidad~valenciana",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

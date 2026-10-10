@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Y~Trenes~En~Cataluña~Versión~Completa",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-2060.zip",
+    "mdb_id": "f-autobuses~y~trenes~en~cataluña~versión~completa",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

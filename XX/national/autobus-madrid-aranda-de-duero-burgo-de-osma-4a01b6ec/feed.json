@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobus~Madrid~Aranda~De~Duero~Burgo~De~Osma",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1561.zip",
+    "mdb_id": "f-autobus~madrid~aranda~de~duero~burgo~de~osma",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

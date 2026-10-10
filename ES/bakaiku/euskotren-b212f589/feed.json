@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Euskotren",
+    "country": "ES",
+    "subdivision": "Navarre",
+    "city": "Bakaiku"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1263.zip",
+    "mdb_id": "f-ezw-euskotren",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

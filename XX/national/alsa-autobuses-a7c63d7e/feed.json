@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Alsa~Autobuses",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1133.zip",
+    "mdb_id": "f-alsa~autobuses",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

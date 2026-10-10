@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~Xunta~De~Galicia",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1584.zip",
+    "mdb_id": "f-autobuses~xunta~de~galicia",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

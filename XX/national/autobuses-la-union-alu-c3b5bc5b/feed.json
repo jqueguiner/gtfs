@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Autobuses~La~Unión~Alu",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1266.zip",
+    "mdb_id": "f-autobuses~la~unión~alu",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

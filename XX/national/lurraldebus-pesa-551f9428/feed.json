@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lurraldebus~Pesa",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1233.zip",
+    "mdb_id": "f-lurraldebus~pesa",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

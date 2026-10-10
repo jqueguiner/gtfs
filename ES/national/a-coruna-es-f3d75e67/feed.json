@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "A~Coruna~Es",
+    "country": "ES",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/es-nap-1574.zip",
+    "mdb_id": "f-a~coruna~es",
+    "license": "https://nap.transportes.gob.es/licencia-datos"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
