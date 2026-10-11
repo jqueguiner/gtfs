@@ -2,7 +2,7 @@
 
 Every public-transport operator we can find, organised **country → city → operator**, each with a `feed.json` (GTFS URL + license + bbox). Scraped from open catalogs + agency/gov sites, LLM-normalized when the source isn't already GTFS. Priority: 🇫🇷 France, 🇺🇸 USA.
 
-**29421 feeds · 19865 cities · 117 countries** · updated automatically.
+**29423 feeds · 19865 cities · 117 countries** · updated automatically.
 
 ## Layout
 ```
@@ -27,7 +27,7 @@ Every public-transport operator we can find, organised **country → city → op
 | 🇮🇳 India | 365 | 71 | 364 |
 | 🇩🇰 Denmark | 360 | 334 | 360 |
 | 🇨🇦 Canada | 327 | 152 | 326 |
-| 🇦🇹 Austria | 319 | 15 | 32 |
+| 🇦🇹 Austria | 321 | 15 | 32 |
 | 🇸🇻 SV | 295 | 1 | 295 |
 | 🇪🇸 Spain | 243 | 112 | 236 |
 | 🇮🇹 Italy | 234 | 125 | 234 |
