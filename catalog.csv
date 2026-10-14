@@ -23486,6 +23486,8 @@ JP,national,東海汽船株式会社,https://api.odpt.org/api/v4/files/odpt/Toka
 JP,national,松江市交通局,https://api.odpt.org/api/v4/files/odpt/MatsueCityTrafficOffice/AllLines.zip?date=current,f-matsuecitytrafficoffice~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,株式会社上信観光バス,https://api.odpt.org/api/v4/files/odpt/JoshinKankoBus/AllLines.zip?date=current,f-joshinkankobus~alllines~jp,CC-BY-4.0,active
 JP,national,株式会社名門大洋フェリー,https://api.odpt.org/api/v4/files/odpt/MeimonTaiyoFerry/AllLines.zip?date=current,f-meimontaiyoferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,株式会社四万十交通,https://api.odpt.org/api/v4/files/odpt/ShimantoKotsu/Feederbus.zip?date=current,f-shimantokotsu~feederbus~jp,CC-BY-4.0,active
+JP,national,株式会社四万十交通,https://api.odpt.org/api/v4/files/odpt/ShimantoKotsu/Localbus.zip?date=current,f-shimantokotsu~localbus~jp,CC-BY-4.0,active
 JP,national,株式会社群馬バス,https://api.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current,f-gunmabus~alllines~jp,CC-BY-4.0,active
 JP,national,桐生市~おりひめバス,https://www.city.kiryu.lg.jp/_res/common/opendata/1014528/20230320_kiryu_gtfs.zip,f-桐生市~おりひめバス,CC-BY-4.0,active
 JP,national,横浜市交通局,https://api.odpt.org/api/v4/files/odpt/YokohamaMunicipal/Bus.zip?date=current,f-yokohamamunicipal~bus~jp,https://developer.odpt.org/terms/data_basic_license.html,active
@@ -23531,6 +23533,11 @@ JP,national,階上町コミュニティバス~1,https://opendata.pref.aomori.lg.
 JP,national,青森市,https://api.odpt.org/api/v4/files/odpt/UrbanDevelopment_AomoriCity/AllLines.zip?date=current,f-urbandevelopment~aomoricity~alllines~jp,CC-BY-4.0,active
 JP,national,高崎市,https://api.odpt.org/api/v4/files/odpt/TakasakiCity/yosiibus.zip?date=current,f-takasakicity~yosiibus~jp,CC-BY-4.0,active
 JP,national,高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,https://www.city.takasaki.gunma.jp/docs/2020060400037/files/bus-takasaki-gunma-jp_20230414.zip,f-高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,CC-BY-4.0,active
+JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip?date=current,f-kochiseinantraffic~express~jp,CC-BY-4.0,active
+JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Localbus.zip?date=current,f-kochiseinantraffic~localbus~jp,CC-BY-4.0,active
+JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Loopbus.zip?date=current,f-kochiseinantraffic~loopbus~jp,CC-BY-4.0,active
+JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Riverbus.zip?date=current,f-kochiseinantraffic~riverbus~jp,CC-BY-4.0,active
+JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Shimaashibus.zip?date=current,f-kochiseinantraffic~shimaashibus~jp,CC-BY-4.0,active
 JP,national,高知観光コンベンション協会~My遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-Yubus.zip,f-高知観光コンベンション協会~my遊バス,CC-BY-4.0,active
 JP,national,鶴岡市~羽黒地域市営バス朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs_1.zip,f-鶴岡市~羽黒地域市営バス朝日地域市営バス,CC-BY-4.0,active
 JP,national,鹿児島市船舶局,https://api.odpt.org/api/v4/files/odpt/KagoshimaCityMaritimeBureau/AllLines.zip?date=current,f-kagoshimacitymaritimebureau~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
@@ -28226,6 +28233,7 @@ XX,national,Metro~De~Sevilla,https://gtfs-source-feeds.transit.land/es-nap-1583.
 XX,national,Metro~De~Valencia,https://gtfs-source-feeds.transit.land/es-nap-1168.zip,f-metro~de~valencia,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Metro~Malaga,https://gtfs-source-feeds.transit.land/es-nap-1497.zip,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-iidacity-3/files/feed.zip?uid=7721b837-c0ca-45dc-820a-470e0cee4582,f-minamishinshu~minamishinshu~iidacity~3,CC-BY-4.0,active
+XX,national,Montferri,https://gtfs-source-feeds.transit.land/es-nap-2556.zip,f-montferri,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Naganocity~Noriai,https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/noriai/files/feed.zip?uid=ea37c6fb-f2e7-48fb-a31b-3814c7a18f5c,f-naganocity~noriai,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Newark~Airtrain~Nj,https://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
@@ -28301,6 +28309,7 @@ XX,national,Tranvía~Metropolitano~Barcelona,https://gtfs-source-feeds.transit.l
 XX,national,Tranvía~Metropolitano~Besós~Barcelona,https://gtfs-source-feeds.transit.land/es-nap-1330.zip,f-tranvía~metropolitano~besós~barcelona,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Trenes~Y~Tranvías~De~Alicante~Y~Costa~Blanca,https://gtfs-source-feeds.transit.land/es-nap-1167.zip,f-trenes~y~tranvías~de~alicante~y~costa~blanca,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Tricityroadrunner~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/tricityroadrunner-ne-us/tricityroadrunner-ne-us--flex-v2.zip,f-tricityroadrunner~ne~us~flex,,active
+XX,national,Trufi~Cochabamba~Bolivia,https://github.com/trufi-association/trufi-gtfs-builder/raw/refs/heads/main/examples/Bolivia-Cochabamba/out/cochabamba.gtfs.zip,f-trufi~cochabamba~bolivia,ODbL-1.0,active
 XX,national,Tubasa~Transportes~Urbanos~De~Badajoz,https://gtfs-source-feeds.transit.land/es-nap-2459.zip,f-tubasa~transportes~urbanos~de~badajoz,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Turlock~Transit~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/TurlockTransitDialARideFlex.zip,f-turlock~transit~dial~a~ride~flex,,active
 XX,national,Uk~Rail,http://gtfs-source-feeds.transit.land/uk-rail.zip,f-uk~rail,,active
@@ -28794,6 +28803,9 @@ XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utili
 XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-kingsarearuraltransit~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_trip_update,rt-tr-f-kiyosecity~kiyobus~jp~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_vehicle,rt-ve-f-kiyosecity~kiyobus~jp~rt,,active
+XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_alert,rt-al-f-kochiseinantraffic~localbus~jp~rt,,active
+XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_trip_update,rt-tr-f-kochiseinantraffic~localbus~jp~rt,,active
+XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_vehicle,rt-ve-f-kochiseinantraffic~localbus~jp~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-kootenai~citylink~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-kootenai~citylink~rt,,active
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-kootenai~citylink~rt,,active

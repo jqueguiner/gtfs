@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trufi~Cochabamba~Bolivia",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://github.com/trufi-association/trufi-gtfs-builder/raw/refs/heads/main/examples/Bolivia-Cochabamba/out/cochabamba.gtfs.zip",
+    "mdb_id": "f-trufi~cochabamba~bolivia",
+    "license": "ODbL-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

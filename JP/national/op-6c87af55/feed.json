@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社四万十交通",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/files/odpt/ShimantoKotsu/Feederbus.zip?date=current",
+    "mdb_id": "f-shimantokotsu~feederbus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
