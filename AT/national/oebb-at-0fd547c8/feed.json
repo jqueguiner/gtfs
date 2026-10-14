@@ -7,9 +7,9 @@
   },
   "feed": {
     "format": "gtfs",
-    "url": "https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip",
+    "url": "https://gtfs-source-feeds.transit.land/at-mvo-66.zip",
     "mdb_id": "f-oebb~at",
-    "license": "CC-BY-4.0"
+    "license": "https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use"
   },
   "bbox": null,
   "source": "transitland-atlas",

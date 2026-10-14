@@ -327,11 +327,20 @@ AT,Vienna,Wiener Linien,https://www.wienerlinien.at/ogd_realtime/monitor?rbl=411
 AT,Villach,Optima Express,https://github.com/jonaes/gtfs/raw/refs/heads/main/output/optima_gtfs.zip,mdb-3123,,active
 AT,Vorarlberg (Bregenz/Feldkirch/Dornbirn),Verkehrsverbund Vorarlberg (VMOBIL) — Landbus network + ÖBB-Postbus,https://mobilitaetsdaten.gv.at/sites/default/files/metadataset/sample_data/20260703-0010_gtfs_flex_vmobil_2026.zip,at-eutail-verkehrsverbund-vorarlberg-vmo,Datenlizenz Mobilitätsverbünde Österreich (free/open),active
 AT,Wels,BBS Schapfl,https://www.nvbw.de/fileadmin/user_upload/service/open_data/fahrplandaten_mit_liniennetz/ding.zip,mdb-770,https://www.nvbw.de/open-data/fahrplandaten/fahrplandaten-mit-liniennetz,active
+AT,national,Kaerntnerlinien~At,https://gtfs-source-feeds.transit.land/at-mvo-55.zip,f-kaerntnerlinien~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Linzag~At,https://gtfs-source-feeds.transit.land/at-mvo-69.zip,f-linzag~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Oebb~At,https://gtfs-source-feeds.transit.land/at-mvo-66.zip,f-oebb~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
 AT,national,Oebb~At,https://static.web.oebb.at/open-data/soll-fahrplan-gtfs/GTFS_OP_2025_obb.zip,f-oebb~at,CC-BY-4.0,active
+AT,national,Ooevv~At,https://gtfs-source-feeds.transit.land/at-mvo-56.zip,f-ooevv~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Salzburgverkehr~At,https://gtfs-source-feeds.transit.land/at-mvo-54.zip,f-salzburgverkehr~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
 AT,national,U3W4~Morag,https://files.girlc.at/gtfs/morag.zip,f-u3w4~morag,CC0-1.0,active
 AT,national,U3W~Orneta,https://files.girlc.at/gtfs/orneta.zip,f-u3w~orneta,CC0-1.0,active
 AT,national,U3W~Piecki,https://files.girlc.at/gtfs/piecki.zip,f-u3w~piecki,CC0-1.0,active
 AT,national,U3W~Powiat~Olsztynski,https://files.girlc.at/gtfs/powiat_olsztynski.zip,f-u3w~powiat~olsztynski,CC0-1.0,active
+AT,national,Verbundlinie~At,https://gtfs-source-feeds.transit.land/at-mvo-53.zip,f-verbundlinie~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Vmobil~At,https://gtfs-source-feeds.transit.land/at-mvo-58.zip,f-vmobil~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Vor~At,https://gtfs-source-feeds.transit.land/at-mvo-52.zip,f-vor~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
+AT,national,Vvt~At,https://gtfs-source-feeds.transit.land/at-mvo-57.zip,f-vvt~at,https://mobilitaetsverbuende.atlassian.net/wiki/spaces/DBP/pages/185237505/Terms+of+Use,active
 AT,national,ÖBB-Personenverkehr / EVU (nationwide rail),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27321/file,at-gtfs-evu-2026,Data License Mobilitätsverbünde Österreich,active
 AT,national,ÖBB-Personenverkehr / EVU (nationwide rail),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27509/file,at-gtfs-evu-2026,Data License Mobilitätsverbünde Österreich,active
 AT,national,ÖBB-Personenverkehr / EVU (nationwide rail),https://data.mobilitaetsverbuende.at/api/public/v1/data-sets/versions/27640/file,at-gtfs-evu-2026,Data License Mobilitätsverbünde Österreich,active
@@ -16121,6 +16130,7 @@ FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gt
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261011-040012/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261012-040023/gtfs.zip,tdg-83756,lov2,active
 FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261013-040035/gtfs.zip,tdg-83756,lov2,active
+FR,national,COMPAGNIE AUTOBUS DE MONACO,https://static.data.gouv.fr/resources/gtfs-3/20261014-040047/gtfs.zip,tdg-83756,lov2,active
 FR,national,Cbus~Chateaubriant~Fr,https://www.data.gouv.fr/api/1/datasets/r/2234503f-83b0-46fc-8cb7-ad09050c6b5a,f-cbus~chateaubriant~fr,https://transport.data.gouv.fr/datasets/cbus-5,active
 FR,national,Colette~Les~Saisies~Fr,https://www.data.gouv.fr/api/1/datasets/r/089cbb8d-6ed6-4e9b-b017-fbb657925bd3,f-colette~les~saisies~fr,etalab-2.0,active
 FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina/20260707-092242/a-berlina.zip,tdg-82995,lov2,active
@@ -16185,6 +16195,7 @@ FR,national,Rezo~Seau~Dugrandverdun~Fr,https://transport.data.gouv.fr/resources/
 FR,national,Rhdf59P3B~Seau~Arc~Fr,https://transport.data.gouv.fr/resources/83396/download,f-rhdf59p3b~seau~arc~fr,ODbL-1.0,active
 FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=ALLIER&dataFormat=GTFS&dataProfil=OPENDATA,tdg-38889,odc-odbl,active
 FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=ARDECHE&dataFormat=GTFS&dataProfil=OPENDATA,tdg-80961,odc-odbl,active
+FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CARS_REGION_73_TOURISME&dataFormat=GTFS&dataProfil=OPENDATA,tdg-84247,odc-odbl,active
 FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CARS_REGION_AIN&dataFormat=GTFS&dataProfil=OPENDATA,tdg-83113,odc-odbl,active
 FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CARS_REGION_LOIRE&dataFormat=GTFS&dataProfil=OPENDATA,tdg-83114,odc-odbl,active
 FR,national,Région Auvergne-Rhône-Alpes,https://api.oura3.cityway.fr/dataflow/offre-tc/download?provider=CAR_REGION_CANTAL&dataFormat=GTFS&dataProfil=OPENDATA,tdg-81245,odc-odbl,active
