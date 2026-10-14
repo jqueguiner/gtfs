@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nipponchuobus maebashi area jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NipponChuoBus_Maebashi_Area_trip_update",
+    "mdb_id": "rt-tr-f-nipponchuobus~maebashi~area~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

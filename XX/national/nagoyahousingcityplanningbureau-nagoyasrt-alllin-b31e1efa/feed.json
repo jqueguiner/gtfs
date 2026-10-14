@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nagoyahousingcityplanningbureau nagoyasrt alllines jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagoyaHousingCityPlanningBureau_NagoyaSRT_AllLines_alert",
+    "mdb_id": "rt-al-f-nagoyahousingcityplanningbureau~nagoyasrt~alllines~j",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

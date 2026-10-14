@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "manyosen manyosen rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-files.buscatch.jp/toyama/manyo_line/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-manyosen~manyosen~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

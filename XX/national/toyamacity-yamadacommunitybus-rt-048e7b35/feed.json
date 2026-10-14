@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "toyamacity yamadacommunitybus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yamada/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-toyamacity~yamadacommunitybus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

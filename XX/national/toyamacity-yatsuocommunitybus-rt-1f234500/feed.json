@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "toyamacity yatsuocommunitybus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yatsuo/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-toyamacity~yatsuocommunitybus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

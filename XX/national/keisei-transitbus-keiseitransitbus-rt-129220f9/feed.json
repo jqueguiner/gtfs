@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keisei transitbus keiseitransitbus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3-ajt-mobusta-gtfs.s3.ap-northeast-1.amazonaws.com/realtime/35/trip_updates.bin",
+    "mdb_id": "rt-tr-f-keisei~transitbus~keiseitransitbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

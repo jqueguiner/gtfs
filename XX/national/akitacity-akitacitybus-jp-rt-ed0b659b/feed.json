@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "akitacity akitacitybus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkitaCity_AkitaCityBus_trip_update",
+    "mdb_id": "rt-tr-f-akitacity~akitacitybus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

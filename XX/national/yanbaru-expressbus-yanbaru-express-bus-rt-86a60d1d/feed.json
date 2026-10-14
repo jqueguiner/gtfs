@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yanbaru expressbus yanbaru express bus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.yanbaru-bus-navi.com/gtfs-rt/yanbaru/vehicle_position.pb",
+    "mdb_id": "rt-ve-f-yanbaru~expressbus~yanbaru~express~bus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "tsuchiuracity tsuchimarubus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://realtime.gtfs.info/tsuchiura/trip_update.pb",
+    "mdb_id": "rt-tr-f-tsuchiuracity~tsuchimarubus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

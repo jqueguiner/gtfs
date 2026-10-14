@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "toyamacity maidohayabus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-maidohaya/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-toyamacity~maidohayabus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

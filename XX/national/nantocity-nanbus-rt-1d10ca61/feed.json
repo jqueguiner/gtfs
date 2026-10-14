@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "nantocity nanbus rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-rt-files.buscatch.jp/toyama/nanto-city/TripUpdates.pb",
+    "mdb_id": "rt-tr-f-nantocity~nanbus~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -23454,6 +23454,7 @@ JP,national,姫島村（大分県）,https://api.odpt.org/api/v4/files/odpt/Hime
 JP,national,宇和島運輸株式会社,https://api.odpt.org/api/v4/files/odpt/UwajimaUnyu/AllLines.zip?date=current,f-uwajimaunyu~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,安芸市観光シャトルバス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFS-Aki-Shuttlebus.zip,f-安芸市観光シャトルバス,CC-BY-4.0,active
 JP,national,小田急バス株式会社,https://api.odpt.org/api/v4/files/odpt/OdakyuBus/AIILines.zip?date=current,f-odakyubus~aiilines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
+JP,national,小豆島オリーブバス株式会社,https://api-public.odpt.org/api/v4/files/odpt/ShodoshimaOliveBus/alllines.zip?date=current,f-shodoshimaolivebus~alllines~jp,CC-BY-4.0,active
 JP,national,山形鉄道,https://www.pref.yamagata.jp/documents/20978/flower-liner_gtfs_1.zip,f-山形鉄道,CC-BY-4.0,active
 JP,national,岩国市生活交通バス~由宇地区バス,https://yamaguchi-opendata.jp/ckan/dataset/2dbaeb43-5134-4880-90a3-62870504f1d3/resource/31d5dd9c-113c-4fc5-bfa6-31d832f830fc/download/352080_gtfs-jp.zip,f-岩国市生活交通バス~由宇地区バス,CC-BY-4.0,active
 JP,national,川崎市交通局,https://api.odpt.org/api/v4/files/odpt/TransportationBureau_CityOfKawasaki/AllLines.zip?date=current,f-transportationbureau~cityofkawasaki~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
@@ -28349,8 +28350,12 @@ XX,national,agglobus cavem fr rt,https://api.pysae.com/api/v4/groups/agglobus-ca
 XX,national,agglobus guyane rt,https://cacl.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/CACL-1823-7594-1349/bin,rt-tr-f-agglobus~guyane~rt,,active
 XX,national,agglobus guyane rt,https://cacl.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/CACL-1823-7594-1349/bin,rt-ve-f-agglobus~guyane~rt,,active
 XX,national,agglopaysdissoire seau cherpa fr rt,https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=agglopaysdissoire,rt-al-f-agglopaysdissoire~seau~cherpa~fr~rt,,active
+XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_trip_update,rt-tr-f-akihabusservice~alllines~jp~rt-2,,active
 XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_trip_update?acl:consumerKey=,rt-tr-f-akihabusservice~alllines~jp~rt,,active
+XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_vehicle,rt-ve-f-akihabusservice~alllines~jp~rt-2,,active
 XX,national,akihabusservice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkihaBusService_AllLines_vehicle?acl:consumerKey=,rt-ve-f-akihabusservice~alllines~jp~rt,,active
+XX,national,akitacity akitacitybus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkitaCity_AkitaCityBus_trip_update,rt-tr-f-akitacity~akitacitybus~jp~rt,,active
+XX,national,akitacity akitacitybus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_AkitaCity_AkitaCityBus_vehicle,rt-ve-f-akitacity~akitacitybus~jp~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=Alert,rt-al-f-akronmetro~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=TripUpdate,rt-tr-f-akronmetro~rt,,active
 XX,national,akronmetro rt,https://realtimemetro.availtec.com/infopoint/GTFS-Realtime.ashx?&Type=VehiclePosition&serverid=0,rt-ve-f-akronmetro~rt,,active
@@ -28368,6 +28373,9 @@ XX,national,ametis amiens fr rt,https://proxy.transport.data.gouv.fr/resource/am
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-antelope~valley~transit~authority~rt,,active
 XX,national,antelope valley transit authority rt,https://track-it.avta.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-antelope~valley~transit~authority~rt,,active
+XX,national,aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_AomoriCity_AllLines_alert,rt-al-f-aomoricity~alllines~jp~rt,,active
+XX,national,aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_AomoriCity_AllLines_trip_update,rt-tr-f-aomoricity~alllines~jp~rt,,active
+XX,national,aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_AomoriCity_AllLines_vehicle,rt-ve-f-aomoricity~alllines~jp~rt,,active
 XX,national,apple country public transit nc us rt,https://applecountry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-apple~country~public~transit~nc~us~rt,,active
 XX,national,apple country public transit nc us rt,https://applecountry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-apple~country~public~transit~nc~us~rt,,active
 XX,national,apple country public transit nc us rt,https://applecountry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-apple~country~public~transit~nc~us~rt,,active
@@ -28517,6 +28525,10 @@ XX,national,chemung c tran rt,https://passio3.com/chemung/passioTransit/gtfs/rea
 XX,national,chitacity chita aiaibus rt,https://realtime.gtfs.info/chita/alert.pb,rt-al-f-chitacity~chita~aiaibus~rt,,active
 XX,national,chitacity chita aiaibus rt,https://realtime.gtfs.info/chita/trip_update.pb,rt-tr-f-chitacity~chita~aiaibus~rt,,active
 XX,national,chitacity chita aiaibus rt,https://realtime.gtfs.info/chita/vehicle.pb,rt-ve-f-chitacity~chita~aiaibus~rt,,active
+XX,national,chitetsu chitetsubus rt,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/TripUpdates.pb,rt-tr-f-chitetsu~chitetsubus~rt,,active
+XX,national,chitetsu chitetsubus rt,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu/VehiclePositions.pb,rt-ve-f-chitetsu~chitetsubus~rt,,active
+XX,national,chitetsu chitetsushinaidensha rt,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu_tram/TripUpdates.pb,rt-tr-f-chitetsu~chitetsushinaidensha~rt,,active
+XX,national,chitetsu chitetsushinaidensha rt,https://gtfs-rt-files.buscatch.jp/toyama/chitetsu_tram/VehiclePositions.pb,rt-ve-f-chitetsu~chitetsushinaidensha~rt,,active
 XX,national,chittendoncounty rt,https://api.goswift.ly/real-time/green-mountain/gtfs-rt-trip-updates,rt-tr-f-chittendoncounty~rt,,active
 XX,national,chittendoncounty rt,https://api.goswift.ly/real-time/green-mountain/gtfs-rt-vehicle-positions,rt-ve-f-chittendoncounty~rt,,active
 XX,national,choletbus seau fr rt,https://app.mecatran.com/utw/ws/gtfsfeed/alerts/choletbus?apiKey=0b0f0b6035007b7f1243311973401c294e6a0143,rt-al-f-choletbus~seau~fr~rt,,active
@@ -28696,6 +28708,9 @@ XX,national,guelph rt,https://glphprdtmgtfs.glphtrpcloud.com/tmgtfsrealtimewebse
 XX,national,gunmabus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmaBus_AllLines_alert,rt-al-f-gunmabus~alllines~jp~rt,,active
 XX,national,gunmabus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmaBus_AllLines_trip_update,rt-tr-f-gunmabus~alllines~jp~rt,,active
 XX,national,gunmabus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmaBus_AllLines_vehicle,rt-ve-f-gunmabus~alllines~jp~rt,,active
+XX,national,gunmachuobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmachuoBus_AllLines_alert,rt-al-f-gunmachuobus~alllines~jp~rt,,active
+XX,national,gunmachuobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmachuoBus_AllLines_trip_update,rt-tr-f-gunmachuobus~alllines~jp~rt,,active
+XX,national,gunmachuobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_GunmachuoBus_AllLines_vehicle,rt-ve-f-gunmachuobus~alllines~jp~rt,,active
 XX,national,gunnisonvalleyrta rt,https://api.goswift.ly/real-time/gunnison/gtfs-rt-trip-updates,rt-tr-f-gunnisonvalleyrta~rt,,active
 XX,national,gunnisonvalleyrta rt,https://api.goswift.ly/real-time/gunnison/gtfs-rt-vehicle-positions,rt-ve-f-gunnisonvalleyrta~rt,,active
 XX,national,hakodatecity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_HakodateCity_Alllines_alert,rt-al-f-hakodatecity~alllines~jp~rt,,active
@@ -28719,7 +28734,9 @@ XX,national,hendry co bocc rt,https://passio3.com/hendrycounty/passioTransit/gtf
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-hoboken~nj~rt,,active
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-hoboken~nj~rt,,active
 XX,national,hoboken nj rt,https://passio3.com/hoboken/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-hoboken~nj~rt,,active
+XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update,rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt-2,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_trip_update?acl:consumerKey=,rt-tr-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
+XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_vehicle,rt-ve-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt-2,,active
 XX,national,hokkaidotakushokubus takusyoku regular line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_HokkaidoTakushokuBus_Takusyoku_regular_line_vehicle?acl:consumerKey=,rt-ve-f-hokkaidotakushokubus~takusyoku~regular~line~jp~rt,,active
 XX,national,hoplccdelaplainedestres seau hopl rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=HOPLA&dataFormat=gtfs-rt,rt-tr-f-hoplccdelaplainedestres~seau~hopl~rt,,active
 XX,national,hoplccdelaplainedestres seau hopl rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=HOPLA&dataFormat=gtfs-rt,rt-ve-f-hoplccdelaplainedestres~seau~hopl~rt,,active
@@ -28729,6 +28746,8 @@ XX,national,hubup rivercat rt,https://gtfs-rt.infra-hubup.fr/rivercat/vehicle_po
 XX,national,ibus bernay fr rt,https://zenbus.net/gtfs/rt/poll.proto?src=true&dataset=bernay,rt-tr-f-ibus~bernay~fr~rt,,active
 XX,national,illygo seau fr rt,https://pysae.com/api/v2/groups/illygo/gtfs-rt,rt-al-f-illygo~seau~fr~rt,,active
 XX,national,imagine seau depinal fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-imagine-epinal-gtfs-rt-trip-update,rt-tr-f-imagine~seau~depinal~fr~rt,,active
+XX,national,imizucity imizushi rt,https://gtfs-rt-files.buscatch.jp/toyama/imizu-city/TripUpdates.pb,rt-tr-f-imizucity~imizushi~rt,,active
+XX,national,imizucity imizushi rt,https://gtfs-rt-files.buscatch.jp/toyama/imizu-city/VehiclePositions.pb,rt-ve-f-imizucity~imizushi~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-indiana~county~transit~authority~rt,,active
 XX,national,indiana county transit authority rt,https://indigobus.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-indiana~county~transit~authority~rt,,active
@@ -28747,11 +28766,20 @@ XX,national,iowacitytransitsystem rt,https://iowa.syncromatics.com/gtfs-rt/vehic
 XX,national,irvine ca us rt,https://passio3.com/irvine/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-irvine~ca~us~rt,,active
 XX,national,irvine ca us rt,https://passio3.com/irvine/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-irvine~ca~us~rt,,active
 XX,national,irvine ca us rt,https://passio3.com/irvine/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-irvine~ca~us~rt,,active
+XX,national,isecity communitybus rt,https://bus-vision.jp/realtime/iseshi_alrt_update_v2.bin,rt-al-f-isecity~communitybus~rt,,active
+XX,national,isecity communitybus rt,https://bus-vision.jp/realtime/iseshi_trip_update_v2.bin,rt-tr-f-isecity~communitybus~rt,,active
+XX,national,isecity communitybus rt,https://bus-vision.jp/realtime/iseshi_vpos_update_v2.bin,rt-ve-f-isecity~communitybus~rt,,active
+XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_alert,rt-al-f-iyotetsubus~alllines~jp~rt-2,,active
 XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_alert?acl:consumerKey=,rt-al-f-iyotetsubus~alllines~jp~rt,,active
+XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_trip_update,rt-tr-f-iyotetsubus~alllines~jp~rt-2,,active
 XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-iyotetsubus~alllines~jp~rt,,active
+XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_vehicle,rt-ve-f-iyotetsubus~alllines~jp~rt-2,,active
 XX,national,iyotetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IyotetsuBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-iyotetsubus~alllines~jp~rt,,active
+XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_alert,rt-al-f-izuhakonebus~izhb~jp~rt-2,,active
 XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_alert?acl:consumerKey=,rt-al-f-izuhakonebus~izhb~jp~rt,,active
+XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_trip_update,rt-tr-f-izuhakonebus~izhb~jp~rt-2,,active
 XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_trip_update?acl:consumerKey=,rt-tr-f-izuhakonebus~izhb~jp~rt,,active
+XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_vehicle,rt-ve-f-izuhakonebus~izhb~jp~rt-2,,active
 XX,national,izuhakonebus izhb jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_IzuhakoneBus_IZHB_vehicle?acl:consumerKey=,rt-ve-f-izuhakonebus~izhb~jp~rt,,active
 XX,national,jackson wy us rt,https://gtfsrt.start.cadavl.com/ProfilGtfsRt2_0RSProducer-START/Alert.pb,rt-al-f-jackson~wy~us~rt,,active
 XX,national,jackson wy us rt,https://gtfsrt.start.cadavl.com/ProfilGtfsRt2_0RSProducer-START/TripUpdate.pb,rt-tr-f-jackson~wy~us~rt,,active
@@ -28762,27 +28790,47 @@ XX,national,jefferson parish rt,https://jetapp.jptransit.org/gtfsrt/vehicles,rt-
 XX,national,joshinhire alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinHire_AllLines_alert,rt-al-f-joshinhire~alllines~jp~rt,,active
 XX,national,joshinhire alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinHire_AllLines_trip_update,rt-tr-f-joshinhire~alllines~jp~rt,,active
 XX,national,joshinhire alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinHire_AllLines_vehicle,rt-ve-f-joshinhire~alllines~jp~rt,,active
+XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_alert,rt-al-f-joshinkankobus~alllines~jp~rt,,active
 XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_trip_update,rt-tr-f-joshinkankobus~alllines~jp~rt,,active
 XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_vehicle,rt-ve-f-joshinkankobus~alllines~jp~rt,,active
+XX,national,kaetsunou kaetsunouhimi rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/TripUpdates.pb,rt-tr-f-kaetsunou~kaetsunouhimi~rt,,active
+XX,national,kaetsunou kaetsunouhimi rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/VehiclePositions.pb,rt-ve-f-kaetsunou~kaetsunouhimi~rt,,active
+XX,national,kaetsunou kaetsunouippan rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno/TripUpdates.pb,rt-tr-f-kaetsunou~kaetsunouippan~rt,,active
+XX,national,kaetsunou kaetsunouippan rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno/VehiclePositions.pb,rt-ve-f-kaetsunou~kaetsunouippan~rt,,active
+XX,national,kaetsunou kaetsunousekaiisan rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_sekaiisan/TripUpdates.pb,rt-tr-f-kaetsunou~kaetsunousekaiisan~rt,,active
+XX,national,kaetsunou kaetsunousekaiisan rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_sekaiisan/VehiclePositions.pb,rt-ve-f-kaetsunou~kaetsunousekaiisan~rt,,active
+XX,national,kamiichitown kamiichi rt,https://gtfs-rt-files.buscatch.jp/toyama/kamiichi-town/TripUpdates.pb,rt-tr-f-kamiichitown~kamiichi~rt,,active
+XX,national,kamiichitown kamiichi rt,https://gtfs-rt-files.buscatch.jp/toyama/kamiichi-town/VehiclePositions.pb,rt-ve-f-kamiichitown~kamiichi~rt,,active
 XX,national,kan etsutransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_Kan_etsuTransportation_AllLines_alert,rt-al-f-kan~etsutransportation~alllines~jp~rt,,active
 XX,national,kan etsutransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_Kan_etsuTransportation_AllLines_trip_update,rt-tr-f-kan~etsutransportation~alllines~jp~rt,,active
 XX,national,kan etsutransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_Kan_etsuTransportation_AllLines_vehicle,rt-ve-f-kan~etsutransportation~alllines~jp~rt,,active
 XX,national,kanawha valley regional transportation authority rt,https://gtfsrt.krt.cadavl.com/ProfilGtfsRt2_0RSProducer-KRT/Alert.pb,rt-al-f-kanawha~valley~regional~transportation~authority~rt,,active
 XX,national,kanawha valley regional transportation authority rt,https://gtfsrt.krt.cadavl.com/ProfilGtfsRt2_0RSProducer-KRT/TripUpdate.pb,rt-tr-f-kanawha~valley~regional~transportation~authority~rt,,active
 XX,national,kanawha valley regional transportation authority rt,https://gtfsrt.krt.cadavl.com/ProfilGtfsRt2_0RSProducer-KRT/VehiclePosition.pb,rt-ve-f-kanawha~valley~regional~transportation~authority~rt,,active
+XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_alert,rt-al-f-kantobus~alllines~jp~rt-2,,active
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_alert?acl:consumerKey=,rt-al-f-kantobus~alllines~jp~rt,,active
+XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_trip_update,rt-tr-f-kantobus~alllines~jp~rt-2,,active
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-kantobus~alllines~jp~rt,,active
+XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_vehicle,rt-ve-f-kantobus~alllines~jp~rt-2,,active
 XX,national,kantobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KantoBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-kantobus~alllines~jp~rt,,active
+XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_alert,rt-al-f-kawasakitsurumirinkobus~allrinko~jp~rt-2,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_alert?acl:consumerKey=,rt-al-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
+XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_trip_update,rt-tr-f-kawasakitsurumirinkobus~allrinko~jp~rt-2,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_trip_update?acl:consumerKey=,rt-tr-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
+XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_vehicle,rt-ve-f-kawasakitsurumirinkobus~allrinko~jp~rt-2,,active
 XX,national,kawasakitsurumirinkobus allrinko jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KawasakiTsurumiRinkoBus_allrinko_vehicle?acl:consumerKey=,rt-ve-f-kawasakitsurumirinkobus~allrinko~jp~rt,,active
 XX,national,kcata rt,https://api.goswift.ly/real-time/kcata/gtfs-rt-trip-updates,rt-tr-f-kcata~rt,,active
 XX,national,kcata rt,https://api.goswift.ly/real-time/kcata/gtfs-rt-vehicle-positions,rt-ve-f-kcata~rt,,active
 XX,national,keifukubus keifuku rosen jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeifukuBus_keifuku_rosen_alert,rt-al-f-keifukubus~keifuku~rosen~jp~rt,,active
 XX,national,keifukubus keifuku rosen jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeifukuBus_keifuku_rosen_trip_update,rt-tr-f-keifukubus~keifuku~rosen~jp~rt,,active
 XX,national,keifukubus keifuku rosen jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeifukuBus_keifuku_rosen_vehicle,rt-ve-f-keifukubus~keifuku~rosen~jp~rt,,active
+XX,national,keiobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KeioBus_AllLines_trip_update,rt-tr-f-keiobus~alllines~jp~rt-2,,active
 XX,national,keiobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KeioBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-keiobus~alllines~jp~rt,,active
+XX,national,keiobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KeioBus_AllLines_vehicle,rt-ve-f-keiobus~alllines~jp~rt-2,,active
 XX,national,keiobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KeioBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-keiobus~alllines~jp~rt,,active
+XX,national,keisei transitbus keiseitransitbus rt,https://s3-ajt-mobusta-gtfs.s3.ap-northeast-1.amazonaws.com/realtime/35/alerts.bin,rt-al-f-keisei~transitbus~keiseitransitbus~rt,,active
+XX,national,keisei transitbus keiseitransitbus rt,https://s3-ajt-mobusta-gtfs.s3.ap-northeast-1.amazonaws.com/realtime/35/trip_updates.bin,rt-tr-f-keisei~transitbus~keiseitransitbus~rt,,active
+XX,national,keisei transitbus keiseitransitbus rt,https://s3-ajt-mobusta-gtfs.s3.ap-northeast-1.amazonaws.com/realtime/35/vehicle_position.bin,rt-ve-f-keisei~transitbus~keiseitransitbus~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_alert,rt-al-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_trip_update,rt-tr-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,rt-ve-f-keiseitransitbus~alllines~jp~rt,,active
@@ -28811,11 +28859,17 @@ XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs
 XX,national,kootenai citylink rt,https://passio3.com/kootenai/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-kootenai~citylink~rt,,active
 XX,national,ktmb rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/ktmb,rt-ve-f-ktmb~rt,,active
 XX,national,kumagayacity yuuyuubus rt,http://kumagaya.bus-go.com/GTFS-RT/encode_vehicle.php,rt-ve-f-kumagayacity~yuuyuubus~rt,,active
+XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_alert,rt-al-f-kyotobus~alllines~jp~rt-2,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_alert?acl:consumerKey=,rt-al-f-kyotobus~alllines~jp~rt,,active
+XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_trip_update,rt-tr-f-kyotobus~alllines~jp~rt-2,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_trip_update?acl:consumerKey=,rt-tr-f-kyotobus~alllines~jp~rt,,active
+XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_vehicle,rt-ve-f-kyotobus~alllines~jp~rt-2,,active
 XX,national,kyotobus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLines_vehicle?acl:consumerKey=,rt-ve-f-kyotobus~alllines~jp~rt,,active
+XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_alert,rt-al-f-kyotobus~alllinesanotherversion~jp~rt-2,,active
 XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_alert?acl:consumerKey=,rt-al-f-kyotobus~alllinesanotherversion~jp~rt,,active
+XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_trip_update,rt-tr-f-kyotobus~alllinesanotherversion~jp~rt-2,,active
 XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_trip_update?acl:consumerKey=,rt-tr-f-kyotobus~alllinesanotherversion~jp~rt,,active
+XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_vehicle,rt-ve-f-kyotobus~alllinesanotherversion~jp~rt-2,,active
 XX,national,kyotobus alllinesanotherversion jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_KyotoBus_AllLinesAnotherversion_vehicle?acl:consumerKey=,rt-ve-f-kyotobus~alllinesanotherversion~jp~rt,,active
 XX,national,ladot rt,https://ladotbus.com/gtfs-rt/alerts,rt-al-f-ladot~rt,,active
 XX,national,ladot rt,https://ladotbus.com/gtfs-rt/tripupdates,rt-tr-f-ladot~rt,,active
@@ -28885,7 +28939,12 @@ XX,national,madison county transit il us rt,https://nextmctbus.org/gtfs-rt/vehic
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/alerts.pb,rt-al-f-manteca~transit~rt,,active
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/position_updates.pb,rt-ve-f-manteca~transit~rt,,active
 XX,national,manteca transit rt,https://s3.amazonaws.com/etatransit.gtfs/mantecatransit.etaspot.net/trip_updates.pb,rt-tr-f-manteca~transit~rt,,active
+XX,national,manyosen manyosen rt,https://gtfs-rt-files.buscatch.jp/toyama/manyo_line/TripUpdates.pb,rt-tr-f-manyosen~manyosen~rt,,active
+XX,national,manyosen manyosen rt,https://gtfs-rt-files.buscatch.jp/toyama/manyo_line/VehiclePositions.pb,rt-ve-f-manyosen~manyosen~rt,,active
 XX,national,mat seau fr rt,https://proxy.transport.data.gouv.fr/resource/mat-st-malo-gtfs-rt,rt-ve-f-mat~seau~fr~rt,,active
+XX,national,matsuecitytrafficoffice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_MatsueCityTrafficOffice_AllLines_alert,rt-al-f-matsuecitytrafficoffice~alllines~jp~rt,,active
+XX,national,matsuecitytrafficoffice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_MatsueCityTrafficOffice_AllLines_trip_update,rt-tr-f-matsuecitytrafficoffice~alllines~jp~rt,,active
+XX,national,matsuecitytrafficoffice alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_MatsueCityTrafficOffice_AllLines_vehicle,rt-ve-f-matsuecitytrafficoffice~alllines~jp~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/alerts,rt-al-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/tripupdates,rt-tr-f-maui~county~transit~rt,,active
 XX,national,maui county transit rt,https://mauibus.org/gtfs-rt/vehiclepositions,rt-ve-f-maui~county~transit~rt,,active
@@ -28961,6 +29020,19 @@ XX,national,mybas rapid bus penang rt,https://api.data.gov.my/gtfs-realtime/vehi
 XX,national,mybas rapid rail kl rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/prasarana?category=rapid-rail-kl,rt-ve-f-mybas~rapid~rail~kl~rt,,active
 XX,national,mybas seremban a rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-a,rt-ve-f-mybas~seremban~a~rt,,active
 XX,national,mybas seremban b rt,https://api.data.gov.my/gtfs-realtime/vehicle-position/mybas-seremban-b,rt-ve-f-mybas~seremban~b~rt,,active
+XX,national,nagai unyu nagaibus rt,https://nagai.nolbe.net/buslocation/TripUpdate.pb,rt-tr-f-nagai~unyu~nagaibus~rt,,active
+XX,national,nagai unyu nagaibus rt,https://nagai.nolbe.net/buslocation/VehiclePosition.pb,rt-ve-f-nagai~unyu~nagaibus~rt,,active
+XX,national,nagai unyu nagaibus rt,https://nagai.nolbe.net/buslocation/alert.pb,rt-al-f-nagai~unyu~nagaibus~rt,,active
+XX,national,nagaitransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagaiTransportation_AllLines_alert,rt-al-f-nagaitransportation~alllines~jp~rt,,active
+XX,national,nagaitransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagaiTransportation_AllLines_trip_update,rt-tr-f-nagaitransportation~alllines~jp~rt,,active
+XX,national,nagaitransportation alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagaiTransportation_AllLines_vehicle,rt-ve-f-nagaitransportation~alllines~jp~rt,,active
+XX,national,nagoyahousingcityplanningbureau nagoyasrt alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagoyaHousingCityPlanningBureau_NagoyaSRT_AllLines_alert,rt-al-f-nagoyahousingcityplanningbureau~nagoyasrt~alllines~j,,active
+XX,national,nagoyahousingcityplanningbureau nagoyasrt alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagoyaHousingCityPlanningBureau_NagoyaSRT_AllLines_trip_update,rt-tr-f-nagoyahousingcityplanningbureau~nagoyasrt~alllines~j,,active
+XX,national,nagoyahousingcityplanningbureau nagoyasrt alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NagoyaHousingCityPlanningBureau_NagoyaSRT_AllLines_vehicle,rt-ve-f-nagoyahousingcityplanningbureau~nagoyasrt~alllines~j,,active
+XX,national,namerikawacity norumycar rt,https://gtfs-rt-files.buscatch.jp/toyama/namerikawa-city/TripUpdates.pb,rt-tr-f-namerikawacity~norumycar~rt,,active
+XX,national,namerikawacity norumycar rt,https://gtfs-rt-files.buscatch.jp/toyama/namerikawa-city/VehiclePositions.pb,rt-ve-f-namerikawacity~norumycar~rt,,active
+XX,national,nantocity nanbus rt,https://gtfs-rt-files.buscatch.jp/toyama/nanto-city/TripUpdates.pb,rt-tr-f-nantocity~nanbus~rt,,active
+XX,national,nantocity nanbus rt,https://gtfs-rt-files.buscatch.jp/toyama/nanto-city/VehiclePositions.pb,rt-ve-f-nantocity~nanbus~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/alert/alerts.pb,rt-al-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/tripupdate/tripupdates.pb,rt-tr-f-nashvillemta~rt,,active
 XX,national,nashvillemta rt,http://transitdata.nashvillemta.org/TMGTFSRealTimeWebService/vehicle/vehiclepositions.pb,rt-ve-f-nashvillemta~rt,,active
@@ -28978,8 +29050,14 @@ XX,national,new castle area transit authority rt,https://ncata.rideralerts.com/I
 XX,national,new castle area transit authority rt,https://ncata.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-new~castle~area~transit~authority~rt,,active
 XX,national,new castle area transit authority rt,https://ncata.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-new~castle~area~transit~authority~rt,,active
 XX,national,nice rt,http://nicebus.com/downloads/gtfs/NYC_NICE.proto,rt-al-f-nice~rt,,active
+XX,national,nipponchuobus maebashi area jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NipponChuoBus_Maebashi_Area_alert,rt-al-f-nipponchuobus~maebashi~area~jp~rt,,active
+XX,national,nipponchuobus maebashi area jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NipponChuoBus_Maebashi_Area_trip_update,rt-tr-f-nipponchuobus~maebashi~area~jp~rt,,active
+XX,national,nipponchuobus maebashi area jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_NipponChuoBus_Maebashi_Area_vehicle,rt-ve-f-nipponchuobus~maebashi~area~jp~rt,,active
+XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_alert,rt-al-f-nishitokyobus~ntbus~jp~rt-2,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_alert?acl:consumerKey=,rt-al-f-nishitokyobus~ntbus~jp~rt,,active
+XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_trip_update,rt-tr-f-nishitokyobus~ntbus~jp~rt-2,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_trip_update?acl:consumerKey=,rt-tr-f-nishitokyobus~ntbus~jp~rt,,active
+XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_vehicle,rt-ve-f-nishitokyobus~ntbus~jp~rt-2,,active
 XX,national,nishitokyobus ntbus jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_NishiTokyoBus_NTBus_vehicle?acl:consumerKey=,rt-ve-f-nishitokyobus~ntbus~jp~rt,,active
 XX,national,nl rt,https://gtfs.ovapi.nl/nl/alerts.pb,rt-al-f-u-nl~rt,,active
 XX,national,nl trains rt,https://gtfs.ovapi.nl/nl/trainUpdates.pb,rt-tr-f-u-nl~trains~rt,,active
@@ -28994,12 +29072,16 @@ XX,national,nsw lightrail rt,https://api.transport.nsw.gov.au/v2/gtfs/vehiclepos
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-nycferry~rt,,active
 XX,national,nycferry rt,http://nycferry.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-nycferry~rt,,active
+XX,national,nyuzentown noranmaicar rt,https://gtfs-rt-files.buscatch.jp/toyama/nyuzen_noran/TripUpdates.pb,rt-tr-f-nyuzentown~noranmaicar~rt,,active
+XX,national,nyuzentown noranmaicar rt,https://gtfs-rt-files.buscatch.jp/toyama/nyuzen_noran/VehiclePositions.pb,rt-ve-f-nyuzentown~noranmaicar~rt,,active
 XX,national,ole lunel fr rt,https://ole.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/OLE-2187-9024-3517/bin,rt-tr-f-ole~lunel~fr~rt,,active
 XX,national,ole lunel fr rt,https://ole.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/OLE-2187-9024-3517/bin,rt-ve-f-ole~lunel~fr~rt,,active
 XX,national,orizo grand avignon rt,https://api.maas-fr.cityway.fr/dataflow/horaire-tc-tr/download?provider=ORIZO&dataFormat=gtfs-rt,rt-tr-f-orizo~grand~avignon~rt,,active
 XX,national,orizo grand avignon rt,https://api.maas-fr.cityway.fr/dataflow/vehicule-tc-tr/download?provider=ORIZO&dataFormat=gtfs-rt,rt-ve-f-orizo~grand~avignon~rt-2,,active
 XX,national,owensound on ca rt,https://metrolinx.tmix.se/gtfs-realtime-owensound/alerts.pb,rt-al-f-owensound~on~ca~rt,,active
 XX,national,owensound on ca rt,https://metrolinx.tmix.se/gtfs-realtime-owensound/tripupdates.pb,rt-tr-f-owensound~on~ca~rt,,active
+XX,national,oyabecity oyabecitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/oyabe-city/TripUpdates.pb,rt-tr-f-oyabecity~oyabecitybus~rt,,active
+XX,national,oyabecity oyabecitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/oyabe-city/VehiclePositions.pb,rt-ve-f-oyabecity~oyabecitybus~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-ozark~regional~transit~rt,,active
 XX,national,ozark regional transit rt,https://passio3.com/ozark/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-ozark~regional~transit~rt,,active
@@ -29176,6 +29258,8 @@ XX,national,seneca nation of indians rt,https://passio3.com/senecanation/passioT
 XX,national,seneca nation of indians rt,https://passio3.com/senecanation/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-seneca~nation~of~indians~rt,,active
 XX,national,sentetsubus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SentetsuBus_AllLines_trip_update,rt-tr-f-sentetsubus~alllines~jp~rt,,active
 XX,national,sentetsubus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SentetsuBus_AllLines_vehicle,rt-ve-f-sentetsubus~alllines~jp~rt,,active
+XX,national,sentetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_SentetsuBus_AllLines_trip_update,rt-tr-f-sentetsubus~alllines~jp~rt-2,,active
+XX,national,sentetsubus alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_SentetsuBus_AllLines_vehicle,rt-ve-f-sentetsubus~alllines~jp~rt-2,,active
 XX,national,septa rail rt,https://www3.septa.org/gtfsrt/septarail-pa-us/Service/rtServiceAlerts.pb,rt-al-f-septa~rail~rt,,active
 XX,national,septa rail rt,https://www3.septa.org/gtfsrt/septarail-pa-us/Trip/rtTripUpdates.pb,rt-tr-f-septa~rail~rt,,active
 XX,national,septa rail rt,https://www3.septa.org/gtfsrt/septarail-pa-us/Vehicle/rtVehiclePosition.pb,rt-ve-f-septa~rail~rt,,active
@@ -29190,8 +29274,11 @@ XX,national,setram seau culemans fr rt,https://proxy.transport.data.gouv.fr/reso
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-shenango~valley~shuttle~service~pa~rt,,active
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-shenango~valley~shuttle~service~pa~rt,,active
 XX,national,shenango valley shuttle service pa rt,https://svss.availtec.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-shenango~valley~shuttle~service~pa~rt,,active
+XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_alert,rt-al-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt-2,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_alert?acl:consumerKey=,rt-al-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
+XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_trip_update,rt-tr-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt-2,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_trip_update?acl:consumerKey=,rt-tr-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
+XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_vehicle,rt-ve-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt-2,,active
 XX,national,shimoden shimoden bus gtfs realtime jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_Shimoden_Shimoden_BUS_GTFS_Realtime_vehicle?acl:consumerKey=,rt-ve-f-shimoden~shimoden~bus~gtfs~realtime~jp~rt,,active
 XX,national,sitac chalons fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sitac-chalons-gtfs-rt-trip-update,rt-tr-f-sitac~chalons~fr~rt,,active
 XX,national,skagit wa us rt,https://strweb.skagittransit.org/GTFS/GTFS_ServiceAlerts.pb,rt-al-f-skagit~wa~us~rt,,active
@@ -29241,6 +29328,8 @@ XX,national,tadao seau delenslivin fr rt,https://ara-api.enroute.mobi/tadao_prod
 XX,national,tahoe ca rt,https://api.goswift.ly/real-time/bluego/gtfs-rt-trip-updates,rt-tr-f-tahoe~ca~rt,,active
 XX,national,tahoe ca rt,https://api.goswift.ly/real-time/bluego/gtfs-rt-vehicle-positions,rt-ve-f-tahoe~ca~rt,,active
 XX,national,tahoe ca rt alerts,https://api.goswift.ly/real-time/bluego/gtfs-rt-alerts,rt-al-f-tahoe~ca~rt~alerts,,active
+XX,national,takaokacity koueibus rt,https://gtfs-rt-files.buscatch.jp/toyama/takaoka-city/TripUpdates.pb,rt-tr-f-takaokacity~koueibus~rt,,active
+XX,national,takaokacity koueibus rt,https://gtfs-rt-files.buscatch.jp/toyama/takaoka-city/VehiclePositions.pb,rt-ve-f-takaokacity~koueibus~rt,,active
 XX,national,takasakicity yosiibus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TakasakiCity_yosiibus_alert,rt-al-f-takasakicity~yosiibus~jp~rt,,active
 XX,national,takasakicity yosiibus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TakasakiCity_yosiibus_trip_update,rt-tr-f-takasakicity~yosiibus~jp~rt,,active
 XX,national,takasakicity yosiibus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_TakasakiCity_yosiibus_vehicle,rt-ve-f-takasakicity~yosiibus~jp~rt,,active
@@ -29250,6 +29339,8 @@ XX,national,takeyakoutu takeyakotsu rt,https://realtime.gtfs.info/takeyakotsu/ve
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=alert,rt-al-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=tripupdate,rt-tr-f-tarc~rt,,active
 XX,national,tarc rt,https://tarc.rideralerts.com/InfoPoint/gtfs-realtime.ashx?type=vehicleposition,rt-ve-f-tarc~rt,,active
+XX,national,tateyamatown tateyama rt,https://gtfs-rt-files.buscatch.jp/toyama/tateyama-town/TripUpdates.pb,rt-tr-f-tateyamatown~tateyama~rt,,active
+XX,national,tateyamatown tateyama rt,https://gtfs-rt-files.buscatch.jp/toyama/tateyama-town/VehiclePositions.pb,rt-ve-f-tateyamatown~tateyama~rt,,active
 XX,national,tbk quimperle fr rt,https://proxy.transport.data.gouv.fr/resource/tbk-quimperle-communaute-gtfs-rt-alerts,rt-al-f-tbk~quimperle~fr~rt,,active
 XX,national,tbk quimperle fr rt,https://pysae.com/api/v2/groups/quimperle/gtfs-rt,rt-tr-f-tbk~quimperle~fr~rt,,active
 XX,national,tedbus draguignan fr rt,https://pysae.com/api/v2/groups/draguignan/gtfs-rt,rt-ve-f-tedbus~draguignan~fr~rt,,active
@@ -29270,6 +29361,7 @@ XX,national,ticinterurbainardecompigne seau interurbain rt,https://api.oisemob.c
 XX,national,tlpmobilits20202028 seau tlp fr rt,https://zenbus.net/gtfs/rt/poll.proto?dataset=tlp-mobilites,rt-ve-f-tlpmobilits20202028~seau~tlp~fr~rt,,active
 XX,national,tohmccdespaysdoiseetdhalatte seau tohm rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=TOHM&dataFormat=gtfs-rt,rt-tr-f-tohmccdespaysdoiseetdhalatte~seau~tohm~rt,,active
 XX,national,tohmccdespaysdoiseetdhalatte seau tohm rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=TOHM&dataFormat=gtfs-rt,rt-ve-f-tohmccdespaysdoiseetdhalatte~seau~tohm~rt,,active
+XX,national,tokaikisen alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TokaiKisen_AllLines_alert,rt-al-f-tokaikisen~alllines~jp~rt-2,,active
 XX,national,tokaikisen alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TokaiKisen_AllLines_alert?acl:consumerKey=,rt-al-f-tokaikisen~alllines~jp~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/alert.pb,rt-al-f-tokonamecity~gruun~rt,,active
 XX,national,tokonamecity gruun rt,https://realtime.gtfs.info/gruun/trip_update.pb,rt-tr-f-tokonamecity~gruun~rt,,active
@@ -29279,6 +29371,8 @@ XX,national,tokyosuginamicity greenslowmobility jp rt,https://api-public.odpt.or
 XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/alerts.pb,rt-al-f-toledo~area~regional~transit~authority~rt,,active
 XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/position_updates.pb,rt-ve-f-toledo~area~regional~transit~authority~rt,,active
 XX,national,toledo area regional transit authority rt,https://s3.amazonaws.com/etatransit.gtfs/tarta.etaspot.net/trip_updates.pb,rt-tr-f-toledo~area~regional~transit~authority~rt,,active
+XX,national,tonamicity tonamishieibasu rt,https://gtfs-rt-files.buscatch.jp/toyama/tonami-city/TripUpdates.pb,rt-tr-f-tonamicity~tonamishieibasu~rt,,active
+XX,national,tonamicity tonamishieibasu rt,https://gtfs-rt-files.buscatch.jp/toyama/tonami-city/VehiclePositions.pb,rt-ve-f-tonamicity~tonamishieibasu~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/alerts,rt-al-f-torrancetransit~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/trips,rt-tr-f-torrancetransit~rt,,active
 XX,national,torrancetransit rt,http://www.mybusinfo.com/gtfsrt/vehicles,rt-ve-f-torrancetransit~rt,,active
@@ -29294,18 +29388,40 @@ XX,national,tosadentraffic regularbus jp rt,https://api-public.odpt.org/api/v4/g
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-towson~loop~rt,,active
 XX,national,towson loop rt,https://passio3.com/towson/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-towson~loop~rt,,active
+XX,national,toyama asahitown asahimachibus rt,https://gtfs-rt-files.buscatch.jp/toyama/asahimachi/TripUpdates.pb,rt-tr-f-toyama~asahitown~asahimachibus~rt,,active
+XX,national,toyama asahitown asahimachibus rt,https://gtfs-rt-files.buscatch.jp/toyama/asahimachi/VehiclePositions.pb,rt-ve-f-toyama~asahitown~asahimachibus~rt,,active
+XX,national,toyamacity fuchucommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-fuchu/TripUpdates.pb,rt-tr-f-toyamacity~fuchucommunitybus~rt,,active
+XX,national,toyamacity fuchucommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-fuchu/VehiclePositions.pb,rt-ve-f-toyamacity~fuchucommunitybus~rt,,active
+XX,national,toyamacity horikawaminamicommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-horikawaminami/TripUpdates.pb,rt-tr-f-toyamacity~horikawaminamicommunitybus~rt,,active
+XX,national,toyamacity horikawaminamicommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-horikawaminami/VehiclePositions.pb,rt-ve-f-toyamacity~horikawaminamicommunitybus~rt,,active
+XX,national,toyamacity kurehaikiikibus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-kureha/TripUpdates.pb,rt-tr-f-toyamacity~kurehaikiikibus~rt,,active
+XX,national,toyamacity kurehaikiikibus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-kureha/VehiclePositions.pb,rt-ve-f-toyamacity~kurehaikiikibus~rt,,active
+XX,national,toyamacity maidohayabus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-maidohaya/TripUpdates.pb,rt-tr-f-toyamacity~maidohayabus~rt,,active
+XX,national,toyamacity maidohayabus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-maidohaya/VehiclePositions.pb,rt-ve-f-toyamacity~maidohayabus~rt,,active
+XX,national,toyamacity oyamacommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-oyama/TripUpdates.pb,rt-tr-f-toyamacity~oyamacommunitybus~rt,,active
+XX,national,toyamacity oyamacommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-oyama/VehiclePositions.pb,rt-ve-f-toyamacity~oyamacommunitybus~rt,,active
+XX,national,toyamacity yamadacommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yamada/TripUpdates.pb,rt-tr-f-toyamacity~yamadacommunitybus~rt,,active
+XX,national,toyamacity yamadacommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yamada/VehiclePositions.pb,rt-ve-f-toyamacity~yamadacommunitybus~rt,,active
+XX,national,toyamacity yatsuocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yatsuo/TripUpdates.pb,rt-tr-f-toyamacity~yatsuocommunitybus~rt,,active
+XX,national,toyamacity yatsuocommunitybus rt,https://gtfs-rt-files.buscatch.jp/toyama/toyama-city-yatsuo/VehiclePositions.pb,rt-ve-f-toyamacity~yatsuocommunitybus~rt,,active
 XX,national,tracy tracer rt,https://s3.amazonaws.com/etatransit.gtfs/tracer.etaspot.net/alerts.pb,rt-al-f-tracy~tracer~rt,,active
 XX,national,tracy tracer rt,https://s3.amazonaws.com/etatransit.gtfs/tracer.etaspot.net/position_updates.pb,rt-ve-f-tracy~tracer~rt,,active
 XX,national,tracy tracer rt,https://s3.amazonaws.com/etatransit.gtfs/tracer.etaspot.net/trip_updates.pb,rt-tr-f-tracy~tracer~rt,,active
 XX,national,transpor pays de l or fr rt,https://proxy.transport.data.gouv.fr/resource/transpor-gtfs-rt-trip-update,rt-tr-f-transpor~pays~de~l~or~fr~rt,,active
 XX,national,transpor pays de l or fr rt,https://proxy.transport.data.gouv.fr/resource/transpor-gtfs-rt-vehicle-position,rt-ve-f-transpor~pays~de~l~or~fr~rt,,active
+XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_alert,rt-al-f-transportationbureau~cityofkawasaki~alllines~jp~rt-2,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_alert?acl:consumerKey=,rt-al-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
+XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_trip_update,rt-tr-f-transportationbureau~cityofkawasaki~alllines~jp~rt-2,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_trip_update?acl:consumerKey=,rt-tr-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
+XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_vehicle,rt-ve-f-transportationbureau~cityofkawasaki~alllines~jp~rt-2,,active
 XX,national,transportationbureau cityofkawasaki alllines jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_TransportationBureau_CityOfKawasaki_AllLines_vehicle?acl:consumerKey=,rt-ve-f-transportationbureau~cityofkawasaki~alllines~jp~rt,,active
 XX,national,transvilles valenciennes fr rt,https://ara-api.enroute.mobi/transvilles/gtfs,rt-ve-f-transvilles~valenciennes~fr~rt,,active
 XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/Alert.pb,rt-al-f-troyes~tcat~fr~rt,,active
 XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/TripUpdate.pb,rt-tr-f-troyes~tcat~fr~rt,,active
 XX,national,troyes tcat fr rt,http://94.143.218.42:13486/ProfilGtfsRt2_0RSProducer-TCAT/VehiclePosition.pb,rt-ve-f-troyes~tcat~fr~rt,,active
+XX,national,tsuchiuracity tsuchimarubus rt,https://realtime.gtfs.info/tsuchiura/alert.pb,rt-al-f-tsuchiuracity~tsuchimarubus~rt,,active
+XX,national,tsuchiuracity tsuchimarubus rt,https://realtime.gtfs.info/tsuchiura/trip_update.pb,rt-tr-f-tsuchiuracity~tsuchimarubus~rt,,active
+XX,national,tsuchiuracity tsuchimarubus rt,https://realtime.gtfs.info/tsuchiura/vehicle.pb,rt-ve-f-tsuchiuracity~tsuchimarubus~rt,,active
 XX,national,tub bar le duc fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-tub-bar-le-duc-gtfs-rt,rt-tr-f-tub~bar~le~duc~fr~rt,,active
 XX,national,tulare county regional transit agency rt,http://data.peaktransit.com/gtfsrt/120/TripUpdate.pb,rt-tr-f-tulare~county~regional~transit~agency~rt,,active
 XX,national,tulare county regional transit agency rt,http://data.peaktransit.com/gtfsrt/120/VehiclePosition.pb,rt-ve-f-tulare~county~regional~transit~agency~rt,,active
@@ -29341,6 +29457,11 @@ XX,national,universityofarkansas ar us rt,https://passio3.com/UofArkansas/passio
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-universityofsandiegotram~ca~us~rt,,active
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-universityofsandiegotram~ca~us~rt,,active
 XX,national,universityofsandiegotram ca us rt,https://passio3.com/UofSanDTram/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-universityofsandiegotram~ca~us~rt,,active
+XX,national,unobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UnoBus_AllLines_alert,rt-al-f-unobus~alllines~jp~rt,,active
+XX,national,unobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UnoBus_AllLines_trip_update,rt-tr-f-unobus~alllines~jp~rt,,active
+XX,national,unobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UnoBus_AllLines_vehicle,rt-ve-f-unobus~alllines~jp~rt,,active
+XX,national,uozucity junkai rt,https://gtfs-rt-files.buscatch.jp/toyama/uozu_shimin/TripUpdates.pb,rt-tr-f-uozucity~junkai~rt,,active
+XX,national,uozucity junkai rt,https://gtfs-rt-files.buscatch.jp/toyama/uozu_shimin/VehiclePositions.pb,rt-ve-f-uozucity~junkai~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/alerts,rt-al-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/tripupdates,rt-tr-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/vehiclepositions,rt-ve-f-vailtransit~rt,,active
@@ -29388,6 +29509,7 @@ XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/trip-u
 XX,national,wsf rt,http://api.pugetsound.onebusaway.org/api/gtfs_realtime/vehicle-positions-for-agency/95.pb,rt-ve-f-wsf~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-trip-updates/,rt-tr-f-xtrafik~se~rt,,active
 XX,national,xtrafik se rt,https://api.goswift.ly/real-time/se-xtrafik/gtfs-rt-vehicle-positions/,rt-ve-f-xtrafik~se~rt,,active
+XX,national,yanbaru expressbus yanbaru express bus rt,https://gtfs.yanbaru-bus-navi.com/gtfs-rt/yanbaru/vehicle_position.pb,rt-ve-f-yanbaru~expressbus~yanbaru~express~bus~rt,,active
 XX,national,zenbus alesy rt,https://alesy.plateforme-2cloud.com/api/gtfsrt/2.0/tripupdates/ALESY-6574-4401-7572/bin,rt-tr-f-zenbus~alesy~rt-2,,active
 XX,national,zenbus alesy rt,https://alesy.plateforme-2cloud.com/api/gtfsrt/2.0/vehiclepositions/ALESY-6574-4401-7572/bin,rt-ve-f-zenbus~alesy~rt-2,,active
 XX,national,zenbus alesy rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=alesy,rt-tr-f-zenbus~alesy~rt,,active
