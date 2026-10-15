@@ -29481,6 +29481,9 @@ XX,national,unobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realti
 XX,national,unobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UnoBus_AllLines_vehicle,rt-ve-f-unobus~alllines~jp~rt,,active
 XX,national,uozucity junkai rt,https://gtfs-rt-files.buscatch.jp/toyama/uozu_shimin/TripUpdates.pb,rt-tr-f-uozucity~junkai~rt,,active
 XX,national,uozucity junkai rt,https://gtfs-rt-files.buscatch.jp/toyama/uozu_shimin/VehiclePositions.pb,rt-ve-f-uozucity~junkai~rt,,active
+XX,national,urbandevelopment aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UrbanDevelopment_AomoriCity_AllLines_alert,rt-al-f-urbandevelopment~aomoricity~alllines~jp~rt,,active
+XX,national,urbandevelopment aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UrbanDevelopment_AomoriCity_AllLines_trip_update,rt-tr-f-urbandevelopment~aomoricity~alllines~jp~rt,,active
+XX,national,urbandevelopment aomoricity alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_UrbanDevelopment_AomoriCity_AllLines_vehicle,rt-ve-f-urbandevelopment~aomoricity~alllines~jp~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/alerts,rt-al-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/tripupdates,rt-tr-f-vailtransit~rt,,active
 XX,national,vailtransit rt,https://ride.vail.gov/gtfs-rt/vehiclepositions,rt-ve-f-vailtransit~rt,,active
