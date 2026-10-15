@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Delfi~De",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/delfi-germany.zip",
+    "mdb_id": "f-delfi~de",
+    "license": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
