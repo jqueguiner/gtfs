@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Trasporto Passeggeri Emilia-Romagna",
+    "country": "IT",
+    "subdivision": "Emilia-Romagna",
+    "city": "Granarolo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20261006&format=zip",
+    "mdb_id": "f-srb-tperspa~bologna",
+    "license": "CC-BY-3.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Amtab",
+    "country": "IT",
+    "subdivision": "Apulia",
+    "city": "Palo del Colle"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.amtabservizio.it/gtfs/google_transit.zip",
+    "mdb_id": "f-sr7c-amtab",
+    "license": "https://www.amtab.it/it/openmobilitydata"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

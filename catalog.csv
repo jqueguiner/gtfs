@@ -20974,6 +20974,7 @@ IT,Bidda Matzràxia/Villamassargia,TRENITALIA,http://www.sardegnamobilita.it/ope
 IT,Bologna,TPER (HelloBus),https://hellobuswsweb.tper.it/web-services/hellobus.asmx/QueryHellobus?fermata={STOP}&linea={LINE}&oraHHMM=,rtweb-it-tper-hellobus,,active
 IT,Bologna,TPER (Trasporto Passeggeri Emilia-Romagna),https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20260709&format=zip,it-eu-tper-trasporto-passeggeri-emilia-r,CC BY 3.0 IT,active
 IT,Bologna,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gtfsmex&version=20251223&format=zip,mdb-3041,https://solweb.tper.it/web/tools/open-data/open-data.aspx,active
+IT,Bologna,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gtfsmex&version=20260421&format=zip,f-srbj1-tperspa~blq~aeroporto,CC-BY-3.0,active
 IT,Bolzano,"STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/service-alerts,rtweb-it-sta-sasa-open-data-hub-sud-3,,active
 IT,Bolzano,"STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/trip-updates,rtweb-it-sta-sasa-open-data-hub-sud-2,,active
 IT,Bolzano,"STA / SASA (Open Data Hub Sudtirol, NOI Techpark)",https://gtfs.api.opendatahub.com/v1/realtime/sta-time-tables/vehicle-positions,rtweb-it-sta-sasa-open-data-hub-sud,,active
@@ -21036,7 +21037,9 @@ IT,Genoa,Azienda Mobilità e Trasporti,http://opendatagoogletransit.comune.genov
 IT,Genoa,Golfo Paradiso (Battellieri del Golfo Paradiso),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/genoa/golfo-paradiso-battellieri-del-golfo-paradiso/gtfs/,it-llm-golfo-paradiso-battellieri-del-golfo-par,,active
 IT,Genoa,Servizio Marittimo del Tigullio (Consorzio),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/genoa/servizio-marittimo-del-tigullio-consorzio/gtfs/,it-llm-servizio-marittimo-del-tigullio-consorzi,,active
 IT,Genoa/Liguria region,"Regione Liguria multi-operator (AMT, ATC La Spezia, TPL Linea, Trenitalia)",https://srvcarto.regione.liguria.it/dtuff/download_statico/opendata/trasporti/GTFS/,it-disc-6,,active
+IT,Granarolo,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsbo&version=20261006&format=zip,f-srb-tperspa~bologna,CC-BY-3.0,active
 IT,Granarolo,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260122&format=zip,f-srb-tperspa~ferrara,CC-BY-3.0,active
+IT,Granarolo,Trasporto Passeggeri Emilia-Romagna,https://solweb.tper.it/web/tools/open-data/open-data-download.aspx?source=solweb.tper.it&filename=gommagtfsfe&version=20260904&format=zip,f-srb-tperspa~ferrara,CC-BY-3.0,active
 IT,Grosseto,Autolinee Toscane - Urbano Grosseto,https://dati.toscana.it/dataset/8bb8f8fe-fe7d-41d0-90dc-49f2456180d1/resource/47d0795b-4172-401d-af43-b4dff4004db4/download/51-urbanogrosseto.gtfs,tld-6979,,active
 IT,La Spezia,Navigazione Golfo dei Poeti (Consorzio Marittimo Turistico Cinque Terre - Golfo dei Poeti),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/la-spezia/navigazione-golfo-dei-poeti-consorzio-marittimo-/gtfs/,it-llm-navigazione-golfo-dei-poeti-consorzio-ma,,active
 IT,Lecce,Ferrovie del Sud Est (FSE) - regional rail (Lecce area),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/lecce/ferrovie-del-sud-est-fse-regional-rail-lecce-are/gtfs/,it-llm-ferrovie-del-sud-est-fse-regional-rail-l,,active
@@ -21100,6 +21103,7 @@ IT,Palermo,Comune di Palermo,https://opendata.comune.palermo.it/js/server/upload
 IT,Palermo,Comune di Palermo,https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/_26062024091338.zip,it-comune-di-palermo-26062024091338,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
 IT,Palermo,Comune di Palermo,https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/_30072026133127.zip,it-comune-di-palermo-30072026133127,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
 IT,Palermo,Comune di Palermo,https://opendata.comune.palermo.it/js/server/uploads/dataset/gtfs/_31102025073327.zip,it-comune-di-palermo-31102025073327,Creative Commons Attribuzione 4.0 Internazionale (CC BY 4.0),active
+IT,Palo del Colle,Amtab,https://www.amtabservizio.it/gtfs/google_transit.zip,f-sr7c-amtab,https://www.amtab.it/it/openmobilitydata,active
 IT,Parma,TEP Parma,https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/trip_updates.pb,rtweb-it-tep-parma-2,,active
 IT,Parma,TEP Parma,https://s3.eu-south-1.amazonaws.com/temporeale.cl.tep.pr.it/temporeale/vehicle_positions.pb,rtweb-it-tep-parma,,active
 IT,Parma,TEP S.p.A. — Extra-urban / suburban network (Parma province),https://raw.githubusercontent.com/jqueguiner/gtfs/main/synthesized/IT/parma/tep-s-p-a-extra-urban-suburban-network-parma-pro/gtfs/,it-llm-tep-s-p-a-extra-urban-suburban-network-p,,active
@@ -21182,6 +21186,7 @@ IT,national,Movibus~Srl,https://usbshare.agenziatpl.it/index.php/s/awfA3t8jy3D46
 IT,national,Net~Nord~Est~Trasporti,https://usbshare.agenziatpl.it/index.php/s/k3Aera76R2BYjit/download/2025-04-30_NET.zip,f-net~nord~est~trasporti,CC-BY-4.0,active
 IT,national,Pmt~Pavia~Milano~Trasporti~Srl,https://usbshare.agenziatpl.it/index.php/s/r93xAJ3f3KtnRF9/download,f-pmt~pavia~milano~trasporti~srl,CC-BY-4.0,active
 IT,national,Societàtrasportipubblicibrindisi,http://www.stpbrindisi.it/attachments/article/963/Urbano_gen.zip,f-s-societàtrasportipubblicibrindisi,,active
+IT,national,Taranto~Amat~It,https://www.kymamobilita.it/wp-content/uploads/2022/12/google_transit.zip,f-taranto~amat~it,https://www.kymamobilita.it/open-data/,active
 JE,Jersey,"bustimes.org (LibertyBus AVL, Ticketer)",https://bustimes.org/vehicles.json?ymax=49.26&xmax=-2.02&ymin=49.16&xmin=-2.25,rtweb-je-bustimes-org-libertybus-av,,active
 JP,Abashiri,網走バス,https://www.abashiribus.com/open_data/gtfs_abashiribus_latest.zip,f-網走バス,CC-BY-4.0,active
 JP,Achi,南信州地域交通問題協議会（南信州広域連合）,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-seibu-1/files/feed.zip?rid=current,jbda-minamishinshu-Minamishinshu-seibu-1,https://creativecommons.org/licenses/by/4.0/deed.ja,active
@@ -28123,6 +28128,7 @@ XX,national,9q4g santabarbaramtd rt,https://bustracker.sbmtd.gov/gtfsrt/alerts,r
 XX,national,9q4g santabarbaramtd rt,https://bustracker.sbmtd.gov/gtfsrt/trips,rt-tr-f-9q4g~santabarbaramtd~rt,,active
 XX,national,9q4g santabarbaramtd rt,https://bustracker.sbmtd.gov/gtfsrt/vehicles,rt-ve-f-9q4g~santabarbaramtd~rt,,active
 XX,national,Adirondack~Trailways~Nyu,https://s3.amazonaws.com/datatools-511ny/public/Adirondack_Trailways-NYU.zip,f-adirondack~trailways~nyu,https://data.ny.gov/download/77gx-ii52/application/pdf,active
+XX,national,Airpullman~Spa,https://usbshare.agenziatpl.it/index.php/s/dtBsk3WDE7NSFXb/download,f-airpullman~spa,CC-BY-4.0,active
 XX,national,Akishimacity~Abus,https://api.gtfs-data.jp/v2/organizations/akishimacity/feeds/Abus/files/feed.zip?uid=7a301bd6-372a-42aa-b05b-069db42dd974,f-akishimacity~abus,CC0-1.0,active
 XX,national,Alavabus,https://gtfs-source-feeds.transit.land/es-nap-1362.zip,f-alavabus,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Alsa~Autobuses,https://gtfs-source-feeds.transit.land/es-nap-1133.zip,f-alsa~autobuses,https://nap.transportes.gob.es/licencia-datos,active
@@ -28269,7 +28275,9 @@ XX,national,Metro~De~Valencia,https://gtfs-source-feeds.transit.land/es-nap-1168
 XX,national,Metro~Malaga,https://gtfs-source-feeds.transit.land/es-nap-1497.zip,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-iidacity-3/files/feed.zip?uid=7721b837-c0ca-45dc-820a-470e0cee4582,f-minamishinshu~minamishinshu~iidacity~3,CC-BY-4.0,active
 XX,national,Montferri,https://gtfs-source-feeds.transit.land/es-nap-2556.zip,f-montferri,https://nap.transportes.gob.es/licencia-datos,active
+XX,national,Movibus~Srl,https://usbshare.agenziatpl.it/index.php/s/jYyMt4YGDtdwfRp/download,f-movibus~srl,CC-BY-4.0,active
 XX,national,Naganocity~Noriai,https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/noriai/files/feed.zip?uid=ea37c6fb-f2e7-48fb-a31b-3814c7a18f5c,f-naganocity~noriai,CC-BY-4.0,active
+XX,national,Net~Nord~Est~Trasporti,https://usbshare.agenziatpl.it/index.php/s/m7xRwZY5mG2wpfx/download,f-net~nord~est~trasporti,CC-BY-4.0,active
 XX,national,Newark~Airtrain~Nj,http://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Newark~Airtrain~Nj,https://gtfs-source-feeds.transit.land/newark-airtrain-nj.zip,f-newark~airtrain~nj,ODbL-1.0,active
 XX,national,Northfork~Ne~Us~Flex,https://data.trilliumtransit.com/gtfs/northfork-ne-us/northfork-ne-us--flex-v2.zip,f-northfork~ne~us~flex,,active
@@ -28311,6 +28319,7 @@ XX,national,Societàtrasportocerignola,https://mazzarino.gq/index.php/s/Bo56mFd5
 XX,national,Sopelbus,https://gtfs-source-feeds.transit.land/es-nap-2064.zip,f-sopelbus,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Soundgenerations~Wa~Us~Flex,https://data.trilliumtransit.com/gtfs/soundgenerations-wa-us/soundgenerations-wa-us-hyde--flex-v2.zip,f-soundgenerations~wa~us~flex,,active
 XX,national,Stark~Area~Regional~Transit~Authority,https://pinpoint.sartaonline.com/InfoPoint/GTFS-Zip.ashx,f-stark~area~regional~transit~authority,,active
+XX,national,Stav~Spa,https://usbshare.agenziatpl.it/index.php/s/dBEqMy7skGYZawS/download,f-stav~spa,CC-BY-4.0,active
 XX,national,Straits~Regional~Ride~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Straits_Regional_Cheboygan.zip,f-straits~regional~ride~mi~us~flex,,active
 XX,national,Suffolk~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/suffolk-va-us/suffolk-va-us--flex-v2.zip,f-suffolk~va~us~flex,,active
 XX,national,Suzukacity~Communitybus,https://api.gtfs-data.jp/v2/organizations/suzukacity/feeds/communitybus/files/feed.zip?uid=b901ca29-ec66-4f22-b34a-0b7b06b362ed,f-suzukacity~communitybus,CC-BY-4.0,active
