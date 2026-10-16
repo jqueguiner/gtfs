@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "brightline trails rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://feed.gobrightline.com/trip_updates.pb",
+    "mdb_id": "rt-tr-f-brightline~trails~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

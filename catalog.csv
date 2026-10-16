@@ -28209,6 +28209,7 @@ XX,national,Benton~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/
 XX,national,Benzie~Transportation~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Benzie_Transportation_Authority.zip,f-benzie~transportation~authority~mi~us~flex,,active
 XX,national,Bermibusa,https://gtfs-source-feeds.transit.land/es-nap-2063.zip,f-bermibusa,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Bilbobus,https://gtfs-source-feeds.transit.land/es-nap-1460.zip,f-bilbobus,https://nap.transportes.gob.es/licencia-datos,active
+XX,national,Brightline~Trails,https://feed.gobrightline.com/bl_gtfs.zip,f-brightline~trails,,active
 XX,national,Bus~Urbano~De~Segovia,https://gtfs-source-feeds.transit.land/es-nap-1559.zip,f-bus~urbano~de~segovia,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Cadillac~Wexford~Transportation~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Cadillac_Wexford_Transportation_Authority.zip,f-cadillac~wexford~transportation~authority~mi~us~flex,,active
 XX,national,Cercanías~Renfe,https://gtfs-source-feeds.transit.land/es-nap-1130.zip,f-cercanías~renfe,https://nap.transportes.gob.es/licencia-datos,active
@@ -28517,6 +28518,8 @@ XX,national,brightline fl us rt alerts,https://api.goswift.ly/real-time/brightli
 XX,national,brightline trails rt,http://feed.gobrightline.com/alerts.pb,rt-al-f-brightline~trails~rt,,active
 XX,national,brightline trails rt,http://feed.gobrightline.com/position_updates.pb,rt-ve-f-brightline~trails~rt,,active
 XX,national,brightline trails rt,http://feed.gobrightline.com/trip_updates.pb,rt-tr-f-brightline~trails~rt,,active
+XX,national,brightline trails rt,https://feed.gobrightline.com/position_updates.pb,rt-ve-f-brightline~trails~rt-2,,active
+XX,national,brightline trails rt,https://feed.gobrightline.com/trip_updates.pb,rt-tr-f-brightline~trails~rt-2,,active
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-brockton~ma~us~rt,,active
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-brockton~ma~us~rt,,active
 XX,national,brockton ma us rt,https://passio3.com/brockton/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-brockton~ma~us~rt,,active
