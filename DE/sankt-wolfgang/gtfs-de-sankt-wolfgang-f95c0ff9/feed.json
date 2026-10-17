@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sankt Wolfgang",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sankt Wolfgang"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-13ac3d8b49",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

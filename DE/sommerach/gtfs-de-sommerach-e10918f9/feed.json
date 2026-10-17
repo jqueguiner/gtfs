@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sommerach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Sommerach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-85c464649c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

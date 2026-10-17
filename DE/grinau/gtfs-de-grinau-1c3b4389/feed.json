@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grinau",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Grinau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-3f5e574972",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

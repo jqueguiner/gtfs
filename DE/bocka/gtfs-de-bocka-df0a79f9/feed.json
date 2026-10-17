@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Bocka",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Bocka"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e5ac60441d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

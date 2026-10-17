@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Girod",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Girod"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fff54e175a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

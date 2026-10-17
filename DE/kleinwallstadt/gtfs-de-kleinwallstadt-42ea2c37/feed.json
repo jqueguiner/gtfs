@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kleinwallstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kleinwallstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-61c79a95fd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

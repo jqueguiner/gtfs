@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Giesdorf",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Giesdorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c6c31e11eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

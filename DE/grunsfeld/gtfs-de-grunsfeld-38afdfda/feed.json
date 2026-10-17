@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grunsfeld",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grunsfeld"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a5b231e187",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

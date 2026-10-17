@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Volkersweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Volkersweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5f5d14afbc",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

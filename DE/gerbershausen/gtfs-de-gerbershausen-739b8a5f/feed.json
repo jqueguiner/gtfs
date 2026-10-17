@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerbershausen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gerbershausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-7c458eb0ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

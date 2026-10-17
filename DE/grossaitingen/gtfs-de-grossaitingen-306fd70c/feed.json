@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossaitingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grossaitingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-8bd119dafd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

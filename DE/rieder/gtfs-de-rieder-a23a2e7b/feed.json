@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rieder",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Rieder"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-cabc29eeb8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

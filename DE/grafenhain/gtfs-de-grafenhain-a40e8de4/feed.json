@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grafenhain",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Grafenhain"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-70f65c01ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

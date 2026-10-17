@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Philippsheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Philippsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ba1aa3117",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

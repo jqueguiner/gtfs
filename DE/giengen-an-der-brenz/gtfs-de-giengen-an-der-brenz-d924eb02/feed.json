@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Giengen an der Brenz",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Giengen an der Brenz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-34e5e06c6c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

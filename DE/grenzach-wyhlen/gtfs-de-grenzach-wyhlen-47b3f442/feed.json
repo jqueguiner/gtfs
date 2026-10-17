@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grenzach-Wyhlen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grenzach-Wyhlen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-072eb06f84",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

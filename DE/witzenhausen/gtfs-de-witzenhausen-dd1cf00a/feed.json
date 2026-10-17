@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Witzenhausen",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Witzenhausen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-307a28a0de",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

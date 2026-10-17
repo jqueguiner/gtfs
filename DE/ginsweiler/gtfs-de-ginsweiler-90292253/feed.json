@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ginsweiler",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Ginsweiler"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af7c518c2e",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

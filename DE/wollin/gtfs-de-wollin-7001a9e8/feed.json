@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wollin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Wollin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bae548d09f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

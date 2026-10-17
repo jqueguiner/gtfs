@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Ingoldingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Ingoldingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-12995baeff",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

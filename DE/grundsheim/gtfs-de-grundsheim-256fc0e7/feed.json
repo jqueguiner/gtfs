@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grundsheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Grundsheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-af01628343",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

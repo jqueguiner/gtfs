@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossholbach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Grossholbach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-46ecfab115",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

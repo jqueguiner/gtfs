@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerwisch",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Gerwisch"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-233fc91293",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Pfullingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Pfullingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d37658bff6",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

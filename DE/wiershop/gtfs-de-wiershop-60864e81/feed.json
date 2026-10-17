@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiershop",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Wiershop"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-09cd997df4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

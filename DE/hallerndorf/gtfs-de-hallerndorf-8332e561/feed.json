@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hallerndorf",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hallerndorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-199b8bb153",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

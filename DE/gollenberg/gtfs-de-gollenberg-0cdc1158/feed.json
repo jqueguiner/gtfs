@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gollenberg",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gollenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5f78724fda",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Kleinaitingen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Kleinaitingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-303136b00d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

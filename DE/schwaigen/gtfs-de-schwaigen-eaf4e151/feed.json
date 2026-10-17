@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwaigen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Schwaigen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ec3a58a40f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossheubach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grossheubach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b4e9204433",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

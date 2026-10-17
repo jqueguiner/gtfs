@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Sternberg",
+    "country": "DE",
+    "subdivision": "Mecklenburg-Vorpommern",
+    "city": "Sternberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-606198ba83",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossorner",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Grossorner"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a4b38c55ab",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

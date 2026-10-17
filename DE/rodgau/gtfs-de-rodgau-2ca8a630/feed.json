@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Rodgau",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Rodgau"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-b769133fcd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

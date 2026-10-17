@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grettstadt",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grettstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-ae31775341",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwerin",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Schwerin"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-22a3881a8a",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

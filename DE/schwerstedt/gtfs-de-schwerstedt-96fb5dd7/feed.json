@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwerstedt",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Schwerstedt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a67bbd2060",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

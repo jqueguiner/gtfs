@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gruibingen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Gruibingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-798a09e9ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

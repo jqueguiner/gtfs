@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossbodungen",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Grossbodungen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-866349eb2f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

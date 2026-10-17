@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Guckheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Guckheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e0e548f557",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

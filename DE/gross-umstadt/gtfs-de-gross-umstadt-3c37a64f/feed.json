@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gross-Umstadt",
+    "country": "DE",
+    "subdivision": "Hesse",
+    "city": "Gross-Umstadt"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a38cda9ad0",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

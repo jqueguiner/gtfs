@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glothe",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Glothe"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1e87c2d8a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gentingen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gentingen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1326c3b3eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

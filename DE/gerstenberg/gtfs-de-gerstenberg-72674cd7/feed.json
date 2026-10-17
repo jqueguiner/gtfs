@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gerstenberg",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gerstenberg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-87e6eca899",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

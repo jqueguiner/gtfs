@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberwambach",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oberwambach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bd5660884f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

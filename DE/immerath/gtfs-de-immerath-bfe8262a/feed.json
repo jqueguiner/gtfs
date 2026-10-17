@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Immerath",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Immerath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-719d95606d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

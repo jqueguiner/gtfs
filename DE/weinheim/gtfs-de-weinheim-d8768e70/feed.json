@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Weinheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Weinheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c05ec001eb",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

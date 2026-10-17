@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Glottertal",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Glottertal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d6d82a21f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

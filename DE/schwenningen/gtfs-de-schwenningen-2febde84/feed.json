@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schwenningen",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schwenningen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-bafd7c8df5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

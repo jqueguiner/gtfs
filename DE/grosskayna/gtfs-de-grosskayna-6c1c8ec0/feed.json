@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grosskayna",
+    "country": "DE",
+    "subdivision": "Saxony-Anhalt",
+    "city": "Grosskayna"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5ec0ee8608",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lehmen",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Lehmen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-72432aa24c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Greffern",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Greffern"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-a39b448004",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

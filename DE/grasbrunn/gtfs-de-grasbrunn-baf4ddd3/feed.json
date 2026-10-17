@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grasbrunn",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grasbrunn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-45fe2088f5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gering",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gering"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-1f94ca8610",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

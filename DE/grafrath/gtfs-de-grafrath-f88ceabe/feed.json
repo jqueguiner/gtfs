@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grafrath",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Grafrath"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e8ae5a2ef4",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

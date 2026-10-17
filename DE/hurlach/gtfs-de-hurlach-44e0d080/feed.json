@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Hurlach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Hurlach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-faae33ea68",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

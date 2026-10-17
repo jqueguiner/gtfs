@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Greiling",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Greiling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e4d518117d",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

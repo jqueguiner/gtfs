@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Germersheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Germersheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-dec5e5ddf9",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

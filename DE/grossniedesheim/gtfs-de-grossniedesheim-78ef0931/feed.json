@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Grossniedesheim",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Grossniedesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-383d25557b",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Schriesheim",
+    "country": "DE",
+    "subdivision": "Baden-Wuerttemberg",
+    "city": "Schriesheim"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-d63effa61c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

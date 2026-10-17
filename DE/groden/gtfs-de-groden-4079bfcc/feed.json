@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Groden",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Groden"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-2ce2c23ed8",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

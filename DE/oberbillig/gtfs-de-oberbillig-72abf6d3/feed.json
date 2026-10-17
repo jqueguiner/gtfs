@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Oberbillig",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Oberbillig"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-abf7906a30",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

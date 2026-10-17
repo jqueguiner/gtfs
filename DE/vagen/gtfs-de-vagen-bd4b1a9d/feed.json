@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Vagen",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Vagen"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-288b6db67c",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

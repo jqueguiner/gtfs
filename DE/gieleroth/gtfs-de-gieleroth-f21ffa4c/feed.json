@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gieleroth",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gieleroth"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-5b55b115ee",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

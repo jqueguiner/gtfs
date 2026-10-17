@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gilzem",
+    "country": "DE",
+    "subdivision": "Rheinland-Pfalz",
+    "city": "Gilzem"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f551b3c520",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Gertewitz",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Gertewitz"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-074a696689",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

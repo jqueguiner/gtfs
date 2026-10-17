@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Geschendorf",
+    "country": "DE",
+    "subdivision": "Schleswig-Holstein",
+    "city": "Geschendorf"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-36b74395b5",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

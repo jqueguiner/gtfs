@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Korner",
+    "country": "DE",
+    "subdivision": "Thuringia",
+    "city": "Korner"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-94e987a0dd",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

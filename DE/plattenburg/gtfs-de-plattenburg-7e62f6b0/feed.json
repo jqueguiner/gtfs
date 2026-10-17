@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Plattenburg",
+    "country": "DE",
+    "subdivision": "Brandenburg",
+    "city": "Plattenburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-fdfe185c0f",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
