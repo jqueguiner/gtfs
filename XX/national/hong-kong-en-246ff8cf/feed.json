@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Hong~Kong~En",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/hong-kong-td.zip",
+    "mdb_id": "f-hong~kong~en",
+    "license": "https://data.gov.hk/en/terms-and-conditions"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
