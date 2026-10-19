@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "日高村",
+    "country": "JP",
+    "subdivision": "Kochi",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/hidakavillage/feeds/GTFS-Hidakavill_Bus/files/feed.zip",
+    "mdb_id": "jp-hidakavillage-gtfs-hidakavill-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
