@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Twisto",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CU Caen la Mer"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://twisto-caen.opendatasoft.com/api/v2/catalog/datasets/fichier-gtfs-du-reseau-twisto/alternative_exports/gtfs_twisto_zip",
+    "mdb_id": "tdg-84255",
+    "license": "notspecified"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
