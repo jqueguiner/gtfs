@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Chicago Transit Authority",
+    "country": "US",
+    "subdivision": "Illinois",
+    "city": "Mokena"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://transitdata.transitchicago.com/GtfsRealtime/ServiceAlerts.pb",
+    "mdb_id": "rt-al-f-cta~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

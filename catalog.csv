@@ -26300,6 +26300,7 @@ US,Bridgeport,Greater Bridgeport Transit,http://data.trilliumtransit.com/gtfs/gb
 US,Bridgeport,Southeastern Pennsylvania Transportation Authority (SEPTA),https://www3.septa.org/developer/google_bus.zip,mdb-502,https://www3.septa.org/developer/,active
 US,Brinckerhoff,MTA Metro-North Railroad,https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/mnr%2Fgtfs-mnr,rt-tr-f-mta~nyc~rt~mnr,,active
 US,Brinckerhoff,Westchestercountybee~Linesystem,https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip,f-dr7-westchestercountybee~linesystem,https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service,active
+US,Brinckerhoff,Westchestercountybee~Linesystem,https://westchester-win.gmv.com:8443/repository/gtfs-public/GTFS_GMV_WCDOT.zip,f-dr7-westchestercountybee~linesystem,https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-dr7-nywaterway~rt,,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-dr7-nywaterway~rt,,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-dr7-nywaterway~rt,,active
@@ -26566,6 +26567,8 @@ US,Dublin,radford va us rt,https://passio3.com/radford/passioTransit/gtfs/realti
 US,Dubuque County,The Jule,https://myride.cityofdubuque.org/gtfs/google_transit.zip,mdb-2083,,active
 US,Dukes County,Hy-Line Cruises,http://data.trilliumtransit.com/gtfs/hylinecruises-ma-us/hylinecruises-ma-us.zip,mdb-427,,active
 US,Dukes County,Patriots Party Boats,http://data.trilliumtransit.com/gtfs/patriotpartyboats-ma-us/patriotpartyboats-ma-us.zip,mdb-424,,active
+US,Dunkirk Town Center,Maryland Transit Administration,https://api.goswift.ly/real-time/mta-maryland-metro/gtfs-rt-trip-updates,rt-tr-f-dq-mtamaryland~subwaylink~rt-2,,active
+US,Dunkirk Town Center,Maryland Transit Administration,https://api.goswift.ly/real-time/mta-maryland-metro/gtfs-rt-vehicle-positions,rt-ve-f-dq-mtamaryland~subwaylink~rt-2,,active
 US,Dunkirk Town Center,Maryland Transit Administration,https://feeds.mta.maryland.gov/alerts.pb,rt-al-f-mtamaryland~rt~alerts,,active
 US,Dunkirk Town Center,Maryland Transit Administration,https://mdotmta-gtfs-rt.s3.amazonaws.com/MARC%20RT/marc-tu.pb,rt-tr-f-mtamaryland~marc~train~rt,,active
 US,Dunkirk Town Center,Maryland Transit Administration,https://mdotmta-gtfs-rt.s3.amazonaws.com/MARC%20RT/marc-vp.pb,rt-ve-f-mtamaryland~marc~train~rt,,active
@@ -27221,6 +27224,9 @@ US,Missoula,udash mt us rt,https://passio3.com/montanau/passioTransit/gtfs/realt
 US,Missoula County,Mountain Line,http://www.mountainline.com/files/MUTD_GTFS.zip,mdb-292,,active
 US,Mobile County,City of Mobile,https://realtimemobile.availtec.com/infopoint/gtfs-zip.ashx,tld-6773,,active
 US,Modoc County,Sage Stage,http://data.trilliumtransit.com/gtfs/sagestage-ca-us/sagestage-ca-us.zip,mdb-113,http://sagestage.com/gtfs-data/,active
+US,Mokena,Chicago Transit Authority,https://transitdata.transitchicago.com/GtfsRealtime/ServiceAlerts.pb,rt-al-f-cta~rt,,active
+US,Mokena,Chicago Transit Authority,https://transitdata.transitchicago.com/GtfsRealtime/TripUpdates.pb,rt-tr-f-cta~rt,,active
+US,Mokena,Chicago Transit Authority,https://transitdata.transitchicago.com/GtfsRealtime/VehiclePositions.pb,rt-ve-f-cta~rt,,active
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/alerts,rt-al-f-metra~rt,,active
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/positions,rt-ve-f-metra~rt,,active
 US,Mokena,Metra,https://gtfspublic.metrarr.com/gtfs/public/tripupdates,rt-tr-f-metra~rt,,active
@@ -29271,6 +29277,9 @@ XX,national,keisei transitbus keiseitransitbus rt,https://s3-ajt-mobusta-gtfs.s3
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_alert,rt-al-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_trip_update,rt-tr-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,rt-ve-f-keiseitransitbus~alllines~jp~rt,,active
+XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/alerts,rt-al-f-kenosha~wi~us~rt,,active
+XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/tripupdates,rt-tr-f-kenosha~wi~us~rt,,active
+XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/vehiclepositions,rt-ve-f-kenosha~wi~us~rt,,active
 XX,national,keolis orleans fr rt,https://ara-api.enroute.mobi/tao/gtfs/trip-updates,rt-tr-f-keolis~orleans~fr~rt,,active
 XX,national,keolis seau riv fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-rivconnect-rives-de-moselle-gtfs-rt,rt-tr-f-keolis~seau~riv~fr~rt,,active
 XX,national,kerncounty ca rt,https://api.goswift.ly/real-time/kern-transit/gtfs-rt-trip-updates,rt-tr-f-kerncounty~ca~rt,,active
@@ -29398,6 +29407,7 @@ XX,national,metro losangeles bus rt,https://api.goswift.ly/real-time/lametro/gtf
 XX,national,metro losangeles bus rt,https://api.goswift.ly/real-time/lametro/gtfs-rt-vehicle-positions,rt-ve-f-metro~losangeles~bus~rt,,active
 XX,national,metro losangeles rail rt,https://api.goswift.ly/real-time/lametro-rail/gtfs-rt-trip-updates,rt-tr-f-metro~losangeles~rail~rt,,active
 XX,national,metro losangeles rail rt,https://api.goswift.ly/real-time/lametro-rail/gtfs-rt-vehicle-positions,rt-ve-f-metro~losangeles~rail~rt,,active
+XX,national,metrolinktrains alerts rt,https://cdn.simplifytransit.com/metrolink/alerts/service-alerts.pb,rt-al-f-metrolinktrains~alerts~rt,,active
 XX,national,metropolitantransitauthorityofharriscounty rt,https://api.ridemetro.org/GtfsRealtime/TripUpdates,rt-tr-f-metropolitantransitauthorityofharriscounty~rt,,active
 XX,national,metropolitantransitauthorityofharriscounty rt,https://api.ridemetro.org/v2alertspb/alerts.pb,rt-al-f-metropolitantransitauthorityofharriscounty~rt,,active
 XX,national,metropolitantulsatransitauthority rt,https://tulsa.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-metropolitantulsatransitauthority~rt,,active
@@ -29935,6 +29945,9 @@ XX,national,west hollywood rt,https://webservices.umoiq.com/api/gtfs-rt/v1/vehic
 XX,national,westchestercountybee linesystem rt,https://westchester-gmv.itoworld.com/production/servicealerts.pb,rt-al-f-westchestercountybee~linesystem~rt,,active
 XX,national,westchestercountybee linesystem rt,https://westchester-gmv.itoworld.com/production/tripupdates.pb,rt-tr-f-westchestercountybee~linesystem~rt,,active
 XX,national,westchestercountybee linesystem rt,https://westchester-gmv.itoworld.com/production/vehiclepositions.pb,rt-ve-f-westchestercountybee~linesystem~rt,,active
+XX,national,westchestercountybee linesystem rt,https://westchester.gmv.com/gtfsrtapi/api/servicealerts,rt-al-f-westchestercountybee~linesystem~rt-2,,active
+XX,national,westchestercountybee linesystem rt,https://westchester.gmv.com/gtfsrtapi/api/tripupdates,rt-tr-f-westchestercountybee~linesystem~rt-2,,active
+XX,national,westchestercountybee linesystem rt,https://westchester.gmv.com/gtfsrtapi/api/vehiclepositions,rt-ve-f-westchestercountybee~linesystem~rt-2,,active
 XX,national,western reserve transit authority rt,https://myvalleystops.wrtaonline.com/infopoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-western~reserve~transit~authority~rt,,active
 XX,national,western reserve transit authority rt,https://myvalleystops.wrtaonline.com/infopoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-western~reserve~transit~authority~rt,,active
 XX,national,western reserve transit authority rt,https://myvalleystops.wrtaonline.com/infopoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-western~reserve~transit~authority~rt,,active

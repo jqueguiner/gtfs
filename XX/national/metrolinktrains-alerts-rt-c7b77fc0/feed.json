@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "metrolinktrains alerts rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.simplifytransit.com/metrolink/alerts/service-alerts.pb",
+    "mdb_id": "rt-al-f-metrolinktrains~alerts~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
