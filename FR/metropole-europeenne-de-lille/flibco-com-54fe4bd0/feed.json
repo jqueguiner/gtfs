@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Flibco.com",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Métropole Européenne de Lille"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/flibco-lille-airport-gtfs/20261020-094203/lille-v6.zip",
+    "mdb_id": "tdg-84261",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
