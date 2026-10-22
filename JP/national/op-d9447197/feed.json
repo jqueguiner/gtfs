@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "須崎市企画情報課",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/SusakiCity/Cityferry.zip?date=current",
+    "mdb_id": "f-susakicity~cityferry~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

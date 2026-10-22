@@ -16591,6 +16591,7 @@ FR,national,Collectivité de Corse,https://static.data.gouv.fr/resources/gtfs-tr
 FR,national,Elsa~Seau~Deslestat~Fr,https://transport.data.gouv.fr/resources/80401/download,f-elsa~seau~deslestat~fr,ODbL-1.0,active
 FR,national,Eurostar International Ltd.,https://integration-storage.dm.eurostar.com/gtfs-prod/gtfs_static_commercial_v2.zip,tdg-82199,lov2,active
 FR,national,Filbleu~Tours~Fr,https://data.tours-metropole.fr/api/v2/catalog/datasets/zip-horaires-theoriques-du-reseau-fil-bleu-tours-metropole-gtfs/files/b5a6f13059dea198a378b601c046f238,f-filbleu~tours~fr,ODbL-1.0,active
+FR,national,Flibco~Lille~Fr,https://www.data.gouv.fr/api/1/datasets/r/43b2ad90-b1e1-41ea-9658-c6b8a30d8d06,f-flibco~lille~fr,etalab-2.0,active
 FR,national,Flixbus France,https://gtfs.gis.flix.tech/gtfs_generic_eu.zip,tdg-11681,odc-odbl,active
 FR,national,Flixbus France,https://www.data.gouv.fr/api/1/datasets/r/30d94e83-48a4-4c44-8a96-c082377f5221,tdg-11681,https://opendatacommons.org/licenses/odbl/1.0/,active
 FR,national,Fluo Grand Est,https://api.grandest2.cityway.fr/exs/GTFS?Key=OPENDATA&OperatorCode=ARDENNES,tdg-80413,lov2,active
@@ -23993,6 +23994,8 @@ JP,national,阪九フェリー株式会社,https://api.odpt.org/api/v4/files/odp
 JP,national,階上町コミュニティバス,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/16908/gtfs_hashikamicho_com.zip,f-階上町コミュニティバス,,active
 JP,national,階上町コミュニティバス~1,https://opendata.pref.aomori.lg.jp/dataset/1596/resource/19655/gtfs_hashikamicho_com_latest.zip,f-階上町コミュニティバス~1,,active
 JP,national,青森市,https://api.odpt.org/api/v4/files/odpt/UrbanDevelopment_AomoriCity/AllLines.zip?date=current,f-urbandevelopment~aomoricity~alllines~jp,CC-BY-4.0,active
+JP,national,須崎市企画情報課,https://api-public.odpt.org/api/v4/files/odpt/SusakiCity/Citybus.zip?date=current,f-susakicity~citybus~jp,CC-BY-4.0,active
+JP,national,須崎市企画情報課,https://api-public.odpt.org/api/v4/files/odpt/SusakiCity/Cityferry.zip?date=current,f-susakicity~cityferry~jp,CC-BY-4.0,active
 JP,national,高崎市,https://api.odpt.org/api/v4/files/odpt/TakasakiCity/yosiibus.zip?date=current,f-takasakicity~yosiibus~jp,CC-BY-4.0,active
 JP,national,高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,https://www.city.takasaki.gunma.jp/docs/2020060400037/files/bus-takasaki-gunma-jp_20230414.zip,f-高崎市内循環バスぐるりん~高崎アリーナシャトルバス~よしいバス,CC-BY-4.0,active
 JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Express.zip?date=current,f-kochiseinantraffic~express~jp,CC-BY-4.0,active
@@ -29807,6 +29810,9 @@ XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-ti
 XX,national,sunsetempiretransportationdistrict rt,https://api.goswift.ly/real-time/setd/gtfs-rt-vehicle-positions,rt-ve-f-sunsetempiretransportationdistrict~rt,,active
 XX,national,surf seau fr rt,https://proxy.transport.data.gouv.fr/resource/surf-fougeres-gtfs-rt-trip-update,rt-tr-f-surf~seau~fr~rt,,active
 XX,national,surf seau fr rt,https://proxy.transport.data.gouv.fr/resource/surf-fougeres-gtfs-rt-vehicle-position,rt-ve-f-surf~seau~fr~rt,,active
+XX,national,susakicity citybus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SusakiCity_Citybus_alert,rt-al-f-susakicity~citybus~jp~rt,,active
+XX,national,susakicity citybus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SusakiCity_Citybus_trip_update,rt-tr-f-susakicity~citybus~jp~rt,,active
+XX,national,susakicity citybus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_SusakiCity_Citybus_vehicle,rt-ve-f-susakicity~citybus~jp~rt,,active
 XX,national,sylvia saint die fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sylvia-stdie-des-vosges-gtfs-rt-service-alert,rt-al-f-sylvia~saint~die~fr~rt,,active
 XX,national,sylvia saint die fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-sylvia-stdie-des-vosges-gtfs-rt-trip-update,rt-tr-f-sylvia~saint~die~fr~rt,,active
 XX,national,tac charleville fr rt,https://proxy.transport.data.gouv.fr/resource/fluo-tac-ardenne-gtfs-rt,rt-tr-f-tac~charleville~fr~rt,,active
