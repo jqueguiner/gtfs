@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "montclairstate nj rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://montclair.tripshot.com/v1/gtfs/realtime/tripUpdate",
+    "mdb_id": "rt-tr-f-montclairstate~nj~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

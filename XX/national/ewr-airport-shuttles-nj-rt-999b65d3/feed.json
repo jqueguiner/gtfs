@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ewr airport shuttles nj rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/ewrpanynj/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-ewr~airport~shuttles~nj~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

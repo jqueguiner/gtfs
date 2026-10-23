@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "route130connection nj rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://route130connection.tripshot.com/v1/gtfs/realtime/serviceAlert",
+    "mdb_id": "rt-al-f-route130connection~nj~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

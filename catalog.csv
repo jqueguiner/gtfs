@@ -28674,6 +28674,7 @@ XX,national,Emtf~Empresa~Municipal~De~Transportes~De~Fuenlabrada,https://gtfs-so
 XX,national,Emt~Tarragona,https://gtfs-source-feeds.transit.land/es-nap-1694.zip,f-emt~tarragona,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Erandio~Busa,https://gtfs-source-feeds.transit.land/es-nap-2066.zip,f-erandio~busa,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Etxebarribus,https://gtfs-source-feeds.transit.land/es-nap-2065.zip,f-etxebarribus,https://nap.transportes.gob.es/licencia-datos,active
+XX,national,Ewr~Airport~Shuttles~Nj,https://passio3.com/ewrpanynj/passioTransit/gtfs/google_transit.zip,f-ewr~airport~shuttles~nj,,active
 XX,national,Fairmont~Marion~County,https://fmcta.com/gtfs/FMCTA-GTFS.zip,f-fairmont~marion~county,,active
 XX,national,Fairmont~Marion~County,https://fmcta.com/gtfs/google_transit.zip,f-fairmont~marion~county,,active
 XX,national,Ferrocarriles~De~La~Generalitat~De~Cataluña,https://gtfs-source-feeds.transit.land/es-nap-1571.zip,f-ferrocarriles~de~la~generalitat~de~cataluña,https://nap.transportes.gob.es/licencia-datos,active
@@ -28716,6 +28717,7 @@ XX,national,Metro~De~Sevilla,https://gtfs-source-feeds.transit.land/es-nap-1583.
 XX,national,Metro~De~Valencia,https://gtfs-source-feeds.transit.land/es-nap-1168.zip,f-metro~de~valencia,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Metro~Malaga,https://gtfs-source-feeds.transit.land/es-nap-1497.zip,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-iidacity-3/files/feed.zip?uid=7721b837-c0ca-45dc-820a-470e0cee4582,f-minamishinshu~minamishinshu~iidacity~3,CC-BY-4.0,active
+XX,national,Montclairstate~Nj,https://montclair.tripshot.com/v1/gtfs.zip,f-montclairstate~nj,,active
 XX,national,Montferri,https://gtfs-source-feeds.transit.land/es-nap-2556.zip,f-montferri,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Movibus~Srl,https://usbshare.agenziatpl.it/index.php/s/jYyMt4YGDtdwfRp/download,f-movibus~srl,CC-BY-4.0,active
 XX,national,Naganocity~Noriai,https://api.gtfs-data.jp/v2/organizations/naganocity/feeds/noriai/files/feed.zip?uid=ea37c6fb-f2e7-48fb-a31b-3814c7a18f5c,f-naganocity~noriai,CC-BY-4.0,active
@@ -28745,6 +28747,8 @@ XX,national,Rideconnection~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gt
 XX,national,Rochester~Mn~Us~Paratransit,https://data.trilliumtransit.com/gtfs/rochester-mn-us/rochester-mn-us--flex-v2.zip,f-rochester~mn~us~paratransit,,active
 XX,national,Rodil,https://gtfs-source-feeds.transit.land/es-nap-2074.zip,f-rodil,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Roscommon~County~Transportation~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Roscommon_County_Transportation_Authority.zip,f-roscommon~county~transportation~authority~mi~us~flex,,active
+XX,national,Route130Connection~Nj,https://route130connection.tripshot.com/v1/gtfs.zip,f-route130connection~nj,,active
+XX,national,Rutgers~Nj,https://rutgers.tripshot.com/v1/gtfs.zip,f-rutgers~nj,,active
 XX,national,Sagalés~Bages~Transbages,https://gtfs-source-feeds.transit.land/es-nap-2202.zip,f-sagalés~bages~transbages,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Sagalés~Bages~Transports~Castellá,https://gtfs-source-feeds.transit.land/es-nap-2203.zip,f-sagalés~bages~transports~castellá,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Sagalés~Caldentey~Mallorca,https://gtfs-source-feeds.transit.land/es-nap-2174.zip,f-sagalés~caldentey~mallorca,https://nap.transportes.gob.es/licencia-datos,active
@@ -29133,6 +29137,9 @@ XX,national,espacecoteetbus seau bus fr rt,https://proxy.transport.data.gouv.fr/
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_ServiceAlerts.bin,rt-al-f-everetttransit~rt,,active
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_TripUpdates.bin,rt-tr-f-everetttransit~rt,,active
 XX,national,everetttransit rt,https://everett.mapstrat.com/current/gtfrealtime_VehiclePositions.bin,rt-ve-f-everetttransit~rt,,active
+XX,national,ewr airport shuttles nj rt,https://passio3.com/ewrpanynj/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-ewr~airport~shuttles~nj~rt,,active
+XX,national,ewr airport shuttles nj rt,https://passio3.com/ewrpanynj/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-ewr~airport~shuttles~nj~rt,,active
+XX,national,ewr airport shuttles nj rt,https://passio3.com/ewrpanynj/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-ewr~airport~shuttles~nj~rt,,active
 XX,national,exo reseaudetransportmetropolitain rt,https://exo.chrono-saeiv.com/api/opendata/v1/TRAINS/alert,rt-al-f-exo~reseaudetransportmetropolitain~rt,,active
 XX,national,exo reseaudetransportmetropolitain rt,https://exo.chrono-saeiv.com/api/opendata/v1/TRAINS/tripupdate,rt-tr-f-exo~reseaudetransportmetropolitain~rt,,active
 XX,national,exo reseaudetransportmetropolitain rt,https://exo.chrono-saeiv.com/api/opendata/v1/TRAINS/vehicleposition,rt-ve-f-exo~reseaudetransportmetropolitain~rt,,active
@@ -29478,6 +29485,9 @@ XX,national,mocacommunautdecommunescauxaustreberthe seau moca rt,https://proxy.t
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-modestoareaexpress~rt,,active
 XX,national,modestoareaexpress rt,https://stanrta.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-modestoareaexpress~rt,,active
+XX,national,montclairstate nj rt,https://montclair.tripshot.com/v1/gtfs/realtime/serviceAlert,rt-al-f-montclairstate~nj~rt,,active
+XX,national,montclairstate nj rt,https://montclair.tripshot.com/v1/gtfs/realtime/tripUpdate,rt-tr-f-montclairstate~nj~rt,,active
+XX,national,montclairstate nj rt,https://montclair.tripshot.com/v1/gtfs/realtime/vehiclePosition,rt-ve-f-montclairstate~nj~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-montebello~bus~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-montebello~bus~rt,,active
 XX,national,montebello bus rt,https://mbl.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-montebello~bus~rt,,active
@@ -29685,6 +29695,9 @@ XX,national,rosemead ca us rt,https://passio3.com/rosemead/passioTransit/gtfs/re
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/serviceAlert/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-al-f-rosevilletransit~rt,,active
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/tripUpdate/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-tr-f-rosevilletransit~rt,,active
 XX,national,rosevilletransit rt,https://cityofroseville.tripshot.com/v1/gtfs/realtime/vehiclePosition/CA558DDC-D7F2-4B48-9CAC-DEEA1134F820,rt-ve-f-rosevilletransit~rt,,active
+XX,national,route130connection nj rt,https://route130connection.tripshot.com/v1/gtfs/realtime/serviceAlert,rt-al-f-route130connection~nj~rt,,active
+XX,national,route130connection nj rt,https://route130connection.tripshot.com/v1/gtfs/realtime/tripUpdate,rt-tr-f-route130connection~nj~rt,,active
+XX,national,route130connection nj rt,https://route130connection.tripshot.com/v1/gtfs/realtime/vehiclePosition,rt-ve-f-route130connection~nj~rt,,active
 XX,national,rouyn noranda qc ca rt,https://zenbus.net/gtfs/rt/poll.proto?file=tu&dataset=rouynnoranda,rt-tr-f-rouyn~noranda~qc~ca~rt,,active
 XX,national,rouyn noranda qc ca rt,https://zenbus.net/gtfs/rt/poll.proto?file=vp&dataset=rouynnoranda,rt-ve-f-rouyn~noranda~qc~ca~rt,,active
 XX,national,rrta pa rt,https://busfinder.redrosetransit.com/Infopoint/gtfs-realtime.ashx?type=alert,rt-al-f-rrta~pa~rt,,active
@@ -29705,6 +29718,9 @@ XX,national,rtcsnv rt,https://api.goswift.ly/real-time/las-vegas-rtc/gtfs-rt-veh
 XX,national,rtcsnv rt alerts,https://api.goswift.ly/real-time/las-vegas-rtc/gtfs-rt-alerts/,rt-al-f-rtcsnv~rt~alerts,,active
 XX,national,ruralcommunity vt rt,https://api.goswift.ly/real-time/rct/gtfs-rt-trip-updates,rt-tr-f-ruralcommunity~vt~rt,,active
 XX,national,ruralcommunity vt rt,https://api.goswift.ly/real-time/rct/gtfs-rt-vehicle-positions,rt-ve-f-ruralcommunity~vt~rt,,active
+XX,national,rutgers nj rt,https://rutgers.tripshot.com/v1/gtfs/realtime/serviceAlert,rt-al-f-rutgers~nj~rt,,active
+XX,national,rutgers nj rt,https://rutgers.tripshot.com/v1/gtfs/realtime/tripUpdate,rt-tr-f-rutgers~nj~rt,,active
+XX,national,rutgers nj rt,https://rutgers.tripshot.com/v1/gtfs/realtime/vehiclePosition,rt-ve-f-rutgers~nj~rt,,active
 XX,national,sablons bus fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=SABLONS&dataFormat=gtfs-rt,rt-tr-f-sablons~bus~fr~rt,,active
 XX,national,sablons bus fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=SABLONS&dataFormat=gtfs-rt,rt-ve-f-sablons~bus~fr~rt,,active
 XX,national,saguenay qc ca rt,https://saguenay.tmix.se/gtfs-realtime/alerts.pb,rt-al-f-saguenay~qc~ca~rt,,active
