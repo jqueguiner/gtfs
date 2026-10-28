@@ -26150,6 +26150,7 @@ US,Adams County,Adams County,https://data.trilliumtransit.com/gtfs/adamscounty-c
 US,Adams County,Regional Transportation District,https://www.rtd-denver.com/files/gtfs/google_transit_flex.zip,mdb-2054,,active
 US,Agua Fria,Santa~Fe~Trails,https://santafenm.gov/media/files/public_works/gtfs.zip,f-santa~fe~trails,,active
 US,Aguanga,Tritontransit,https://rmp-wapps.ucsd.edu/Shuttles-GTFS/GTFS-rt/tritontransit-ca-us.zip,f-9muy-tritontransit,,active
+US,Aguanga,tritontransit rt,https://api.us.sparelabs.com/v1/fixedRoute/public/21c87bba-e136-41bc-ba9a-191bdb3e08e4/gtfs-rt/vehicle-positions.pb,rt-ve-f-9muy-tritontransit~rt-2,,active
 US,Aguanga,tritontransit rt,https://rmp-wapps.ucsd.edu/Shuttles-GTFS/GTFS-rt/Alerts.pb,rt-al-f-9muy-tritontransit~rt,,active
 US,Aguanga,tritontransit rt,https://rmp-wapps.ucsd.edu/Shuttles-GTFS/GTFS-rt/TripUpdates.pb,rt-tr-f-9muy-tritontransit~rt,,active
 US,Aguanga,tritontransit rt,https://rmp-wapps.ucsd.edu/Shuttles-GTFS/GTFS-rt/VehiclePositions.pb,rt-ve-f-9muy-tritontransit~rt,,active
@@ -26257,6 +26258,7 @@ US,Banks,Wotm~Wa~Us,https://data.trilliumtransit.com/gtfs/wotm-wa-us/wotm-wa-us.
 US,Banks,tillamook or us rt,https://api.goswift.ly/real-time/tillamook/gtfs-rt-trip-updates,rt-tr-f-c20-tillamook~or~us~rt,,active
 US,Banks,tillamook or us rt,https://api.goswift.ly/real-time/tillamook/gtfs-rt-vehicle-positions,rt-ve-f-c20-tillamook~or~us~rt,,active
 US,Banks,tillamook or us rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/tillamook-or-us/service_alerts.proto,rt-al-f-c20-tillamook~or~us~rt~alerts,,active
+US,Banks,tillamook or us rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/tillamookcounty-or-us/service_alerts.proto,rt-al-f-c20-tillamook~or~us~rt~alerts-2,,active
 US,Banks,yamhillcounty or us rt,https://ycta.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-c20-yamhillcounty~or~us~rt,,active
 US,Banks,yamhillcounty or us rt,https://ycta.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-c20-yamhillcounty~or~us~rt,,active
 US,Banks,yamhillcounty or us rt,https://ycta.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-c20-yamhillcounty~or~us~rt,,active
@@ -26567,6 +26569,9 @@ US,Country Knolls,cdta rt,http://gtfs.cdta.org:8080/gtfsrealtime/VehiclePosition
 US,Covelo,redding ca us rt,https://api.goswift.ly/real-time/redding/gtfs-rt-trip-updates,rt-tr-f-9r0-redding~ca~us~rt,,active
 US,Covelo,redding ca us rt,https://api.goswift.ly/real-time/redding/gtfs-rt-vehicle-positions,rt-ve-f-9r0-redding~ca~us~rt,,active
 US,Covelo,redding ca us rt alerts,http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/redding-ca-us/service_alerts.proto,rt-al-f-9r0-redding~ca~us~rt~alerts,,active
+US,Covelo,trinity ca us rt,https://api.goswift.ly/real-time/trinity-county/gtfs-rt-trip-updates,rt-tr-f-9r0-trinity~ca~us~rt,,active
+US,Covelo,trinity ca us rt,https://api.goswift.ly/real-time/trinity-county/gtfs-rt-vehicle-positions,rt-ve-f-9r0-trinity~ca~us~rt,,active
+US,Covelo,trinity ca us rt alerts,https://api.goswift.ly/real-time/trinity-county/gtfs-rt-alerts,rt-al-f-9r0-trinity~ca~us~rt~alerts,,active
 US,Covington,Transit Authority of Northern Kentucky (TANK),https://tank.rideralerts.com/InfoPoint/GTFS-Zip.ashx,mdb-2068,,active
 US,Cowlitz County,Lower Columbia CAP (Community Action Program),http://data.trilliumtransit.com/gtfs/lowercolumbiacap-wa-us/lowercolumbiacap-wa-us.zip,mdb-568,,active
 US,Cowlitz County,RiverCities Transit (RCT),http://data.trilliumtransit.com/gtfs/rivercitiestransit-wa-us/rivercitiestransit-wa-us.zip,mdb-259,,active
@@ -27903,6 +27908,7 @@ US,Tea,siouxareametro sd us rt,https://s3.amazonaws.com/etatransit.gtfs/siouxare
 US,Teller County,Cripple Creek Transportation,http://data.trilliumtransit.com/gtfs/cripplecreek-co-us/cripplecreek-co-us.zip,mdb-317,,active
 US,Teller County,Teller Senior Coalition Transit (TSC Transit),http://data.trilliumtransit.com/gtfs/tsctransit-co-us/tsctransit-co-us.zip,mdb-827,,active
 US,Terra Bella,Kerncounty~Ca~Us,https://data.trilliumtransit.com/gtfs/kerncounty-ca-us/kerncounty-ca-us.zip,f-9q7-kerncounty~ca~us,https://kerntransit.org/developers-gtfs/,active
+US,Terra Bella,getbus rt,https://cdn.simplifytransit.com/goldenempiretransit/alerts/service-alerts.pb,rt-al-f-9q7-getbus~rt-2,,active
 US,Terra Bella,getbus rt,https://get.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-9q7-getbus~rt,,active
 US,Terra Bella,getbus rt,https://get.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-9q7-getbus~rt,,active
 US,Terra Bella,getbus rt,https://get.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-9q7-getbus~rt,,active
@@ -27991,6 +27997,7 @@ US,Ventura County,Thousand Oaks Transit,https://data.trilliumtransit.com/gtfs/th
 US,View Park-Windsor Hills,Big Blue Bus,https://cleverapi.bigbluebus.com/gtfsrt/alerts,rt-al-f-bigbluebus~rt,,active
 US,View Park-Windsor Hills,Big Blue Bus,https://cleverapi.bigbluebus.com/gtfsrt/trips,rt-tr-f-bigbluebus~rt,,active
 US,View Park-Windsor Hills,Big Blue Bus,https://cleverapi.bigbluebus.com/gtfsrt/vehicles,rt-ve-f-bigbluebus~rt,,active
+US,View Park-Windsor Hills,Big Blue Bus,https://www.bigbluebus.com/gtfs/current.zip,f-9q5c-bigbluebus,http://gtfs.bigbluebus.com/terms-and-conditions,active
 US,View Park-Windsor Hills,Crownwest,https://crownwest.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-9q5c-crownwest,,active
 US,View Park-Windsor Hills,Culver CityBus,https://nextccbus.org/gtfsrt/alerts,rt-al-f-culvercitybus~rt,,active
 US,View Park-Windsor Hills,Culver CityBus,https://nextccbus.org/gtfsrt/trips,rt-tr-f-culvercitybus~rt,,active
@@ -28058,6 +28065,7 @@ US,Webster County,Dodger Area Rapid Transit,http://data.trilliumtransit.com/gtfs
 US,Weehawken,Utel~Uiuc~Intercity~Bus,https://github.com/UTEL-UIUC/intercity-bus-gtfs/raw/refs/heads/main/Merged_GTFS_Feed.zip,f-utel~uiuc~intercity~bus,https://github.com/UTEL-UIUC/intercity-bus-gtfs/blob/main/README.md,active
 US,Weld County,Greeley-Evans Transit (GET),https://data.trilliumtransit.com/gtfs/greeleyevans-co-us/greeleyevans-co-us.zip,mdb-2076,,active
 US,West Carson,Longbeachtransit,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14866/google_transit.zip,f-9q5b-longbeachtransit,https://ridelbt.com/gtfs-feed/,active
+US,West Carson,Longbeachtransit~Water~Taxi,https://drive.google.com/uc?export=download&id=1RLNOptEwnCI1HQNvoFIhE8ZWPQQGuYk9,f-9q5b-longbeachtransit~water~taxi,,active
 US,West Carson,Torrancetransit,https://transit.torranceca.gov/gtfs_feed,f-9q5b-torrancetransit,https://transit.torranceca.gov/home/showpublisheddocument/6052/636308096437370000,active
 US,West Clarkston-Highland,Lewiston Transit System and Asotin County Public Transportation Benefit Area (PTBA),https://data.trilliumtransit.com/gtfs/asotincounty-wa-us/asotincounty-wa-us.zip,mdb-2298,,active
 US,West Fargo,matbus rt,https://ridematbus.com/gtfs-rt/alerts,rt-al-f-cb74-matbus~rt,,active
@@ -28467,6 +28475,7 @@ US,national,Presidigo~Ca~Us,https://presidiobus.com/gtfs,f-presidigo~ca~us,,acti
 US,national,Pyramidlakepaiutetribe~Nv~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13379/plpt_nv_gtfs.zip,f-pyramidlakepaiutetribe~nv~us,,active
 US,national,Qline~Mi~Us,https://data.trilliumtransit.com/gtfs/qline-mi-us/qline-mi-us.zip,f-qline~mi~us,,active
 US,national,Qline~Mi~Us,https://s3.amazonaws.com/etatransit.gtfs/qline.etaspot.net/gtfs.zip,f-qline~mi~us,,active
+US,national,Quailtrail~Or~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11851/TheKlamathTribesGTFS.zip,f-quailtrail~or~us,,active
 US,national,Rapid~City~Sd~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13102/rts_corc_gtfs.zip,f-rapid~city~sd~us,,active
 US,national,Renosparksindiancolony~Nv~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13389/rsic_nv_gtfs.zip,f-renosparksindiancolony~nv~us,,active
 US,national,Rhtbus~Mn~Us,https://data.trilliumtransit.com/gtfs/rhtbus-mn-us/rhtbus-mn-us--flex-v2.zip,f-rhtbus~mn~us,,active
@@ -28732,6 +28741,7 @@ XX,national,Grahamtransit~Va~Us~Flex,https://data.trilliumtransit.com/gtfs/graha
 XX,national,Hitachinakacity~Hitachinaka~Smileaozorabus,https://api.gtfs-data.jp/v2/organizations/hitachinakacity/feeds/Hitachinaka-smileaozorabus/files/feed.zip?uid=012f3f3d-edd1-45d8-9e21-07263dc6dddd,f-hitachinakacity~hitachinaka~smileaozorabus,CC-BY-4.0,active
 XX,national,Hmrl~Hyderabad,https://drive.google.com/uc?export=download&id=1q8hqxY6WVZYYqd2LE8vNNQ4RjFPkfORJ,f-hmrl~hyderabad,https://hmrl.co.in/open-data.html,active
 XX,national,Hong~Kong~En,https://gtfs-source-feeds.transit.land/hong-kong-td.zip,f-hong~kong~en,https://data.gov.hk/en/terms-and-conditions,active
+XX,national,Hoodriver~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/hoodriver-or-us/hoodriver-or-us--flex-v2.zip,f-hoodriver~or~us~flex,,active
 XX,national,Humboldt~Transit~Authority~Dial~A~Ride~Flex,https://gtfs.dds.dot.ca.gov/gtfs_files/HumboldtTransitAuthorityDialARideFlex.zip,f-humboldt~transit~authority~dial~a~ride~flex,,active
 XX,national,Iosco~Transit~Corporation~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Iosco_Transit_Corporation.zip,f-iosco~transit~corporation~mi~us~flex,,active
 XX,national,Kalkaska~Public~Transit~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Kalkaska_Public_Transit_Authority.zip,f-kalkaska~public~transit~authority~mi~us~flex,,active
@@ -29444,6 +29454,7 @@ XX,national,las cruces road runner rt,https://passio3.com/roadrunner/passioTrans
 XX,national,lasvegasloop nv us rt,https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-trip-updates,rt-tr-f-lasvegasloop~nv~us~rt,,active
 XX,national,lasvegasloop nv us rt,https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-vehicle-positions,rt-ve-f-lasvegasloop~nv~us~rt,,active
 XX,national,lasvegasloop nv us rt alerts,https://api.goswift.ly/real-time/city-las-vegas/gtfs-rt-alerts,rt-al-f-lasvegasloop~nv~us~rt~alerts,,active
+XX,national,lax flyaway rt,https://laxtransportation.ridesystems.net/subscriptions/gtfsrt/vehicles.ashx,rt-ve-f-lax~flyaway~rt,,active
 XX,national,laxflyaway rt,https://laxflyaway.transloc.com/subscriptions/gtfsrt/vehicles.ashx,rt-ve-f-laxflyaway~rt,,active
 XX,national,le bus clermontois fr rt,https://api.oisemob.cityway.fr/dataflow/horaire-tc-tr/download?provider=LEBUS&dataFormat=gtfs-rt,rt-tr-f-le~bus~clermontois~fr~rt,,active
 XX,national,le bus clermontois fr rt,https://api.oisemob.cityway.fr/dataflow/vehicule-tc-tr/download?provider=LEBUS&dataFormat=gtfs-rt,rt-ve-f-le~bus~clermontois~fr~rt,,active
@@ -29791,6 +29802,8 @@ XX,national,sanclementetrolley ca us rt,https://passio3.com/sctrolley/passioTran
 XX,national,sanclementetrolley ca us rt,https://passio3.com/sctrolley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-sanclementetrolley~ca~us~rt,,active
 XX,national,sanjoaquinrtd rt,https://api.goswift.ly/real-time/san-joaquin/gtfs-rt-trip-updates,rt-tr-f-sanjoaquinrtd~rt,,active
 XX,national,sanjoaquinrtd rt,https://api.goswift.ly/real-time/san-joaquin/gtfs-rt-vehicle-positions,rt-ve-f-sanjoaquinrtd~rt,,active
+XX,national,sanjoaquinrtd rt,https://rtdgtfs.s3.us-west-1.amazonaws.com/TripUpdates.pb,rt-tr-f-sanjoaquinrtd~rt-2,,active
+XX,national,sanjoaquinrtd rt,https://rtdgtfs.s3.us-west-1.amazonaws.com/VehiclePositions.pb,rt-ve-f-sanjoaquinrtd~rt-2,,active
 XX,national,sanjuancapistrano ca us rt,https://passio3.com/scjtrolley/passioTransit/gtfs/realtime/serviceAlerts,rt-al-f-sanjuancapistrano~ca~us~rt,,active
 XX,national,sanjuancapistrano ca us rt,https://passio3.com/scjtrolley/passioTransit/gtfs/realtime/tripUpdates,rt-tr-f-sanjuancapistrano~ca~us~rt,,active
 XX,national,sanjuancapistrano ca us rt,https://passio3.com/scjtrolley/passioTransit/gtfs/realtime/vehiclePositions,rt-ve-f-sanjuancapistrano~ca~us~rt,,active

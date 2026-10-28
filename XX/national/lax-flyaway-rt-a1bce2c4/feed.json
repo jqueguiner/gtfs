@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "lax flyaway rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://laxtransportation.ridesystems.net/subscriptions/gtfsrt/vehicles.ashx",
+    "mdb_id": "rt-ve-f-lax~flyaway~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

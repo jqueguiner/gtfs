@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "trinity ca us rt alerts",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Covelo"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.goswift.ly/real-time/trinity-county/gtfs-rt-alerts",
+    "mdb_id": "rt-al-f-9r0-trinity~ca~us~rt~alerts",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

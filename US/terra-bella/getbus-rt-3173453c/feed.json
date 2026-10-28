@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "getbus rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Terra Bella"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cdn.simplifytransit.com/goldenempiretransit/alerts/service-alerts.pb",
+    "mdb_id": "rt-al-f-9q7-getbus~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

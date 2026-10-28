@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Big Blue Bus",
+    "country": "US",
+    "subdivision": "California",
+    "city": "View Park-Windsor Hills"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.bigbluebus.com/gtfs/current.zip",
+    "mdb_id": "f-9q5c-bigbluebus",
+    "license": "http://gtfs.bigbluebus.com/terms-and-conditions"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
