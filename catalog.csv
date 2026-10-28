@@ -23978,6 +23978,7 @@ JP,national,株式会社上信観光バス,https://api.odpt.org/api/v4/files/odp
 JP,national,株式会社名門大洋フェリー,https://api.odpt.org/api/v4/files/odpt/MeimonTaiyoFerry/AllLines.zip?date=current,f-meimontaiyoferry~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 JP,national,株式会社四万十交通,https://api.odpt.org/api/v4/files/odpt/ShimantoKotsu/Feederbus.zip?date=current,f-shimantokotsu~feederbus~jp,CC-BY-4.0,active
 JP,national,株式会社四万十交通,https://api.odpt.org/api/v4/files/odpt/ShimantoKotsu/Localbus.zip?date=current,f-shimantokotsu~localbus~jp,CC-BY-4.0,active
+JP,national,株式会社県交北部交通,https://api-public.odpt.org/api/v4/files/odpt/KenkoHokubuKotsu/Localbus.zip?date=current,f-kenkohokubukotsu~localbus~jp,CC-BY-4.0,active
 JP,national,株式会社群馬バス,https://api.odpt.org/api/v4/files/odpt/GunmaBus/AllLines.zip?date=current,f-gunmabus~alllines~jp,CC-BY-4.0,active
 JP,national,桐生市~おりひめバス,https://www.city.kiryu.lg.jp/_res/common/opendata/1014528/20230320_kiryu_gtfs.zip,f-桐生市~おりひめバス,CC-BY-4.0,active
 JP,national,横浜市交通局,https://api.odpt.org/api/v4/files/odpt/YokohamaMunicipal/Bus.zip?date=current,f-yokohamamunicipal~bus~jp,https://developer.odpt.org/terms/data_basic_license.html,active
@@ -26671,6 +26672,7 @@ US,Eagle County,ECO Transit,https://data.trilliumtransit.com/gtfs/ecotransit-co-
 US,Eagle County,Vail Transit,http://data.trilliumtransit.com/gtfs/vailtransit-co-us/vailtransit-co-us.zip,mdb-174,,active
 US,East Baton Rouge Parish,Capital Area Transit System (CATS),https://cats.rideralerts.com/InfoPoint/gtfs-zip.ashx,mdb-2065,,active
 US,East Brooklyn,Northeastern~Connecticut~Transit~District,https://hosted-gtfs-feeds.s3.amazonaws.com/NECTD/gtfs.zip,f-northeastern~connecticut~transit~district,,active
+US,East Chattanooga,Carta~Incline,https://www.gocarta.org/wp-content/uploads/routes-and-schedules/InclineGTFS.zip,f-dn5r-carta~incline,,active
 US,Eastpointe,Detroit Department of Transportation (DDOT),https://www.detroitmi.gov/Portals/0/docs/deptoftransportation/pdfs/ddot_gtfs.zip,mdb-464,,active
 US,Eau Claire,Eauclairetransit,https://gtfs.ect.cadavl.com/ECT/GTFS/GTFS_ECT.zip,f-9zyy-eauclairetransit,,active
 US,Ector County,Midland-Odessa Urban Transit District,http://nebula.wsimg.com/d1765d43782cc9d2d026c4925e8a189b?AccessKeyId=9E919CD400BCF69A0E80&disposition=0&alloworigin=1,ntd-60097,,active
@@ -27004,6 +27006,7 @@ US,Kitsap County,Kitsap Transit,http://pride.kitsaptransit.com/gtfs/google_trans
 US,Kitsap County,Washington State Ferries,https://business.wsdot.wa.gov/Transit/csv_files/wsf/google_transit.zip,mdb-283,,active
 US,"Kitsap County, WA",Kitsap Transit (OneBusAway Puget Sound),https://gtfs.sound.obaweb.org/prod/20_gtfs.zip,us-dork-kitsap-transit-onebusaway-puget-soun,,active
 US,Kittitas,Yakimatransit,https://yakima.connexionz.net/rtt/public/utility/gtfs.aspx,f-c26-yakimatransit,,active
+US,Kittitas,Yakimatransit~Route~11,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13648/yakima_wa_rt11_gtfs.zip,f-c26-yakimatransit~route~11,,active
 US,Kittitas,linktransit wa us rt,https://link.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=Alert,rt-al-f-c26-linktransit~wa~us~rt,,active
 US,Kittitas,linktransit wa us rt,https://link.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=TripUpdate,rt-tr-f-c26-linktransit~wa~us~rt,,active
 US,Kittitas,linktransit wa us rt,https://link.rideralerts.com/InfoPoint/GTFS-Realtime.ashx?Type=VehiclePosition,rt-ve-f-c26-linktransit~wa~us~rt,,active
@@ -27849,6 +27852,7 @@ US,Statesville,Davidson County Transportation System,https://dcridestracker.com/
 US,Statesville,Davidson County Transportation System,https://dcridestracker.com/gtfs-rt/vehiclepositions,rt-ve-f-dnq-dcrides~rt,,active
 US,Statesville,Gastoniatransit,https://www.arcgis.com/sharing/rest/content/items/d44c866e95c24bafb23c12d15b4db525/data,f-dnq-gastoniatransit,,active
 US,Statesville,Icats,https://gtfs.transitportal.org/CurrentGTFS/Iredell%20County_97/ICATS.zip,f-dnq-icats,,active
+US,Statesville,Salisburytransit,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13035/GTFSExportSource.zip,f-dnq-salisburytransit,,active
 US,Statesville,Salisburytransit,https://www.arcgis.com/sharing/rest/content/items/45036cb56c73428db025acd290e7beaa/data,f-dnq-salisburytransit,,active
 US,Statesville,charlotteareatransitsystem rt,https://gtfsrealtime.ridetransit.org/GTFSRealTime/Alerts/Alerts.pb,rt-al-f-dnq-charlotteareatransitsystem~rt,,active
 US,Statesville,charlotteareatransitsystem rt,https://gtfsrealtime.ridetransit.org/GTFSRealTime/TripUpdate/Tripupdates.pb,rt-tr-f-dnq-charlotteareatransitsystem~rt,,active
@@ -28151,7 +28155,18 @@ US,national,Area~10~Rural~Transit~In~Us,https://area10agency.org/wp-content/uplo
 US,national,Are~Lic~Shuttle~Ny~Us,https://arelic.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-are~lic~shuttle~ny~us,,active
 US,national,Are~Manhattan~Shuttle~Ny~Us,https://aclsnyc.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-are~manhattan~shuttle~ny~us,,active
 US,national,Arktexcouncilofgovernments~Tx~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13772/Ark-Tex_GTFSfeed_03.23.26.zip,f-arktexcouncilofgovernments~tx~us,,active
+US,national,Arrowheadatkinscounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadaitkincounty-mn-us/arrowheadaitkincounty-mn-us.zip,f-arrowheadatkinscounty~mn~us,,active
 US,national,Arrowheadatkinscounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadatkinscounty-mn-us/arrowheadatkinscounty-mn-us.zip,f-arrowheadatkinscounty~mn~us,,active
+US,national,Arrowheadcarltoncounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadcarltoncounty-mn-us/arrowheadcarltoncounty-mn-us.zip,f-arrowheadcarltoncounty~mn~us,,active
+US,national,Arrowheadchisagocounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadchisagocounty-mn-us/arrowheadchisagocounty-mn-us.zip,f-arrowheadchisagocounty~mn~us,,active
+US,national,Arrowheadcookcounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadcookcounty-mn-us/arrowheadcookcounty-mn-us.zip,f-arrowheadcookcounty~mn~us,,active
+US,national,Arrowheadisanticounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadisanticounty-mn-us/arrowheadisanticounty-mn-us.zip,f-arrowheadisanticounty~mn~us,,active
+US,national,Arrowheaditascacounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheaditascacounty-mn-us/arrowheaditascacounty-mn-us.zip,f-arrowheaditascacounty~mn~us,,active
+US,national,Arrowheadkoochichingcounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadkoochichingcounty-mn-us/arrowheadkoochichingcounty-mn-us.zip,f-arrowheadkoochichingcounty~mn~us,,active
+US,national,Arrowheadlakecounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadlakecounty-mn-us/arrowheadlakecounty-mn-us.zip,f-arrowheadlakecounty~mn~us,,active
+US,national,Arrowheadnorthstlouiscounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadnorthstlouiscounty-mn-us/arrowheadnorthstlouiscounty-mn-us.zip,f-arrowheadnorthstlouiscounty~mn~us,,active
+US,national,Arrowheadpinecounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadpinecounty-mn-us/arrowheadpinecounty-mn-us.zip,f-arrowheadpinecounty~mn~us,,active
+US,national,Arrowheadsouthstlouiscounty~Mn~Us,https://data.trilliumtransit.com/gtfs/arrowheadsouthstlouiscounty-mn-us/arrowheadsouthstlouiscounty-mn-us.zip,f-arrowheadsouthstlouiscounty~mn~us,,active
 US,national,Artesia~Ca~Us,https://gtfs.dds.dot.ca.gov/gtfs_files/ArtesiaGTFS.zip,f-artesia~ca~us,,active
 US,national,Arvin~Ca~Us,https://gtfs.remix.com/arvin.zip,f-arvin~ca~us,,active
 US,national,Ashtabula~County~Transportation~Oh~Us,https://www.acdjfs.org/_files/archives/0efb20_1e4a561665494d9f963657c8b883e85f.zip?dn=Ashtabula_GTFS_files.zip,f-ashtabula~county~transportation~oh~us,,active
@@ -28322,6 +28337,7 @@ US,national,Imperial~Valley~Transit~Ca~Us,https://schedule.ivtransit.com/gtfs/da
 US,national,Isleauhautboatservices~Me~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13053/isleauhaut_me_gtfs.zip,f-isleauhautboatservices~me~us,,active
 US,national,Jackson~Mi~Us,https://jacksonareatransit.ridesystems.net/Secure/Admin/Reports/GTFSDownload.aspx,f-jackson~mi~us,,active
 US,national,Jackson~Mi~Us,https://myride.mijata.org/gtfs/google_transit.zip,f-jackson~mi~us,,active
+US,national,Jackson~Tn~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11658/jta_tn_gtfs.zip,f-jackson~tn~us,,active
 US,national,Jalbertleasinginc~Nh~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13306/gtfs.zip,f-jalbertleasinginc~nh~us,,active
 US,national,Jhm~Md~Us,https://jhm.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jhm~md~us,,active
 US,national,Jumparoundcarson~Nv~Us,https://JumpAroundCarson.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-jumparoundcarson~nv~us,,active
@@ -28341,6 +28357,8 @@ US,national,Lasc~Ca~Us,https://LASC.transloc.com/Secure/Admin/Reports/GTFSDownlo
 US,national,Lasvegasloop~Nv~Us,https://data.trilliumtransit.com/gtfs/lasvegasloop-nv-us/lasvegasloop-nv-us.zip,f-lasvegasloop~nv~us,,active
 US,national,Lasvegasmonorail~Nv~Us,http://gtfs-source-feeds.transit.land/lasvegasmonorail-nv-us.zip,f-lasvegasmonorail~nv~us,https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md,active
 US,national,Lasvegasmonorail~Nv~Us,https://gtfs-source-feeds.transit.land/lasvegasmonorail-nv-us.zip,f-lasvegasmonorail~nv~us,https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/interline-gtfs-license.md,active
+US,national,Lathrop~Transit~Ca~Us,https://gtfs.remix.com/cityoflathrop.zip,f-lathrop~transit~ca~us,,active
+US,national,Lawrence~County~Transit~Oh~Us,https://ilcao.org/wp-content/uploads/2026/06/Fw_-Zip-File.zip,f-lawrence~county~transit~oh~us,,active
 US,national,Leechlakebandofojibwe~Mn~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13028/LLBO_GTFS.zip,f-leechlakebandofojibwe~mn~us,,active
 US,national,Leerussellcouncilofgovernments~Al~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13363/lrcog_al_gtfs.zip,f-leerussellcouncilofgovernments~al~us,,active
 US,national,Lewiston~Me~Us,https://www.avcog.org/DocumentCenter/View/5613,f-lewiston~me~us,https://www.avcog.org/887/Links-Resources,active
@@ -28458,6 +28476,7 @@ US,national,Ridethebay~Ri~Us,https://www.ridethebayri.com/RIDOT-GTFS.zip,f-ridet
 US,national,Riolimo~Co~Us,https://riolimo.transloc.com/Secure/Admin/Reports/GTFSDownload.aspx,f-riolimo~co~us,,active
 US,national,Rivervalleymetromasstransitdistrict~Il~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13076/Transit.zip,f-rivervalleymetromasstransitdistrict~il~us,,active
 US,national,Rochester~Mn~Us,https://gtfs.rpt.cadavl.com/RPT/GTFS/GTFS_RPT.zip,f-rochester~mn~us,,active
+US,national,Roswell~Nm~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13693/roswell_nm_gtfs.zip,f-roswell~nm~us,,active
 US,national,Ruskcountytransitcommission~Wi~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13162/RCTCGTFSfeedfinal.zip,f-ruskcountytransitcommission~wi~us,,active
 US,national,Saintpeter~Mn~Us,https://data.trilliumtransit.com/gtfs/saintpeter-mn-us/saintpeter-mn-us--flex-v2.zip,f-saintpeter~mn~us,,active
 US,national,Sancarlosapachetribe~Az~Us,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/12002/scat_gtfs.zip,f-sancarlosapachetribe~az~us,,active
@@ -28681,6 +28700,8 @@ XX,national,Bus~Urbano~De~Segovia,https://gtfs-source-feeds.transit.land/es-nap-
 XX,national,Cadillac~Wexford~Transportation~Authority~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Cadillac_Wexford_Transportation_Authority.zip,f-cadillac~wexford~transportation~authority~mi~us~flex,,active
 XX,national,Cercanías~Renfe,https://gtfs-source-feeds.transit.land/es-nap-1130.zip,f-cercanías~renfe,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Charlevoix~County~Transit~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Charlevoix_County.zip,f-charlevoix~county~transit~mi~us~flex,,active
+XX,national,Cityofconroe~Tx~Us~Fixed~Route,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11634/COCFixedRouteFY26.zip,f-cityofconroe~tx~us~fixed~route,,active
+XX,national,City~Of~Fort~Lauderdale~Community~Shuttles,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11865/CFL_FL_GTFS.zip,f-city~of~fort~lauderdale~community~shuttles,,active
 XX,national,City~Of~Lompoc~Transit,https://www.cityoflompoc.com/home/showpublisheddocument/29896,f-city~of~lompoc~transit,,active
 XX,national,Clare~County~Transit~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Clare_County_Transit.zip,f-clare~county~transit~mi~us~flex,,active
 XX,national,Clatsopcounty~Or~Us~Flex,https://oregon-gtfs.trilliumtransit.com/gtfs_data/clatsopcounty-or-us/clatsopcounty-or-us--flex-v2.zip,f-clatsopcounty~or~us~flex,,active
@@ -28733,6 +28754,7 @@ XX,national,Lurraldebus~Pesa,https://gtfs-source-feeds.transit.land/es-nap-1233.
 XX,national,Lurraldebus~Rentería,https://gtfs-source-feeds.transit.land/es-nap-1234.zip,f-lurraldebus~rentería,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Lurraldebus~Tbh~Interurbano~Tolosa~Buruntzaldea,https://gtfs-source-feeds.transit.land/es-nap-1608.zip,f-lurraldebus~tbh~interurbano~tolosa~buruntzaldea,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Lurraldebus~Zarautz,https://gtfs-source-feeds.transit.land/es-nap-1237.zip,f-lurraldebus~zarautz,https://nap.transportes.gob.es/licencia-datos,active
+XX,national,Macatawa~Area~Express,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/14960/MAXGTFS.zip,f-macatawa~area~express,https://catchamax.org/routes-schedules/,active
 XX,national,Macog,https://passio3.com/macog/passioTransit/gtfs/google_transit.zip,f-macog,,active
 XX,national,Manistee~County~Transportation~Mi~Us~Flex,https://miruralmobility.org/wp-content/uploads/2025/05/OneDrive_1_5-13-2025.zip#Manistee_County_Transportation.zip,f-manistee~county~transportation~mi~us~flex,,active
 XX,national,Mankato~Mn~Us~Flex,https://data.trilliumtransit.com/gtfs/mankato-mn-us/mankato-mn-us--flex-v2.zip,f-mankato~mn~us~flex,,active
@@ -28743,6 +28765,7 @@ XX,national,Metro~De~Granada,https://gtfs-source-feeds.transit.land/es-nap-1568.
 XX,national,Metro~De~Sevilla,https://gtfs-source-feeds.transit.land/es-nap-1583.zip,f-metro~de~sevilla,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Metro~De~Valencia,https://gtfs-source-feeds.transit.land/es-nap-1168.zip,f-metro~de~valencia,https://nap.transportes.gob.es/licencia-datos,active
 XX,national,Metro~Malaga,https://gtfs-source-feeds.transit.land/es-nap-1497.zip,f-metro~malaga,https://nap.transportes.gob.es/licencia-datos,active
+XX,national,Mid~Ohio~Valley~Transit~Authority,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13612/MOVTA_GTFS.zip,f-mid~ohio~valley~transit~authority,,active
 XX,national,Minamishinshu~Minamishinshu~Iidacity~3,https://api.gtfs-data.jp/v2/organizations/minamishinshu/feeds/Minamishinshu-iidacity-3/files/feed.zip?uid=7721b837-c0ca-45dc-820a-470e0cee4582,f-minamishinshu~minamishinshu~iidacity~3,CC-BY-4.0,active
 XX,national,Montclairstate~Nj,https://montclair.tripshot.com/v1/gtfs.zip,f-montclairstate~nj,,active
 XX,national,Montferri,https://gtfs-source-feeds.transit.land/es-nap-2556.zip,f-montferri,https://nap.transportes.gob.es/licencia-datos,active
@@ -29316,6 +29339,9 @@ XX,national,joshinhire alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/re
 XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_alert,rt-al-f-joshinkankobus~alllines~jp~rt,,active
 XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_trip_update,rt-tr-f-joshinkankobus~alllines~jp~rt,,active
 XX,national,joshinkankobus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_JoshinKankoBus_AllLines_vehicle,rt-ve-f-joshinkankobus~alllines~jp~rt,,active
+XX,national,juobus isesaki honjo line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_JuoBus_Isesaki_Honjo_Line_alert,rt-al-f-juobus~isesaki~honjo~line~jp~rt,,active
+XX,national,juobus isesaki honjo line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_JuoBus_Isesaki_Honjo_Line_trip_update,rt-tr-f-juobus~isesaki~honjo~line~jp~rt,,active
+XX,national,juobus isesaki honjo line jp rt,https://api.odpt.org/api/v4/gtfs/realtime/odpt_JuoBus_Isesaki_Honjo_Line_vehicle,rt-ve-f-juobus~isesaki~honjo~line~jp~rt,,active
 XX,national,kaetsunou kaetsunouhimi rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/TripUpdates.pb,rt-tr-f-kaetsunou~kaetsunouhimi~rt,,active
 XX,national,kaetsunou kaetsunouhimi rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno_himi/VehiclePositions.pb,rt-ve-f-kaetsunou~kaetsunouhimi~rt,,active
 XX,national,kaetsunou kaetsunouippan rt,https://gtfs-rt-files.buscatch.jp/toyama/kaetsuno/TripUpdates.pb,rt-tr-f-kaetsunou~kaetsunouippan~rt,,active
@@ -29357,6 +29383,9 @@ XX,national,keisei transitbus keiseitransitbus rt,https://s3-ajt-mobusta-gtfs.s3
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_alert,rt-al-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_trip_update,rt-tr-f-keiseitransitbus~alllines~jp~rt,,active
 XX,national,keiseitransitbus alllines jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KeiseiTransitBus_AllLines_vehicle,rt-ve-f-keiseitransitbus~alllines~jp~rt,,active
+XX,national,kenkohokubukotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KenkoHokubuKotsu_Localbus_alert,rt-al-f-kenkohokubukotsu~localbus~jp~rt,,active
+XX,national,kenkohokubukotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KenkoHokubuKotsu_Localbus_trip_update,rt-tr-f-kenkohokubukotsu~localbus~jp~rt,,active
+XX,national,kenkohokubukotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KenkoHokubuKotsu_Localbus_vehicle,rt-ve-f-kenkohokubukotsu~localbus~jp~rt,,active
 XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/alerts,rt-al-f-kenosha~wi~us~rt,,active
 XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/tripupdates,rt-tr-f-kenosha~wi~us~rt,,active
 XX,national,kenosha wi us rt,https://kenoshatransit.com/gtfs-rt/vehiclepositions,rt-ve-f-kenosha~wi~us~rt,,active

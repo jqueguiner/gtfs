@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kenkohokubukotsu localbus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KenkoHokubuKotsu_Localbus_trip_update",
+    "mdb_id": "rt-tr-f-kenkohokubukotsu~localbus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

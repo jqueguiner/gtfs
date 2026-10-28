@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "juobus isesaki honjo line jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.odpt.org/api/v4/gtfs/realtime/odpt_JuoBus_Isesaki_Honjo_Line_trip_update",
+    "mdb_id": "rt-tr-f-juobus~isesaki~honjo~line~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
