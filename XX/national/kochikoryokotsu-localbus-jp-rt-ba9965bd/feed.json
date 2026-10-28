@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "kochikoryokotsu localbus jp rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiKoryoKotsu_Localbus_alert",
+    "mdb_id": "rt-al-f-kochikoryokotsu~localbus~jp~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

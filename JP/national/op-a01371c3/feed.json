@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "高知高陵交通株式会社",
+    "country": "JP",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api-public.odpt.org/api/v4/files/odpt/KochiKoryoKotsu/Localbus.zip?date=current",
+    "mdb_id": "f-kochikoryokotsu~localbus~jp",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

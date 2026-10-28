@@ -24037,6 +24037,7 @@ JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odp
 JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Riverbus.zip?date=current,f-kochiseinantraffic~riverbus~jp,CC-BY-4.0,active
 JP,national,高知西南交通株式会社,https://api.odpt.org/api/v4/files/odpt/KochiSeinanTraffic/Shimaashibus.zip?date=current,f-kochiseinantraffic~shimaashibus~jp,CC-BY-4.0,active
 JP,national,高知観光コンベンション協会~My遊バス,https://www.pref.kochi.lg.jp/opendata/docs/bosai_anzen_machizukuri/file_contents/GTFSJP-KVCA_MY-Yubus.zip,f-高知観光コンベンション協会~my遊バス,CC-BY-4.0,active
+JP,national,高知高陵交通株式会社,https://api-public.odpt.org/api/v4/files/odpt/KochiKoryoKotsu/Localbus.zip?date=current,f-kochikoryokotsu~localbus~jp,CC-BY-4.0,active
 JP,national,鶴岡市~羽黒地域市営バス朝日地域市営バス,https://www.pref.yamagata.jp/documents/20978/tsuruoka_gtfs_1.zip,f-鶴岡市~羽黒地域市営バス朝日地域市営バス,CC-BY-4.0,active
 JP,national,鹿児島市船舶局,https://api.odpt.org/api/v4/files/odpt/KagoshimaCityMaritimeBureau/AllLines.zip?date=current,f-kagoshimacitymaritimebureau~alllines~jp,https://developer.odpt.org/terms/data_basic_license.html,active
 KE,Nairobi,Digital Matatus,https://www.digitalmatatus.com/data/GTFS_FEED_2015.zip,ke-dork-digital-matatus-3,,active
@@ -29421,6 +29422,9 @@ XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utili
 XX,national,kingsarearuraltransit rt,http://kart.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-kingsarearuraltransit~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_trip_update,rt-tr-f-kiyosecity~kiyobus~jp~rt,,active
 XX,national,kiyosecity kiyobus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KiyoseCity_KiyoBus_vehicle,rt-ve-f-kiyosecity~kiyobus~jp~rt,,active
+XX,national,kochikoryokotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiKoryoKotsu_Localbus_alert,rt-al-f-kochikoryokotsu~localbus~jp~rt,,active
+XX,national,kochikoryokotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiKoryoKotsu_Localbus_trip_update,rt-tr-f-kochikoryokotsu~localbus~jp~rt,,active
+XX,national,kochikoryokotsu localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiKoryoKotsu_Localbus_vehicle,rt-ve-f-kochikoryokotsu~localbus~jp~rt,,active
 XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_alert,rt-al-f-kochiseinantraffic~localbus~jp~rt,,active
 XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_trip_update,rt-tr-f-kochiseinantraffic~localbus~jp~rt,,active
 XX,national,kochiseinantraffic localbus jp rt,https://api-public.odpt.org/api/v4/gtfs/realtime/odpt_KochiSeinanTraffic_Localbus_vehicle,rt-ve-f-kochiseinantraffic~localbus~jp~rt,,active
