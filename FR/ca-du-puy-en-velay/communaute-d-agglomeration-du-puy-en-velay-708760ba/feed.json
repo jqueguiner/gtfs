@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté d'Agglomération du Puy-en-Velay",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA du Puy-en-Velay"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://geoportail.lepuyenvelay.fr/data/gtfs/scolaire/gtfs_scolaire.zip",
+    "mdb_id": "tdg-84271",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
