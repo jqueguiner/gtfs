@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "800430 DB RegioNetz Verkehrs GmbH Erzgebirgsbahn",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-ag-320ec1878b",
+    "license": "CC-BY-4.0 (gtfs.de / DELFI)"
+  },
+  "bbox": null,
+  "source": "gtfs.de#agency",
+  "status": "active"
+}

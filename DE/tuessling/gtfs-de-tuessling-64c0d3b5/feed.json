@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Tuessling",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Tuessling"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-059df001ad",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

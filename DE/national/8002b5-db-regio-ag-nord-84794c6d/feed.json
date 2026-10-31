@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "8002B5 DB Regio AG Nord",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-ag-cc2438f391",
+    "license": "CC-BY-4.0 (gtfs.de / DELFI)"
+  },
+  "bbox": null,
+  "source": "gtfs.de#agency",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "deu004 deu.mobil GmbH",
+    "country": "DE",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-ag-2397d10e9e",
+    "license": "CC-BY-4.0 (gtfs.de / DELFI)"
+  },
+  "bbox": null,
+  "source": "gtfs.de#agency",
+  "status": "active"
+}

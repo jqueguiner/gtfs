@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Lohr am Main",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Lohr am Main"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-c90a10b8d3",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

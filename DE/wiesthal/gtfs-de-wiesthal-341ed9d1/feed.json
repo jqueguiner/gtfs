@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Wiesthal",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Wiesthal"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-f40daeadf2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
