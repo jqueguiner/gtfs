@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "TOTOOM",
+    "country": "FR",
+    "subdivision": null,
+    "city": "Montpellier Méditerranée Métropole"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/lignes-totoom-1/20261101-104056/gtfs-totoom-reseau-complet-1-.zip",
+    "mdb_id": "tdg-84275",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}

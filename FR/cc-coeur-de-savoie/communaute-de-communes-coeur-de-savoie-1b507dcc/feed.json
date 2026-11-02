@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Communauté de communes Coeur de Savoie",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC Coeur de Savoie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/montbus-transport-bus-montmelian/20261030-124634/gtfs-montbus.zip",
+    "mdb_id": "tdg-84276",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
