@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "LOIRE FOREZ AGGLOMERATION",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CA Loire Forez Agglomération (LFA)"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://static.data.gouv.fr/resources/flux-gtfs-realtime-des-lignes-cars-region-loire-l19-et-l32-fournis-par-pysae/20260506-125234/lignes-l19-l32-11-2025.zip",
+    "mdb_id": "tdg-84281",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
