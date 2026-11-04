@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "ulstercountyareatransit rt",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Brinckerhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.peaktransit.com/gtfsrt/72/VehiclePosition.pb",
+    "mdb_id": "rt-ve-f-dr7-ulstercountyareatransit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

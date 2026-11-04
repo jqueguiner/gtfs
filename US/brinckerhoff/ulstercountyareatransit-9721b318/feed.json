@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Ulstercountyareatransit",
+    "country": "US",
+    "subdivision": "New York",
+    "city": "Brinckerhoff"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.peaktransit.com/staticgtfs/72/gtfs.zip",
+    "mdb_id": "f-dr7-ulstercountyareatransit",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

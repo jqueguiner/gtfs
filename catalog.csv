@@ -26598,11 +26598,14 @@ US,Brevard County,Space Coast Area Transit,https://321transit.com/wp-content/upl
 US,Bridgeport,Greater Bridgeport Transit,http://data.trilliumtransit.com/gtfs/gbt-ct-us/gbt-ct-us.zip,mdb-530,,active
 US,Bridgeport,Southeastern Pennsylvania Transportation Authority (SEPTA),https://www3.septa.org/developer/google_bus.zip,mdb-502,https://www3.septa.org/developer/,active
 US,Brinckerhoff,MTA Metro-North Railroad,https://api-endpoint.mta.info/Dataservice/mtagtfsfeeds/mnr%2Fgtfs-mnr,rt-tr-f-mta~nyc~rt~mnr,,active
+US,Brinckerhoff,Ulstercountyareatransit,https://data.peaktransit.com/staticgtfs/72/gtfs.zip,f-dr7-ulstercountyareatransit,,active
 US,Brinckerhoff,Westchestercountybee~Linesystem,https://westchester-gmv.itoworld.com/production/ito_westchester_county_gtfs.zip,f-dr7-westchestercountybee~linesystem,https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service,active
 US,Brinckerhoff,Westchestercountybee~Linesystem,https://westchester-win.gmv.com:8443/repository/gtfs-public/GTFS_GMV_WCDOT.zip,f-dr7-westchestercountybee~linesystem,https://planning.westchestercountyny.gov/transportation-planning/gfts-developers-transit-api/transit-api-service-terms-of-service,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/alert,rt-al-f-dr7-nywaterway~rt,,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/tripupdate,rt-tr-f-dr7-nywaterway~rt,,active
 US,Brinckerhoff,nywaterway rt,https://nywaterway.connexionz.net/rtt/public/utility/gtfsrealtime.aspx/vehicleposition,rt-ve-f-dr7-nywaterway~rt,,active
+US,Brinckerhoff,ulstercountyareatransit rt,https://data.peaktransit.com/gtfsrt/72/TripUpdate.pb,rt-tr-f-dr7-ulstercountyareatransit~rt,,active
+US,Brinckerhoff,ulstercountyareatransit rt,https://data.peaktransit.com/gtfsrt/72/VehiclePosition.pb,rt-ve-f-dr7-ulstercountyareatransit~rt,,active
 US,Bristol,Bristol Virginia Transit,http://data.trilliumtransit.com/gtfs/bristol-va-us/bristol-va-us.zip,mdb-238,,active
 US,Bristol,City of Bristol Tennessee,https://www.bristoltn.org/DocumentCenter/View/10245/btt-bristol-tn-us,ntd-40055,,active
 US,Broadmoor,San Francisco Municipal Transportation Agency,http://api.511.org/transit/datafeeds?operator_id=SF,f-9q8y-sfmta,https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf,active
