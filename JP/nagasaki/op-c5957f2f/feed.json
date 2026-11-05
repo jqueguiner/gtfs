@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "長崎県営バス",
+    "country": "JP",
+    "subdivision": "Nagasaki",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/keneibus/feeds/nagasaki-kenei-bus/files/feed.zip",
+    "mdb_id": "jp-keneibus-nagasaki-kenei-bus",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
