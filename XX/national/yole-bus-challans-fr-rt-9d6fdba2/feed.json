@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "yole bus challans fr rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.pysae.com/api/v4/groups/challans/gtfs-rt",
+    "mdb_id": "rt-ve-f-yole~bus~challans~fr~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}
