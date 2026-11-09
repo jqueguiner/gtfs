@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "escalon ca us rt",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Salida"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://webservices.umoiq.com/api/gtfs-rt/v1/trip-updates/escalon",
+    "mdb_id": "rt-tr-f-9q9y-escalon~ca~us~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

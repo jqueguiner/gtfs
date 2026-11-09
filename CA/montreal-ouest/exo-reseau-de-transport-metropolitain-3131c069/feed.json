@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - Réseau de transport métropolitain",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Montreal-Ouest"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/trains/google_transit.zip",
+    "mdb_id": "f-f25d-exo~reseaudetransportmetropolitain",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

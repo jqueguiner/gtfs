@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "transitservicesoffrederickcounty rt",
+    "country": "US",
+    "subdivision": "Maryland",
+    "city": "Middletown"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/frederick/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-dr0b-transitservicesoffrederickcounty~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

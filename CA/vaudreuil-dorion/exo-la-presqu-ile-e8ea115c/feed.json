@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - La Presqu'île",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Vaudreuil-Dorion"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/citpi/google_transit.zip",
+    "mdb_id": "f-f256-exo~citlapresquîle",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

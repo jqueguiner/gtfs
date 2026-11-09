@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - Sud-ouest",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Les Cedres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/citso/google_transit.zip",
+    "mdb_id": "f-f253-exo~citsud~ouest",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

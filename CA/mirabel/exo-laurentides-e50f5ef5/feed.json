@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - Laurentides",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Mirabel"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/citla/google_transit.zip",
+    "mdb_id": "f-f257-exo~citlaurentides",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

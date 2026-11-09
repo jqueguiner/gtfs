@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - L'Assomption",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Vercheres"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/mrclasso/google_transit.zip",
+    "mdb_id": "f-f25u-exo~mrcdelassomption",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

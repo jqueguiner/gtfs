@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "EXO - Sorel-Varennes",
+    "country": "CA",
+    "subdivision": "Quebec",
+    "city": "Lorraine"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://exo.quebec/uploads/ressources-telechargeables/a-propos/donnees-ouvertes/citsv/google_transit.zip",
+    "mdb_id": "f-f25-exo~citsorel~varennes",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
