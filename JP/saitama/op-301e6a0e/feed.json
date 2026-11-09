@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "三芳町",
+    "country": "JP",
+    "subdivision": "Saitama",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/miyoshitown/feeds/miyo-bus/files/feed.zip",
+    "mdb_id": "jp-miyoshitown-miyo-bus",
+    "license": "CC0 1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
