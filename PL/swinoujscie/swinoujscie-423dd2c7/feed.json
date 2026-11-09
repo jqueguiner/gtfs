@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Swinoujscie",
+    "country": "PL",
+    "subdivision": "West Pomeranian Voivodeship",
+    "city": "Swinoujscie"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.zbiorkom.live/api6-open/swinoujscie/gtfs/default",
+    "mdb_id": "f-u3d4-swinoujscie",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

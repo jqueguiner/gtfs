@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Lomza",
+    "country": "PL",
+    "subdivision": "Podlasie",
+    "city": "Lomza"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.mpklomza.pl/dane-otwarte/GTFS-static.zip",
+    "mdb_id": "f-u3rw-lomza",
+    "license": "https://www.mpklomza.pl/dane-otwarte"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
