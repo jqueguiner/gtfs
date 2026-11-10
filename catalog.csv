@@ -25527,7 +25527,10 @@ NZ,Tauranga City,BayBus,http://gtfs.dynamis.live/boprc/prod/boprc-nz.zip,mdb-107
 NZ,Waimakariri District,Metro Christchurch,https://apis.metroinfo.co.nz/rti/gtfs/v1/gtfs.zip,mdb-1313,https://www.metroinfo.co.nz/about/developer-resources#terms,active
 NZ,Wellington City,Metlink,https://static.opendata.metlink.org.nz/v1/gtfs/full.zip,mdb-1132,http://www.metlink.org.nz/customer-services/general-transit-feed-specification/,active
 NZ,national,Baybus~Nz,https://faqs.baybus.co.nz/hc/en-nz/article_attachments/9375750637839,f-baybus~nz,CC-BY-4.0,active
+NZ,national,Boprc~Nz,https://au-gtfs.remix.com/boprc-nz-public.zip,f-boprc~nz,CC-BY-4.0,active
 NZ,national,Boprc~Nz,https://data.trilliumtransit.com/gtfs/boprc-nz/boprc-nz.zip,f-boprc~nz,,active
+NZ,national,Hbrc~Nz,https://data.trilliumtransit.com/gtfs/hbrc-nz/hbrc-nz.zip,f-hbrc~nz,,active
+NZ,national,Nrc~Nz,https://au-gtfs.remix.com/nrc-nz-public.zip,f-nrc~nz,,active
 NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/servicealerts,rt-al-f-auckland~transport~rt,,active
 NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/tripupdates,rt-tr-f-auckland~transport~rt,,active
 NZ,national,auckland transport rt,https://api.at.govt.nz/realtime/legacy/vehiclelocations,rt-ve-f-auckland~transport~rt,,active
@@ -26727,6 +26730,7 @@ US,Bronx County,Metropolitan Transit Authority (MTA),http://web.mta.info/develop
 US,Bronx County,Metropolitan Transit Authority (MTA),http://web.mta.info/developers/data/nyct/bus/google_transit_queens.zip,mdb-520,http://web.mta.info/developers/developer-data-terms.html,active
 US,Bronx County,Metropolitan Transit Authority (MTA),http://web.mta.info/developers/data/nyct/subway/google_transit.zip,mdb-516,,active
 US,Bronx County,Metropolitan Transit Authority (MTA),http://web.mta.info/developers/files/google_transit_supplemented.zip,mdb-511,,active
+US,Brooklyn,Badgerbus,https://gtfs-source-feeds.transit.land/badger-bus-wi-us.zip,f-dp8-badgerbus,,active
 US,Broome County,Broome County Transit (B.C. Transit),https://www.gobroomecounty.com/sites/default/files/dept/transit/BCT_GTFS.zip,mdb-2079,https://www.gobroomecounty.com/transit/gtfs,active
 US,Broward County,Broward County Transit,https://www.broward.org/bct/documents/google_transit.zip,mdb-330,,active
 US,Broward County,South Florida Regional Transportation Authority,https://gtfs.tri-rail.com/gtfs.zip,tld-492,,active
@@ -28403,6 +28407,7 @@ US,Waterville,Concord~Coach~Lines,https://github.com/maxtkc/concord-coach-gtfs/r
 US,Waterville,Metro Transit,https://svc.metrotransit.org/mtgtfs/alerts.pb,rt-al-f-twin~cities~minnesota~rt,,active
 US,Waterville,Metro Transit,https://svc.metrotransit.org/mtgtfs/tripupdates.pb,rt-tr-f-twin~cities~minnesota~rt,,active
 US,Waterville,Metro Transit,https://svc.metrotransit.org/mtgtfs/vehiclepositions.pb,rt-ve-f-twin~cities~minnesota~rt,,active
+US,Waterville,Northfieldlines,https://gtfs-source-feeds.transit.land/northfield-lines-mn-us.zip,f-9zv-northfieldlines,,active
 US,Watkins Glen,Schuyler~County~Public~Transit,https://s3.amazonaws.com/datatools-511ny/public/Schuyler_County_Transit.zip,f-schuyler~county~public~transit,https://data.ny.gov/download/77gx-ii52/application/pdf,active
 US,Waunakee,City of Madison Metro Transit,https://metromap.cityofmadison.com/gtfsrt/alerts,rt-al-f-madison~rt,,active
 US,Waunakee,City of Madison Metro Transit,https://metromap.cityofmadison.com/gtfsrt/trips,rt-tr-f-madison~rt,,active

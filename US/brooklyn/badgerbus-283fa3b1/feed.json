@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Badgerbus",
+    "country": "US",
+    "subdivision": "Wisconsin",
+    "city": "Brooklyn"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/badger-bus-wi-us.zip",
+    "mdb_id": "f-dp8-badgerbus",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

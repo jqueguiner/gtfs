@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Northfieldlines",
+    "country": "US",
+    "subdivision": "Minnesota",
+    "city": "Waterville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs-source-feeds.transit.land/northfield-lines-mn-us.zip",
+    "mdb_id": "f-9zv-northfieldlines",
+    "license": null
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
