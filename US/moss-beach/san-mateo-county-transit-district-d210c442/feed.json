@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "San Mateo County Transit District",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Moss Beach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.samtrans.com/Assets/GTFS/samtrans/ST-GTFS.zip",
+    "mdb_id": "f-9q8-samtrans",
+    "license": "https://www.samtrans.com/developer"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Livermore Amador Valley Transit Authority (LAVTA)",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Livermore"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "http://38.48.64.101:81/GTFS-Static/lavta_gtfs.zip",
+    "mdb_id": "f-9q9q-wheelsbus",
+    "license": "http://www.wheelsbus.com/lavta-developer-license-agreement/"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

@@ -13063,6 +13063,7 @@ FI,national,"Finferries, Alandstrafiken, Rosita Oy, JS Ferryway Ltd Oy, Kuljetus
 FI,national,Fintraffic ,https://rata.digitraffic.fi/api/v1/trains/gtfs-passenger-stops.zip,fi-rata-digitraffic-fi-api-v1-trains-gtfs-passenger-stops-zip,CC BY 4.0,active
 FI,national,Fintraffic ,https://www.fintraffic.fi/sites/default/files/2026-04/gtfs_finavia.zip,fi-www-fintraffic-fi-sites-default-files-2026-04-gtfs-finavia-zip,CC BY 4.0,active
 FI,national,Fintraffic ,https://www.fintraffic.fi/sites/default/files/2026-04/gtfs_vallu_28042026.zip,fi-www-fintraffic-fi-sites-default-files-2026-04-gtfs-vallu-28042026-zip,CC BY 4.0,active
+FI,national,Fintraffic~Fi,https://mobility.mobility-database.fintraffic.fi/static/finland_gtfs.zip,f-fintraffic~fi,CC-BY-4.0,active
 FI,national,FlixBus Estonia OÜ,https://gtfs.dist.flix.tech/gtfs_generic_estonia.zip,fi-gtfs-dist-flix-tech-gtfs-generic-estonia-zip,,active
 FI,national,H. Ranta Oy,https://minfoapi.matkahuolto.fi/gtfs/344/gtfs.zip,fi-minfoapi-matkahuolto-fi-gtfs-344-gtfs-zip,,active
 FI,national,Hyvinkään Liikenne Oy,https://hyvinkaanliikenne.bussikaista.fi/sites/hyvinkaa/files/gtfs/export/palvelut/NAP_latest.zip,fi-hyvinkaanliikenne-bussikaista-fi-sites-hyvinkaa-files-gtfs-export-palvelut-nap-latest-zip,,active
@@ -20637,6 +20638,7 @@ GB,national,Cumfybus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-fi
 GB,national,D & E Coaches,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-074793bfad,OGL-UK-3.0,active
 GB,national,D & G Bus,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-204a4f5a4a,OGL-UK-3.0,active
 GB,national,D A Travel,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-714278b979,OGL-UK-3.0,active
+GB,national,D Belfitt Commercials,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-e540fde217,OGL-UK-3.0,active
 GB,national,D M K Motors,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-67eccf1c36,OGL-UK-3.0,active
 GB,national,DANSA,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-faea10cd75,OGL-UK-3.0,active
 GB,national,DGC Buses,https://data.bus-data.dft.gov.uk/timetable/download/gtfs-file/all/,gb-op-1595c0d0b9,OGL-UK-3.0,active
@@ -25430,6 +25432,7 @@ NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/tripUpdates.pb,rt-na
 NL,national,OVapi RT (Netherlands),https://gtfs.ovapi.nl/nl/vehiclePositions.pb,rt-nat-nl-ve,,active
 NL,national,Openbaar Vervoer Collectie Nederland,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-43baf05a03,CC0,active
 NL,national,Qbuzz,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-dbe6a40c86,CC0,active
+NL,national,R-net,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-ebcc1f163c,CC0,active
 NL,national,R-net NS,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-38ba698cf3,CC0,active
 NL,national,R-net Qbuzz,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-71cae56727,CC0,active
 NL,national,RET,https://gtfs.ovapi.nl/nl/gtfs-nl.zip,nl-op-fb902bc480,CC0,active
@@ -26870,6 +26873,7 @@ US,Clinton County,Lake Champlain Ferries,http://data.trilliumtransit.com/gtfs/lc
 US,Cloverdale,Laketransit~Ca~Us,https://data.trilliumtransit.com/gtfs/laketransit-ca-us/laketransit-ca-us.zip,f-9qb-laketransit~ca~us,,active
 US,Cloverdale,Mendocino~Ca~Us,https://data.trilliumtransit.com/gtfs/mendocino-ca-us/mendocino-ca-us.zip,f-9qb-mendocino~ca~us,,active
 US,Cloverdale,Sonoma County Transit,https://data.trilliumtransit.com/gtfs/sonomacounty-ca-us/sonomacounty-ca-us.zip,f-9qb-sonomacounty~ca~us,,active
+US,Cloverdale,Sonoma County Transit,https://ridesctransit.com/gtfs,f-9qb-sonomacounty~ca~us,,active
 US,Cloverdale,Sonoma Marin Area Rail Transit,https://data.trilliumtransit.com/gtfs/smart-ca-us/smart-ca-us.zip,f-smart~ca~us,,active
 US,Cloverdale,laketransit ca us rt,https://api.goswift.ly/real-time/lake-county/gtfs-rt-trip-updates,rt-tr-f-9qb-laketransit~ca~us~rt,,active
 US,Cloverdale,laketransit ca us rt,https://api.goswift.ly/real-time/lake-county/gtfs-rt-vehicle-positions,rt-ve-f-9qb-laketransit~ca~us~rt,,active
@@ -27479,6 +27483,7 @@ US,Little Rock,centralarkansastransitauthority rt,https://gtfsrt.rrmetro.cadavl.
 US,Little Rock,centralarkansastransitauthority rt,https://gtfsrt.rrmetro.cadavl.com/ProfilGtfsRt2_0RSProducer-RRMETRO/TripUpdate.pb,rt-tr-f-9ynm-centralarkansastransitauthority~rt,,active
 US,Little Rock,centralarkansastransitauthority rt,https://gtfsrt.rrmetro.cadavl.com/ProfilGtfsRt2_0RSProducer-RRMETRO/VehiclePosition.pb,rt-ve-f-9ynm-centralarkansastransitauthority~rt,,active
 US,Littlerock,Antelope~Valley~Transit~Authority,https://www.avta.com/userfiles/files/AVTA_GTFS.zip,f-antelope~valley~transit~authority,,active
+US,Livermore,Livermore Amador Valley Transit Authority (LAVTA),http://38.48.64.101:81/GTFS-Static/lavta_gtfs.zip,f-9q9q-wheelsbus,http://www.wheelsbus.com/lavta-developer-license-agreement/,active
 US,Lodi,GrapeLine,https://www.lodi.gov/DocumentCenter/View/2453/lodi_gtfs-ZIP,mdb-83,,active
 US,Logan County,Prairie Express Transit,http://data.trilliumtransit.com/gtfs/prairieexpress-co-us/prairieexpress-co-us.zip,mdb-801,,active
 US,Logan Township,Altoona Metro Transit,https://amtran.rideralerts.com/InfoPoint/gtfs-zip.ashx,tld-4669,,active
@@ -27710,6 +27715,7 @@ US,Moss Beach,San Mateo County Transit District,http://api.511.org/transit/dataf
 US,Moss Beach,San Mateo County Transit District,https://api.511.org/Transit/TripUpdates?agency=RG,rt-tr-f-sf~bay~area~rg~rt,,active
 US,Moss Beach,San Mateo County Transit District,https://api.511.org/Transit/VehiclePositions?agency=RG,rt-ve-f-sf~bay~area~rg~rt,,active
 US,Moss Beach,San Mateo County Transit District,https://api.511.org/Transit/servicealerts?agency=RG,rt-al-f-sf~bay~area~rg~rt,,active
+US,Moss Beach,San Mateo County Transit District,https://www.samtrans.com/Assets/GTFS/samtrans/ST-GTFS.zip,f-9q8-samtrans,https://www.samtrans.com/developer,active
 US,Mount Desert,Town of Cranberry Isles Commuter Ferry,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13051/CranberryIslesGTFS.zip,tld-7866,,active
 US,Mount Morris,Rochester Transit Service,https://scheduledata.rgrta.com/Regionals/Livingston.zip,mdb-3114,,active
 US,Mount Pleasant,Isabella~County~Transportation~Commission,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/11499/ICTC_MI_GTFS.zip,f-isabella~county~transportation~commission,,active
@@ -28481,6 +28487,7 @@ US,Wolf Creek,Cachevalleytransitdistrict,https://mycvtdbus.org/gtfs,f-9x2-cachev
 US,Woodburn,Woodburn Transit Service (WTS),https://oregon-gtfs.trilliumtransit.com/gtfs_data/woodburn-or-us/woodburn-or-us.zip,mdb-251,,active
 US,Woodford,Green Mountain Community Network (GMCN),http://data.trilliumtransit.com/gtfs/greenmtncn-vt-us/greenmtncn-vt-us.zip,mdb-539,,active
 US,Woodland,Fairfield and Suisun Transit,https://data.trilliumtransit.com/gtfs/fairfield-ca-us/fairfield-ca-us.zip,f-9qc-fairfield~ca~us,,active
+US,Woodland,Fairfield and Suisun Transit,https://rapid.nationalrtap.org/GTFSFileManagement/UserUploadFiles/13774/fairfield-ca-us.zip,f-9qc-fairfield~ca~us,,active
 US,Woodland,Napa Valley Transportation Authority (NVTA),http://api.511.org/transit/datafeeds?operator_id=VN,f-9qc-vinenapacounty,https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf,active
 US,Woodland,Placercountytransit,https://data.trilliumtransit.com/gtfs/placercounty-ca-us/placercounty-ca-us.zip,f-9qc-placercountytransit,,active
 US,Woodland,Placercountytransit,https://feed.actionfigure.ai/placer-county-transit.zip,f-9qc-placercountytransit,,active

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Fintraffic~Fi",
+    "country": "FI",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://mobility.mobility-database.fintraffic.fi/static/finland_gtfs.zip",
+    "mdb_id": "f-fintraffic~fi",
+    "license": "CC-BY-4.0"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
