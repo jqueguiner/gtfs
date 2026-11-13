@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Capitol Corridor Joint Powers Authority",
+    "country": "US",
+    "subdivision": "California",
+    "city": "Woodland"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://www.capitolcorridor.org/wp-content/uploads/2026/11/GTFS.zip",
+    "mdb_id": "f-9qc-capitolcorridor",
+    "license": "https://511.org/sites/default/files/pdfs/511_Data_Agreement_Final.pdf"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}

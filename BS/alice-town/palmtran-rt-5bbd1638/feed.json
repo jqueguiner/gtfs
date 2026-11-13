@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "palmtran rt",
+    "country": "BS",
+    "subdivision": "Bimini",
+    "city": "Alice Town"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://infopoint.palmtran.org/InfoPoint/GTFS-Realtime.ashx?Type=Alert",
+    "mdb_id": "rt-al-f-dhx-palmtran~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

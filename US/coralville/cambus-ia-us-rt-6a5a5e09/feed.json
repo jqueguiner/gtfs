@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "cambus ia us rt",
+    "country": "US",
+    "subdivision": "Iowa",
+    "city": "Coralville"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://cambus.syncromatics.com/gtfs-rt/alerts",
+    "mdb_id": "rt-al-f-9zqvh-cambus~ia~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

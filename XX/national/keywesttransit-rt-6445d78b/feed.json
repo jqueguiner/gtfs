@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "keywesttransit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://passio3.com/keywest/passioTransit/gtfs/realtime/serviceAlerts",
+    "mdb_id": "rt-al-f-keywesttransit~rt-2",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

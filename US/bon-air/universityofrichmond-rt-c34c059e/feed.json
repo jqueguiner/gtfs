@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "universityofrichmond rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Bon Air"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://richmond.transloc.com/subscriptions/gtfsrt/vehicles.ashx",
+    "mdb_id": "rt-ve-f-dq8v-universityofrichmond~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

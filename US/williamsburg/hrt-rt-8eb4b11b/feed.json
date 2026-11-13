@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "hrt rt",
+    "country": "US",
+    "subdivision": "Virginia",
+    "city": "Williamsburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.gohrt.com/gtfs-rt/VehiclePositions.pb",
+    "mdb_id": "rt-ve-f-dq9-hrt~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

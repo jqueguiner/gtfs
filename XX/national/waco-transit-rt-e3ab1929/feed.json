@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "waco transit rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://wacotransit.transloc.com/subscriptions/gtfsrt/vehicles.ashx",
+    "mdb_id": "rt-ve-f-waco~transit~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "citibus ia us rt",
+    "country": "XX",
+    "subdivision": null,
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://s3.amazonaws.com/etatransit.gtfs/citibuspublic.etaspot.net/alerts.pb",
+    "mdb_id": "rt-al-f-citibus~ia~us~rt",
+    "license": null
+  },
+  "bbox": null,
+  "source": "gtfs-rt",
+  "status": "active"
+}

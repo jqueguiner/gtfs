@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Greenwaypublictransportation",
+    "country": "US",
+    "subdivision": "North Carolina",
+    "city": "Northlakes"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://gtfs.transitportal.org/CurrentGTFS/Western%20Piedmont%20Regional%20Transportation%20Association_3/WPRTA.zip",
+    "mdb_id": "f-dnq5-greenwaypublictransportation",
+    "license": "https://github.com/transitland/gtfs-archives-not-hosted-elsewhere/blob/master/western-piedmont-regional-transit-authority-license.pdf"
+  },
+  "bbox": null,
+  "source": "transitland-atlas",
+  "status": "active"
+}
