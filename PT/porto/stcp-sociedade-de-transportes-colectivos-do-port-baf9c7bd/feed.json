@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "STCP — Sociedade de Transportes Colectivos do Porto",
+    "country": "PT",
+    "subdivision": "Porto",
+    "city": "Porto"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://dadosabertos.cm-porto.pt/dataset/71490e40-9e19-11f1-84ed-6abdb6d5cf34/resource/94ad1662-e033-4ccf-b63c-8806f124c3dc/download/gtfs_feed.zip",
+    "mdb_id": "pt-horarios-paragens-e-rotas-stcp",
+    "license": "CC0-1.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
