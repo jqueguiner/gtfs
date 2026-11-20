@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "株式会社神園交通",
+    "country": "JP",
+    "subdivision": "Kumamoto",
+    "city": null
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://api.gtfs-data.jp/v2/organizations/kamizonokotsu/feeds/SuperBanpeiyu/files/feed.zip",
+    "mdb_id": "jp-kamizonokotsu-superbanpeiyu",
+    "license": "CC BY 4.0"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
