@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Jettingen-Scheppach",
+    "country": "DE",
+    "subdivision": "Bavaria",
+    "city": "Jettingen-Scheppach"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-e7411742ae",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}

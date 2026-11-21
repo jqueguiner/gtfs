@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "gtfs.de — Siegburg",
+    "country": "DE",
+    "subdivision": "North Rhine-Westphalia",
+    "city": "Siegburg"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://download.gtfs.de/germany/free/latest.zip",
+    "mdb_id": "de-city-77cb1ef0a1",
+    "license": null
+  },
+  "bbox": null,
+  "source": "national#city",
+  "status": "active"
+}
