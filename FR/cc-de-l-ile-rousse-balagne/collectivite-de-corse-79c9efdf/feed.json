@@ -1,0 +1,17 @@
+{
+  "agency": {
+    "name": "Collectivité de Corse",
+    "country": "FR",
+    "subdivision": null,
+    "city": "CC de l'Ile-Rousse - Balagne"
+  },
+  "feed": {
+    "format": "gtfs",
+    "url": "https://data.corsica/data-fair/api/v1/datasets/gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-0/metadata-attachments/gtfs.zip",
+    "mdb_id": "tdg-84323",
+    "license": "lov2"
+  },
+  "bbox": null,
+  "source": "mobility-database",
+  "status": "active"
+}
